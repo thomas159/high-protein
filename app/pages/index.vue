@@ -18,12 +18,14 @@ const filteredRecipes = computed(() => {
     return title.includes(query) || description.includes(query)
   })
 })
+
+console.log('recipes',recipes)
 </script>
 
 <template>
   <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
     <NuxtLink 
-      v-for="recipe in filteredRecipes" 
+      v-for="recipe in recipes" 
       :key="recipe.path" 
       :to="recipe.path"
       class="bg-white rounded-3xl overflow-hidden shadow-sm hover:shadow-xl transition-all"
