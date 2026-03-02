@@ -6,6 +6,23 @@
 @import "../scss/theme-custom.scss";
 @import "../scss/colors.scss" layer(base);
 
+/* assets/css/tailwind.css */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Playfair+Display:wght@700&display=swap');
+
+/* Import Tailwind v4 and the Typography plugin */
+@import "tailwindcss";
+
+/* Define your custom theme variables here instead of tailwind.config.js */
+@theme {
+  --font-sans: 'Inter', ui-sans-serif, system-ui, sans-serif;
+  --font-serif: 'Playfair Display', ui-serif, Georgia, serif;
+}
+
+/* Global styles using standard CSS variables */
+body {
+  background-color: var(--color-slate-50);
+  color: var(--color-slate-800);
+}
 :root {
   --font-sans: "Be Vietnam Pro", sans-serif;
 
