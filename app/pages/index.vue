@@ -1,4 +1,7 @@
 <script setup>
+import Slider from '@/components/home/slider.vue'
+import MainContent from '@/components/home/mainContent.vue';
+import RecipeCard from '@/components/recipeCard.vue';
 // Query all recipes in your collection
 const { data: recipes } = await useAsyncData('home-recipes', () => {
   return queryCollection('recipes').all()
@@ -6,10 +9,11 @@ const { data: recipes } = await useAsyncData('home-recipes', () => {
 </script>
 
 <template>
-  <div class="min-h-screen bg-slate-50 font-sans text-slate-800">
+  <div class="min-h-screen">
 
     <main class="max-w-6xl mx-auto py-12 px-4">
-      
+      <Slider />
+      <MainContent />
       <div class="mb-12 text-center md:text-left flex flex-col md:flex-row justify-between items-end">
         <div>
           <h1 class="font-serif text-4xl md:text-5xl font-bold text-slate-900 mb-3">Trending This Week</h1>
@@ -19,40 +23,9 @@ const { data: recipes } = await useAsyncData('home-recipes', () => {
 
       <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
         
-        <template v-for="(recipe, index) in recipes" :key="recipe.path">
-          
-          <NuxtLink :to="recipe.path" class="group bg-white rounded-xl shadow-sm border border-slate-100 overflow-hidden hover:shadow-lg transition-all duration-300 flex flex-col hover:-translate-y-1">
-            
-            <div class="h-56 bg-slate-200 w-full group-hover:bg-slate-300 transition-colors flex items-center justify-center text-slate-400">
-              [ Image: {{ recipe.title }} ]
-            </div>
-            
-            <div class="p-6 flex-grow flex flex-col">
-              <div class="flex items-center justify-between mb-3">
-                <span class="text-xs font-bold text-orange-500 uppercase tracking-wider bg-orange-50 px-2 py-1 rounded">Dinner</span>
-                <span class="text-sm font-semibold text-slate-600">⭐ {{ recipe.rating }}</span>
-              </div>
-              
-              <h2 class="font-serif text-xl font-bold text-slate-900 mb-3 group-hover:text-orange-500 transition-colors line-clamp-2">
-                {{ recipe.title }}
-              </h2>
-              
-              <div class="mt-auto pt-4 flex items-center gap-4 text-xs font-medium text-slate-500 border-t border-slate-100">
-                <span>⏱️ {{ recipe.prepTime || '15 mins' }}</span>
-                <span>🍽️ {{ recipe.yield || '4 Servings' }}</span>
-              </div>
-            </div>
-          </NuxtLink>
-
-          <div v-if="index === 1" class="bg-slate-100 border border-dashed border-slate-300 rounded-xl flex flex-col items-center justify-center p-6 text-center text-slate-500 min-h-[350px]">
-            <span class="text-[10px] font-bold tracking-widest uppercase mb-2 text-slate-400">Advertisement</span>
-            <div class="w-full h-full bg-slate-200/50 flex flex-col items-center justify-center rounded">
-              <span class="font-bold mb-1">[ Native In-Feed Ad ]</span>
-              <span class="text-xs">Highly clickable block.</span>
-            </div>
-          </div>
-
-        </template>
+       <div v-for="(recipe) in recipes" :key="recipe.slug">
+        <RecipeCard :recipe />
+       </div>
 
       </div>
     </main>

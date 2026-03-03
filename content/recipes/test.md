@@ -1,5 +1,6 @@
 ---
 title: "Perfect Weeknight Garlic Butter Chicken"
+slug: "perfect-weeknight-garlic-butter-chicken"
 description: "A quick, protein-packed dinner where juicy chicken breasts are pan-seared and basted in a rich garlic butter sauce."
 image: "apple-crumble-vihtqyvihtqyviht_hzcdgk"
 category: "Dinner"
