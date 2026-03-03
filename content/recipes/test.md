@@ -1,27 +1,25 @@
 ---
 title: "Perfect Weeknight Garlic Butter Chicken"
+description: "A quick, protein-packed dinner where juicy chicken breasts are pan-seared and basted in a rich garlic butter sauce."
+category: "Dinner"
+tags: ["Keto", "High Protein", "Poultry"]
 rating: 4.8
 reviews: 1204
-prepTime: "15 mins"
-cookTime: "20 mins"
-yield: "4 Servings"
+prepTimeMins: 15
+cookTimeMins: 20
+servings: 4
+macros:
+  calories: 300
+  carbs: 2
+  protein: 45
+  fat: 15
+ingredients:
+  - { item: "Boneless, skinless chicken breasts", amount: 4, unit: "pieces" }
+  - { item: "Olive oil", amount: 1, unit: "tbsp" }
+  - { item: "Garlic, minced", amount: 4, unit: "cloves" }
+  - { item: "Unsalted butter, cubed", amount: 0.25, unit: "cup" }
+  - { item: "Salt and black pepper", amount: 1, unit: "to taste" }
 ---
-
-::ad-slot
-Highly viewable placement right before ingredients. (300x250)
-::
-
-## Ingredients
-
-- [ ] 4 boneless, skinless chicken breasts
-- [ ] Salt and fresh ground black pepper
-- [ ] 1 tablespoon olive oil
-- [ ] 4 cloves garlic, minced
-- [ ] 1/4 cup unsalted butter, cubed
-
-::ad-slot
-Catches users as they scroll to the instructions. (Responsive In-Content)
-::
 
 ## Instructions
 

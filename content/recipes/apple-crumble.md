@@ -1,6 +1,8 @@
 ---
+
 title: "Apple Crumble"
 description: "A 15-minute vegan dinner with big ginger and soy flavors."
+
 category: "Vegan"
 time: "15m"
 cost: "1.20"

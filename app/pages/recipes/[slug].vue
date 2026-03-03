@@ -1,113 +1,71 @@
 <script setup>
+import Hero from '@/components/recipes/Hero.vue'
 const route = useRoute()
 
 const { data: recipe } = await useAsyncData(route.path, () => {
   return queryCollection('recipes').path(route.path).first()
 })
+  useHead({
+  title: 'Vegetarian Protein Burger - KitchenPal',
+  meta: [
+    { name: 'description', content: 'A hearty, high-protein veggie burger packed with a spicy chickpea patty.' }
+  ]
+})
 </script>
 
 <template>
-  <main class="min-h-screen bg-slate-50 font-sans text-slate-800 pb-20">
-    
-    <template v-if="recipe">
+  <!-- Main Content -->
+  <main class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-8 md:py-12">
       
-      <div class="max-w-6xl mx-auto lg:mt-8 lg:px-4">
-        <div class="w-full h-[40vh] md:h-[50vh] lg:h-[60vh] lg:rounded-2xl overflow-hidden bg-slate-200 relative shadow-sm">
-          <img 
-            v-if="recipe.image" 
-            :src="recipe.image" 
-            :alt="recipe.title" 
-            class="w-full h-full object-cover"
-          />
-          <div class="absolute inset-0 bg-gradient-to-t from-black/30 to-transparent"></div>
-        </div>
-      </div>
+      <!-- Top Section: Hero -->
+      <Hero :recipe="recipe"/>
 
-      <div class="max-w-6xl mx-auto px-4 mt-8 lg:mt-12">
-        <div class="lg:grid lg:grid-cols-12 lg:gap-16">
-          
-          <article class="lg:col-span-8 bg-white p-6 md:p-10 rounded-2xl shadow-sm border border-slate-200">
+      <!-- Bottom Section: Recipe Content -->
+      <div class="grid grid-cols-1 lg:grid-cols-12 gap-10 mt-12 md:mt-16">
+        
+        <!-- Ingredients Sidebar -->
+     
+
+        <!-- Instructions Main Content -->
+        <div class="lg:col-span-8 lg:pl-6">
+          <div class="flex items-center justify-between mb-8 border-b border-slate-800 pb-4">
+            <h2 class="text-2xl font-bold text-white">How to make it</h2>
             
-            <header class="mb-8 border-b border-slate-100 pb-8">
-              <div class="flex items-center gap-3 text-xs font-bold text-orange-500 uppercase tracking-wider mb-4">
-                <span class="bg-orange-50 px-3 py-1.5 rounded-full">Dinner</span>
-                <span class="flex items-center gap-1 text-slate-500">
-                  <span class="text-orange-500">★</span> {{ recipe.rating }} ({{ recipe.reviews }} Reviews)
+            <!-- Utility Actions Contextually Placed -->
+            <div class="flex gap-2">
+              <button class="p-2 text-slate-400 hover:text-emerald-400 hover:bg-emerald-900/30 rounded-lg transition-colors" title="Print Recipe">
+                <svg class="w-5 h-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 6 2 18 2 18 9"/><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"/><rect width="12" height="8" x="6" y="14"/></svg>
+              </button>
+              <button class="p-2 text-slate-400 hover:text-emerald-400 hover:bg-emerald-900/30 rounded-lg transition-colors" title="Share Recipe">
+                <svg class="w-5 h-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><line x1="8.59" x2="15.42" y1="13.51" y2="17.49"/><line x1="15.41" x2="8.59" y1="6.51" y2="10.49"/></svg>
+              </button>
+            </div>
+          </div>
+
+          <div class="space-y-10">
+            <div v-for="(step, index) in instructions" :key="index" class="flex gap-6 group">
+              <div class="flex-shrink-0">
+                <span class="flex items-center justify-center w-8 h-8 rounded-full bg-slate-800 text-slate-300 font-bold text-sm border border-slate-700 group-hover:bg-emerald-900/40 group-hover:text-emerald-400 group-hover:border-emerald-700 transition-colors">
+                  {{ index + 1 }}
                 </span>
               </div>
-              
-              <h1 class="font-serif text-4xl md:text-5xl font-bold text-slate-900 leading-[1.15] mb-6">
-                {{ recipe.title }}
-              </h1>
-
-              <div class="flex flex-wrap gap-3">
-                <button class="bg-slate-900 text-white px-5 py-2.5 rounded-full text-sm font-semibold hover:bg-slate-800 transition-colors flex items-center gap-2">
-                  ↓ Jump to Recipe
-                </button>
-                <button class="bg-orange-100 text-orange-700 px-5 py-2.5 rounded-full text-sm font-semibold hover:bg-orange-200 transition-colors">
-                  🖨️ Print
-                </button>
-              </div>
-            </header>
-
-            <div class="grid grid-cols-3 gap-4 bg-slate-50 rounded-xl p-5 mb-10 border border-slate-100 divide-x divide-slate-200">
-              <div class="text-center">
-                <span class="block text-xs text-slate-500 uppercase font-semibold mb-1">Prep</span>
-                <span class="font-bold text-slate-900">{{ recipe.prepTime || '15 mins' }}</span>
-              </div>
-              <div class="text-center">
-                <span class="block text-xs text-slate-500 uppercase font-semibold mb-1">Cook</span>
-                <span class="font-bold text-slate-900">{{ recipe.cookTime || '20 mins' }}</span>
-              </div>
-              <div class="text-center">
-                <span class="block text-xs text-slate-500 uppercase font-semibold mb-1">Yields</span>
-                <span class="font-bold text-slate-900">{{ recipe.yield || '4 Servings' }}</span>
-              </div>
+              <p class="text-slate-300 leading-[1.7] text-lg pt-0.5">
+                <span v-html="step"></span>
+              </p>
             </div>
-
-            <div class="prose prose-slate prose-orange max-w-none 
-                        prose-headings:font-serif prose-headings:text-slate-900
-                        prose-h2:text-3xl prose-h2:border-b prose-h2:border-slate-100 prose-h2:pb-3 prose-h2:mt-12 prose-h2:mb-6
-                        prose-p:text-slate-600 prose-p:leading-relaxed prose-p:mb-6
-                        prose-ul:list-none prose-ul:pl-0 prose-ul:mb-8
-                        prose-li:flex prose-li:items-start prose-li:border-b prose-li:border-slate-50 prose-li:py-3 prose-li:text-slate-700
-                        prose-input:mr-4 prose-input:mt-1 prose-input:w-5 prose-input:h-5 prose-input:accent-orange-500 prose-input:cursor-pointer
-                        prose-ol:list-decimal prose-ol:pl-5 prose-ol:marker:text-orange-500 prose-ol:marker:font-bold">
-              <ContentRenderer :value="recipe" />
-            </div>
-
-          </article>
-
-          <aside class="hidden lg:block lg:col-span-4 relative">
-            <div class="sticky top-28 flex flex-col gap-8">
-              
-              <div class="bg-slate-100 border border-dashed border-slate-300 rounded-xl flex flex-col items-center justify-center p-6 text-center h-[600px] w-full">
-                <span class="text-[10px] font-bold tracking-widest uppercase mb-2 text-slate-400">Advertisement</span>
-                <div class="w-full h-full bg-slate-200/50 flex flex-col items-center justify-center rounded">
-                  <span class="font-bold mb-1 text-slate-500">[ Sticky Sidebar Ad ]</span>
-                  <span class="text-xs text-slate-400">300x600 Half Page Unit</span>
-                </div>
-              </div>
-
-              <div class="bg-white p-6 rounded-xl shadow-sm border border-slate-200 text-center">
-                <h3 class="font-serif font-bold text-xl mb-2 text-slate-900">Never miss a recipe!</h3>
-                <p class="text-sm text-slate-500 mb-4">Get our top weekly meals sent straight to your inbox.</p>
-                <input type="email" placeholder="Your email address" class="w-full bg-slate-50 border border-slate-200 rounded-lg px-4 py-2 mb-3 text-sm focus:outline-none focus:ring-2 focus:ring-orange-500">
-                <button class="w-full bg-orange-500 text-white font-bold py-2 rounded-lg text-sm hover:bg-orange-600 transition-colors">Subscribe</button>
-              </div>
-
-            </div>
-          </aside>
-
+          </div>
+          
+          <!-- Promo block within instructions flow -->
+          <div class="mt-12 bg-gradient-to-br from-emerald-950/40 to-green-900/20 rounded-2xl p-6 border border-emerald-800/40 flex flex-col sm:flex-row items-center justify-between gap-6 shadow-sm">
+             <div>
+                <h3 class="font-bold text-white text-lg mb-1">30 High-Protein Veg Recipes</h3>
+                <p class="text-slate-400 text-sm">Download our free PDF guide instantly.</p>
+             </div>
+             <button class="bg-emerald-600 hover:bg-emerald-500 text-white font-medium py-2.5 px-6 rounded-lg transition-colors whitespace-nowrap shadow-sm">
+                Download Guide
+             </button>
+          </div>
         </div>
       </div>
-    </template>
-
-    <template v-else>
-      <div class="text-center py-32">
-        <h1 class="text-3xl font-bold mb-4">Recipe Not Found</h1>
-        <NuxtLink to="/" class="text-orange-500 font-semibold hover:underline">← Back to Homepage</NuxtLink>
-      </div>
-    </template>
-  </main>
+    </main>
 </template>
