@@ -1,26 +1,21 @@
-<script setup lang="ts">
-import type { Social } from '~~/types/nuxtTypes';
-
-const { app } = useAppConfig()
-const github = app.socials[0] as Social
-</script>
 <template>
-  <div class="ring-1 ring-black/5 sticky top-0">
-    <div class="container py-4 flex justify-between items-center">
-      <NBLogo with-title class="flex-1" />
-      <div>
-        <NBNavigation />
+  <header class="bg-white border-b border-slate-200 py-6 px-4 sticky top-0 z-50">
+    <div class="max-w-6xl mx-auto flex justify-between items-center">
+      
+      <NuxtLink to="/" class="font-serif text-2xl font-bold text-slate-900 tracking-tight">
+        <span class="text-orange-500">HotRecipes</span>
+      </NuxtLink>
+      
+      <div class="hidden md:block w-72">
+        <input 
+          type="text" 
+          placeholder="Search recipes..." 
+          class="w-full bg-slate-100 border-none rounded-full px-5 py-2.5 text-sm focus:ring-2 focus:ring-orange-500 outline-none transition-shadow text-slate-800"
+        >
       </div>
-      <div class="flex flex-1 justify-end items-center space-x-2"> 
-        <NuxtLinkLocale to="auth-login">
-          <UButton variant="outline">{{ $t('nav.login') }}</UButton>
-        </NuxtLinkLocale>
-        <SelectLanguage />
-        <NBColorMode />
-        <UButton :to="github.href" variant="ghost" color="neutral" class="text-xl">
-          <UIcon :name="github.icon" size="22" class="text-xl"/>
-        </UButton>
-      </div>
+      
+      <button class="md:hidden text-2xl text-slate-800">☰</button>
+      
     </div>
-  </div>
+  </header>
 </template>

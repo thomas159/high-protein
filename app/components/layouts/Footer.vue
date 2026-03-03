@@ -1,23 +1,10 @@
 <template>
-    <footer class="footer w-full">
-        <div class="container">
-            <span>&copy; {{ currentYear }} Devaloka. All rights reserved.</span>
-        </div>
+    <footer class="bg-slate-900 text-slate-400 py-12 text-center mt-auto">
+      <div class="max-w-6xl mx-auto px-4">
+        <p class="font-serif text-2xl text-white font-bold mb-4">
+          HotRecipes<span class="text-orange-500">.</span>
+        </p>
+        <p class="text-sm">© {{ new Date().getFullYear() }} HotRecipes. All rights reserved.</p>
+      </div>
     </footer>
 </template>
-
-<script setup lang="ts">
-
-const currentYear = new Date().getFullYear()
-</script>
-
-<style scoped>
-.footer {
-    padding: 1rem 0;
-    text-align: center;
-}
-.container {
-    max-width: 1200px;
-    margin: 0 auto;
-}
-</style>
