@@ -1,6 +1,5 @@
 <script setup lang="ts">
-import Breadcrumbs from '@/components/recipes/Breadcrumbs.vue';
-import Tags from '@/components/recipes/Tags.vue';
+import Img from '@/components/Img.vue'
 
 export interface Recipe {
   title: string;
@@ -36,7 +35,7 @@ const props = defineProps<{
   <NuxtLink :to="props.recipe.slug" class="group bg-white rounded-xl shadow-sm border border-slate-100 overflow-hidden hover:shadow-lg transition-all duration-300 flex flex-col hover:-translate-y-1">
     
     <div class="h-56 bg-slate-200 w-full group-hover:bg-slate-300 transition-colors flex items-center justify-center text-slate-400">
-      [ Image: {{ props.recipe.title }} ]
+      <Img :src="props.recipe.image" />
     </div>
     
     <div class="p-6 flex-grow flex flex-col">
