@@ -1,4 +1,47 @@
-@layer utilities {
+@theme {
+    /* 1. Tell Tailwind to generate bg-background, text-foreground, border-border, etc. */
+    --color-background: var(--background);
+    --color-foreground: var(--foreground);
+    
+    --color-card: var(--card);
+    --color-card-foreground: var(--card-foreground);
+    
+    --color-popover: var(--popover);
+    --color-popover-foreground: var(--popover-foreground);
+    
+    --color-primary: var(--primary);
+    --color-primary-foreground: var(--primary-foreground);
+    
+    --color-secondary: var(--secondary);
+    --color-secondary-foreground: var(--secondary-foreground);
+    
+    --color-muted: var(--muted);
+    --color-muted-foreground: var(--muted-foreground);
+    
+    --color-accent: var(--accent);
+    --color-accent-foreground: var(--accent-foreground);
+    
+    --color-destructive: var(--destructive);
+    --color-destructive-foreground: var(--destructive-foreground);
+    
+    --color-border: var(--border);
+    --color-input: var(--input);
+    --color-ring: var(--ring);
+  
+    /* Your custom greens remain here */
+    --color-green-50: #f0f9f4;
+    --color-green-100: #d5f2e3;
+    --color-green-200: #aee6ca;
+    --color-green-300: #7edbb2;
+    --color-green-400: #54ce9a;
+    --color-green-500: #42b983;
+    --color-green-600: #379f6f;
+    --color-green-700: #2b865c;
+    --color-green-800: #216c49;
+    --color-green-900: #12392f;
+  }
+  
+  @layer utilities {
     .container {
         max-width: 1336px;
         margin: auto;
@@ -7,55 +50,46 @@
     [type="button"] {
         cursor: pointer;
     }
-
+  
     .router-link-active, .hash-active {
-        color: var(--ui-text-highlighted);
+        color: var(--color-green-500);
     }
     
-    /* Srcollbar styles */
-
     * {
         scroll-behavior: smooth;
     }
+  
     ::-webkit-scrollbar {
         width: 2px;
         height: 2px;
     }
-
+  
     ::-webkit-scrollbar-track {
         background: transparent;
     }
-
+  
     ::-webkit-scrollbar-thumb {
-        background: theme('colors.neutral.500');
+        background: var(--color-neutral-500);
         border-radius: 3px;
         transition: background 0.2s ease;
-
-        :hover {
-            background: theme('colors.neutral.500');
+  
+        &:hover {
+            background: var(--color-neutral-500);
         }
-
-        :active {
-            background: theme('colors.neutral.300');
+  
+        &:active {
+            background: var(--color-neutral-300);
         }
     }
-    .dark {
-        ::-webkit-scrollbar {
-            width: 2px;
-            height: 2px;
-        }
-
-        ::-webkit-scrollbar-track {
-            background: transparent;
-        }
-
+  
+    html[data-theme="dark"] {
         ::-webkit-scrollbar-thumb {
-            background: theme('colors.gray.500');
+            background: var(--color-neutral-500);
             border-radius: 3px;
-
-            :hover {
-                background: theme('colors.gray.300');
+  
+            &:hover {
+                background: var(--color-neutral-300);
             }
         }
     }
-}
+  }

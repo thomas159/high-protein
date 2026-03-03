@@ -18,7 +18,8 @@ export default defineNuxtConfig({
     '@nuxt/test-utils/module'
   ],
   colorMode: {
-    preference: 'dark',
+    dataValue: 'theme', // This is the magic line! It applies data-theme="dark" to <html>
+    classSuffix: '',    // Cleans up the default "-mode" suffix 
   },
   // image: {
   //   domains: ['nuxt-boilerplate-starter.vercel.app'],
