@@ -7,6 +7,7 @@ export default defineContentConfig({
       source: 'recipes/**',
       schema: z.object({
         title: z.string(),
+        slug: z.string(),
         description: z.string(),
         image: z.string().optional(), // Made optional so it doesn't break if a recipe lacks an image
         category: z.string(),

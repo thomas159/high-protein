@@ -79,6 +79,8 @@ export default defineNuxtConfig({
   fonts: {
     families: [
       { name: 'Be Vietnam Pro', provider: 'google' },
+      { name: 'Montserrat', provider: 'google' },
+      { name: 'Poppins', provider: 'google', weights: [400, 700] }
     ],
     defaults: {
       weights: [400, 500, 600, 700, 800, 900],

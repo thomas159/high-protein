@@ -32,7 +32,7 @@ const props = defineProps<{
 </script>
 
 <template>
-  <NuxtLink :to="props.recipe.slug" class="group bg-white rounded-xl shadow-sm border border-slate-100 overflow-hidden hover:shadow-lg transition-all duration-300 flex flex-col hover:-translate-y-1">
+  <NuxtLink :to="`/recipes/${props.recipe.slug}`" class="group bg-white rounded-xl shadow-sm border border-slate-100 overflow-hidden hover:shadow-lg transition-all duration-300 flex flex-col hover:-translate-y-1">
     
     <div class="h-56 bg-slate-200 w-full group-hover:bg-slate-300 transition-colors flex items-center justify-center text-slate-400">
       <Img :src="props.recipe.image" />
