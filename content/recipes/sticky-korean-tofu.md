@@ -1,19 +1,31 @@
 ---
-title: "Sticky Korean Tofu"
-description: "A 15-minute vegan dinner with big ginger and soy flavors."
-category: "Vegan"
-time: "15m"
-cost: "1.20"
-rating: 4.9
-image: "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/2809/live/9afd8240-14d9-11f1-b106-cbf633dcab7a.jpg"
+title: "Sticky korean tofu"
+slug: "Sticky-korean-tofu"
+description: "A quick, protein-packed dinner where juicy chicken breasts are pan-seared and basted in a rich garlic butter sauce."
+image: "apple-crumble-vihtqyvihtqyviht_hzcdgk"
+category: "Dinner"
+tags: ["Keto", "High Protein", "Poultry"]
+rating: 4.8
+reviews: 1204
+prepTimeMins: 15
+cookTimeMins: 20
+servings: 4
+macros:
+  calories: 300
+  carbs: 2
+  protein: 45
+  fat: 15
 ingredients:
-  - { item: "Firm Tofu", amount: "280g" }
-  - { item: "Gochujang", amount: "2 tbsp" }
-  - { item: "Soy Sauce", amount: "1 tbsp" }
+  - { item: "Boneless, skinless chicken breasts", amount: 4, unit: "pieces" }
+  - { item: "Olive oil", amount: 1, unit: "tbsp" }
+  - { item: "Garlic, minced", amount: 4, unit: "cloves" }
+  - { item: "Unsalted butter, cubed", amount: 0.25, unit: "cup" }
+  - { item: "Salt and black pepper", amount: 1, unit: "to taste" }
 ---
 
-## Method
+## Instructions
 
-1. **Prep the Tofu**: Press the tofu to remove excess water, then cube into 1-inch pieces.
-2. **Fry**: Toss in a little cornstarch and fry in a pan until golden and crispy.
-3. **Glaze**: Whisk the sauce ingredients together and pour over the tofu. Simmer until sticky.
+1. Season the chicken breasts generously with salt and pepper on both sides.
+2. Heat olive oil in a large skillet over medium-high heat. Add the chicken and cook for 5-7 minutes per side, or until golden brown and cooked through (internal temperature reaches 165°F).
+3. Reduce heat to low. Add the butter and minced garlic to the skillet. Let the butter melt, constantly basting the chicken with the garlic butter for about 1-2 minutes until fragrant.
+4. Remove from heat, garnish with fresh parsley if desired, and serve immediately with the pan juices spooned over the top.

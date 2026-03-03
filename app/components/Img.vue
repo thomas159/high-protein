@@ -16,6 +16,5 @@ const props = defineProps<{
       ? `https://res.cloudinary.com/mealse-co-uk/image/upload/f_auto,q_auto/${props.src}` 
       : 'https://images.unsplash.com/photo-1520072959219-c595dc870360?auto=format&fit=crop&q=80&w=1000'"
     :alt="props.alt || 'Recipe Image'"
-    class="w-full h-full object-cover rounded-3xl"
-  />
+    class="w-full h-full object-cover">
 </template>
