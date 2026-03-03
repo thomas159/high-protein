@@ -48,11 +48,6 @@ const props = defineProps<{
     </div>
     
     <div class="p-5 flex-grow flex flex-col">
-      <div class="flex items-center gap-1 mb-2">
-        <span class="text-amber-400 text-sm">★</span>
-        <span class="font-body text-xs font-bold text-foreground">{{ props.recipe.rating }}</span>
-        <span class="font-body text-xs text-muted-foreground">({{ props.recipe.reviews }})</span>
-      </div>
       
       <h2 class="font-display text-lg font-extrabold text-foreground mb-2 group-hover:text-green-600 dark:group-hover:text-green-400 transition-colors line-clamp-2 leading-tight">
         {{ props.recipe.title }}
