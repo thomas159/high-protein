@@ -10,10 +10,3 @@
     <LayoutsFooter />
   </div>
 </template>
-
-<!-- <style>
-/* Added global styling for dark mode background */
-body {
-  @apply antialiased bg-slate-950 text-slate-200;
-}
-</style> -->
