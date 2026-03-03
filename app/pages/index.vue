@@ -21,13 +21,16 @@ const { data: recipes } = await useAsyncData('home-recipes', () => {
         </div>
       </div>
 
-      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-        
-       <div v-for="(recipe) in recipes" :key="recipe.slug">
-        <RecipeCard :recipe />
-       </div>
-
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 items-stretch">
+        <div 
+          v-for="recipe in recipes" 
+          :key="recipe.slug" 
+          class="flex flex-col"
+        >
+          <RecipeCard :recipe="recipe" class="h-full" />
+        </div>
       </div>
+      
     </main>
   </div>
 </template>
