@@ -17,7 +17,7 @@ useHead({
 </script>
 
 <template>
-  <main class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-8 md:py-12">
+  <main class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
       
       <Hero :recipe="recipe" />
 
@@ -38,16 +38,6 @@ useHead({
 
           <div class="markdown-recipe-body">
             <ContentRenderer v-if="recipe" :value="recipe" />
-          </div>
-          
-          <div class="mt-12 bg-muted rounded-2xl p-6 border border-border flex flex-col sm:flex-row items-center justify-between gap-6 shadow-sm">
-             <div>
-                <h3 class="font-bold text-foreground text-lg mb-1">30 High-Protein Veg Recipes</h3>
-                <p class="text-muted-foreground text-sm">Download our free PDF guide instantly.</p>
-             </div>
-             <button class="bg-green-600 hover:bg-green-500 text-white font-medium py-2.5 px-6 rounded-lg transition-colors whitespace-nowrap shadow-sm">
-                Download Guide
-             </button>
           </div>
         </div>
       </div>
