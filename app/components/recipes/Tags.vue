@@ -3,7 +3,7 @@ export interface Recipe {
   title: string;
   description: string;
   image?: string; 
-  category: string;
+  categories: string;
   tags: string[];
   rating: number;
   reviews: number;
@@ -41,7 +41,7 @@ const props = defineProps<{
     </span>
     
     <span class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-medium bg-secondary text-foreground border border-border">
-        {{ props.recipe.category }}
+        {{ props.recipe.ies }}
     </span>
   </div>
 </template>

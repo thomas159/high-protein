@@ -3,7 +3,7 @@ title: "Apple Crumble"
 slug: "apple-crumble"
 description: "A quick, protein-packed dinner where juicy chicken breasts are pan-seared and basted in a rich garlic butter sauce."
 image: "apple-crumble-vihtqyvihtqyviht_hzcdgk"
-category: "Dinner"
+categories: ["vegan", "keto", "dinner"]
 tags: ["Keto", "High Protein", "Poultry"]
 rating: 4.8
 reviews: 1204

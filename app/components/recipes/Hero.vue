@@ -6,7 +6,7 @@ export interface Recipe {
   title: string;
   description: string;
   image?: string; 
-  category: string;
+  categories: Array<string>;
   tags: string[];
   rating: number;
   reviews: number;

@@ -3,7 +3,7 @@ export interface Recipe {
   title: string;
   description: string;
   image?: string; // Optional, matching our Zod schema
-  category: string;
+  categories: Array<string>;
   tags: string[];
   rating: number;
   reviews: number;
