@@ -11,7 +11,7 @@ const { data: recipes } = await useAsyncData('home-recipes', () => {
 <template>
   <div class="min-h-screen">
 
-    <main class="max-w-6xl mx-auto py-12 px-4">
+    <main class="">
       <Slider />
       <MainContent />
       <div class="mb-12 text-center md:text-left flex flex-col md:flex-row justify-between items-end">

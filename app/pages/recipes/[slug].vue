@@ -1,10 +1,8 @@
-<script setup>
+<script setup lang="ts">
 import Hero from '@/components/recipes/Hero.vue'
 import Ingredients from '@/components/recipes/Ingredients.vue'
 const route = useRoute()
 
-
-// We fetch the recipe just like before. This object now contains the Markdown body!
 const { data: recipe } = await useAsyncData(route.path, () => {
   return queryCollection('recipes').path(route.path).first()
 })
@@ -18,7 +16,7 @@ useHead({
 </script>
 
 <template>
-  <main class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+  <main class="">
       
       <Hero :recipe="recipe" />
 
