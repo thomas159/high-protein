@@ -1,6 +1,4 @@
 <script setup lang="ts">
-import Hero from '@/components/recipes/Hero.vue'
-import Ingredients from '@/components/recipes/Ingredients.vue'
 const route = useRoute()
 
 const { data: recipe } = await useAsyncData(route.path, () => {

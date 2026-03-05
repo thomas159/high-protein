@@ -1,7 +1,4 @@
 <script setup>
-import Slider from '@/components/home/slider.vue'
-import MainContent from '@/components/home/mainContent.vue';
-import RecipeCard from '@/components/RecipeCard.vue';
 // Query all recipes in your collection
 const { data: recipes } = await useAsyncData('home-recipes', () => {
   return queryCollection('recipes').all()
