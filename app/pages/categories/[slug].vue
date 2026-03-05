@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import type { RecipesCollectionItem } from '@nuxt/content'
-import RecipeCard from '~/components/RecipeCard.vue';
+import RecipeCard from '@/components/RecipeCard.vue';
 
 const route = useRoute()
 const categorySlug = computed(() => route.params.slug as string)

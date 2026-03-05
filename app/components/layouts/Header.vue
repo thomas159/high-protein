@@ -75,10 +75,10 @@ onMounted(() => {
     >
       <div v-if="isMenuOpen" class="md:hidden absolute top-full left-0 w-full bg-background border-b border-border z-50 shadow-xl">
         <div class="flex flex-col p-6 text-base font-medium" :style="{ gap: 'var(--spacing-grid-gap, 1rem)' }">
-          <NuxtLink to="#" @click="isMenuOpen = false" class="text-emerald-500">All Recipes</NuxtLink>
-          <NuxtLink to="#" @click="isMenuOpen = false" class="text-muted-foreground hover:text-foreground">High Protein</NuxtLink>
-          <NuxtLink to="#" @click="isMenuOpen = false" class="text-muted-foreground hover:text-foreground">Vegan</NuxtLink>
-          <NuxtLink to="#" @click="isMenuOpen = false" class="text-muted-foreground hover:text-foreground">Air fryer</NuxtLink>
+          <NuxtLink to="/categories/all-recipes" @click="isMenuOpen = false" class="text-emerald-500">All Recipes</NuxtLink>
+          <NuxtLink to="/categories/high-protein" @click="isMenuOpen = false" class="text-muted-foreground hover:text-foreground">High Protein</NuxtLink>
+          <NuxtLink to="/categories/vegan" @click="isMenuOpen = false" class="text-muted-foreground hover:text-foreground">Vegan</NuxtLink>
+          <NuxtLink to="/categories/air-fryer" @click="isMenuOpen = false" class="text-muted-foreground hover:text-foreground">Air fryer</NuxtLink>
         </div>
       </div>
     </Transition>
