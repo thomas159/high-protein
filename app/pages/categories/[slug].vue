@@ -1,6 +1,4 @@
 <script setup lang="ts">
-import type { RecipesCollectionItem } from '@nuxt/content'
-
 const route = useRoute()
 const categorySlug = computed(() => route.params.slug as string)
 
@@ -12,10 +10,6 @@ const { data: recipes, refresh } = await useAsyncData(
 )
 
 watch(categorySlug, () => refresh())
-
-defineProps<{
-  recipe: RecipesCollectionItem
-}>()
 
 useHead({
   title: `${categorySlug.value.charAt(0).toUpperCase() + categorySlug.value.slice(1)} Recipes - Flavor Feast`,

@@ -1,7 +1,4 @@
 <script setup lang="ts">
-import Breadcrumbs from '@/components/recipes/Breadcrumbs.vue';
-import Tags from '@/components/recipes/Tags.vue';
-
 export interface Recipe {
   title: string;
   description: string;
@@ -39,9 +36,9 @@ const totalTime = computed(() => props.recipe.prepTimeMins + props.recipe.cookTi
     
     <div class="order-2 lg:order-1 lg:col-span-7 flex flex-col justify-start h-full">
         <div class="flex flex-row justify-between">
-       <Breadcrumbs :recipe="recipe" />
+       <RecipesBreadcrumbs :recipe="recipe" />
 
-       <Tags :recipe="recipe" />
+       <RecipesTags :recipe="recipe" />
     </div>
         <h1 class="font-serif text-3xl md:text-4xl lg:text-5xl font-bold text-foreground leading-tight mb-4">
           {{ recipe.title }}
