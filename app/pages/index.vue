@@ -9,8 +9,8 @@ const { data: recipes } = await useAsyncData('home-recipes', () => {
   <div class="min-h-screen">
 
     <main class="">
-      <Slider />
-      <MainContent />
+      <HomeSlider />
+      <HomeMainContent />
       <div class="mb-12 text-center md:text-left flex flex-col md:flex-row justify-between items-end">
         <div>
           <h1 class="font-serif text-4xl md:text-5xl font-bold text-slate-900 mb-3">Trending This Week</h1>

@@ -16,11 +16,11 @@ useHead({
 <template>
   <main class="">
       
-      <Hero :recipe="recipe" />
+      <RecipesHero :recipe="recipe" />
 
       <div class="grid grid-cols-1 lg:grid-cols-12 gap-10 mt-12 md:mt-16">
         
-        <Ingredients :recipe="recipe" />
+        <RecipesIngredients :recipe="recipe" />
 
         <div class="lg:col-span-8 lg:pl-6 relative">
           
