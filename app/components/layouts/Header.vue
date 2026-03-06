@@ -22,8 +22,8 @@ onMounted(() => {
 </script>
 
 <template>
-  <nav class="relative bg-background border-b border-border transition-colors duration-300">
-    <div class="mx-auto px-4 h-16 flex items-center justify-between">
+  <nav class="relative container bg-background border-b border-border transition-colors duration-300">
+    <div class="mx-auto h-16 flex items-center justify-between">
       
       <NuxtLink to="/" class="text-xl font-bold text-foreground">
         Recipe<span class="text-emerald-500">Book</span>
