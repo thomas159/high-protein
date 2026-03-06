@@ -24,6 +24,7 @@
     "@pinia/nuxt": "^0.10.1",
     "@sidebase/nuxt-auth": "0.10.0",
     "@vueuse/nuxt": "12.6.1",
+    "better-sqlite3": "^12.6.2",
     "googleapis": "^144.0.0",
     "gsap": "^3.13.0",
     "next-auth": "~4.21.1",
@@ -53,6 +54,9 @@
     "typescript": "^5.8.2",
     "vitest": "^3.2.3",
     "vue-tsc": "^2.2.6"
+  },
+  "engines": {
+    "node": "~22.21.0"
   },
   "pnpm": {
     "ignoredBuiltDependencies": [
