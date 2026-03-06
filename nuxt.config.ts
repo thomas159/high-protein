@@ -28,11 +28,27 @@ export default defineNuxtConfig({
     dataValue: 'theme', // This is the magic line! It applies data-theme="dark" to <html>
     classSuffix: '',    // Cleans up the default "-mode" suffix 
   },
-  // image: {
-  //   domains: ['nuxt-boilerplate-starter.vercel.app'],
-  //   provider: 'ipx',
-  //   dir: 'public/images',
-  // },
+  image: {
+    domains: ['high-protein.vercel.app'],
+    provider: 'cloudinary',
+    cloudinary: {
+      baseURL: 'https://res.cloudinary.com/mealse-co-uk/image/fetch',
+      modifiers: {
+        effect: 'sharpen:100',
+        quality: 'auto:best'
+      }
+    },
+    // dir: 'public/images',
+    // quality: 80,
+    format: ['webp'],
+     screens: {
+      'sm': 640,
+      'md': 768,
+      'lg': 1024,
+      'xl': 1280,
+      '2xl': 1536
+    }
+  },
   css: ['~/assets/css/styles.css'],
   googleSignIn: {
     clientId: process.env.GG_CLIENT_ID,
