@@ -17,6 +17,13 @@ export default defineNuxtConfig({
     '@nuxt/content',
     '@nuxt/test-utils/module'
   ],
+  content: {
+    database: {
+      type: 'sqlite',
+      // This forces the use of a non-native driver compatible with Vercel
+      driver: 'wasm' 
+    }
+  },
   colorMode: {
     dataValue: 'theme', // This is the magic line! It applies data-theme="dark" to <html>
     classSuffix: '',    // Cleans up the default "-mode" suffix 
