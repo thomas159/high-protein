@@ -17,6 +17,13 @@ export default defineNuxtConfig({
     '@nuxt/content',
     '@nuxt/test-utils/module'
   ],
+   app: {
+    head: {
+      htmlAttrs: {
+        lang: 'en'
+      }
+    }
+  },
   content: {
     database: {
       type: 'sqlite',
