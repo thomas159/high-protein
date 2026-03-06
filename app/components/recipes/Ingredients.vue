@@ -3,20 +3,20 @@ export interface Recipe {
   title: string;
   description: string;
   image?: string; // Optional, matching our Zod schema
-  categories: Array<string>;
-  tags: string[];
-  rating: number;
-  reviews: number;
+  categories?: Array<string>;
+  tags?: string[];
+  rating?: number;
+  reviews?: number;
   prepTimeMins: number;
   cookTimeMins: number;
-  servings: number;
-  macros: {
+  servings?: number;
+  macros?: {
     calories: number;
     carbs: number;
     protein: number;
     fat: number;
   };
-  ingredients: {
+  ingredients?: {
     item: string;
     amount: number;
     unit: string;
@@ -24,7 +24,7 @@ export interface Recipe {
 }
 
 const props = defineProps<{
-  recipe: Recipe;
+  recipe: Recipe | null | undefined
 }>();
 </script>
 

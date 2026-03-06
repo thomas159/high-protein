@@ -1,34 +1,4 @@
 <script setup lang="ts">
-export interface Recipe {
-  title: string;
-  description: string;
-  image?: string; 
-  categories: Array<string>;
-  tags: string[];
-  rating: number;
-  reviews: number;
-  prepTimeMins: number;
-  cookTimeMins: number;
-  servings: number;
-  macros: {
-    calories: number;
-    carbs: number;
-    protein: number;
-    fat: number;
-  };
-  ingredients: {
-    item: string;
-    amount: number;
-    unit: string;
-  }[];
-}
-
-const props = defineProps<{
-  recipe: Recipe;
-}>();
-
-// Automatically calculates the total time for the logistics tag!
-const totalTime = computed(() => props.recipe.prepTimeMins + props.recipe.cookTimeMins)
 </script>
 
 <template>

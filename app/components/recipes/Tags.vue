@@ -1,21 +1,24 @@
 <script setup lang="ts">
 export interface Recipe {
   title: string;
+  slug: string;
   description: string;
-  image?: string; 
-  categories: string;
+  image: string;
+  categories: string[];
   tags: string[];
   rating: number;
   reviews: number;
   prepTimeMins: number;
   cookTimeMins: number;
   servings: number;
+  // Nested object for macros
   macros: {
     calories: number;
     carbs: number;
     protein: number;
     fat: number;
   };
+  // Array of objects for ingredients
   ingredients: {
     item: string;
     amount: number;
@@ -41,7 +44,7 @@ const props = defineProps<{
     </span>
     
     <span class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-medium bg-secondary text-foreground border border-border">
-        {{ props.recipe.ies }}
+        {{ props.recipe.categories }}
     </span>
   </div>
 </template>

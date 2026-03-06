@@ -5,6 +5,7 @@ const { data: recipe } = await useAsyncData(route.path, () => {
   return queryCollection('recipes').path(route.path).first()
 })
 
+
 useHead({
   title: 'Apple Crumble - KitchenPal',
   meta: [
@@ -14,7 +15,7 @@ useHead({
 </script>
 
 <template>
-  <main class="">
+  <main v-if="recipe">
       
       <RecipesHero :recipe="recipe" />
 
@@ -25,9 +26,6 @@ useHead({
         <div class="lg:col-span-8 lg:pl-6 relative">
           
           <div class="absolute top-0 right-0 flex gap-2">
-            <button class="p-2 text-muted-foreground hover:text-green-600 dark:hover:text-green-400 hover:bg-green-500/10 rounded-lg transition-colors" title="Print Recipe">
-              <svg class="w-5 h-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 6 2 18 2 18 9"/><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"/><rect width="12" height="8" x="6" y="14"/></svg>
-            </button>
             <button class="p-2 text-muted-foreground hover:text-green-600 dark:hover:text-green-400 hover:bg-green-500/10 rounded-lg transition-colors" title="Share Recipe">
               <svg class="w-5 h-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><line x1="8.59" x2="15.42" y1="13.51" y2="17.49"/><line x1="15.41" x2="8.59" y1="6.51" y2="10.49"/></svg>
             </button>
@@ -38,6 +36,9 @@ useHead({
           </div>
         </div>
       </div>
+    </main>
+    <main v-else>
+      <p>Loading Recipe...</p>
     </main>
 </template>
 
