@@ -5,21 +5,24 @@ const recipeSlug = computed(() => route.params.slug as string)
 
 export interface Recipe {
   title: string;
+  slug: string;
   description: string;
-  image?: string; 
-  categories: string;
+  image: string;
+  categories: string[];
   tags: string[];
   rating: number;
   reviews: number;
   prepTimeMins: number;
   cookTimeMins: number;
   servings: number;
+  // Nested object for macros
   macros: {
     calories: number;
     carbs: number;
     protein: number;
     fat: number;
   };
+  // Array of objects for ingredients
   ingredients: {
     item: string;
     amount: number;
@@ -30,7 +33,6 @@ export interface Recipe {
 const props = defineProps<{
   recipe: Recipe;
 }>();
-
 </script>
 <template> 
 <nav class="text-sm text-muted-foreground mb-4 flex items-center gap-2">
