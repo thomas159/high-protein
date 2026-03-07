@@ -1,4 +1,5 @@
 <script setup lang="ts">
+const appConfig = useAppConfig()
 const showBanner = ref(false)
 
 // Function to inject Google Analytics
@@ -62,7 +63,7 @@ const declineCookies = () => {
           <div>
             <h3 class="font-bold text-foreground">Cookie Policy</h3>
             <p class="text-sm text-muted-foreground mt-1 leading-relaxed">
-              We use cookies to enhance your "Flavor Feast" experience and analyze our traffic.
+              We use cookies to enhance your "{{ appConfig.siteName }}" experience and analyze our traffic.
             </p>
           </div>
         </div>

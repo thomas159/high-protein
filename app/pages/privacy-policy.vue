@@ -1,27 +1,26 @@
 <script setup lang="ts">
+const appConfig = useAppConfig()
+
 useHead({
-  title: 'Privacy Policy - Flavor Feast',
+  title: `Privacy Policy - ${appConfig.siteName}`,
   meta: [{ name: 'robots', content: 'noindex' }] // Usually best to keep legal pages out of main search results
 })
-
-const siteName = "Flavor Feast"
-const lastUpdated = "March 2026"
 </script>
 
 <template>
   <div class="max-w-4xl mx-auto px-4 py-12 prose dark:prose-invert">
     <h1 class="text-4xl font-bold mb-2">Privacy Policy</h1>
-    <p class="text-muted-foreground mb-8">Last Updated: {{ lastUpdated }}</p>
+    <p class="text-muted-foreground mb-8">Last Updated: {{ appConfig.lastUpdated }}</p>
 
     <section class="mb-8">
       <p>
-        At <strong>{{ siteName }}</strong>, accessible from your-domain.com, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by {{ siteName }} and how we use it.
+        At <strong>{{ appConfig.siteName }}</strong>, accessible from your-domain.com, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by {{ siteName }} and how we use it.
       </p>
     </section>
 
     <h2 class="text-2xl font-semibold mt-8">1. Log Files</h2>
     <p>
-      {{ siteName }} follows a standard procedure of using log files. These files log visitors when they visit websites. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks.
+      {{ appConfig.siteName }} follows a standard procedure of using log files. These files log visitors when they visit websites. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks.
     </p>
 
     <h2 class="text-2xl font-semibold mt-8 text-emerald-500">2. Google DoubleClick DART Cookie</h2>
@@ -45,7 +44,7 @@ const lastUpdated = "March 2026"
 
     <h2 class="text-2xl font-semibold mt-8">5. Third Party Privacy Policies</h2>
     <p>
-      {{ siteName }}'s Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information.
+      {{ appConfig.siteName }}'s Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information.
     </p>
 
     <h2 class="text-2xl font-semibold mt-8">6. Consent</h2>

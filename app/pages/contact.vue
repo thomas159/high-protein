@@ -1,42 +1,103 @@
 <script setup lang="ts">
+const appConfig = useAppConfig()
+const formData = ref({
+  name: '',
+  email: '',
+  subject: '',
+  message: ''
+})
+
+const submitted = ref(false)
+const loading = ref(false)
+
+const handleSubmit = async () => {
+  loading.value = true
+  
+  try {
+    const response = await fetch('https://formspree.io/f/mlgpdjge', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(formData.value)
+    })
+
+    if (response.ok) {
+      submitted.value = true
+    }
+  } catch (error) {
+    alert("Something went wrong. Please try again.")
+  } finally {
+    loading.value = false
+  }
+}
 useHead({
-  title: 'Contact',
+  title: `Contact Us - ${appConfig.siteName}`, 
   meta: [
-    {
-      name: 'description',
-      content: 'Contact us for more information or support.'
+    { 
+      name: 'description', 
+      content: `Have a question or a recipe suggestion? Reach out to the ${appConfig.siteName} team.` 
     }
   ]
 })
-const config = useAppConfig()
-const contacts = computed(() => config.app.contacts)
 </script>
 
 <template>
-  <div class="container flex flex-col items-center justify-center min-h-[calc(100vh-10rem)]"> 
-    <div>
-      <div class="relative">
-        <div class="absolute left-1/2 -top-[10%] z-[-1] transform -translate-x-1/2 -translate-y-1/4 bg-green-500/50 filter blur-3xl w-[500px] h-[500px] rounded-full" />
-        <NuxtImg src="/images/logo.png" alt="Devaloka Logo" class="mx-auto mb-4 w-32 h-32" />
+  <div class="max-w-2xl mx-auto px-4 py-16">
+    <div class="text-center mb-10">
+      <h1 class="text-4xl font-bold mb-4">Get in Touch</h1>
+      <p class="text-muted-foreground">
+        Have a question about a recipe? Interested in a partnership? We'd love to hear from you.
+      </p>
+    </div>
+
+    <div v-if="submitted" class="bg-emerald-500/10 border border-emerald-500 text-emerald-700 dark:text-emerald-400 p-6 rounded-xl text-center">
+      <h3 class="font-bold text-lg">Message Sent!</h3>
+      <p>Thank you for reaching out. We'll get back to you as soon as possible.</p>
+      <button @click="submitted = false" class="mt-4 text-sm underline">Send another message</button>
+    </div>
+
+    <form v-else @submit.prevent="handleSubmit" class="space-y-6">
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
         <div>
-          <h1 class="text-3xl font-bold text-center mb-2">{{ config.app.meta.title }}</h1>
+          <label class="block text-sm font-medium mb-2">Name</label>
+          <input 
+            v-model="formData.name"
+            type="text" 
+            required
+            placeholder="Your name"
+            class="w-full px-4 py-3 rounded-lg border border-border bg-background focus:ring-2 focus:ring-emerald-500 outline-none transition-all"
+          >
+        </div>
+        <div>
+          <label class="block text-sm font-medium mb-2">Email</label>
+          <input 
+            v-model="formData.email"
+            type="email" 
+            required
+            placeholder="your@email.com"
+            class="w-full px-4 py-3 rounded-lg border border-border bg-background focus:ring-2 focus:ring-emerald-500 outline-none transition-all"
+          >
         </div>
       </div>
-      <ul class="flex space-x-4 justify-center items-center mt-4">
-        <li v-for="(item, index) in contacts" :key="index">
-          <ULink as="a" :to="item.href" class="inline-flex items-center space-x-1 ring-1 ring-primary-200 rounded-md px-2 py-1 transition-colors">
-            <UIcon :name="item.icon" />
-            <span>{{ item.name }}</span>
-          </ULink>
-        </li>
-      </ul>
-    </div>
-    <div class="mt-8">
-      <iframe src="https://github.com/sponsors/heydayle/card" title="Sponsor heydayle" height="90" width="600" style="border: 1px solid var(--ui-border-muted);border-radius: 12px;background-color: transparent;"/>
-    </div>
+
+      <div>
+        <label class="block text-sm font-medium mb-2">Message</label>
+        <textarea 
+          v-model="formData.message"
+          rows="5" 
+          required
+          placeholder="How can we help?"
+          class="w-full px-4 py-3 rounded-lg border border-border bg-background focus:ring-2 focus:ring-emerald-500 outline-none transition-all resize-none"
+        ></textarea>
+      </div>
+
+      <button 
+        type="submit" 
+        :disabled="loading"
+        class="w-full bg-emerald-500 hover:bg-emerald-600 text-white font-bold py-4 rounded-lg transition-colors disabled:opacity-50 flex justify-center items-center gap-2"
+      >
+        <span v-if="loading" class="w-5 h-5 border-2 border-white/30 border-t-white rounded-full animate-spin"></span>
+        {{ loading ? 'Sending...' : 'Send Message' }}
+      </button>
+    </form>
   </div>
 </template>
-
-<style scoped>
-
-</style>

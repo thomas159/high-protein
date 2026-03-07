@@ -1,4 +1,5 @@
 <script setup lang="ts">
+const appConfig = useAppConfig()
 const currentYear = new Date().getFullYear()
 
 const footerLinks = {
@@ -25,7 +26,7 @@ const footerLinks = {
         
         <div class="col-span-1 md:col-span-1">
           <NuxtLink to="/" class="text-xl font-bold text-foreground flex items-center gap-2">
-            <span class="text-emerald-500 italic">Flavor</span>Feast
+            <span class="text-emerald-500 italic">{{ appConfig.siteName }}</span>
           </NuxtLink>
           <p class="mt-4 text-sm text-muted-foreground leading-relaxed">
             Making high-quality, chef-inspired recipes accessible to home cooks everywhere.
@@ -68,7 +69,7 @@ const footerLinks = {
 
       <div class="mt-12 pt-8 border-t border-border flex flex-col md:flex-row justify-between items-center gap-4">
         <p class="text-xs text-muted-foreground">
-          © {{ currentYear }} Flavor Feast. All rights reserved.
+          © {{ currentYear }} {{ appConfig.siteName }}. All rights reserved.
         </p>
         <div class="flex gap-6 grayscale opacity-60 hover:opacity-100 transition-opacity">
           </div>

@@ -1,7 +1,8 @@
 <script setup lang="ts">
+const appConfig = useAppConfig()
 const route = useRoute()
-const categorySlug = computed(() => route.params.slug as string)
 
+const categorySlug = computed(() => route.params.slug as string)
 const isAllRecipes = computed(() => categorySlug.value === 'all-recipes')
 
 const { data: recipes, refresh } = await useAsyncData(
@@ -21,7 +22,7 @@ const { data: recipes, refresh } = await useAsyncData(
 watch(categorySlug, () => refresh())
 
 useHead({
-  title: `${categorySlug.value.charAt(0).toUpperCase() + categorySlug.value.slice(1)} Recipes - Flavor Feast`,
+  title: `${categorySlug.value.charAt(0).toUpperCase() + categorySlug.value.slice(1)} Recipes - ${appConfig.siteName}`,
   meta: [
     { name: 'description', content: `Browse our collection of delicious ${categorySlug.value} recipes.` }
   ]

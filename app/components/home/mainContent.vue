@@ -1,3 +1,6 @@
+<script setup lang="ts">
+const appConfig = useAppConfig()
+</script>
 <template>
 <div class="min-h-screen font-sans text-gray-800">
 
@@ -31,7 +34,7 @@
         
         <h2 class="text-flavor-deep font-bold text-xl tracking-tighter mb-2">JAMES CARTER</h2>
         <p class="text-gray-500 text-xs text-center leading-relaxed mb-6">
-          A passionate food lover, James shares easy and tasty recipes on Flavor Feast to inspire home cooks and food enthusiasts alike.
+          A passionate food lover, James shares easy and tasty recipes on {{ appConfig.siteName }} to inspire home cooks and food enthusiasts alike.
         </p>
         
         <div class="font-signature text-3xl text-flavor-deep mb-6">James Carter</div>

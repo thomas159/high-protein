@@ -1,4 +1,5 @@
 <script setup lang="ts">
+const { siteName, siteDescription } = useAppConfig()
 const route = useRoute()
 
 const { data: recipe } = await useAsyncData(route.path, () => {
@@ -7,10 +8,8 @@ const { data: recipe } = await useAsyncData(route.path, () => {
 
 
 useHead({
-  title: 'Apple Crumble - KitchenPal',
-  meta: [
-    { name: 'description', content: 'A 15-minute vegan dinner with big ginger and soy flavors.' }
-  ]
+  titleTemplate: (title) => title ? `${title} | ${siteName}` : siteName,
+  meta: [{ name: 'description', content: siteDescription }]
 })
 </script>
 

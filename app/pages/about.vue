@@ -1,9 +1,10 @@
 <script setup lang="ts">
+const appConfig = useAppConfig()
 // SEO Metadata
 useHead({
-  title: 'About Flavor Feast - Our Story & Mission',
+  title: `About ${appConfig.siteName} - Our Story & Mission`,
   meta: [
-    { name: 'description', content: 'Learn more about the passion behind Flavor Feast and how we create our recipes.' }
+    { name: 'description', content: `Learn more about the passion behind ${appConfig.siteName } and how we create our recipes.` }
   ]
 })
 
@@ -21,7 +22,7 @@ const stats = [
         Cooking Should Be <span class="text-emerald-500">Simple</span> & Joyful
       </h1>
       <p class="text-lg text-muted-foreground leading-relaxed">
-        Flavor Feast started in a tiny kitchen with one goal: to make high-quality, 
+        {{ appConfig.siteName }} started in a tiny kitchen with one goal: to make high-quality, 
         chef-inspired recipes accessible to everyone, regardless of their skill level 
         or dietary preferences.
       </p>
