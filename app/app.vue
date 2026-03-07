@@ -1,20 +1,20 @@
 <script setup lang="ts">
-const { app } = useAppConfig()
+const appConfig = useAppConfig()
 useHead({
   link: [
     {
       rel: 'canonical',
-      href: app.meta.canonical,
+      href: appConfig.meta.canonical,
     }
   ],
   meta: [
     {
       name: 'description',
-      content: app.meta.description,
+      content: appConfig.meta.description,
     },
     {
       name: 'keywords',
-      content: app.meta.keywords,
+      content: appConfig.meta.keywords,
     },
     {
       name: 'image',
@@ -22,19 +22,19 @@ useHead({
     },
     {
       name: 'author',
-      content: app.meta.author,
+      content: appConfig.meta.author,
     },
     {
       name: 'publisher',
-      content: app.meta.publisher,
+      content: appConfig.meta.publisher,
     },
     {
       name: 'og:title',
-      content: app.meta.title,
+      content: appConfig.meta.title,
     },
     {
       name: 'og:description',
-      content: app.meta.description,
+      content: appConfig.meta.description,
     },
     {
       name: 'og:image',
