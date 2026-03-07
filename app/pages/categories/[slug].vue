@@ -2,11 +2,20 @@
 const route = useRoute()
 const categorySlug = computed(() => route.params.slug as string)
 
+const isAllRecipes = computed(() => categorySlug.value === 'all-recipes')
+
 const { data: recipes, refresh } = await useAsyncData(
-  `${categorySlug.value}`, 
-  () => queryCollection('recipes')
-    .where('categories', 'LIKE', `%${categorySlug.value}%`) 
-    .all()
+  `recipes-${categorySlug.value}`, 
+  () => {
+    let query = queryCollection('recipes')
+    
+    // 2. Only apply the filter if it's NOT the "all-recipes" slug
+    if (!isAllRecipes.value) {
+      query = query.where('categories', 'LIKE', `%${categorySlug.value}%`)
+    }
+    
+    return query.all()
+  }
 )
 
 watch(categorySlug, () => refresh())
@@ -21,7 +30,7 @@ useHead({
 
 <template>
   <div>   
-    <div class="flex justify-center mx-auto py-4"><h1>{{ categorySlug.replace('-',' ') }} meals</h1></div>
+    <div class="flex justify-center mx-auto py-4"><h1>{{ isAllRecipes ? 'All Recipes' : `${categorySlug.replace('-', ' ')} Meals` }}</h1></div>
     <div v-if="recipes && recipes.length > 0" class="grid grid-cols-2 md:grid-cols-3 gap-main">
       <div 
         v-for="recipe in recipes" 

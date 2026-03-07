@@ -29,7 +29,7 @@ const navLinks = [
 </script>
 
 <template>
-  <nav class="relative container bg-background border-b border-border">
+  <nav class="relative container border-b border-border">
     <div class="mx-auto px-4 py-2 flex items-center justify-between">
       
       <NuxtLink to="/" class="text-xl font-bold text-foreground">
@@ -72,8 +72,12 @@ const navLinks = [
           </template>
         </ClientOnly>
 
-        <button class="md:hidden p-2 text-muted-foreground" @click="isMenuOpen = !isMenuOpen">
-          </button>
+        <button class="md:hidden p-2 text-muted-foreground cursor-pointer" @click="isMenuOpen = !isMenuOpen" >
+          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path v-if="!isMenuOpen" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7" />
+            <path v-else stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+          </svg>
+        </button>
       </div>
     </div>
 
