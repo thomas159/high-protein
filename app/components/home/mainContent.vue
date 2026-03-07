@@ -58,7 +58,7 @@
         <div class="aspect-square overflow-hidden mb-3 shadow-sm rounded-sm">
           <!-- <img src="pie.jpg" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"> -->
         </div>
-        <h4 class="font-bold text-flavor-deep text-lg group-hover:text-flavor-sap transition-colors">Pie</h4>
+        <h4 class="font-bold text-flavor-deep text-lg group-hover:text-flavor-sap">Pie</h4>
         <div class="flex items-center gap-2 mt-1">
           <span class="text-flavor-sap text-xs italic">★★★★☆</span>
           <span class="text-[10px] text-gray-400 uppercase tracking-tighter border-l pl-2">12 Comments</span>

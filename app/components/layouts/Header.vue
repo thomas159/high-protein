@@ -19,22 +19,38 @@ onMounted(() => {
   isDark.value = savedTheme === 'dark'
   document.documentElement.setAttribute('data-theme', savedTheme)
 })
+
+const navLinks = [
+  { name: 'All Recipes', path: '/categories/all-recipes' },
+  { name: 'High Protein', path: '/categories/high-protein' },
+  { name: 'Vegan', path: '/categories/vegan' },
+  { name: 'Air fryer', path: '/categories/air-fryer' },
+]
 </script>
 
 <template>
-  <nav class="relative container bg-background border-b border-border transition-colors duration-300">
-    <div class="mx-auto h-16 flex items-center justify-between">
+  <nav class="relative container bg-background border-b border-border">
+    <div class="mx-auto px-4 py-2 flex items-center justify-between">
       
       <NuxtLink to="/" class="text-xl font-bold text-foreground">
-        Recipe<span class="text-emerald-500">Book</span>
+        <img
+          :src="isDark ? '/images/logo-dark.avif' : '/images/logo.avif'"
+          alt="Logo"
+          width="240"
+          height="60">
       </NuxtLink>
 
       <div class="flex items-center gap-4">
         <div class="hidden md:flex items-center gap-6 text-sm font-medium text-muted-foreground">
-          <NuxtLink to="/categories/all-recipes" class="text-foreground border-b-2 border-emerald-500 pb-1">All Recipes</NuxtLink>
-          <NuxtLink to="/categories/high-protein" class="hover:text-foreground transition-colors">High Protein</NuxtLink>
-          <NuxtLink to="/categories/vegan" class="hover:text-foreground transition-colors">Vegan</NuxtLink>
-          <NuxtLink to="/categories/air-fryer" class="hover:text-foreground transition-colors">Air fryer</NuxtLink>
+          <NuxtLink 
+            v-for="link in navLinks" 
+            :key="link.path"
+            :to="link.path" 
+            class="hover:text-foreground transition-colors pb-1 border-b-2 border-transparent"
+            active-class="!text-foreground !border-emerald-500"
+          >
+            {{ link.name }}
+          </NuxtLink>
         </div>
 
         <ClientOnly>
@@ -56,29 +72,24 @@ onMounted(() => {
           </template>
         </ClientOnly>
 
-        <button class="md:hidden p-2 text-muted-foreground cursor-pointer" @click="isMenuOpen = !isMenuOpen" >
-          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-            <path v-if="!isMenuOpen" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7" />
-            <path v-else stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
-          </svg>
-        </button>
+        <button class="md:hidden p-2 text-muted-foreground" @click="isMenuOpen = !isMenuOpen">
+          </button>
       </div>
     </div>
 
-    <Transition
-      enter-active-class="transition duration-200 ease-out"
-      enter-from-class="opacity-0 -translate-y-2"
-      enter-to-class="opacity-100 translate-y-0"
-      leave-active-class="transition duration-150 ease-in"
-      leave-from-class="opacity-100 translate-y-0"
-      leave-to-class="opacity-0 -translate-y-2"
-    >
+    <Transition name="fade">
       <div v-if="isMenuOpen" class="md:hidden absolute top-full left-0 w-full bg-background border-b border-border z-50 shadow-xl">
-        <div class="flex flex-col p-6 text-base font-medium" :style="{ gap: 'var(--spacing-grid-gap, 1rem)' }">
-          <NuxtLink to="/categories/all-recipes" @click="isMenuOpen = false" class="text-emerald-500">All Recipes</NuxtLink>
-          <NuxtLink to="/categories/high-protein" @click="isMenuOpen = false" class="text-muted-foreground hover:text-foreground">High Protein</NuxtLink>
-          <NuxtLink to="/categories/vegan" @click="isMenuOpen = false" class="text-muted-foreground hover:text-foreground">Vegan</NuxtLink>
-          <NuxtLink to="/categories/air-fryer" @click="isMenuOpen = false" class="text-muted-foreground hover:text-foreground">Air fryer</NuxtLink>
+        <div class="flex flex-col p-6 gap-4 text-base font-medium">
+          <NuxtLink 
+            v-for="link in navLinks" 
+            :key="link.path"
+            :to="link.path" 
+            @click="isMenuOpen = false"
+            class="text-muted-foreground border-l-4 border-transparent pl-2"
+            active-class="!text-emerald-500 !border-emerald-500"
+          >
+            {{ link.name }}
+          </NuxtLink>
         </div>
       </div>
     </Transition>
