@@ -18,6 +18,24 @@ const { data: recipes, refresh } = await useAsyncData(
     return query.all()
   }
 )
+const displayTitle = computed(() => {
+  if (isAllRecipes.value) return 'All Recipes'
+
+  // Standardize the slug (e.g., "15-minute-meals" -> "15 minute meals")
+  const formattedName = categorySlug.value.replaceAll('-', ' ')
+
+  // Define which categories should NOT have "Meals" added
+  const excludeMealsSuffix = [
+    'all-recipes',
+    '15-minute-meals',
+    '30-minute-meals'
+  ]
+
+  // If it's in the list, just return the name. Otherwise, add " Meals"
+  return excludeMealsSuffix.includes(categorySlug.value) 
+    ? formattedName 
+    : `${formattedName} Meals`
+})
 
 watch(categorySlug, () => refresh())
 
@@ -31,7 +49,7 @@ useHead({
 
 <template>
   <div>   
-    <div class="flex justify-center mx-auto py-4"><h1>{{ isAllRecipes ? 'All Recipes' : `${categorySlug.replace('-', ' ')} Meals` }}</h1></div>
+    <div class="flex justify-center mx-auto"><h1>{{ displayTitle }}</h1></div>
     <div v-if="recipes && recipes.length > 0" class="grid grid-cols-2 md:grid-cols-3 gap-main">
       <div 
         v-for="recipe in recipes" 

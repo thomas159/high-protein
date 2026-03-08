@@ -43,7 +43,7 @@ const props = defineProps<{
             
             <input :id="'ingredient-'+index" type="checkbox" class="peer h-5 w-5 rounded border-border bg-background text-green-500 focus:ring-green-500 focus:ring-offset-background cursor-pointer transition-all" />
             
-            <label :for="'ingredient-'+index" class="ml-3 text-base text-muted-foreground cursor-pointer peer-checked:text-muted-foreground/50 peer-checked:line-through transition-all select-none leading-tight pt-0.5">
+            <label :for="'ingredient-'+index" class="ml-3 text-base text-muted-foreground cursor-pointer peer-checked:text-muted-foreground/50 peer-checked:line-through peer-checked:decoration-4 transition-all select-none leading-tight pt-0.5">
               
               <span class="font-medium text-foreground peer-checked:text-muted-foreground/50 transition-colors">
                 {{ item.amount }} {{ item.unit }} {{ item.item }}

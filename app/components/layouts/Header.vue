@@ -25,6 +25,8 @@ const navLinks = [
   { name: 'High Protein', path: '/categories/high-protein' },
   { name: 'Vegan', path: '/categories/vegan' },
   { name: 'Air fryer', path: '/categories/air-fryer' },
+  { name: '15 minute meals', path: '/categories/15-minute-meals'},
+  { name: '30 minute meals', path: '/categories/30-minute-meals'}
 ]
 </script>
 

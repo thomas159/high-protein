@@ -6,6 +6,22 @@ const { data: recipe } = await useAsyncData(route.path, () => {
   return queryCollection('recipes').path(route.path).first()
 })
 
+const { data: relatedRecipes } = await useAsyncData(`${route.path}-related`, async () => {
+  // Guard: if no recipe found, return empty array
+  if (!recipe.value?.categories) return []
+
+  // Get the first category from the current recipe's array
+  const primaryCategory = recipe.value.categories[0]
+
+  return queryCollection('recipes')
+    .where('categories', 'LIKE', `%${primaryCategory}%`)
+    .where('slug', '<>', recipe.value.slug) // Exclude current recipe
+    .limit(4) // Only get a few
+    .all()
+}, {
+  watch: [recipe], // Re-run if the main recipe changes
+  default: () => []
+})
 
 useHead({
   titleTemplate: (title) => title ? `${title} | ${siteName}` : siteName,
@@ -30,10 +46,19 @@ useHead({
             </button>
           </div> -->
 
+          <h2 id="howToMake">How to make {{ recipe.title }}</h2>
           <div class="markdown-recipe-body">
             <ContentRenderer v-if="recipe" :value="recipe" />
           </div>
         </div>
+      </div>
+
+      <h2 id="relatedRecipes" class="mt-8">Related Recipes</h2>
+      <div class="grid grid-cols-2">
+        <RecipeCard 
+          v-for="relatedRecipe in relatedRecipes"
+          :key="relatedRecipe.slug"
+          :recipe="relatedRecipe" />
       </div>
     </main>
     <main v-else>
