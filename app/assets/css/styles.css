@@ -7,10 +7,7 @@
 @import "../scss/colors.scss" layer(base);
 
 @theme {
-  /* 1. Map your Google Fonts to Tailwind variables */
-  /* These generate utilities like .font-sans and .font-display */
-  --font-sans: "Be Vietnam Pro", ui-sans-serif, system-ui, sans-serif;
-  --font-display: "Montserrat", sans-serif;
+  --font-display: "Montserrat", ui-sans-serif, system-ui, sans-serif;
   --font-body: "Poppins", sans-serif;
 }
 

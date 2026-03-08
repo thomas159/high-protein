@@ -33,9 +33,11 @@ export default defineNuxtConfig({
   },
   colorMode: {
     dataValue: 'theme',
-    classSuffix: '',    // Cleans up the default "-mode" suffix 
+    classPrefix: '',
+    classSuffix: '',
     fallback: 'light',
-    storageKey: 'theme'
+    storage: 'localStorage',
+    storageKey: 'theme',
   },
   image: {
     domains: ['high-protein.vercel.app'],

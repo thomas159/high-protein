@@ -32,13 +32,23 @@ const navLinks = [
   <nav class="relative container border-b border-border">
     <div class="mx-auto px-4 py-2 flex items-center justify-between">
       
-      <NuxtLink to="/" class="text-xl font-bold text-foreground">
-        <img
-          :src="logoSrc"
-          alt="Logo"
-          width="240"
-          height="60">
-      </NuxtLink>
+  <NuxtLink to="/" class="block w-[240px] h-[60px]">
+  <img
+    src="/images/logo.avif"
+    alt="Logo"
+    width="240"
+    height="60"
+    class="dark:hidden block" 
+  />
+    
+  <img
+    src="/images/logo-dark.avif"
+    alt="Logo"
+    width="240"
+    height="60"
+    class="hidden dark:block" 
+  />
+</NuxtLink>
 
       <div class="flex items-center gap-4">
         <div class="hidden md:flex items-center gap-6 text-sm font-medium text-muted-foreground">
