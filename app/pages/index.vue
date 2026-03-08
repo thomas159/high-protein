@@ -59,19 +59,18 @@ console.log('trendingRecipes',trendingRecipes.value)
 
     </section>
 
-      <HomeMainContent />
+    
 
    <HomeMobileScroll 
       :recipes="trendingRecipes" 
       title="Trending This Week"
-      description="Discover our most popular recipes."
     />
 
     <HomeMobileScroll 
       :recipes="breakfastRecipes" 
       title="Breakfast Favorites"
     />
-      
+        <!-- <HomeAboutMe /> -->
     </main>
   </div>
 </template>

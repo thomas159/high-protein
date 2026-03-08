@@ -10,6 +10,7 @@ export default defineContentConfig({
         slug: z.string(),
         description: z.string(),
         image: z.string().optional(), // Made optional so it doesn't break if a recipe lacks an image
+        pintrest: z.string().optional(), // Made optional so it doesn't break if a recipe lacks an image
         categories: z.array(z.string()).default([]), // FIX: Added z.string()
         tags: z.array(z.string()).default([]),
         rating: z.number(),

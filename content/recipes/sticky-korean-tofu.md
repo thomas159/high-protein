@@ -2,7 +2,8 @@
 title: "Sticky korean tofu"
 slug: "sticky-korean-tofu"
 description: "A quick, protein-packed dinner where juicy chicken breasts are pan-seared and basted in a rich garlic butter sauce."
-image: "apple-crumble-vihtqyvihtqyviht_hzcdgk"
+image: "sticky-korean-tofu_kskq0b"
+pintrest: ""
 categories: ["vegan", "keto", "dinner", "trending"]
 tags: ["Keto", "High Protein", "Poultry"]
 rating: 4.8

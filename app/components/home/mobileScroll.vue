@@ -20,10 +20,10 @@ console.log('recipes',props.recipes)
 </script>
 
 <template>
-  <section class="py-8">
-    <div class="mb-8 text-center md:text-left flex flex-col md:flex-row justify-between items-end px-4 md:px-0">
+  <section>
+    <div class="text-center md:text-left flex flex-col md:flex-row justify-between items-start">
       <div>
-        <h2 class="font-display text-3xl md:text-5xl font-bold mb-3">
+        <h2 class="font-display text-3xl md:text-5xl font-bold">
           {{ title || 'Trending Recipes' }}
         </h2>
         <p v-if="description" class="text-slate-500 text-lg">

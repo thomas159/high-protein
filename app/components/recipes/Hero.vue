@@ -34,7 +34,7 @@ const props = defineProps<{
 <template>
     <div class="grid grid-cols-1 lg:grid-cols-12 gap-10 items-start">
     
-    <div class="order-2 lg:order-1 lg:col-span-7 flex flex-col justify-start h-full">
+    <div class="order-2 lg:order-1 lg:col-span-6 flex flex-col justify-start h-full">
         <div class="flex flex-row justify-between">
        <RecipesBreadcrumbs :recipe="props.recipe" />
 
@@ -70,7 +70,7 @@ const props = defineProps<{
         </div>
     </div>
 
-    <div class="order-1 lg:order-2 lg:col-span-5 relative h-[300px] md:h-[400px] lg:h-[400px]">
+    <div class="order-1 lg:order-2 lg:col-span-6 relative h-[300px] md:h-[400px] lg:h-[400px]">
         <img 
     :src="props.recipe.image 
       ? `https://res.cloudinary.com/mealse-co-uk/image/upload/f_auto,q_auto/${props.recipe.image}` 
