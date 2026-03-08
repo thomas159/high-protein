@@ -13,6 +13,7 @@ export default defineContentConfig({
         pintrest: z.string().optional(), // Made optional so it doesn't break if a recipe lacks an image
         categories: z.array(z.string()).default([]), // FIX: Added z.string()
         tags: z.array(z.string()).default([]),
+        tips: z.string(),
         rating: z.number(),
         reviews: z.number(),
         prepTimeMins: z.number(),

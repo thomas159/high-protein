@@ -50,6 +50,8 @@ useHead({
           <div class="markdown-recipe-body">
             <ContentRenderer v-if="recipe" :value="recipe" />
           </div>
+           <h2 id="howToMake">Tips</h2>
+           {{ recipe.tips }}
         </div>
       </div>
 

@@ -44,7 +44,7 @@ const props = defineProps<{
           {{ props.recipe.title }}
         </h1>
 
-        <p class="text-muted-foreground text-base md:text-lg leading-relaxed mb-6">
+        <p class="whitespace-pre-line text-muted-foreground text-base md:text-lg leading-relaxed mb-6">
           {{ props.recipe.description }}
         </p>
 
