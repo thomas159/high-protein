@@ -32,7 +32,7 @@ export default defineNuxtConfig({
     }
   },
   colorMode: {
-    dataValue: 'theme', // This is the magic line! It applies data-theme="dark" to <html>
+    dataValue: 'theme',
     classSuffix: '',    // Cleans up the default "-mode" suffix 
     fallback: 'light',
     storageKey: 'theme'

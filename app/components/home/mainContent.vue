@@ -3,7 +3,7 @@ const appConfig = useAppConfig()
 </script>
 
 <template>
-<div class="min-h-screen font-sans text-gray-800">
+<div class="text-gray-800">
 
 <main class="max-w-7xl mx-auto px-6 grid grid-cols-1 lg:grid-cols-12 gap-12">
   
@@ -35,25 +35,7 @@ const appConfig = useAppConfig()
   </aside>
 
   <section class="lg:col-span-9">
-    <div class="flex gap-8 border-b border-gray-200 mb-8 pb-3 text-xs font-bold uppercase tracking-widest text-gray-400">
-      <span class="text-flavor-deep border-b-2 border-flavor-sap pb-3 -mb-[14px] cursor-pointer">Recipes</span>
-      <span class="hover:text-flavor-sap cursor-pointer">Vegetarian</span>
-      <span class="hover:text-flavor-sap cursor-pointer">Vegan</span>
-      <span class="hover:text-flavor-sap cursor-pointer">Quick Meals</span>
-    </div>
-
-    <div class="grid grid-cols-1 md:grid-cols-3 gap-y-10 gap-x-6">
-      <div class="group">
-        <div class="aspect-square overflow-hidden mb-3 shadow-sm rounded-sm">
-          <!-- <img src="pie.jpg" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"> -->
-        </div>
-        <h4 class="font-bold text-flavor-deep text-lg group-hover:text-flavor-sap">Pie</h4>
-        <div class="flex items-center gap-2 mt-1">
-          <span class="text-flavor-sap text-xs italic">★★★★☆</span>
-          <span class="text-[10px] text-gray-400 uppercase tracking-tighter border-l pl-2">12 Comments</span>
-        </div>
-      </div>
-      </div>
+   latest
   </section>
 </main>
 </div>
