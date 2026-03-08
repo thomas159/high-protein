@@ -17,12 +17,12 @@ const { data: breakfastRecipes } = await useAsyncData('breakfast', () => {
 }, { default: () => [] });
 
 const categories = [
-  { name: 'Breakfast', icon: '🍳' },
-  { name: 'High Protein', icon: '🥗' },
-  { name: 'Vegan', icon: '🌿' },
-  { name: 'Desserts', icon: '🍰' },
-  { name: 'Dinner', icon: '🍰' },
-  { name: '30 Minute meals', icon: '🍰' },
+  { name: 'High Protein', img: 'high-protein_ozub93', link: '/categories/high-protein' },
+  { name: 'Vegan', img: 'vegan_byepar', link: '/categories/vegan' },
+  { name: 'Desserts', img: 'dessert_ciz4vp', link: '/categories/desserts' },
+  { name: 'Dinner', img: 'dinner_jltkrm' , link: '/categories/dinner'},
+  { name: '15 Minute meals', img: '15-minute-meals_wkmurj', link: '/categories/15-minute-meals' },
+  { name: 'Air fryer', img: 'air-fryer_too3q1', link: '/categories/air-fryer' }
 ]
 
 console.log('trendingRecipes',trendingRecipes.value)
@@ -51,8 +51,11 @@ console.log('trendingRecipes',trendingRecipes.value)
 
           <section class="border-y border-border py-6 my-12">
       <div class="container mx-auto px-4 flex flex-wrap justify-center gap-8 md:gap-16">
-        <NuxtLink v-for="cat in categories" :key="cat.name" to="/" class="flex flex-col items-center group">
-          <span class="text-3xl mb-2 group-hover:scale-110 transition-transform">{{ cat.icon }}</span>
+        <NuxtLink v-for="cat in categories" :key="cat.name" :to="cat.link" class="flex flex-col items-center group">
+          <!-- <span class="text-3xl mb-2 group-hover:scale-110 transition-transform">{{ cat.icon }}</span> -->
+          <div class="w-[150px] h-[100px]">
+            <Img :src="cat.img" class="rounded-full" />
+          </div>
           <span class="text-[11px] font-bold uppercase tracking-tighter text-muted-foreground group-hover:text-emerald-500">{{ cat.name }}</span>
         </NuxtLink>
       </div>
@@ -65,10 +68,11 @@ console.log('trendingRecipes',trendingRecipes.value)
       :recipes="trendingRecipes" 
       title="Trending This Week"
     />
-
+  
     <HomeMobileScroll 
       :recipes="breakfastRecipes" 
       title="Breakfast Favorites"
+      class="pt-6"
     />
         <!-- <HomeAboutMe /> -->
     </main>
