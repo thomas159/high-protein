@@ -1,8 +1,20 @@
-<script setup>
+<script setup lang="ts">
+
 // Query all recipes in your collection
 const { data: recipes } = await useAsyncData('home-recipes', () => {
   return queryCollection('recipes').all()
+}, {
+  // This ensures 'recipes' is [] initially and if the promise returns null/undefined
+  default: () => [] 
 })
+
+const { data: trendingRecipes } = await useAsyncData('trending', () => {
+  return queryCollection('recipes').where('categories', 'LIKE', '%trending%').all()
+}, { default: () => [] });
+
+const { data: breakfastRecipes } = await useAsyncData('breakfast', () => {
+  return queryCollection('recipes').where('categories', 'LIKE', '%breakfast%').all()
+}, { default: () => [] });
 
 const categories = [
   { name: 'Breakfast', icon: '🍳' },
@@ -12,6 +24,8 @@ const categories = [
   { name: 'Dinner', icon: '🍰' },
   { name: '30 Minute meals', icon: '🍰' },
 ]
+
+console.log('trendingRecipes',trendingRecipes.value)
 </script>
 
 <template>
@@ -47,22 +61,16 @@ const categories = [
 
       <HomeMainContent />
 
-      <div class="mb-12 text-center md:text-left flex flex-col md:flex-row justify-between items-end">
-        <div>
-          <h1 class="font-display text-4xl md:text-5xl font-bold mb-3">Trending This Week</h1>
-          <p class="text-slate-500 text-lg">Discover our most popular, mouth-watering recipes.</p>
-        </div>
-      </div>
+   <HomeMobileScroll 
+      :recipes="trendingRecipes" 
+      title="Trending This Week"
+      description="Discover our most popular recipes."
+    />
 
-      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 items-stretch">
-        <div 
-          v-for="recipe in recipes" 
-          :key="recipe.slug" 
-          class="flex flex-col"
-        >
-          <RecipeCard :recipe="recipe" class="h-full" />
-        </div>
-      </div>
+    <HomeMobileScroll 
+      :recipes="breakfastRecipes" 
+      title="Breakfast Favorites"
+    />
       
     </main>
   </div>
