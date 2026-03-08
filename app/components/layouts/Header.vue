@@ -16,15 +16,12 @@ const toggleTheme = () => {
   isDark.value = !isDark.value
 }
 
-// NuxtLink logo logic remains reactive to colorMode
-const logoSrc = computed(() => 
-  colorMode.value === 'dark' ? '/images/logo-dark.avif' : '/images/logo.avif'
-)
 const navLinks = [
   { name: 'All Recipes', path: '/categories/all-recipes' },
   { name: 'High Protein', path: '/categories/high-protein' },
   { name: 'Vegan', path: '/categories/vegan' },
   { name: 'Air fryer', path: '/categories/air-fryer' },
+  { name: 'Dessert', path: '/categories/dessert' },
   { name: '15 minute meals', path: '/categories/15-minute-meals'},
   { name: '30 minute meals', path: '/categories/30-minute-meals'}
 ]
