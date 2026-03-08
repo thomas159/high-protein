@@ -34,6 +34,8 @@ export default defineNuxtConfig({
   colorMode: {
     dataValue: 'theme', // This is the magic line! It applies data-theme="dark" to <html>
     classSuffix: '',    // Cleans up the default "-mode" suffix 
+    fallback: 'light',
+    storageKey: 'theme'
   },
   image: {
     domains: ['high-protein.vercel.app'],

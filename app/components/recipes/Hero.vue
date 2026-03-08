@@ -40,7 +40,7 @@ const props = defineProps<{
 
        <RecipesTags :recipe="props.recipe" />
     </div>
-        <h1 class="font-serif text-3xl md:text-4xl lg:text-5xl font-bold text-foreground leading-tight mb-4">
+        <h1 class="">
           {{ props.recipe.title }}
         </h1>
 

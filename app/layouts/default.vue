@@ -6,7 +6,7 @@
    <header class="sticky top-0 z-50 w-full border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
       <LayoutsHeader />
     </header>
-    <div class="container py-4 px-4">
+    <div class="container py-8 px-4">
       <NuxtPage />
     </div>
     <CookieBanner />

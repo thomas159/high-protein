@@ -41,9 +41,9 @@ const props = defineProps<{
         class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110" 
       />
       <div class="absolute top-3 left-3">
-        <span class="font-body text-[10px] font-bold uppercase tracking-widest bg-white/90 dark:bg-slate-900/90 text-green-600 dark:text-green-400 px-2.5 py-1 rounded-lg backdrop-blur-md border border-white/20 shadow-sm">
+        <!-- <span class="font-body text-[10px] font-bold uppercase tracking-widest bg-white/90 dark:bg-slate-900/90 text-green-600 dark:text-green-400 px-2.5 py-1 rounded-lg backdrop-blur-md border border-white/20 shadow-sm">
           {{ props.recipe.categories }}
-        </span>
+        </span> -->
       </div>
     </div>
     

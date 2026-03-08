@@ -1,23 +1,9 @@
 <script setup lang="ts">
 const appConfig = useAppConfig()
 </script>
+
 <template>
 <div class="min-h-screen font-sans text-gray-800">
-
-<section class="max-w-7xl mx-auto px-6 py-8">
-  <div class="flex gap-4 overflow-x-auto pb-4 no-scrollbar">
-    <div class="relative min-w-[300px] flex-1 aspect-[4/5] rounded-sm overflow-hidden shadow-md">
-      <!-- <img src="potatoes.jpg" class="w-full h-full object-cover" alt="Skillet Potatoes"> -->
-      <div class="absolute inset-0 bg-black/20 group-hover:bg-black/40 transition-all"></div>
-      <div class="absolute bottom-6 left-6">
-        <h3 class="text-white text-xl font-bold mb-2">Skillet Potatoes</h3>
-        <button class="bg-white/10 backdrop-blur-md border border-white/30 text-white px-4 py-1 text-sm uppercase tracking-widest hover:bg-flavor-sap">
-          Read More
-        </button>
-      </div>
-    </div>
-    </div>
-</section>
 
 <main class="max-w-7xl mx-auto px-6 grid grid-cols-1 lg:grid-cols-12 gap-12">
   
