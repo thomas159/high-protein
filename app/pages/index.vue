@@ -50,7 +50,7 @@ console.log('trendingRecipes',trendingRecipes.value)
       </div>
 
           <section class="border-y border-border py-6 my-12">
-      <div class="container mx-auto px-4 flex justify-center gap-8 md:gap-16">
+      <div class="container mx-auto px-4 flex flex-wrap justify-center gap-8 md:gap-16">
         <NuxtLink v-for="cat in categories" :key="cat.name" to="/" class="flex flex-col items-center group">
           <span class="text-3xl mb-2 group-hover:scale-110 transition-transform">{{ cat.icon }}</span>
           <span class="text-[11px] font-bold uppercase tracking-tighter text-muted-foreground group-hover:text-emerald-500">{{ cat.name }}</span>
