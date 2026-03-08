@@ -40,8 +40,14 @@
     --color-green-800: #216c49;
     --color-green-900: #12392f;
 
+    --spacing-main: 0.25rem;
+  }
+
+  @media (min-width: 1024px) {
+  :root {
     --spacing-main: 1rem;
   }
+}
   
   @layer utilities {
     .container {

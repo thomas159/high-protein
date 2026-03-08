@@ -6,7 +6,7 @@
    <header class="sticky top-0 w-full border-b bg-background z-50">
       <LayoutsHeader />
     </header>
-    <div class="container py-8 px-4">
+    <div class="container py-8 px-1">
       <NuxtPage />
     </div>
     <CookieBanner />
