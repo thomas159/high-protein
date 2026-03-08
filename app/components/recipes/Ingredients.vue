@@ -53,10 +53,10 @@ const props = defineProps<{
         </li>
       </ul>
 
-      <button class="w-full bg-transparent text-green-600 dark:text-green-400 font-semibold py-3.5 px-4 rounded-xl border-2 border-green-600/30 dark:border-green-500/30 hover:bg-green-500/10 hover:border-green-600/50 dark:hover:border-green-400/50 transition-all flex items-center justify-center gap-2 shadow-sm">
+      <!-- <button class="w-full bg-transparent text-green-600 dark:text-green-400 font-semibold py-3.5 px-4 rounded-xl border-2 border-green-600/30 dark:border-green-500/30 hover:bg-green-500/10 hover:border-green-600/50 dark:hover:border-green-400/50 transition-all flex items-center justify-center gap-2 shadow-sm">
         <svg class="w-5 h-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
         Add to Shopping List
-      </button>
+      </button> -->
     </div>
   </div>
 </template>
