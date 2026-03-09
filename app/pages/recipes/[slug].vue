@@ -23,6 +23,14 @@ const { data: relatedRecipes } = await useAsyncData(`${route.path}-related`, asy
   default: () => []
 })
 
+const formatTips = (text: string) => {
+  if (!text) return ''
+  
+  // Regex: ^ matches start of string, [\w\s]+ matches words/spaces, : matches colon
+  // The 'gm' flags mean Global and Multiline (checks every new line)
+  return text.replace(/^([\w\s]+:)/gm, '<strong class="text-green-600 dark:text-green-400">$1</strong>')
+}
+
 useHead({
   titleTemplate: (title) => title ? `${title} | ${siteName}` : siteName,
   meta: [{ name: 'description', content: siteDescription }]
@@ -50,8 +58,11 @@ useHead({
           <div class="markdown-recipe-body">
             <ContentRenderer v-if="recipe" :value="recipe" />
           </div>
-           <h2 v-if="recipe.tips" id="tips" class="mt-12">Tips</h2>
-           {{ recipe.tips }}
+           <h2 v-if="recipe.tips" id="tips" class="mt-12 whitespace-pre-line">Tips</h2>
+         <p 
+            class="whitespace-pre-line text-muted-foreground" 
+            v-html="formatTips(recipe.tips)"
+          ></p>
         </div>
       </div>
 
@@ -87,29 +98,42 @@ useHead({
   counter-reset: recipe-step;
   display: flex;
   flex-direction: column;
-  gap: 2.5rem;
+  gap: 2.5rem; /* Space between each numbered step */
 }
 
-/* 3. Style the list item container */
-.markdown-recipe-body :deep(li) {
+/* 3. Style the main list item container */
+.markdown-recipe-body :deep(ol > li) {
   display: flex;
+  flex-direction: row; /* Number and Content stay side-by-side */
   gap: 1.5rem;
   color: var(--color-foreground);
   opacity: 0.9;
   line-height: 1.7;
   font-size: 1.125rem;
   counter-increment: recipe-step;
+  align-items: flex-start;
 }
 
-/* 4. Magic! Recreate your custom numbered circle */
-.markdown-recipe-body :deep(li::before) {
+/* 4. The Content Wrapper Fix */
+/* This forces all paragraphs and elements inside the li to stack vertically */
+.markdown-recipe-body :deep(ol > li > div),
+.markdown-recipe-body :deep(ol > li > p),
+.markdown-recipe-body :deep(ol > li > span) {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem; /* Space between paragraphs within a single step */
+}
+
+/* 5. Custom Numbered Circle */
+.markdown-recipe-body :deep(ol > li::before) {
   content: counter(recipe-step);
   flex-shrink: 0;
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 2rem;
-  height: 2rem;
+  width: 2.25rem;
+  height: 2.25rem;
   border-radius: 9999px;
   background-color: var(--color-secondary);
   color: var(--color-foreground);
@@ -120,22 +144,41 @@ useHead({
   margin-top: 0.125rem;
 }
 
-/* 5. Hover state for the circle */
-.markdown-recipe-body :deep(li:hover::before) {
-  /* rgba versions of your green-500 for a nice subtle background */
+/* 6. Sub-list (Unordered) Reset */
+/* This ensures that bullets inside a step don't get the big green circles */
+.markdown-recipe-body :deep(li ul) {
+  list-style: disc;
+  padding-left: 1.5rem;
+  margin-top: 0.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.markdown-recipe-body :deep(li ul li) {
+  display: list-item; /* Reset to standard bullet behavior */
+  counter-increment: none; /* Stop the numbers from counting here */
+  font-size: 1rem;
+}
+
+.markdown-recipe-body :deep(li ul li::before) {
+  content: none; /* Hide the custom circle number for sub-items */
+}
+
+/* 7. Hover states and Accents */
+.markdown-recipe-body :deep(ol > li:hover::before) {
   background-color: rgba(66, 185, 131, 0.1); 
-  color: var(--color-green-600);
+  color: #10b981; /* Tailwind green-500 equivalent */
   border-color: rgba(66, 185, 131, 0.3);
 }
 
-/* 6. Dark mode hover tweak */
-html[data-theme="dark"] .markdown-recipe-body :deep(li:hover::before) {
-  color: var(--color-green-400);
-}
-
-/* 7. Make strong tags pop nicely */
 .markdown-recipe-body :deep(strong) {
   font-weight: 700;
   color: var(--color-foreground);
+}
+
+/* 8. Fix for ContentRenderer wrapping everything in a single paragraph */
+.markdown-recipe-body :deep(li p) {
+  margin: 0;
 }
 </style>

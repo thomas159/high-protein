@@ -1,0 +1,44 @@
+---
+title: "15 Minute cherry tomato and courgette risotto"
+slug: "15-minute-cherry-tomato-and-courgette-risotto"
+description: "This 15-minute Cherry Tomato and Zucchini Risotto is a quick and easy way to enjoy the classic dish without spending hours in the kitchen. Made using a microwave, this recipe is perfect for busy weeknights or when you're craving a comforting and satisfying meal.""
+blurb: |
+  The combination of sweet and tangy cherry tomatoes, tender zucchini and creamy risotto creates a delicious and satisfying dish that is perfect for any occasion. The risotto is made with Arborio rice, which is known for its creamy texture and ability to absorb liquid. The cherry tomatoes and zucchini are added in the last few minutes of cooking for a burst of flavor and texture.
+
+  One of the best things about this recipe is that it is versatile, you can add any vegetables you have on hand, such as mushrooms, bell peppers, or asparagus.
+
+  This recipe is also great for meal prep, you can make a big batch and enjoy it throughout the week, it reheats well in the microwave.
+image: "15-minute-cherry-tomato-and-courgette-risotto_p3fdjj"
+categories: ["dinner", "microwave", "15-minute-meals"]
+tags: ["vegan"]
+rating: 
+reviews: 
+prepTimeMins: 0
+cookTimeMins: 15
+servings: 1
+macros:
+  calories: 596
+  carbs: 95
+  protein: 16
+  fat: 13
+ingredients:
+  - { item: "White wine", amount: 60, unit: "ml" }
+  - { item: "Vegetable stock", amount: 250, unit: "ml" }
+  - { item: "Arborio rice", amount: 100, unit: "g" } 
+  - { item: "Garlic clove", type: 'minced', amount: 1 }
+  - { item: "Cherry tomatoes", amount: 70, unit: "g" }
+  - { item: "Courgette (zuchinni)", type: 'grated', amount: 50, unit: "g" }
+  - { item: "Butter", amount: 10, unit: "g" }
+  - { item: "Parmesan cheese", amount: 15, unit: "g" }  
+  
+---
+
+1. In a large microwave-safe bowl (choose one bigger than you think you need to avoid boil-overs), combine the Arborio rice and white wine. The wine should just barely submerge the grains. Microwave for 2 minutes on high. The wine should be mostly absorbed, smelling fragrant but not burnt.
+
+2. Pour your vegetable stock over the par-cooked rice. Microwave for 13 minutes. At the 7-minute mark, give it a quick stir. If the rice looks "dry" on top, add a splash more stock or water. You want a slightly soupy consistency at the end, not a solid block of rice.
+
+3. While the rice is in the microwave, prep your vegetables. In a saucepan over medium heat, melt a knob of butter with a splash of olive oil. Add the minced garlic and chopped tomatoes. Season with salt and pepper. Cook for 5 minutes until the tomatoes break down into a jammy sauce. Stir in the grated zucchini and cook for another 3–5 minutes. Zucchini has a high water content, so it will create a lovely "sauce" for the rice to join.
+
+4. Once the microwave beeps, carefully add the vegetables into the bowl with the rice, stir in the remaining butter and a generous handful of Parmesan cheese
+
+5. Let it sit for 1 minute. This allows the starch from the rice to bind with the butter and cheese for that signature glossy, restaurant-style finish.
