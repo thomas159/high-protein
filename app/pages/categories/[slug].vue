@@ -28,7 +28,8 @@ const displayTitle = computed(() => {
   const excludeMealsSuffix = [
     'all-recipes',
     '15-minute-meals',
-    '30-minute-meals'
+    '30-minute-meals',
+    'dessert'
   ]
 
   // If it's in the list, just return the name. Otherwise, add " Meals"
