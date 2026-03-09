@@ -4,7 +4,7 @@ slug: "test"
 description: "A quick, protein-packed dinner where juicy chicken breasts are pan-seared and basted in a rich garlic butter sauce."
 image: "apple-crumble-vihtqyvihtqyviht_hzcdgk"
 categories: ["vegan", "keto", "lunch", "trending"]
-tags: ["Keto", "High Protein", "Poultry"]
+tags: ["Keto", "High Protein"]
 rating: 4.8
 reviews: 1204
 prepTimeMins: 15
