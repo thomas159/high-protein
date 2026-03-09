@@ -2,7 +2,8 @@
 
 // Query all recipes in your collection
 const { data: recipes } = await useAsyncData('home-recipes', () => {
-  return queryCollection('recipes').limit(4).all()
+  return queryCollection('recipes').
+  limit(4).all()
 }, {
   // This ensures 'recipes' is [] initially and if the promise returns null/undefined
   default: () => [] 
@@ -19,7 +20,7 @@ const { data: breakfastRecipes } = await useAsyncData('breakfast', () => {
 const categories = [
   { name: 'High Protein', img: 'high-protein_ozub93', link: '/categories/high-protein' },
   { name: 'Vegan', img: 'vegan_byepar', link: '/categories/vegan' },
-  { name: 'Desserts', img: 'dessert_ciz4vp', link: '/categories/desserts' },
+  { name: 'Dessert', img: 'dessert_ciz4vp', link: '/categories/dessert' },
   { name: 'Dinner', img: 'dinner_jltkrm' , link: '/categories/dinner'},
   { name: '15 Minute meals', img: '15-minute-meals_wkmurj', link: '/categories/15-minute-meals' },
   { name: 'Air fryer', img: 'air-fryer_too3q1', link: '/categories/air-fryer' }
