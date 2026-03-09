@@ -2,7 +2,7 @@
 
 // Query all recipes in your collection
 const { data: recipes } = await useAsyncData('home-recipes', () => {
-  return queryCollection('recipes').all()
+  return queryCollection('recipes').limit(4).all()
 }, {
   // This ensures 'recipes' is [] initially and if the promise returns null/undefined
   default: () => [] 

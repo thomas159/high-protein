@@ -50,13 +50,13 @@ useHead({
           <div class="markdown-recipe-body">
             <ContentRenderer v-if="recipe" :value="recipe" />
           </div>
-           <h2 id="tops" class="mt-12">Tips</h2>
+           <h2 v-if="recipe.tips" id="tips" class="mt-12">Tips</h2>
            {{ recipe.tips }}
         </div>
       </div>
 
       <h2 id="relatedRecipes" class="mt-8">Related Recipes</h2>
-      <div class="grid grid-cols-2">
+      <div class="grid grid-cols-2 gap-main">
         <RecipeCard 
           v-for="relatedRecipe in relatedRecipes"
           :key="relatedRecipe.slug"

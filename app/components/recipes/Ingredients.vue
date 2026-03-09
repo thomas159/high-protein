@@ -20,6 +20,7 @@ export interface Recipe {
     item: string;
     amount: number;
     unit: string;
+    type: string;
   }[];
 }
 
@@ -46,7 +47,7 @@ const props = defineProps<{
             <label :for="'ingredient-'+index" class="ml-3 text-base text-muted-foreground cursor-pointer peer-checked:text-muted-foreground/50 peer-checked:line-through peer-checked:decoration-4 transition-all select-none leading-tight pt-0.5">
               
               <span class="font-medium text-foreground peer-checked:text-muted-foreground/50 transition-colors">
-                {{ item.amount }} {{ item.unit }} {{ item.item }}
+                {{ item.amount }} {{ item.unit }} {{ item.item }} <span v-if="item.type" class="italic">({{ item.type }})</span>
               </span>
             </label>
           </div>

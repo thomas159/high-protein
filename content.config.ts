@@ -33,7 +33,8 @@ export default defineContentConfig({
           z.object({
             item: z.string(),
             amount: z.number(),
-            unit: z.string()
+            unit: z.string(),
+            type: z.string()
           })
         )
       })

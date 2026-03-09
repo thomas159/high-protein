@@ -10,7 +10,7 @@ rating:
 reviews: 
 prepTimeMins: 15
 cookTimeMins: 15
-servings: 4
+servings: 1
 macros:
   calories: 308
   carbs: 40
