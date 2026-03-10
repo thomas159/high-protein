@@ -1,16 +1,7 @@
 // server/api/sitemap-urls.ts
 import { defineSitemapEventHandler } from '#imports'
-
-export default defineSitemapEventHandler(async (event) => { // <--- Added 'event' here
-  const categories = [
-    { name: 'High Protein', link: '/categories/high-protein' },
-    { name: 'Vegan', link: '/categories/vegan' },
-    { name: 'Dessert', link: '/categories/dessert' },
-    { name: 'Dinner', link: '/categories/dinner'},
-    { name: '15 Minute meals', link: '/categories/15-minute-meals' },
-    { name: 'Air fryer', link: '/categories/air-fryer' }
-  ]
-
+import { RECIPE_CATEGORIES } from '~/utils/constants'
+export default defineSitemapEventHandler(async (event) => { 
   try {
     // 1. Fetch recipes from Nuxt Content
     const recipes = await queryCollection(event, 'recipes').all()
@@ -23,11 +14,7 @@ export default defineSitemapEventHandler(async (event) => { // <--- Added 'event
     }))
 
     // 3. Map categories to sitemap format
-    const categoryUrls = categories.map(cat => ({
-      loc: cat.link,
-      priority: 0.6, // Slightly lower priority than main recipes
-      changefreq: 'weekly'
-    }))
+   const categoryUrls = RECIPE_CATEGORIES.map(cat => ({ loc: cat.link }))
 
     // 4. Merge and return both
     return [...recipeUrls, ...categoryUrls]

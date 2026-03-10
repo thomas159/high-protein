@@ -1,12 +1,14 @@
 <script setup lang="ts">
+import { RECIPE_CATEGORIES } from '~/utils/constants'
 const appConfig = useAppConfig()
 const currentYear = new Date().getFullYear()
 
 const footerLinks = {
   content: [
-    { name: 'All Recipes', path: '/categories/all-recipes' },
-    { name: 'High Protein', path: '/categories/high-protein' },
-    { name: 'Vegan', path: '/categories/vegan' }
+   ...RECIPE_CATEGORIES.map(cat => ({
+      name: cat.name,
+      path: cat.link // Mapping your 'link' property to 'path' for consistency
+    }))
   ],
   company: [
     { name: 'About Us', path: '/about' },

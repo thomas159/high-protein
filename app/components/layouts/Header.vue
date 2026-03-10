@@ -1,4 +1,5 @@
 <script setup>
+import { RECIPE_CATEGORIES } from '~/utils/constants'
 const colorMode = useColorMode()
 const isMenuOpen = ref(false)
 
@@ -52,9 +53,9 @@ const navLinks = [
       <div class="flex items-center gap-4">
         <div class="hidden md:flex items-center gap-6 text-sm font-medium text-muted-foreground">
           <NuxtLink 
-            v-for="link in navLinks" 
-            :key="link.path"
-            :to="link.path" 
+            v-for="link in RECIPE_CATEGORIES" 
+            :key="link.link"
+            :to="link.link" 
             class="hover:text-foreground transition-colors pb-1 border-b-2 border-transparent"
             active-class="!text-foreground !border-emerald-500"
           >
@@ -90,9 +91,9 @@ const navLinks = [
       <div v-if="isMenuOpen" class="md:hidden absolute top-full left-0 w-full bg-background border-b border-border z-50 shadow-xl">
         <div class="flex flex-col p-6 gap-4 text-base font-medium">
           <NuxtLink 
-            v-for="link in navLinks" 
-            :key="link.path"
-            :to="link.path" 
+            v-for="link in RECIPE_CATEGORIES" 
+            :key="link.link"
+            :to="link.link" 
             @click.stop="isMenuOpen = false"
             class="text-muted-foreground border-l-4 border-transparent pl-2"
             active-class="!text-emerald-500 !border-emerald-500"
