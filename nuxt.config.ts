@@ -30,7 +30,10 @@ export default defineNuxtConfig({
     enabled: true,
   },
   sitemap: {
-    strictNuxtContentPaths: true // Automatically picks up your .md files
+    includeAppSources: true,
+    sources: [
+      '/api/__sitemap__/urls', // Internal route for content discovery
+    ]
   },
   schemaOrg: {
     identity: {
