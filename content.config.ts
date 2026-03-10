@@ -10,13 +10,18 @@ export default defineContentConfig({
         slug: z.string(),
         description: z.string(),
         blurb: z.string(),
+        works: z.string(),
+        tips: z.string(),
+        use: z.string(),
+        flavour: z.string(),
         image: z.string().optional(), // Made optional so it doesn't break if a recipe lacks an image
         pintrest: z.string().optional(), // Made optional so it doesn't break if a recipe lacks an image
         categories: z.array(z.string()).default([]), // FIX: Added z.string()
         tags: z.array(z.string()).default([]),
-        tips: z.string(),
         rating: z.number(),
         reviews: z.number(),
+        flavor_profile: z.string(),
+        shelf_life: z.string(),
         prepTimeMins: z.number(),
         cookTimeMins: z.number(),
         servings: z.number(),

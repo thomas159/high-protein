@@ -23,12 +23,12 @@ const { data: relatedRecipes } = await useAsyncData(`${route.path}-related`, asy
   default: () => []
 })
 
-const formatTips = (text: string) => {
+const formatText = (text: string) => {
   if (!text) return ''
   
   // Regex: ^ matches start of string, [\w\s]+ matches words/spaces, : matches colon
   // The 'gm' flags mean Global and Multiline (checks every new line)
-  return text.replace(/^([\w\s]+:)/gm, '<strong class="text-green-600 dark:text-green-400">$1</strong>')
+  return text.replace(/^([^:\n]+:)/gm, '<strong class="text-green-600 dark:text-green-400">$1</strong>')
 }
 
 useHead({
@@ -58,11 +58,14 @@ useHead({
           <div class="markdown-recipe-body">
             <ContentRenderer v-if="recipe" :value="recipe" />
           </div>
-           <h2 v-if="recipe.tips" id="tips" class="mt-12 whitespace-pre-line">Tips</h2>
-         <p 
-            class="whitespace-pre-line text-muted-foreground" 
-            v-html="formatTips(recipe.tips)"
-          ></p>
+          <h2 v-if="recipe.tips" id="tips" class="mt-12 whitespace-pre-line">Tips</h2>
+          <p class="whitespace-pre-line text-muted-foreground" v-html="formatText(recipe.tips)" />
+          <h2 v-if="recipe.works" id="works" class="mt-12 whitespace-pre-line">Why this recipe works</h2>
+          <p class="whitespace-pre-line text-muted-foreground" v-html="formatText(recipe.works)" />
+          <h2 v-if="recipe.flavour" id="works" class="mt-12 whitespace-pre-line">Flavour profile</h2>
+          <p class="whitespace-pre-line text-muted-foreground" v-html="formatText(recipe.flavour)" />
+          <h2 v-if="recipe.use" id="works" class="mt-12 whitespace-pre-line">How to use it</h2>
+          <p class="whitespace-pre-line text-muted-foreground" v-html="formatText(recipe.use)" />
         </div>
       </div>
 
