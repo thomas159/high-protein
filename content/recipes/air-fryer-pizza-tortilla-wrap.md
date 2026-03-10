@@ -13,7 +13,7 @@ works: |
   Perfect Texture: The high heat of the oven turns the thin tortilla into a delicate, snap-crisp base.
 image: "air-fryer-pizza-tortilla-wrap_ko6ckn"
 pintrest: ""
-categories: ["dinner", "15-minute-meals"]
+categories: ["air-fryer", "dinner", "15-minute-meals"]
 tags: []
 rating: 
 reviews: 

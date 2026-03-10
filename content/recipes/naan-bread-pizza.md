@@ -7,7 +7,7 @@ description: |
   The soft, pillowy naan acts as the perfect canvas for a sweet and spicy base of mango chutney, topped with creamy, golden-seared paneer and a crunch of fresh veggies. It’s sweet, salty, and totally addictive.
 blurb: 
 image: "naan-bread-pizza_m9ikl5"
-categories: ["dinner", "15-minute-meals"]
+categories: ["air-fryer", "dinner", "15-minute-meals"]
 tips: |
   Add some heat: Sprinkle a few chili flakes or add a swirl of Sriracha on top before serving.
 tags: 
