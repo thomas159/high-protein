@@ -6,6 +6,28 @@ const { data: recipe } = await useAsyncData(route.path, () => {
   return queryCollection('recipes').path(route.path).first()
 })
 
+// Now integrate with SEO
+// 2. SEO & Schema (Server-only injection)
+if (import.meta.server) {
+  useSeoMeta({
+    title: recipe.value?.title,
+    ogTitle: recipe.value?.title,
+    description: recipe.value?.description,
+    ogDescription: recipe.value?.description,
+  })
+
+  useSchemaOrg([
+    defineRecipe({
+      name: recipe.value?.title,
+      description: recipe.value?.description,
+      keywords: recipe.value?.flavor_profile,
+      // Ensure these match your content.config.ts schema
+      recipeCategory: 'Main Course',
+      suitableForDiet: 'https://schema.org/LowCalorieDiet'
+    })
+  ])
+}
+
 const { data: relatedRecipes } = await useAsyncData(`${route.path}-related`, async () => {
   // Guard: if no recipe found, return empty array
   if (!recipe.value?.categories) return []

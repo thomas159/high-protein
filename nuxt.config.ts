@@ -17,14 +17,29 @@ export default defineNuxtConfig({
     '@nuxtjs/eslint-module',
     '@nuxt/content', // Ensure this is @nuxt/content v3 if using the 'build' property
     '@nuxt/test-utils/module',
+    '@nuxtjs/seo',
   ],
   // Site Configuration
   site: {
-    url: 'https://hotrecipes.co', // Newer sitemap versions prefer 'site' over 'sitemap.hostname'
+    url: 'https://hotrecipes.co.uk',
+    name: 'Spicy & Healthy Recipes',
+    description: 'Quick, low-calorie meals for busy weeknights.',
+    defaultLocale: 'en',
+  },
+  ogImage: {
+    enabled: true,
   },
   sitemap: {
-    hostname: 'https://hotrecipes.co', // Use the full protocol (https://)
+    strictNuxtContentPaths: true // Automatically picks up your .md files
   },
+  schemaOrg: {
+    identity: {
+      type: 'Organization',
+      name: 'My Recipe Site',
+      logo: '/logo.png'
+    }
+  },
+  // Content
   content: {
     database: {
       type: 'sqlite',
