@@ -23,7 +23,7 @@ ingredients:
   - { item: "Salt and black pepper", amount: 1, unit: "to taste" }
 ---
 
-1. Season the chicken breasts generously with salt and pepper on both sides.
-2. Heat olive oil in a large skillet over medium-high heat. Add the chicken and cook for 5-7 minutes per side, or until golden brown and cooked through (internal temperature reaches 165°F).
-3. Reduce heat to low. Add the butter and minced garlic to the skillet. Let the butter melt, constantly basting the chicken with the garlic butter for about 1-2 minutes until fragrant.
-4. Remove from heat, garnish with fresh parsley if desired, and serve immediately with the pan juices spooned over the top.
+1. Season the chicken breasts generously with salt and pepper on both sides
+2. Heat olive oil in a large skillet over medium-high heat. Add the chicken and cook for 5-7 minutes per side, or until golden brown and cooked through (internal temperature reaches 165°F)
+3. Reduce heat to low. Add the butter and minced garlic to the skillet. Let the butter melt, constantly basting the chicken with the garlic butter for about 1-2 minutes until fragrant
+4. Remove from heat, garnish with fresh parsley if desired, and serve immediately with the pan juices spooned over the top

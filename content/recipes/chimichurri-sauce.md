@@ -31,5 +31,5 @@ ingredients:
 
 ---
 
-1. In a small bowl, whisk the vinegar, salt, and garlic first. Let it sit for 2 minutes. This "macerates" the garlic, removing the harsh raw bite and infusing the vinegar. 
-2. Then, stir in the herbs, chilli, and finally the olive oil.
+1. In a small bowl, whisk the vinegar, salt, and garlic first. Let it sit for 2 minutes. This "macerates" the garlic, removing the harsh raw bite and infusing the vinegar
+2. Then, stir in the herbs, chilli, and finally the olive oil

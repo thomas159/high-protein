@@ -39,8 +39,8 @@ ingredients:
   
 ---
 
-1. In a small mixing bowl, whisk together the mayonnaise and Greek yogurt until completely smooth.
+1. In a small mixing bowl, whisk together the mayonnaise and Greek yogurt until completely smooth
 
-2. Mix in the garlic, salt and pepper.
+2. Mix in the garlic, salt and pepper
 
-3. Stir in half of your sliced spring onions and use the rest for garnish on top. For the best flavor, let the dip sit in the fridge for at least 15 minutes before serving. This allows the garlic to mellow and the flavors to deepen. Top with the remaining spring onions just before serving for a fresh crunch.
+3. Stir in half of your sliced spring onions and use the rest for garnish on top. For the best flavor, let the dip sit in the fridge for at least 15 minutes before serving. This allows the garlic to mellow and the flavors to deepen. Top with the remaining spring onions just before serving for a fresh crunch
