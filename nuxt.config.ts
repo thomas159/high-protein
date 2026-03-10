@@ -4,6 +4,7 @@
 export default defineNuxtConfig({
   compatibilityDate: '2024-11-01',
   devtools: { enabled: true },
+
   modules: [
     '@nuxt/image',
     'nuxt-vue3-google-signin',
@@ -14,21 +15,38 @@ export default defineNuxtConfig({
     '@pinia/nuxt',
     '@nuxt/fonts',
     '@nuxtjs/eslint-module',
-    '@nuxt/content',
-    '@nuxt/test-utils/module'
+    '@nuxt/content', // Ensure this is @nuxt/content v3 if using the 'build' property
+    '@nuxt/test-utils/module',
   ],
-   app: {
-    head: {
-      htmlAttrs: {
-        lang: 'en'
-      }
-    }
+  // Site Configuration
+  site: {
+    url: 'https://hotrecipes.co', // Newer sitemap versions prefer 'site' over 'sitemap.hostname'
+  },
+  sitemap: {
+    hostname: 'https://hotrecipes.co', // Use the full protocol (https://)
   },
   content: {
     database: {
       type: 'sqlite',
-      // This forces the use of a non-native driver compatible with Vercel
-      driver: 'wasm' 
+      driver: 'wasm'
+    },
+    build: {
+      markdown: {
+        highlight: {
+          theme: {
+            default: 'github-light',
+            dark: 'github-dark',
+            sepia: 'monokai'
+          }
+        }
+      }
+    }
+  },
+  app: {
+    head: {
+      htmlAttrs: {
+        lang: 'en'
+      }
     }
   },
   colorMode: {
@@ -52,7 +70,7 @@ export default defineNuxtConfig({
     // dir: 'public/images',
     // quality: 80,
     format: ['webp'],
-     screens: {
+    screens: {
       'sm': 640,
       'md': 768,
       'lg': 1024,
@@ -66,18 +84,11 @@ export default defineNuxtConfig({
   },
   runtimeConfig: {
     public: {
-        GOOGLE_API_KEY: process.env.GG_API_KEY,
-        SPREAD_SHEET_ID: process.env.SPREAD_SHEET_ID,
-        telegramBotToken: process.env.TELEGRAM_BOT_TOKEN
+      GOOGLE_API_KEY: process.env.GG_API_KEY,
+      SPREAD_SHEET_ID: process.env.SPREAD_SHEET_ID,
+      telegramBotToken: process.env.TELEGRAM_BOT_TOKEN
     }
   },
-  // // nitro: {
-  // //   publicAssets: [{
-  // //     baseURL: "assets/images",
-  // //     dir: "public/images",
-  // //     maxAge: 60 * 60 * 24 * 7, // 7 days
-  // //   },],
-  // // },
   vite: {
     server: {
       allowedHosts: ['localhost', '.dev'],
@@ -96,18 +107,18 @@ export default defineNuxtConfig({
   i18n: {
     defaultLocale: 'en',
     locales: [
-        {
-          code: 'en',
-          name: 'English',
-          flag: 'twemoji:flag-united-kingdom',
-          file: 'en.json',
-        },
-        {
-          code: 'vi',
-          name: 'Tiếng Việt',
-          flag: 'twemoji:flag-vietnam',
-          file: 'vi.json',
-        },
+      {
+        code: 'en',
+        name: 'English',
+        flag: 'twemoji:flag-united-kingdom',
+        file: 'en.json',
+      },
+      {
+        code: 'vi',
+        name: 'Tiếng Việt',
+        flag: 'twemoji:flag-vietnam',
+        file: 'vi.json',
+      },
     ],
   },
   fonts: {
@@ -133,21 +144,8 @@ export default defineNuxtConfig({
   eslint: {
     overrideConfig: {
       rules: {
-        'vue/multi-word-component-names':[0],
+        'vue/multi-word-component-names': [0],
       }
     }
   },
-  content: {
-    build: {
-      markdown: {
-        highlight: {
-          theme: {
-            default: 'github-light',
-            dark: 'github-dark',
-            sepia: 'monokai'
-          }
-        }
-      }
-    }
-  }
 })
