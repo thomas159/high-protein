@@ -1,0 +1,33 @@
+---
+title: "Thick cut sweet potato fries"
+slug: "thick-cut-sweet-potato-fries"
+description: "Experience the satisfying crunch of homemade crisps without the deep-fryer. These microwave crisps deliver all the bold flavor of the classic snack using zero oil, making them a remarkably healthy, guilt-free alternative that’s ready in minutes"
+image: "thick-cut-sweet-potato-fries_r69n9d"
+pintrest: ""
+categories: ["vegan", "snacks"]
+tips: 
+tags: []
+rating: 
+reviews: 
+flavor_profile: "Salty, Crispy, Savory"
+prepTimeMins: 30
+cookTimeMins: 30
+servings: 1
+macros:
+  calories: 232
+  carbs: 26
+  protein: 2
+  fat: 14
+ingredients:
+  - { item: "Olive oil", amount: 1, unit: "tbsp" }
+  - { item: "Sweet Potato", type: 'thickly cut', amount: 1 }
+
+---
+
+1. Slice the sweet potatoes into 1cm matchsticks. Soak them in cold water for 30 minutes to remove surface starch, then pat them completely dry
+
+2. In a bowl, toss the fries with a small amount of oil and your seasonings
+
+3. Place the fries in the basket and Air fry at 190c for 20-30 minutes. For the best results, cook in batches rather than stacking them too high. Every 5 minutes, remove the basket and give it a vigorous shake. This ensures every side of the fry hits that high-speed hot air
+
+4. Cook until the edges are golden-brown and slightly charred. Let them sit in the basket for 1 minute after turning the power off to "set" the crunch

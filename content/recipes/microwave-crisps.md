@@ -1,0 +1,36 @@
+---
+title: "Microwave crisps"
+slug: "microwave-crisps"
+description: "Experience the satisfying crunch of homemade crisps without the deep-fryer. These microwave crisps deliver all the bold flavor of the classic snack using zero oil, making them a remarkably healthy, guilt-free alternative that’s ready in minutes"
+image: "microwave-crisps_birlfh"
+pintrest: ""
+categories: ["vegan", "snacks", "15-minute-meals"]
+tips: |
+  Zing Tip: For "Salt & Vinegar" style chips, soak the slices in white vinegar for 10 minutes instead of water, then finish with a squeeze of lime juice right before serving.
+tags: []
+rating: 
+reviews: 
+flavor_profile: "Salty, Crispy, Savory"
+prepTimeMins: 5
+cookTimeMins: 10
+servings: 1
+macros:
+  calories: 229
+  carbs: 26
+  protein: 3
+  fat: 14
+ingredients:
+  - { item: "Olive oil", amount: 1, unit: "tbsp" }
+  - { item: "Potato", type: 'thinly sliced', amount: 1 }
+
+---
+
+1. Cutting the potatoes: Using a mandoline or a very sharp knife, slice the potatoes into paper-thin rounds. The thinner the slice, the crispier the chip will be.
+
+2. Place the slices in a bowl of cold water for 5 minutes to remove excess starch—this prevents them from sticking and helps them crisp up. Drain and pat them completely dry with a clean kitchen towel; any moisture left behind will cause them to steam rather than crisp.
+
+3. Lightly dust the dry slices with sea salt, paprika, or your favorite seasoning. Line your microwave's turntable (or a microwave-safe plate) with parchment paper. Arrange the slices in a single layer, ensuring they do not overlap.
+
+4. Microwave on high for 3 minutes. Flip the slices over and microwave for another 2 minutes. Continue in 1-minute increments until the chips start to turn golden brown and feel firm.
+
+5. Remove the chips from the microwave and let them sit for 1–2 minutes. They will continue to harden and reach maximum crunch as they cool. Serve immediately as a healthy side or a quick snack.
