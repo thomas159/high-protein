@@ -1,0 +1,45 @@
+---
+title: "Air fryer jalapeño cheese loaded fries"
+slug: "air-fryer-jalapeno-cheese-loaded-fries"
+description: "Upgrade your snack game with these ultimate loaded fries. Using the air fryer ensures a perfect golden crunch with a fraction of the oil. Smothered in melted cheese and topped with a spicy jalapeño kick, they’re the perfect 15-minute treat for game nights or quick cravings."
+image: "air-fryer-jalapeno-cheese-loaded-fries_ygrv8g"
+pintrest: ""
+categories: ["30-minute-meals", "snacks", "air-fryer"]
+tips: 
+tags: []
+whyUse: "Why use an air fryer?"
+why: |
+  Superior Crunch: Rapid air circulation creates a "deep-fried" texture without the grease.
+
+  Speed: Go from frozen or fresh to loaded in under 15 minutes.
+
+  Mess-Free: No oil splatters; the basket keeps the cheese melt contained and easy to clean.
+rating: 
+reviews: 
+flavor_profile: "Salty, Crispy, Savory"
+prepTimeMins: 5
+cookTimeMins: 30
+servings: 1
+macros:
+  calories: 482
+  carbs: 54
+  protein: 19
+  fat: 23
+ingredients:
+  - { item: "Olive oil", amount: 1, unit: "tsp" }
+  - { item: "Potatoes", type: 'sliced into 0.5cm matchsticks', amount: 200, unit: 'g'} 
+  - { item: "Cheddar cheese", type: 'grated', amount: 50, unit: 'g' }
+  - { item: "Jalapenos", type: 'sliced', amount: 25, unit: 'g' }
+  - { item: "Salt", amount: 0.5, unit: 'tsp' }
+
+---
+
+1. Scrub the potatoes and slice them into uniform sticks, approximately 0.5cm thick. In a large bowl, toss the fries with olive oil, salt until every surface is lightly coated. Using a bowl ensures even seasoning without making the fries soggy
+
+2. Arrange the potatoes in the basket, try not to overcrowd them to ensure maximum airflow. Air fry for 20-30 minutes on 190c, giving the basket a vigorous shake every 5 minutes for an even, golden crunch
+
+3. Once the fries are deeply golden and nearly finished (fries should be browned on the outside and soft in the middle), pause the air fryer. Sprinkle a generous layer of grated cheddar cheese and sliced jalapeños directly over the hot fries
+
+4. Slide the basket back in and cook for the final 60 seconds. The residual heat and circulating air will transform the cheese into a bubbling, molten blanket over the spicy jalapeños
+
+5. Carefully lift the fries out (a spatula helps keep the cheese intact) and serve immediately

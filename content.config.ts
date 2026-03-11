@@ -13,6 +13,8 @@ export default defineContentConfig({
         works: z.string(),
         tips: z.string(),
         use: z.string(),
+        whyUse: z.string(),
+        why: z.string(),
         flavour: z.string(),
         image: z.string().optional(), // Made optional so it doesn't break if a recipe lacks an image
         pintrest: z.string().optional(), // Made optional so it doesn't break if a recipe lacks an image

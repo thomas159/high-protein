@@ -88,6 +88,9 @@ useHead({
           <p class="whitespace-pre-line text-muted-foreground" v-html="formatText(recipe.flavour)" />
           <h2 v-if="recipe.use" id="works" class="mt-12 whitespace-pre-line">How to use it</h2>
           <p class="whitespace-pre-line text-muted-foreground" v-html="formatText(recipe.use)" />
+          <h2 v-if="recipe.whyUse" id="works" class="mt-12 whitespace-pre-line">{{recipe.whyUse}}</h2>
+          <p class="whitespace-pre-line text-muted-foreground" v-html="formatText(recipe.why)" />
+
         </div>
       </div>
 
