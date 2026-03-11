@@ -6,45 +6,45 @@ export default defineContentConfig({
       type: 'page',
       source: 'recipes/**',
       schema: z.object({
-        title: z.string(),
-        slug: z.string(),
-        description: z.string(),
-        blurb: z.string(),
-        works: z.string(),
-        tips: z.string(),
-        use: z.string(),
-        whyTitle: z.string(),
-        why: z.string(),
-        dont: z.string(),
-        dontTitle: z.string(),
-        flavour: z.string(),
+        title: z.string().optional(),
+        slug: z.string().optional(),
+        description: z.string().optional(),
+        blurb: z.string().optional(),
+        works: z.string().optional(),
+        tips: z.string().optional(),
+        use: z.string().optional(),
+        whyTitle: z.string().optional(),
+        why: z.string().optional(),
+        dont: z.string().optional(),
+        dontTitle: z.string().optional(),
+        flavour: z.string().optional(),
         image: z.string().optional(), // Made optional so it doesn't break if a recipe lacks an image
         pintrest: z.string().optional(), // Made optional so it doesn't break if a recipe lacks an image
         categories: z.array(z.string()).default([]), // FIX: Added z.string()
         tags: z.array(z.string()).default([]),
-        rating: z.number(),
-        reviews: z.number(),
-        flavor_profile: z.string(),
-        shelf_life: z.string(),
-        prepTimeMins: z.number(),
-        cookTimeMins: z.number(),
-        servings: z.number(),
+        rating: z.number().optional(),
+        reviews: z.number().optional(),
+        flavor_profile: z.string().optional(),
+        shelf_life: z.string().optional(),
+        prepTimeMins: z.number().optional(),
+        cookTimeMins: z.number().optional(),
+        servings: z.number().optional(),
         
         // Grouped macro object
         macros: z.object({
-          calories: z.number(),
-          carbs: z.number(),
-          protein: z.number(),
-          fat: z.number()
+          calories: z.number().optional(),
+          carbs: z.number().optional(),
+          protein: z.number().optional(),
+          fat: z.number().optional()
         }),
         
         // Array of ingredient objects
         ingredients: z.array(
           z.object({
-            item: z.string(),
-            amount: z.number(),
-            unit: z.string(),
-            type: z.string()
+            item: z.string().optional(),
+            amount: z.number().optional(),
+            unit: z.string().optional(),
+            type: z.string().optional()
           })
         )
       })
