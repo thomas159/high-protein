@@ -1,19 +1,17 @@
 ---
 title: "Air fryer jalapeño cheese loaded fries"
 slug: "air-fryer-jalapeno-cheese-loaded-fries"
-description: "Upgrade your snack game with these ultimate loaded fries. Using the air fryer ensures a perfect golden crunch with a fraction of the oil. Smothered in melted cheese and topped with a spicy jalapeño kick, they’re the perfect 15-minute treat for game nights or quick cravings."
-image: "air-fryer-jalapeno-cheese-loaded-fries_ygrv8g"
+description: "Upgrade your snack game with these ultimate loaded fries. Using the air fryer ensures a perfect golden crunch with a fraction of the oil. Smothered in melted cheese and topped with a spicy jalapeño kick, they’re the perfect 15-minute treat for game nights or quick cravings"
+image: "air-fryer-jalapeno-cheese-loaded-fries_twwfu7"
 pintrest: ""
-categories: ["30-minute-meals", "snacks", "air-fryer"]
+categories: ["air-fryer", "30-minute-meals", "snacks"]
 tips: 
 tags: []
-whyUse: "Why use an air fryer?"
+whyTitle: "Why use an air fryer?"
 why: |
   Superior Crunch: Rapid air circulation creates a "deep-fried" texture without the grease.
 
-  Speed: Go from frozen or fresh to loaded in under 15 minutes.
-
-  Mess-Free: No oil splatters; the basket keeps the cheese melt contained and easy to clean.
+  Speed: Go from frozen or fresh to loaded in under 30 minutes.
 rating: 
 reviews: 
 flavor_profile: "Salty, Crispy, Savory"

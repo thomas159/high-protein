@@ -2,7 +2,7 @@
 title: "Thai carrot soup"
 slug: "thai-carrot-soup"
 description: "Indulge in the rich and aromatic flavors of Thailand with this Creamy Thai Carrot Soup. Infused with fragrant Thai red curry paste and creamy coconut milk, this vegan-friendly soup is a perfect blend of sweet, spicy, and savory notes. With its vibrant color and silky texture, this soup not only satisfies your taste buds but also provides a healthy dose of vitamin A and antioxidants. Ideal for a light meal, this Thai Carrot Soup is sure to transport your senses to the streets of Bangkok"
-image: "thai-carrot-soup_lugwal"
+image: "thai-carrot-soup_e6uask"
 pintrest: ""
 categories: ["vegan", "dinner", "30-minute-meals"]
 tags: []

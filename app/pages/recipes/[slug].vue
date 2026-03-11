@@ -88,8 +88,38 @@ useHead({
           <p class="whitespace-pre-line text-muted-foreground" v-html="formatText(recipe.flavour)" />
           <h2 v-if="recipe.use" id="works" class="mt-12 whitespace-pre-line">How to use it</h2>
           <p class="whitespace-pre-line text-muted-foreground" v-html="formatText(recipe.use)" />
-          <h2 v-if="recipe.whyUse" id="works" class="mt-12 whitespace-pre-line">{{recipe.whyUse}}</h2>
+          <h2 v-if="recipe.whyTitle" id="works" class="mt-12 whitespace-pre-line">{{recipe.whyTitle}}</h2>
           <p class="whitespace-pre-line text-muted-foreground" v-html="formatText(recipe.why)" />
+
+          <!-- <div v-if="recipe.dontTitle && recipe.dont" class="bg-blue-50 border-l-4 border-blue-400 p-4 my-4">
+            <div class="flex">
+              <div class="flex-shrink-0">
+                <Icon name="ph:info-bold" class="h-5 w-5 text-blue-400" />
+              </div>
+              <div class="ml-3">
+                <p class="text-sm text-blue-700">
+                  <strong>{{ recipe.dontTitle}}</strong>{{ recipe.dont }}
+                </p>
+              </div>
+            </div>
+          </div> -->
+
+          <!-- <div class="bg-green-50 border-l-4 border-green-500 p-6 rounded-r-lg shadow-sm">
+            <div class="flex items-center mb-4">
+              <Icon name="ph:lightbulb-bold" class="text-green-600 w-6 h-6 mr-2" />
+              <span class="text-green-800 font-bold uppercase tracking-wider text-sm">
+                Chef's Insights
+              </span>
+            </div>
+          </div> -->
+
+          <!-- <MDC 
+        :value="recipe.why" 
+        class="prose prose-green max-w-none 
+               prose-h2:text-xl prose-h2:mt-0 prose-h2:mb-2 prose-h2:text-green-900
+               prose-p:text-green-800 prose-p:leading-relaxed
+               prose-li:text-green-700" -->
+      <!-- /> -->
 
         </div>
       </div>
