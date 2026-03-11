@@ -24,7 +24,7 @@ macros:
   protein: 19
   fat: 23
 ingredients:
-  - { item: "Olive oil", amount: 1, unit: "tsp" }
+  - { item: "Olive oil", amount: 1, unit: "tbsp" }
   - { item: "Potatoes", type: 'sliced into 0.5cm matchsticks', amount: 200, unit: 'g'} 
   - { item: "Cheddar cheese", type: 'grated', amount: 50, unit: 'g' }
   - { item: "Jalapenos", type: 'sliced', amount: 25, unit: 'g' }
@@ -34,7 +34,7 @@ ingredients:
 
 1. Scrub the potatoes and slice them into uniform sticks, approximately 0.5cm thick. In a large bowl, toss the fries with olive oil, salt until every surface is lightly coated. Using a bowl ensures even seasoning without making the fries soggy
 
-2. Arrange the potatoes in the basket, try not to overcrowd them to ensure maximum airflow. Air fry for 20-30 minutes on 190c, giving the basket a vigorous shake every 5 minutes for an even, golden crunch
+2. Arrange the potatoes in the basket, try not to overcrowd them to ensure maximum airflow. Air fry for 18-24 minutes on 190c, giving the basket a vigorous shake every 5 minutes for an even, golden crunch
 
 3. Once the fries are deeply golden and nearly finished (fries should be browned on the outside and soft in the middle), pause the air fryer. Sprinkle a generous layer of grated cheddar cheese and sliced jalapeños directly over the hot fries
 

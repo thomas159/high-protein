@@ -25,7 +25,7 @@ macros:
   protein: 7
   fat: 16
 ingredients:
-  - { item: "Olive oil", amount: 1, unit: "tsp" }
+  - { item: "Olive oil", amount: 1, unit: "tbsp" }
   - { item: "Potatoes", type: 'sliced into 0.5cm matchsticks', amount: 200, unit: 'g'} 
   - { item: "Sour cream", amount: 1, unit: 'tbsp' }
   - { item: "Garlic granules ", amount: 0.25, unit: 'tsp' }
@@ -35,7 +35,7 @@ ingredients:
 
 1. Scrub the potatoes and slice them into uniform sticks, approximately 0.5cm thick. In a large bowl, toss the fries with olive oil, salt until every surface is lightly coated. Using a bowl ensures even seasoning without making the fries soggy
 
-2. Arrange the potatoes in the basket, try not to overcrowd them to ensure maximum airflow. Air fry for 20-30 minutes on 190c, giving the basket a vigorous shake every 5 minutes for an even, golden crunch
+2. Arrange the potatoes in the basket, try not to overcrowd them to ensure maximum airflow. Air fry for 18-24 minutes on 190c, giving the basket a vigorous shake every 5 minutes for an even, golden crunch
 
 3. While the fries are crisping, whisk together the sour cream, garlic granules, and finely chopped spring onions in a small bowl.
 

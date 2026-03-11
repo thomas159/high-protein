@@ -1,0 +1,40 @@
+---
+title: "Air fryer rosemary and garlic fries"
+slug: "air-fryer-rosemary-and-garlic-fries"
+description: "Upgrade your side dish with these fragrant, herb-infused fries. By combining fresh rosemary and savory garlic with the high-speed crisping of the air fryer, you get a gourmet chip with significantly less fat than traditional frying. Golden, crispy, and ready in under 30 minutes."
+image: "air-fryer-jalapeno-cheese-loaded-fries_twwfu7"
+pintrest: ""
+categories: ["air-fryer", "30-minute-meals", "snacks"]
+tips: 
+tags: ["Vegan", "Gluten-Free", "Healthy"]
+whyTitle: "Why use an air fryer?"
+why: |
+  Herb Infusion: The rapid air circulation "toasts" the rosemary needles, releasing their essential oils directly into the potato skin.
+  Reduced Fat: Achieve that signature crunch with just a tablespoon of heart-healthy olive oil.
+  Consistent Heat: No hot spots—the air fryer ensures every fry is evenly browned and infused with garlic.
+rating: 
+reviews: 
+flavor_profile: "Salty, Crispy, Savory"
+prepTimeMins: 5
+cookTimeMins: 30
+servings: 1
+macros:
+  calories: 344
+  carbs: 54
+  protein: 6
+  fat: 15
+ingredients:
+  - { item: "Olive oil", amount: 1, unit: "tbsp" }
+  - { item: "Potatoes", type: 'sliced into 0.5cm matchsticks', amount: 200, unit: 'g'} 
+  - { item: "Garlic granules", amount: 1, unit: 'tsp' }
+  - { item: "Rosemary", amount: 5, unit: 'g' }
+  - { item: "Salt", amount: 0.5, unit: 'tsp' }
+  
+
+---
+
+1. Scrub the potatoes and slice them into uniform sticks, approximately 0.5cm thick. In a large bowl, toss the fries with olive oil, dried rosemary, and garlic granules and salt until every surface is lightly coated. Using a bowl ensures even seasoning without making the fries soggy
+
+2. Arrange the potatoes in the basket, try not to overcrowd them to ensure maximum airflow. Air fry for 18-24 minutes on 190c, giving the basket a vigorous shake halfway through—this redistributes the rosemary needles and ensures the garlic oil browns every side of the potato evenly
+
+3. Once the fries are golden-brown and fragrant, remove them immediately. For an extra pop of flavor, garnish with a final pinch of fresh rosemary
