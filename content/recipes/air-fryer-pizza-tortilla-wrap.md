@@ -31,13 +31,9 @@ ingredients:
   - { item: "Mozarella", amount: 70, unit: "g" }
   - { item: "Cherry tomatoes", amount: 5 }
   - { item: "Red onion", amount: 0.5 }        
-
+steps:
+  - "Preheat your air fryer or oven to 200°C. Place the tortilla in the air fryer tray or on a flat baking tray or a pizza stone. Use the back of a spoon to spread the pesto evenly across the surface. Leave a 1cm border around the edge. This allows the tortilla to \"puff\" slightly and turn into a crunchy, golden crust."
+  - "Layer your fresh ingredients carefully to ensure an even cook. Distribute the mozzarella slices evenly. Scatter the halved cherry tomatoes (cut-side up to prevent sogginess) and the thinly sliced onions."
+  - "Cook for around 6–8 minutes. The edges of the tortilla should be a deep golden brown and the mozzarella should be bubbling with small golden spots."
+  - "Remove from the air fryer or oven and let it sit on the tray for 1 minute. This brief rest allows the tortilla to fully crisp up so it can be sliced without folding."
 ---
-
-1. Preheat your air fryer or oven to 200°C. Place the tortilla in the air fryer tray or on a flat baking tray or a pizza stone. Use the back of a spoon to spread the pesto evenly across the surface. Leave a 1cm border around the edge. This allows the tortilla to "puff" slightly and turn into a crunchy, golden crust.
-
-2. Layer your fresh ingredients carefully to ensure an even cook. Distribute the mozzarella slices evenly. Scatter the halved cherry tomatoes (cut-side up to prevent sogginess) and the thinly sliced onions.
-
-3. Cook for around 6–8 minutes. The edges of the tortilla should be a deep golden brown and the mozzarella should be bubbling with small golden spots.
-
-4. Remove from the air fryer or oven and let it sit on the tray for 1 minute. This brief rest allows the tortilla to fully crisp up so it can be sliced without folding.

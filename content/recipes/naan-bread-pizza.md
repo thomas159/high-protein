@@ -28,13 +28,9 @@ ingredients:
   - { item: "Red pepper", type: 'chopped', amount: 25, unit: "g" } 
   - { item: "White onion", type: 'chopped', amount: 25, unit: "g" } 
   - { item: "Coriander" } 
-
+steps:
+  - "Spread a generous, even layer of mango chutney across the entire surface of the naan. Think of this as your flavor-packed alternative to traditional tomato sauce"
+  - "Evenly distribute the paneer cubes, red peppers, and onions over the chutney. Press the paneer lightly into the chutney so it stays put!"
+  - "Slide the naan into a preheated oven or airfryer and cook according to package instructions, but leave it in for an extra 2–3 minutes. This ensures the vegetables soften and the paneer edges get that gorgeous, charred \"tandoori\" look"
+  - "Once the edges of the naan are crisp and the cheese is hot, remove from the oven. Shower the pizza with freshly chopped coriander while it’s still steaming"
 ---
-
-1. Spread a generous, even layer of mango chutney across the entire surface of the naan. Think of this as your flavor-packed alternative to traditional tomato sauce
-
-2. Evenly distribute the paneer cubes, red peppers, and onions over the chutney. Press the paneer lightly into the chutney so it stays put!
-
-3. Slide the naan into a preheated oven or airfryer and cook according to package instructions, but leave it in for an extra 2–3 minutes. This ensures the vegetables soften and the paneer edges get that gorgeous, charred "tandoori" look
-
-4. Once the edges of the naan are crisp and the cheese is hot, remove from the oven. Shower the pizza with freshly chopped coriander while it’s still steaming

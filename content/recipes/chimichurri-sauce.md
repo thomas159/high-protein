@@ -28,8 +28,7 @@ ingredients:
   - { item: "Red chilli finely chopped", amount: 1 }
   - { item: "Salt", amount: 0.25, unit: "tsp" }
   - { item: "Pinch of black pepper" }
-
+steps:
+  - "In a small bowl, whisk the vinegar, salt, and garlic first. Let it sit for 2 minutes. This \"macerates\" the garlic, removing the harsh raw bite and infusing the vinegar"
+  - "Then, stir in the herbs, chilli, and finally the olive oil"
 ---
-
-1. In a small bowl, whisk the vinegar, salt, and garlic first. Let it sit for 2 minutes. This "macerates" the garlic, removing the harsh raw bite and infusing the vinegar
-2. Then, stir in the herbs, chilli, and finally the olive oil

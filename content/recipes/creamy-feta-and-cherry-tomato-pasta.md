@@ -33,15 +33,10 @@ ingredients:
   - { item: "feta cheese", amount: 50, unit: "g" } 
   - { item: "Cream", amount: 50, unit: "ml" } 
   - { item: "Vegetable stock", amount: 50, unit: "ml"} 
-
+steps:
+  - "Fill a large pot with water and a generous pinch of salt (it should taste like the sea). Bring to a rolling boil, add your pasta, and cook until al dente (usually 1–2 minutes less than the package instructions)"
+  - "While the pasta is bubbling, heat olive oil in a large saucepan over medium heat. Add the tomatoes and garlic. Cook for 2 minutes until the tomatoes just begin to soften and the garlic is fragrant. Pour in the white wine. Let it simmer for 2–3 minutes until the sharp alcohol scent has vanished and the liquid has reduced by half"
+  - "Stir in the vegetable stock and heavy cream. Simmer for another 2–3 minutes until the sauce coats the back of a spoon. Crumble in the feta cheese. Don’t over-stir if you like little \"pockets\" of cheese, or whisk it in for a completely smooth, salty sauce"
+  - "Transfer the cooked pasta directly into the saucepan with the sauce. If the sauce looks too thick, add a splash of that reserved pasta water. The starch in the water helps the sauce cling to the noodles rather than sliding off"
+  - "Remove from heat immediately. Serve in warm bowls and garnish with fresh basil or a crack of black pepper"
 ---
-
-1. Fill a large pot with water and a generous pinch of salt (it should taste like the sea). Bring to a rolling boil, add your pasta, and cook until al dente (usually 1–2 minutes less than the package instructions)
-
-2.  While the pasta is bubbling, heat olive oil in a large saucepan over medium heat. Add the tomatoes and garlic. Cook for 2 minutes until the tomatoes just begin to soften and the garlic is fragrant. Pour in the white wine. Let it simmer for 2–3 minutes until the sharp alcohol scent has vanished and the liquid has reduced by half
-
-3. Stir in the vegetable stock and heavy cream. Simmer for another 2–3 minutes until the sauce coats the back of a spoon. Crumble in the feta cheese. Don’t over-stir if you like little "pockets" of cheese, or whisk it in for a completely smooth, salty sauce
-
-4. Transfer the cooked pasta directly into the saucepan with the sauce. If the sauce looks too thick, add a splash of that reserved pasta water. The starch in the water helps the sauce cling to the noodles rather than sliding off
-
-5. Remove from heat immediately. Serve in warm bowls and garnish with fresh basil or a crack of black pepper

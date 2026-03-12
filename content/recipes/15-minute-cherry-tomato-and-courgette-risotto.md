@@ -30,15 +30,10 @@ ingredients:
   - { item: "Courgette (zuchinni)", type: 'grated', amount: 50, unit: "g" }
   - { item: "Butter", amount: 10, unit: "g" }
   - { item: "Parmesan cheese", amount: 15, unit: "g" }  
-  
+steps:
+  - "In a large microwave-safe bowl (choose one bigger than you think you need to avoid boil-overs), combine the Arborio rice and white wine. The wine should just barely submerge the grains. Microwave for 2 minutes on high. The wine should be mostly absorbed, smelling fragrant but not burnt."
+  - "Pour your vegetable stock over the par-cooked rice. Microwave for 13 minutes. At the 7-minute mark, give it a quick stir. If the rice looks \"dry\" on top, add a splash more stock or water. You want a slightly soupy consistency at the end, not a solid block of rice."
+  - "While the rice is in the microwave, prep your vegetables. In a saucepan over medium heat, melt a knob of butter with a splash of olive oil. Add the minced garlic and chopped tomatoes. Season with salt and pepper. Cook for 5 minutes until the tomatoes break down into a jammy sauce. Stir in the grated zucchini and cook for another 3–5 minutes. Zucchini has a high water content, so it will create a lovely \"sauce\" for the rice to join."
+  - "Once the microwave beeps, carefully add the vegetables into the bowl with the rice, stir in the remaining butter and a generous handful of Parmesan cheese"
+  - "Let it sit for 1 minute. This allows the starch from the rice to bind with the butter and cheese for that signature glossy, restaurant-style finish."
 ---
-
-1. In a large microwave-safe bowl (choose one bigger than you think you need to avoid boil-overs), combine the Arborio rice and white wine. The wine should just barely submerge the grains. Microwave for 2 minutes on high. The wine should be mostly absorbed, smelling fragrant but not burnt.
-
-2. Pour your vegetable stock over the par-cooked rice. Microwave for 13 minutes. At the 7-minute mark, give it a quick stir. If the rice looks "dry" on top, add a splash more stock or water. You want a slightly soupy consistency at the end, not a solid block of rice.
-
-3. While the rice is in the microwave, prep your vegetables. In a saucepan over medium heat, melt a knob of butter with a splash of olive oil. Add the minced garlic and chopped tomatoes. Season with salt and pepper. Cook for 5 minutes until the tomatoes break down into a jammy sauce. Stir in the grated zucchini and cook for another 3–5 minutes. Zucchini has a high water content, so it will create a lovely "sauce" for the rice to join.
-
-4. Once the microwave beeps, carefully add the vegetables into the bowl with the rice, stir in the remaining butter and a generous handful of Parmesan cheese
-
-5. Let it sit for 1 minute. This allows the starch from the rice to bind with the butter and cheese for that signature glossy, restaurant-style finish.

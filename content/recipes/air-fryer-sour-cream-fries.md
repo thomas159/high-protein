@@ -30,15 +30,10 @@ ingredients:
   - { item: "Sour cream", amount: 1, unit: 'tbsp' }
   - { item: "Garlic granules ", amount: 0.25, unit: 'tsp' }
   - { item: "Spring onion", type: 'finely chopped', amount: 1 }
-
+steps:
+  - "Scrub the potatoes and slice them into uniform sticks, approximately 0.5cm thick. In a large bowl, toss the fries with olive oil, salt until every surface is lightly coated. Using a bowl ensures even seasoning without making the fries soggy"
+  - "Arrange the potatoes in the basket, try not to overcrowd them to ensure maximum airflow. Air fry for 18-24 minutes on 190c, giving the basket a vigorous shake every 5 minutes for an even, golden crunch"
+  - "While the fries are crisping, whisk together the sour cream, garlic granules, and finely chopped spring onions in a small bowl."
+  - "Once the fries are deeply golden and nearly finished (fries should be browned on the outside and soft in the middle), transfer them to a clean bowl. Pour the sour cream mixture over the top and toss gently but quickly to coat"
+  - "Serve right away while the fries are still hot and the sauce is cool and creamy. Top with an extra sprinkle of spring onions or a dash of black pepper for a professional finish"
 ---
-
-1. Scrub the potatoes and slice them into uniform sticks, approximately 0.5cm thick. In a large bowl, toss the fries with olive oil, salt until every surface is lightly coated. Using a bowl ensures even seasoning without making the fries soggy
-
-2. Arrange the potatoes in the basket, try not to overcrowd them to ensure maximum airflow. Air fry for 18-24 minutes on 190c, giving the basket a vigorous shake every 5 minutes for an even, golden crunch
-
-3. While the fries are crisping, whisk together the sour cream, garlic granules, and finely chopped spring onions in a small bowl.
-
-3. Once the fries are deeply golden and nearly finished (fries should be browned on the outside and soft in the middle), transfer them to a clean bowl. Pour the sour cream mixture over the top and toss gently but quickly to coat
-
-4. Serve right away while the fries are still hot and the sauce is cool and creamy. Top with an extra sprinkle of spring onions or a dash of black pepper for a professional finish

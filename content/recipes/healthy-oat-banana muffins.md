@@ -28,9 +28,9 @@ ingredients:
   - { item: "Greek yogurt", amount: 2, unit: "tbsp" }
   - { item: "Honey", amount: 2, unit: "tbsp" }
   - { item: "Desiccated coconut", amount: 20, unit: "g" } 
+steps:
+  - "Mash the banana in a bowl until smooth. Whisk in the egg, Greek yogurt, honey, and cocoa powder"
+  - "Fold in the oat flour, baking powder, and half of the desiccated coconut"
+  - "Pour into a small lined dish. Sprinkle the remaining coconut on top for a toasted finish"
+  - "Bake at 180°C for 6-8 minutes in the air fryer or the oven until they look cooked (insert a fork and it should come out clean)"
 ---
-
-1. Mash the banana in a bowl until smooth. Whisk in the egg, Greek yogurt, honey, and cocoa powder
-2. Fold in the oat flour, baking powder, and half of the desiccated coconut
-3. Pour into a small lined dish. Sprinkle the remaining coconut on top for a toasted finish
-4. Bake at 180°C for 6-8 minutes in the air fryer or the oven until they look cooked (insert a fork and it should come out clean)

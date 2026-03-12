@@ -36,15 +36,10 @@ ingredients:
   - { item: "Spring onion", type: 'finely chopped', amount: 1 } 
   - { item: "Cheddar cheese", type: 'grated', amount: 20, unit: 'g' }
   - { item: "Sesame seeds", type: 'toasted', amount: 0.5, unit: 'tsp' }
-
+steps:
+  - "Scrub the potatoes and slice them into uniform sticks, approximately 0.5cm thick. In a large bowl, toss the fries with olive oil, dried rosemary, and garlic granules and salt until every surface is lightly coated. Using a bowl ensures even seasoning without making the fries soggy"
+  - "Arrange the potatoes in the basket, try not to overcrowd them to ensure maximum airflow. Air fry for 18-24 minutes on 190c, giving the basket a vigorous shake halfway through"
+  - "With 5 minutes left on the fries, add the kimchi to a pan over medium heat. Sauté for 2 minutes to cook off the raw edge. Stir in the soy sauce, sugar, and Gochujang. Cook for another 2 minutes until the sauce is glossy and coats the kimchi perfectly"
+  - "Once the fries are golden-brown and fragrant, remove them and toss immediately with the hot, saucy kimchi"
+  - "Plate the fries while steaming hot. Immediately top with grated cheddar so it melts into the kimchi, then garnish with sesame seeds and fresh spring onions for crunch."
 ---
-
-1. Scrub the potatoes and slice them into uniform sticks, approximately 0.5cm thick. In a large bowl, toss the fries with olive oil, dried rosemary, and garlic granules and salt until every surface is lightly coated. Using a bowl ensures even seasoning without making the fries soggy
-
-2. Arrange the potatoes in the basket, try not to overcrowd them to ensure maximum airflow. Air fry for 18-24 minutes on 190c, giving the basket a vigorous shake halfway through
-
-3. With 5 minutes left on the fries, add the kimchi to a pan over medium heat. Sauté for 2 minutes to cook off the raw edge. Stir in the soy sauce, sugar, and Gochujang. Cook for another 2 minutes until the sauce is glossy and coats the kimchi perfectly
-
-3. Once the fries are golden-brown and fragrant, remove them and toss immediately with the hot, saucy kimchi
-
-4. Plate the fries while steaming hot. Immediately top with grated cheddar so it melts into the kimchi, then garnish with sesame seeds and fresh spring onions for crunch.

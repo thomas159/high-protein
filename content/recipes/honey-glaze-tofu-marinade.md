@@ -40,19 +40,10 @@ ingredients:
   - { item: "Garlic powder", amount: 0.25, unit: 'tsp' } 
   - { item: "Chilli powder", amount: 0.25, unit: 'tsp' }
   - { item: "Water", amount: 1, unit: 'tbsp' }
-
-
-# steps:
-#   - "Press the tofu for 15 minutes to remove excess moisture."
-#   - "Combine the ketchup, gochujang, and aromatics in a bowl."
-#   - "Toss the tofu in the marinade and rest for 30 minutes."
-#   - "Air fry at 180°C for 6-10 minutes until charred."
-# 1. For the best results, wrap your extra-firm tofu in a clean towel and place a heavy weight on top for 15 minutes. Removing excess water allows the marinade to soak deep into the block rather than just sitting on the surface.
-
-# 2. In a bowl, combine the honey, lemon juice, paprika, cumin, coriander, garlic powder, chilli powder, water, a pinch of salt and a splash of oil.
-
-# 3. Cut the tofu into 2cm cubes and toss them in the marinade. If you have time, let it sit for 30 minutes. The acidity in the lemon juice helps the spices penetrate the tofu.
-
-# 4. Air Fry: 180°C for 6-10 minutes, shaking halfway. Pan Fry: Medium-high heat with a little oil until all sides are golden-brown and slightly charred.
-
-# 5. Serve with a fresh sprig of coriander and an extra wedge of lemon to brighten the deep earthy spices.
+steps:
+  - "For the best results, wrap your extra-firm tofu in a clean towel and place a heavy weight on top for 15 minutes. Removing excess water allows the marinade to soak deep into the block rather than just sitting on the surface."
+  - "In a bowl, combine the honey, lemon juice, paprika, cumin, coriander, garlic powder, chilli powder, water, a pinch of salt and a splash of oil."
+  - "Cut the tofu into 2cm cubes and toss them in the marinade. If you have time, let it sit for 30 minutes. The acidity in the lemon juice helps the spices penetrate the tofu."
+  - "Air Fry: 180°C for 6-10 minutes, shaking halfway. Pan Fry: Medium-high heat with a little oil until all sides are golden-brown and slightly charred."
+  - "Serve with a fresh sprig of coriander and an extra wedge of lemon to brighten the deep earthy spices."
+---

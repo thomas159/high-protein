@@ -28,13 +28,9 @@ ingredients:
   - { item: "Flour", amount: 10, unit: "g" } 
   - { item: "Small egg", amount: 10, unit: "g" }   
   - { item: "Olive oil spray" }   
-  
+steps:
+  - "Arrange three shallow bowls in a row, Bowl 1: All-purpose flour. Bowl 2: One egg, beaten until smooth and runny. Bowl 3: Breadcrumbs"
+  - "Lightly moisten the cheese with water (this acts as a primer). Dredge the cheese in the flour, shaking off any excess so only a thin film remains"
+  - "Dip the floured cheese into the egg wash, ensuring it's fully submerged. Roll it in the breadcrumbs, pressing gently to help them stick.Repeat: Dip the cheese back into the egg wash and then back into the breadcrumbs. This second layer creates a thick \"shell\" that prevents the cheese from leaking out while cooking"
+  - "Place the coated cheese in the air fryer basket (don't crowd them!). Give them a generous spray of olive oil. Cook on 200c for 4-6 minutes flipping half way and spraying with more olive oil spray"
 ---
-
-1. Arrange three shallow bowls in a row, Bowl 1: All-purpose flour. Bowl 2: One egg, beaten until smooth and runny. Bowl 3: Breadcrumbs
-
-2. Lightly moisten the cheese with water (this acts as a primer). Dredge the cheese in the flour, shaking off any excess so only a thin film remains
-
-3. Dip the floured cheese into the egg wash, ensuring it's fully submerged. Roll it in the breadcrumbs, pressing gently to help them stick.Repeat: Dip the cheese back into the egg wash and then back into the breadcrumbs. This second layer creates a thick "shell" that prevents the cheese from leaking out while cooking
-
-4. Place the coated cheese in the air fryer basket (don't crowd them!). Give them a generous spray of olive oil. Cook on 200c for 4-6 minutes flipping half way and spraying with more olive oil spray 

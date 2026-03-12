@@ -24,12 +24,9 @@ ingredients:
   - { item: "Rice vinegar", amount: 0.25, unit: "tsp" }
   - { item: "Schiraca or sambal oelek", amount: 0.25, unit: "tsp" }
   - { item: "Spring onions to garnish" }
-  - { item: "Fried onions to garnish" }           
-
+  - { item: "Fried onions to garnish" }
+steps:
+  - "Pour your vegetable stock into a wide pan and bring it to a boil.  Drop in the instant noodles. Cook for 2–3 minutes, using a fork to gently teased the block apart as it softens. You want the stock to reduce by about half—this creates a concentrated \"glaze\" rather than a thin soup"
+  - "Just before the liquid is fully absorbed, reduce the heat to low. Stir in the soy sauce, toasted sesame oil, rice vinegar, and sambal (chili paste) or schriracha. Toss the noodles vigorously for 30 seconds. The acidity of the rice vinegar cuts through the richness of the sesame oil, creating a balanced, glossy coating"
+  - "Transfer the noodles to a deep bowl. Top with a generous handful of sliced spring onions for freshness and crispy fried onions for that essential texture contrast. A sprinkle of toasted sesame seeds or a squeeze of lime at the very end will make the flavors pop even more"
 ---
-
-1. Pour your vegetable stock into a wide pan and bring it to a boil.  Drop in the instant noodles. Cook for 2–3 minutes, using a fork to gently teased the block apart as it softens. You want the stock to reduce by about half—this creates a concentrated "glaze" rather than a thin soup
-
-2. Just before the liquid is fully absorbed, reduce the heat to low. Stir in the soy sauce, toasted sesame oil, rice vinegar, and sambal (chili paste) or schriracha. Toss the noodles vigorously for 30 seconds. The acidity of the rice vinegar cuts through the richness of the sesame oil, creating a balanced, glossy coating
-
-3. Transfer the noodles to a deep bowl. Top with a generous handful of sliced spring onions for freshness and crispy fried onions for that essential texture contrast. A sprinkle of toasted sesame seeds or a squeeze of lime at the very end will make the flavors pop even more

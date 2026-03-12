@@ -35,15 +35,10 @@ ingredients:
   - { item: "Chilli powder", amount: 1, unit: "tsp" }
   - { item: "Lime juice", amount: 2, unit: "tbsp" }
   - { item: "Garam masala", amount: 1, unit: "tsp" }
-
+steps:
+  - "For the best results, wrap your extra-firm tofu in a clean towel and place a heavy weight on top for 15 minutes. Removing excess water allows the marinade to soak deep into the block rather than just sitting on the surface."
+  - "In a bowl, combine the ginger garlic paste, chilli powder, lime juice, garam masala and a splash of oil."
+  - "Cut the tofu into 2cm cubes and toss them in the marinade. If you have time, let it sit for 30 minutes. The acidity in the lime juice helps the spices penetrate the tofu."
+  - "Air Fry: 180°C for 6-10 minutes, shaking halfway. Pan Fry: Medium-high heat with a little oil until all sides are golden-brown and slightly charred."
+  - "Serve with a fresh sprig of coriander and an extra wedge of lime to brighten the deep earthy spices."
 ---
-
-1. For the best results, wrap your extra-firm tofu in a clean towel and place a heavy weight on top for 15 minutes. Removing excess water allows the marinade to soak deep into the block rather than just sitting on the surface.
-
-2. In a bowl, combine the ginger garlic paste, chilli powder, lime juice, garam masala and a splash of oil.
-
-3. Cut the tofu into 2cm cubes and toss them in the marinade. If you have time, let it sit for 30 minutes. The acidity in the lime juice helps the spices penetrate the tofu.
-
-4. Air Fry: 180°C for 6-10 minutes, shaking halfway. Pan Fry: Medium-high heat with a little oil until all sides are golden-brown and slightly charred.
-
-5. Serve with a fresh sprig of coriander and an extra wedge of lime to brighten the deep earthy spices.

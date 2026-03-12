@@ -45,12 +45,9 @@ ingredients:
   - { item: "Thai red curry paste", amount: 0.5, unit: "tbsp" }
   - { item: "Roasted peanuts", type: 'finely chopped', amount: 20, unit: "g" }
   - { item: "Brown sugar", amount: 2, unit: "tsp"}
-  - { item: "Tamarind paste", amount: 0.5 ,unit: "tbsp"}        
-
+  - { item: "Tamarind paste", amount: 0.5 ,unit: "tbsp"}
+steps:
+  - "Add your coconut milk and red curry paste to a saucepan over low-medium heat. Stir gently as the milk heats up to break down the paste Cook until the mixture becomes fragrant and small beads of red oil begin to shimmer on the surface. This means the spices have opened up"
+  - "Stir in the finely chopped peanuts. Cook for 2–3 minutes. As the peanuts absorb the coconut milk, the sauce will transform from a liquid to a thick, glossy glaze."
+  - "Stir in the sugar and tamarind paste, then immediately remove the pan from the heat. Tamarind and sugar can burn easily or become overly sticky if boiled for too long. Adding them at the end preserves the bright, tangy notes of the tamarind and the caramel sweetness of the sugar."
 ---
-
-1. Add your coconut milk and red curry paste to a saucepan over low-medium heat. Stir gently as the milk heats up to break down the paste Cook until the mixture becomes fragrant and small beads of red oil begin to shimmer on the surface. This means the spices have opened up
-
-2. Stir in the finely chopped peanuts. Cook for 2–3 minutes. As the peanuts absorb the coconut milk, the sauce will transform from a liquid to a thick, glossy glaze.
-
-3. Stir in the sugar and tamarind paste, then immediately remove the pan from the heat. Tamarind and sugar can burn easily or become overly sticky if boiled for too long. Adding them at the end preserves the bright, tangy notes of the tamarind and the caramel sweetness of the sugar.

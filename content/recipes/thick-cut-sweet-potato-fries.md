@@ -21,13 +21,9 @@ macros:
 ingredients:
   - { item: "Olive oil", amount: 1, unit: "tbsp" }
   - { item: "Sweet Potato", type: 'thickly cut', amount: 1 }
-
+steps:
+  - "Slice the sweet potatoes into 1cm matchsticks. Soak them in cold water for 30 minutes to remove surface starch, then pat them completely dry"
+  - "In a bowl, toss the fries with a small amount of oil and your seasonings"
+  - "Place the fries in the basket and Air fry at 190c for 20-30 minutes. For the best results, cook in batches rather than stacking them too high. Every 5 minutes, remove the basket and give it a vigorous shake. This ensures every side of the fry hits that high-speed hot air"
+  - "Cook until the edges are golden-brown and slightly charred. Let them sit in the basket for 1 minute after turning the power off to \"set\" the crunch"
 ---
-
-1. Slice the sweet potatoes into 1cm matchsticks. Soak them in cold water for 30 minutes to remove surface starch, then pat them completely dry
-
-2. In a bowl, toss the fries with a small amount of oil and your seasonings
-
-3. Place the fries in the basket and Air fry at 190c for 20-30 minutes. For the best results, cook in batches rather than stacking them too high. Every 5 minutes, remove the basket and give it a vigorous shake. This ensures every side of the fry hits that high-speed hot air
-
-4. Cook until the edges are golden-brown and slightly charred. Let them sit in the basket for 1 minute after turning the power off to "set" the crunch

@@ -25,9 +25,9 @@ ingredients:
   - { item: "thick coconut cream", amount: 85, unit: 'g'}
   - { item: "sugar", amount: 1.25, unit: 'tbsp' }
   - { item: "pinch of salt"}
+steps:
+  - "Rinse the glutinous rice until the water runs clear. Soak in warm water for 6 hours (or accelerate by using boiling water for 1 hour). Drain and steam for 15–20 minutes until the grains are translucent, soft, and slightly tacky"
+  - "While the rice is still steaming hot, whisk together 80% (4/5) of your coconut cream and sugar with a tiny pinch of salt. Gently fold this mixture into the rice until every grain is coated. Cover the bowl with a clean cloth and let it stand for 30 minutes. This allows the rice to \"drink\" the coconut milk, reaching that perfect, fragrant consistency. Keep the remaining 1/5 aside—you'll need it for the finishing glaze!"
+  - "In a small saucepan over low heat, combine the remaining 20% (1/5) of your coconut cream and sugar. Stir constantly until the sugar is fully dissolved and the sauce slightly thickens. Do not let it boil, or the coconut fat may separate"
+  - "Slice the mango into uniform, bite-sized pieces. Scoop the coconut rice alongside the fruit and generously drizzle the warm sauce over the top"
 ---
-
-1. Rinse the glutinous rice until the water runs clear. Soak in warm water for 6 hours (or accelerate by using boiling water for 1 hour). Drain and steam for 15–20 minutes until the grains are translucent, soft, and slightly tacky
-2. While the rice is still steaming hot, whisk together 80% (4/5) of your coconut cream and sugar with a tiny pinch of salt. Gently fold this mixture into the rice until every grain is coated. Cover the bowl with a clean cloth and let it stand for 30 minutes. This allows the rice to "drink" the coconut milk, reaching that perfect, fragrant consistency. Keep the remaining 1/5 aside—you'll need it for the finishing glaze!
-3. In a small saucepan over low heat, combine the remaining 20% (1/5) of your coconut cream and sugar. Stir constantly until the sugar is fully dissolved and the sauce slightly thickens. Do not let it boil, or the coconut fat may separate
-4. Slice the mango into uniform, bite-sized pieces. Scoop the coconut rice alongside the fruit and generously drizzle the warm sauce over the top

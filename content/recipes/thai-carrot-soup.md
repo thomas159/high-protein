@@ -25,16 +25,10 @@ ingredients:
   - { item: "Thai red curry paste", amount: 0.5, unit: "tbsp" }
   - { item: "Lime (for juicing)", amount: 0.5 }
   - { item: "Coriander (for decoration)", amount: 5, unit: "g"}
-
-
+steps:
+  - "Place the chopped carrots into a large pot and cover with water. Bring to a boil over medium heat and simmer for 10–12 minutes until fork-tender. Drain the carrots and set them aside momentarily"
+  - "In the same pot, combine the Thai red curry paste with a splash of the coconut milk. Sauté over low heat for 1–2 minutes until the paste is fragrant and well-combined with the milk. This step \"blooms\" the spices, significantly deepening the flavor of your soup base"
+  - "Return the cooked carrots to the pot and pour in the vegetable stock. Using an immersion blender, puree the mixture directly in the pot until completely smooth and creamy. (If using a standard blender, work in batches and take care with the hot liquid)"
+  - "Stir in the remaining coconut milk until the soup is silky and consistent. Simmer gently for another 1–2 minutes to allow the flavors to meld. Taste and season with salt and pepper as needed"
+  - "Ladle the soup into warm bowls. For that essential Thai \"zing,\" finish, garnish with fresh coriander, a bright squeeze of lime, or a swirl of coconut milk. Serve alongside crusty bread or jasmine rice for a cozy, complete meal"
 ---
-
-1. Place the chopped carrots into a large pot and cover with water. Bring to a boil over medium heat and simmer for 10–12 minutes until fork-tender. Drain the carrots and set them aside momentarily
-
-2. In the same pot, combine the Thai red curry paste with a splash of the coconut milk. Sauté over low heat for 1–2 minutes until the paste is fragrant and well-combined with the milk. This step "blooms" the spices, significantly deepening the flavor of your soup base
-
-3. Return the cooked carrots to the pot and pour in the vegetable stock. Using an immersion blender, puree the mixture directly in the pot until completely smooth and creamy. (If using a standard blender, work in batches and take care with the hot liquid)
-
-4. Stir in the remaining coconut milk until the soup is silky and consistent. Simmer gently for another 1–2 minutes to allow the flavors to meld. Taste and season with salt and pepper as needed
-
-5. Ladle the soup into warm bowls. For that essential Thai "zing," finish, garnish with fresh coriander, a bright squeeze of lime, or a swirl of coconut milk. Serve alongside crusty bread or jasmine rice for a cozy, complete meal

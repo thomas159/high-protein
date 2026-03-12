@@ -32,10 +32,10 @@ ingredients:
   - { item: "Tomato Sauce", amount: 0.5, unit: "tbsp" }
   - { item: "Corn Flour", amount: 0.25, unit: "tbsp" }
   - { item: "Water", amount: 0.5, unit: "tbsp" }
+steps:
+  - "Heat the oil in a pan over a low heat then add the garlic and cook until it turns light brown. Then add the onion, cauliflower and carrot. Cook for around 5 minutes or until onion is translucent"
+  - "Add the cucumber, tomato, pineapple and pepper and cook for another 5 minutes"
+  - "Add the vegetable stock and turn the heat up high and cook until boiling for 2 minutes"
+  - "Add the soy sauce, vinegar, sugar and tomato sauce"
+  - "Mix the corn flour with the water and add to the pan. Continue stirring until the sauce thickens"
 ---
-
-1. Heat the oil in a pan over a low heat then add the garlic and cook until it turns light brown. Then add the onion, cauliflower and carrot. Cook for around 5 minutes or until onion is translucent
-2. Add the cucumber, tomato, pineapple and pepper and cook for another 5 minutes
-3. Add the vegetable stock and turn the heat up high and cook until boiling for 2 minutes
-4. Add the soy sauce, vinegar, sugar and tomato sauce
-5. Mix the corn flour with the water and add to the pan. Continue stirring until the sauce thickens

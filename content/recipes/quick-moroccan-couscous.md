@@ -24,11 +24,8 @@ ingredients:
   - { item: "Lemon juice", amount: 10, unit: "ml" }
   - { item: "Feta cheese", amount: 50, unit: "g" }
   - { item: "Olive oil", amount: 1, unit: "tsp" }
-  
+steps:
+  - "Heat a splash of oil in a pan over medium heat. Add your finely sliced red peppers and onions. Cook for 5–10 minutes until the onions get a slightly golden edge, this adds a natural sweetness that balances the salty feta cheese later."
+  - "Place the dry couscous into a heat-proof bowl. Pour the boiling vegetable stock over the grains and stir in the lemon juice. Place a lid or plate over the bowl and let it sit for 5 minutes. Once all the liquid is absorbed, use a fork (never a spoon!) to gently rake through the grains. This separates them and keeps the texture light."
+  - "Now it’s time to bring everything together. Fold the sautéed peppers and onions into the bowl. Add the cubed feta cheese and a final dash of extra virgin olive oil. Toss gently so the feta doesn't completely break down, and add a crack of black pepper to taste."
 ---
-
-1. Heat a splash of oil in a pan over medium heat. Add your finely sliced red peppers and onions. Cook for 5–10 minutes until the onions get a slightly golden edge, this adds a natural sweetness that balances the salty feta cheese later.
-
-2. Place the dry couscous into a heat-proof bowl. Pour the boiling vegetable stock over the grains and stir in the lemon juice. Place a lid or plate over the bowl and let it sit for 5 minutes. Once all the liquid is absorbed, use a fork (never a spoon!) to gently rake through the grains. This separates them and keeps the texture light.
-
-3. Now it’s time to bring everything together. Fold the sautéed peppers and onions into the bowl. Add the cubed feta cheese and a final dash of extra virgin olive oil. Toss gently so the feta doesn't completely break down, and add a crack of black pepper to taste.

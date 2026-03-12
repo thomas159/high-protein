@@ -33,13 +33,9 @@ ingredients:
   - { item: "Sesame oil", amount: 1, unit: 'tsp'}
   - { item: "Gochujang", amount: 1, unit: 'tsp'}
   - { item: "Sesame seeds", amount: 1, unit: 'tsp'}
-
+steps:
+  - "Heat your cooking oil in a large pan or wok over medium-high heat. Add the garlic, mixed vegetables, and kimchi. Stir-fry for 3–4 minutes. You want the kimchi to slightly caramelize and the vegetables to soften while retaining a bit of \"snap.\""
+  - "Clear a space in the center of your pan by pushing the kimchi and vegetables to the edges (this creates a \"hot zone\"). Crack the egg directly into the center. Whisk it quickly with your spatula to scramble. Once it’s about 80% cooked and looks like soft ribbons, begin folding the vegetables back in to combine."
+  - "Add your cooked rice to the pan. Pour in the sesame oil, soy sauce, and gochujang. Turn the heat up to high. Press the rice down firmly into the pan for 30 seconds at a time, then toss. This \"searing\" creates those delicious, crispy bits of rice. Continue stir-frying for 2–3 minutes until every grain is coated in that vibrant red hue."
+  - "Remove from heat and transfer to a bowl. Shower with toasted sesame seeds and, if you have it, some sliced spring onions or shredded nori."
 ---
-
-1. Heat your cooking oil in a large pan or wok over medium-high heat. Add the garlic, mixed vegetables, and kimchi. Stir-fry for 3–4 minutes. You want the kimchi to slightly caramelize and the vegetables to soften while retaining a bit of "snap."
-
-2. Clear a space in the center of your pan by pushing the kimchi and vegetables to the edges (this creates a "hot zone"). Crack the egg directly into the center. Whisk it quickly with your spatula to scramble. Once it’s about 80% cooked and looks like soft ribbons, begin folding the vegetables back in to combine.
-
-3. Add your cooked rice to the pan. Pour in the sesame oil, soy sauce, and gochujang. Turn the heat up to high. Press the rice down firmly into the pan for 30 seconds at a time, then toss. This "searing" creates those delicious, crispy bits of rice. Continue stir-frying for 2–3 minutes until every grain is coated in that vibrant red hue.
-
-4. Remove from heat and transfer to a bowl. Shower with toasted sesame seeds and, if you have it, some sliced spring onions or shredded nori.

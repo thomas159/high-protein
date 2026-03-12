@@ -21,10 +21,9 @@ ingredients:
   - { item: "Erythritol", amount: 25, unit: "g" }
   - { item: "Lemon juice", amount: 0.5, unit: "tbsp" }
   - { item: "Egg", amount: 0.5}
- 
+steps:
+  - "In a medium bowl, whisk together the erythritol, cream cheese, and egg until smooth and lump-free. Once combined, gently fold in the yogurt and lemon juice until the mixture is uniform"
+  - "Pour the batter into a ramekin. Place in the air fryer basket and cook at 180°C for 18-22 minutes, or until the top is golden and the center has a slight wobble"
+  - "Reduce heat to low. Add the butter and minced garlic to the skillet. Let the butter melt, constantly basting the chicken with the garlic butter for about 1-2 minutes until fragrant"
+  - "Remove the ramekin carefully and let it cool to room temperature. Transfer to the fridge for at least two hours to allow the low calorie cheesecake to set completely before serving"
 ---
-
-1. In a medium bowl, whisk together the erythritol, cream cheese, and egg until smooth and lump-free. Once combined, gently fold in the yogurt and lemon juice until the mixture is uniform
-2. Pour the batter into a ramekin. Place in the air fryer basket and cook at 180°C for 18-22 minutes, or until the top is golden and the center has a slight wobble
-3. Reduce heat to low. Add the butter and minced garlic to the skillet. Let the butter melt, constantly basting the chicken with the garlic butter for about 1-2 minutes until fragrant
-4. Remove the ramekin carefully and let it cool to room temperature. Transfer to the fridge for at least two hours to allow the low calorie cheesecake to set completely before serving

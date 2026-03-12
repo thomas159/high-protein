@@ -29,13 +29,9 @@ ingredients:
   - { item: "Soy sauce", amount: 0.5, unit: "tsp" }
   - { item: "Brown sugar", amount: 0.5, unit: "tsp" }
   - { item: "lime juice", amount: 0.5, unit: "tsp" }
-
+steps:
+  - "Bring a large pot of water to a rolling boil. Add the udon noodles and cook according to package instructions until tender. Drain and set aside, reserving a splash of noodle water if you prefer a silkier sauce."
+  - "While the noodles cook, thinly slice your vegetables and cut the tofu into cubes. Heat the coconut oil in a large pan or wok over medium-high heat. Add the carrots, peppers and tofu, sautéing for approximately 5 minutes until the vegetables begin to soften but still retain a slight crunch and the tofu is slightly browned."
+  - "Add the Thai red curry paste, coconut milk, soy sauce and brown sugar. Cook for a couple of minutes until it combines into a silky sauce, then toss in the sliced spring onions and cook for an additional 2 minutes (or until they reach your desired tenderness)."
+  - "Lower the heat, then fold in the cooked udon noodles and top with a squeeze of lime juice. Toss well to coat every strand, adding a spoonful of noodle water if the sauce needs thinning."
 ---
-
-1. Bring a large pot of water to a rolling boil. Add the udon noodles and cook according to package instructions until tender. Drain and set aside, reserving a splash of noodle water if you prefer a silkier sauce.
-
-2. While the noodles cook, thinly slice your vegetables and cut the tofu into cubes. Heat the coconut oil in a large pan or wok over medium-high heat. Add the carrots, peppers and tofu, sautéing for approximately 5 minutes until the vegetables begin to soften but still retain a slight crunch and the tofu is slightly browned.
-
-3. Add the Thai red curry paste, coconut milk, soy sauce and brown sugar. Cook for a couple of minutes until it combines into a silky sauce, then toss in the sliced spring onions and cook for an additional 2 minutes (or until they reach your desired tenderness). 
-
-4. Lower the heat, then fold in the cooked udon noodles and top with a squeeze of lime juice. Toss well to coat every strand, adding a spoonful of noodle water if the sauce needs thinning.

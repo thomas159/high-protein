@@ -29,11 +29,8 @@ ingredients:
   - { item: "Garlic granules", amount: 1, unit: 'tsp' }
   - { item: "Rosemary", amount: 5, unit: 'g' }
   - { item: "Salt", amount: 0.5, unit: 'tsp' }
-
+steps:
+  - "Scrub the potatoes and slice them into uniform sticks, approximately 0.5cm thick. In a large bowl, toss the fries with olive oil, dried rosemary, and garlic granules and salt until every surface is lightly coated. Using a bowl ensures even seasoning without making the fries soggy"
+  - "Arrange the potatoes in the basket, try not to overcrowd them to ensure maximum airflow. Air fry for 18-24 minutes on 190c, giving the basket a vigorous shake halfway through—this redistributes the rosemary needles and ensures the garlic oil browns every side of the potato evenly"
+  - "Once the fries are golden-brown and fragrant, remove them immediately. For an extra pop of flavor, garnish with a final pinch of fresh rosemary"
 ---
-
-1. Scrub the potatoes and slice them into uniform sticks, approximately 0.5cm thick. In a large bowl, toss the fries with olive oil, dried rosemary, and garlic granules and salt until every surface is lightly coated. Using a bowl ensures even seasoning without making the fries soggy
-
-2. Arrange the potatoes in the basket, try not to overcrowd them to ensure maximum airflow. Air fry for 18-24 minutes on 190c, giving the basket a vigorous shake halfway through—this redistributes the rosemary needles and ensures the garlic oil browns every side of the potato evenly
-
-3. Once the fries are golden-brown and fragrant, remove them immediately. For an extra pop of flavor, garnish with a final pinch of fresh rosemary
