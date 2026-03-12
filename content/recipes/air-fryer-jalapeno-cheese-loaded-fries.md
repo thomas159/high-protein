@@ -16,7 +16,7 @@ rating:
 reviews: 
 flavor_profile: "Salty, Crispy, Savory"
 prepTimeMins: 5
-cookTimeMins: 30
+cookTimeMins: 25
 servings: 1
 macros:
   calories: 482

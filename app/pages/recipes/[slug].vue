@@ -6,6 +6,10 @@ const { data: recipe } = await useAsyncData(route.path, () => {
   return queryCollection('recipes').path(route.path).first()
 })
 
+// Helper to format minutes into ISO8601 (Schema requirement)
+const formatIso = (mins: number) => `PT${mins}M`
+
+
 // Now integrate with SEO
 // 2. SEO & Schema (Server-only injection)
 if (import.meta.server) {
@@ -14,16 +18,54 @@ if (import.meta.server) {
     ogTitle: recipe.value?.title,
     description: recipe.value?.description,
     ogDescription: recipe.value?.description,
+    ogImage: recipe.value?.image,
   })
 
   useSchemaOrg([
     defineRecipe({
       name: recipe.value?.title,
-      description: recipe.value?.description,
-      keywords: recipe.value?.flavor_profile,
-      // Ensure these match your content.config.ts schema
-      recipeCategory: 'Main Course',
-      suitableForDiet: 'https://schema.org/LowCalorieDiet'
+      description: recipe.value?.meta?.seoDescription || recipe.value?.description,
+      image: [`https://yourdomain.com/images/${recipe.value?.image}.jpg`], // Must be absolute URL
+      author: {
+        name: 'Hot Recipes'
+      },
+      // Time mapping
+      prepTime: formatIso(recipe.value?.prepTimeMins || 0),
+      cookTime: formatIso(recipe.value?.cookTimeMins || 0),
+      totalTime: formatIso((recipe.value?.prepTimeMins || 0) + (recipe.value?.cookTimeMins || 0)),
+
+      // Yield and Category
+      recipeYield: `${recipe.value?.servings} serving(s)`,
+      recipeCategory: recipe.value?.categories?.[0] || 'Main Course',
+      // recipeCuisine: 'Korean',
+
+      // Keywords and Diet
+      // keywords: recipe.value?.flavor_profile,
+      suitableForDiet: [
+        'https://schema.org/VeganDiet',
+        'https://schema.org/LowCalorieDiet'
+      ],
+
+      // Nutrition mapping (Using your nested macros)
+      nutrition: {
+        calories: `${recipe.value?.macros?.calories} calories`,
+        proteinContent: `${recipe.value?.macros?.protein}g`,
+        fatContent: `${recipe.value?.macros?.fat}g`,
+        carbohydrateContent: `${recipe.value?.macros?.carbs}g`,
+      },
+
+      // Ingredients mapping
+      recipeIngredient: recipe.value?.ingredients.map(i => {
+        const amount = i.amount ? `${i.amount}${i.unit || ''} ` : ''
+        const type = i.type ? ` (${i.type})` : ''
+        return `${amount}${i.item}${type}`.trim()
+      }),
+      // Directions mapping
+      recipeInstructions: recipe.value?.steps?.map(step => ({
+        "@type": "HowToStep",
+        "text": step
+      })),
+
     })
   ])
 }
@@ -47,7 +89,7 @@ const { data: relatedRecipes } = await useAsyncData(`${route.path}-related`, asy
 
 const formatText = (text: string) => {
   if (!text) return ''
-  
+
   // Regex: ^ matches start of string, [\w\s]+ matches words/spaces, : matches colon
   // The 'gm' flags mean Global and Multiline (checks every new line)
   return text.replace(/^([^:\n]+:)/gm, '<strong class="text-green-600 dark:text-green-400">$1</strong>')
@@ -61,37 +103,46 @@ useHead({
 
 <template>
   <main v-if="recipe">
-      
-      <RecipesHero :recipe="recipe" />
 
-      <div class="grid grid-cols-1 lg:grid-cols-12 gap-10 mt-12 md:mt-16">
-        
-        <RecipesIngredients :recipe="recipe" />
+    <RecipesHero :recipe="recipe" />
 
-        <div class="lg:col-span-8 lg:pl-6 relative">
-          
-          <!-- <div class="absolute top-0 right-0 flex gap-2">
+    <div class="grid grid-cols-1 lg:grid-cols-12 gap-10 mt-12 md:mt-16">
+
+      <RecipesIngredients :recipe="recipe" />
+
+      <div class="lg:col-span-8 lg:pl-6 relative">
+
+        <!-- <div class="absolute top-0 right-0 flex gap-2">
             <button class="p-2 text-muted-foreground hover:text-green-600 dark:hover:text-green-400 hover:bg-green-500/10 rounded-lg transition-colors" title="Share Recipe">
               <svg class="w-5 h-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><line x1="8.59" x2="15.42" y1="13.51" y2="17.49"/><line x1="15.41" x2="8.59" y1="6.51" y2="10.49"/></svg>
             </button>
           </div> -->
 
-          <h2 id="howToMake">How to make {{ recipe.title }}</h2>
-          <div class="markdown-recipe-body">
-            <ContentRenderer v-if="recipe" :value="recipe" />
-          </div>
-          <h2 v-if="recipe.tips" id="tips" class="mt-12 whitespace-pre-line">Tips</h2>
-          <p class="whitespace-pre-line text-muted-foreground" v-html="formatText(recipe.tips)" />
-          <h2 v-if="recipe.works" id="works" class="mt-12 whitespace-pre-line">Why this recipe works</h2>
-          <p class="whitespace-pre-line text-muted-foreground" v-html="formatText(recipe.works)" />
-          <h2 v-if="recipe.flavour" id="works" class="mt-12 whitespace-pre-line">Flavour profile</h2>
-          <p class="whitespace-pre-line text-muted-foreground" v-html="formatText(recipe.flavour)" />
-          <h2 v-if="recipe.use" id="works" class="mt-12 whitespace-pre-line">How to use it</h2>
-          <p class="whitespace-pre-line text-muted-foreground" v-html="formatText(recipe.use)" />
-          <h2 v-if="recipe.whyTitle" id="works" class="mt-12 whitespace-pre-line">{{recipe.whyTitle}}</h2>
-          <p class="whitespace-pre-line text-muted-foreground" v-html="formatText(recipe.why)" />
+        <h2 id="howToMake">How to make {{ recipe.title }}</h2>
+        <div class="markdown-recipe-body mt-6">
+  <ol>
+    <li v-for="(step, index) in recipe.steps" :key="index">
+      <div>
+        <p>{{ step }}</p>
+      </div>
+    </li>
+  </ol>
+</div>
+        <!-- <div class="markdown-recipe-body">
+          <ContentRenderer v-if="recipe" :value="recipe" />
+        </div> -->
+        <h2 v-if="recipe.tips" id="tips" class="mt-12 whitespace-pre-line">Tips</h2>
+        <p class="whitespace-pre-line text-muted-foreground" v-html="formatText(recipe.tips)" />
+        <h2 v-if="recipe.works" id="works" class="mt-12 whitespace-pre-line">Why this recipe works</h2>
+        <p class="whitespace-pre-line text-muted-foreground" v-html="formatText(recipe.works)" />
+        <h2 v-if="recipe.flavour" id="works" class="mt-12 whitespace-pre-line">Flavour profile</h2>
+        <p class="whitespace-pre-line text-muted-foreground" v-html="formatText(recipe.flavour)" />
+        <h2 v-if="recipe.use" id="works" class="mt-12 whitespace-pre-line">How to use it</h2>
+        <p class="whitespace-pre-line text-muted-foreground" v-html="formatText(recipe.use)" />
+        <h2 v-if="recipe.whyTitle" id="works" class="mt-12 whitespace-pre-line">{{ recipe.whyTitle }}</h2>
+        <p class="whitespace-pre-line text-muted-foreground" v-html="formatText(recipe.why)" />
 
-          <!-- <div v-if="recipe.dontTitle && recipe.dont" class="bg-blue-50 border-l-4 border-blue-400 p-4 my-4">
+        <!-- <div v-if="recipe.dontTitle && recipe.dont" class="bg-blue-50 border-l-4 border-blue-400 p-4 my-4">
             <div class="flex">
               <div class="flex-shrink-0">
                 <Icon name="ph:info-bold" class="h-5 w-5 text-blue-400" />
@@ -104,7 +155,7 @@ useHead({
             </div>
           </div> -->
 
-          <!-- <div class="bg-green-50 border-l-4 border-green-500 p-6 rounded-r-lg shadow-sm">
+        <!-- <div class="bg-green-50 border-l-4 border-green-500 p-6 rounded-r-lg shadow-sm">
             <div class="flex items-center mb-4">
               <Icon name="ph:lightbulb-bold" class="text-green-600 w-6 h-6 mr-2" />
               <span class="text-green-800 font-bold uppercase tracking-wider text-sm">
@@ -113,28 +164,25 @@ useHead({
             </div>
           </div> -->
 
-          <!-- <MDC 
+        <!-- <MDC 
         :value="recipe.why" 
         class="prose prose-green max-w-none 
                prose-h2:text-xl prose-h2:mt-0 prose-h2:mb-2 prose-h2:text-green-900
                prose-p:text-green-800 prose-p:leading-relaxed
                prose-li:text-green-700" -->
-      <!-- /> -->
+        <!-- /> -->
 
-        </div>
       </div>
+    </div>
 
-      <h2 id="relatedRecipes" class="mt-8">Related Recipes</h2>
-      <div class="grid grid-cols-2 gap-main">
-        <RecipeCard 
-          v-for="relatedRecipe in relatedRecipes"
-          :key="relatedRecipe.slug"
-          :recipe="relatedRecipe" />
-      </div>
-    </main>
-    <main v-else>
-      <p>Loading Recipe...</p>
-    </main>
+    <h2 id="relatedRecipes" class="mt-8">Related Recipes</h2>
+    <div class="grid grid-cols-2 gap-main">
+      <RecipeCard v-for="relatedRecipe in relatedRecipes" :key="relatedRecipe.slug" :recipe="relatedRecipe" />
+    </div>
+  </main>
+  <main v-else>
+    <p>Loading Recipe...</p>
+  </main>
 </template>
 
 <style scoped>
@@ -156,13 +204,15 @@ useHead({
   counter-reset: recipe-step;
   display: flex;
   flex-direction: column;
-  gap: 2.5rem; /* Space between each numbered step */
+  gap: 2.5rem;
+  /* Space between each numbered step */
 }
 
 /* 3. Style the main list item container */
 .markdown-recipe-body :deep(ol > li) {
   display: flex;
-  flex-direction: row; /* Number and Content stay side-by-side */
+  flex-direction: row;
+  /* Number and Content stay side-by-side */
   gap: 1.5rem;
   color: var(--color-foreground);
   opacity: 0.9;
@@ -180,7 +230,8 @@ useHead({
   flex: 1;
   display: flex;
   flex-direction: column;
-  gap: 1rem; /* Space between paragraphs within a single step */
+  gap: 1rem;
+  /* Space between paragraphs within a single step */
 }
 
 /* 5. Custom Numbered Circle */
@@ -214,19 +265,23 @@ useHead({
 }
 
 .markdown-recipe-body :deep(li ul li) {
-  display: list-item; /* Reset to standard bullet behavior */
-  counter-increment: none; /* Stop the numbers from counting here */
+  display: list-item;
+  /* Reset to standard bullet behavior */
+  counter-increment: none;
+  /* Stop the numbers from counting here */
   font-size: 1rem;
 }
 
 .markdown-recipe-body :deep(li ul li::before) {
-  content: none; /* Hide the custom circle number for sub-items */
+  content: none;
+  /* Hide the custom circle number for sub-items */
 }
 
 /* 7. Hover states and Accents */
 .markdown-recipe-body :deep(ol > li:hover::before) {
-  background-color: rgba(66, 185, 131, 0.1); 
-  color: #10b981; /* Tailwind green-500 equivalent */
+  background-color: rgba(66, 185, 131, 0.1);
+  color: #10b981;
+  /* Tailwind green-500 equivalent */
   border-color: rgba(66, 185, 131, 0.3);
 }
 

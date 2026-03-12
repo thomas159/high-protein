@@ -1,0 +1,53 @@
+---
+title: "Chipotle lime marinade"
+slug: "chipotle-lime-marinade"
+image: ""
+meta: {
+  seoMetaDescription: "Smoky Chipotle Lime Tofu Marinade recipe. Easy, vegan, and high-protein. Perfect for charred air-fryer tofu or grilled tacos."
+} 
+description: "Give your plant-based meals a bold Mexican-inspired kick with this Smoky Chipotle Lime Marinade. Combining the deep, earthy heat of chipotle peppers with the vibrant zest of fresh lime, this recipe creates a beautifully charred, zesty crust. High-protein, vegan, and perfect for tacos, grain bowls, or meal-prep salads"
+image: "chipotle-lime-tofu-marinade_t3urre"
+pintrest: ""
+categories: ["vegan", "dinner", "15-minute-meals", "marinade"]
+tags: []
+tips: ""
+rating: 
+reviews: 
+flavor_profile: "Earthy, Spicy, Savory"
+shelf_life: "Stored in airtight container in the fridge for 5 days"
+whyTitle: "Why marinate tofu?"
+why: |
+  The Acid Factor: The high citric acid content in lime juice helps break down the outer surface of the tofu, allowing the smoky chipotle oils to sink deeper into the core.
+
+  Smoky Char: Chipotle peppers contain natural sugars that caramelize quickly under high heat (like an air fryer or grill), creating a "bark" similar to BBQ.
+
+  Versatile Umami: While Mexican-inspired, the smoky-salty profile works as a powerful protein base for everything from tacos to protein-packed salads.
+prepTimeMins: 30
+cookTimeMins: 5
+servings: 1
+macros:
+  calories: 270
+  carbs: 9
+  protein: 24
+  fat: 15
+ingredients:
+  - { item: "Firm tofu", type: "cut into 2cm cubes", amount: 200, unit: "g" }
+  - { item: "Lime juice", amount: 2, unit: "tbsp" }
+  - { item: "Adobo chile pepper", type: 'finely chopped', amount: 1 }
+  - { item: "Paprika powder", amount: 1, unit: 'tsp' }
+  - { item: "Coriander", amount: 0.5, unit: 'tsp' }
+  - { item: "Cumin", amount: 0.5, unit: 'tsp' }
+  - { item: "Garlic powder", amount: 0.5, unit: 'tsp' } 
+  - { item: "Oregano", amount: 0.5, unit: 'tsp' }
+
+---
+
+1. For the best results, wrap your extra-firm tofu in a clean towel and place a heavy weight on top for 15 minutes. Removing excess water allows the marinade to soak deep into the block rather than just sitting on the surface.
+
+2. In a bowl, combine the lime juice, adobo chile pepper, paprika powder, cumin, garlic powder, oregano, a pinch of salt and a splash of oil.
+
+3. Cut the tofu into 2cm cubes and toss them in the marinade. If you have time, let it sit for 30 minutes. The acidity in the lime juice helps the spices penetrate the tofu.
+
+4. Air Fry: 180°C for 6-10 minutes, shaking halfway. Pan Fry: Medium-high heat with a little oil until all sides are golden-brown and slightly charred.
+
+5. Serve with a fresh sprig of coriander and an extra wedge of lime to brighten the deep earthy spices.

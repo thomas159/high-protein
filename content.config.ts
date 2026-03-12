@@ -8,6 +8,9 @@ export default defineContentConfig({
       schema: z.object({
         title: z.string().optional(),
         slug: z.string().optional(),
+        meta: z.object({
+          seoDescription: z.string().optional(),
+        }),
         description: z.string().optional(),
         blurb: z.string().optional(),
         works: z.string().optional(),
@@ -46,7 +49,8 @@ export default defineContentConfig({
             unit: z.string().optional(),
             type: z.string().optional()
           })
-        )
+        ),
+        steps: z.array(z.string()).default([]),
       })
     })
   }

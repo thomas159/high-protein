@@ -1,0 +1,51 @@
+---
+title: "Tikka tofu marinade"
+slug: "tikka-tofu-marinade"
+meta: {
+  seoDescription: "Easy Tikka Tofu Marinade with garam masala, turmeric, and lemon. Vibrant Indian flavors for grilled or air-fried vegan meals."
+} 
+description: "Infuse your tofu with the bold, aromatic flavors of India using this easy Tikka Marinade. A vibrant blend of garam masala, turmeric, and coriander mixed into a tangy Greek yogurt base, it creates a perfectly charred, savory crust. Whether grilled, pan-fried, or air-fried, this high-protein vegan staple delivers restaurant-quality flavor in minutes"
+image: "tikka-tofu-marinade_bbtsvb"
+pintrest: ""
+categories: ["dinner", "15-minute-meals", "marinade"]
+tags: []
+tips: "If you don't have garlic ginger paste it can be substitued with 1 clove of garlic and an equal amount of ginger"
+rating: 
+reviews:
+flavor_profile: "Earthy, Spicy, Savory"
+shelf_life: "Stored in airtight container in the fridge for 5 days" 
+whyTitle: "Why marinate tofu?"
+why: |
+  Deeper Flavor: Allowing the tofu to sit in the spices helps the aromatics penetrate the soy protein, moving the flavor beyond just the surface.
+
+  The Perfect Char: The combination of garlic and ginger sugars caramelizes under high heat, giving you those "tandoori-style" crispy edges.
+
+  Healthy & Lean: This marinade provides a massive flavor punch without the need for heavy creams or excess oils.
+prepTimeMins: 30
+cookTimeMins: 5
+servings: 1
+macros:
+  calories: 284
+  carbs: 16
+  protein: 19
+  fat: 17
+ingredients:
+  - { item: "Firm tofu", type: "cut into 2cm cubes", amount: 200, unit: "g" }
+  - { item: "Greek Yogurt", amount: 25, unit: "g" }
+  - { item: "Ginger garlic paste", amount: 1, unit: "tsp" }
+  - { item: "Coriander powder", amount: 1, unit: "tsp" }
+  - { item: "Turmeric powder", amount: 1, unit: "tsp" }
+  - { item: "Kasuri methi", amount: 0.5, unit: "tsp" }  
+  - { item: "Garam masala", amount: 0.25, unit: "tsp" }  
+  - { item: "Red chilli powder", amount: 0.5, unit: "tsp" } 
+  - { item: "Pinch of salt", amount: 2, unit: "tsp" } 
+  - { item: "Lemon juice", amount: 2, unit: "tsp" } 
+
+steps:
+  - "For the best results, wrap your extra-firm tofu in a clean towel and place a heavy weight on top for 15 minutes. Removing excess water allows the marinade to soak deep into the block rather than just sitting on the surface"
+  - "In a bowl, combine the Greek yogurt (or vegan alternative), ginger garlic paste, lemon juice, and a splash of oil. Stir in the coriander powder, garam masala, turmeric powder, and a pinch of salt"
+  - "Cut the tofu into 2cm cubes and toss them in the marinade. If you have time, let it sit for 30 minutes. The acidity in the lemon juice helps the spices penetrate the tofu"
+  - "Air Fry: 180°C for 6-10 minutes, shaking halfway. Pan Fry: Medium-high heat with a little oil until all sides are golden-brown and slightly charred"
+  - "Serve with a fresh sprig of coriander and an extra wedge of lime to brighten the deep earthy spices"
+
+---

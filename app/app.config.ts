@@ -2,7 +2,7 @@ export default defineAppConfig({
   siteName: 'Hot Recipes',
   siteDescription: 'Making high-quality recipes accessible to home cooks.',
   contactEmail: 'hello@hotrecipes.co.uk',
-  author: 'Chef Gemini',
+  author: 'Tom Harrison',
   lastUpdated: "March 2026",
   domain: 'hotrecipes.co.uk',
   socials: {
@@ -10,12 +10,12 @@ export default defineAppConfig({
     twitter: 'https://twitter.com/hotrecipes'
   },
   meta: {
-    title: 'Nuxt 4 Boilerplate | Nuxt 4 starter 🚀',
-    description: 'Nuxt Starter, Nuxt UI, Nuxt Content, Nuxt Image, Nuxt Fonts, Vueuse, Pinia, TailwindCSS, i18n, and more.',
-    keywords: 'nuxt, vite, starter',
+    title: 'Hot Recipes',
+    description: 'Making high-quality recipes accessible to home cooks.',
+    keywords: 'easy, quick, recipes',
     image: '/cover.png',
-    author: 'Thinh Le',
-    publisher: 'Thinh Le',
-    canonical: 'https://github.com/heydayle/nuxt-boilerplate'
+    author: 'Tom Harrison',
+    publisher: 'Tom Harrison',
+    canonical: 'https://hotrecipes.co.uk'
   }
 })
