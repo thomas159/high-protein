@@ -5,7 +5,7 @@ meta: {
   seoMetaDescription: "Easy Spicy Korean Tofu Marinade. Vegan Gochujang recipe for high-protein meals. Bold, sweet, and spicy flavors ready in 20 minutes."
 } 
 description: 'A fiery, fermented Korean marinade featuring Gochujang, soy sauce, and sesame. Perfect for sticky, charred air-fryer tofu.'
-image: "spicy-korean-tofu-marinade_zhjbkf"
+image: "spicy-korean-tofu-marinade_dbsui8"
 pintrest: ""
 categories: ["vegan", "dinner", "15-minute-meals", "marinade"]
 tags: []
