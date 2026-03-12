@@ -1854,6 +1854,28 @@
     pkg-types "^2.3.0"
     std-env "^3.10.0"
 
+"@nuxt/scripts@^0.13.2":
+  version "0.13.2"
+  resolved "https://registry.yarnpkg.com/@nuxt/scripts/-/scripts-0.13.2.tgz#d3ab4f60b8db7f9a6ccbeef77bfb862ee4a288f7"
+  integrity sha512-aZYm60B08RoRnFVu+RiyN8UQ/xB3IWs05sh1pQ35CJ+zbWT725SZTgMI12kEXzqxAAHpiuv1ctBpLlFg+4jiew==
+  dependencies:
+    "@nuxt/kit" "^4.2.2"
+    "@vueuse/core" "^14.1.0"
+    consola "^3.4.2"
+    defu "^6.1.4"
+    h3 "^1.15.4"
+    magic-string "^0.30.21"
+    ofetch "^1.5.1"
+    ohash "^2.0.11"
+    pathe "^2.0.3"
+    pkg-types "^2.3.0"
+    sirv "^3.0.2"
+    std-env "^3.10.0"
+    ufo "^1.6.1"
+    unplugin "^2.3.11"
+    unstorage "^1.17.3"
+    valibot "^1.2.0"
+
 "@nuxt/telemetry@^2.7.0":
   version "2.7.0"
   resolved "https://registry.yarnpkg.com/@nuxt/telemetry/-/telemetry-2.7.0.tgz#5ac0a505d2dbba8e79d9732318bd389d04cd1511"
@@ -12641,6 +12663,11 @@ uuid@^9.0.0, uuid@^9.0.1:
   version "9.0.1"
   resolved "https://registry.yarnpkg.com/uuid/-/uuid-9.0.1.tgz#e188d4c8853cc722220392c424cd637f32293f30"
   integrity sha512-b+1eJOlsR9K8HJpow9Ok3fiWOWSIcIzXodvv0rQjVoOVNpWMpxf1wZNpt4y9h10odCNrqnYp1OBzRktckBe3sA==
+
+valibot@^1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/valibot/-/valibot-1.2.0.tgz#8fc720d9e4082ba16e30a914064a39619b2f1d6f"
+  integrity sha512-mm1rxUsmOxzrwnX5arGS+U4T25RdvpPjPN4yR0u9pUBov9+zGVtO84tif1eY4r6zWxVxu3KzIyknJy3rxfRZZg==
 
 vaul-vue@0.4.1:
   version "0.4.1"

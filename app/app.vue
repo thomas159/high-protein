@@ -1,5 +1,9 @@
 <script setup lang="ts">
 const { siteName, siteDescription } = useAppConfig()
+// This loads GA4 only when the browser is idle to keep your site fast
+useScriptGoogleAnalytics({
+  id: 'G-YHZ3LGX35G'
+})
 useHead({
   titleTemplate: (title) => title ? `${title} | ${siteName}` : siteName,
   meta: [{ name: siteName, content: siteDescription }]
