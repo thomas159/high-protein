@@ -132,17 +132,16 @@ export default defineNuxtConfig({
         flag: 'twemoji:flag-united-kingdom',
         file: 'en.json',
       },
-      {
-        code: 'vi',
-        name: 'Tiếng Việt',
-        flag: 'twemoji:flag-vietnam',
-        file: 'vi.json',
-      },
+      // {
+      //   code: 'vi',
+      //   name: 'Tiếng Việt',
+      //   flag: 'twemoji:flag-vietnam',
+      //   file: 'vi.json',
+      // },
     ],
   },
   fonts: {
     families: [
-      { name: 'Be Vietnam Pro', provider: 'google' },
       { name: 'Montserrat', provider: 'google' },
       { name: 'Poppins', provider: 'google', weights: [400, 700] }
     ],

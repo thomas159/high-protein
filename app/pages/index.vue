@@ -25,8 +25,6 @@ const categories = [
   { name: '15 Minute meals', img: '15-minute-meals_wkmurj', link: '/categories/15-minute-meals' },
   { name: 'Air fryer', img: 'air-fryer_too3q1', link: '/categories/air-fryer' }
 ]
-
-console.log('trendingRecipes',trendingRecipes.value)
 </script>
 
 <template>

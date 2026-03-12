@@ -15,8 +15,6 @@ const props = defineProps<{
   title?: string; // Optional custom title
   description?: string; // Optional custom description
 }>();
-
-console.log('recipes',props.recipes)
 </script>
 
 <template>

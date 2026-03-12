@@ -1,1 +1,15 @@
 
+# Allow all crawlers
+User-agent: *
+
+# Block access to private/internal folders
+Disallow: /_nuxt/
+Disallow: /admin/
+Disallow: /api/
+
+# Allow indexing of all recipes and categories
+Allow: /recipes/
+Allow: /categories/
+
+# Link to your Sitemap (Critical for SEO)
+Sitemap: https://yourdomain.com/sitemap.xml
