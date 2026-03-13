@@ -5,17 +5,23 @@ const route = useRoute()
 const categorySlug = computed(() => route.params.slug as string)
 const isAllRecipes = computed(() => categorySlug.value === 'all-recipes')
 
-const { data: recipes, refresh } = await useAsyncData(
+const { data: recipes } = await useAsyncData(
   `recipes-${categorySlug.value}`, 
   () => {
     let query = queryCollection('recipes')
     
-    // 2. Only apply the filter if it's NOT the "all-recipes" slug
     if (!isAllRecipes.value) {
+      // Use the .contains() helper if available in your version, 
+      // otherwise LIKE is fine, but ensure it's against the array field
       query = query.where('categories', 'LIKE', `%${categorySlug.value}%`)
     }
     
     return query.all()
+  },
+  {
+    // This is the key: it tells Nuxt to re-run the fetch 
+    // whenever the categorySlug changes automatically.
+    watch: [categorySlug] 
   }
 )
 // const displayTitle = computed(() => {
@@ -37,8 +43,6 @@ const { data: recipes, refresh } = await useAsyncData(
 //     ? formattedName 
 //     : `${formattedName} Meals`
 // })
-
-watch(categorySlug, () => refresh())
 
 useHead({
   title: `${categorySlug.value.charAt(0).toUpperCase() + categorySlug.value.slice(1)} Recipes - ${appConfig.siteName}`,
