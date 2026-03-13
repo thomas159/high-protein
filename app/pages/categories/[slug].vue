@@ -24,8 +24,7 @@ const { data: recipes, refresh, status } = await useAsyncData(
   {
     // Re-run whenever the slug changes
     watch: [categorySlug],
-    // This ensures Nuxt doesn't block navigation if the data is slow
-    lazy: true 
+    default: () => []
   }
 )
 
