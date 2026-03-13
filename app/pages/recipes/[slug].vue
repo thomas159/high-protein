@@ -24,7 +24,7 @@ if (import.meta.server) {
   useSchemaOrg([
     defineRecipe({
       name: recipe.value?.title,
-      description: recipe.value?.meta?.seoDescription || recipe.value?.description,
+      description: recipe.value?.meta?.seoMetaDescription || recipe.value?.description,
       image: [`https://yourdomain.com/images/${recipe.value?.image}.jpg`], // Must be absolute URL
       author: {
         name: 'Hot Recipes'

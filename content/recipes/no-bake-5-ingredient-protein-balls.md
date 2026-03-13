@@ -2,7 +2,7 @@
 title: "No bake 5 ingredient protein balls"
 slug: "no-bake-5-ingredient-protein-balls"
 meta: {
-  seoDescription: "Easy No-Bake Protein Ball recipe. 5 ingredients and high inprotein. Perfect healthy snack for meal prep."
+  seoMetaDescription: "Easy No-Bake Protein Ball recipe. 5 ingredients and high inprotein. Perfect healthy snack for meal prep."
 } 
 description: "Fuel your day with these quick, 5 minute No-Bake Protein Balls. Packed with healthy fats and protein, these bite-sized snacks are refined sugar-free and require zero cooking. The perfect pre-workout boost or healthy afternoon snack for busy meal-preppers."
 image: "no-bake-5-ingredient-protein-balls_kvwhmm"

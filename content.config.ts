@@ -9,7 +9,7 @@ export default defineContentConfig({
         title: z.string().optional(),
         slug: z.string().optional(),
         meta: z.object({
-          seoDescription: z.string().optional(),
+          seoMetaDescription: z.string().optional(),
         }),
         description: z.string().optional(),
         blurb: z.string().optional(),

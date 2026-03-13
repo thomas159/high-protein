@@ -2,7 +2,7 @@
 title: "Creamy Mushroom Pasta"
 slug: "creamy-mushroom-pasta"
 meta: {
-  seoDescription: "Master the ultimate Creamy Mushroom Pasta in just 20 minutes. This easy, one-pan recipe uses white wine and parmesan to create a silkier, restaurant-style sauce. Perfectly sautéed golden mushrooms meeting rich, buttery comfort—your new favorite weeknight dinner."
+  seoMetaDescription: "Master the ultimate Creamy Mushroom Pasta in just 20 minutes. This easy, one-pan recipe uses white wine and parmesan to create a silkier, restaurant-style sauce. Perfectly sautéed golden mushrooms meeting rich, buttery comfort—your new favorite weeknight dinner."
 } 
 description: "Indulge in a bowl of pure comfort with this Creamy Mushroom Pasta. By sautéing the mushrooms until they reach a deep, golden-brown 'umami' stage and deglazing with a splash of crisp white wine, we build layers of flavor that you'd usually only find in a high-end bistro. Finished with velvety cream and a generous handful of parmesan, this sauce clings perfectly to every strand of pasta for a rich, luxurious bite every time."
 image: "creamy-mushroom-pasta_m6794q"

@@ -2,7 +2,7 @@
 title: "Quick Microwave Baba Ganoush"
 slug: "quick-microwave-baba-ganoush"
 meta: {
-  seoDescription: "Make creamy Baba Ganoush in minutes using a microwave. A healthy, smoky Middle Eastern dip perfect for quick snacking."
+  seoMetaDescription: "Make creamy Baba Ganoush in minutes using a microwave. A healthy, smoky Middle Eastern dip perfect for quick snacking."
 } 
 description: "Craving Middle Eastern flavors but short on time? This microwave version delivers creamy, smoky aubergine dip in a fraction of the time. Perfect for parties or a healthy sandwich spread."
 image: "quick-microwave-baba-ganoush_douf9l"
