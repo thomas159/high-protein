@@ -2,13 +2,19 @@
 const { siteName, siteDescription } = useAppConfig()
 // This loads GA4 only when the browser is idle to keep your site fast
 useScriptGoogleAnalytics({
-  id: 'G-YHZ3LGX35G'
+  id: 'G-YHZ3LGX35G',
+  onBeforeGtagStart(gtag) {
+    // This allows you to set the cookie domain manually 
+    // without the TypeScript error on the main object.
+    gtag('config', 'G-YHZ3LGX35G', {
+      cookie_domain: 'none'
+    })
+  }
 })
 useHead({
   titleTemplate: (title) => title ? `${title} | ${siteName}` : siteName,
   meta: [{ name: siteName, content: siteDescription }],
   link: [
-    { rel: 'icon', type: 'image/png', href: '/favicon.png?v=2' }
     { rel: 'icon', type: 'image/png', href: '/favicon.png' }
   ]
 })
