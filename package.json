@@ -3,7 +3,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "build": "rebuild better-sqlite3 && nuxt build",
+    "build": "npm rebuild better-sqlite3 && nuxi build",
     "dev": "nuxt dev",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
@@ -58,7 +58,7 @@
     "vue-tsc": "^2.2.6"
   },
   "engines": {
-    "node": "^24.x"
+    "node": ">=24.0.0"
   },
   "pnpm": {
     "ignoredBuiltDependencies": [
