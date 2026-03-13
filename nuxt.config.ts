@@ -7,8 +7,6 @@ export default defineNuxtConfig({
 
   modules: [
     '@nuxt/image',
-    'nuxt-vue3-google-signin',
-    '@sidebase/nuxt-auth',
     '@nuxt/ui',
     '@vueuse/nuxt',
     '@nuxtjs/i18n',
@@ -98,9 +96,6 @@ export default defineNuxtConfig({
     }
   },
   css: ['~/assets/css/styles.css'],
-  googleSignIn: {
-    clientId: process.env.GG_CLIENT_ID,
-  },
   runtimeConfig: {
     public: {
       GOOGLE_API_KEY: process.env.GG_API_KEY,
@@ -154,11 +149,6 @@ export default defineNuxtConfig({
       rules: {
         'vue/multi-word-component-names': [0],
       }
-    }
-  },
-  nitro: {
-    prerender: {
-      ignore: ['/api/auth/session']
     }
   }
 })
