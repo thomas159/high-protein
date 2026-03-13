@@ -18,25 +18,25 @@ const { data: recipes, refresh } = await useAsyncData(
     return query.all()
   }
 )
-const displayTitle = computed(() => {
-  if (isAllRecipes.value) return 'All Recipes'
+// const displayTitle = computed(() => {
+//   if (isAllRecipes.value) return 'All Recipes'
 
-  // Standardize the slug (e.g., "15-minute-meals" -> "15 minute meals")
-  const formattedName = categorySlug.value.replaceAll('-', ' ')
+//   // Standardize the slug (e.g., "15-minute-meals" -> "15 minute meals")
+//   const formattedName = categorySlug.value.replaceAll('-', ' ')
 
-  // Define which categories should NOT have "Meals" added
-  const excludeMealsSuffix = [
-    'all-recipes',
-    '15-minute-meals',
-    '30-minute-meals',
-    'dessert'
-  ]
+//   // Define which categories should NOT have "Meals" added
+//   const excludeMealsSuffix = [
+//     'all-recipes',
+//     '15-minute-meals',
+//     '30-minute-meals',
+//     'dessert'
+//   ]
 
-  // If it's in the list, just return the name. Otherwise, add " Meals"
-  return excludeMealsSuffix.includes(categorySlug.value) 
-    ? formattedName 
-    : `${formattedName} Meals`
-})
+//   // If it's in the list, just return the name. Otherwise, add " Meals"
+//   return excludeMealsSuffix.includes(categorySlug.value) 
+//     ? formattedName 
+//     : `${formattedName} Meals`
+// })
 
 watch(categorySlug, () => refresh())
 
