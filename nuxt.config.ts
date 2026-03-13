@@ -113,16 +113,6 @@ export default defineNuxtConfig({
       allowedHosts: ['localhost', '.dev'],
     },
   },
-  auth: {
-    isEnabled: true,
-    baseURL: 'http://localhost:3000/api/auth',
-    provider: {
-      type: 'authjs'
-    },
-    globalAppMiddleware: {
-      isEnabled: false
-    }
-  },
   i18n: {
     defaultLocale: 'en',
     locales: [
@@ -166,4 +156,9 @@ export default defineNuxtConfig({
       }
     }
   },
+  nitro: {
+    prerender: {
+      ignore: ['/api/auth/session']
+    }
+  }
 })
