@@ -13,8 +13,8 @@ const { data: trendingRecipes } = await useAsyncData('trending', () => {
   return queryCollection('recipes').where('categories', 'LIKE', '%trending%').all()
 }, { default: () => [] });
 
-const { data: breakfastRecipes } = await useAsyncData('breakfast', () => {
-  return queryCollection('recipes').where('categories', 'LIKE', '%breakfast%').all()
+const { data: airFryerRecipes } = await useAsyncData('airFryer', () => {
+  return queryCollection('recipes').where('categories', 'LIKE', '%air-fryer%').limit(4).all()
 }, { default: () => [] });
 
 const categories = [
@@ -71,8 +71,8 @@ const categories = [
     />
   
     <HomeMobileScroll 
-      :recipes="breakfastRecipes" 
-      title="Breakfast Favorites"
+      :recipes="airFryerRecipes" 
+      title="Air fryer Recipes"
       class="pt-6"
     />
         <!-- <HomeAboutMe /> -->

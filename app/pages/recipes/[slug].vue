@@ -106,11 +106,20 @@ useHead({
 
     <RecipesHero :recipe="recipe" />
 
-    <div class="grid grid-cols-1 lg:grid-cols-12 gap-10 mt-12 md:mt-16">
+    <div class="mt-8 flex justify-center lg:justify-start">
+      <a href="#howToMake" class="inline-flex items-center gap-2 bg-emerald-500 hover:bg-emerald-600 text-white font-semibold px-6 py-3 rounded-full transition-colors shadow-sm">
+        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 14l-7 7m0 0l-7-7m7 7V3"></path>
+        </svg>
+        Jump to Recipe
+      </a>
+    </div>
+
+    <div class="grid grid-cols-1 lg:grid-cols-12 gap-10 mt-8 md:mt-12">
 
       <RecipesIngredients :recipe="recipe" />
 
-      <div class="lg:col-span-8 lg:pl-6 relative">
+      <div id="#recipe" class="lg:col-span-8 lg:pl-6 relative">
 
         <!-- <div class="absolute top-0 right-0 flex gap-2">
             <button class="p-2 text-muted-foreground hover:text-green-600 dark:hover:text-green-400 hover:bg-green-500/10 rounded-lg transition-colors" title="Share Recipe">
@@ -118,7 +127,7 @@ useHead({
             </button>
           </div> -->
 
-        <h2 id="howToMake">How to make {{ recipe.title }}</h2>
+        <h2 id="howToMake" class="scroll-mt-24">How to make {{ recipe.title }}</h2>
         <div class="markdown-recipe-body mt-6">
   <ol>
     <li v-for="(step, index) in recipe.steps" :key="index">

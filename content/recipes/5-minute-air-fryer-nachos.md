@@ -4,7 +4,7 @@ slug: "5-minute-air-fryer-nachos"
 description: "Satisfy your cravings in just 5 minutes with these ultra-crispy, cheesy Air Fryer Nachos—the ultimate lightning-fast snack."
 image: "5-minute-air-fryer-nachos_gf3zzd"
 pintrest: ""
-categories: ["air-fryer", "5-minute-meals", "snacks", ]
+categories: ["air-fryer", "5-minute-meals", "snacks", "trending"]
 tips: |
   Grate your own cheese: Grate your own cheese from a block—it melts much smoother than the pre-shredded kind!
 tags: []
