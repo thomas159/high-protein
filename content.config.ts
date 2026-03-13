@@ -18,6 +18,7 @@ export default defineContentConfig({
         use: z.string().optional(),
         whyTitle: z.string().optional(),
         why: z.string().optional(),
+        muscleBuildingTip: z.string().optional(),
         dont: z.string().optional(),
         dontTitle: z.string().optional(),
         flavour: z.string().optional(),

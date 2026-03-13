@@ -107,7 +107,8 @@ useHead({
     <RecipesHero :recipe="recipe" />
 
     <div class="mt-8 flex justify-center lg:justify-start lg:hidden">
-      <a href="#howToMake" class="inline-flex items-center gap-2 bg-emerald-500 hover:bg-emerald-600 text-white font-semibold px-6 py-3 rounded-full transition-colors shadow-sm">
+      <a href="#howToMake"
+        class="inline-flex items-center gap-2 bg-emerald-500 hover:bg-emerald-600 text-white font-semibold px-6 py-3 rounded-full transition-colors shadow-sm">
         <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
           <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 14l-7 7m0 0l-7-7m7 7V3"></path>
         </svg>
@@ -127,29 +128,32 @@ useHead({
             </button>
           </div> -->
 
-        <h2 id="howToMake" class="scroll-mt-24">How to make {{ recipe.title }}</h2>
-        <div class="markdown-recipe-body mt-6">
-  <ol>
-    <li v-for="(step, index) in recipe.steps" :key="index">
-      <div>
-        <p>{{ step }}</p>
-      </div>
-    </li>
-  </ol>
-</div>
-        <!-- <div class="markdown-recipe-body">
-          <ContentRenderer v-if="recipe" :value="recipe" />
-        </div> -->
         <h2 v-if="recipe.tips" id="tips" class="mt-12 whitespace-pre-line">Tips</h2>
         <p class="whitespace-pre-line text-muted-foreground" v-html="formatText(recipe.tips)" />
         <h2 v-if="recipe.works" id="works" class="mt-12 whitespace-pre-line">Why this recipe works</h2>
         <p class="whitespace-pre-line text-muted-foreground" v-html="formatText(recipe.works)" />
-        <h2 v-if="recipe.flavour" id="works" class="mt-12 whitespace-pre-line">Flavour profile</h2>
+        <h2 v-if="recipe.flavour" id="flavour" class="mt-12 whitespace-pre-line">Flavour profile</h2>
         <p class="whitespace-pre-line text-muted-foreground" v-html="formatText(recipe.flavour)" />
-        <h2 v-if="recipe.use" id="works" class="mt-12 whitespace-pre-line">How to use it</h2>
+        <h2 v-if="recipe.use" id="use" class="mt-12 whitespace-pre-line">How to use it</h2>
         <p class="whitespace-pre-line text-muted-foreground" v-html="formatText(recipe.use)" />
-        <h2 v-if="recipe.whyTitle" id="works" class="mt-12 whitespace-pre-line">{{ recipe.whyTitle }}</h2>
+        <h2 v-if="recipe.whyTitle" id="why" class="mt-12 whitespace-pre-line">{{ recipe.whyTitle }}</h2>
         <p class="whitespace-pre-line text-muted-foreground" v-html="formatText(recipe.why)" />
+        <h2 v-if="recipe.muscleBuildingTip" id="#muscleBuildingTip" class="mt-12 whitespace-pre-line">Muscle building
+          tip</h2>
+        <p class="whitespace-pre-line text-muted-foreground mb-12" v-html="formatText(recipe.muscleBuildingTip)" />
+
+        <h2 id="howToMake" class="scroll-mt-24">How to make {{ recipe.title }}</h2>
+        <div class="markdown-recipe-body mt-6">
+          <ol>
+            <li v-for="(step, index) in recipe.steps" :key="index">
+              <div>
+                <p>{{ step }}</p>
+              </div>
+            </li>
+          </ol>
+        </div>
+
+       
 
         <!-- <div v-if="recipe.dontTitle && recipe.dont" class="bg-blue-50 border-l-4 border-blue-400 p-4 my-4">
             <div class="flex">
