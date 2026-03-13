@@ -1,4 +1,5 @@
 export const RECIPE_CATEGORIES = [
+  { name: 'All recipes', slug: 'all-recipes', link: '/categories/all-recipes' },
   { name: 'High Protein', slug: 'high-protein', link: '/categories/high-protein' },
   { name: 'Vegan', slug: 'vegan', link: '/categories/vegan' },
   { name: 'Dessert', slug: 'dessert', link: '/categories/dessert' },

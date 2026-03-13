@@ -2,63 +2,53 @@
 const appConfig = useAppConfig()
 const route = useRoute()
 
-const categorySlug = computed(() => route.params.slug as string)
+// 1. Ensure the slug is reactive and never undefined for the query
+const categorySlug = computed(() => (route.params.slug as string) || '')
 const isAllRecipes = computed(() => categorySlug.value === 'all-recipes')
 
-const { data: recipes } = await useAsyncData(
+const { data: recipes, refresh, status } = await useAsyncData(
   `recipes-${categorySlug.value}`, 
-  () => {
+  async () => {
+    // Safety check: Don't query if the slug is missing (unless it's 'all-recipes')
+    if (!categorySlug.value && !isAllRecipes.value) return []
+
     let query = queryCollection('recipes')
     
-    if (!isAllRecipes.value) {
-      // Use the .contains() helper if available in your version, 
-      // otherwise LIKE is fine, but ensure it's against the array field
+    if (!isAllRecipes.value && categorySlug.value) {
+      // Use the precise array filter if using Nuxt Content v3
       query = query.where('categories', 'LIKE', `%${categorySlug.value}%`)
     }
     
-    return query.all()
+    return await query.all()
   },
   {
-    // This is the key: it tells Nuxt to re-run the fetch 
-    // whenever the categorySlug changes automatically.
-    watch: [categorySlug] 
+    // Re-run whenever the slug changes
+    watch: [categorySlug],
+    // This ensures Nuxt doesn't block navigation if the data is slow
+    lazy: true 
   }
 )
-// const displayTitle = computed(() => {
-//   if (isAllRecipes.value) return 'All Recipes'
 
-//   // Standardize the slug (e.g., "15-minute-meals" -> "15 minute meals")
-//   const formattedName = categorySlug.value.replaceAll('-', ' ')
-
-//   // Define which categories should NOT have "Meals" added
-//   const excludeMealsSuffix = [
-//     'all-recipes',
-//     '15-minute-meals',
-//     '30-minute-meals',
-//     'dessert'
-//   ]
-
-//   // If it's in the list, just return the name. Otherwise, add " Meals"
-//   return excludeMealsSuffix.includes(categorySlug.value) 
-//     ? formattedName 
-//     : `${formattedName} Meals`
-// })
-
-useHead({
-  title: `${categorySlug.value.charAt(0).toUpperCase() + categorySlug.value.slice(1)} Recipes - ${appConfig.siteName}`,
-  meta: [
-    { name: 'description', content: `Browse our collection of delicious ${categorySlug.value} recipes.` }
-  ]
+// Re-calculate the title safely
+const displayTitle = computed(() => {
+  if (!categorySlug.value) return 'Loading...'
+  if (isAllRecipes.value) return 'All Recipes'
+  return categorySlug.value.split('-').join(' ').replace(/\b\w/g, l => l.toUpperCase()) + ' Recipes'
 })
 </script>
 
 <template>
   <div>   
-    <div class="flex justify-center mx-auto"><h1>{{ displayTitle }}</h1></div>
-    <div v-if="recipes && recipes.length > 0" class="grid grid-cols-2 md:grid-cols-3 gap-main">
-      <div 
-        v-for="recipe in recipes" 
-        :key="recipe.path">
+    <div class="flex justify-center mx-auto">
+      <h1>{{ displayTitle }}</h1>
+    </div>
+
+    <div v-if="status === 'pending'" class="text-center py-20">
+      <p>Loading your muscle-building meals...</p>
+    </div>
+
+    <div v-else-if="recipes && recipes.length > 0" class="grid grid-cols-2 md:grid-cols-3 gap-main">
+      <div v-for="recipe in recipes" :key="recipe.path">
         <RecipeCard :recipe="recipe" class="h-full" />
       </div>
     </div>
