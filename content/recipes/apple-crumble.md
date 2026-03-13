@@ -1,29 +1,49 @@
 ---
-title: "Apple Crumble"
-slug: "apple-crumble"
-description: "A quick, protein-packed dinner where juicy chicken breasts are pan-seared and basted in a rich garlic butter sauce."
+title: "Chipotle lime marinade"
+slug: "chipotle-lime-marinade"
+image: ""
+meta: {
+  seoMetaDescription: "A 20-minute, high-protein Apple Crumble made entirely in the air fryer. The perfect muscle-building dessert with minimal cleanup."
+} 
+description: "Craving a warm, comforting dessert without the sugar crash? This high-protein apple crumble is made directly in a ramekin and baked in the air fryer. It combines juicy cinnamon apples with a crunchy, protein-packed oat topping."
 image: "apple-crumble-vihtqyvihtqyviht_hzcdgk"
-categories: ["air-fryer", "vegan", "keto", "dinner", "breakfast", "trending", "dessert"]
-tags: ["Keto", "High Protein", "Poultry"]
-rating: 4.8
-reviews: 1204
-prepTimeMins: 15
+pintrest: ""
+categories: ["high-protein", "air-fryer", "vegan", "keto", "dinner", "breakfast", "trending", "dessert"]
+tags: []
+tips: ""
+rating: 
+reviews: 
+flavor_profile: "Sweet, Cinnamon, Crunchy"
+shelf_life: "Best eaten immediately while warm."
+whyTitle: "Why the Air Fryer?"
+why: |
+  Instant Heat: No need to preheat a giant oven for one small ramekin; the air fryer reaches temp in seconds.
+
+  Perfect Crunch: The forced air circulation creates a much crispier oat topping than a microwave or traditional oven could.
+
+  Muscle Recovery: By swapping flour for oats and protein powder, this dessert doubles as a high-fiber post-workout snack.
+prepTimeMins: 5
 cookTimeMins: 20
 servings: 1
 macros:
-  calories: 300
-  carbs: 2
-  protein: 45
-  fat: 15
+  calories: 375
+  carbs: 42
+  protein: 16
+  fat: 19
 ingredients:
-  - { item: "Boneless, skinless chicken breasts", amount: 4, unit: "pieces" }
-  - { item: "Olive oil", amount: 1, unit: "tbsp" }
-  - { item: "Garlic, minced", amount: 4, unit: "cloves" }
-  - { item: "Unsalted butter, cubed", amount: 0.25, unit: "cup" }
-  - { item: "Salt and black pepper", amount: 1, unit: "to taste" }
+  - { item: "Apple", type: "cut into small pieces", amount: 100, unit: "g" }
+  - { item: "Cinnamon", amount: 0.5, unit: "tsp" }
+  - { item: "Sugar", type: 'or sugar substitute', amount: 1, unit: 'tsp' }
+  - { item: "Water", amount: 4, unit: 'tbsp' }
+  - { item: "Rolled Oats", amount: 25, unit: 'g' }
+  - { item: "Butter (melted)", type: 'or coconut oil', amount: 20, unit: 'g' }
+  - { item: "Protein powder", type: 'vanilla or salted caramel', amount: 15, unit: 'g' } 
+  - { item: "Honey", type: 'or maple syrup', amount: 1, unit: 'tsp' }
+
 steps:
-  - "Season the chicken breasts generously with salt and pepper on both sides"
-  - "Heat olive oil in a large skillet over medium-high heat. Add the chicken and cook for 5-7 minutes per side, or until golden brown and cooked through (internal temperature reaches 165°F)"
-  - "Reduce heat to low. Add the butter and minced garlic to the skillet. Let the butter melt, constantly basting the chicken with the garlic butter for about 1-2 minutes until fragrant"
-  - "Remove from heat, garnish with fresh parsley if desired, and serve immediately with the pan juices spooned over the top"
+- "In a standard ramekin, toss the diced apple with cinnamon and sugar. Pour the tablespoons of water over the top to help the apples steam while baking."
+- "In a separate small bowl, combine the oats, protein powder, butter, and honey. Rub the mixture together with your fingers or a fork until you achieve a crumbly, pebble-like dough."
+- "Sprinkle the crumble mixture evenly over the apples in the ramekin, pressing down slightly to ensure it sticks."
+- "Place the ramekin in the air fryer basket. Bake at 160°C for 20-25 minutes. Check at the 15-minute mark; if the top is browning too fast, you can cover it loosely with a small piece of foil."
+- "Carefully remove the ramekin using oven mitts (it will be extremely hot). Let it sit for 2-3 minutes; this allows the apple juices to thicken into a syrup before you dive in."
 ---

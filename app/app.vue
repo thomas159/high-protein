@@ -6,7 +6,11 @@ useScriptGoogleAnalytics({
 })
 useHead({
   titleTemplate: (title) => title ? `${title} | ${siteName}` : siteName,
-  meta: [{ name: siteName, content: siteDescription }]
+  meta: [{ name: siteName, content: siteDescription }],
+  link: [
+    { rel: 'icon', type: 'image/png', href: '/favicon.png?v=2' }
+    { rel: 'icon', type: 'image/png', href: '/favicon.png' }
+  ]
 })
 useSeoMeta({
   // The Title of your site as it appears in Google tabs
