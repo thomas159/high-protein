@@ -1,6 +1,6 @@
 ---
-title: "Chipotle lime marinade"
-slug: "chipotle-lime-marinade"
+title: "High protein air fryer apple crumble"
+slug: "high-protein-air-fryer-apple-crumble"
 image: ""
 meta: {
   seoMetaDescription: "A 20-minute, high-protein Apple Crumble made entirely in the air fryer. The perfect muscle-building dessert with minimal cleanup."
