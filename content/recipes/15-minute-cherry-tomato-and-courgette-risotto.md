@@ -8,7 +8,7 @@ blurb: |
   One of the best things about this recipe is that it is versatile, you can add any vegetables you have on hand, such as mushrooms, bell peppers, or asparagus.
 
   This recipe is also great for meal prep, you can make a big batch and enjoy it throughout the week, it reheats well in the microwave.
-image: "15-minute-cherry-tomato-and-courgette-risotto_p3fdjj"
+image: "15-minute-cherry-tomato-and-courgette-risotto_1_lsbbrh"
 categories: ["dinner", "microwave", "15-minute-meals"]
 tags: ["vegan"]
 rating: 

@@ -46,7 +46,9 @@ const displayTitle = computed(() => {
       <p>Loading your muscle-building meals...</p>
     </div>
 
-    <div v-else-if="recipes && recipes.length > 0" class="grid grid-cols-2 md:grid-cols-3 gap-main">
+    <!-- <div v-else-if="recipes && recipes.length > 0" class="grid grid-cols-2 md:grid-cols-3 gap-main"> -->
+   
+    <div v-else-if="recipes && recipes.length > 0" class="grid grid-cols-2 md:grid-cols-3 gap-main -mx-4">
       <div v-for="recipe in recipes" :key="recipe.path">
         <RecipeCard :recipe="recipe" class="h-full" />
       </div>

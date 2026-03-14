@@ -40,18 +40,14 @@ const categories = [
       Quick, high-protein vegetarian and vegan meals for people who love to eat but hate to wait.
     </p>
       <h2>Latest Recipes</h2>
-      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 items-stretch">
-        <div 
-          v-for="recipe in recipes" 
-          :key="recipe.slug" 
-          class="flex flex-col"
-        >
-          <RecipeCard :recipe="recipe" class="h-full" />
-        </div>
-      </div>
+       <HomeMobileScroll 
+      :recipes="recipes" 
+      title="Air fryer Recipes"
+      class="pt-6"
+    />
 
           <section class="border-y border-border py-6 my-12">
-      <div class="container mx-auto px-4 flex flex-wrap justify-center gap-8 md:gap-16">
+      <div class="container mx-auto flex flex-wrap justify-center gap-8 md:gap-16">
         <NuxtLink v-for="cat in categories" :key="cat.name" :to="cat.link" class="flex flex-col items-center group">
           <!-- <span class="text-3xl mb-2 group-hover:scale-110 transition-transform">{{ cat.icon }}</span> -->
           <div class="w-[150px] h-[100px]">
