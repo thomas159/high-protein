@@ -25,7 +25,7 @@ if (import.meta.server) {
     defineRecipe({
       name: recipe.value?.title,
       description: recipe.value?.meta?.seoMetaDescription || recipe.value?.description,
-      image: [`https://yourdomain.com/images/${recipe.value?.image}.jpg`], // Must be absolute URL
+      image: [`https://res.cloudinary.com/mealse-co-uk/image/upload/f_auto,q_auto/${recipe.value?.image}`], // Must be absolute URL
       author: {
         name: 'Hot Recipes'
       },
