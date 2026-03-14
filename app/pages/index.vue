@@ -29,7 +29,6 @@ const categories = [
 
 <template>
   <div class="min-h-screen">
-
     <main class="">
 
       <h1 class="text-4xl md:text-6xl font-extrabold tracking-tight mb-4">
