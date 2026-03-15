@@ -5,12 +5,16 @@ const { siteName, siteDescription } = useAppConfig()
 useScriptGoogleAnalytics({
   id: 'G-YHZ3LGX35G',
   onBeforeGtagStart(gtag) {
-    gtag('config', 'G-YHZ3LGX35G', {
-      cookie_domain: 'none'
-    })
+    gtag('config', 'G-YHZ3LGX35G')
   }
 })
-
+useScriptGoogleAnalytics({
+  id: 'G-YHZ3LGX35G',
+  onBeforeGtagStart(gtag) {
+    // Let Google handle the domain automatically
+    gtag('config', 'G-YHZ3LGX35G')
+  }
+})
 useHead({
   titleTemplate: (title) => title ? `${title} | ${siteName}` : siteName,
   meta: [
