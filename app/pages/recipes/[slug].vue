@@ -40,11 +40,13 @@ if (import.meta.server) {
       // recipeCuisine: 'Korean',
 
       // Keywords and Diet
-      // keywords: recipe.value?.flavor_profile,
-      suitableForDiet: [
-        'https://schema.org/VeganDiet',
-        'https://schema.org/LowCalorieDiet'
-      ],
+     keywords: recipe.value?.flavor_profile 
+      ? recipe.value.flavor_profile.split(', ') 
+      : [],
+      // suitableForDiet: [
+      //   'https://schema.org/VeganDiet',
+      //   'https://schema.org/LowCalorieDiet'
+      // ],
 
       // Nutrition mapping (Using your nested macros)
       nutrition: {
