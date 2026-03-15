@@ -21,6 +21,17 @@ if (import.meta.server) {
     ogImage: recipe.value?.image,
   })
 
+ type RecipeDiet = "LowCalorieDiet" | "VeganDiet" | "VegetarianDiet";
+
+// 2. Apply that type to the array, and use the shorthand strings
+const dietArray: RecipeDiet[] = ["LowCalorieDiet"];
+
+if (recipe.value?.categories?.includes('vegan')) {
+  dietArray.push("VeganDiet");
+} else if (recipe.value?.categories?.includes('vegetarian')) {
+  dietArray.push("VegetarianDiet");
+}
+
   useSchemaOrg([
     defineRecipe({
       name: recipe.value?.title,
@@ -43,10 +54,7 @@ if (import.meta.server) {
      keywords: recipe.value?.flavor_profile 
       ? recipe.value.flavor_profile.split(', ') 
       : [],
-      // suitableForDiet: [
-      //   'https://schema.org/VeganDiet',
-      //   'https://schema.org/LowCalorieDiet'
-      // ],
+      suitableForDiet: dietArray,
 
       // Nutrition mapping (Using your nested macros)
       nutrition: {
