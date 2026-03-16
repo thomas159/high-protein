@@ -7,6 +7,7 @@ export default defineNuxtConfig({
 
   modules: [
     '@nuxt/image',
+    '@nuxt/ui',
     '@vueuse/nuxt',
     '@nuxtjs/i18n',
     '@pinia/nuxt',
@@ -96,9 +97,6 @@ export default defineNuxtConfig({
     }
   },
   css: ['~/assets/css/styles.css'],
-  features: {
-    inlineStyles: true // Inlines critical CSS to reduce render-blocking requests
-  },
   runtimeConfig: {
     public: {
       GOOGLE_API_KEY: process.env.GG_API_KEY,
