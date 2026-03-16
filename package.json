@@ -24,6 +24,7 @@
     "@nuxtjs/mdc": "0.17.0",
     "@nuxtjs/seo": "^3.4.0",
     "@pinia/nuxt": "^0.10.1",
+    "@vercel/analytics": "^2.0.1",
     "@vueuse/nuxt": "12.6.1",
     "better-sqlite3": "^12.6.2",
     "googleapis": "^144.0.0",

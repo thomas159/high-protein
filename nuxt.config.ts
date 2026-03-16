@@ -16,7 +16,8 @@ export default defineNuxtConfig({
     '@nuxt/content', // Ensure this is @nuxt/content v3 if using the 'build' property
     '@nuxt/test-utils/module',
     '@nuxtjs/seo',
-    '@nuxt/scripts'
+    '@nuxt/scripts',
+    '@vercel/analytics'
   ],
   // Site Configuration
   site: {
