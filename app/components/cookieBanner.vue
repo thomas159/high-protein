@@ -2,21 +2,48 @@
 const appConfig = useAppConfig()
 const showBanner = ref(false)
 
-// Function to inject Google Analytics
-const loadAnalytics = () => {
-  const gaId = 'G-XXXXXXXXXX' // Replace with your actual ID
-  
-  // Add the main GA script
-  const script = document.createElement('script')
-  script.async = true
-  script.src = `https://www.googletagmanager.com/gtag/js?id=${gaId}`
-  document.head.appendChild(script)
+// We define our IDs here for easy updates
+const GA_ID = 'G-YHZ3LGX35G'
+const ADSENSE_ID = 'ca-pub-2508418027852597'
 
-  // Initialize dataLayer
+// Reactive state to control when scripts are injected into the DOM
+const scriptsEnabled = ref(false)
+
+// UseHead will reactively inject these tags as soon as scriptsEnabled becomes true
+useHead({
+  script: computed(() => {
+    if (!scriptsEnabled.value) return []
+    return [
+      // 1. Google Analytics (Main Tag)
+      {
+        src: `https://www.googletagmanager.com/gtag/js?id=${GA_ID}`,
+        async: true
+      },
+      // 2. Google AdSense
+      {
+        src: `https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${ADSENSE_ID}`,
+        async: true,
+        crossorigin: 'anonymous'
+      }
+    ]
+  })
+})
+
+const initializeScripts = () => {
+  scriptsEnabled.value = true
+
+  // 3. Initialize gtag logic
   window.dataLayer = window.dataLayer || []
-  function gtag(){ window.dataLayer.push(arguments); }
+  
+  // Replace 'arguments' with rest parameters (...args)
+  function gtag(...args: any[]) { 
+    window.dataLayer.push(args) 
+  }
+  
   gtag('js', new Date())
-  gtag('config', gaId)
+  gtag('config', GA_ID, {
+    cookie_domain: 'auto'
+  })
 }
 
 onMounted(() => {
@@ -24,14 +51,14 @@ onMounted(() => {
   if (!consent) {
     showBanner.value = true
   } else if (consent === 'accepted') {
-    loadAnalytics()
+    initializeScripts()
   }
 })
 
 const acceptCookies = () => {
   localStorage.setItem('cookie-consent', 'accepted')
   showBanner.value = false
-  loadAnalytics() // Load immediately on click
+  initializeScripts()
 }
 
 const declineCookies = () => {

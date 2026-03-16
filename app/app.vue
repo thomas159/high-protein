@@ -2,23 +2,9 @@
 const { siteName, siteDescription } = useAppConfig()
 
 // This loads GA4 only when the browser is idle to keep your site fast
-useScriptGoogleAnalytics({
-  id: 'G-YHZ3LGX35G',
-  onBeforeGtagStart(gtag) {
-    // Let Google handle the domain automatically
-    gtag('config', 'G-YHZ3LGX35G')
-  }
-})
 useHead({
   titleTemplate: (title) => title ? `${title} | ${siteName}` : siteName,
   // adsense
-  script: [
-    {
-      src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2508418027852597',
-      async: true,
-      crossorigin: 'anonymous'
-    }
-  ],
   meta: [
     // Pinterest Domain Verification
     { name: 'p:domain_verify', content: 'e4bd68dbe0b0482e0504097aa8617742' },
