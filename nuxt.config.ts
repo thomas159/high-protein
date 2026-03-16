@@ -97,6 +97,9 @@ export default defineNuxtConfig({
     }
   },
   css: ['~/assets/css/styles.css'],
+  features: {
+    inlineStyles: true // Inlines critical CSS to reduce render-blocking requests
+  },
   runtimeConfig: {
     public: {
       GOOGLE_API_KEY: process.env.GG_API_KEY,
