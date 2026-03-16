@@ -1,20 +1,22 @@
 # Allow all crawlers
 User-agent: *
 
-# Explicitly allow the Privacy Policy 
-# (This ensures no Disallow rules accidentally catch it)
-Allow: /privacy-policy
-Allow: /terms-of-service
+# Explicitly allow the assets Google needs to render your JavaScript app
+Allow: /_nuxt/*.js
+Allow: /_nuxt/*.css
+Allow: /_nuxt/*.webp
+Allow: /_nuxt/*.jpg
+Allow: /_nuxt/*.png
 
-
-# Block access to private/internal folders
-Disallow: /_nuxt/
+# Block only truly private or redundant internal paths
 Disallow: /admin/
 Disallow: /api/
+Disallow: /_payload.json
 
-# Allow indexing of all recipes and categories
+# Allow indexing of all core content
 Allow: /recipes/
 Allow: /categories/
+Allow: /
 
-# Link to your Sitemap (Update with your actual domain)
+# Link to your Sitemap
 Sitemap: https://www.hotrecipes.co.uk/sitemap.xml
