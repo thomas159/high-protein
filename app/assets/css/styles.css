@@ -1,5 +1,4 @@
 @import "tailwindcss";
-@import "@nuxt/ui";
 @import "../scss/app.scss";
 @import "../scss/typography.scss";
 @import "../scss/animate.scss";
