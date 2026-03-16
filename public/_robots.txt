@@ -1,6 +1,11 @@
-
 # Allow all crawlers
 User-agent: *
+
+# Explicitly allow the Privacy Policy 
+# (This ensures no Disallow rules accidentally catch it)
+Allow: /privacy-policy
+Allow: /terms-of-service
+
 
 # Block access to private/internal folders
 Disallow: /_nuxt/
@@ -11,5 +16,5 @@ Disallow: /api/
 Allow: /recipes/
 Allow: /categories/
 
-# Link to your Sitemap (Critical for SEO)
-Sitemap: https://yourdomain.com/sitemap.xml
+# Link to your Sitemap (Update with your actual domain)
+Sitemap: https://www.hotrecipes.co.uk/sitemap.xml
