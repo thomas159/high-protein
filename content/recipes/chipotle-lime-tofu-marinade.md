@@ -8,7 +8,7 @@ meta: {
 description: "Give your plant-based meals a bold Mexican-inspired kick with this Smoky Chipotle Lime Marinade. Combining the deep, earthy heat of chipotle peppers with the vibrant zest of fresh lime, this recipe creates a beautifully charred, zesty crust. High-protein, vegan, and perfect for tacos, grain bowls, or meal-prep salads"
 image: "chipotle-lime-tofu-marinade_ymiqee"
 pintrest: ""
-categories: ["vegan", "dinner", "15-minute-meals", "marinade"]
+categories: ["vegan", "dinner", "15-minute-meals", "marinade", "trending"]
 tags: []
 tips: ""
 rating: 

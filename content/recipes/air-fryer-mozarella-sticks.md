@@ -4,7 +4,7 @@ slug: "air-fryer-mozarella-sticks"
 description: "Skip the store-bought bag and make these crispy, golden mozzarella sticks at home. Coated in a savory blend of chili, oregano, and garlic, they deliver a perfect cheese pull with every bite. Air frying gives you that deep-fried crunch using a fraction of the oil for a healthier, tastier snack."
 image: "air-fryer-mozarella-sticks_oiud1f"
 pintrest: ""
-categories: ["air-fryer", "45-minute-meals", "snacks" ]
+categories: ["air-fryer", "45-minute-meals", "snacks", "trending"]
 tips: |
   Zing Tip: Serve these with a side of marinara sauce and a squeeze of fresh lime juice over the sticks right before eating to cut through the richness of the mozzarella.
 tags: []
