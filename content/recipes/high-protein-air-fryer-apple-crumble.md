@@ -5,7 +5,7 @@ meta: {
   seoMetaDescription: "A 20-minute, high-protein Apple Crumble made entirely in the air fryer. The perfect muscle-building dessert with minimal cleanup."
 } 
 description: "Craving a warm, comforting dessert without the sugar crash? This high-protein apple crumble is made directly in a ramekin and baked in the air fryer. It combines juicy cinnamon apples with a crunchy, protein-packed oat topping."
-image: "apple-crumble-vihtqyvihtqyviht_hzcdgk"
+image: "high-protein-air-fryer-apple-crumble_plgb9p"
 pintrest: ""
 categories: ["high-protein", "air-fryer", "vegan", "keto", "dinner", "breakfast", "trending", "dessert"]
 tags: []
