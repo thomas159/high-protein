@@ -22,7 +22,7 @@ useHead({
     <div class="flex flex-col items-center justify-center">
       <h1 class="italic">{{ error?.statusCode }}</h1>
       <span class="text-lg -mt-10 mb-4">{{ error?.message }}</span>
-      <UButton icon="material-symbols:arrow-insert" @click="handleError">Back to Home</UButton>
+      <UButton role="button" aria-label="Back to Home" icon="material-symbols:arrow-insert" @click="handleError">Back to Home</UButton>
     </div>
     <USeparator orientation="vertical" />
     <div class="relative flex flex-col items-center justify-center">

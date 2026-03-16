@@ -57,6 +57,7 @@ const toggleTheme = () => {
         <ClientOnly>
           <button 
             class="p-2 rounded-lg bg-muted hover:bg-accent text-muted-foreground transition-all flex items-center justify-center border border-border cursor-pointer"
+            role="button"
             aria-label="Toggle Theme"
             @click.stop="toggleTheme" 
           >
@@ -69,7 +70,11 @@ const toggleTheme = () => {
           </button>
         </ClientOnly>
 
-        <button class="md:hidden p-2 text-muted-foreground cursor-pointer" @click="isMenuOpen = !isMenuOpen" >
+        <button 
+          class="md:hidden p-2 text-muted-foreground cursor-pointer" 
+          role="button"
+          aria-label="Toggle mobile menu"
+          @click="isMenuOpen = !isMenuOpen">
           <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path v-if="!isMenuOpen" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7" />
             <path v-else stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />

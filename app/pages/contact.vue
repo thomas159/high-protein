@@ -52,7 +52,10 @@ useHead({
     <div v-if="submitted" class="bg-emerald-500/10 border border-emerald-500 text-emerald-700 dark:text-emerald-400 p-6 rounded-xl text-center">
       <h3 class="font-bold text-lg">Message Sent!</h3>
       <p>Thank you for reaching out. We'll get back to you as soon as possible.</p>
-      <button @click="submitted = false" class="mt-4 text-sm underline">Send another message</button>
+      <button 
+        role="button"
+        aria-label="Send another message"
+        @click="submitted = false" class="mt-4 text-sm underline">Send another message</button>
     </div>
 
     <form v-else @submit.prevent="handleSubmit" class="space-y-6">
@@ -91,6 +94,8 @@ useHead({
       </div>
 
       <button 
+        role="button"
+        aria-label="Send Message"
         type="submit" 
         :disabled="loading"
         class="w-full bg-emerald-500 hover:bg-emerald-600 text-white font-bold py-4 rounded-lg transition-colors disabled:opacity-50 flex justify-center items-center gap-2"

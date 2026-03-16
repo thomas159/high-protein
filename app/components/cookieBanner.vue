@@ -97,12 +97,18 @@ const declineCookies = () => {
 
         <div class="grid grid-cols-2 gap-3 mt-6">
           <button 
+            id="cookieDecline"
+            role="button"
+            aria-label="cookieDecline"
             @click="declineCookies"
             class="px-4 py-2 text-sm font-medium border border-border rounded-lg hover:bg-muted transition-colors"
           >
             Decline
           </button>
           <button 
+            id="cookieAccept"
+            role="button"
+            aria-label="cookieAccept"
             @click="acceptCookies"
             class="px-4 py-2 text-sm font-medium bg-emerald-500 text-white rounded-lg hover:bg-emerald-600 transition-colors"
           >
