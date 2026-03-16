@@ -101,7 +101,7 @@ const declineCookies = () => {
             role="button"
             aria-label="cookieDecline"
             @click="declineCookies"
-            class="px-4 py-2 text-sm font-medium border border-border rounded-lg hover:bg-muted transition-colors"
+            class="px-4 py-2 text-sm font-medium border border-border rounded-lg hover:bg-muted transition-colors cursor-pointer"
           >
             Decline
           </button>
@@ -110,7 +110,7 @@ const declineCookies = () => {
             role="button"
             aria-label="cookieAccept"
             @click="acceptCookies"
-            class="px-4 py-2 text-sm font-medium bg-emerald-500 text-white rounded-lg hover:bg-emerald-600 transition-colors"
+            class="px-4 py-2 text-sm font-medium bg-emerald-500 text-white rounded-lg hover:bg-emerald-600 transition-colors cursor-pointer"
           >
             Accept all
           </button>
