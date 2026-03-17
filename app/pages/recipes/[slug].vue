@@ -206,7 +206,7 @@ useHead({
     </div>
   </main>
   <main v-else>
-    <p>Loading Recipe...</p>
+    <p>Unable to find recipe</p>
   </main>
 </template>
 
