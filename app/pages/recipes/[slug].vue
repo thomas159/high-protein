@@ -151,7 +151,7 @@ useHead({
         <h2 v-if="recipe.whyTitle" id="why" class="mt-12 whitespace-pre-line">{{ recipe.whyTitle }}</h2>
         <p class="whitespace-pre-line text-muted-foreground" v-html="formatText(recipe.why)" />
         <h2 v-if="recipe.muscleBuildingTip" id="#muscleBuildingTip" class="mt-12 whitespace-pre-line">Muscle building
-          tip</h2>
+          tips</h2>
         <p class="whitespace-pre-line text-muted-foreground mb-12" v-html="formatText(recipe.muscleBuildingTip)" />
 
         <h2 id="howToMake" class="scroll-mt-24">How to make {{ recipe.title }}</h2>
