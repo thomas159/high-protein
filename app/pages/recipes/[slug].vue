@@ -161,7 +161,7 @@ useHead({
         <h2 v-if="recipe.servingSuggestions" id="why" class="mt-12 whitespace-pre-line">Serving Suggestions and Pairings</h2>
         <p class="whitespace-pre-line text-muted-foreground" v-html="formatText(recipe.servingSuggestions)" />
 
-        <h2 id="howToMake" class="scroll-mt-24">How to make {{ recipe.title }}</h2>
+        <h2 id="howToMake" class="scroll-mt-24 mt-12">How to make {{ recipe.title }}</h2>
         <div class="markdown-recipe-body mt-6">
           <ol>
             <li v-for="(step, index) in recipe.steps" :key="index">
