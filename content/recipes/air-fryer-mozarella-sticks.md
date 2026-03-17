@@ -10,7 +10,9 @@ pintrest: ""
 categories: ["air-fryer", "45-minute-meals", "snacks", "trending"]
 tipsTitle: "Chef's Tip"
 tips:
-  - "Zing Tip: Serve these with a side of marinara sauce and a squeeze of fresh lime juice over the sticks right before eating to cut through the richness of the mozzarella."
+  - "The Double Dip: Never skip the double-breading step! It creates a strong outer shell that prevents the molten cheese from leaking out in the air fryer."
+  - "Zing Tip: Serve these with a side of warm marinara sauce and a squeeze of fresh lime juice over the sticks right before eating to slice through the richness."
+  - "Freeze to Please: Ensure the sticks are rock-solid frozen before cooking. If they thaw while you're prepping, pop them back in the freezer for 15 minutes."
 cuisine: "American"
 tags: []
 keywords: ["mozzarella sticks", "air fryer", "cheese", "snack", "crispy", "american", "appetizer"]

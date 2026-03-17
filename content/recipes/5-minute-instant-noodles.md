@@ -11,6 +11,11 @@ categories: ["vegan", "dinner", "15-minute-meals"]
 cuisine: "Asian"
 keywords: ["instant noodles", "asian", "vegan", "quick meal", "5-minute", "ramen"]
 tags: []
+tipsTitle: "Elevate the Bowl"
+tips:
+  - "Noodle Texture: Pull the noodles off the heat about 30 seconds before they look fully cooked; they will continue to soften in the residual heat and hot sauce."
+  - "Sauce Emulsion: Save a tablespoon of the starchy cooking water to mix into your soy-sesame glaze—it helps the sauce cling luxuriously to every strand."
+  - "Veggie Integration: Toss in a handful of quick-cooking greens like baby spinach or thinly sliced pak choi during the last minute of boiling for an effortless nutritional boost."
 rating: 
 reviews: 
 flavor_profile: "Umami, Salty, Savory"

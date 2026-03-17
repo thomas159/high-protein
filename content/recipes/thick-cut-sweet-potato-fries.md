@@ -10,8 +10,11 @@ pintrest: ""
 categories: ["vegan", "snacks"]
 cuisine: "American"
 keywords: ["sweet potato fries", "thick cut", "vegan", "american", "snack", "air fryer"]
-tipsTitle: ""
-tips: []
+tipsTitle: "Crispy Fry Secrets"
+tips: 
+  - "Space is Key: Don't overcrowd the air fryer basket. Cook in smaller batches if necessary to ensure the hot air circulates evenly for maximum crunch."
+  - "The Starch Soak: Soaking the sweet potato sticks in cold water for 30 minutes helps pull out starches, which is the secret to getting a crispy exterior."
+  - "Salt Timing: Only salt your fries *after* they finish cooking. Salting them beforehand draws out moisture and leads to steaming rather than frying."
 tags: []
 rating: 
 reviews: 

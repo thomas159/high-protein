@@ -21,7 +21,8 @@ why:
 tipsTitle: "Time-saving Tips"
 tips:
   - "The 10-Minute Shortcut: Use a high-quality pre-made curry paste (like Tikka or Korma) instead of the individual spices if you're really short on time."
-  - "Frozen over Fresh: Use frozen spinach pellets. They're cheaper, last longer, and you can toss them straight from the freezer into the pan."
+  - "Frozen over Fresh: Use frozen spinach pellets instead of fresh leaves. They're cheaper, last longer, and you can toss them straight from the freezer into the bubbling pan."
+  - "Creamier Texture: Use full-fat coconut milk rather than 'lite' versions to achieve that luxurious, velvety restaurant-style broth that coats the chickpeas perfectly."
 prepTimeMins: 5
 cookTimeMins: 20
 servings: 1

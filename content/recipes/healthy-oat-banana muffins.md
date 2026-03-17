@@ -15,7 +15,9 @@ cuisine: "American"
 keywords: ["banana muffins", "oats", "healthy baking", "american", "dessert", "high-protein", "chocolate"]
 tipsTitle: "Vegan Alternative"
 tips: 
-  - "Want to make it Vegan? Swap the egg for a \"flax egg\" (1 tbsp ground flax + 3 tbsp water) and use a high-protein soy yogurt instead of Greek yogurt. Replace the honey with maple syrup or agave."
+  - "Vegan Alternative: Swap the egg for a 'flax egg' (1 tbsp ground flax + 3 tbsp water) and use a high-protein soy yogurt instead of Greek yogurt. Replace the honey with maple syrup."
+  - "Spotty Bananas Only: Use the brownest, ugliest bananas you can find. They mash easier, provide natural caramel notes, and dramatically reduce the need for added sweeteners."
+  - "Don't Over-Mix: Stir the wet and dry ingredients until *just* combined. Over-mixing activates the oat starches and can make your muffins dense and rubbery instead of light and fluffy."
 rating: 
 reviews: 
 flavor_profile: "Sweet, Chocolatey, Fudgy"

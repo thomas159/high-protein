@@ -18,8 +18,9 @@ categories: ["sauces", "15-minute-meals"]
 tags: ["Keto"]
 tipsTitle: "Variations to Try"
 tips: 
-  - "Lemon Juice: A small squeeze cuts through the richness."
-  - "Dried Herbs: A pinch of dill or parsley works wonders."
+  - "Add a Zing: A fresh squeeze of lemon juice immediately brightens the sauce and cuts through the richness."
+  - "Herb Infusion: Stir in a generous pinch of dried dill, parsley, or fresh chives for a herbaceous twist."
+  - "Spicy Kick: A dash of cayenne pepper or your favorite hot sauce elevates the dip with a gentle, lingering heat."
 rating: 
 reviews: 
 cuisine: "Mediterranean"

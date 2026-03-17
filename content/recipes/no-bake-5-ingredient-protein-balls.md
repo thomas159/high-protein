@@ -11,8 +11,11 @@ categories: ["high-protein", "5-minute-meals", "snacks"]
 cuisine: "American"
 tags: []
 keywords: ["protein balls", "no-bake", "snack", "high-protein", "american", "meal prep"]
-tipsTitle: ""
-tips: []
+tipsTitle: "Perfecting the Dough"
+tips: 
+  - "Texture Control: If the mixture is too dry, add a splash of milk or a teaspoon of water; if it's too sticky, sprinkle in a few more oats or protein powder."
+  - "Flavor Upgrades: Try folding in dark chocolate chips, dried cranberries, or a pinch of cinnamon to keep your snacking exciting."
+  - "Chill for Easy Rolling: Pop the bowl in the fridge for 10 minutes before rolling to help the nut butter firm up and reduce mess."
 rating: 
 reviews:
 flavor_profile: "Sweet, Nutty, Creamy"

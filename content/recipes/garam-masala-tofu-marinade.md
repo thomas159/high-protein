@@ -11,7 +11,11 @@ categories: ["vegan", "dinner", "15-minute-meals", "marinade"]
 tags: []
 cuisine: "Indian"
 keywords: ["tofu marinade", "garam masala", "indian", "vegan", "high-protein", "spicy", "air-fryer"]
-tips: ""
+tipsTitle: "Spice & Char"
+tips:
+  - "Yogurt Base: For an even thicker, 'tandoori' style coating, mix the spices into 2 tablespoons of plain dairy-free yogurt before tossing with the tofu."
+  - "Spice Blooming: If you have an extra minute, lightly toast the garam masala in a dry pan for 30 seconds before mixing the marinade to intensely awaken its aromatics."
+  - "Marinate Longer: While 30 minutes works, leaving the tofu in this spiced marinade overnight in the fridge yields a spectacular, restaurant-quality depth of flavor."
 rating: 
 reviews: 
 flavor_profile: "Earthy, Spicy, Savory"

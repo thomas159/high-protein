@@ -12,8 +12,11 @@ categories: ["vegan", "dinner", "15-minute-meals", "marinade", "trending"]
 tags: []
 cuisine: "Mexican"
 keywords: ["tofu marinade", "chipotle", "lime", "mexican", "vegan", "high-protein", "air-fryer", "spicy"]
-tipsTitle: ""
-tips: []
+tipsTitle: "Maximum Flavor"
+tips: 
+  - "Adobo Power: Don't just use the chipotle pepper! Spoon in an extra teaspoon of the smoky adobo sauce from the can for a massive, concentrated flavor boost."
+  - "Press and Score: Thoroughly press your tofu, then use a knife to lightly score the surface. This creates tiny channels for the zesty lime and smoky chili to penetrate."
+  - "The Citrus Finish: The heat destroys some of the fresh lime notes during cooking. Squeeze an extra wedge of raw lime over the tofu right as it comes out of the pan to revive the zing."
 rating: 
 reviews: 
 flavor_profile: "Earthy, Spicy, Savory"

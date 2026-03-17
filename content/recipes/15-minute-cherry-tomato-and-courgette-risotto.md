@@ -16,6 +16,11 @@ categories: ["dinner", "microwave", "15-minute-meals"]
 tags: ["vegan"]
 cuisine: "Italian"
 keywords: ["risotto", "cherry tomato", "courgette", "zucchini", "microwave", "italian", "vegan", "15-minute"]
+tipsTitle: "Microwave Magic"
+tips:
+  - "Mind the Bowl Size: Arborio rice expands and the liquid bubbles up significantly in the microwave, so always use a much larger bowl than you think you need."
+  - "Creamy Finish: Vigorously stirring the risotto for a full minute after it finishes cooking releases the rice's natural starches, creating a luxurious sauce without needing extra cream."
+  - "Veggie Swaps: This forgiving base works beautifully with whatever you have in the fridge—try folding in fresh spinach, peas, or diced bell peppers during the final step."
 rating: 
 reviews: 
 flavor_profile: "Creamy, Savory, Fresh"

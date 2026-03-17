@@ -13,7 +13,9 @@ image: "naan-bread-pizza_m9ikl5"
 categories: ["air-fryer", "dinner", "15-minute-meals"]
 tipsTitle: "Make it your own"
 tips:
-  - "Add some heat: Sprinkle a few chili flakes or add a swirl of Sriracha on top before serving."
+  - "Spice It Up: Sprinkle a generous pinch of red chili flakes or drizzle a swirl of Sriracha on top right before serving to beautifully contrast the sweet mango chutney."
+  - "Paneer Prep: For maximum flavor, toss the cubed paneer in a tiny pinch of turmeric and garam masala before adding it to the pizza for a true 'tandoori' vibe."
+  - "Crisp the Base: If your naan is quite thick, pop it in the air fryer naked for 1 minute before adding the toppings so the center doesn't go soggy under the chutney."
 cuisine: "Indian"
 tags: 
 keywords: ["naan pizza", "indian", "fusion", "paneer", "mango chutney", "quick dinner"]

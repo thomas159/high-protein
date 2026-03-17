@@ -8,8 +8,11 @@ description: "Upgrade your side dish with these fragrant, herb-infused fries. By
 image: "air-fryer-rosemary-garlic-fries_ab8wu4"
 pintrest: ""
 categories: ["air-fryer", "30-minute-meals", "snacks"]
-tipsTitle: ""
-tips: []
+tipsTitle: "Crispy Fry Secrets"
+tips: 
+  - "Dry Them Thoroughly: After cutting the potatoes, dry them aggressively with a clean kitchen towel. Any surface moisture will cause the fries to steam instead of roast."
+  - "Garlic Granules over Fresh: Use garlic granules or powder rather than fresh minced garlic, which has a tendency to burn and turn bitter in the high heat of the air fryer."
+  - "Toss, Don't Spray: Toss the raw fries with the olive oil and herbs in a large bowl first. This ensures an even coating that an aerosol spray just can't match."
 tags: ["Vegan", "Gluten-Free", "Healthy"]
 cuisine: "American"
 keywords: ["fries", "air fryer", "rosemary", "garlic", "american", "vegan", "gluten-free", "snack"]

@@ -13,7 +13,9 @@ cuisine: "Indian"
 keywords: ["tofu marinade", "tikka", "indian", "vegetarian", "high-protein", "air-fryer", "grilled"]
 tipsTitle: "Ingredient Swap"
 tips: 
-  - "If you don't have garlic ginger paste it can be substituted with 1 clove of garlic and an equal amount of ginger."
+  - "Ingredient Swap: If you don't have jarred garlic ginger paste, simply substitute it by finely mincing or grating 1 large clove of fresh garlic and an equal amount of peeled ginger."
+  - "The Yogurt Trick: Using full-fat Greek yogurt (or a thick, high-protein vegan alternative) is crucial. Thin yogurts will run off the tofu and burn instead of creating a thick, charred crust."
+  - "Don't Skimp on Salt: Tofu is notoriously bland on the inside. Adding a slightly heavier pinch of salt to the marinade ensures the flavor profile pops once it's cooked."
 rating: 
 reviews:
 flavor_profile: "Earthy, Spicy, Savory"

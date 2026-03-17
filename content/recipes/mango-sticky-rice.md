@@ -13,7 +13,11 @@ categories: ["dessert"]
 tags: 
 cuisine: "Thai"
 keywords: ["mango sticky rice", "thai", "dessert", "coconut", "sweet", "sticky rice"]
+tipsTitle: "Authentic Sticky Rice"
 tips:
+  - "Don't Skip the Soak: Glutinous rice requires soaking for at least 6 hours (or 1 hour in boiling water) to soften the tough outer shell and ensure an even, tender steam."
+  - "Hot Rice, Cold Milk: Always mix the sweetened coconut cream into the rice while the rice is piping hot. The heat helps the grains absorb the liquid perfectly."
+  - "The Salt Finish: A tiny pinch of salt in the coconut glaze is the secret ingredient. It sharply contrasts the sweet mango and rich sugar, making all the flavors pop."
 rating: 
 reviews: 
 flavor_profile: "Sweet, Creamy, Tropical"

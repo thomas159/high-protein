@@ -11,6 +11,11 @@ categories: ["dinner", "15-minute-meals"]
 tags: ["vegan"]
 cuisine: "Moroccan"
 keywords: ["couscous", "moroccan", "vegan", "15-minute", "mediterranean", "healthy side"]
+tipsTitle: "Flawless Couscous"
+tips:
+  - "The Fork Rule: Always use a fork, never a spoon, to fluff your couscous. A spoon will mash the delicate grains together into a dense clump."
+  - "Stock Matters: Because the couscous absorbs all the liquid, use a high-quality vegetable stock rather than just water for a massive flavor upgrade."
+  - "Fresh Herb Finish: Stir through a generous handful of freshly chopped mint or parsley right before serving to bring a vibrant, authentic Mediterranean brightness to the dish."
 rating: 
 reviews: 
 flavor_profile: "Fresh, Tangy, Savory"

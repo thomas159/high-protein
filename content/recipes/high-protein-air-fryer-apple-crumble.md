@@ -11,8 +11,11 @@ categories: ["high-protein", "air-fryer", "vegan", "keto", "dinner", "breakfast"
 tags: []
 cuisine: "British"
 keywords: ["apple crumble", "air fryer", "high-protein", "dessert", "british", "vegan", "keto"]
-tipsTitle: ""
-tips: []
+tipsTitle: "Crumble Perfection"
+tips: 
+  - "Apple Choice: Use a tart apple variety like Granny Smith or Braeburn. Their sharp acidity perfectly balances the sweet, protein-heavy oat topping."
+  - "Foil Shield: If your oat crumble starts to brown too quickly in the air fryer before the apples are soft, simply cover the ramekin loosely with a small piece of tin foil."
+  - "Butter Temperature: Use melted butter or warm coconut oil for the topping. It binds the protein powder and oats together to create those satisfying, chunky clusters."
 rating: 
 reviews: 
 flavor_profile: "Sweet, Cinnamon, Crunchy"

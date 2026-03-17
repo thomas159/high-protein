@@ -15,7 +15,9 @@ cuisine: "Argentinian"
 keywords: ["chimichurri", "sauce", "argentinian", "vegan", "5-minute", "condiment", "herbs"]
 tipsTitle: "Serving Tip"
 tips: 
-  - "This Chimichurri is the perfect companion for Grilled Tofu or a Lentil Bowl. The acidity in the vinegar actually helps your body digest plant-based proteins more efficiently!"
+  - "Protein Pairing: This Chimichurri is the perfect companion for grilled tofu steaks or a hearty lentil bowl. The acidity in the vinegar actually helps your body digest plant-based proteins more efficiently!"
+  - "Let It Breathe: For the best flavor, allow the sauce to sit at room temperature for at least 15 minutes before serving so the herbs can release their oils."
+  - "Spice Level: Adjust the heat to your liking by leaving the seeds in the red chili for a fiery kick, or removing them for a milder tang."
 rating: 
 reviews: 
 flavor_profile: "Herby, Tangy, Garlicky"

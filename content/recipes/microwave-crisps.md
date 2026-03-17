@@ -10,7 +10,9 @@ pintrest: ""
 categories: ["vegan", "snacks", "15-minute-meals"]
 tipsTitle: "Flavor Variation"
 tips:
-  - "Zing Tip: For \"Salt & Vinegar\" style chips, soak the slices in white vinegar for 10 minutes instead of water, then finish with a squeeze of lime juice right before serving."
+  - "Zing Tip: For 'Salt & Vinegar' style chips, soak the slices in white vinegar for 10 minutes instead of water, then finish with a squeeze of lime juice right before serving."
+  - "Uniform Slices: A mandoline slicer is your best friend here. If the chips are different thicknesses, the thin ones will burn before the thick ones crisp up."
+  - "Patience Pays Off: Don't skip the 1-2 minute resting time after taking them out. They might feel slightly soft when hot, but they crisp up dramatically as they cool."
 cuisine: "American"
 tags: []
 keywords: ["microwave crisps", "potato chips", "american", "vegan", "snack", "healthy", "oil-free"]

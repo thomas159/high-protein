@@ -11,8 +11,11 @@ categories: ["vegan", "dinner", "15-minute-meals", "marinade"]
 tags: []
 cuisine: "Korean"
 keywords: ["tofu marinade", "korean", "spicy", "gochujang", "vegan", "high-protein"]
-tipsTitle: ""
-tips: []
+tipsTitle: "Gochujang Greatness"
+tips: 
+  - "The Pressing Step: Tofu acts like a sponge. Pressing out the water for 15 minutes allows it to soak up the bold, spicy Gochujang flavors all the way to the center."
+  - "Sugar for the Glaze: The small amount of sugar isn't just for sweetness—it caramelizes under heat, creating that signature sticky, glossy lacquer coating."
+  - "Heat Management: Gochujang pastes vary in heat intensity. Taste the raw marinade first and balance it with a touch more ketchup or sugar if it's too fiery for your palate."
 rating: 
 reviews: 
 flavor_profile: "Spicy, Sweet, Umami"

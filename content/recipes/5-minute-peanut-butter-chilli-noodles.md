@@ -10,6 +10,11 @@ categories: ["5-minute-meals", "vegan", "high-protein"]
 cuisine: "Asian"
 keywords: ["peanut butter noodles", "chilli", "asian", "vegan", "high-protein", "5-minute", "spicy"]
 flavor_profile: "Spicy, Nutty, Aromatic"
+tipsTitle: "Sauce & Sizzle"
+tips:
+  - "Adjust the Consistency: Peanut butter thickens rapidly when heated. Keep a splash of warm water or reserved noodle water handy to loosen the sauce if it gets too claggy."
+  - "The Acid Balance: Don't skip the rice wine vinegar! The sharp acidity is crucial for cutting through the rich, heavy fats of the peanut butter and sesame oil."
+  - "Crispy Toppings: Elevate the texture by topping the finished dish with crushed roasted peanuts, crispy fried shallots, or toasted sesame seeds for a satisfying crunch."
 servingSuggestions: "These spicy, nutty noodles are robust and flavorful, making them the perfect main event. Serve them with a side of light, pickled Asian vegetables, such as daikon radish or cucumbers, to refresh your palate between bites. If serving for dinner, pair with a side of crispy vegetable spring rolls or steamed vegetable dumplings."
 shelf_life: "Best served fresh. If reheating, add a splash of water to loosen the peanut sauce."
 storageInstructions: "Best enjoyed fresh. Leftovers can be stored in the fridge for up to 2 days. Reheat gently on the stove with a splash of water. Not suitable for freezing."

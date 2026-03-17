@@ -10,8 +10,9 @@ image: "kim-chi-fried-rice_a4xo6n"
 categories: ["dinner", "vegan", "15-minute-meals"]
 tipsTitle: "Cooking Tips"
 tips:
-  - "Kimchi Juice: For an extra punch, add 2 tablespoons of the liquid from the kimchi jar during Step 3."
-  - "Add tofu: Add 200g of tofu to increase the amount of protein."
+  - "Flavor Bomb: Don't waste the liquid! Add 2-3 tablespoons of the juice from your kimchi jar during Step 3 for a deeply authentic, punchy flavor."
+  - "Protein Boost: Dice 200g of extra-firm tofu or tempeh and pan-fry it before starting the rice for a massive plant-based protein upgrade."
+  - "Day-Old Rice is King: Always use cold, day-old rice. Freshly cooked rice has too much moisture and will turn your dish into mush."
 cuisine: "Korean"
 tags: ["vegan"]
 keywords: ["kimchi", "fried rice", "korean", "vegan", "15-minute", "spicy", "comfort food"]

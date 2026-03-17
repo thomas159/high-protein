@@ -10,10 +10,10 @@ image: "feta-and-cherry-tomato-pasta_k93wad"
 categories: ["dinner", "15-minute-meals"]
 tipsTitle: "Chef's Tips"
 tips:
-  - "Vegan: To make this vegan use a high-fat plant cream such as oat cream or soy cream and substitute the feta cheese with a vegan feta cheese."
-  - "Tomato Tip: If you're using cherry tomatoes, try halving them before sautéing; they release their juices faster and create a \"jammy\" sauce."
-  - "Feta Choice: Use a block of feta in brine rather than pre-crumbled; it melts much smoother and has a better tang."
-  - "The Wine: A dry white like Pinot Grigio or Sauvignon Blanc works best here to balance the richness of the cream."
+  - "Vegan Swap: Easily make this vegan by using a high-fat plant cream (like oat or soy cream) and substituting the dairy feta with a tangy, high-quality vegan feta."
+  - "Jammy Tomatoes: If using cherry tomatoes, try halving them before sautéing. They release their natural juices much faster, creating a sweet, rustic 'jam' base for the sauce."
+  - "Feta Selection: Always buy a block of feta suspended in brine rather than the pre-crumbled tubs. It melts incredibly smooth and provides a much sharper, authentic tang."
+  - "Wine Pairing: A dry, crisp white wine like Pinot Grigio or Sauvignon Blanc works best to cut through the heavy richness of the cream and cheese."
 cuisine: "Italian"
 tags: 
 keywords: ["feta pasta", "cherry tomato", "italian", "15-minute", "creamy", "vegetarian"]

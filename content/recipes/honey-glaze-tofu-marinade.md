@@ -12,7 +12,11 @@ categories: ["vegan", "dinner", "15-minute-meals", "marinade"]
 cuisine: "Asian"
 keywords: ["tofu marinade", "honey glaze", "asian", "vegetarian", "sweet", "savory", "air-fryer"]
 tags: []
-tips: ""
+tipsTitle: "Marinade Mastery"
+tips:
+  - "Scoring the Tofu: Lightly score the surface of your tofu cubes in a crisscross pattern to allow the sweet honey glaze to penetrate even deeper."
+  - "Watch the Heat: Honey caramelizes beautifully but can burn quickly. Keep a close eye on the tofu during the final minutes of cooking to ensure a golden, not charred, crust."
+  - "Vegan Swap: Easily make this recipe 100% vegan by swapping the honey for agave nectar or a thick maple syrup; both work perfectly for that sticky finish."
 rating: 
 reviews: 
 flavor_profile: "Earthy, Spicy, Savory"

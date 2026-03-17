@@ -8,7 +8,11 @@ description: "Upgrade your snack game with these ultimate loaded fries. Using th
 image: "air-fryer-jalapeno-cheese-loaded-fries_twwfu7"
 pintrest: ""
 categories: ["air-fryer", "30-minute-meals", "snacks"]
+tipsTitle: "Loaded & Crispy"
 tips: 
+  - "Block Cheese Only: Always use cheese grated fresh from a block. Pre-shredded cheese is coated in cellulose that prevents it from achieving that perfect, gooey melt."
+  - "Layering Technique: Don't just dump the cheese on top! Build the fries in two layers with cheese and jalapeños in the middle, guaranteeing a perfect bite every time."
+  - "Jalapeño Heat: If you want the jalapeño flavor without the aggressive burn, quickly rinse the sliced jalapeños under cold water to wash away some of the fiery seeds."
 tags: []
 cuisine: "American"
 keywords: ["loaded fries", "jalapeno", "cheese", "air fryer", "american", "snack", "spicy"]

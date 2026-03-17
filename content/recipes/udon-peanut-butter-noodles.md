@@ -11,6 +11,11 @@ categories: ["vegan", "dinner", "15-minute-meals"]
 cuisine: "Thai"
 keywords: ["udon", "peanut butter", "noodles", "thai", "vegan", "tofu", "stir fry"]
 tags: []
+tipsTitle: "Wok Star Tips"
+tips:
+  - "Rinse the Udon: If using vacuum-packed fresh udon, quickly rinse them under hot water to loosen the strands before adding them to the pan so they don't break."
+  - "Tofu Texture: To get the crispiest tofu in your stir-fry, gently press it dry with a paper towel and let it sear undisturbed for a few minutes before tossing."
+  - "Thinning the Sauce: The peanut butter sauce will thicken as it cools. If you're meal prepping, stir in a splash of warm water when reheating to bring back that silky texture."
 rating: 
 reviews: 
 flavor_profile: "Nutty, Creamy, Savory"
