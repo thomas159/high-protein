@@ -23,6 +23,10 @@ flavour:
   - "The Base: Warm, soft, and naturally sweet cinnamon-spiced apples."
   - "The Topping: Buttery, toasted, and nutty oat clusters."
   - "The Richness: A subtle vanilla or caramel note from the protein powder."
+use:
+  - "Healthy Dessert: A guilt-free way to finish the evening."
+  - "Sweet Breakfast: Pair with Greek yogurt for a fiber-rich start to the day."
+  - "Post-Workout: Packs enough protein and carbs to refuel effectively."
 rating: 
 reviews: 
 flavor_profile: "Sweet, Cinnamon, Crunchy"

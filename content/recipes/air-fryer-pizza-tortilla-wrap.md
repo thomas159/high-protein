@@ -19,6 +19,10 @@ flavour:
   - "The Base: Herbal, garlicky, and nutty green pesto."
   - "The Richness: Salty, bubbling, and savory melted mozzarella."
   - "The Crunch: A delicate, cracker-thin toasted tortilla crust."
+use:
+  - "Low-Calorie Fix: All the pizza flavor with barely any of the carbs."
+  - "After-School Snack: Simple enough to make in a hurry."
+  - "Light Lunch: Pairs beautifully with a fresh rocket side salad."
 image: "air-fryer-pizza-tortilla-wrap_ko6ckn"
 pintrest: ""
 categories: ["air-fryer", "dinner", "15-minute-meals"]

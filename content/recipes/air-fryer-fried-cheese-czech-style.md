@@ -28,6 +28,10 @@ flavour:
   - "The Base: Mild, salty, and incredibly gooey melted Edam cheese."
   - "The Crust: Toasted, nutty, and savory golden breadcrumbs."
   - "The Finish: A deeply comforting, rich, and fulfilling bite."
+use:
+  - "Comfort Main: Serve with chips and tartar sauce for the authentic Czech experience."
+  - "Burger Patty: Sandwich the crispy cheese block in a brioche bun."
+  - "Indulgent Snack: Cut into smaller squares before breading for bite-sized treats."
 flavor_profile: "Cheesy, Crispy, Savory"
 servingSuggestions: "For a traditional Czech experience, serve this golden fried cheese with a generous side of crispy fries and a tangy homemade tartar sauce for dipping. A simple side salad of mixed greens dressed with a sharp vinaigrette helps to cut through the richness of the melted cheese. A cold, crisp pilsner-style beer is the classic beverage pairing for this comforting dish."
 storageInstructions: "Uncooked, breaded cheese can be frozen for up to 2 months. Cook directly from frozen, adding an extra 2-3 minutes to the cooking time. Cooked cheese is best eaten fresh."

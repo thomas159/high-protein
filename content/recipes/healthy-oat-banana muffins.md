@@ -24,6 +24,10 @@ flavour:
   - "The Base: Deep, fudgy chocolate and toasted oats."
   - "The Sweetness: Caramelized ripe banana and a touch of honey."
   - "The Tropical Note: Nutty, aromatic desiccated coconut."
+use:
+  - "Breakfast on the Go: Grab one with your morning coffee for lasting energy."
+  - "Post-Workout: A macro-friendly balance of carbs and protein."
+  - "Guilt-Free Dessert: Warm it up and serve with a dollop of yogurt."
 rating: 
 reviews: 
 flavor_profile: "Sweet, Chocolatey, Fudgy"

@@ -22,6 +22,10 @@ flavour:
   - "The Base: Naturally sweet, earthy sweet potatoes."
   - "The Crust: A savory, salty bite with a slight charred edge."
   - "The Finish: Olive oil richness enhancing the caramelized sugars."
+use:
+  - "Burger Sidekick: The classic pairing for any plant-based burger."
+  - "Healthy Snack: A satisfying, nutrient-dense treat when you need a crunch."
+  - "Loaded Base: Top with black beans, avocado, and salsa for a full meal."
 tags: []
 rating: 
 reviews: 

@@ -22,6 +22,10 @@ flavour:
   - "The Base: Creamy, nutty peanut butter blended with rich soy milk."
   - "The Umami: White miso paste adds a deep, fermented, savory backbone."
   - "The Heat: Chili oil provides a vibrant, tingling spice to finish."
+use:
+  - "Speedy Dinner: The ultimate 5-minute hack when you don't want to cook."
+  - "Pantry Meal: Uses long-lasting staples you probably already have."
+  - "Protein Boost: Add tofu or edamame for a serious post-gym meal."
 servingSuggestions: "These rich, umami-packed noodles are incredibly satisfying on their own, but pairing them with some crunchy greens elevates the dish. Serve alongside blanched edamame, sugar snap peas, or a refreshing cucumber ribbon salad to cut through the creamy peanut sauce. A wedge of lime squeezed over the top right before eating adds a perfect bright finish."
 shelf_life: "Best eaten fresh; the sauce thickens significantly as it cools."
 storageInstructions: "Store leftovers in the fridge for up to 3 days. The sauce will thicken, so add a splash of warm water when reheating. Do not freeze."

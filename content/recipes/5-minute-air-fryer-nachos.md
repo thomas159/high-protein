@@ -20,6 +20,10 @@ flavour:
   - "The Base: Toasted, crunchy, and salty corn tortilla chips."
   - "The Richness: A thick blanket of savory melted cheddar."
   - "The Freshness: Bright tomatoes, sharp onions, and zesty lime."
+use:
+  - "Instant Craving: A hot, cheesy snack ready faster than preheating an oven."
+  - "Movie Night: Easy to customize with everyone's favorite toppings."
+  - "Quick Lunch: Load up with beans and veggies for a surprisingly filling meal."
 tags: []
 cuisine: "Mexican"
 keywords: ["nachos", "air fryer", "mexican", "cheese", "snack", "5-minute", "quick"]

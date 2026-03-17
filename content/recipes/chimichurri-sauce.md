@@ -24,6 +24,10 @@ flavour:
   - "The Base: Vibrant, grassy, and fresh chopped parsley."
   - "The Tang: Sharp, acidic red wine vinegar that makes your mouth water."
   - "The Kick: Raw garlic and a subtle chili burn mellowed by rich olive oil."
+use:
+  - "As a Marinade: Coat tofu or seitan before grilling."
+  - "As a Topping: Spoon over roasted vegetables or potatoes."
+  - "As a Dressing: Toss through a grain salad for a massive flavor upgrade."
 rating: 
 reviews: 
 flavor_profile: "Herby, Tangy, Garlicky"

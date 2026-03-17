@@ -23,6 +23,10 @@ flavour:
   - "The Base: Tangy, thick, and cooling Greek yogurt."
   - "The Spices: Earthy turmeric, coriander, and warming garam masala."
   - "The Aromatics: Pungent garlic, ginger, and bright lemon juice."
+use:
+  - "Curry Companion: Char the tofu and fold it into a rich tomato curry base."
+  - "Kebab Skewers: Alternate with peppers and onions for an Indian-spiced BBQ."
+  - "Salad Protein: Slice the cold leftovers over a fresh green salad."
 rating: 
 reviews:
 flavor_profile: "Earthy, Spicy, Savory"

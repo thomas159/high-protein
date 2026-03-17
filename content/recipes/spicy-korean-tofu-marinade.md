@@ -23,6 +23,10 @@ flavour:
   - "The Base: Deep, fermented, and intensely savory Gochujang."
   - "The Sweetness: A sticky, caramelized sugary finish."
   - "The Aromatics: Nutty sesame oil, sharp garlic, and fresh ginger."
+use:
+  - "Sticky Protein: Perfect for air-frying into a crispy, glazed main."
+  - "Noodle Topper: Serve over spicy ramen or udon for extra protein."
+  - "Bibimbap Bowl: The ideal star ingredient for a loaded Korean rice bowl."
 rating: 
 reviews: 
 flavor_profile: "Spicy, Sweet, Umami"

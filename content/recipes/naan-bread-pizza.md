@@ -21,6 +21,10 @@ flavour:
   - "The Base: Sweet, syrupy, and tangy Indian mango chutney."
   - "The Richness: Mild, milky, and golden-charred paneer cheese."
   - "The Finish: Fresh, herbal coriander and sweet sautéed onions."
+use:
+  - "Fusion Dinner: A creative, rapid alternative to traditional pizza night."
+  - "Quick Lunch: Easy to assemble and cook in under 15 minutes."
+  - "Kid-Friendly: Fun to customize with different toppings and chutneys."
 cuisine: "Indian"
 tags: 
 keywords: ["naan pizza", "indian", "fusion", "paneer", "mango chutney", "quick dinner"]

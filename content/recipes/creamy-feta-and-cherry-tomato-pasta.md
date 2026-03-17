@@ -21,6 +21,10 @@ flavour:
   - "The Base: Intensely sharp, salty, and tangy melted feta cheese."
   - "The Brightness: Sweet, acidic, and jammy blistered cherry tomatoes."
   - "The Richness: Velvety cream and a hint of crisp white wine."
+use:
+  - "Weeknight Savior: A luxurious pasta dish that only takes 15 minutes."
+  - "Lunch Prep: Tastes incredible reheated the next day."
+  - "Dinner Party: Looks and tastes sophisticated enough for entertaining."
 cuisine: "Italian"
 tags: 
 keywords: ["feta pasta", "cherry tomato", "italian", "15-minute", "creamy", "vegetarian"]

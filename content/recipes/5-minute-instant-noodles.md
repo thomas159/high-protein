@@ -23,6 +23,10 @@ flavour:
   - "The Base: Intensely savory soy sauce and vegetable stock reduction."
   - "The Nutty Finish: Toasted sesame oil coats every strand with a deep aroma."
   - "The Heat: Sriracha or sambal delivers a sharp, garlicky chili kick."
+use:
+  - "Snack Attack: A massive upgrade to a basic instant noodle craving."
+  - "Midnight Munchies: Quick, savory, and requires almost no cleanup."
+  - "Base Builder: Add leftover veggies or a soft-boiled egg to make it a full meal."
 rating: 
 reviews: 
 flavor_profile: "Umami, Salty, Savory"

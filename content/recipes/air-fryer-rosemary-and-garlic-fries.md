@@ -20,6 +20,10 @@ flavour:
   - "The Base: Fluffy on the inside, crispy on the outside savory potatoes."
   - "The Aromatics: Piney, woody, and fragrant toasted rosemary."
   - "The Kick: Deep, pungent, and savory garlic granules."
+use:
+  - "Gourmet Side: A sophisticated step up from standard french fries."
+  - "Steak Pairing: The absolute best companion to a thick cauliflower or seitan steak."
+  - "Snack Bowl: Perfect for dipping into truffle mayo or garlic aioli."
 tags: ["Vegan", "Gluten-Free", "Healthy"]
 cuisine: "American"
 keywords: ["fries", "air fryer", "rosemary", "garlic", "american", "vegan", "gluten-free", "snack"]

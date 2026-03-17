@@ -23,6 +23,10 @@ flavour:
   - "The Base: A thick, sticky, and intensely savory soy-ketchup glaze."
   - "The Heat: Deep, fermented sweetness and spice from Gochujang."
   - "The Aromatics: Toasted sesame and fresh green onion."
+use:
+  - "Main Course: Serve over short-grain rice with steamed broccoli."
+  - "Lettuce Wraps: Wrap in crisp butter lettuce with a little ssamjang."
+  - "Appetizer: Skewer them on toothpicks for a sticky party snack."
 servingSuggestions: "This fiery, sticky tofu is perfectly balanced when served over a bowl of plain, short-grain white rice, which helps mellow the intense flavors of the Gochujang glaze. Accompany it with a side of quick-pickled cucumbers or a simple sesame spinach salad for a refreshing contrast. Wrap the tofu in crisp lettuce leaves for a fun, interactive meal."
 shelf_life: "Best eaten immediately to maintain the tofu's crispness."
 whyTitle: "Why it's a Muscle Builder"

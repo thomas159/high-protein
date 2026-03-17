@@ -26,6 +26,10 @@ flavour:
   - "The Base: Creamy, starchy arborio rice enriched with parmesan and butter."
   - "The Brightness: Jammy, burst cherry tomatoes add a sweet acidity."
   - "The Depth: A splash of white wine provides a crisp, gourmet background note."
+use:
+  - "Quick Dinner: A rapid comfort meal that requires almost zero active cooking."
+  - "Lunch Prep: Easy to batch cook and microwave the next day."
+  - "Vegetarian Main: A satisfying standalone dish that needs no meat."
 rating: 
 reviews: 
 flavor_profile: "Creamy, Savory, Fresh"

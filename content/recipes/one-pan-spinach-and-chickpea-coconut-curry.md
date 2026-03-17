@@ -30,6 +30,10 @@ flavour:
   - "The Base: A rich, creamy, and mildly sweet coconut milk broth."
   - "The Spices: Earthy cumin, warm turmeric, and fragrant coriander."
   - "The Aromatics: Fresh ginger and garlic provide a bright, zesty foundation."
+use:
+  - "Batch Cooking: Make a large pan on Sunday for four days of healthy lunches."
+  - "Warming Dinner: Perfect served piping hot over basmati rice on a cold evening."
+  - "Pantry Clear-out: Utilizes canned chickpeas and milk for an emergency meal."
 prepTimeMins: 5
 cookTimeMins: 20
 servings: 1

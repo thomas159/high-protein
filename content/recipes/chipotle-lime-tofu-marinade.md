@@ -24,6 +24,10 @@ flavour:
   - "The Base: Earthy, smoky adobo and chipotle peppers."
   - "The Zing: Fresh lime juice cuts through the heat."
   - "The Spices: Cumin and paprika add a savory, warming depth."
+use:
+  - "Taco Filling: Creates a deeply flavorful, smoky protein for Mexican night."
+  - "Salad Topper: Add cold to a black bean and corn salad for a zesty punch."
+  - "Fajita Bowls: Serve over cilantro-lime rice with sautéed peppers."
 rating: 
 reviews: 
 flavor_profile: "Earthy, Spicy, Savory"

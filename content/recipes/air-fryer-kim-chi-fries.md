@@ -20,6 +20,10 @@ flavour:
   - "The Base: Crispy, salty, perfectly air-fried potatoes."
   - "The Tang: Fermented, spicy kimchi brings a sharp, acidic bite."
   - "The Richness: Melted cheddar cheese rounds out the intense flavors."
+use:
+  - "Party Snack: The ultimate crowd-pleasing sharing platter."
+  - "Side Dish: Pairs perfectly with a thick, juicy veggie burger."
+  - "Late Night Treat: Hits every craving for salty, spicy, and cheesy."
 tags: ["Gluten-Free", "Healthy"]
 cuisine: "Korean"
 keywords: ["kimchi fries", "air fryer", "korean", "fusion", "cheese", "spicy", "snack"]

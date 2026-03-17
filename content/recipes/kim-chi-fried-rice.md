@@ -21,6 +21,10 @@ flavour:
   - "The Base: Toasted, slightly charred savory rice with nutty sesame notes."
   - "The Tang: Sour, funky, and vibrant fermented kimchi."
   - "The Heat: Gochujang adds a sweet, thick, and lingering chili warmth."
+use:
+  - "Leftover Rescue: The best way to use up day-old rice and aging kimchi."
+  - "Comfort Food: A spicy, warming bowl perfect for late-night cravings."
+  - "Quick Main: Goes from pan to plate in under 15 minutes."
 cuisine: "Korean"
 tags: ["vegan"]
 keywords: ["kimchi", "fried rice", "korean", "vegan", "15-minute", "spicy", "comfort food"]

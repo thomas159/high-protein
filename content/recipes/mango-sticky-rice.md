@@ -24,6 +24,10 @@ flavour:
   - "The Base: Rich, sweet, and floral coconut cream."
   - "The Brightness: Juicy, tropical, and slightly tart fresh mango."
   - "The Balance: A crucial pinch of salt that makes the sweetness shine."
+use:
+  - "Tropical Dessert: A stunning, authentic finale to a Thai-inspired dinner."
+  - "Sweet Snack: A high-carb treat perfect for heavy training days."
+  - "Breakfast Treat: Enjoy leftover sticky rice with fresh fruit in the morning."
 rating: 
 reviews: 
 flavor_profile: "Sweet, Creamy, Tropical"

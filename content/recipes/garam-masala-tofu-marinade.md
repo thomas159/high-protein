@@ -23,6 +23,10 @@ flavour:
   - "The Base: Warm, complex, and earthy Indian spices."
   - "The Aromatics: Pungent garlic and sharp, zesty fresh ginger."
   - "The Tang: Bright lime juice lifts the heavy spice profile."
+use:
+  - "Curry Protein: Air-fry and drop into a simmering tikka masala."
+  - "Wrap Filling: Serve in a warm flatbread with mint yogurt and salad."
+  - "Meal Prep: Stays flavorful and firm in the fridge for days."
 rating: 
 reviews: 
 flavor_profile: "Earthy, Spicy, Savory"

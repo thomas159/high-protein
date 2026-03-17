@@ -22,6 +22,10 @@ flavour:
   - "The Base: Rich, luxurious heavy cream and salty parmesan cheese."
   - "The Umami: Deeply caramelized, earthy, and meaty pan-seared mushrooms."
   - "The Brightness: Crisp white wine cuts through the heavy dairy fat."
+use:
+  - "Comfort Food: A hearty, warm dish for cozy evenings."
+  - "Date Night: Looks and tastes like a complex restaurant dish with minimal effort."
+  - "Leftovers: Reheats beautifully for next-day lunches."
 servingSuggestions: "This luxurious mushroom pasta pairs perfectly with a crisp, acidic side salad—think mixed greens with a sharp lemon vinaigrette—to balance the rich, creamy sauce. Serve with a slice of toasted garlic ciabatta to ensure no sauce is left in the bowl. A glass of light-bodied Pinot Noir or a dry Chardonnay beautifully complements the earthy mushrooms."
 shelf_life: "Best enjoyed fresh; stores in the fridge for up to 2 days."
 storageInstructions: "Keep in the fridge for up to 3 days. Reheat gently on the stove with a splash of milk or water. Freezing is not recommended as the cream sauce can split."

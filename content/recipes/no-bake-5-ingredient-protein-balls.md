@@ -23,6 +23,10 @@ flavour:
   - "The Base: Sweet, creamy, and nutty peanut butter."
   - "The Sweetness: Natural honey and ripe banana notes."
   - "The Texture: Dense, chewy oats with a rich vanilla protein finish."
+use:
+  - "Pre-Workout: A quick hit of energy from fast-digesting carbs and fats."
+  - "On-the-Go Snack: Easy to pack in a gym bag or backpack."
+  - "Healthy Dessert: A sweet, fudge-like treat to satisfy late-night sugar cravings."
 rating: 
 reviews:
 flavor_profile: "Sweet, Nutty, Creamy"

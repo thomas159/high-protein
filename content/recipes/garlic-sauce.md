@@ -24,6 +24,10 @@ flavour:
   - "The Base: Rich, creamy mayonnaise and Greek yogurt."
   - "The Kick: Pungent, sharp raw garlic."
   - "The Freshness: A hint of spring onion provides a crisp, mild onion finish."
+use:
+  - "As a Dip: Perfect for fresh crudités or thick-cut potato fries."
+  - "As a Spread: Slather inside sandwiches, wraps, or pita bread."
+  - "As a Dressing: Thin out with a splash of water for a creamy salad dressing."
 rating: 
 reviews: 
 cuisine: "Mediterranean"

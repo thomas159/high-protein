@@ -20,6 +20,10 @@ flavour:
   - "The Base: Mild, milky, and gooey melted mozzarella."
   - "The Crust: Toasted breadcrumbs with a savory garlic profile."
   - "The Heat: A gentle, lingering warmth from chili flakes and oregano."
+use:
+  - "Appetizer: The ultimate start to an Italian-American feast."
+  - "Party Platter: A guaranteed crowd-pleaser that stays contained in the air fryer."
+  - "Snack Attack: A high-protein, gooey comfort food."
 cuisine: "American"
 tags: []
 keywords: ["mozzarella sticks", "air fryer", "cheese", "snack", "crispy", "american", "appetizer"]

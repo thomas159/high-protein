@@ -23,6 +23,10 @@ flavour:
   - "The Base: Chewy udon noodles enveloped in a rich, nutty peanut sauce."
   - "The Heat: A warming background hum from Thai red curry paste."
   - "The Balance: Sweet coconut milk cut perfectly by a sharp squeeze of lime."
+use:
+  - "Post-Workout: High in carbs and plant-based protein to refuel muscles."
+  - "Quick Lunch: Comes together in just 15 minutes."
+  - "Cold Salad: Tastes excellent chilled the next day straight from the fridge."
 rating: 
 reviews: 
 flavor_profile: "Nutty, Creamy, Savory"

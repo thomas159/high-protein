@@ -20,6 +20,10 @@ flavour:
   - "The Base: Pure, concentrated earthy potato flavor."
   - "The Seasoning: A simple, clean, and satisfying salty finish."
   - "The Texture: A shatter-crisp crunch with zero oily aftertaste."
+use:
+  - "Healthy Snacking: A zero-oil alternative to store-bought potato chips."
+  - "Dipping Companion: Sturdy enough to scoop up thick hummus or guacamole."
+  - "Lunchbox Addition: A perfect crunchy side for a midday sandwich."
 cuisine: "American"
 tags: []
 keywords: ["microwave crisps", "potato chips", "american", "vegan", "snack", "healthy", "oil-free"]

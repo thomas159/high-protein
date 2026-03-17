@@ -24,6 +24,10 @@ flavour:
   - "The Base: A sticky, caramelized honey sweetness."
   - "The Umami: Savory soy sauce perfectly balances the sugar."
   - "The Earthiness: Hints of cumin and coriander bring a warm, complex depth."
+use:
+  - "Sticky Skewers: Thread onto sticks with peppers and grill."
+  - "Bowl Builder: The ultimate sweet and savory protein for rice or quinoa bowls."
+  - "Stir-Fry Addition: Toss into noodle dishes at the very end of cooking."
 rating: 
 reviews: 
 flavor_profile: "Earthy, Spicy, Savory"

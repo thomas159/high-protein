@@ -20,6 +20,10 @@ flavour:
   - "The Base: Crispy, savory, golden-brown air-fried potatoes."
   - "The Richness: Heavy, gooey, and salty melted cheddar cheese."
   - "The Fire: Sharp, bright, and vinegary jalapeño slices."
+use:
+  - "Game Day Grub: The ultimate messy, shareable comfort food."
+  - "Decadent Side: Serve alongside a hearty sandwich or wrap."
+  - "Comfort Cravings: Hits the spot for salty, spicy, and incredibly cheesy."
 tags: []
 cuisine: "American"
 keywords: ["loaded fries", "jalapeno", "cheese", "air fryer", "american", "snack", "spicy"]

@@ -22,6 +22,10 @@ flavour:
   - "The Base: Earthy, soft, and slightly sweet aubergine."
   - "The Nutty Depth: Rich, savory, and thick tahini paste."
   - "The Smoke & Tang: A hit of smoked paprika and sharp lemon juice."
+use:
+  - "Mezze Platter: The star of the show alongside hummus, falafel, and pita."
+  - "Healthy Spread: A low-calorie alternative to mayonnaise in wraps and sandwiches."
+  - "Veggie Dip: Perfect for scooping up with crisp cucumber and carrot sticks."
 servingSuggestions: "This smoky baba ganoush is the perfect centerpiece for a Mediterranean mezze platter. Serve it generously swirled in a shallow bowl, topped with a glug of high-quality olive oil and a sprinkle of smoked paprika, alongside warm pita triangles and crisp vegetable sticks. It also makes a fantastic, creamy spread inside falafel wraps or roasted vegetable sandwiches."
 shelf_life: "Stored in an airtight container in the fridge for up to 4 days"
 storageInstructions: "Store in an airtight container in the fridge for up to 4 days. You can freeze baba ganoush for up to 3 months; whisk well after thawing as the liquids may separate slightly."

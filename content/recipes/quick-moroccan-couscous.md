@@ -23,6 +23,10 @@ flavour:
   - "The Base: Light, fluffy couscous soaked in savory vegetable stock."
   - "The Sweetness: Sautéed red onions and peppers provide a caramelized sweetness."
   - "The Tang: Salty feta cheese and bright lemon juice balance the dish."
+use:
+  - "As a Base: Perfect underneath grilled tofu or roasted vegetables."
+  - "Meal Prep: Packs well in lunchboxes and tastes great cold."
+  - "Quick Side: A 10-minute addition to Mediterranean-style dinners."
 rating: 
 reviews: 
 flavor_profile: "Fresh, Tangy, Savory"
