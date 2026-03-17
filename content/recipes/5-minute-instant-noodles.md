@@ -5,6 +5,7 @@ description: "Quick, grab and go quick meals are always a good idea. These insta
 image: "5-minute-instant-noodles_ywvyin"
 pintrest: ""
 categories: ["vegan", "dinner", "15-minute-meals"]
+cuisine: "Asian"
 tags: []
 rating: 
 reviews: 

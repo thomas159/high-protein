@@ -7,6 +7,7 @@ pintrest: ""
 categories: ["vegan", "snacks", "15-minute-meals"]
 tips: |
   Zing Tip: For "Salt & Vinegar" style chips, soak the slices in white vinegar for 10 minutes instead of water, then finish with a squeeze of lime juice right before serving.
+cuisine: "American"
 tags: []
 rating: 
 reviews: 

@@ -5,6 +5,7 @@ description: "Experience the satisfying crunch of homemade crisps without the de
 image: "thick-cut-sweet-potato-fries_zip294"
 pintrest: ""
 categories: ["vegan", "snacks"]
+cuisine: "American"
 tips: 
 tags: []
 rating: 

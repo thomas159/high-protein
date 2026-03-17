@@ -5,6 +5,7 @@ description: "Indulge in the creamy and delicious taste of cheesecake without th
 image: "air-fryer-low-calorie-cheesecake_ekn9ky"
 categories: ["air-fryer", "keto", "dessert", "air-fryer"]
 tags: ["Keto", "High Protein"]
+cuisine: "American"
 rating: 
 reviews: 
 prepTimeMins: 5

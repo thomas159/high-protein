@@ -5,6 +5,7 @@ description: "Indulge in the rich and aromatic flavors of Thailand with this Cre
 image: "thai-carrot-soup_e6uask"
 pintrest: ""
 categories: ["vegan", "dinner", "30-minute-meals"]
+cuisine: "Thai"
 tags: []
 rating: 
 reviews: 

@@ -7,6 +7,7 @@ meta: {
 description: "Craving Middle Eastern flavors but short on time? This microwave version delivers creamy, smoky aubergine dip in a fraction of the time. Perfect for parties or a healthy sandwich spread."
 image: "quick-microwave-baba-ganoush_douf9l"
 categories: ["dips", "vegan", "15-minute-meals"]
+cuisine: "Middle Eastern"
 flavor_profile: "Smoky, Nutty, Garlicky"
 shelf_life: "Stored in an airtight container in the fridge for up to 4 days"
 whyTitle: "Why microwave the aubergine?"

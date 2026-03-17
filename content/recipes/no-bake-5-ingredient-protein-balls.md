@@ -8,6 +8,7 @@ description: "Fuel your day with these quick, 5 minute No-Bake Protein Balls. Pa
 image: "no-bake-5-ingredient-protein-balls_kvwhmm"
 pintrest: ""
 categories: ["high-protein", "5-minute-meals", "snacks"]
+cuisine: "American"
 tags: []
 tips: ""
 rating: 

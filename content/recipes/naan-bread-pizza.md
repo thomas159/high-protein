@@ -10,6 +10,7 @@ image: "naan-bread-pizza_m9ikl5"
 categories: ["air-fryer", "dinner", "15-minute-meals"]
 tips: |
   Add some heat: Sprinkle a few chili flakes or add a swirl of Sriracha on top before serving.
+cuisine: "Indian"
 tags: 
 rating: 
 reviews: 

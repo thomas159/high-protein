@@ -13,6 +13,7 @@ tips: |
   Feta Choice: Use a block of feta in brine rather than pre-crumbled; it melts much smoother and has a better tang.
 
   The Wine: A dry white like Pinot Grigio or Sauvignon Blanc works best here to balance the richness of the cream.
+cuisine: "Italian"
 tags: 
 rating: 
 reviews: 

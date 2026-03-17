@@ -7,6 +7,7 @@ pintrest: ""
 categories: ["air-fryer", "45-minute-meals", "snacks", "trending"]
 tips: |
   Zing Tip: Serve these with a side of marinara sauce and a squeeze of fresh lime juice over the sticks right before eating to cut through the richness of the mozzarella.
+cuisine: "American"
 tags: []
 whyTitle: "Why use an air fryer?"
 why: |

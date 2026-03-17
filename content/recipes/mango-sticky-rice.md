@@ -8,6 +8,7 @@ description: |
 image: "mango-sticky-rice_vzh6ec"
 categories: ["dessert"]
 tags: 
+cuisine: "Thai"
 tips:
 rating: 
 reviews: 

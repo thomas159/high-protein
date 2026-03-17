@@ -5,6 +5,7 @@ description: "Elevate your side dish game with these irresistible Sour Cream Fri
 image: "air-fryer-sour-cream-fries_k2lvbn"
 pintrest: ""
 categories: ["air-fryer", "30-minute-meals", "snacks"]
+cuisine: "American"
 tips: 
 tags: []
 whyTitle: "Why use an air fryer?"

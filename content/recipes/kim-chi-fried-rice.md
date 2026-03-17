@@ -9,6 +9,7 @@ tips: |
   Kimchi Juice: For an extra punch, add 2 tablespoons of the liquid from the kimchi jar during Step 3.
 
   Add tofu: Add 200g of tofu to increase the amount of protein.
+cuisine: "Korean"
 tags: ["vegan"]
 rating: 
 reviews: 

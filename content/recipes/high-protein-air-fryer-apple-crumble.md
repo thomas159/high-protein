@@ -9,6 +9,7 @@ image: "high-protein-air-fryer-apple-crumble_plgb9p"
 pintrest: ""
 categories: ["high-protein", "air-fryer", "vegan", "keto", "dinner", "breakfast", "trending", "dessert"]
 tags: []
+cuisine: "British"
 tips: ""
 rating: 
 reviews: 

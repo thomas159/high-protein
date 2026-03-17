@@ -14,6 +14,7 @@ works: |
 image: "air-fryer-pizza-tortilla-wrap_ko6ckn"
 pintrest: ""
 categories: ["air-fryer", "dinner", "15-minute-meals"]
+cuisine: "Italian"
 tags: []
 rating: 
 reviews: 

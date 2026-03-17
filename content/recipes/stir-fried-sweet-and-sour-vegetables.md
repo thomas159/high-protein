@@ -5,6 +5,7 @@ description: "This recipe delivers the refreshing flavour of thai stir fried veg
 image: "sweet-and-sour-vegetables_covgep"
 pintrest: ""
 categories: ["vegan", "dinner", "trending"]
+cuisine: "Thai"
 tags: []
 rating: 
 reviews: 

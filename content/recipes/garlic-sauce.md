@@ -21,6 +21,7 @@ tips: |
   Dried Herbs: A pinch of dill or parsley works wonders.
 rating: 
 reviews: 
+cuisine: "Mediterranean"
 prepTimeMins: 5
 cookTimeMins: 0
 servings: 1

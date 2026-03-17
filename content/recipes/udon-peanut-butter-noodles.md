@@ -5,6 +5,7 @@ description: "An authentic, creamy Thai Satay Sauce crafted with roasted peanuts
 image: "udon-peanut-butter-noodles_qufch8"
 pintrest: ""
 categories: ["vegan", "dinner", "15-minute-meals"]
+cuisine: "Thai"
 tags: []
 rating: 
 reviews: 

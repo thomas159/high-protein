@@ -9,6 +9,7 @@ image: "spicy-korean-tofu-marinade_dbsui8"
 pintrest: ""
 categories: ["vegan", "dinner", "15-minute-meals", "marinade"]
 tags: []
+cuisine: "Korean"
 tips: ""
 rating: 
 reviews: 

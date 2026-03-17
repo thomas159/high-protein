@@ -9,6 +9,7 @@ image: "tikka-tofu-marinade_if4ab4"
 pintrest: ""
 categories: ["dinner", "15-minute-meals", "marinade"]
 tags: []
+cuisine: "Indian"
 tips: "If you don't have garlic ginger paste it can be substitued with 1 clove of garlic and an equal amount of ginger"
 rating: 
 reviews:

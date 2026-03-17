@@ -7,6 +7,7 @@ meta: {
 description: "Indulge in a bowl of pure comfort with this Creamy Mushroom Pasta. By sautéing the mushrooms until they reach a deep, golden-brown 'umami' stage and deglazing with a splash of crisp white wine, we build layers of flavor that you'd usually only find in a high-end bistro. Finished with velvety cream and a generous handful of parmesan, this sauce clings perfectly to every strand of pasta for a rich, luxurious bite every time."
 image: "creamy-mushroom-pasta_m6794q"
 categories: ["dinner", "vegetarian", "pasta"]
+cuisine: "Italian"
 flavor_profile: "Rich, Umami, Savory"
 shelf_life: "Best enjoyed fresh; stores in the fridge for up to 2 days."
 whyTitle: "Why use white wine?"

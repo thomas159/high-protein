@@ -27,6 +27,7 @@ use: |
 image: "satay-peanut-sauce_aarllp"
 pintrest: ""
 categories: ["sauces", "15-minute-meals"]
+cuisine: "Thai"
 tags: []
 rating: 
 reviews: 

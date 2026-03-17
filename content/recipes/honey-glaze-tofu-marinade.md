@@ -9,6 +9,7 @@ description: 'Transform your tofu into a golden, caramelized treat with this Hon
 image: "honey-glaze-tofu-marinade_1_rykscd"
 pintrest: ""
 categories: ["vegan", "dinner", "15-minute-meals", "marinade"]
+cuisine: "Asian"
 tags: []
 tips: ""
 rating: 
