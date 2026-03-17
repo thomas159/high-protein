@@ -19,12 +19,10 @@ flavor_profile: "Earthy, Spicy, Savory"
 servingSuggestions: "The sticky, sweet-and-savory profile of this tofu makes it an ideal companion for a bowl of sticky sushi rice or quick-cooking soba noodles. Serve it alongside lightly steamed bok choy or garlic-sautéed broccoli for a balanced meal. A final garnish of freshly sliced spring onions and a sprinkle of toasted sesame seeds will give it a restaurant-quality finish."
 shelf_life: "Stored in airtight container in the fridge for 5 days"
 whyTitle: "Why marinate tofu?"
-why: |
-  Natural Caramelization: The sugars in the honey react with the high heat of the air fryer or pan to create a sticky, "lacquered" crust that seals in moisture.\
-
-  Umami Balance: Soy sauce (or Tamari) provides the salt and depth needed to stop the honey from being overly sweet.
-
-  Fragrant Warmth: While many honey glazes are just "sweet," the addition of cumin and coriander adds an earthy, professional finish that pairs perfectly with grains.
+why:
+  - "Natural Caramelization: The sugars in the honey react with the high heat of the air fryer or pan to create a sticky, \"lacquered\" crust that seals in moisture.\\"
+  - "Umami Balance: Soy sauce (or Tamari) provides the salt and depth needed to stop the honey from being overly sweet."
+  - "Fragrant Warmth: While many honey glazes are just \"sweet,\" the addition of cumin and coriander adds an earthy, professional finish that pairs perfectly with grains."
 prepTimeMins: 30
 cookTimeMins: 5
 servings: 1

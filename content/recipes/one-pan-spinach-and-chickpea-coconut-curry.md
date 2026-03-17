@@ -13,12 +13,10 @@ keywords: ["curry", "chickpea", "spinach", "coconut milk", "one-pan", "indian", 
 servingSuggestions: "Serve this comforting, aromatic curry alongside a portion of warm, fluffy quinoa or brown rice to soak up the rich coconut broth. A piece of freshly toasted naan or roti is essential for scooping up the chickpeas. For a cooling contrast, offer a small side of diced cucumber and tomato salad dressed with a squeeze of lemon."
 shelf_life: "Lasts up to 4 days in the fridge. The flavors actually deepen overnight!"
 whyTitle: "Nutrient Spotlight"
-why: |
-  Plant-Based Iron: The combination of spinach and chickpeas provides a significant iron boost, which is essential for energy during workouts.
-
-  Healthy Fats: Coconut milk provides MCTs (medium-chain triglycerides) for a quick energy source.
-
-  Anti-Inflammatory: Turmeric and ginger help reduce muscle soreness after a heavy lifting session.
+why:
+  - "Plant-Based Iron: The combination of spinach and chickpeas provides a significant iron boost, which is essential for energy during workouts."
+  - "Healthy Fats: Coconut milk provides MCTs (medium-chain triglycerides) for a quick energy source."
+  - "Anti-Inflammatory: Turmeric and ginger help reduce muscle soreness after a heavy lifting session."
 tips: |
   The 10-Minute Shortcut: Use a high-quality pre-made curry paste (like Tikka or Korma) instead of the individual spices if you're really short on time.
 

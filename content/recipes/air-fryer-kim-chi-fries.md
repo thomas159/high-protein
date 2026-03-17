@@ -13,10 +13,9 @@ tags: ["Gluten-Free", "Healthy"]
 cuisine: "Korean"
 keywords: ["kimchi fries", "air fryer", "korean", "fusion", "cheese", "spicy", "snack"]
 whyTitle: "Why use an air fryer?"
-why: |
-  Reduced Fat: Achieve that signature crunch with just a tablespoon of heart-healthy olive oil.
-
-  Consistent Heat: No hot spots—the air fryer ensures every fry is evenly browned.
+why:
+  - "Reduced Fat: Achieve that signature crunch with just a tablespoon of heart-healthy olive oil."
+  - "Consistent Heat: No hot spots—the air fryer ensures every fry is evenly browned."
 rating: 
 reviews: 
 flavor_profile: "Salty, Crispy, Savory"

@@ -13,12 +13,10 @@ flavor_profile: "Umami, Creamy, Spicy"
 servingSuggestions: "These rich, umami-packed noodles are incredibly satisfying on their own, but pairing them with some crunchy greens elevates the dish. Serve alongside blanched edamame, sugar snap peas, or a refreshing cucumber ribbon salad to cut through the creamy peanut sauce. A wedge of lime squeezed over the top right before eating adds a perfect bright finish."
 shelf_life: "Best eaten fresh; the sauce thickens significantly as it cools."
 whyTitle: "Why this works for your gains"
-why: |
-  Soy Milk Base: Using soy milk instead of just water adds a creamy texture and an extra 4g of complete plant-based protein.
-
-  Fermented Umami: Miso provides probiotics and deep flavor without the need for long simmering times.
-  
-  Healthy Fats: Peanut butter offers heart-healthy monounsaturated fats to keep you satiated.
+why:
+  - "Soy Milk Base: Using soy milk instead of just water adds a creamy texture and an extra 4g of complete plant-based protein."
+  - "Fermented Umami: Miso provides probiotics and deep flavor without the need for long simmering times."
+  - "Healthy Fats: Peanut butter offers heart-healthy monounsaturated fats to keep you satiated."
 muscleBuildingTip: "To get this meal over 30g of protein, toss in 100g of smoked tofu or a handful of edamame beans while the sauce is simmering.
 prepTimeMins: 0
 cookTimeMins: 5

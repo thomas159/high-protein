@@ -14,12 +14,10 @@ keywords: ["korean tofu", "gochujang", "sticky tofu", "vegan", "high-protein", "
 servingSuggestions: "This fiery, sticky tofu is perfectly balanced when served over a bowl of plain, short-grain white rice, which helps mellow the intense flavors of the Gochujang glaze. Accompany it with a side of quick-pickled cucumbers or a simple sesame spinach salad for a refreshing contrast. Wrap the tofu in crisp lettuce leaves for a fun, interactive meal."
 shelf_life: "Best eaten immediately to maintain the tofu's crispness."
 whyTitle: "Why it's a Muscle Builder"
-why: |
-  Complete Protein: Tofu is one of the few plant-based sources that contains all nine essential amino acids.
-
-  Metabolism Boost: The capsaicin in Gochujang (Korean chili paste) provides a slight thermogenic effect.
-  
-  Low Effort, High Flavor: Uses pantry staples like ketchup and soy sauce to create a complex glaze in seconds.
+why:
+  - "Complete Protein: Tofu is one of the few plant-based sources that contains all nine essential amino acids."
+  - "Metabolism Boost: The capsaicin in Gochujang (Korean chili paste) provides a slight thermogenic effect."
+  - "Low Effort, High Flavor: Uses pantry staples like ketchup and soy sauce to create a complex glaze in seconds."
 prepTimeMins: 5
 cookTimeMins: 10
 servings: 1

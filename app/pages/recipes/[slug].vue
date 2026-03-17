@@ -150,8 +150,10 @@ useHead({
         <h2 v-if="recipe.use" id="use" class="mt-12 whitespace-pre-line">How to use it</h2>
         <p class="whitespace-pre-line text-muted-foreground" v-html="formatText(recipe.use)" />
 
-        <h2 v-if="recipe.whyTitle" id="why" class="mt-12 whitespace-pre-line">{{ recipe.whyTitle }}</h2>
-        <p class="whitespace-pre-line text-muted-foreground" v-html="formatText(recipe.why)" />
+        <h2 v-if="recipe.whyTitle && recipe.why?.length" id="why" class="mt-12 whitespace-pre-line">{{ recipe.whyTitle }}</h2>
+        <div v-if="recipe.why?.length" class="mt-4 space-y-4">
+          <p v-for="(reason, index) in recipe.why" :key="index" class="text-muted-foreground" v-html="formatText(reason)" />
+        </div>
 
         <h2 v-if="recipe.muscleBuildingTip" id="#muscleBuildingTip" class="mt-12 whitespace-pre-line">Muscle building tips</h2>
         <p class="whitespace-pre-line text-muted-foreground mb-12" v-html="formatText(recipe.muscleBuildingTip)" />

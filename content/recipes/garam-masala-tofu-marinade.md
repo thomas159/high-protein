@@ -18,12 +18,10 @@ flavor_profile: "Earthy, Spicy, Savory"
 servingSuggestions: "Serve this deeply flavorful, Indian-spiced tofu alongside a steaming mound of fragrant basmati rice or warm, fluffy naan bread to soak up the aromatic spices. It pairs wonderfully with a cooling cucumber and mint raita or a side of lightly sautéed spinach. For a complete meal, include a portion of hearty dal or a vibrant kachumber salad."
 shelf_life: "Stored in airtight container in the fridge for 5 days"
 whyTitle: "Why marinate tofu?"
-why: |
-  Deeper Flavor: Allowing the tofu to sit in the spices helps the aromatics penetrate the soy protein, moving the flavor beyond just the surface.
-
-  The Perfect Char: The combination of garlic and ginger sugars caramelizes under high heat, giving you those "tandoori-style" crispy edges.
-
-  Healthy & Lean: This marinade provides a massive flavor punch without the need for heavy creams or excess oils.
+why:
+  - "Deeper Flavor: Allowing the tofu to sit in the spices helps the aromatics penetrate the soy protein, moving the flavor beyond just the surface."
+  - "The Perfect Char: The combination of garlic and ginger sugars caramelizes under high heat, giving you those \"tandoori-style\" crispy edges."
+  - "Healthy & Lean: This marinade provides a massive flavor punch without the need for heavy creams or excess oils."
 prepTimeMins: 30
 cookTimeMins: 5
 servings: 1

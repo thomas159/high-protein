@@ -18,12 +18,10 @@ flavor_profile: "Sweet, Nutty, Creamy"
 servingSuggestions: "Keep these energy-dense protein balls chilled and serve them straight from the fridge for the best, fudgy texture. They pair wonderfully with a mid-morning cappuccino or a post-workout protein shake. If you're serving them as a healthier dessert option, arrange them on a platter alongside fresh berries and a small bowl of dark chocolate sauce for dipping."
 shelf_life: "Stored in airtight container in the fridge for 5 days" 
 whyTitle: "Why make these protein balls?"
-why: |
-  - Cold-Pressed Nutrition: Because these aren't baked, the delicate micronutrients in ingredients like flaxseed or raw honey remain intact.
-
-  - Satiety Balance: The combination of complex carbs (oats) and healthy fats (nut butter) provides sustained energy without the "sugar crash."
-
-  - Infinite Variety: Once you have the base ratio, you can swap mix-ins like dark chocolate chips, dried cranberries, or hemp seeds.
+why:
+  - "Cold-Pressed Nutrition: Because these aren't baked, the delicate micronutrients in ingredients like flaxseed or raw honey remain intact."
+  - "Satiety Balance: The combination of complex carbs (oats) and healthy fats (nut butter) provides sustained energy without the \"sugar crash.\""
+  - "Infinite Variety: Once you have the base ratio, you can swap mix-ins like dark chocolate chips, dried cranberries, or hemp seeds."
 prepTimeMins: 5
 cookTimeMins: 0
 servings: 10

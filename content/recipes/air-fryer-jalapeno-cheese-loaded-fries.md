@@ -13,10 +13,9 @@ tags: []
 cuisine: "American"
 keywords: ["loaded fries", "jalapeno", "cheese", "air fryer", "american", "snack", "spicy"]
 whyTitle: "Why use an air fryer?"
-why: |
-  Superior Crunch: Rapid air circulation creates a "deep-fried" texture without the grease.
-
-  Speed: Go from frozen or fresh to loaded in under 30 minutes.
+why:
+  - "Superior Crunch: Rapid air circulation creates a \"deep-fried\" texture without the grease."
+  - "Speed: Go from frozen or fresh to loaded in under 30 minutes."
 rating: 
 reviews: 
 flavor_profile: "Salty, Crispy, Savory"

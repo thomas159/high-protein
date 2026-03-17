@@ -13,10 +13,10 @@ tags: ["Vegan", "Gluten-Free", "Healthy"]
 cuisine: "American"
 keywords: ["fries", "air fryer", "rosemary", "garlic", "american", "vegan", "gluten-free", "snack"]
 whyTitle: "Why use an air fryer?"
-why: |
-  Herb Infusion: The rapid air circulation "toasts" the rosemary needles, releasing their essential oils directly into the potato skin.
-  Reduced Fat: Achieve that signature crunch with just a tablespoon of heart-healthy olive oil.
-  Consistent Heat: No hot spots—the air fryer ensures every fry is evenly browned and infused with garlic.
+why: 
+  - "Herb Infusion: The rapid air circulation \"toasts\" the rosemary needles, releasing their essential oils directly into the potato skin."
+  - "Reduced Fat: Achieve that signature crunch with just a tablespoon of heart-healthy olive oil."
+  - "Consistent Heat: No hot spots—the air fryer ensures every fry is evenly browned and infused with garlic."
 rating: 
 reviews: 
 flavor_profile: "Salty, Crispy, Savory"

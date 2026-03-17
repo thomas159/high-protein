@@ -14,12 +14,10 @@ tags: []
 cuisine: "Mexican"
 keywords: ["nachos", "air fryer", "mexican", "cheese", "snack", "5-minute", "quick"]
 whyTitle: "Why use an air fryer?"
-why: |
-  No Soggy Chips: Unlike a microwave, the air fryer uses dry heat to melt the cheese while keeping the tortilla chips shatter-crisp.
-
-  Instant Heat: No need to preheat a massive oven for a single plate of nachos; it's ready in just 5 minutes.
-
-  Even Melting: The 360° airflow ensures every single chip gets a hit of melted cheese, not just the ones on top.
+why:
+  - "No Soggy Chips: Unlike a microwave, the air fryer uses dry heat to melt the cheese while keeping the tortilla chips shatter-crisp."
+  - "Instant Heat: No need to preheat a massive oven for a single plate of nachos; it's ready in just 5 minutes."
+  - "Even Melting: The 360° airflow ensures every single chip gets a hit of melted cheese, not just the ones on top."
 rating: 
 reviews: 
 flavor_profile: "Salty, Crispy, Savory"

@@ -19,12 +19,10 @@ flavor_profile: "Earthy, Spicy, Savory"
 servingSuggestions: "This smoky, zesty tofu is perfect as the star protein in a vibrant Mexican-inspired bowl. Serve it over a bed of cilantro-lime quinoa, alongside black beans, roasted corn, and sliced avocado. It also makes a fantastic filling for soft corn tacos, topped with a fresh tomato salsa, shredded cabbage, and a drizzle of vegan sour cream to balance the chipotle heat."
 shelf_life: "Stored in airtight container in the fridge for 5 days"
 whyTitle: "Why marinate tofu?"
-why: |
-  The Acid Factor: The high citric acid content in lime juice helps break down the outer surface of the tofu, allowing the smoky chipotle oils to sink deeper into the core.
-
-  Smoky Char: Chipotle peppers contain natural sugars that caramelize quickly under high heat (like an air fryer or grill), creating a "bark" similar to BBQ.
-
-  Versatile Umami: While Mexican-inspired, the smoky-salty profile works as a powerful protein base for everything from tacos to protein-packed salads.
+why:
+  - "The Acid Factor: The high citric acid content in lime juice helps break down the outer surface of the tofu, allowing the smoky chipotle oils to sink deeper into the core."
+  - "Smoky Char: Chipotle peppers contain natural sugars that caramelize quickly under high heat (like an air fryer or grill), creating a \"bark\" similar to BBQ."
+  - "Versatile Umami: While Mexican-inspired, the smoky-salty profile works as a powerful protein base for everything from tacos to protein-packed salads."
 prepTimeMins: 30
 cookTimeMins: 5
 servings: 1

@@ -13,12 +13,10 @@ flavor_profile: "Spicy, Nutty, Aromatic"
 servingSuggestions: "These spicy, nutty noodles are robust and flavorful, making them the perfect main event. Serve them with a side of light, pickled Asian vegetables, such as daikon radish or cucumbers, to refresh your palate between bites. If serving for dinner, pair with a side of crispy vegetable spring rolls or steamed vegetable dumplings."
 shelf_life: "Best served fresh. If reheating, add a splash of water to loosen the peanut sauce."
 whyTitle: "The Flavor Science"
-why: |
-  Aromatic Base: Fresh garlic and ginger provide antioxidants and anti-inflammatory benefits, perfect for post-workout recovery.
-
-  The Acid Balance: Rice wine vinegar cuts through the heavy fats of the peanut butter, brightening the entire dish.
-
-  Sesame Finish: Sesame oil has a low smoke point but high flavor impact; adding it at the end preserves its nutty aroma.
+why:
+  - "Aromatic Base: Fresh garlic and ginger provide antioxidants and anti-inflammatory benefits, perfect for post-workout recovery."
+  - "The Acid Balance: Rice wine vinegar cuts through the heavy fats of the peanut butter, brightening the entire dish."
+  - "Sesame Finish: Sesame oil has a low smoke point but high flavor impact; adding it at the end preserves its nutty aroma."
 prepTimeMins: 0
 cookTimeMins: 5
 servings: 1

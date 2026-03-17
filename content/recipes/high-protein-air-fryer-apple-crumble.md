@@ -18,12 +18,10 @@ flavor_profile: "Sweet, Cinnamon, Crunchy"
 servingSuggestions: "This warm, comforting apple crumble is elevated when served with a dollop of cold, high-protein vanilla Greek yogurt or a scoop of low-calorie vanilla ice cream, providing a beautiful hot-and-cold contrast. A light dusting of extra cinnamon on top and a cup of warm chamomile tea makes this the ultimate healthy evening treat."
 shelf_life: "Best eaten immediately while warm."
 whyTitle: "Why the Air Fryer?"
-why: |
-  Instant Heat: No need to preheat a giant oven for one small ramekin; the air fryer reaches temp in seconds.
-
-  Perfect Crunch: The forced air circulation creates a much crispier oat topping than a microwave or traditional oven could.
-
-  Muscle Recovery: By swapping flour for oats and protein powder, this dessert doubles as a high-fiber post-workout snack.
+why:
+  - "Instant Heat: No need to preheat a giant oven for one small ramekin; the air fryer reaches temp in seconds."
+  - "Perfect Crunch: The forced air circulation creates a much crispier oat topping than a microwave or traditional oven could."
+  - "Muscle Recovery: By swapping flour for oats and protein powder, this dessert doubles as a high-fiber post-workout snack."
 prepTimeMins: 5
 cookTimeMins: 20
 servings: 1

@@ -13,12 +13,10 @@ flavor_profile: "Rich, Umami, Savory"
 servingSuggestions: "This luxurious mushroom pasta pairs perfectly with a crisp, acidic side salad—think mixed greens with a sharp lemon vinaigrette—to balance the rich, creamy sauce. Serve with a slice of toasted garlic ciabatta to ensure no sauce is left in the bowl. A glass of light-bodied Pinot Noir or a dry Chardonnay beautifully complements the earthy mushrooms."
 shelf_life: "Best enjoyed fresh; stores in the fridge for up to 2 days."
 whyTitle: "Why use white wine?"
-why: |
-  The Maillard Reaction: Sautéing the mushrooms until golden (rather than just softened) unlocks a deep, meaty umami flavor that carries the entire dish.
-
-  The Emulsion Secret: Combining the starchy pasta water with the butter and cream creates an emulsified sauce that coats the pasta instead of pooling at the bottom of the bowl.
-
-  Acidic Lift: The white wine doesn't just add flavor; its acidity balances the richness of the 90ml of double cream, keeping the dish from feeling too heavy.
+why:
+  - "The Maillard Reaction: Sautéing the mushrooms until golden (rather than just softened) unlocks a deep, meaty umami flavor that carries the entire dish."
+  - "The Emulsion Secret: Combining the starchy pasta water with the butter and cream creates an emulsified sauce that coats the pasta instead of pooling at the bottom of the bowl."
+  - "Acidic Lift: The white wine doesn't just add flavor; its acidity balances the richness of the 90ml of double cream, keeping the dish from feeling too heavy."
 prepTimeMins: 10
 cookTimeMins: 15
 servings: 1

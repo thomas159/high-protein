@@ -14,12 +14,10 @@ cuisine: "American"
 tags: []
 keywords: ["mozzarella sticks", "air fryer", "cheese", "snack", "crispy", "american", "appetizer"]
 whyTitle: "Why use an air fryer?"
-why: |
-  Superior Crunch: Rapid air circulation creates a "deep-fried" texture without the grease.
-
-  Speed: Go from frozen or fresh to loaded in under 10 minutes.
-
-  Mess-Free: No oil splatters; the basket keeps the cheese melt contained and easy to clean.
+why:
+  - "Superior Crunch: Rapid air circulation creates a \"deep-fried\" texture without the grease."
+  - "Speed: Go from frozen or fresh to loaded in under 10 minutes."
+  - "Mess-Free: No oil splatters; the basket keeps the cheese melt contained and easy to clean."
 dontTitle: "Don't skip the freeze!"
 dont: "30 minutes in the freezer is the difference between a crispy snack and a puddle of melted cheese in your air fryer."
 rating: 
