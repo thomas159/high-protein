@@ -130,36 +130,36 @@ useHead({
           <p v-for="(blurb, index) in recipe.blurb" :key="index" class="text-muted-foreground" v-html="formatText(blurb)" />
         </div>
 
-        <h2 v-if="recipe.tips?.length" id="tips" class="mt-12 whitespace-pre-line">{{ recipe.tipsTitle || 'Tips' }}</h2>
+        <h2 v-if="recipe.tips?.length" id="tips" class="mt-12">{{ recipe.tipsTitle || 'Tips' }}</h2>
         <div v-if="recipe.tips?.length" class="mt-4 space-y-4">
           <p v-for="(tip, index) in recipe.tips" :key="index" class="text-muted-foreground" v-html="formatText(tip)" />
         </div>
 
-        <h2 v-if="recipe.works?.length" id="works" class="mt-12 whitespace-pre-line">Why this recipe works</h2>
+        <h2 v-if="recipe.works?.length" id="works" class="mt-12">Why this recipe works</h2>
         <div v-if="recipe.works?.length" class="mt-4 space-y-4">
           <p v-for="(work, index) in recipe.works" :key="index" class="text-muted-foreground" v-html="formatText(work)" />
         </div>
 
-        <h2 v-if="recipe.flavour?.length" id="flavour" class="mt-12 whitespace-pre-line">Flavour profile</h2>
+        <h2 v-if="recipe.flavour?.length" id="flavour" class="mt-12">Flavour profile</h2>
         <div v-if="recipe.flavour?.length" class="mt-4 space-y-4">
           <p v-for="(flav, index) in recipe.flavour" :key="index" class="text-muted-foreground" v-html="formatText(flav)" />
         </div>
 
-        <h2 v-if="recipe.use?.length" id="use" class="mt-12 whitespace-pre-line">How to use it</h2>
+        <h2 v-if="recipe.use?.length" id="use" class="mt-12">How to use it</h2>
         <div v-if="recipe.use?.length" class="mt-4 space-y-4">
           <p v-for="(u, index) in recipe.use" :key="index" class="text-muted-foreground" v-html="formatText(u)" />
         </div>
 
-        <h2 v-if="recipe.whyTitle && recipe.why?.length" id="why" class="mt-12 whitespace-pre-line">{{ recipe.whyTitle }}</h2>
+        <h2 v-if="recipe.whyTitle && recipe.why?.length" id="why" class="mt-12">{{ recipe.whyTitle }}</h2>
         <div v-if="recipe.why?.length" class="mt-4 space-y-4">
           <p v-for="(reason, index) in recipe.why" :key="index" class="text-muted-foreground" v-html="formatText(reason)" />
         </div>
 
-        <h2 v-if="recipe.muscleBuildingTip" id="#muscleBuildingTip" class="mt-12 whitespace-pre-line">Muscle building tips</h2>
-        <p class="whitespace-pre-line text-muted-foreground mb-12" v-html="formatText(recipe.muscleBuildingTip)" />
+        <h2 v-if="recipe.muscleBuildingTip" id="#muscleBuildingTip" class="mt-12">Muscle building tips</h2>
+        <p class=" text-muted-foreground mb-12" v-html="formatText(recipe.muscleBuildingTip)" />
 
-        <h2 v-if="recipe.servingSuggestions" id="why" class="mt-12 whitespace-pre-line">Serving Suggestions and Pairings</h2>
-        <p class="whitespace-pre-line text-muted-foreground" v-html="formatText(recipe.servingSuggestions)" />
+        <h2 v-if="recipe.servingSuggestions" id="why" class="mt-12">Serving Suggestions and Pairings</h2>
+        <p class=" text-muted-foreground" v-html="formatText(recipe.servingSuggestions)" />
 
 
         <div class="lg:hidden mt-12">
@@ -177,8 +177,8 @@ useHead({
           </ol>
         </div>
 
-        <h2 v-if="recipe.storageInstructions" id="storage" class="mt-12 whitespace-pre-line">Storage and Freezing</h2>
-        <p class="whitespace-pre-line text-muted-foreground" v-html="formatText(recipe.storageInstructions)" />
+        <h2 v-if="recipe.storageInstructions" id="storage" class="mt-12 ">Storage and Freezing</h2>
+        <p class=" text-muted-foreground" v-html="formatText(recipe.storageInstructions)" />
 
        
 
