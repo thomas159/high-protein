@@ -140,17 +140,24 @@ useHead({
 
         <h2 v-if="recipe.tips" id="tips" class="mt-12 whitespace-pre-line">Tips</h2>
         <p class="whitespace-pre-line text-muted-foreground" v-html="formatText(recipe.tips)" />
+
         <h2 v-if="recipe.works" id="works" class="mt-12 whitespace-pre-line">Why this recipe works</h2>
         <p class="whitespace-pre-line text-muted-foreground" v-html="formatText(recipe.works)" />
+
         <h2 v-if="recipe.flavour" id="flavour" class="mt-12 whitespace-pre-line">Flavour profile</h2>
         <p class="whitespace-pre-line text-muted-foreground" v-html="formatText(recipe.flavour)" />
+
         <h2 v-if="recipe.use" id="use" class="mt-12 whitespace-pre-line">How to use it</h2>
         <p class="whitespace-pre-line text-muted-foreground" v-html="formatText(recipe.use)" />
+
         <h2 v-if="recipe.whyTitle" id="why" class="mt-12 whitespace-pre-line">{{ recipe.whyTitle }}</h2>
         <p class="whitespace-pre-line text-muted-foreground" v-html="formatText(recipe.why)" />
-        <h2 v-if="recipe.muscleBuildingTip" id="#muscleBuildingTip" class="mt-12 whitespace-pre-line">Muscle building
-          tip</h2>
+
+        <h2 v-if="recipe.muscleBuildingTip" id="#muscleBuildingTip" class="mt-12 whitespace-pre-line">Muscle building tips</h2>
         <p class="whitespace-pre-line text-muted-foreground mb-12" v-html="formatText(recipe.muscleBuildingTip)" />
+
+        <h2 v-if="recipe.servingSuggestions" id="why" class="mt-12 whitespace-pre-line">Serving Suggestions and Pairings</h2>
+        <p class="whitespace-pre-line text-muted-foreground" v-html="formatText(recipe.ServingSuggestions)" />
 
         <h2 id="howToMake" class="scroll-mt-24">How to make {{ recipe.title }}</h2>
         <div class="markdown-recipe-body mt-6">

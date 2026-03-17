@@ -10,6 +10,7 @@ keywords: ["cheesecake", "air fryer", "low calorie", "keto", "american", "desser
 rating: 
 reviews: 
 flavor_profile: "Sweet, Creamy, Tangy"
+servingSuggestions: "Serving your cheesecake with the right accompaniments can elevate the dessert experience. Fresh fruit is a classic pairing that adds a burst of flavor and a touch of natural sweetness. Consider topping your cheesecake with a mix of berries, such as strawberries, blueberries, and raspberries. The tartness of the berries complements the creamy richness of the cheesecake perfectly."
 prepTimeMins: 5
 cookTimeMins: 20
 servings: 1
