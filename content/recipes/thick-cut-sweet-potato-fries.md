@@ -6,6 +6,7 @@ image: "thick-cut-sweet-potato-fries_zip294"
 pintrest: ""
 categories: ["vegan", "snacks"]
 cuisine: "American"
+keywords: ["sweet potato fries", "thick cut", "vegan", "american", "snack", "air fryer"]
 tips: 
 tags: []
 rating: 

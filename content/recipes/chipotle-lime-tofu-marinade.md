@@ -11,6 +11,7 @@ pintrest: ""
 categories: ["vegan", "dinner", "15-minute-meals", "marinade", "trending"]
 tags: []
 cuisine: "Mexican"
+keywords: ["tofu marinade", "chipotle", "lime", "mexican", "vegan", "high-protein", "air-fryer", "spicy"]
 tips: ""
 rating: 
 reviews: 

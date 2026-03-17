@@ -9,6 +9,7 @@ image: "mango-sticky-rice_vzh6ec"
 categories: ["dessert"]
 tags: 
 cuisine: "Thai"
+keywords: ["mango sticky rice", "thai", "dessert", "coconut", "sweet", "sticky rice"]
 tips:
 rating: 
 reviews: 

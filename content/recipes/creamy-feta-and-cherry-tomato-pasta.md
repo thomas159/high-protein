@@ -15,6 +15,7 @@ tips: |
   The Wine: A dry white like Pinot Grigio or Sauvignon Blanc works best here to balance the richness of the cream.
 cuisine: "Italian"
 tags: 
+keywords: ["feta pasta", "cherry tomato", "italian", "15-minute", "creamy", "vegetarian"]
 rating: 
 reviews: 
 prepTimeMins: 0

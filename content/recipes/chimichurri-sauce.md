@@ -9,6 +9,7 @@ image: 'chimichurri-sauce_2_usinnj'
 categories: ["vegan", "sauces", "5-minute-meals"]
 tags: ["vegan"]
 cuisine: "Argentinian"
+keywords: ["chimichurri", "sauce", "argentinian", "vegan", "5-minute", "condiment", "herbs"]
 tips: This Chimichurri is the perfect companion for Grilled Tofu or a Lentil Bowl. The acidity in the vinegar actually helps your body digest plant-based proteins more efficiently!
 rating: 
 reviews: 

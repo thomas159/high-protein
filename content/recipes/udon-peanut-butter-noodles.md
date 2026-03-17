@@ -6,6 +6,7 @@ image: "udon-peanut-butter-noodles_qufch8"
 pintrest: ""
 categories: ["vegan", "dinner", "15-minute-meals"]
 cuisine: "Thai"
+keywords: ["udon", "peanut butter", "noodles", "thai", "vegan", "tofu", "stir fry"]
 tags: []
 rating: 
 reviews: 

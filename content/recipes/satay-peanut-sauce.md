@@ -29,6 +29,7 @@ pintrest: ""
 categories: ["sauces", "15-minute-meals"]
 cuisine: "Thai"
 tags: []
+keywords: ["satay sauce", "peanut sauce", "thai", "condiment", "dip", "creamy", "spicy"]
 rating: 
 reviews: 
 flavor_profile: "Spicy, Tangy, Nutty"

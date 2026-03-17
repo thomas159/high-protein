@@ -9,6 +9,7 @@ tips: |
   Grate your own cheese: Grate your own cheese from a block—it melts much smoother than the pre-shredded kind!
 tags: []
 cuisine: "Mexican"
+keywords: ["nachos", "air fryer", "mexican", "cheese", "snack", "5-minute", "quick"]
 whyTitle: "Why use an air fryer?"
 why: |
   No Soggy Chips: Unlike a microwave, the air fryer uses dry heat to melt the cheese while keeping the tortilla chips shatter-crisp.

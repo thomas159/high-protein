@@ -9,6 +9,7 @@ image: "healthy-banana-oat-muffins_n0f9xa"
 categories: ["air-fryer", "dessert", "15-minute-meals"]
 tags: 
 cuisine: "American"
+keywords: ["banana muffins", "oats", "healthy baking", "american", "dessert", "high-protein", "chocolate"]
 tips: 'Want to make it Vegan? Swap the egg for a "flax egg" (1 tbsp ground flax + 3 tbsp water) and use a high-protein soy yogurt instead of Greek yogurt. Replace the honey with maple syrup or agave.'
 rating: 
 reviews: 

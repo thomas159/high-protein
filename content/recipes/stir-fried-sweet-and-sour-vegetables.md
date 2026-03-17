@@ -6,6 +6,7 @@ image: "sweet-and-sour-vegetables_covgep"
 pintrest: ""
 categories: ["vegan", "dinner", "trending"]
 cuisine: "Thai"
+keywords: ["stir fry", "sweet and sour", "vegetables", "thai", "vegan", "healthy"]
 tags: []
 rating: 
 reviews: 

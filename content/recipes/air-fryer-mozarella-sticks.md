@@ -9,6 +9,7 @@ tips: |
   Zing Tip: Serve these with a side of marinara sauce and a squeeze of fresh lime juice over the sticks right before eating to cut through the richness of the mozzarella.
 cuisine: "American"
 tags: []
+keywords: ["mozzarella sticks", "air fryer", "cheese", "snack", "crispy", "american", "appetizer"]
 whyTitle: "Why use an air fryer?"
 why: |
   Superior Crunch: Rapid air circulation creates a "deep-fried" texture without the grease.

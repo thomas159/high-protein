@@ -8,6 +8,7 @@ description: "Indulge in a bowl of pure comfort with this Creamy Mushroom Pasta.
 image: "creamy-mushroom-pasta_m6794q"
 categories: ["dinner", "vegetarian", "pasta"]
 cuisine: "Italian"
+keywords: ["mushroom pasta", "creamy", "italian", "vegetarian", "comfort food", "white wine"]
 flavor_profile: "Rich, Umami, Savory"
 shelf_life: "Best enjoyed fresh; stores in the fridge for up to 2 days."
 whyTitle: "Why use white wine?"

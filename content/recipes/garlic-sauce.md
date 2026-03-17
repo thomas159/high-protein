@@ -22,6 +22,7 @@ tips: |
 rating: 
 reviews: 
 cuisine: "Mediterranean"
+keywords: ["garlic sauce", "dip", "mediterranean", "keto", "quick", "appetizer", "condiment"]
 prepTimeMins: 5
 cookTimeMins: 0
 servings: 1

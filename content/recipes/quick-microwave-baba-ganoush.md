@@ -9,6 +9,7 @@ image: "quick-microwave-baba-ganoush_douf9l"
 categories: ["dips", "vegan", "15-minute-meals"]
 cuisine: "Middle Eastern"
 flavor_profile: "Smoky, Nutty, Garlicky"
+keywords: ["baba ganoush", "aubergine", "eggplant", "microwave", "middle eastern", "vegan", "dip"]
 shelf_life: "Stored in an airtight container in the fridge for up to 4 days"
 whyTitle: "Why microwave the aubergine?"
 why: |

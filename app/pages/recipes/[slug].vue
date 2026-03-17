@@ -53,9 +53,7 @@ if (recipe.value?.categories?.includes('vegan')) {
       // recipeCuisine: 'Korean',
 
       // Keywords and Diet
-     keywords: recipe.value?.flavor_profile 
-      ? recipe.value.flavor_profile.split(', ') 
-      : [],
+      keywords: recipe.value?.keywords?.length ? recipe.value.keywords : (recipe.value?.flavor_profile ? recipe.value.flavor_profile.split(', ') : []),
       suitableForDiet: dietArray,
 
       // Nutrition mapping (Using your nested macros)

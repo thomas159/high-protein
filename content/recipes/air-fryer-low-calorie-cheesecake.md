@@ -6,6 +6,7 @@ image: "air-fryer-low-calorie-cheesecake_ekn9ky"
 categories: ["air-fryer", "keto", "dessert", "air-fryer"]
 tags: ["Keto", "High Protein"]
 cuisine: "American"
+keywords: ["cheesecake", "air fryer", "low calorie", "keto", "american", "dessert", "high-protein"]
 rating: 
 reviews: 
 prepTimeMins: 5

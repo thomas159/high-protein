@@ -10,6 +10,7 @@ image: "honey-glaze-tofu-marinade_1_rykscd"
 pintrest: ""
 categories: ["vegan", "dinner", "15-minute-meals", "marinade"]
 cuisine: "Asian"
+keywords: ["tofu marinade", "honey glaze", "asian", "vegetarian", "sweet", "savory", "air-fryer"]
 tags: []
 tips: ""
 rating: 

@@ -7,6 +7,7 @@ image: "quick-moroccan-couscous_iavij4"
 categories: ["dinner", "15-minute-meals"]
 tags: ["vegan"]
 cuisine: "Moroccan"
+keywords: ["couscous", "moroccan", "vegan", "15-minute", "mediterranean", "healthy side"]
 rating: 
 reviews: 
 prepTimeMins: 5

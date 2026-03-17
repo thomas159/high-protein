@@ -10,6 +10,7 @@ pintrest: ""
 categories: ["vegan", "dinner", "15-minute-meals", "marinade"]
 tags: []
 cuisine: "Indian"
+keywords: ["tofu marinade", "garam masala", "indian", "vegan", "high-protein", "spicy", "air-fryer"]
 tips: ""
 rating: 
 reviews: 

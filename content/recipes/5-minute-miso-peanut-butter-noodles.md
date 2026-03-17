@@ -8,6 +8,7 @@ description: "When you're in a hurry but still craving a satisfying and flavorfu
 image: "5-minute-miso-peanut-butter-noodles_eo9aef"
 categories: ["5-minute-meals", "vegan", "high-protein"]
 cuisine: "Japanese"
+keywords: ["miso", "peanut butter", "noodles", "japanese", "vegan", "high-protein", "5-minute"]
 flavor_profile: "Umami, Creamy, Spicy"
 shelf_life: "Best eaten fresh; the sauce thickens significantly as it cools."
 whyTitle: "Why this works for your gains"

@@ -11,6 +11,7 @@ tips: |
   Add tofu: Add 200g of tofu to increase the amount of protein.
 cuisine: "Korean"
 tags: ["vegan"]
+keywords: ["kimchi", "fried rice", "korean", "vegan", "15-minute", "spicy", "comfort food"]
 rating: 
 reviews: 
 prepTimeMins: 0

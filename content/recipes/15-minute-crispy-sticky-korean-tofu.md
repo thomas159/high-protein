@@ -10,6 +10,7 @@ pintrest: "sticky-korean-tofu-pintrest_qh2wsc"
 categories: ["vegan", "high-protein"]
 flavor_profile: "Spicy, Sweet, Umami"
 cuisine: "Korean"
+keywords: ["korean tofu", "gochujang", "sticky tofu", "vegan", "high-protein", "15-minute", "crispy"]
 shelf_life: "Best eaten immediately to maintain the tofu's crispness."
 whyTitle: "Why it's a Muscle Builder"
 why: |

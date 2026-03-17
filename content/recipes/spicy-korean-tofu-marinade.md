@@ -10,6 +10,7 @@ pintrest: ""
 categories: ["vegan", "dinner", "15-minute-meals", "marinade"]
 tags: []
 cuisine: "Korean"
+keywords: ["tofu marinade", "korean", "spicy", "gochujang", "vegan", "high-protein"]
 tips: ""
 rating: 
 reviews: 

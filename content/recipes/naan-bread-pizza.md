@@ -12,6 +12,7 @@ tips: |
   Add some heat: Sprinkle a few chili flakes or add a swirl of Sriracha on top before serving.
 cuisine: "Indian"
 tags: 
+keywords: ["naan pizza", "indian", "fusion", "paneer", "mango chutney", "quick dinner"]
 rating: 
 reviews: 
 prepTimeMins: 0

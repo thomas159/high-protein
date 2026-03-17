@@ -6,6 +6,7 @@ image: "thai-carrot-soup_e6uask"
 pintrest: ""
 categories: ["vegan", "dinner", "30-minute-meals"]
 cuisine: "Thai"
+keywords: ["carrot soup", "thai", "coconut milk", "vegan", "red curry", "creamy", "soup"]
 tags: []
 rating: 
 reviews: 

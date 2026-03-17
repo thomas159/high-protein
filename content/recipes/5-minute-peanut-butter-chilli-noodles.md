@@ -8,6 +8,7 @@ description: "A mouthwatering dish of Peanut Butter Chili Noodles with a fresh t
 image: "5-minute-peanut-butter-chilli-noodle_getziq"
 categories: ["5-minute-meals", "vegan", "high-protein"]
 cuisine: "Asian"
+keywords: ["peanut butter noodles", "chilli", "asian", "vegan", "high-protein", "5-minute", "spicy"]
 flavor_profile: "Spicy, Nutty, Aromatic"
 shelf_life: "Best served fresh. If reheating, add a splash of water to loosen the peanut sauce."
 whyTitle: "The Flavor Science"

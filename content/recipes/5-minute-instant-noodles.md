@@ -6,6 +6,7 @@ image: "5-minute-instant-noodles_ywvyin"
 pintrest: ""
 categories: ["vegan", "dinner", "15-minute-meals"]
 cuisine: "Asian"
+keywords: ["instant noodles", "asian", "vegan", "quick meal", "5-minute", "ramen"]
 tags: []
 rating: 
 reviews: 

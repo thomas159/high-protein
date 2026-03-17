@@ -10,6 +10,7 @@ pintrest: ""
 categories: ["high-protein", "5-minute-meals", "snacks"]
 cuisine: "American"
 tags: []
+keywords: ["protein balls", "no-bake", "snack", "high-protein", "american", "meal prep"]
 tips: ""
 rating: 
 reviews:

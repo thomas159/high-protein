@@ -8,6 +8,7 @@ categories: ["air-fryer", "30-minute-meals", "snacks"]
 tips: 
 tags: ["Vegan", "Gluten-Free", "Healthy"]
 cuisine: "American"
+keywords: ["fries", "air fryer", "rosemary", "garlic", "american", "vegan", "gluten-free", "snack"]
 whyTitle: "Why use an air fryer?"
 why: |
   Herb Infusion: The rapid air circulation "toasts" the rosemary needles, releasing their essential oils directly into the potato skin.

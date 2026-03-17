@@ -11,6 +11,7 @@ categories: ["air-fryer", "30-minute-meals", "snacks"]
 tips: 
 tags: ["Gluten-Free", "Healthy"]
 cuisine: "Korean"
+keywords: ["kimchi fries", "air fryer", "korean", "fusion", "cheese", "spicy", "snack"]
 whyTitle: "Why use an air fryer?"
 why: |
   Reduced Fat: Achieve that signature crunch with just a tablespoon of heart-healthy olive oil.

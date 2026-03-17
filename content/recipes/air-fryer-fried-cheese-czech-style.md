@@ -13,6 +13,7 @@ image: "fried-cheese-czech-style_im1uqu"
 categories: ["air-fryer", "dinner", "15-minute-meals"]
 tags: ["Keto", "High Protein"]
 cuisine: "Czech"
+keywords: ["fried cheese", "smazeny syr", "czech", "air fryer", "keto", "high-protein", "dinner"]
 rating: 
 reviews: 
 prepTimeMins: 5

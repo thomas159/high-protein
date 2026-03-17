@@ -10,6 +10,7 @@ pintrest: ""
 categories: ["high-protein", "air-fryer", "vegan", "keto", "dinner", "breakfast", "trending", "dessert"]
 tags: []
 cuisine: "British"
+keywords: ["apple crumble", "air fryer", "high-protein", "dessert", "british", "vegan", "keto"]
 tips: ""
 rating: 
 reviews: 
