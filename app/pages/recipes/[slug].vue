@@ -151,8 +151,10 @@ useHead({
           <p v-for="(work, index) in recipe.works" :key="index" class="text-muted-foreground" v-html="formatText(work)" />
         </div>
 
-        <h2 v-if="recipe.flavour" id="flavour" class="mt-12 whitespace-pre-line">Flavour profile</h2>
-        <p class="whitespace-pre-line text-muted-foreground" v-html="formatText(recipe.flavour)" />
+        <h2 v-if="recipe.flavour?.length" id="flavour" class="mt-12 whitespace-pre-line">Flavour profile</h2>
+        <div v-if="recipe.flavour?.length" class="mt-4 space-y-4">
+          <p v-for="(flav, index) in recipe.flavour" :key="index" class="text-muted-foreground" v-html="formatText(flav)" />
+        </div>
 
         <h2 v-if="recipe.use" id="use" class="mt-12 whitespace-pre-line">How to use it</h2>
         <p class="whitespace-pre-line text-muted-foreground" v-html="formatText(recipe.use)" />

@@ -22,7 +22,7 @@ export default defineContentConfig({
         muscleBuildingTip: z.string().optional(),
         dont: z.string().optional(),
         dontTitle: z.string().optional(),
-        flavour: z.string().optional(),
+        flavour: z.array(z.string()).default([]),
         image: z.string().optional(),
         pintrest: z.string().optional(),
         categories: z.array(z.string()).default([]),
