@@ -5,7 +5,7 @@ meta: {
   seoMetaDescription: "Make a crispy, low-calorie Tortilla Pizza in your air fryer in 15 minutes. A quick and easy Italian-inspired dinner with pesto and fresh mozzarella."
 }
 description: 'The 15-Minute Tortilla "Thin-Crust" Pizza is the ultimate hack for pizza lovers seeking a lighter, crispier alternative to heavy dough. By using a flour tortilla as the base, you cut down on carbs and calories without sacrificing that essential cheesy, bubbly satisfaction. It’s the perfect "blank canvas" for a quick weeknight dinner or a post-workout snack that feels like a cheat meal.'
-blurb:
+blurb: []
 tipsTitle: "Pro Tip"
 tips: 
   - "Sauce Swap: Try adding tomato passata instead of pesto. To get that same punch, sprinkle a pinch of dried oregano, garlic powder, and a tiny dash of salt directly onto the sauce before adding the cheese."

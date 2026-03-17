@@ -12,7 +12,7 @@ export default defineContentConfig({
           seoMetaDescription: z.string().optional(),
         }).optional(),
         description: z.string().optional(),
-        blurb: z.string().optional(),
+        blurb: z.array(z.string()).default([]),
         works: z.array(z.string()).default([]),
         tipsTitle: z.string().optional(),
         tips: z.array(z.string()).default([]),

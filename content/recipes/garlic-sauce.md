@@ -7,12 +7,10 @@ meta: {
 description: |
  This delicious Garlic Dip is the perfect appetizer for any occasion. It takes only 5 minutes to make and is packed full of flavor thanks to the combination of mayonnaise, yogurt, and garlic. The result is a creamy and delicious dip that is perfect for dipping vegetables, crackers, or bread.
 
-blurb: | 
-  To make this dip, you will need to start by mixing together mayonnaise, yogurt, and minced garlic in a small mixing bowl. Once the ingredients are well combined, you can season the dip with salt and pepper to taste. The key to this recipe is to use fresh garlic, as it will provide the most flavor.
-
-  This dip is not only delicious but also versatile, you can adjust the amount of garlic to suit your taste, add some herbs such as parsley, chives or dill for an extra flavor. You can also add some hot sauce or cayenne pepper for a spicy kick.
-
-  This Garlic Dip can be served as a dip for vegetables, crackers, or bread, or it can be used as a spread for sandwiches or wraps. It's also perfect for dipping in fried foods such as french fries.
+blurb: 
+  - "To make this dip, you will need to start by mixing together mayonnaise, yogurt, and minced garlic in a small mixing bowl. Once the ingredients are well combined, you can season the dip with salt and pepper to taste. The key to this recipe is to use fresh garlic, as it will provide the most flavor."
+  - "This dip is not only delicious but also versatile, you can adjust the amount of garlic to suit your taste, add some herbs such as parsley, chives or dill for an extra flavor. You can also add some hot sauce or cayenne pepper for a spicy kick."
+  - "This Garlic Dip can be served as a dip for vegetables, crackers, or bread, or it can be used as a spread for sandwiches or wraps. It's also perfect for dipping in fried foods such as french fries."
 image: "garlic-sauce_dz8yhf"
 categories: ["sauces", "15-minute-meals"]
 tags: ["Keto"]

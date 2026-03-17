@@ -5,7 +5,7 @@ meta: {
   seoMetaDescription: "Create a velvety Thai Satay Peanut Sauce in 10 minutes. A rich, creamy, and spicy dip or stir-fry base made with coconut milk and roasted peanuts."
 }
 description: "This Velvety Thai Satay Sauce is the ultimate multi-tasker for your kitchen. Crafted from a base of rich coconut milk, earthy roasted peanuts, and a hint of red curry heat, it strikes the perfect balance between savory, sweet, and spicy. Whether you're looking for a glossy stir-fry glaze or a thick, indulgent dip for skewers, this 10-minute sauce is a game-changer for authentic Southeast Asian flavor."
-blurb: 
+blurb: []
 tipsTitle: "Sauce Mastery"
 tips:
   - "Blooming the Paste: Slowly frying the red curry paste in the thick coconut cream until the red oils separate is the secret to unlocking a deep, restaurant-quality aroma."

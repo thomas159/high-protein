@@ -5,12 +5,10 @@ meta: {
   seoMetaDescription: "Make this quick, creamy 15-minute Cherry Tomato and Zucchini Risotto in the microwave. A perfect, comforting vegan meal for busy weeknights."
 }
 description: "This 15-minute Cherry Tomato and Zucchini Risotto is a quick and easy way to enjoy the classic dish without spending hours in the kitchen. Made using a microwave, this recipe is perfect for busy weeknights or when you're craving a comforting and satisfying meal."
-blurb: |
-  The combination of sweet and tangy cherry tomatoes, tender zucchini and creamy risotto creates a delicious and satisfying dish that is perfect for any occasion. The risotto is made with Arborio rice, which is known for its creamy texture and ability to absorb liquid. The cherry tomatoes and zucchini are added in the last few minutes of cooking for a burst of flavor and texture.
-
-  One of the best things about this recipe is that it is versatile, you can add any vegetables you have on hand, such as mushrooms, bell peppers, or asparagus.
-
-  This recipe is also great for meal prep, you can make a big batch and enjoy it throughout the week, it reheats well in the microwave.
+blurb: 
+  - "The combination of sweet and tangy cherry tomatoes, tender zucchini and creamy risotto creates a delicious and satisfying dish that is perfect for any occasion. The risotto is made with Arborio rice, which is known for its creamy texture and ability to absorb liquid. The cherry tomatoes and zucchini are added in the last few minutes of cooking for a burst of flavor and texture."
+  - "One of the best things about this recipe is that it is versatile, you can add any vegetables you have on hand, such as mushrooms, bell peppers, or asparagus."
+  - "This recipe is also great for meal prep, you can make a big batch and enjoy it throughout the week, it reheats well in the microwave."
 image: "15-minute-cherry-tomato-and-courgette-risotto_1_lsbbrh"
 categories: ["dinner", "microwave", "15-minute-meals"]
 tags: ["vegan"]

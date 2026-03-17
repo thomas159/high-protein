@@ -8,7 +8,7 @@ description: |
   Turn your weeknight dinner into a vibrant street-food fusion! This 10-Minute Mango & Paneer Naan Pizza is the ultimate "cheat code" for when you want big, bold flavors without the kitchen cleanup.
 
   The soft, pillowy naan acts as the perfect canvas for a sweet and spicy base of mango chutney, topped with creamy, golden-seared paneer and a crunch of fresh veggies. It’s sweet, salty, and totally addictive.
-blurb: 
+blurb: []
 image: "naan-bread-pizza_m9ikl5"
 categories: ["air-fryer", "dinner", "15-minute-meals"]
 tipsTitle: "Make it your own"
