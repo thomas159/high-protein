@@ -16,6 +16,10 @@ tips:
 works:
   - "Thermal Delay: Freezing the sticks ensures the breading has enough time to toast and crisp up in the air fryer before the cheese inside completely liquifies."
   - "Structural Integrity: The double coating of egg and flour forms a tight seal, locking the cheese inside a crispy barrier."
+flavour:
+  - "The Base: Mild, milky, and gooey melted mozzarella."
+  - "The Crust: Toasted breadcrumbs with a savory garlic profile."
+  - "The Heat: A gentle, lingering warmth from chili flakes and oregano."
 cuisine: "American"
 tags: []
 keywords: ["mozzarella sticks", "air fryer", "cheese", "snack", "crispy", "american", "appetizer"]

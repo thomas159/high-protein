@@ -19,6 +19,10 @@ tips:
 works:
   - "Acidic Tenderizing: The citric acid from the lime juice gently breaks down the tofu's exterior, allowing the spices to penetrate deeply."
   - "Heat Caramelization: The high heat of the air fryer or pan quickly roasts the ginger and garlic paste, forming a delicious, aromatic crust before the tofu dries out."
+flavour:
+  - "The Base: Warm, complex, and earthy Indian spices."
+  - "The Aromatics: Pungent garlic and sharp, zesty fresh ginger."
+  - "The Tang: Bright lime juice lifts the heavy spice profile."
 rating: 
 reviews: 
 flavor_profile: "Earthy, Spicy, Savory"

@@ -22,6 +22,10 @@ tips:
 works:
   - "Starch Release: Vigorously stirring the arborio rice after microwaving forces the grains to release their natural starches, creating a creamy sauce without heavy cream."
   - "Controlled Steam: The microwave creates a perfect high-heat, steamy environment that cooks the rice evenly without the need for constant stirring over a hot stove."
+flavour:
+  - "The Base: Creamy, starchy arborio rice enriched with parmesan and butter."
+  - "The Brightness: Jammy, burst cherry tomatoes add a sweet acidity."
+  - "The Depth: A splash of white wine provides a crisp, gourmet background note."
 rating: 
 reviews: 
 flavor_profile: "Creamy, Savory, Fresh"

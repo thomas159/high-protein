@@ -19,6 +19,10 @@ tips:
 works:
   - "Liquid Reduction: By boiling off the stock instead of draining it, all the savory flavor is absorbed directly into the noodles rather than being thrown away."
   - "Acid Balance: The tiny splash of rice vinegar acts as a flavor enhancer, cutting through the heavy sesame oil to wake up the palate."
+flavour:
+  - "The Base: Intensely savory soy sauce and vegetable stock reduction."
+  - "The Nutty Finish: Toasted sesame oil coats every strand with a deep aroma."
+  - "The Heat: Sriracha or sambal delivers a sharp, garlicky chili kick."
 rating: 
 reviews: 
 flavor_profile: "Umami, Salty, Savory"

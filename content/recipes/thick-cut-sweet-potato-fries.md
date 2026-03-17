@@ -18,6 +18,10 @@ tips:
 works:
   - "Moisture Control: Sweet potatoes hold a lot of water. The rapid air circulation of the air fryer evaporates this moisture quickly, achieving a crispy exterior that ovens struggle to replicate."
   - "Natural Sweetness: The high heat caramelizes the natural sugars in the sweet potato, creating complex flavor profiles with minimal added ingredients."
+flavour:
+  - "The Base: Naturally sweet, earthy sweet potatoes."
+  - "The Crust: A savory, salty bite with a slight charred edge."
+  - "The Finish: Olive oil richness enhancing the caramelized sugars."
 tags: []
 rating: 
 reviews: 

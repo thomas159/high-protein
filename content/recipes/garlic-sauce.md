@@ -22,6 +22,10 @@ tips:
 works:
   - "Fat Balance: Using a ratio heavily favoring Greek yogurt over mayonnaise cuts the overall calories while keeping the dip delightfully rich and thick."
   - "Maceration: Letting the dip sit in the fridge for 15 minutes allows the harsh bite of the raw garlic to mellow into the dairy, creating a cohesive flavor."
+flavour:
+  - "The Base: Rich, creamy mayonnaise and Greek yogurt."
+  - "The Kick: Pungent, sharp raw garlic."
+  - "The Freshness: A hint of spring onion provides a crisp, mild onion finish."
 rating: 
 reviews: 
 cuisine: "Mediterranean"

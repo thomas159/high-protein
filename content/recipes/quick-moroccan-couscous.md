@@ -19,6 +19,10 @@ tips:
 works:
   - "Instant Hydration: Couscous has already been steamed and dried during manufacturing, meaning pouring boiling stock over it instantly rehydrates it without simmering."
   - "Sweet and Salty Balance: The slight sweetness from the sautéed red onions beautifully offsets the sharp, salty punch of the feta cheese."
+flavour:
+  - "The Base: Light, fluffy couscous soaked in savory vegetable stock."
+  - "The Sweetness: Sautéed red onions and peppers provide a caramelized sweetness."
+  - "The Tang: Salty feta cheese and bright lemon juice balance the dish."
 rating: 
 reviews: 
 flavor_profile: "Fresh, Tangy, Savory"

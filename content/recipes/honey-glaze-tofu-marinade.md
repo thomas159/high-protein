@@ -20,6 +20,10 @@ tips:
 works:
   - "Maillard Reaction: The natural sugars in the honey undergo rapid caramelization in the air fryer, forming a sticky, glossy lacquer over the tofu."
   - "Flavor Equilibrium: The intense sweetness of the honey is expertly grounded by the salty soy sauce and the earthy depth of the cumin."
+flavour:
+  - "The Base: A sticky, caramelized honey sweetness."
+  - "The Umami: Savory soy sauce perfectly balances the sugar."
+  - "The Earthiness: Hints of cumin and coriander bring a warm, complex depth."
 rating: 
 reviews: 
 flavor_profile: "Earthy, Spicy, Savory"

@@ -19,6 +19,10 @@ tips:
 works:
   - "Noodle Geometry: The thick, chewy nature of the udon noodles provides the perfect surface area to hold onto the heavy, robust peanut sauce."
   - "Fat and Acid: The rich combination of coconut milk and peanut butter is perfectly balanced by the sharp acidity of the lime juice at the end."
+flavour:
+  - "The Base: Chewy udon noodles enveloped in a rich, nutty peanut sauce."
+  - "The Heat: A warming background hum from Thai red curry paste."
+  - "The Balance: Sweet coconut milk cut perfectly by a sharp squeeze of lime."
 rating: 
 reviews: 
 flavor_profile: "Nutty, Creamy, Savory"

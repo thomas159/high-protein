@@ -20,6 +20,10 @@ tips:
 works:
   - "Acidic Breakdown: The lime juice softens the dense outer layer of the tofu, allowing the robust spices and smoky oils to soak past the surface."
   - "Sugar Caramelization: The chipotle adobo sauce contains natural sugars that rapidly char and form a BBQ-style bark under the intense heat of the air fryer."
+flavour:
+  - "The Base: Earthy, smoky adobo and chipotle peppers."
+  - "The Zing: Fresh lime juice cuts through the heat."
+  - "The Spices: Cumin and paprika add a savory, warming depth."
 rating: 
 reviews: 
 flavor_profile: "Earthy, Spicy, Savory"

@@ -16,6 +16,10 @@ tips:
 works:
   - "Air Circulation: The air fryer rapidly blasts away moisture, giving the potatoes a deep-fried crunch without being weighed down by oil."
   - "Flavor Balancing: The sharp, acidic tang of the kimchi perfectly cuts through the rich heaviness of the cheddar cheese and starchy potatoes."
+flavour:
+  - "The Base: Crispy, salty, perfectly air-fried potatoes."
+  - "The Tang: Fermented, spicy kimchi brings a sharp, acidic bite."
+  - "The Richness: Melted cheddar cheese rounds out the intense flavors."
 tags: ["Gluten-Free", "Healthy"]
 cuisine: "Korean"
 keywords: ["kimchi fries", "air fryer", "korean", "fusion", "cheese", "spicy", "snack"]

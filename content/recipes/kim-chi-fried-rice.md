@@ -17,6 +17,10 @@ tips:
 works:
   - "Fermented Depth: The aged kimchi provides instant tang and umami that usually takes hours of slow cooking to achieve."
   - "The Searing Technique: Pressing the rice into the high-heat pan creates crucial textural contrast, delivering those coveted crispy, caramelized edges."
+flavour:
+  - "The Base: Toasted, slightly charred savory rice with nutty sesame notes."
+  - "The Tang: Sour, funky, and vibrant fermented kimchi."
+  - "The Heat: Gochujang adds a sweet, thick, and lingering chili warmth."
 cuisine: "Korean"
 tags: ["vegan"]
 keywords: ["kimchi", "fried rice", "korean", "vegan", "15-minute", "spicy", "comfort food"]

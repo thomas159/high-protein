@@ -21,6 +21,10 @@ tips:
 works:
   - "Aromatic Awakening: Sautéing the curry paste in coconut fat releases the fat-soluble flavor compounds from the chilies and aromatics."
   - "Sweet and Spicy Synergy: The earthy, natural sweetness of the pureed carrots acts as a perfect counterweight to the intense heat of the Thai red curry."
+flavour:
+  - "The Base: Earthy, naturally sweet pureed carrots."
+  - "The Heat: Aromatic Thai red curry paste with notes of lemongrass and chili."
+  - "The Richness: Silky coconut milk rounds out the spice into a mellow warmth."
 flavor_profile: "Spicy, Sweet, Creamy"
 servingSuggestions: "This silky Thai carrot soup pairs beautifully with a slice of warm, crusty sourdough bread or a piece of garlic naan for dipping. To add texture, top the soup with a handful of roasted peanuts or crunchy croutons just before serving. A side of fresh spring rolls or a light cucumber salad makes this soup the centerpiece of a nourishing, vibrant meal."
 shelf_life: "3-4 Days (Refrigerated)"

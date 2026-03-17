@@ -26,6 +26,10 @@ tips:
 works:
   - "Spice Blooming: Toasting the dry spices in the hot coconut oil releases their fat-soluble compounds, multiplying their flavor intensity before the liquids are added."
   - "Natural Thickening: The starches from the chickpeas gently leach into the coconut milk as it simmers, naturally thickening the curry into a rich sauce."
+flavour:
+  - "The Base: A rich, creamy, and mildly sweet coconut milk broth."
+  - "The Spices: Earthy cumin, warm turmeric, and fragrant coriander."
+  - "The Aromatics: Fresh ginger and garlic provide a bright, zesty foundation."
 prepTimeMins: 5
 cookTimeMins: 20
 servings: 1
