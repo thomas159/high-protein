@@ -4,9 +4,7 @@ slug: "garlic-sauce"
 meta: {
   seoMetaDescription: "Whip up this creamy Mediterranean Garlic Sauce in just 5 minutes. A perfect keto-friendly dip for vegetables, wraps, and plant-based meats."
 }
-description: |
- This delicious Garlic Dip is the perfect appetizer for any occasion. It takes only 5 minutes to make and is packed full of flavor thanks to the combination of mayonnaise, yogurt, and garlic. The result is a creamy and delicious dip that is perfect for dipping vegetables, crackers, or bread.
-
+description: "This delicious Garlic Dip is the perfect appetizer for any occasion. It takes only 5 minutes to make and is packed full of flavor thanks to the combination of mayonnaise, yogurt, and garlic. The result is a creamy and delicious dip that is perfect for dipping vegetables, crackers, or bread."
 blurb: 
   - "To make this dip, you will need to start by mixing together mayonnaise, yogurt, and minced garlic in a small mixing bowl. Once the ingredients are well combined, you can season the dip with salt and pepper to taste. The key to this recipe is to use fresh garlic, as it will provide the most flavor."
   - "This dip is not only delicious but also versatile, you can adjust the amount of garlic to suit your taste, add some herbs such as parsley, chives or dill for an extra flavor. You can also add some hot sauce or cayenne pepper for a spicy kick."

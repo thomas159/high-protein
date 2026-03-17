@@ -4,10 +4,9 @@ slug: "chimichurri-sauce"
 meta: {
   seoMetaDescription: "Elevate your meals with this easy 5-minute vegan Argentinian Chimichurri Sauce. Packed with fresh herbs, garlic, and olive oil for a zesty flavor."
 }
-description: |
-  Elevate your meal prep with this Easy Argentinian Chimichurri—the ultimate 5-minute flavor hack for high-protein vegetarian cooking. This vibrant, tangy sauce is packed with fresh herbs, garlic, and heart-healthy olive oil, providing a nutrient-dense punch to any gym-focused meal.
-
-  Designed for efficiency and flavor, this sauce is a "must-have" in any plant-based kitchen. Drizzle it over roasted veggies for a micronutrient boost, use it as a zesty salad dressing, or toss it with quinoa and beans for an instant pop of flavor. It’s the perfect way to keep your healthy meals exciting without the added sugar or preservatives of store-bought sauces.
+description: "Elevate your meal prep with this Easy Argentinian Chimichurri—the ultimate 5-minute flavor hack for high-protein vegetarian cooking. This vibrant, tangy sauce is packed with fresh herbs, garlic, and heart-healthy olive oil, providing a nutrient-dense punch to any gym-focused meal."
+blurb: 
+- "Designed for efficiency and flavor, this sauce is a must-have in any plant-based kitchen. Drizzle it over roasted veggies for a micronutrient boost, use it as a zesty salad dressing, or toss it with quinoa and beans for an instant pop of flavor. It’s the perfect way to keep your healthy meals exciting without the added sugar or preservatives of store-bought sauces."
 image: 'chimichurri-sauce_2_usinnj'
 categories: ["vegan", "sauces", "5-minute-meals"]
 tags: ["vegan"]

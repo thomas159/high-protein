@@ -4,10 +4,9 @@ slug: "mango-sticky-rice"
 meta: {
   seoMetaDescription: "Experience authentic Thai Mango Sticky Rice. A sweet, creamy, and macro-friendly dessert made with glutinous rice and fresh mango."
 }
-description: |
-  Experience the perfect balance of creamy, salty, and sweet with this authentic Mango Sticky Rice. Designed for the active vegetarian, this recipe focuses on "Clean Carbs" and healthy fats, making it an ideal post-training fuel or a vibrant, chef-inspired treat that doesn't rely on processed additives.
-
-  By utilizing a precise 4:1 ratio of coconut infusion to finishing glaze, we ensure every grain of glutinous rice is perfectly tender and fragrant and pair it with fresh, vitamin-rich mango. Whether you're fueling your next gym session or looking for a tropical escape in your kitchen, this macro-friendly dessert delivers high energy and maximum flavor.
+description: "Experience the perfect balance of creamy, salty, and sweet with this authentic Mango Sticky Rice. Designed for the active vegetarian, this recipe focuses on Clean Carbs and healthy fats, making it an ideal post-training fuel or a vibrant, chef-inspired treat that doesn't rely on processed additives."
+blurb: 
+- "By utilizing a precise 4:1 ratio of coconut infusion to finishing glaze, we ensure every grain of glutinous rice is perfectly tender and fragrant and pair it with fresh, vitamin-rich mango. Whether you're fueling your next gym session or looking for a tropical escape in your kitchen, this macro-friendly dessert delivers high energy and maximum flavor."
 image: "mango-sticky-rice_vzh6ec"
 categories: ["dessert"]
 tags: 

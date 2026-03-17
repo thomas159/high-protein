@@ -4,8 +4,7 @@ slug: "air-fryer-fried-cheese-czech-style"
 meta: {
   seoMetaDescription: "Enjoy a healthier version of traditional Czech Fried Cheese (Smažený sýr) made in the air fryer. A crispy, keto-friendly dinner ready in 15 minutes."
 }
-description: |
-  Discover the crispy delight of Czech-style breaded cheese, known as "smažený sýr," made effortlessly in your air fryer. This recipe combines a golden, crispy coating with gooey melted cheese, offering a deliciously mess-free cooking experience that's perfect for any occasion.
+description: "Discover the crispy delight of Czech-style breaded cheese, known as \"smažený sýr,\" made effortlessly in your air fryer. This recipe combines a golden, crispy coating with gooey melted cheese, offering a deliciously mess-free cooking experience that's perfect for any occasion."
 blurb: 
 - "To make this Czech style fried cheese, you will need to start by cutting the cheese into thick slices, then dip them into a mixture of flour, egg, and breadcrumbs. Once the cheese is coated, you can place them in your air fryer and cook them until they are golden brown and the cheese is melted."
 - " This recipe is a great way to enjoy the classic Czech dish in a healthier way. Air frying is a healthier alternative to deep frying, which can retain more of the original flavors and nutrients in the food."
