@@ -11,7 +11,6 @@ Allow: /_nuxt/*.png
 # Block only truly private or redundant internal paths
 Disallow: /admin/
 Disallow: /api/
-Disallow: /_payload.json
 
 # Allow indexing of all core content
 Allow: /recipes/
