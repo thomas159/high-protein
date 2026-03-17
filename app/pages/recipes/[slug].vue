@@ -48,6 +48,8 @@ if (recipe.value?.categories?.includes('vegan')) {
       // Yield and Category
       recipeYield: `${recipe.value?.servings} serving(s)`,
       recipeCategory: recipe.value?.categories?.[0] || 'Main Course',
+      recipeCuisine: recipe.value?.cuisine || '',
+
       // recipeCuisine: 'Korean',
 
       // Keywords and Diet

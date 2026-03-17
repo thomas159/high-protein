@@ -10,7 +10,7 @@ export default defineContentConfig({
         slug: z.string().optional(),
         meta: z.object({
           seoMetaDescription: z.string().optional(),
-        }),
+        }).optional(),
         description: z.string().optional(),
         blurb: z.string().optional(),
         works: z.string().optional(),
@@ -22,35 +22,35 @@ export default defineContentConfig({
         dont: z.string().optional(),
         dontTitle: z.string().optional(),
         flavour: z.string().optional(),
-        image: z.string().optional(), // Made optional so it doesn't break if a recipe lacks an image
-        pintrest: z.string().optional(), // Made optional so it doesn't break if a recipe lacks an image
-        categories: z.array(z.string()).default([]), // FIX: Added z.string()
+        image: z.string().optional(),
+        pintrest: z.string().optional(),
+        categories: z.array(z.string()).default([]),
         tags: z.array(z.string()).default([]),
         rating: z.number().optional(),
         reviews: z.number().optional(),
         flavor_profile: z.string().optional(),
         shelf_life: z.string().optional(),
+        cuisine: z.string().optional(),
         prepTimeMins: z.number().optional(),
         cookTimeMins: z.number().optional(),
         servings: z.number().optional(),
         
-        // Grouped macro object
         macros: z.object({
           calories: z.number().optional(),
           carbs: z.number().optional(),
           protein: z.number().optional(),
           fat: z.number().optional()
-        }),
+        }).optional(),
         
-        // Array of ingredient objects
         ingredients: z.array(
           z.object({
             item: z.string().optional(),
-            amount: z.number().optional(),
+            amount: z.union([z.number(), z.string()]).optional(), 
             unit: z.string().optional(),
             type: z.string().optional()
           })
-        ),
+        ).default([]),
+        
         steps: z.array(z.string()).default([]),
       })
     })

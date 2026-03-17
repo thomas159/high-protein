@@ -11,6 +11,7 @@ blurb: |
 image: "15-minute-cherry-tomato-and-courgette-risotto_1_lsbbrh"
 categories: ["dinner", "microwave", "15-minute-meals"]
 tags: ["vegan"]
+cuisine: 'Italian"
 rating: 
 reviews: 
 prepTimeMins: 0
@@ -21,6 +22,7 @@ macros:
   carbs: 95
   protein: 16
   fat: 13
+  
 ingredients:
   - { item: "White wine", amount: 60, unit: "ml" }
   - { item: "Vegetable stock", amount: 250, unit: "ml" }
