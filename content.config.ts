@@ -26,6 +26,7 @@ export default defineContentConfig({
         image: z.string().optional(),
         pintrest: z.string().optional(),
         categories: z.array(z.string()).default([]),
+        variations: z.array(z.string()).default([]),
         servingSuggestions: z.string().optional(),
         storageInstructions: z.string().optional(),
         tags: z.array(z.string()).default([]),
