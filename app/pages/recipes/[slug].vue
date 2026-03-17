@@ -130,8 +130,18 @@ useHead({
 
       <RecipesIngredients :recipe="recipe" />
 
-      <div id="#recipe" class="lg:col-span-8 lg:pl-6 relative">
+      
 
+      <div id="#recipe" class="lg:col-span-8 lg:pl-6 relative">
+        <div class="flex justify-center lg:justify-start hidden lg:block">
+          <a href="#howToMake"
+            class="inline-flex items-center gap-2 bg-emerald-500 hover:bg-emerald-600 text-white font-semibold px-6 py-3 rounded-full transition-colors shadow-sm">
+            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 14l-7 7m0 0l-7-7m7 7V3"></path>
+            </svg>
+            Jump to Recipe
+          </a>
+        </div>
         <!-- <div class="absolute top-0 right-0 flex gap-2">
             <button class="p-2 text-muted-foreground hover:text-green-600 dark:hover:text-green-400 hover:bg-green-500/10 rounded-lg transition-colors" title="Share Recipe">
               <svg class="w-5 h-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><line x1="8.59" x2="15.42" y1="13.51" y2="17.49"/><line x1="15.41" x2="8.59" y1="6.51" y2="10.49"/></svg>
