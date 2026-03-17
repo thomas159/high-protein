@@ -11,7 +11,7 @@ keywords: ["couscous", "moroccan", "vegan", "15-minute", "mediterranean", "healt
 rating: 
 reviews: 
 flavor_profile: "Fresh, Tangy, Savory"
-servingSuggestions: "This vibrant couscous makes an excellent bed for grilled proteins like lemon-herb chicken, lamb skewers, or roasted chickpeas. To enhance its Mediterranean profile, serve it with a dollop of tzatziki or a spoonful of hummus on the side. A side of warm pita bread and a drizzle of high-quality extra virgin olive oil just before serving brings everything together."
+servingSuggestions: "This vibrant couscous makes an excellent bed for grilled proteins like lemon-herb tofu, halloumi skewers, or roasted chickpeas. To enhance its Mediterranean profile, serve it with a dollop of tzatziki or a spoonful of hummus on the side. A side of warm pita bread and a drizzle of high-quality extra virgin olive oil just before serving brings everything together."
 prepTimeMins: 5
 cookTimeMins: 5
 servings: 1

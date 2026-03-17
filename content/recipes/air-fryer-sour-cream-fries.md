@@ -18,7 +18,7 @@ why: |
 rating: 
 reviews: 
 flavor_profile: "Salty, Crispy, Savory"
-servingSuggestions: "These tangy, crispy fries are a crowd-pleaser and are best served piping hot. For an extra layer of flavor, top them with crispy facon (vegan bacon) bits or a handful of fresh chives just before serving. They pair wonderfully with casual, pub-style mains like crispy battered fish (or a vegan alternative) or a hearty, stacked club sandwich."
+servingSuggestions: "These tangy, crispy fries are a crowd-pleaser and are best served piping hot. For an extra layer of flavor, top them with crispy facon (vegan bacon) bits or a handful of fresh chives just before serving. They pair wonderfully with casual, pub-style mains like crispy battered banana blossom or a hearty, stacked veggie club sandwich."
 prepTimeMins: 5
 cookTimeMins: 25
 servings: 1

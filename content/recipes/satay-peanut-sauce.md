@@ -33,7 +33,7 @@ keywords: ["satay sauce", "peanut sauce", "thai", "condiment", "dip", "creamy", 
 rating: 
 reviews: 
 flavor_profile: "Spicy, Tangy, Nutty"
-servingSuggestions: "This rich satay sauce is a classic pairing for grilled chicken or tofu skewers, but its uses go far beyond that. Serve it as a decadent dipping sauce for fresh summer rolls packed with herbs and vermicelli. Alternatively, toss it with a cold noodle salad, shredded cabbage, and carrots for a refreshing, flavor-packed summer dish."
+servingSuggestions: "This rich satay sauce is a classic pairing for grilled tempeh or tofu skewers, but its uses go far beyond that. Serve it as a decadent dipping sauce for fresh summer rolls packed with herbs and vermicelli. Alternatively, toss it with a cold noodle salad, shredded cabbage, and carrots for a refreshing, flavor-packed summer dish."
 shelf_life: "Stored in airtight container in the fridge for 5 days"
 prepTimeMins: 5
 cookTimeMins: 5

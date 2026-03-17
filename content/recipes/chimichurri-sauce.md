@@ -14,7 +14,7 @@ tips: This Chimichurri is the perfect companion for Grilled Tofu or a Lentil Bow
 rating: 
 reviews: 
 flavor_profile: "Herby, Tangy, Garlicky"
-servingSuggestions: "This vibrant chimichurri is an incredibly versatile condiment. Spoon it generously over freshly grilled steaks, roasted portobello mushrooms, or thick slices of cauliflower steak. It also works beautifully as a zesty dressing for a hearty quinoa and black bean salad, or served in a small dipping bowl alongside warm, crusty bread as an appetizer."
+servingSuggestions: "This vibrant chimichurri is an incredibly versatile condiment. Spoon it generously over freshly grilled seitan steaks, roasted portobello mushrooms, or thick slices of cauliflower steak. It also works beautifully as a zesty dressing for a hearty quinoa and black bean salad, or served in a small dipping bowl alongside warm, crusty bread as an appetizer."
 prepTimeMins: 0
 cookTimeMins: 5
 servings: 1

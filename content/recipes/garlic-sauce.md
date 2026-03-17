@@ -24,7 +24,7 @@ reviews:
 cuisine: "Mediterranean"
 keywords: ["garlic sauce", "dip", "mediterranean", "keto", "quick", "appetizer", "condiment"]
 flavor_profile: "Garlicky, Creamy, Tangy"
-servingSuggestions: "This versatile garlic sauce pairs beautifully with a wide array of dishes. It's the ultimate dip for fresh vegetable crudités like carrot sticks, cucumber, and bell peppers. For a heartier option, serve it alongside warm pita bread or as a zesty spread in wraps and shawarmas. It also makes a fantastic accompaniment to grilled meats or as a cooling contrast to spicy dishes."
+servingSuggestions: "This versatile garlic sauce pairs beautifully with a wide array of dishes. It's the ultimate dip for fresh vegetable crudités like carrot sticks, cucumber, and bell peppers. For a heartier option, serve it alongside warm pita bread or as a zesty spread in wraps and shawarmas. It also makes a fantastic accompaniment to grilled plant-based meats or as a cooling contrast to spicy dishes."
 prepTimeMins: 5
 cookTimeMins: 0
 servings: 1

@@ -17,7 +17,7 @@ why: |
 rating: 
 reviews: 
 flavor_profile: "Salty, Crispy, Savory"
-servingSuggestions: "These elegant, herb-infused fries are a step above standard chips and deserve a great dip. Serve them with a side of truffle mayonnaise or a sharp garlic aioli. They make a sophisticated side dish to pan-seared steaks, grilled fish, or a gourmet portobello mushroom burger, elevating a simple meal into something special."
+servingSuggestions: "These elegant, herb-infused fries are a step above standard chips and deserve a great dip. Serve them with a side of truffle mayonnaise or a sharp garlic aioli. They make a sophisticated side dish to pan-seared cauliflower steaks, grilled halloumi, or a gourmet portobello mushroom burger, elevating a simple meal into something special."
 prepTimeMins: 5
 cookTimeMins: 25
 servings: 1
