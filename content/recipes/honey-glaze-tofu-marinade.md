@@ -16,6 +16,7 @@ tips: ""
 rating: 
 reviews: 
 flavor_profile: "Earthy, Spicy, Savory"
+servingSuggestions: "The sticky, sweet-and-savory profile of this tofu makes it an ideal companion for a bowl of sticky sushi rice or quick-cooking soba noodles. Serve it alongside lightly steamed bok choy or garlic-sautéed broccoli for a balanced meal. A final garnish of freshly sliced spring onions and a sprinkle of toasted sesame seeds will give it a restaurant-quality finish."
 shelf_life: "Stored in airtight container in the fridge for 5 days"
 whyTitle: "Why marinate tofu?"
 why: |

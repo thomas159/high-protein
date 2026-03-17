@@ -15,6 +15,7 @@ tips: ""
 rating: 
 reviews: 
 flavor_profile: "Sweet, Cinnamon, Crunchy"
+servingSuggestions: "This warm, comforting apple crumble is elevated when served with a dollop of cold, high-protein vanilla Greek yogurt or a scoop of low-calorie vanilla ice cream, providing a beautiful hot-and-cold contrast. A light dusting of extra cinnamon on top and a cup of warm chamomile tea makes this the ultimate healthy evening treat."
 shelf_life: "Best eaten immediately while warm."
 whyTitle: "Why the Air Fryer?"
 why: |

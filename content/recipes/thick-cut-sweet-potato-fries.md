@@ -12,6 +12,7 @@ tags: []
 rating: 
 reviews: 
 flavor_profile: "Salty, Crispy, Savory"
+servingSuggestions: "These hearty sweet potato fries are best served hot with a selection of your favorite dipping sauces. A classic garlic aioli or a smoky chipotle mayo are excellent choices that complement the natural sweetness of the potatoes. They make a perfect side dish for loaded veggie burgers, grilled halloumi wraps, or as a satisfying snack on their own."
 prepTimeMins: 30
 cookTimeMins: 30
 servings: 1

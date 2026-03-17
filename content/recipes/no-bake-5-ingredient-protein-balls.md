@@ -15,6 +15,7 @@ tips: ""
 rating: 
 reviews:
 flavor_profile: "Sweet, Nutty, Creamy"
+servingSuggestions: "Keep these energy-dense protein balls chilled and serve them straight from the fridge for the best, fudgy texture. They pair wonderfully with a mid-morning cappuccino or a post-workout protein shake. If you're serving them as a healthier dessert option, arrange them on a platter alongside fresh berries and a small bowl of dark chocolate sauce for dipping."
 shelf_life: "Stored in airtight container in the fridge for 5 days" 
 whyTitle: "Why make these protein balls?"
 why: |

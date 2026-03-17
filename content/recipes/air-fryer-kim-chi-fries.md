@@ -20,6 +20,7 @@ why: |
 rating: 
 reviews: 
 flavor_profile: "Salty, Crispy, Savory"
+servingSuggestions: "These bold, fusion-style fries are incredibly satisfying on their own, but pairing them with a cooling element can elevate the dish. A drizzle of sriracha mayo or a side of creamy avocado slices helps to tame the spicy heat of the kimchi. Serve them as a hearty appetizer or alongside a Korean-style BBQ burger for an unforgettable weekend feast."
 prepTimeMins: 5
 cookTimeMins: 25
 servings: 1

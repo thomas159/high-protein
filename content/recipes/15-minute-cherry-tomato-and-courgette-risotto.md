@@ -16,6 +16,7 @@ keywords: ["risotto", "cherry tomato", "courgette", "zucchini", "microwave", "it
 rating: 
 reviews: 
 flavor_profile: "Creamy, Savory, Fresh"
+servingSuggestions: "A bowl of this creamy risotto is satisfying on its own, but serving it with a slice of crusty garlic bread is perfect for mopping up every last bit of the rich sauce. A side of lightly dressed rocket (arugula) adds a peppery freshness that cuts through the creaminess. Pair with a chilled glass of crisp white wine, such as Pinot Grigio, to complement the flavors."
 prepTimeMins: 0
 cookTimeMins: 15
 servings: 1

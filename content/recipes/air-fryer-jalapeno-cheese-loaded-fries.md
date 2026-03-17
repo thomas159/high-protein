@@ -17,6 +17,7 @@ why: |
 rating: 
 reviews: 
 flavor_profile: "Salty, Crispy, Savory"
+servingSuggestions: "These indulgent loaded fries are perfect for sharing. Serve them straight from the basket with a side of cooling ranch dressing or a cilantro-lime crema to help temper the heat of the jalapeños. They make an unbeatable side to a juicy smash burger or pulled \"pork\" jackfruit sandwiches during a weekend game night."
 prepTimeMins: 5
 cookTimeMins: 25
 servings: 1

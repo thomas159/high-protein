@@ -16,6 +16,7 @@ keywords: ["naan pizza", "indian", "fusion", "paneer", "mango chutney", "quick d
 rating: 
 reviews: 
 flavor_profile: "Sweet, Spicy, Cheesy"
+servingSuggestions: "Elevate your naan bread pizza by pairing it with a crisp, refreshing side salad dressed with a light vinaigrette to cut through the richness of the cheese. A cooling cucumber raita or an extra dollop of plain yogurt on the side can help balance the sweet and spicy notes of the mango chutney. For an extra kick, serve with a side of mixed Indian pickles."
 prepTimeMins: 0
 cookTimeMins: 15
 servings: 1

@@ -11,6 +11,7 @@ tags: []
 rating: 
 reviews: 
 flavor_profile: "Umami, Salty, Savory"
+servingSuggestions: "Transform these quick instant noodles into a more substantial meal by topping them with a soft-boiled egg or some leftover sliced roast meat. Serve with a side of quick-steamed pak choi or a small side salad to add freshness. A few slices of fresh jalapeño or a dash of chili crisp on top provides a welcoming kick for spice lovers."
 prepTimeMins: 0
 cookTimeMins: 5
 servings: 1

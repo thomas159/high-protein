@@ -11,6 +11,7 @@ categories: ["vegan", "high-protein"]
 flavor_profile: "Spicy, Sweet, Umami"
 cuisine: "Korean"
 keywords: ["korean tofu", "gochujang", "sticky tofu", "vegan", "high-protein", "15-minute", "crispy"]
+servingSuggestions: "This fiery, sticky tofu is perfectly balanced when served over a bowl of plain, short-grain white rice, which helps mellow the intense flavors of the Gochujang glaze. Accompany it with a side of quick-pickled cucumbers or a simple sesame spinach salad for a refreshing contrast. Wrap the tofu in crisp lettuce leaves for a fun, interactive meal."
 shelf_life: "Best eaten immediately to maintain the tofu's crispness."
 whyTitle: "Why it's a Muscle Builder"
 why: |

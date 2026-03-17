@@ -15,6 +15,7 @@ tips: ""
 rating: 
 reviews: 
 flavor_profile: "Spicy, Sweet, Umami"
+servingSuggestions: "To balance the bold, fermented heat of this Gochujang tofu, serve it alongside mild, comforting sides like a fluffy steamed egg or a gentle miso soup. It is brilliant when wrapped in fresh perilla leaves or crisp butter lettuce along with a smear of ssamjang and a sliver of raw garlic for a traditional Korean BBQ-style bite."
 shelf_life: "Stored in airtight container in the fridge for 5 days"
 whyTitle: "Why marinate tofu?"
 why: |

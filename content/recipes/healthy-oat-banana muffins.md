@@ -14,6 +14,7 @@ tips: 'Want to make it Vegan? Swap the egg for a "flax egg" (1 tbsp ground flax 
 rating: 
 reviews: 
 flavor_profile: "Sweet, Chocolatey, Fudgy"
+servingSuggestions: "These protein-packed muffins are fantastic on their own, but pairing them with a hot cup of black coffee or herbal tea makes for a perfect morning ritual. For a more indulgent snack, split a warm muffin in half and spread a thin layer of almond butter or peanut butter on top. They also go wonderfully with a side of fresh banana slices or a dollop of Greek yogurt."
 prepTimeMins: 5
 cookTimeMins: 10
 servings: 4

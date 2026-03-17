@@ -11,6 +11,7 @@ tags: []
 rating: 
 reviews: 
 flavor_profile: "Sweet, Sour, Tangy"
+servingSuggestions: "To turn these sweet and sour vegetables into a complete, satisfying meal, serve them over a bed of freshly steamed jasmine rice or tossed with warm egg noodles. If you're looking for extra protein, top the dish with crispy air-fried tofu or grilled chicken. A sprinkle of toasted sesame seeds and a dash of chili oil right before serving adds a lovely crunch and heat."
 prepTimeMins: 15
 cookTimeMins: 15
 servings: 1

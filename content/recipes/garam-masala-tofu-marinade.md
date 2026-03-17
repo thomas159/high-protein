@@ -15,6 +15,7 @@ tips: ""
 rating: 
 reviews: 
 flavor_profile: "Earthy, Spicy, Savory"
+servingSuggestions: "Serve this deeply flavorful, Indian-spiced tofu alongside a steaming mound of fragrant basmati rice or warm, fluffy naan bread to soak up the aromatic spices. It pairs wonderfully with a cooling cucumber and mint raita or a side of lightly sautéed spinach. For a complete meal, include a portion of hearty dal or a vibrant kachumber salad."
 shelf_life: "Stored in airtight container in the fridge for 5 days"
 whyTitle: "Why marinate tofu?"
 why: |

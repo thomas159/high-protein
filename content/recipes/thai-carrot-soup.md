@@ -11,6 +11,7 @@ tags: []
 rating: 
 reviews: 
 flavor_profile: "Spicy, Sweet, Creamy"
+servingSuggestions: "This silky Thai carrot soup pairs beautifully with a slice of warm, crusty sourdough bread or a piece of garlic naan for dipping. To add texture, top the soup with a handful of roasted peanuts or crunchy croutons just before serving. A side of fresh spring rolls or a light cucumber salad makes this soup the centerpiece of a nourishing, vibrant meal."
 shelf_life: "3-4 Days (Refrigerated)"
 prepTimeMins: 5
 cookTimeMins: 15

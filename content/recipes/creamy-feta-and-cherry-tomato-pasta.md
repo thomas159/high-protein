@@ -19,6 +19,7 @@ keywords: ["feta pasta", "cherry tomato", "italian", "15-minute", "creamy", "veg
 rating: 
 reviews: 
 flavor_profile: "Creamy, Tangy, Fresh"
+servingSuggestions: "This Mediterranean-inspired pasta dish is best served immediately while the feta is warm and creamy. A side of roasted asparagus or steamed green beans adds a lovely crunch and vibrant color to the meal. Pair it with a chilled, crisp white wine, such as a Sauvignon Blanc, and offer extra cracked black pepper and fresh basil at the table."
 prepTimeMins: 0
 cookTimeMins: 15
 servings: 1

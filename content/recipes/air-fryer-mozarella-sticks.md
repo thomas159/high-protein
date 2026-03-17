@@ -22,6 +22,7 @@ dont: "30 minutes in the freezer is the difference between a crispy snack and a 
 rating: 
 reviews: 
 flavor_profile: "Salty, Crispy, Savory"
+servingSuggestions: "These crispy mozzarella sticks demand a robust dipping sauce. A warm, garlicky marinara or a spicy arrabbiata sauce are classic choices that perfectly complement the rich, melted cheese. For a different flavor profile, try serving them with a zesty ranch dip. Arrange them on a platter with celery sticks and cherry tomatoes for a balanced appetizer spread."
 prepTimeMins: 40
 cookTimeMins: 5
 servings: 1

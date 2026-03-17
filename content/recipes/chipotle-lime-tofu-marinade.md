@@ -16,6 +16,7 @@ tips: ""
 rating: 
 reviews: 
 flavor_profile: "Earthy, Spicy, Savory"
+servingSuggestions: "This smoky, zesty tofu is perfect as the star protein in a vibrant Mexican-inspired bowl. Serve it over a bed of cilantro-lime quinoa, alongside black beans, roasted corn, and sliced avocado. It also makes a fantastic filling for soft corn tacos, topped with a fresh tomato salsa, shredded cabbage, and a drizzle of vegan sour cream to balance the chipotle heat."
 shelf_life: "Stored in airtight container in the fridge for 5 days"
 whyTitle: "Why marinate tofu?"
 why: |

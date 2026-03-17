@@ -10,6 +10,7 @@ categories: ["5-minute-meals", "vegan", "high-protein"]
 cuisine: "Japanese"
 keywords: ["miso", "peanut butter", "noodles", "japanese", "vegan", "high-protein", "5-minute"]
 flavor_profile: "Umami, Creamy, Spicy"
+servingSuggestions: "These rich, umami-packed noodles are incredibly satisfying on their own, but pairing them with some crunchy greens elevates the dish. Serve alongside blanched edamame, sugar snap peas, or a refreshing cucumber ribbon salad to cut through the creamy peanut sauce. A wedge of lime squeezed over the top right before eating adds a perfect bright finish."
 shelf_life: "Best eaten fresh; the sauce thickens significantly as it cools."
 whyTitle: "Why this works for your gains"
 why: |

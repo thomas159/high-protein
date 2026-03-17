@@ -10,6 +10,7 @@ categories: ["one-pan-meals", "vegan", "high-protein"]
 flavor_profile: "Earthy, Creamy, Aromatic"
 cuisine: "Indian"
 keywords: ["curry", "chickpea", "spinach", "coconut milk", "one-pan", "indian", "vegan", "high-protein"]
+servingSuggestions: "Serve this comforting, aromatic curry alongside a portion of warm, fluffy quinoa or brown rice to soak up the rich coconut broth. A piece of freshly toasted naan or roti is essential for scooping up the chickpeas. For a cooling contrast, offer a small side of diced cucumber and tomato salad dressed with a squeeze of lemon."
 shelf_life: "Lasts up to 4 days in the fridge. The flavors actually deepen overnight!"
 whyTitle: "Nutrient Spotlight"
 why: |
