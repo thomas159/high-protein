@@ -150,7 +150,7 @@ useHead({
           <p v-for="(variation, index) in recipe.variations" :key="index" class="text-muted-foreground" v-html="formatText(variation)" />
         </div>
 
-        <h2 v-if="recipe.use?.length" id="use" class="mt-12">How to use it</h2>
+        <h2 v-if="recipe.use?.length" id="use" class="mt-12">How to serve</h2>
         <div v-if="recipe.use?.length" class="mt-4 space-y-4">
           <p v-for="(u, index) in recipe.use" :key="index" class="text-muted-foreground" v-html="formatText(u)" />
         </div>
