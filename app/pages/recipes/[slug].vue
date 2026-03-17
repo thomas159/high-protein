@@ -118,9 +118,7 @@ useHead({
 
     <div class="grid grid-cols-1 lg:grid-cols-12 gap-10 mt-8 md:mt-12">
 
-      <RecipesIngredients :recipe="recipe" />
-
-      
+      <RecipesIngredients class="hidden lg:block" :recipe="recipe" />
 
       <div id="#recipe" class="lg:col-span-8 lg:pl-6 relative">
         <!-- <div class="absolute top-0 right-0 flex gap-2">
@@ -162,6 +160,11 @@ useHead({
 
         <h2 v-if="recipe.servingSuggestions" id="why" class="mt-12 whitespace-pre-line">Serving Suggestions and Pairings</h2>
         <p class="whitespace-pre-line text-muted-foreground" v-html="formatText(recipe.servingSuggestions)" />
+
+
+        <div class="lg:hidden mt-12">
+          <RecipesIngredients :recipe="recipe" />
+        </div>
 
         <h2 id="howToMake" class="scroll-mt-24 mt-12">How to make {{ recipe.title }}</h2>
         <div class="markdown-recipe-body mt-6">
