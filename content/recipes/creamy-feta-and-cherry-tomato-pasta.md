@@ -18,6 +18,7 @@ tags:
 keywords: ["feta pasta", "cherry tomato", "italian", "15-minute", "creamy", "vegetarian"]
 rating: 
 reviews: 
+flavor_profile: "Creamy, Tangy, Fresh"
 prepTimeMins: 0
 cookTimeMins: 15
 servings: 1

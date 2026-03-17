@@ -23,6 +23,7 @@ rating:
 reviews: 
 cuisine: "Mediterranean"
 keywords: ["garlic sauce", "dip", "mediterranean", "keto", "quick", "appetizer", "condiment"]
+flavor_profile: "Garlicky, Creamy, Tangy"
 prepTimeMins: 5
 cookTimeMins: 0
 servings: 1

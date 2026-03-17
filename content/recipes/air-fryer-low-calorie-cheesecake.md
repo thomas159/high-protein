@@ -9,6 +9,7 @@ cuisine: "American"
 keywords: ["cheesecake", "air fryer", "low calorie", "keto", "american", "dessert", "high-protein"]
 rating: 
 reviews: 
+flavor_profile: "Sweet, Creamy, Tangy"
 prepTimeMins: 5
 cookTimeMins: 20
 servings: 1

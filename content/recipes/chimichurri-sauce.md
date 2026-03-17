@@ -13,6 +13,7 @@ keywords: ["chimichurri", "sauce", "argentinian", "vegan", "5-minute", "condimen
 tips: This Chimichurri is the perfect companion for Grilled Tofu or a Lentil Bowl. The acidity in the vinegar actually helps your body digest plant-based proteins more efficiently!
 rating: 
 reviews: 
+flavor_profile: "Herby, Tangy, Garlicky"
 prepTimeMins: 0
 cookTimeMins: 5
 servings: 1

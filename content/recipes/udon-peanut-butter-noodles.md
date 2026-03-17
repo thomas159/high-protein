@@ -10,6 +10,7 @@ keywords: ["udon", "peanut butter", "noodles", "thai", "vegan", "tofu", "stir fr
 tags: []
 rating: 
 reviews: 
+flavor_profile: "Nutty, Creamy, Savory"
 prepTimeMins: 5
 cookTimeMins: 10
 servings: 1

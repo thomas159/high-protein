@@ -14,6 +14,7 @@ tags: ["vegan"]
 keywords: ["kimchi", "fried rice", "korean", "vegan", "15-minute", "spicy", "comfort food"]
 rating: 
 reviews: 
+flavor_profile: "Spicy, Smoky, Umami"
 prepTimeMins: 0
 cookTimeMins: 15
 servings: 1

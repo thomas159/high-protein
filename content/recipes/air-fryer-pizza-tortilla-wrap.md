@@ -19,6 +19,7 @@ keywords: ["tortilla pizza", "air fryer", "italian", "quick dinner", "thin-crust
 tags: []
 rating: 
 reviews: 
+flavor_profile: "Cheesy, Crispy, Savory"
 prepTimeMins: 5
 cookTimeMins: 10
 servings: 1

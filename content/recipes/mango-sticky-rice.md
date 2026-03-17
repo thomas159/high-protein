@@ -13,6 +13,7 @@ keywords: ["mango sticky rice", "thai", "dessert", "coconut", "sweet", "sticky r
 tips:
 rating: 
 reviews: 
+flavor_profile: "Sweet, Creamy, Tropical"
 prepTimeMins: 5
 cookTimeMins: 10
 servings: 1

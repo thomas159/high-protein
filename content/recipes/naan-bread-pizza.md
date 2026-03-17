@@ -15,6 +15,7 @@ tags:
 keywords: ["naan pizza", "indian", "fusion", "paneer", "mango chutney", "quick dinner"]
 rating: 
 reviews: 
+flavor_profile: "Sweet, Spicy, Cheesy"
 prepTimeMins: 0
 cookTimeMins: 15
 servings: 1

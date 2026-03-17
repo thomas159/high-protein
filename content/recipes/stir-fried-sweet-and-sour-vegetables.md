@@ -10,6 +10,7 @@ keywords: ["stir fry", "sweet and sour", "vegetables", "thai", "vegan", "healthy
 tags: []
 rating: 
 reviews: 
+flavor_profile: "Sweet, Sour, Tangy"
 prepTimeMins: 15
 cookTimeMins: 15
 servings: 1

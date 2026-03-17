@@ -10,6 +10,7 @@ cuisine: "Moroccan"
 keywords: ["couscous", "moroccan", "vegan", "15-minute", "mediterranean", "healthy side"]
 rating: 
 reviews: 
+flavor_profile: "Fresh, Tangy, Savory"
 prepTimeMins: 5
 cookTimeMins: 5
 servings: 1

@@ -10,6 +10,7 @@ keywords: ["instant noodles", "asian", "vegan", "quick meal", "5-minute", "ramen
 tags: []
 rating: 
 reviews: 
+flavor_profile: "Umami, Salty, Savory"
 prepTimeMins: 0
 cookTimeMins: 5
 servings: 1

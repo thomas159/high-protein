@@ -16,6 +16,7 @@ cuisine: "Czech"
 keywords: ["fried cheese", "smazeny syr", "czech", "air fryer", "keto", "high-protein", "dinner"]
 rating: 
 reviews: 
+flavor_profile: "Cheesy, Crispy, Savory"
 prepTimeMins: 5
 cookTimeMins: 10
 servings: 1

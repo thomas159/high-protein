@@ -13,6 +13,7 @@ keywords: ["banana muffins", "oats", "healthy baking", "american", "dessert", "h
 tips: 'Want to make it Vegan? Swap the egg for a "flax egg" (1 tbsp ground flax + 3 tbsp water) and use a high-protein soy yogurt instead of Greek yogurt. Replace the honey with maple syrup or agave.'
 rating: 
 reviews: 
+flavor_profile: "Sweet, Chocolatey, Fudgy"
 prepTimeMins: 5
 cookTimeMins: 10
 servings: 4

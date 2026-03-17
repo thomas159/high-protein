@@ -15,6 +15,7 @@ cuisine: "Italian"
 keywords: ["risotto", "cherry tomato", "courgette", "zucchini", "microwave", "italian", "vegan", "15-minute"]
 rating: 
 reviews: 
+flavor_profile: "Creamy, Savory, Fresh"
 prepTimeMins: 0
 cookTimeMins: 15
 servings: 1
