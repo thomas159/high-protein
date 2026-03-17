@@ -13,7 +13,7 @@ export default defineContentConfig({
         }).optional(),
         description: z.string().optional(),
         blurb: z.string().optional(),
-        works: z.string().optional(),
+        works: z.array(z.string()).default([]),
         tipsTitle: z.string().optional(),
         tips: z.array(z.string()).default([]),
         use: z.string().optional(),

@@ -7,16 +7,14 @@ meta: {
 description: "This Velvety Thai Satay Sauce is the ultimate multi-tasker for your kitchen. Crafted from a base of rich coconut milk, earthy roasted peanuts, and a hint of red curry heat, it strikes the perfect balance between savory, sweet, and spicy. Whether you're looking for a glossy stir-fry glaze or a thick, indulgent dip for skewers, this 10-minute sauce is a game-changer for authentic Southeast Asian flavor."
 blurb: 
 tipsTitle: "Sauce Mastery"
-tips: 
+tips:
   - "Blooming the Paste: Slowly frying the red curry paste in the thick coconut cream until the red oils separate is the secret to unlocking a deep, restaurant-quality aroma."
   - "Tamarind Timing: Always stir in the tamarind paste and sugar completely off the heat. Boiling them can cause the sugar to seize and the delicate sour notes to turn bitter."
   - "Consistency Fix: If your sauce becomes too thick or clumpy as it cools down, simply whisk in a tablespoon of warm water or coconut milk to restore its glossy flow."
-works: |
-  The Tamarind Factor: Most "quick" recipes just use lime, but tamarind adds a fermented depth that is the hallmark of real Thai street food.
-
-  Textural Contrast: Using crushed peanuts instead of smooth butter gives the sauce a rustic, premium feel that clings better to skewers or noodles.
-
-  Speed vs. Flavor: Because we "bloom" the curry paste in the milk, you get hours of slow-cooked flavor in less than 10 minutes.
+works:
+  - "The Tamarind Factor: Most \"quick\" recipes just use lime, but tamarind adds a fermented depth that is the hallmark of real Thai street food."
+  - "Textural Contrast: Using crushed peanuts instead of smooth butter gives the sauce a rustic, premium feel that clings better to skewers or noodles."
+  - "Speed vs. Flavor: Because we \"bloom\" the curry paste in the milk, you get hours of slow-cooked flavor in less than 10 minutes."
 flavour: |
   The Base: Creamy coconut milk provides a luscious, silky mouthfeel.
 
