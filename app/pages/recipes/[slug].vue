@@ -130,11 +130,6 @@ useHead({
           <p v-for="(blurb, index) in recipe.blurb" :key="index" class="text-muted-foreground" v-html="formatText(blurb)" />
         </div>
 
-        <h2 v-if="recipe.tips?.length" id="tips" class="mt-12">{{ recipe.tipsTitle || 'Tips' }}</h2>
-        <div v-if="recipe.tips?.length" class="mt-4 space-y-4">
-          <p v-for="(tip, index) in recipe.tips" :key="index" class="text-muted-foreground" v-html="formatText(tip)" />
-        </div>
-
         <h2 v-if="recipe.works?.length" id="works" class="mt-12">Why this recipe works</h2>
         <div v-if="recipe.works?.length" class="mt-4 space-y-4">
           <p v-for="(work, index) in recipe.works" :key="index" class="text-muted-foreground" v-html="formatText(work)" />
@@ -158,6 +153,11 @@ useHead({
         <h2 v-if="recipe.whyTitle && recipe.why?.length" id="why" class="mt-12">{{ recipe.whyTitle }}</h2>
         <div v-if="recipe.why?.length" class="mt-4 space-y-4">
           <p v-for="(reason, index) in recipe.why" :key="index" class="text-muted-foreground" v-html="formatText(reason)" />
+        </div>
+
+        <h2 v-if="recipe.tips?.length" id="tips" class="mt-12">{{ recipe.tipsTitle || 'Tips' }}</h2>
+        <div v-if="recipe.tips?.length" class="mt-4 space-y-4">
+          <p v-for="(tip, index) in recipe.tips" :key="index" class="text-muted-foreground" v-html="formatText(tip)" />
         </div>
 
         <h2 v-if="recipe.muscleBuildingTip" id="#muscleBuildingTip" class="mt-12">Muscle building tips</h2>
