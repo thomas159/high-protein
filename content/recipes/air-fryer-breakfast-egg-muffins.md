@@ -29,7 +29,8 @@ flavour:
   - "The Tang: Salty, creamy, and sharp crumbled feta cheese."
   - "The Sweetness: Chewy, concentrated sun-dried tomatoes."
 whyTitle: "Why This Combination Works"
-why: "This dish hits every taste bud: the salty, sharp feta cuts through the richness of the fluffy baked eggs, while the sun-dried tomatoes add a concentrated pop of sweetness that balances the savory base."
+why: 
+- "This dish hits every taste bud: the salty, sharp feta cuts through the richness of the fluffy baked eggs, while the sun-dried tomatoes add a concentrated pop of sweetness that balances the savory base."
 variations:
   - "Spicy Kick: Add a pinch of chili flakes or a dash of your favorite hot sauce to the beaten egg before cooking."
   - "Cheesy Swap: Use sharp cheddar, gooey mozzarella, or tangy goat cheese instead of feta."
