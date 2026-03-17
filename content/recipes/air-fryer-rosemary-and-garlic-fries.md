@@ -16,6 +16,10 @@ tips:
 works:
   - "Herb Infusion: The high heat of the air fryer releases the essential oils trapped within the rosemary needles, infusing the entire batch with deep, earthy aromatics."
   - "Starch Evaporation: The intense, circulating heat strips the potatoes of their surface moisture, delivering a satisfying crunch without requiring a deep-fat fryer."
+flavour:
+  - "The Base: Fluffy on the inside, crispy on the outside savory potatoes."
+  - "The Aromatics: Piney, woody, and fragrant toasted rosemary."
+  - "The Kick: Deep, pungent, and savory garlic granules."
 tags: ["Vegan", "Gluten-Free", "Healthy"]
 cuisine: "American"
 keywords: ["fries", "air fryer", "rosemary", "garlic", "american", "vegan", "gluten-free", "snack"]

@@ -25,6 +25,10 @@ tips:
 works:
   - "The Double Shield: The dual layer of flour, egg, and breadcrumbs acts as structural armor, preventing the cheese from liquefying and making a mess."
   - "Rapid Air Frying: The extremely hot, circulating air toasts the exterior breadcrumbs in a fraction of the time a conventional oven would, delivering that deep-fried snap without the oil bath."
+flavour:
+  - "The Base: Mild, salty, and incredibly gooey melted Edam cheese."
+  - "The Crust: Toasted, nutty, and savory golden breadcrumbs."
+  - "The Finish: A deeply comforting, rich, and fulfilling bite."
 flavor_profile: "Cheesy, Crispy, Savory"
 servingSuggestions: "For a traditional Czech experience, serve this golden fried cheese with a generous side of crispy fries and a tangy homemade tartar sauce for dipping. A simple side salad of mixed greens dressed with a sharp vinaigrette helps to cut through the richness of the melted cheese. A cold, crisp pilsner-style beer is the classic beverage pairing for this comforting dish."
 storageInstructions: "Uncooked, breaded cheese can be frozen for up to 2 months. Cook directly from frozen, adding an extra 2-3 minutes to the cooking time. Cooked cheese is best eaten fresh."

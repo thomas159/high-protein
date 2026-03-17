@@ -15,6 +15,10 @@ works:
   - "Calorie Conscious: By using a tortilla instead of dough, you save roughly 200–300 calories per serving."
   - "Bursting with Flavor: Pesto provides all the seasoning you need—garlic, nuts, cheese, and herbs—in one single ingredient."
   - "Perfect Texture: The high heat of the oven turns the thin tortilla into a delicate, snap-crisp base."
+flavour:
+  - "The Base: Herbal, garlicky, and nutty green pesto."
+  - "The Richness: Salty, bubbling, and savory melted mozzarella."
+  - "The Crunch: A delicate, cracker-thin toasted tortilla crust."
 image: "air-fryer-pizza-tortilla-wrap_ko6ckn"
 pintrest: ""
 categories: ["air-fryer", "dinner", "15-minute-meals"]

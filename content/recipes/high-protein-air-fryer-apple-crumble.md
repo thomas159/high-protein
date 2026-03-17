@@ -19,6 +19,10 @@ tips:
 works:
   - "Textural Contrast: The moisture of the steaming apples underneath keeps the base soft, while the direct heat of the air fryer blasts the top layer into a crunchy, golden shell."
   - "Protein Power: Replacing standard flour with protein powder boosts the macro profile incredibly well, acting as a functional binder that doesn't compromise the dessert's integrity."
+flavour:
+  - "The Base: Warm, soft, and naturally sweet cinnamon-spiced apples."
+  - "The Topping: Buttery, toasted, and nutty oat clusters."
+  - "The Richness: A subtle vanilla or caramel note from the protein powder."
 rating: 
 reviews: 
 flavor_profile: "Sweet, Cinnamon, Crunchy"

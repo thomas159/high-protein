@@ -19,6 +19,10 @@ tips:
 works:
   - "Rapid Reduction: The sugar in the sauce caramelizes the moment it hits the hot pan, rapidly transforming a thin liquid into a glossy, sticky coating."
   - "Textural Contrast: The shatter-crisp exterior of the pan-fried tofu provides the perfect structural balance to the heavy, savory-sweet Gochujang glaze."
+flavour:
+  - "The Base: A thick, sticky, and intensely savory soy-ketchup glaze."
+  - "The Heat: Deep, fermented sweetness and spice from Gochujang."
+  - "The Aromatics: Toasted sesame and fresh green onion."
 servingSuggestions: "This fiery, sticky tofu is perfectly balanced when served over a bowl of plain, short-grain white rice, which helps mellow the intense flavors of the Gochujang glaze. Accompany it with a side of quick-pickled cucumbers or a simple sesame spinach salad for a refreshing contrast. Wrap the tofu in crisp lettuce leaves for a fun, interactive meal."
 shelf_life: "Best eaten immediately to maintain the tofu's crispness."
 whyTitle: "Why it's a Muscle Builder"

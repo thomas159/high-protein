@@ -17,6 +17,10 @@ tips:
 works:
   - "Acid and Fat Synergy: The sharp acidity of the white wine and tomatoes cuts beautifully through the heavy cream and salty feta, creating a perfectly balanced bite."
   - "Starch Binding: Reserving and adding the starchy pasta water ensures the dairy emulsifies completely into a smooth sauce that clings to every noodle."
+flavour:
+  - "The Base: Intensely sharp, salty, and tangy melted feta cheese."
+  - "The Brightness: Sweet, acidic, and jammy blistered cherry tomatoes."
+  - "The Richness: Velvety cream and a hint of crisp white wine."
 cuisine: "Italian"
 tags: 
 keywords: ["feta pasta", "cherry tomato", "italian", "15-minute", "creamy", "vegetarian"]

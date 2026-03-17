@@ -19,6 +19,10 @@ tips:
 works:
   - "Fermented Power: The Gochujang paste acts as an immediate flavor foundation, providing depth that usually takes hours of slow braising to achieve."
   - "The Emulsion: Whisking the thick chili paste with sesame oil and vinegar creates a heavy, emulsified marinade that clings to the tofu instead of running off in the pan."
+flavour:
+  - "The Base: Deep, fermented, and intensely savory Gochujang."
+  - "The Sweetness: A sticky, caramelized sugary finish."
+  - "The Aromatics: Nutty sesame oil, sharp garlic, and fresh ginger."
 rating: 
 reviews: 
 flavor_profile: "Spicy, Sweet, Umami"

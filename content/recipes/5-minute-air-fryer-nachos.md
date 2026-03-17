@@ -16,6 +16,10 @@ tips:
 works:
   - "Dry Heat Melting: Unlike microwaves which steam the chips into a soggy mess, the air fryer uses dry circulating heat to toast the chips while melting the cheese."
   - "Rapid Thermodynamics: The small cooking chamber reaches peak heat in seconds, shaving off the 10-15 minute preheat time associated with conventional ovens."
+flavour:
+  - "The Base: Toasted, crunchy, and salty corn tortilla chips."
+  - "The Richness: A thick blanket of savory melted cheddar."
+  - "The Freshness: Bright tomatoes, sharp onions, and zesty lime."
 tags: []
 cuisine: "Mexican"
 keywords: ["nachos", "air fryer", "mexican", "cheese", "snack", "5-minute", "quick"]

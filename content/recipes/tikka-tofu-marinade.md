@@ -19,6 +19,10 @@ tips:
 works:
   - "Lactic Tenderizing: The acidity in the Greek yogurt helps to slightly soften the dense soy structure, allowing the robust Indian spices to sink in deeper."
   - "Tandoori Char: The thick yogurt base acts as a protective shield under high heat, allowing it to bubble and char (imitating a Tandoor oven) without burning the tofu underneath."
+flavour:
+  - "The Base: Tangy, thick, and cooling Greek yogurt."
+  - "The Spices: Earthy turmeric, coriander, and warming garam masala."
+  - "The Aromatics: Pungent garlic, ginger, and bright lemon juice."
 rating: 
 reviews:
 flavor_profile: "Earthy, Spicy, Savory"

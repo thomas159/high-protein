@@ -19,6 +19,10 @@ tips:
 works:
   - "The Pre-baked Canvas: Using pre-cooked naan bread sidesteps the nightmare of dough hydration, guaranteeing a sturdy base that holds up to heavy toppings."
   - "Flavor Layering: The concentrated sweetness of the mango chutney acts perfectly in place of pizza sauce, providing an instant complexity that complements the mild paneer."
+flavour:
+  - "The Base: Sweet, syrupy, and tangy Indian mango chutney."
+  - "The Richness: Mild, milky, and golden-charred paneer cheese."
+  - "The Finish: Fresh, herbal coriander and sweet sautéed onions."
 cuisine: "Indian"
 tags: 
 keywords: ["naan pizza", "indian", "fusion", "paneer", "mango chutney", "quick dinner"]
