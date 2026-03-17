@@ -10,7 +10,8 @@ pintrest: ""
 categories: ["vegan", "snacks"]
 cuisine: "American"
 keywords: ["sweet potato fries", "thick cut", "vegan", "american", "snack", "air fryer"]
-tips: 
+tipsTitle: ""
+tips: []
 tags: []
 rating: 
 reviews: 

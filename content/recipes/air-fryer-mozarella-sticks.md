@@ -8,8 +8,9 @@ description: "Skip the store-bought bag and make these crispy, golden mozzarella
 image: "air-fryer-mozarella-sticks_oiud1f"
 pintrest: ""
 categories: ["air-fryer", "45-minute-meals", "snacks", "trending"]
-tips: |
-  Zing Tip: Serve these with a side of marinara sauce and a squeeze of fresh lime juice over the sticks right before eating to cut through the richness of the mozzarella.
+tipsTitle: "Chef's Tip"
+tips:
+  - "Zing Tip: Serve these with a side of marinara sauce and a squeeze of fresh lime juice over the sticks right before eating to cut through the richness of the mozzarella."
 cuisine: "American"
 tags: []
 keywords: ["mozzarella sticks", "air fryer", "cheese", "snack", "crispy", "american", "appetizer"]

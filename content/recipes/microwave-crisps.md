@@ -8,8 +8,9 @@ description: "Experience the satisfying crunch of homemade crisps without the de
 image: "microwave-crisps_loaj1f"
 pintrest: ""
 categories: ["vegan", "snacks", "15-minute-meals"]
-tips: |
-  Zing Tip: For "Salt & Vinegar" style chips, soak the slices in white vinegar for 10 minutes instead of water, then finish with a squeeze of lime juice right before serving.
+tipsTitle: "Flavor Variation"
+tips:
+  - "Zing Tip: For \"Salt & Vinegar\" style chips, soak the slices in white vinegar for 10 minutes instead of water, then finish with a squeeze of lime juice right before serving."
 cuisine: "American"
 tags: []
 keywords: ["microwave crisps", "potato chips", "american", "vegan", "snack", "healthy", "oil-free"]

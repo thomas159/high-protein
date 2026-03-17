@@ -6,7 +6,8 @@ meta: {
 }
 description: "This Velvety Thai Satay Sauce is the ultimate multi-tasker for your kitchen. Crafted from a base of rich coconut milk, earthy roasted peanuts, and a hint of red curry heat, it strikes the perfect balance between savory, sweet, and spicy. Whether you're looking for a glossy stir-fry glaze or a thick, indulgent dip for skewers, this 10-minute sauce is a game-changer for authentic Southeast Asian flavor."
 blurb: 
-tips: 
+tipsTitle: ""
+tips: []
 works: |
   The Tamarind Factor: Most "quick" recipes just use lime, but tamarind adds a fermented depth that is the hallmark of real Thai street food.
 

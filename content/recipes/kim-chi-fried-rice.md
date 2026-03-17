@@ -8,10 +8,10 @@ description: "Kimchi Fried Rice (Kimchi-bokkeumbap) is the ultimate Korean comfo
 blurb: "Whether you're looking for a 15-minute weeknight savior or a cure for a late-night craving, this dish delivers an addictive umami punch that hits every single taste bud."
 image: "kim-chi-fried-rice_a4xo6n"
 categories: ["dinner", "vegan", "15-minute-meals"]
-tips: |
-  Kimchi Juice: For an extra punch, add 2 tablespoons of the liquid from the kimchi jar during Step 3.
-
-  Add tofu: Add 200g of tofu to increase the amount of protein.
+tipsTitle: "Cooking Tips"
+tips:
+  - "Kimchi Juice: For an extra punch, add 2 tablespoons of the liquid from the kimchi jar during Step 3."
+  - "Add tofu: Add 200g of tofu to increase the amount of protein."
 cuisine: "Korean"
 tags: ["vegan"]
 keywords: ["kimchi", "fried rice", "korean", "vegan", "15-minute", "spicy", "comfort food"]

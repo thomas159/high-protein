@@ -8,7 +8,8 @@ description: "Experience the ultimate fusion snack with these cheesy, crunchy Ki
 image: "air-fryer-kim-chi-fries_u7kuzj"
 pintrest: ""
 categories: ["air-fryer", "30-minute-meals", "snacks"]
-tips: 
+tipsTitle: ""
+tips: []
 tags: ["Gluten-Free", "Healthy"]
 cuisine: "Korean"
 keywords: ["kimchi fries", "air fryer", "korean", "fusion", "cheese", "spicy", "snack"]

@@ -6,8 +6,9 @@ meta: {
 }
 description: 'The 15-Minute Tortilla "Thin-Crust" Pizza is the ultimate hack for pizza lovers seeking a lighter, crispier alternative to heavy dough. By using a flour tortilla as the base, you cut down on carbs and calories without sacrificing that essential cheesy, bubbly satisfaction. It’s the perfect "blank canvas" for a quick weeknight dinner or a post-workout snack that feels like a cheat meal.'
 blurb:
-tips: |
-  Change the flavour: Try adding tomato passata instead of pesto. Pesto is packed with garlic and herbs. To get that same punch with tomato sauce, sprinkle a pinch of dried oregano, garlic powder, and a tiny dash of salt directly onto the sauce before adding the cheese"
+tipsTitle: "Pro Tip"
+tips: 
+  - "Change the flavour: Try adding tomato passata instead of pesto. Pesto is packed with garlic and herbs. To get that same punch with tomato sauce, sprinkle a pinch of dried oregano, garlic powder, and a tiny dash of salt directly onto the sauce before adding the cheese."
 works: |
   Calorie Conscious: By using a tortilla instead of dough, you save roughly 200–300 calories per serving.
 

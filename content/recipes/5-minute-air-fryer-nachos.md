@@ -8,8 +8,9 @@ description: "Satisfy your cravings in just 5 minutes with these ultra-crispy, c
 image: "5-minute-air-fryer-nachos_gf3zzd"
 pintrest: ""
 categories: ["air-fryer", "5-minute-meals", "snacks"]
-tips: |
-  Grate your own cheese: Grate your own cheese from a block—it melts much smoother than the pre-shredded kind!
+tipsTitle: "Pro Tip"
+tips:
+  - "Grate your own cheese: Grate your own cheese from a block—it melts much smoother than the pre-shredded kind!"
 tags: []
 cuisine: "Mexican"
 keywords: ["nachos", "air fryer", "mexican", "cheese", "snack", "5-minute", "quick"]

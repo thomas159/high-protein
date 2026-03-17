@@ -16,12 +16,10 @@ blurb: |
 image: "garlic-sauce_dz8yhf"
 categories: ["sauces", "15-minute-meals"]
 tags: ["Keto"]
-tips: | 
-  You can also try adding:
-
-  Lemon Juice: A small squeeze cuts through the richness.
-
-  Dried Herbs: A pinch of dill or parsley works wonders.
+tipsTitle: "Variations to Try"
+tips: 
+  - "Lemon Juice: A small squeeze cuts through the richness."
+  - "Dried Herbs: A pinch of dill or parsley works wonders."
 rating: 
 reviews: 
 cuisine: "Mediterranean"

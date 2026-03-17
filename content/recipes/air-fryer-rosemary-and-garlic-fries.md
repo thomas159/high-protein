@@ -8,7 +8,8 @@ description: "Upgrade your side dish with these fragrant, herb-infused fries. By
 image: "air-fryer-rosemary-garlic-fries_ab8wu4"
 pintrest: ""
 categories: ["air-fryer", "30-minute-meals", "snacks"]
-tips: 
+tipsTitle: ""
+tips: []
 tags: ["Vegan", "Gluten-Free", "Healthy"]
 cuisine: "American"
 keywords: ["fries", "air fryer", "rosemary", "garlic", "american", "vegan", "gluten-free", "snack"]

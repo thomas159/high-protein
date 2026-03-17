@@ -9,7 +9,8 @@ image: "air-fryer-sour-cream-fries_k2lvbn"
 pintrest: ""
 categories: ["air-fryer", "30-minute-meals", "snacks"]
 cuisine: "American"
-tips: 
+tipsTitle: ""
+tips: []
 tags: []
 keywords: ["sour cream", "fries", "air fryer", "american", "snack", "garlic", "crispy"]
 whyTitle: "Why use an air fryer?"

@@ -11,7 +11,8 @@ categories: ["high-protein", "5-minute-meals", "snacks"]
 cuisine: "American"
 tags: []
 keywords: ["protein balls", "no-bake", "snack", "high-protein", "american", "meal prep"]
-tips: ""
+tipsTitle: ""
+tips: []
 rating: 
 reviews:
 flavor_profile: "Sweet, Nutty, Creamy"

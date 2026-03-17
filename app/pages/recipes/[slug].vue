@@ -138,8 +138,10 @@ useHead({
             </button>
           </div> -->
 
-        <h2 v-if="recipe.tips" id="tips" class="mt-12 whitespace-pre-line">Tips</h2>
-        <p class="whitespace-pre-line text-muted-foreground" v-html="formatText(recipe.tips)" />
+        <h2 v-if="recipe.tips?.length" id="tips" class="mt-12 whitespace-pre-line">{{ recipe.tipsTitle || 'Tips' }}</h2>
+        <div v-if="recipe.tips?.length" class="mt-4 space-y-4">
+          <p v-for="(tip, index) in recipe.tips" :key="index" class="text-muted-foreground" v-html="formatText(tip)" />
+        </div>
 
         <h2 v-if="recipe.works" id="works" class="mt-12 whitespace-pre-line">Why this recipe works</h2>
         <p class="whitespace-pre-line text-muted-foreground" v-html="formatText(recipe.works)" />

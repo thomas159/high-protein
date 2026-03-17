@@ -11,7 +11,9 @@ categories: ["dinner", "15-minute-meals", "marinade"]
 tags: []
 cuisine: "Indian"
 keywords: ["tofu marinade", "tikka", "indian", "vegetarian", "high-protein", "air-fryer", "grilled"]
-tips: "If you don't have garlic ginger paste it can be substitued with 1 clove of garlic and an equal amount of ginger"
+tipsTitle: "Ingredient Swap"
+tips: 
+  - "If you don't have garlic ginger paste it can be substituted with 1 clove of garlic and an equal amount of ginger."
 rating: 
 reviews:
 flavor_profile: "Earthy, Spicy, Savory"

@@ -11,7 +11,8 @@ categories: ["high-protein", "air-fryer", "vegan", "keto", "dinner", "breakfast"
 tags: []
 cuisine: "British"
 keywords: ["apple crumble", "air fryer", "high-protein", "dessert", "british", "vegan", "keto"]
-tips: ""
+tipsTitle: ""
+tips: []
 rating: 
 reviews: 
 flavor_profile: "Sweet, Cinnamon, Crunchy"

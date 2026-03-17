@@ -18,10 +18,10 @@ why:
   - "Plant-Based Iron: The combination of spinach and chickpeas provides a significant iron boost, which is essential for energy during workouts."
   - "Healthy Fats: Coconut milk provides MCTs (medium-chain triglycerides) for a quick energy source."
   - "Anti-Inflammatory: Turmeric and ginger help reduce muscle soreness after a heavy lifting session."
-tips: |
-  The 10-Minute Shortcut: Use a high-quality pre-made curry paste (like Tikka or Korma) instead of the individual spices if you're really short on time.
-
-  Frozen over Fresh: Use frozen spinach pellets. They're cheaper, last longer, and you can toss them straight from the freezer into the pan.
+tipsTitle: "Time-saving Tips"
+tips:
+  - "The 10-Minute Shortcut: Use a high-quality pre-made curry paste (like Tikka or Korma) instead of the individual spices if you're really short on time."
+  - "Frozen over Fresh: Use frozen spinach pellets. They're cheaper, last longer, and you can toss them straight from the freezer into the pan."
 prepTimeMins: 5
 cookTimeMins: 20
 servings: 1
