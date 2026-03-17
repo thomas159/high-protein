@@ -38,6 +38,7 @@ reviews:
 flavor_profile: "Spicy, Tangy, Nutty"
 servingSuggestions: "This rich satay sauce is a classic pairing for grilled tempeh or tofu skewers, but its uses go far beyond that. Serve it as a decadent dipping sauce for fresh summer rolls packed with herbs and vermicelli. Alternatively, toss it with a cold noodle salad, shredded cabbage, and carrots for a refreshing, flavor-packed summer dish."
 shelf_life: "Stored in airtight container in the fridge for 5 days"
+storageInstructions: "Store in an airtight container in the fridge for up to 5 days. It can be frozen for up to 3 months; thaw in the fridge and whisk well, adding a splash of water if it becomes too thick."
 prepTimeMins: 5
 cookTimeMins: 5
 servings: 1

@@ -19,6 +19,7 @@ rating:
 reviews: 
 flavor_profile: "Spicy, Smoky, Umami"
 servingSuggestions: "A crowning fried egg is essential for kimchi fried rice, as the rich yolk mixes beautifully with the spicy, tangy grains. Serve it with a side of crispy seaweed snacks (gim) to scoop up the rice. A light, clear broth like a simple miso or vegetable soup served alongside helps cleanse the palate between fiery, umami-packed bites."
+storageInstructions: "Store leftovers in an airtight container in the fridge for up to 4 days. This dish freezes beautifully for up to 2 months. Reheat in the microwave or pan straight from frozen."
 prepTimeMins: 0
 cookTimeMins: 15
 servings: 1

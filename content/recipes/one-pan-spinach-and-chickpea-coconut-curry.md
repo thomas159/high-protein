@@ -12,6 +12,7 @@ cuisine: "Indian"
 keywords: ["curry", "chickpea", "spinach", "coconut milk", "one-pan", "indian", "vegan", "high-protein"]
 servingSuggestions: "Serve this comforting, aromatic curry alongside a portion of warm, fluffy quinoa or brown rice to soak up the rich coconut broth. A piece of freshly toasted naan or roti is essential for scooping up the chickpeas. For a cooling contrast, offer a small side of diced cucumber and tomato salad dressed with a squeeze of lemon."
 shelf_life: "Lasts up to 4 days in the fridge. The flavors actually deepen overnight!"
+storageInstructions: "Store in the fridge for up to 4 days (the flavors deepen!). Freezes excellently for up to 3 months. Thaw overnight and reheat gently on the stove."
 whyTitle: "Nutrient Spotlight"
 why:
   - "Plant-Based Iron: The combination of spinach and chickpeas provides a significant iron boost, which is essential for energy during workouts."

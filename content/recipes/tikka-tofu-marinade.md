@@ -17,6 +17,7 @@ reviews:
 flavor_profile: "Earthy, Spicy, Savory"
 servingSuggestions: "This vibrantly spiced tikka tofu is fantastic when served on a platter with sliced red onions, fresh lemon wedges, and a cooling mint chutney. Skewer the tofu cubes with chunks of bell pepper and red onion before cooking for a classic presentation. It also serves as a fantastic, high-protein filling for a warm pita wrap along with shredded lettuce and yogurt sauce."
 shelf_life: "Stored in airtight container in the fridge for 5 days" 
+storageInstructions: "Store uncooked in the fridge for up to 5 days. Freezes perfectly for up to 3 months. Let it thaw overnight in the fridge before cooking."
 whyTitle: "Why marinate tofu?"
 why:
   - "Deeper Flavor: Allowing the tofu to sit in the spices helps the aromatics penetrate the soy protein, moving the flavor beyond just the surface."

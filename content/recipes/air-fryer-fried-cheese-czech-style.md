@@ -21,6 +21,7 @@ rating:
 reviews: 
 flavor_profile: "Cheesy, Crispy, Savory"
 servingSuggestions: "For a traditional Czech experience, serve this golden fried cheese with a generous side of crispy fries and a tangy homemade tartar sauce for dipping. A simple side salad of mixed greens dressed with a sharp vinaigrette helps to cut through the richness of the melted cheese. A cold, crisp pilsner-style beer is the classic beverage pairing for this comforting dish."
+storageInstructions: "Uncooked, breaded cheese can be frozen for up to 2 months. Cook directly from frozen, adding an extra 2-3 minutes to the cooking time. Cooked cheese is best eaten fresh."
 prepTimeMins: 5
 cookTimeMins: 10
 servings: 1

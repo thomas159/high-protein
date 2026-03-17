@@ -17,6 +17,7 @@ rating:
 reviews: 
 flavor_profile: "Salty, Crispy, Savory"
 servingSuggestions: "These surprisingly crunchy microwave crisps are the perfect guilt-free snack to enjoy with your favorite dips. Serve them alongside a creamy French onion dip, a tangy salsa, or a rich guacamole. They also make a fantastic, crunchy side to your favorite lunchtime sandwich or wrap, offering all the satisfaction of potato chips without the heavy oils."
+storageInstructions: "Best eaten immediately. Leftovers can be stored in an airtight container at room temperature for 1-2 days, but they may lose some crunch. Do not refrigerate or freeze."
 prepTimeMins: 5
 cookTimeMins: 10
 servings: 1

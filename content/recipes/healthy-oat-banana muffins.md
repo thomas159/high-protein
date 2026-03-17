@@ -18,6 +18,7 @@ rating:
 reviews: 
 flavor_profile: "Sweet, Chocolatey, Fudgy"
 servingSuggestions: "These protein-packed muffins are fantastic on their own, but pairing them with a hot cup of black coffee or herbal tea makes for a perfect morning ritual. For a more indulgent snack, split a warm muffin in half and spread a thin layer of almond butter or peanut butter on top. They also go wonderfully with a side of fresh banana slices or a dollop of Greek yogurt."
+storageInstructions: "Store in an airtight container at room temperature for 2 days or in the fridge for up to 5 days. Freeze individually wrapped muffins for up to 3 months. Thaw at room temperature."
 prepTimeMins: 5
 cookTimeMins: 10
 servings: 4

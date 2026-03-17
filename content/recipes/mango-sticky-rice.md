@@ -18,6 +18,7 @@ rating:
 reviews: 
 flavor_profile: "Sweet, Creamy, Tropical"
 servingSuggestions: "For an authentic Thai dessert experience, serve this mango sticky rice slightly warm, allowing the coconut cream sauce to gently pool around the fresh mango. Sprinkle a pinch of toasted mung beans or sesame seeds on top for a delightful textural crunch. Pair this sweet treat with a cup of hot jasmine tea or a refreshing iced lemongrass tea."
+storageInstructions: "Best eaten fresh. Store leftover sticky rice in the fridge for up to 2 days, but it will harden; reheat gently in the microwave with a damp paper towel. Do not freeze the fresh mango."
 prepTimeMins: 5
 cookTimeMins: 10
 servings: 1

@@ -28,6 +28,7 @@ cuisine: "Mediterranean"
 keywords: ["garlic sauce", "dip", "mediterranean", "keto", "quick", "appetizer", "condiment"]
 flavor_profile: "Garlicky, Creamy, Tangy"
 servingSuggestions: "This versatile garlic sauce pairs beautifully with a wide array of dishes. It's the ultimate dip for fresh vegetable crudités like carrot sticks, cucumber, and bell peppers. For a heartier option, serve it alongside warm pita bread or as a zesty spread in wraps and shawarmas. It also makes a fantastic accompaniment to grilled plant-based meats or as a cooling contrast to spicy dishes."
+storageInstructions: "Store in an airtight container in the fridge for up to 4 days. Not recommended for freezing, as the yogurt and mayonnaise will separate and change texture upon thawing."
 prepTimeMins: 5
 cookTimeMins: 0
 servings: 1

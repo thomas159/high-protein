@@ -15,6 +15,7 @@ rating:
 reviews: 
 flavor_profile: "Nutty, Creamy, Savory"
 servingSuggestions: "These thick, chewy udon noodles in rich peanut sauce are best enjoyed with a side of lightly charred Asian greens, such as gai lan (Chinese broccoli) or snap peas. For an extra protein boost, top the bowl with a softly boiled egg or some crispy roasted chickpeas. A side of pickled ginger or radishes offers a sharp, tangy contrast to the creamy sauce."
+storageInstructions: "Store leftovers in an airtight container in the fridge for up to 3 days. Freezing is not recommended as the udon noodles will become mushy upon thawing."
 prepTimeMins: 5
 cookTimeMins: 10
 servings: 1

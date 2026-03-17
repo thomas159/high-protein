@@ -14,6 +14,7 @@ rating:
 reviews: 
 flavor_profile: "Sweet, Creamy, Tangy"
 servingSuggestions: "Serving your cheesecake with the right accompaniments can elevate the dessert experience. Fresh fruit is a classic pairing that adds a burst of flavor and a touch of natural sweetness. Consider topping your cheesecake with a mix of berries, such as strawberries, blueberries, and raspberries. The tartness of the berries complements the creamy richness of the cheesecake perfectly."
+storageInstructions: "Store in the fridge, covered, for up to 4 days. You can freeze the cheesecake whole or in slices for up to 2 months. Thaw overnight in the fridge before eating."
 prepTimeMins: 5
 cookTimeMins: 20
 servings: 1

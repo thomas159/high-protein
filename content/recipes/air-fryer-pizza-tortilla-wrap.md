@@ -24,6 +24,7 @@ rating:
 reviews: 
 flavor_profile: "Cheesy, Crispy, Savory"
 servingSuggestions: "This light, crispy tortilla pizza pairs wonderfully with a fresh side salad of peppery rocket, shaved parmesan, and a balsamic glaze to mimic a classic Italian pizzeria experience. If you like a bit of heat, serve it with a side of crushed red pepper flakes or chili-infused olive oil for drizzling. It's best enjoyed hot and sliced into easily manageable wedges."
+storageInstructions: "Best eaten fresh for a crispy base. You can assemble the pizza and freeze it flat before cooking for up to a month, but do not freeze after it has been cooked."
 prepTimeMins: 5
 cookTimeMins: 10
 servings: 1

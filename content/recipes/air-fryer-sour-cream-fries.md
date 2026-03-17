@@ -20,6 +20,7 @@ rating:
 reviews: 
 flavor_profile: "Salty, Crispy, Savory"
 servingSuggestions: "These tangy, crispy fries are a crowd-pleaser and are best served piping hot. For an extra layer of flavor, top them with crispy facon (vegan bacon) bits or a handful of fresh chives just before serving. They pair wonderfully with casual, pub-style mains like crispy battered banana blossom or a hearty, stacked veggie club sandwich."
+storageInstructions: "Best enjoyed fresh. Leftover fries (without sauce) can be stored in the fridge for 3 days and reheated in the air fryer. The sour cream sauce should be stored separately in the fridge for up to 4 days."
 prepTimeMins: 5
 cookTimeMins: 25
 servings: 1

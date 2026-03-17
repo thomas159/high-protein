@@ -17,6 +17,7 @@ reviews:
 flavor_profile: "Spicy, Sweet, Umami"
 servingSuggestions: "To balance the bold, fermented heat of this Gochujang tofu, serve it alongside mild, comforting sides like a fluffy steamed egg or a gentle miso soup. It is brilliant when wrapped in fresh perilla leaves or crisp butter lettuce along with a smear of ssamjang and a sliver of raw garlic for a traditional Korean BBQ-style bite."
 shelf_life: "Stored in airtight container in the fridge for 5 days"
+storageInstructions: "Store the uncooked marinated tofu in the fridge for up to 5 days. It freezes exceptionally well for up to 3 months; the freezing process makes the tofu firmer and meatier upon thawing."
 whyTitle: "Why marinate tofu?"
 why:
   - "Fermented Depth: Unlike standard hot sauce, Gochujang is fermented, providing a savory \"Umami\" backbone that makes the tofu taste meatier."

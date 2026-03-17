@@ -17,6 +17,7 @@ reviews:
 flavor_profile: "Sweet, Cinnamon, Crunchy"
 servingSuggestions: "This warm, comforting apple crumble is elevated when served with a dollop of cold, high-protein vanilla Greek yogurt or a scoop of low-calorie vanilla ice cream, providing a beautiful hot-and-cold contrast. A light dusting of extra cinnamon on top and a cup of warm chamomile tea makes this the ultimate healthy evening treat."
 shelf_life: "Best eaten immediately while warm."
+storageInstructions: "Store leftovers in the fridge for up to 3 days. Reheat in the air fryer or microwave. The uncooked crumble topping can be mixed and frozen in a bag for up to 3 months."
 whyTitle: "Why the Air Fryer?"
 why:
   - "Instant Heat: No need to preheat a giant oven for one small ramekin; the air fryer reaches temp in seconds."

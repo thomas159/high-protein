@@ -24,6 +24,7 @@ rating:
 reviews: 
 flavor_profile: "Salty, Crispy, Savory"
 servingSuggestions: "These crispy mozzarella sticks demand a robust dipping sauce. A warm, garlicky marinara or a spicy arrabbiata sauce are classic choices that perfectly complement the rich, melted cheese. For a different flavor profile, try serving them with a zesty ranch dip. Arrange them on a platter with celery sticks and cherry tomatoes for a balanced appetizer spread."
+storageInstructions: "Uncooked breaded sticks can be frozen in a single layer, then transferred to a freezer bag for up to 3 months. Cook directly from frozen, adding 2-3 minutes to the cooking time. Cooked sticks are best eaten immediately."
 prepTimeMins: 40
 cookTimeMins: 5
 servings: 1

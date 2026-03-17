@@ -15,6 +15,7 @@ rating:
 reviews: 
 flavor_profile: "Fresh, Tangy, Savory"
 servingSuggestions: "This vibrant couscous makes an excellent bed for grilled proteins like lemon-herb tofu, halloumi skewers, or roasted chickpeas. To enhance its Mediterranean profile, serve it with a dollop of tzatziki or a spoonful of hummus on the side. A side of warm pita bread and a drizzle of high-quality extra virgin olive oil just before serving brings everything together."
+storageInstructions: "Store in an airtight container in the fridge for up to 4 days. Couscous freezes well for up to 3 months. Fluff with a fork after thawing and reheating."
 prepTimeMins: 5
 cookTimeMins: 5
 servings: 1

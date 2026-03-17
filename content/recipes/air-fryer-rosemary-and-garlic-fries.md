@@ -21,6 +21,7 @@ rating:
 reviews: 
 flavor_profile: "Salty, Crispy, Savory"
 servingSuggestions: "These elegant, herb-infused fries are a step above standard chips and deserve a great dip. Serve them with a side of truffle mayonnaise or a sharp garlic aioli. They make a sophisticated side dish to pan-seared cauliflower steaks, grilled halloumi, or a gourmet portobello mushroom burger, elevating a simple meal into something special."
+storageInstructions: "Best eaten immediately. Leftovers can be kept in the fridge for up to 3 days and reheated in the air fryer for 3-4 minutes to crisp up again. Do not freeze."
 prepTimeMins: 5
 cookTimeMins: 25
 servings: 1

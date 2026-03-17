@@ -20,6 +20,7 @@ rating:
 reviews: 
 flavor_profile: "Salty, Crispy, Savory"
 servingSuggestions: "These indulgent loaded fries are perfect for sharing. Serve them straight from the basket with a side of cooling ranch dressing or a cilantro-lime crema to help temper the heat of the jalapeños. They make an unbeatable side to a juicy veggie smash burger or pulled \"pork\" jackfruit sandwiches during a weekend game night."
+storageInstructions: "Best served fresh. Leftovers can be kept in the fridge for 2 days and reheated in the air fryer, though texture will soften. Do not freeze."
 prepTimeMins: 5
 cookTimeMins: 25
 servings: 1

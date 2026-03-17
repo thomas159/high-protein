@@ -20,6 +20,7 @@ rating:
 reviews: 
 flavor_profile: "Salty, Crispy, Savory"
 servingSuggestions: "These bold, fusion-style fries are incredibly satisfying on their own, but pairing them with a cooling element can elevate the dish. A drizzle of sriracha mayo or a side of creamy avocado slices helps to tame the spicy heat of the kimchi. Serve them as a hearty appetizer or alongside a plant-based Korean-style BBQ burger for an unforgettable weekend feast."
+storageInstructions: "Best served fresh. Leftovers will lose their crispness but can be stored in the fridge for up to 2 days and reheated in the air fryer. Do not freeze."
 prepTimeMins: 5
 cookTimeMins: 25
 servings: 1

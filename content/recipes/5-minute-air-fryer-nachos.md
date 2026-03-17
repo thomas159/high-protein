@@ -22,6 +22,7 @@ rating:
 reviews: 
 flavor_profile: "Salty, Crispy, Savory"
 servingSuggestions: "These lightning-fast nachos are begging to be loaded up with fresh toppings once they come out of the air fryer. Serve them immediately with small bowls of fresh pico de gallo, creamy guacamole, and a dollop of sour cream on the side. A refreshing margarita or an ice-cold lime soda makes for the perfect beverage pairing for this casual snack."
+storageInstructions: "Best enjoyed immediately while hot and crispy. Leftovers will become soggy in the fridge. Do not freeze."
 prepTimeMins: 40
 cookTimeMins: 5
 servings: 1

@@ -18,6 +18,7 @@ reviews:
 flavor_profile: "Earthy, Spicy, Savory"
 servingSuggestions: "The sticky, sweet-and-savory profile of this tofu makes it an ideal companion for a bowl of sticky sushi rice or quick-cooking soba noodles. Serve it alongside lightly steamed bok choy or garlic-sautéed broccoli for a balanced meal. A final garnish of freshly sliced spring onions and a sprinkle of toasted sesame seeds will give it a restaurant-quality finish."
 shelf_life: "Stored in airtight container in the fridge for 5 days"
+storageInstructions: "Store uncooked marinated tofu in the fridge for up to 5 days. Freeze in an airtight container or bag for up to 3 months. Thaw in the fridge before cooking."
 whyTitle: "Why marinate tofu?"
 why:
   - "Natural Caramelization: The sugars in the honey react with the high heat of the air fryer or pan to create a sticky, \"lacquered\" crust that seals in moisture.\\"

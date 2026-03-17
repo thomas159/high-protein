@@ -26,6 +26,7 @@ export default defineContentConfig({
         pintrest: z.string().optional(),
         categories: z.array(z.string()).default([]),
         servingSuggestions: z.string().optional(),
+        storageInstructions: z.string().optional(),
         tags: z.array(z.string()).default([]),
         keywords: z.array(z.string()).default([]),
         rating: z.number().optional(),

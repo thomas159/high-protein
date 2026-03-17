@@ -12,6 +12,7 @@ flavor_profile: "Smoky, Nutty, Garlicky"
 keywords: ["baba ganoush", "aubergine", "eggplant", "microwave", "middle eastern", "vegan", "dip"]
 servingSuggestions: "This smoky baba ganoush is the perfect centerpiece for a Mediterranean mezze platter. Serve it generously swirled in a shallow bowl, topped with a glug of high-quality olive oil and a sprinkle of smoked paprika, alongside warm pita triangles and crisp vegetable sticks. It also makes a fantastic, creamy spread inside falafel wraps or roasted vegetable sandwiches."
 shelf_life: "Stored in an airtight container in the fridge for up to 4 days"
+storageInstructions: "Store in an airtight container in the fridge for up to 4 days. You can freeze baba ganoush for up to 3 months; whisk well after thawing as the liquids may separate slightly."
 whyTitle: "Why microwave the aubergine?"
 why:
   - "Speed: It reduces the cooking time by 75% compared to oven-roasting."

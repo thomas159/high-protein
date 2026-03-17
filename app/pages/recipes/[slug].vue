@@ -172,6 +172,9 @@ useHead({
           </ol>
         </div>
 
+        <h2 v-if="recipe.storageInstructions" id="storage" class="mt-12 whitespace-pre-line">Storage and Freezing</h2>
+        <p class="whitespace-pre-line text-muted-foreground" v-html="formatText(recipe.storageInstructions)" />
+
        
 
         <!-- <div v-if="recipe.dontTitle && recipe.dont" class="bg-blue-50 border-l-4 border-blue-400 p-4 my-4">

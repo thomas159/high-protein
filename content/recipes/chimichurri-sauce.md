@@ -18,6 +18,7 @@ rating:
 reviews: 
 flavor_profile: "Herby, Tangy, Garlicky"
 servingSuggestions: "This vibrant chimichurri is an incredibly versatile condiment. Spoon it generously over freshly grilled seitan steaks, roasted portobello mushrooms, or thick slices of cauliflower steak. It also works beautifully as a zesty dressing for a hearty quinoa and black bean salad, or served in a small dipping bowl alongside warm, crusty bread as an appetizer."
+storageInstructions: "Keep in an airtight jar in the fridge for up to a week. The olive oil may solidify when cold, so let it sit at room temperature for 10 minutes before using. You can freeze chimichurri in ice cube trays for up to 3 months."
 prepTimeMins: 0
 cookTimeMins: 5
 servings: 1

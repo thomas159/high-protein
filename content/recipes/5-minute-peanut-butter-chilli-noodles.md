@@ -12,6 +12,7 @@ keywords: ["peanut butter noodles", "chilli", "asian", "vegan", "high-protein", 
 flavor_profile: "Spicy, Nutty, Aromatic"
 servingSuggestions: "These spicy, nutty noodles are robust and flavorful, making them the perfect main event. Serve them with a side of light, pickled Asian vegetables, such as daikon radish or cucumbers, to refresh your palate between bites. If serving for dinner, pair with a side of crispy vegetable spring rolls or steamed vegetable dumplings."
 shelf_life: "Best served fresh. If reheating, add a splash of water to loosen the peanut sauce."
+storageInstructions: "Best enjoyed fresh. Leftovers can be stored in the fridge for up to 2 days. Reheat gently on the stove with a splash of water. Not suitable for freezing."
 whyTitle: "The Flavor Science"
 why:
   - "Aromatic Base: Fresh garlic and ginger provide antioxidants and anti-inflammatory benefits, perfect for post-workout recovery."
