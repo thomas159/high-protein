@@ -28,6 +28,9 @@ use:
   - "As a Dip: Perfect for fresh crudités or thick-cut potato fries."
   - "As a Spread: Slather inside sandwiches, wraps, or pita bread."
   - "As a Dressing: Thin out with a splash of water for a creamy salad dressing."
+variations:
+  - "Vegan Swap: Use a plant-based mayonnaise and soy yogurt."
+  - "Roasted Garlic: Use roasted garlic instead of raw for a sweeter profile."
 rating: 
 reviews: 
 cuisine: "Mediterranean"

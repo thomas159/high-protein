@@ -30,6 +30,9 @@ use:
   - "Light Lunch: Pair with crusty bread for a deeply satisfying midday meal."
   - "Freezer Stash: Batch cook and freeze in portions for emergency comfort food."
 flavor_profile: "Spicy, Sweet, Creamy"
+variations:
+  - "Ginger Kick: Add a tablespoon of freshly grated ginger."
+  - "Sweet Potato Blend: Swap half the carrots for sweet potato."
 servingSuggestions: "This silky Thai carrot soup pairs beautifully with a slice of warm, crusty sourdough bread or a piece of garlic naan for dipping. To add texture, top the soup with a handful of roasted peanuts or crunchy croutons just before serving. A side of fresh spring rolls or a light cucumber salad makes this soup the centerpiece of a nourishing, vibrant meal."
 shelf_life: "3-4 Days (Refrigerated)"
 storageInstructions: "Store in the fridge for up to 4 days. This soup freezes wonderfully for up to 3 months. Thaw overnight and reheat gently, stirring well to re-incorporate the coconut milk."

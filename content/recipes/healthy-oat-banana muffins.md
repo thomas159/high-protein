@@ -28,6 +28,9 @@ use:
   - "Breakfast on the Go: Grab one with your morning coffee for lasting energy."
   - "Post-Workout: A macro-friendly balance of carbs and protein."
   - "Guilt-Free Dessert: Warm it up and serve with a dollop of yogurt."
+variations:
+  - "Nutty Crunch: Fold chopped walnuts or pecans into the batter."
+  - "Berry Burst: Swap cocoa powder for fresh blueberries."
 rating: 
 reviews: 
 flavor_profile: "Sweet, Chocolatey, Fudgy"

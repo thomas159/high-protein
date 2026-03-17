@@ -30,6 +30,9 @@ use:
   - "Quick Dinner: A rapid comfort meal that requires almost zero active cooking."
   - "Lunch Prep: Easy to batch cook and microwave the next day."
   - "Vegetarian Main: A satisfying standalone dish that needs no meat."
+variations:
+  - "Green Goodness: Fold in fresh spinach or peas at the very end."
+  - "Cheesy Upgrade: Add a dollop of mascarpone for extra richness."
 rating: 
 reviews: 
 flavor_profile: "Creamy, Savory, Fresh"

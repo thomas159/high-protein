@@ -27,6 +27,9 @@ use:
   - "Healthy Spread: A low-calorie alternative to mayonnaise in wraps and sandwiches."
   - "Veggie Dip: Perfect for scooping up with crisp cucumber and carrot sticks."
 servingSuggestions: "This smoky baba ganoush is the perfect centerpiece for a Mediterranean mezze platter. Serve it generously swirled in a shallow bowl, topped with a glug of high-quality olive oil and a sprinkle of smoked paprika, alongside warm pita triangles and crisp vegetable sticks. It also makes a fantastic, creamy spread inside falafel wraps or roasted vegetable sandwiches."
+variations:
+  - "Herb Freshness: Stir in chopped fresh parsley or mint."
+  - "Spicy Kick: Add a pinch of red pepper flakes."
 shelf_life: "Stored in an airtight container in the fridge for up to 4 days"
 storageInstructions: "Store in an airtight container in the fridge for up to 4 days. You can freeze baba ganoush for up to 3 months; whisk well after thawing as the liquids may separate slightly."
 whyTitle: "Why microwave the aubergine?"

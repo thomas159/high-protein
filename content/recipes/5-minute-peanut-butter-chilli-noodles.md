@@ -34,6 +34,9 @@ why:
   - "Aromatic Base: Fresh garlic and ginger provide antioxidants and anti-inflammatory benefits, perfect for post-workout recovery."
   - "The Acid Balance: Rice wine vinegar cuts through the heavy fats of the peanut butter, brightening the entire dish."
   - "Sesame Finish: Sesame oil has a low smoke point but high flavor impact; adding it at the end preserves its nutty aroma."
+variations:
+  - "Almond Butter: Swap peanut butter for almond butter."
+  - "Protein Power: Stir in edamame or pan-fried tempeh."
 prepTimeMins: 0
 cookTimeMins: 5
 servings: 1

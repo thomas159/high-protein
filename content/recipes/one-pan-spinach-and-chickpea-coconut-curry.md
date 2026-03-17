@@ -34,6 +34,9 @@ use:
   - "Batch Cooking: Make a large pan on Sunday for four days of healthy lunches."
   - "Warming Dinner: Perfect served piping hot over basmati rice on a cold evening."
   - "Pantry Clear-out: Utilizes canned chickpeas and milk for an emergency meal."
+variations:
+  - "Lentil Swap: Use canned lentils instead of chickpeas."
+  - "Sweet Potato: Add diced sweet potato for extra heartiness."
 prepTimeMins: 5
 cookTimeMins: 20
 servings: 1

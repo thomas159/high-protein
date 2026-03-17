@@ -28,6 +28,9 @@ use:
   - "On-the-Go Snack: Easy to pack in a gym bag or backpack."
   - "Healthy Dessert: A sweet, fudge-like treat to satisfy late-night sugar cravings."
 rating: 
+variations:
+  - "Chocolate Chip: Fold in vegan dark chocolate chips."
+  - "Coconut Coating: Roll the finished balls in desiccated coconut."
 reviews:
 flavor_profile: "Sweet, Nutty, Creamy"
 servingSuggestions: "Keep these energy-dense protein balls chilled and serve them straight from the fridge for the best, fudgy texture. They pair wonderfully with a mid-morning cappuccino or a post-workout protein shake. If you're serving them as a healthier dessert option, arrange them on a platter alongside fresh berries and a small bowl of dark chocolate sauce for dipping."

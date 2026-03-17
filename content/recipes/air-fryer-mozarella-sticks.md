@@ -34,6 +34,9 @@ why:
   - "Mess-Free: No oil splatters; the basket keeps the cheese melt contained and easy to clean."
 dontTitle: "Don't skip the freeze!"
 dont: "30 minutes in the freezer is the difference between a crispy snack and a puddle of melted cheese in your air fryer."
+variations:
+  - "Herb Crust: Mix dried basil and parsley into the breadcrumbs."
+  - "Spicy Sticks: Add a pinch of cayenne pepper to the flour dredge."
 rating: 
 reviews: 
 flavor_profile: "Salty, Crispy, Savory"

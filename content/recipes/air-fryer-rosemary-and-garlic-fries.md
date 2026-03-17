@@ -33,6 +33,9 @@ why:
   - "Reduced Fat: Achieve that signature crunch with just a tablespoon of heart-healthy olive oil."
   - "Consistent Heat: No hot spots—the air fryer ensures every fry is evenly browned and infused with garlic."
 rating: 
+variations:
+  - "Parmesan Toss: Toss with grated vegetarian parmesan after air frying."
+  - "Thyme Swap: Use fresh thyme instead of rosemary."
 reviews: 
 flavor_profile: "Salty, Crispy, Savory"
 servingSuggestions: "These elegant, herb-infused fries are a step above standard chips and deserve a great dip. Serve them with a side of truffle mayonnaise or a sharp garlic aioli. They make a sophisticated side dish to pan-seared cauliflower steaks, grilled halloumi, or a gourmet portobello mushroom burger, elevating a simple meal into something special."

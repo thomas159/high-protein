@@ -35,6 +35,9 @@ why:
   - "Fermented Umami: Miso provides probiotics and deep flavor without the need for long simmering times."
   - "Healthy Fats: Peanut butter offers heart-healthy monounsaturated fats to keep you satiated."
 muscleBuildingTip: "To get this meal over 30g of protein, toss in 100g of smoked tofu or a handful of edamame beans while the sauce is simmering.
+variations:
+  - "Crunchy Veggies: Toss in shredded carrots or red cabbage."
+  - "Tahini Swap: Use tahini instead of peanut butter."
 prepTimeMins: 0
 cookTimeMins: 5
 servings: 1

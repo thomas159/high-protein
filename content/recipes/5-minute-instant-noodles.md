@@ -27,6 +27,9 @@ use:
   - "Snack Attack: A massive upgrade to a basic instant noodle craving."
   - "Midnight Munchies: Quick, savory, and requires almost no cleanup."
   - "Base Builder: Add leftover veggies or a soft-boiled egg to make it a full meal."
+variations:
+  - "Peanut Twist: Stir in a spoonful of peanut butter for a creamy sauce."
+  - "Veggie Boost: Toss in shredded carrots and edamame."
 rating: 
 reviews: 
 flavor_profile: "Umami, Salty, Savory"

@@ -38,6 +38,9 @@ why:
   - "Deeper Flavor: Allowing the tofu to sit in the spices helps the aromatics penetrate the soy protein, moving the flavor beyond just the surface."
   - "The Perfect Char: The combination of garlic and ginger sugars caramelizes under high heat, giving you those \"tandoori-style\" crispy edges."
   - "Healthy & Lean: This marinade provides a massive flavor punch without the need for heavy creams or excess oils."
+variations:
+  - "Veggie Skewers: Marinate bell peppers and onions alongside the tofu."
+  - "Creamy Base: Mix coconut yogurt into the marinade for a richer crust."
 prepTimeMins: 30
 cookTimeMins: 5
 servings: 1

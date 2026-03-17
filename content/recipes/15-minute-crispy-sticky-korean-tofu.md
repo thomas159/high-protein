@@ -34,6 +34,9 @@ why:
   - "Complete Protein: Tofu is one of the few plant-based sources that contains all nine essential amino acids."
   - "Metabolism Boost: The capsaicin in Gochujang (Korean chili paste) provides a slight thermogenic effect."
   - "Low Effort, High Flavor: Uses pantry staples like ketchup and soy sauce to create a complex glaze in seconds."
+variations:
+  - "Cauliflower Wings: Swap the tofu for cauliflower florets."
+  - "Milder Sauce: Reduce the gochujang and add more ketchup."
 prepTimeMins: 5
 cookTimeMins: 10
 servings: 1

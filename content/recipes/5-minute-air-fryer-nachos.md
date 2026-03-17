@@ -32,6 +32,9 @@ why:
   - "No Soggy Chips: Unlike a microwave, the air fryer uses dry heat to melt the cheese while keeping the tortilla chips shatter-crisp."
   - "Instant Heat: No need to preheat a massive oven for a single plate of nachos; it's ready in just 5 minutes."
   - "Even Melting: The 360° airflow ensures every single chip gets a hit of melted cheese, not just the ones on top."
+variations:
+  - "Bean Fiesta: Add black beans or kidney beans for extra protein."
+  - "Spicy Jalapeno: Top with pickled jalapenos before air frying."
 rating: 
 reviews: 
 flavor_profile: "Salty, Crispy, Savory"

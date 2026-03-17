@@ -29,6 +29,9 @@ categories: ["air-fryer", "dinner", "15-minute-meals"]
 cuisine: "Italian"
 keywords: ["tortilla pizza", "air fryer", "italian", "quick dinner", "thin-crust", "pesto"]
 tags: []
+variations:
+  - "Veggie Supreme: Load up with sliced bell peppers, mushrooms, and olives."
+  - "Spicy Kick: Add sliced jalapenos and a drizzle of hot honey."
 rating: 
 reviews: 
 flavor_profile: "Cheesy, Crispy, Savory"

@@ -39,6 +39,9 @@ why:
   - "The Acid Factor: The high citric acid content in lime juice helps break down the outer surface of the tofu, allowing the smoky chipotle oils to sink deeper into the core."
   - "Smoky Char: Chipotle peppers contain natural sugars that caramelize quickly under high heat (like an air fryer or grill), creating a \"bark\" similar to BBQ."
   - "Versatile Umami: While Mexican-inspired, the smoky-salty profile works as a powerful protein base for everything from tacos to protein-packed salads."
+variations:
+  - "Pineapple Sweetness: Add a splash of pineapple juice for sweet contrast."
+  - "Extra Smoky: Add a dash of liquid smoke."
 prepTimeMins: 30
 cookTimeMins: 5
 servings: 1

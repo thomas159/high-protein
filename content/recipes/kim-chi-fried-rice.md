@@ -29,6 +29,9 @@ cuisine: "Korean"
 tags: ["vegan"]
 keywords: ["kimchi", "fried rice", "korean", "vegan", "15-minute", "spicy", "comfort food"]
 rating: 
+variations:
+  - "Tofu Scramble: Swap the egg for crumbled, seasoned tofu."
+  - "Edamame Addition: Toss in a handful of shelled edamame for protein."
 reviews: 
 flavor_profile: "Spicy, Smoky, Umami"
 servingSuggestions: "A crowning fried egg is essential for kimchi fried rice, as the rich yolk mixes beautifully with the spicy, tangy grains. Serve it with a side of crispy seaweed snacks (gim) to scoop up the rice. A light, clear broth like a simple miso or vegetable soup served alongside helps cleanse the palate between fiery, umami-packed bites."

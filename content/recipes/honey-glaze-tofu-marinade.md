@@ -39,6 +39,9 @@ why:
   - "Natural Caramelization: The sugars in the honey react with the high heat of the air fryer or pan to create a sticky, \"lacquered\" crust that seals in moisture.\\"
   - "Umami Balance: Soy sauce (or Tamari) provides the salt and depth needed to stop the honey from being overly sweet."
   - "Fragrant Warmth: While many honey glazes are just \"sweet,\" the addition of cumin and coriander adds an earthy, professional finish that pairs perfectly with grains."
+variations:
+  - "Spicy Honey: Add a teaspoon of sriracha or chili flakes."
+  - "Vegan Swap: Use agave nectar or maple syrup instead of honey."
 prepTimeMins: 30
 cookTimeMins: 5
 servings: 1

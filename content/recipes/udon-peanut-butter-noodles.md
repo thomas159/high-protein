@@ -28,6 +28,9 @@ use:
   - "Quick Lunch: Comes together in just 15 minutes."
   - "Cold Salad: Tastes excellent chilled the next day straight from the fridge."
 rating: 
+variations:
+  - "Broccoli Crunch: Add steamed broccoli florets."
+  - "Sesame Swap: Use tahini instead of peanut butter."
 reviews: 
 flavor_profile: "Nutty, Creamy, Savory"
 servingSuggestions: "These thick, chewy udon noodles in rich peanut sauce are best enjoyed with a side of lightly charred Asian greens, such as gai lan (Chinese broccoli) or snap peas. For an extra protein boost, top the bowl with a softly boiled egg or some crispy roasted chickpeas. A side of pickled ginger or radishes offers a sharp, tangy contrast to the creamy sauce."

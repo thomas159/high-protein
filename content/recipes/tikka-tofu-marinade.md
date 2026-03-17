@@ -28,6 +28,9 @@ use:
   - "Kebab Skewers: Alternate with peppers and onions for an Indian-spiced BBQ."
   - "Salad Protein: Slice the cold leftovers over a fresh green salad."
 rating: 
+variations:
+  - "Paneer Swap: Use paneer instead of tofu if you eat dairy."
+  - "Coconut Yogurt: Use coconut yogurt for a vegan, tropical twist."
 reviews:
 flavor_profile: "Earthy, Spicy, Savory"
 servingSuggestions: "This vibrantly spiced tikka tofu is fantastic when served on a platter with sliced red onions, fresh lemon wedges, and a cooling mint chutney. Skewer the tofu cubes with chunks of bell pepper and red onion before cooking for a classic presentation. It also serves as a fantastic, high-protein filling for a warm pita wrap along with shredded lettuce and yogurt sauce."

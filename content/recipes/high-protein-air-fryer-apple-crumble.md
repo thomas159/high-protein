@@ -28,6 +28,9 @@ use:
   - "Sweet Breakfast: Pair with Greek yogurt for a fiber-rich start to the day."
   - "Post-Workout: Packs enough protein and carbs to refuel effectively."
 rating: 
+variations:
+  - "Berry Mix: Swap half the apples for mixed berries."
+  - "Nutty Topping: Add crushed walnuts or pecans to the oat crumble."
 reviews: 
 flavor_profile: "Sweet, Cinnamon, Crunchy"
 servingSuggestions: "This warm, comforting apple crumble is elevated when served with a dollop of cold, high-protein vanilla Greek yogurt or a scoop of low-calorie vanilla ice cream, providing a beautiful hot-and-cold contrast. A light dusting of extra cinnamon on top and a cup of warm chamomile tea makes this the ultimate healthy evening treat."

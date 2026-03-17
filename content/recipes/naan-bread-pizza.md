@@ -28,6 +28,9 @@ use:
 cuisine: "Indian"
 tags: 
 keywords: ["naan pizza", "indian", "fusion", "paneer", "mango chutney", "quick dinner"]
+variations:
+  - "Vegan Version: Use vegan cheese and dairy-free naan."
+  - "Tikka Topping: Add leftover tikka-marinated tofu cubes."
 rating: 
 reviews: 
 flavor_profile: "Sweet, Spicy, Cheesy"

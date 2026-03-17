@@ -29,6 +29,9 @@ use:
   - "As a Topping: Spoon over roasted vegetables or potatoes."
   - "As a Dressing: Toss through a grain salad for a massive flavor upgrade."
 rating: 
+variations:
+  - "Cilantro Blend: Replace half the parsley with fresh cilantro."
+  - "Lemon Lift: Use fresh lemon juice instead of red wine vinegar."
 reviews: 
 flavor_profile: "Herby, Tangy, Garlicky"
 servingSuggestions: "This vibrant chimichurri is an incredibly versatile condiment. Spoon it generously over freshly grilled seitan steaks, roasted portobello mushrooms, or thick slices of cauliflower steak. It also works beautifully as a zesty dressing for a hearty quinoa and black bean salad, or served in a small dipping bowl alongside warm, crusty bread as an appetizer."

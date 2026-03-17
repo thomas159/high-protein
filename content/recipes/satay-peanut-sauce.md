@@ -30,6 +30,9 @@ categories: ["sauces", "15-minute-meals"]
 cuisine: "Thai"
 tags: []
 keywords: ["satay sauce", "peanut sauce", "thai", "condiment", "dip", "creamy", "spicy"]
+variations:
+  - "Almond Satay: Use almond butter for a different nutty flavor."
+  - "Extra Spicy: Double the red curry paste or add fresh chilies."
 rating: 
 reviews: 
 flavor_profile: "Spicy, Tangy, Nutty"

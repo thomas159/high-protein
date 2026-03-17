@@ -31,6 +31,9 @@ whyTitle: "Why use an air fryer?"
 why:
   - "Superior Crunch: Rapid air circulation creates a \"deep-fried\" texture without the grease."
   - "Speed: Go from frozen or fresh to loaded in under 30 minutes."
+variations:
+  - "Vegan Facon: Sprinkle crispy vegetarian bacon bits over the cheese."
+  - "Extra Heat: Drizzle with a vegetarian buffalo sauce."
 rating: 
 reviews: 
 flavor_profile: "Salty, Crispy, Savory"

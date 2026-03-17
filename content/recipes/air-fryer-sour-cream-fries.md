@@ -31,6 +31,9 @@ whyTitle: "Why use an air fryer?"
 why:
   - "Superior Crunch: Rapid air circulation creates a \"deep-fried\" texture without the grease."
   - "Speed: Go from frozen or fresh to loaded in under 30 minutes."
+variations:
+  - "Loaded Potato Style: Top with cheddar cheese and vegetarian bacon bits."
+  - "Spicy Cream: Mix a dash of hot sauce into the sour cream."
 rating: 
 reviews: 
 flavor_profile: "Salty, Crispy, Savory"

@@ -145,6 +145,11 @@ useHead({
           <p v-for="(flav, index) in recipe.flavour" :key="index" class="text-muted-foreground" v-html="formatText(flav)" />
         </div>
 
+        <h2 v-if="recipe.variations?.length" id="flavour" class="mt-12">Variations and combinations of ingredients</h2>
+        <div v-if="recipe.variations?.length" class="mt-4 space-y-4">
+          <p v-for="(variation, index) in recipe.variations" :key="index" class="text-muted-foreground" v-html="formatText(variation)" />
+        </div>
+
         <h2 v-if="recipe.use?.length" id="use" class="mt-12">How to use it</h2>
         <div v-if="recipe.use?.length" class="mt-4 space-y-4">
           <p v-for="(u, index) in recipe.use" :key="index" class="text-muted-foreground" v-html="formatText(u)" />

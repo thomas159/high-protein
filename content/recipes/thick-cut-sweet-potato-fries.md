@@ -27,6 +27,9 @@ use:
   - "Healthy Snack: A satisfying, nutrient-dense treat when you need a crunch."
   - "Loaded Base: Top with black beans, avocado, and salsa for a full meal."
 tags: []
+variations:
+  - "Cinnamon Sugar: Toss with a pinch of cinnamon for a sweet treat."
+  - "Spicy Cajun: Season with smoked paprika and cayenne pepper."
 rating: 
 reviews: 
 flavor_profile: "Salty, Crispy, Savory"

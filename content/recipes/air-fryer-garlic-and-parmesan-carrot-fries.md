@@ -28,6 +28,9 @@ flavour:
 use:
   - "Healthy Snack: A fantastic low-calorie alternative to potato fries."
   - "Side Dish: Pairs perfectly with burgers, sandwiches, or grilled proteins."
+variations:
+  - "Spicy Kick: Toss with a pinch of cayenne pepper."
+  - "Vegan Option: Swap parmesan for nutritional yeast."
 flavor_profile: "Sweet, Salty, Savory"
 servingSuggestions: "Serve immediately while hot and crispy, alongside a garlic aioli or a simple yogurt dip."
 storageInstructions: "Best eaten fresh. Leftovers can be stored in the fridge for up to 3 days and reheated in the air fryer to restore some crispness, but they will soften over time. Do not freeze."

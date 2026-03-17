@@ -27,6 +27,9 @@ use:
 cuisine: "American"
 tags: []
 keywords: ["microwave crisps", "potato chips", "american", "vegan", "snack", "healthy", "oil-free"]
+variations:
+  - "Salt and Vinegar: Soak in vinegar instead of water before cooking."
+  - "Spicy BBQ: Toss with smoked paprika and a pinch of chili powder."
 rating: 
 reviews: 
 flavor_profile: "Salty, Crispy, Savory"

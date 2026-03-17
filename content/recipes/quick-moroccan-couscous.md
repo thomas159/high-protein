@@ -28,6 +28,9 @@ use:
   - "Meal Prep: Packs well in lunchboxes and tastes great cold."
   - "Quick Side: A 10-minute addition to Mediterranean-style dinners."
 rating: 
+variations:
+  - "Chickpea Power: Stir in a can of drained chickpeas."
+  - "Fruity Twist: Add raisins or dried apricots for extra sweetness."
 reviews: 
 flavor_profile: "Fresh, Tangy, Savory"
 servingSuggestions: "This vibrant couscous makes an excellent bed for grilled proteins like lemon-herb tofu, halloumi skewers, or roasted chickpeas. To enhance its Mediterranean profile, serve it with a dollop of tzatziki or a spoonful of hummus on the side. A side of warm pita bread and a drizzle of high-quality extra virgin olive oil just before serving brings everything together."

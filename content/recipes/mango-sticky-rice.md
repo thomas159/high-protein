@@ -29,6 +29,9 @@ use:
   - "Sweet Snack: A high-carb treat perfect for heavy training days."
   - "Breakfast Treat: Enjoy leftover sticky rice with fresh fruit in the morning."
 rating: 
+variations:
+  - "Pandan Infusion: Boil the coconut milk with a pandan leaf."
+  - "Colorful Rice: Use butterfly pea extract to dye the rice."
 reviews: 
 flavor_profile: "Sweet, Creamy, Tropical"
 servingSuggestions: "For an authentic Thai dessert experience, serve this mango sticky rice slightly warm, allowing the coconut cream sauce to gently pool around the fresh mango. Sprinkle a pinch of toasted mung beans or sesame seeds on top for a delightful textural crunch. Pair this sweet treat with a cup of hot jasmine tea or a refreshing iced lemongrass tea."
