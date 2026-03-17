@@ -19,6 +19,10 @@ tips:
 works:
   - "Natural Binders: The sticky consistency of the peanut butter and honey perfectly traps the dry oats and protein powder, removing the need to bake them."
   - "Carb to Fat Ratio: Combining the complex, slow-digesting carbs of the oats with the healthy fats in the nut butter prevents sharp blood sugar spikes."
+flavour:
+  - "The Base: Sweet, creamy, and nutty peanut butter."
+  - "The Sweetness: Natural honey and ripe banana notes."
+  - "The Texture: Dense, chewy oats with a rich vanilla protein finish."
 rating: 
 reviews:
 flavor_profile: "Sweet, Nutty, Creamy"

@@ -21,6 +21,10 @@ tips:
 works:
   - "Maceration Science: Soaking the minced garlic in the red wine vinegar first breaks down its harsh, raw enzymes, resulting in a smooth, integrated pungency."
   - "Fat and Acid Synergy: The rich, heavy mouthfeel of the olive oil is perfectly cut by the sharp vinegar, creating a highly balanced dressing."
+flavour:
+  - "The Base: Vibrant, grassy, and fresh chopped parsley."
+  - "The Tang: Sharp, acidic red wine vinegar that makes your mouth water."
+  - "The Kick: Raw garlic and a subtle chili burn mellowed by rich olive oil."
 rating: 
 reviews: 
 flavor_profile: "Herby, Tangy, Garlicky"

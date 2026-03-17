@@ -21,6 +21,10 @@ tips:
 works:
   - "Starch Gelatinization: Steaming the pre-soaked glutinous rice properly converts the complex starches, giving it that iconic, sticky, chewy texture."
   - "Osmosis Action: Pouring the coconut milk over the hot rice causes the grains to expand and drink in the creamy liquid, trapping the flavor internally."
+flavour:
+  - "The Base: Rich, sweet, and floral coconut cream."
+  - "The Brightness: Juicy, tropical, and slightly tart fresh mango."
+  - "The Balance: A crucial pinch of salt that makes the sweetness shine."
 rating: 
 reviews: 
 flavor_profile: "Sweet, Creamy, Tropical"

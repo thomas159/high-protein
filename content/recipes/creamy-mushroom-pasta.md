@@ -18,6 +18,10 @@ tips:
 works:
   - "The Maillard Reaction: Searing the mushrooms over high heat creates a caramelized crust, introducing a deep, savory umami profile to the dish."
   - "Starch Emulsion: The starch from the pasta water physically binds the fat in the heavy cream and butter, preventing the sauce from splitting or looking oily."
+flavour:
+  - "The Base: Rich, luxurious heavy cream and salty parmesan cheese."
+  - "The Umami: Deeply caramelized, earthy, and meaty pan-seared mushrooms."
+  - "The Brightness: Crisp white wine cuts through the heavy dairy fat."
 servingSuggestions: "This luxurious mushroom pasta pairs perfectly with a crisp, acidic side salad—think mixed greens with a sharp lemon vinaigrette—to balance the rich, creamy sauce. Serve with a slice of toasted garlic ciabatta to ensure no sauce is left in the bowl. A glass of light-bodied Pinot Noir or a dry Chardonnay beautifully complements the earthy mushrooms."
 shelf_life: "Best enjoyed fresh; stores in the fridge for up to 2 days."
 storageInstructions: "Keep in the fridge for up to 3 days. Reheat gently on the stove with a splash of milk or water. Freezing is not recommended as the cream sauce can split."
