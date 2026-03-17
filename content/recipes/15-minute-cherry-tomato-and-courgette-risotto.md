@@ -11,7 +11,7 @@ blurb: |
 image: "15-minute-cherry-tomato-and-courgette-risotto_1_lsbbrh"
 categories: ["dinner", "microwave", "15-minute-meals"]
 tags: ["vegan"]
-cuisine: 'Italian"
+cuisine: "Italian"
 rating: 
 reviews: 
 prepTimeMins: 0
