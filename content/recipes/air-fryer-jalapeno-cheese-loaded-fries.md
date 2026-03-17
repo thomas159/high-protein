@@ -1,6 +1,9 @@
 ---
 title: "Air fryer jalapeño cheese loaded fries"
 slug: "air-fryer-jalapeno-cheese-loaded-fries"
+meta: {
+  seoMetaDescription: "Upgrade your snack game with these Air Fryer Jalapeño Cheese Loaded Fries. A crispy, spicy, and cheesy 30-minute treat with a fraction of the oil."
+}
 description: "Upgrade your snack game with these ultimate loaded fries. Using the air fryer ensures a perfect golden crunch with a fraction of the oil. Smothered in melted cheese and topped with a spicy jalapeño kick, they’re the perfect 15-minute treat for game nights or quick cravings"
 image: "air-fryer-jalapeno-cheese-loaded-fries_twwfu7"
 pintrest: ""

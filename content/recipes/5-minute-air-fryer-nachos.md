@@ -1,6 +1,9 @@
 ---
 title: "5 minute air fryer nachos"
 slug: "5-minute-air-fryer-nachos"
+meta: {
+  seoMetaDescription: "Make the ultimate 5-minute Air Fryer Nachos. Ultra-crispy, cheesy, and lightning-fast Mexican-style snack perfect for quick cravings."
+}
 description: "Satisfy your cravings in just 5 minutes with these ultra-crispy, cheesy Air Fryer Nachos—the ultimate lightning-fast snack."
 image: "5-minute-air-fryer-nachos_gf3zzd"
 pintrest: ""

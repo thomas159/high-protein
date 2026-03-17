@@ -1,6 +1,9 @@
 ---
 title: "Thick cut sweet potato fries"
 slug: "thick-cut-sweet-potato-fries"
+meta: {
+  seoMetaDescription: "Make crispy, thick-cut sweet potato fries in the air fryer. A delicious, vegan, and healthy American snack ready with minimal oil."
+}
 description: "Experience the satisfying crunch of homemade crisps without the deep-fryer. These microwave crisps deliver all the bold flavor of the classic snack using zero oil, making them a remarkably healthy, guilt-free alternative that’s ready in minutes"
 image: "thick-cut-sweet-potato-fries_zip294"
 pintrest: ""

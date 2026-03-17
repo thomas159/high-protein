@@ -1,6 +1,9 @@
 ---
 title: "Kim chi fried rice"
 slug: "kim-chi-fried-rice"
+meta: {
+  seoMetaDescription: "Whip up this 15-minute Kimchi Fried Rice for a quick, spicy, and umami-packed vegetarian dinner. A perfect Korean comfort food with a fried egg."
+}
 description: "Kimchi Fried Rice (Kimchi-bokkeumbap) is the ultimate Korean comfort food—a smoky, spicy, and deeply savory dish that turns humble leftovers into a flavor powerhouse. The magic lies in the contrast: the sharp, fermented tang of aged kimchi meets the nutty warmth of toasted sesame oil and the rich, golden silkiness of a perfectly fried egg"
 blurb: "Whether you're looking for a 15-minute weeknight savior or a cure for a late-night craving, this dish delivers an addictive umami punch that hits every single taste bud."
 image: "kim-chi-fried-rice_a4xo6n"

@@ -1,6 +1,9 @@
 ---
 title: "Chimichurri Sauce"
 slug: "chimichurri-sauce"
+meta: {
+  seoMetaDescription: "Elevate your meals with this easy 5-minute vegan Argentinian Chimichurri Sauce. Packed with fresh herbs, garlic, and olive oil for a zesty flavor."
+}
 description: |
   Elevate your meal prep with this Easy Argentinian Chimichurri—the ultimate 5-minute flavor hack for high-protein vegetarian cooking. This vibrant, tangy sauce is packed with fresh herbs, garlic, and heart-healthy olive oil, providing a nutrient-dense punch to any gym-focused meal.
 

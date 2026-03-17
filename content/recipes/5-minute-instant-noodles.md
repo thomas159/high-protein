@@ -1,6 +1,9 @@
 ---
 title: "5 Minute instant noodles"
 slug: "5-minute-instant-noodles"
+meta: {
+  seoMetaDescription: "Upgrade your instant noodles in just 5 minutes with a savory soy and sesame glaze. A quick, vegan-friendly meal perfect for satisfying cravings."
+}
 description: "Quick, grab and go quick meals are always a good idea. These instant noodles are perfect when you need to satisfy that hunger bite."
 image: "5-minute-instant-noodles_ywvyin"
 pintrest: ""

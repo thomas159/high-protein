@@ -1,6 +1,9 @@
 ---
 title: "Creamy feta and cherry tomato pasta"
 slug: "creamy-feta-and-cherry-tomato-pasta"
+meta: {
+  seoMetaDescription: "Whip up this 15-minute Creamy Feta and Cherry Tomato Pasta. A quick, satisfying Italian vegetarian dinner with a rich and tangy sauce."
+}
 description: "This Feta and Cherry Tomatoes Pasta is a delicious and simple dish that is perfect for busy weeknights or when you're craving a comforting and satisfying meal. This pasta dish is full of flavour and is ready in just 15 minutes. The combination of creamy feta cheese, sweet cherry tomatoes, and pasta creates a delicious and satisfying dish that is perfect for any occasion"
 blurb: 
 image: "feta-and-cherry-tomato-pasta_k93wad"

@@ -1,6 +1,9 @@
 ---
 title: "Microwave crisps"
 slug: "microwave-crisps"
+meta: {
+  seoMetaDescription: "Make perfectly crunchy, oil-free potato crisps in the microwave. A healthy, vegan, and guilt-free American snack ready in just 15 minutes."
+}
 description: "Experience the satisfying crunch of homemade crisps without the deep-fryer. These microwave crisps deliver all the bold flavor of the classic snack using zero oil, making them a remarkably healthy, guilt-free alternative that’s ready in minutes"
 image: "microwave-crisps_loaj1f"
 pintrest: ""

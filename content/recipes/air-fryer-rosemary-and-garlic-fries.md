@@ -1,6 +1,9 @@
 ---
 title: "Air fryer rosemary and garlic fries"
 slug: "air-fryer-rosemary-and-garlic-fries"
+meta: {
+  seoMetaDescription: "Make gourmet Air Fryer Rosemary and Garlic Fries in under 30 minutes. A crispy, vegan, and gluten-free snack with a fraction of the fat."
+}
 description: "Upgrade your side dish with these fragrant, herb-infused fries. By combining fresh rosemary and savory garlic with the high-speed crisping of the air fryer, you get a gourmet chip with significantly less fat than traditional frying. Golden, crispy, and ready in under 30 minutes."
 image: "air-fryer-rosemary-garlic-fries_ab8wu4"
 pintrest: ""

@@ -1,6 +1,9 @@
 ---
 title: "Naan bread pizza"
 slug: "naan-bread-pizza"
+meta: {
+  seoMetaDescription: "Try this 10-minute Mango and Paneer Naan Pizza. A quick, sweet, and spicy Indian fusion dinner that's bursting with flavor and easy to make."
+}
 description: |
   Turn your weeknight dinner into a vibrant street-food fusion! This 10-Minute Mango & Paneer Naan Pizza is the ultimate "cheat code" for when you want big, bold flavors without the kitchen cleanup.
 

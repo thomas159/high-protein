@@ -1,6 +1,9 @@
 ---
 title: "Healthy Oat Banana Muffins"
 slug: "healthy-oat-banana-muffins"
+meta: {
+  seoMetaDescription: "Bake high-protein, chocolatey Healthy Oat Banana Muffins in the air fryer. A quick, delicious, and muscle-building dessert ready in 15 minutes."
+}
 description: |
   Fuel your gains with this 10-minute prep, one-bowl chocolate wonder. This isn’t just a healthy snack; it’s a macro-balanced powerhouse designed for fitness enthusiasts. We’ve stripped away the refined flours and sugars of traditional baking, replacing them with fiber-rich oats and creamy Greek yogurt to create a muscle-building vegetarian treat that actually tastes like dessert.
 

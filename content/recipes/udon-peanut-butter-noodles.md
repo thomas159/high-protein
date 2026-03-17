@@ -1,6 +1,9 @@
 ---
 title: "Udon peanut butter noodles"
 slug: "udon-peanut-butter-noodles"
+meta: {
+  seoMetaDescription: "Enjoy these 15-minute Udon Peanut Butter Noodles. A quick, creamy, and high-protein vegan meal packed with vegetables and a rich peanut sauce."
+}
 description: "An authentic, creamy Thai Satay Sauce crafted with roasted peanuts, aromatic red curry paste, and rich coconut milk. Perfectly balanced and versatile—use it as a savory dip, a base for vibrant stir-frys, or the ultimate topping for grilled skewers"
 image: "udon-peanut-butter-noodles_qufch8"
 pintrest: ""

@@ -1,6 +1,9 @@
 ---
 title: "Air fryer mozarella sticks"
 slug: "air-fryer-mozarella-sticks"
+meta: {
+  seoMetaDescription: "Cook crispy, golden Air Fryer Mozzarella Sticks at home. A healthier, mess-free American appetizer with the perfect cheese pull in every bite."
+}
 description: "Skip the store-bought bag and make these crispy, golden mozzarella sticks at home. Coated in a savory blend of chili, oregano, and garlic, they deliver a perfect cheese pull with every bite. Air frying gives you that deep-fried crunch using a fraction of the oil for a healthier, tastier snack."
 image: "air-fryer-mozarella-sticks_oiud1f"
 pintrest: ""

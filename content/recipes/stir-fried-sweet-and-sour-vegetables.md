@@ -1,6 +1,9 @@
 ---
 title: "Stir fried sweet and sour vegetables"
 slug: "stir-fried-sweet-and-sour-vegetables"
+meta: {
+  seoMetaDescription: "Enjoy a refreshing Thai Stir-Fried Sweet and Sour Vegetables dish. A vibrant, vegan, and healthy dinner ready in 30 minutes."
+}
 description: "This recipe delivers the refreshing flavour of thai stir fried vegetables with a sweet and sour sauce"
 image: "sweet-and-sour-vegetables_covgep"
 pintrest: ""
