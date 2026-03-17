@@ -34,7 +34,7 @@ const props = defineProps<{
     <div class="bg-card rounded-3xl p-6 md:p-8 border border-border sticky top-24 shadow-sm transition-colors duration-300">
       <div class="flex justify-between items-center mb-6">
         
-        <h2 class="text-xl font-bold text-foreground">Ingredients</h2>
+        <h2 class="text-xl font-bold text-foreground">Ingredients for {{ props.recipe?.title }}</h2>
         
         </div>
 
