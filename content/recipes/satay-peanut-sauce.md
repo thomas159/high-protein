@@ -20,12 +20,10 @@ flavour:
   - "The Heat: Red curry paste adds depth with notes of lemongrass, galangal, and dried chilies."
   - "The Crunch: Crushed roasted peanuts (or smooth peanut butter) bring a toasted, nutty heart to the sauce."
   - "The Balance: A splash of soy sauce (salt) and a pinch of brown sugar (sweet) round out the aromatics."
-use: |
-  As a Dip: Perfect for Halloumi Satay skewers or fresh vegetable crudités.
-
-  As a Dressing: Thin it out with a splash of water and lime juice for a Thai Crunch Salad.
-
-  As a Stir-fry Sauce: Toss with rice noodles, vegetables, and bean sprouts for a quick satay-noodle hybrid.
+use:
+  - "As a Dip: Perfect for Halloumi Satay skewers or fresh vegetable crudités."
+  - "As a Dressing: Thin it out with a splash of water and lime juice for a Thai Crunch Salad."
+  - "As a Stir-fry Sauce: Toss with rice noodles, vegetables, and bean sprouts for a quick satay-noodle hybrid."
 image: "satay-peanut-sauce_aarllp"
 pintrest: ""
 categories: ["sauces", "15-minute-meals"]

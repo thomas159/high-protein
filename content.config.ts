@@ -16,7 +16,7 @@ export default defineContentConfig({
         works: z.array(z.string()).default([]),
         tipsTitle: z.string().optional(),
         tips: z.array(z.string()).default([]),
-        use: z.string().optional(),
+        use: z.array(z.string()).default([]),
         whyTitle: z.string().optional(),
         why: z.array(z.string()).default([]),
         muscleBuildingTip: z.string().optional(),
