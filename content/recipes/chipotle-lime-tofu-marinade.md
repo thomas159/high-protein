@@ -1,6 +1,6 @@
 ---
-title: "Chipotle lime marinade"
-slug: "chipotle-lime-marinade"
+title: "Chipotle lime tofu marinade"
+slug: "chipotle-lime-tofu-marinade"
 image: ""
 meta: {
   seoMetaDescription: "Smoky Chipotle Lime Tofu Marinade recipe. Easy, vegan, and high-protein. Perfect for charred air-fryer tofu or grilled tacos."
