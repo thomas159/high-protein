@@ -7,7 +7,7 @@ meta: {
 description: "Fried until golden and tossed in a harmonious sweet and spicy Gochujang glaze. This dish brings the bold flavors of Korean street food to your kitchen in just 15 minutes."
 image: "15-minute-crispy-sticky-korean-tofu_vu0qlh"
 pintrest: "sticky-korean-tofu-pintrest_qh2wsc"
-categories: ["quick-meals", "vegan", "high-protein"]
+categories: ["vegan", "high-protein"]
 flavor_profile: "Spicy, Sweet, Umami"
 shelf_life: "Best eaten immediately to maintain the tofu's crispness."
 whyTitle: "Why it's a Muscle Builder"
