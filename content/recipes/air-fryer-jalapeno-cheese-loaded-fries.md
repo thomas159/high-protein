@@ -16,6 +16,10 @@ tips:
 works:
   - "Two-Stage Cooking: Air frying the potatoes separately ensures they form a rigid, crispy shell capable of holding up the heavy cheese without turning to mush."
   - "Residual Melting: Adding the cheese at the very end uses the intense circulating heat to turn it molten quickly, avoiding burnt edges."
+flavour:
+  - "The Base: Crispy, savory, golden-brown air-fried potatoes."
+  - "The Richness: Heavy, gooey, and salty melted cheddar cheese."
+  - "The Fire: Sharp, bright, and vinegary jalapeño slices."
 tags: []
 cuisine: "American"
 keywords: ["loaded fries", "jalapeno", "cheese", "air fryer", "american", "snack", "spicy"]

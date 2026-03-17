@@ -16,6 +16,10 @@ tips:
 works:
   - "Internal Moisture Evaporation: The microwave agitates water molecules inside the potato, effectively steaming it from the inside out until it becomes a dry, crispy shell."
   - "Starch Removal: Soaking the slices pulls out the surface starches that would otherwise cause the potatoes to stick together and turn gummy."
+flavour:
+  - "The Base: Pure, concentrated earthy potato flavor."
+  - "The Seasoning: A simple, clean, and satisfying salty finish."
+  - "The Texture: A shatter-crisp crunch with zero oily aftertaste."
 cuisine: "American"
 tags: []
 keywords: ["microwave crisps", "potato chips", "american", "vegan", "snack", "healthy", "oil-free"]

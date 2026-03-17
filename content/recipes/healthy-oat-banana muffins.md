@@ -21,6 +21,10 @@ tips:
 works:
   - "Moisture Lock: The mashed bananas and Greek yogurt provide incredible hydration to the bake, completely eliminating the need for heavy oils or butter."
   - "Oat Flour Science: The finely ground oats absorb the liquid ingredients efficiently, acting as a gluten-free binder that yields a dense, brownie-like texture."
+flavour:
+  - "The Base: Deep, fudgy chocolate and toasted oats."
+  - "The Sweetness: Caramelized ripe banana and a touch of honey."
+  - "The Tropical Note: Nutty, aromatic desiccated coconut."
 rating: 
 reviews: 
 flavor_profile: "Sweet, Chocolatey, Fudgy"

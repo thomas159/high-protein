@@ -17,6 +17,10 @@ tips:
 works:
   - "Temperature Contrast: The intense heat of the crispy fries forces the cool sour cream to slightly melt, forming a silky, rich coating."
   - "Air-Fried Texture: Using an air fryer strips the potatoes of excess moisture rapidly, creating a tough exterior that doesn't immediately go soggy under the heavy cream."
+flavour:
+  - "The Base: Crispy, golden, and salty air-fried potatoes."
+  - "The Tang: Cool, rich, and slightly acidic sour cream."
+  - "The Aromatics: Savory garlic and sharp, fresh spring onions."
 tags: []
 keywords: ["sour cream", "fries", "air fryer", "american", "snack", "garlic", "crispy"]
 whyTitle: "Why use an air fryer?"
