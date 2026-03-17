@@ -7,6 +7,7 @@ pintrest: ""
 categories: ["air-fryer", "30-minute-meals", "snacks"]
 tips: 
 tags: []
+cuisine: "American"
 whyTitle: "Why use an air fryer?"
 why: |
   Superior Crunch: Rapid air circulation creates a "deep-fried" texture without the grease.

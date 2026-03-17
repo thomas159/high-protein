@@ -9,6 +9,7 @@ image: "garam-masala-tofu-marinade_yfdnmb"
 pintrest: ""
 categories: ["vegan", "dinner", "15-minute-meals", "marinade"]
 tags: []
+cuisine: "Indian"
 tips: ""
 rating: 
 reviews: 

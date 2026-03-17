@@ -8,6 +8,7 @@ categories: ["air-fryer", "5-minute-meals", "snacks"]
 tips: |
   Grate your own cheese: Grate your own cheese from a block—it melts much smoother than the pre-shredded kind!
 tags: []
+cuisine: "Mexican"
 whyTitle: "Why use an air fryer?"
 why: |
   No Soggy Chips: Unlike a microwave, the air fryer uses dry heat to melt the cheese while keeping the tortilla chips shatter-crisp.

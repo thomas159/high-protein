@@ -48,7 +48,7 @@ if (recipe.value?.categories?.includes('vegan')) {
       // Yield and Category
       recipeYield: `${recipe.value?.servings} serving(s)`,
       recipeCategory: recipe.value?.categories?.[0] || 'Main Course',
-      recipeCuisine: (recipe.value as { cuisine?: string } | null)?.cuisine || '',
+      recipeCuisine: recipe.value?.cuisine || '',
 
       // recipeCuisine: 'Korean',
 
@@ -151,7 +151,7 @@ useHead({
         <h2 v-if="recipe.whyTitle" id="why" class="mt-12 whitespace-pre-line">{{ recipe.whyTitle }}</h2>
         <p class="whitespace-pre-line text-muted-foreground" v-html="formatText(recipe.why)" />
         <h2 v-if="recipe.muscleBuildingTip" id="#muscleBuildingTip" class="mt-12 whitespace-pre-line">Muscle building
-          tips</h2>
+          tip</h2>
         <p class="whitespace-pre-line text-muted-foreground mb-12" v-html="formatText(recipe.muscleBuildingTip)" />
 
         <h2 id="howToMake" class="scroll-mt-24">How to make {{ recipe.title }}</h2>
@@ -200,13 +200,13 @@ useHead({
       </div>
     </div>
 
-    <h2 v-if="relatedRecipes.length" d="relatedRecipes" class="mt-8">Related Recipes</h2>
-    <div class="grid grid-cols-2 md:grid-cols-4 gap-main -mx-4 md:-mx-0">
+    <h2 id="relatedRecipes" class="mt-8">Related Recipes</h2>
+    <div class="grid grid-cols-2 gap-main -mx-4">
       <RecipeCard v-for="relatedRecipe in relatedRecipes" :key="relatedRecipe.slug" :recipe="relatedRecipe" />
     </div>
   </main>
   <main v-else>
-    <p>Unable to find recipe</p>
+    <p>Loading Recipe...</p>
   </main>
 </template>
 

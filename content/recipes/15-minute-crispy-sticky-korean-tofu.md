@@ -9,6 +9,7 @@ image: "15-minute-crispy-sticky-korean-tofu_vu0qlh"
 pintrest: "sticky-korean-tofu-pintrest_qh2wsc"
 categories: ["vegan", "high-protein"]
 flavor_profile: "Spicy, Sweet, Umami"
+cuisine: "Korean"
 shelf_life: "Best eaten immediately to maintain the tofu's crispness."
 whyTitle: "Why it's a Muscle Builder"
 why: |

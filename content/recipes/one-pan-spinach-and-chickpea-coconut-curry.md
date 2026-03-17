@@ -8,6 +8,7 @@ description: "A rich and creamy coconut milk base packed with ginger, garlic, an
 image: "one-pan-spinach-and-chickpea-coconut-curry_ffy601"
 categories: ["one-pan-meals", "vegan", "high-protein"]
 flavor_profile: "Earthy, Creamy, Aromatic"
+cuisine: "Indian"
 shelf_life: "Lasts up to 4 days in the fridge. The flavors actually deepen overnight!"
 whyTitle: "Nutrient Spotlight"
 why: |

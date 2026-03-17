@@ -10,6 +10,7 @@ image: "chipotle-lime-tofu-marinade_ymiqee"
 pintrest: ""
 categories: ["vegan", "dinner", "15-minute-meals", "marinade", "trending"]
 tags: []
+cuisine: "Mexican"
 tips: ""
 rating: 
 reviews: 
