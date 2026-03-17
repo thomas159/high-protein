@@ -1,6 +1,6 @@
 ---
 title: "Garam masala tofu marinade"
-slug: "garam-masala-marinade"
+slug: "garam-masala-tofu-marinade"
 meta: {
   seoMetaDescription: "Easy Garam Masala Tofu Marinade. High-protein vegan recipe with ginger, garlic, and Indian spices. Perfect for air-frying or grilling."
 } 
