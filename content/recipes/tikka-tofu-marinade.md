@@ -16,6 +16,9 @@ tips:
   - "Ingredient Swap: If you don't have jarred garlic ginger paste, simply substitute it by finely mincing or grating 1 large clove of fresh garlic and an equal amount of peeled ginger."
   - "The Yogurt Trick: Using full-fat Greek yogurt (or a thick, high-protein vegan alternative) is crucial. Thin yogurts will run off the tofu and burn instead of creating a thick, charred crust."
   - "Don't Skimp on Salt: Tofu is notoriously bland on the inside. Adding a slightly heavier pinch of salt to the marinade ensures the flavor profile pops once it's cooked."
+works:
+  - "Lactic Tenderizing: The acidity in the Greek yogurt helps to slightly soften the dense soy structure, allowing the robust Indian spices to sink in deeper."
+  - "Tandoori Char: The thick yogurt base acts as a protective shield under high heat, allowing it to bubble and char (imitating a Tandoor oven) without burning the tofu underneath."
 rating: 
 reviews:
 flavor_profile: "Earthy, Spicy, Savory"

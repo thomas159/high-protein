@@ -15,6 +15,9 @@ tips:
   - "Patience with Mushrooms: When you add the mushrooms to the pan, leave them completely undisturbed for 2 minutes. Letting them sear creates a deep, meaty umami crust."
   - "Save the Water: Always scoop out a mug of starchy pasta cooking water before draining. This magical liquid binds the butter, cheese, and cream into a smooth, emulsified sauce."
   - "Deglazing Power: The white wine isn't just for flavor—use it to aggressively scrape up all the dark, caramelized mushroom bits stuck to the bottom of the pan."
+works:
+  - "The Maillard Reaction: Searing the mushrooms over high heat creates a caramelized crust, introducing a deep, savory umami profile to the dish."
+  - "Starch Emulsion: The starch from the pasta water physically binds the fat in the heavy cream and butter, preventing the sauce from splitting or looking oily."
 servingSuggestions: "This luxurious mushroom pasta pairs perfectly with a crisp, acidic side salad—think mixed greens with a sharp lemon vinaigrette—to balance the rich, creamy sauce. Serve with a slice of toasted garlic ciabatta to ensure no sauce is left in the bowl. A glass of light-bodied Pinot Noir or a dry Chardonnay beautifully complements the earthy mushrooms."
 shelf_life: "Best enjoyed fresh; stores in the fridge for up to 2 days."
 storageInstructions: "Keep in the fridge for up to 3 days. Reheat gently on the stove with a splash of milk or water. Freezing is not recommended as the cream sauce can split."

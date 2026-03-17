@@ -15,6 +15,9 @@ tips:
   - "Space is Key: Don't overcrowd the air fryer basket. Cook in smaller batches if necessary to ensure the hot air circulates evenly for maximum crunch."
   - "The Starch Soak: Soaking the sweet potato sticks in cold water for 30 minutes helps pull out starches, which is the secret to getting a crispy exterior."
   - "Salt Timing: Only salt your fries *after* they finish cooking. Salting them beforehand draws out moisture and leads to steaming rather than frying."
+works:
+  - "Moisture Control: Sweet potatoes hold a lot of water. The rapid air circulation of the air fryer evaporates this moisture quickly, achieving a crispy exterior that ovens struggle to replicate."
+  - "Natural Sweetness: The high heat caramelizes the natural sugars in the sweet potato, creating complex flavor profiles with minimal added ingredients."
 tags: []
 rating: 
 reviews: 

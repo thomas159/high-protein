@@ -14,6 +14,9 @@ tips:
   - "Jammy Tomatoes: If using cherry tomatoes, try halving them before sautéing. They release their natural juices much faster, creating a sweet, rustic 'jam' base for the sauce."
   - "Feta Selection: Always buy a block of feta suspended in brine rather than the pre-crumbled tubs. It melts incredibly smooth and provides a much sharper, authentic tang."
   - "Wine Pairing: A dry, crisp white wine like Pinot Grigio or Sauvignon Blanc works best to cut through the heavy richness of the cream and cheese."
+works:
+  - "Acid and Fat Synergy: The sharp acidity of the white wine and tomatoes cuts beautifully through the heavy cream and salty feta, creating a perfectly balanced bite."
+  - "Starch Binding: Reserving and adding the starchy pasta water ensures the dairy emulsifies completely into a smooth sauce that clings to every noodle."
 cuisine: "Italian"
 tags: 
 keywords: ["feta pasta", "cherry tomato", "italian", "15-minute", "creamy", "vegetarian"]

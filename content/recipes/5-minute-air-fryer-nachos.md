@@ -13,6 +13,9 @@ tips:
   - "Grate Your Own: Always grate your cheese from a block. Pre-shredded cheeses are coated in anti-caking starches that prevent them from melting into a smooth, gooey layer."
   - "Layering is Everything: Don't just dump cheese on top. Build your nachos in two shallow layers of chips and cheese so every single bite gets a cheesy pull."
   - "Parchment Sling: Place your chips on a piece of parchment paper inside the air fryer. When they're done, simply lift the paper to transfer the whole mountain of nachos to a plate instantly."
+works:
+  - "Dry Heat Melting: Unlike microwaves which steam the chips into a soggy mess, the air fryer uses dry circulating heat to toast the chips while melting the cheese."
+  - "Rapid Thermodynamics: The small cooking chamber reaches peak heat in seconds, shaving off the 10-15 minute preheat time associated with conventional ovens."
 tags: []
 cuisine: "Mexican"
 keywords: ["nachos", "air fryer", "mexican", "cheese", "snack", "5-minute", "quick"]

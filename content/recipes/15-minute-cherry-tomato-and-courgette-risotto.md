@@ -21,6 +21,9 @@ tips:
   - "Mind the Bowl Size: Arborio rice expands and the liquid bubbles up significantly in the microwave, so always use a much larger bowl than you think you need."
   - "Creamy Finish: Vigorously stirring the risotto for a full minute after it finishes cooking releases the rice's natural starches, creating a luxurious sauce without needing extra cream."
   - "Veggie Swaps: This forgiving base works beautifully with whatever you have in the fridge—try folding in fresh spinach, peas, or diced bell peppers during the final step."
+works:
+  - "Starch Release: Vigorously stirring the arborio rice after microwaving forces the grains to release their natural starches, creating a creamy sauce without heavy cream."
+  - "Controlled Steam: The microwave creates a perfect high-heat, steamy environment that cooks the rice evenly without the need for constant stirring over a hot stove."
 rating: 
 reviews: 
 flavor_profile: "Creamy, Savory, Fresh"

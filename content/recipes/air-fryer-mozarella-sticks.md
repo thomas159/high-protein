@@ -13,6 +13,9 @@ tips:
   - "The Double Dip: Never skip the double-breading step! It creates a strong outer shell that prevents the molten cheese from leaking out in the air fryer."
   - "Zing Tip: Serve these with a side of warm marinara sauce and a squeeze of fresh lime juice over the sticks right before eating to slice through the richness."
   - "Freeze to Please: Ensure the sticks are rock-solid frozen before cooking. If they thaw while you're prepping, pop them back in the freezer for 15 minutes."
+works:
+  - "Thermal Delay: Freezing the sticks ensures the breading has enough time to toast and crisp up in the air fryer before the cheese inside completely liquifies."
+  - "Structural Integrity: The double coating of egg and flour forms a tight seal, locking the cheese inside a crispy barrier."
 cuisine: "American"
 tags: []
 keywords: ["mozzarella sticks", "air fryer", "cheese", "snack", "crispy", "american", "appetizer"]

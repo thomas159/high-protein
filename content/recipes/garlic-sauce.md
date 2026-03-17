@@ -21,6 +21,9 @@ tips:
   - "Add a Zing: A fresh squeeze of lemon juice immediately brightens the sauce and cuts through the richness."
   - "Herb Infusion: Stir in a generous pinch of dried dill, parsley, or fresh chives for a herbaceous twist."
   - "Spicy Kick: A dash of cayenne pepper or your favorite hot sauce elevates the dip with a gentle, lingering heat."
+works:
+  - "Fat Balance: Using a ratio heavily favoring Greek yogurt over mayonnaise cuts the overall calories while keeping the dip delightfully rich and thick."
+  - "Maceration: Letting the dip sit in the fridge for 15 minutes allows the harsh bite of the raw garlic to mellow into the dairy, creating a cohesive flavor."
 rating: 
 reviews: 
 cuisine: "Mediterranean"

@@ -13,6 +13,9 @@ tips:
   - "Dry Them Thoroughly: After cutting the potatoes, dry them aggressively with a clean kitchen towel. Any surface moisture will cause the fries to steam instead of roast."
   - "Garlic Granules over Fresh: Use garlic granules or powder rather than fresh minced garlic, which has a tendency to burn and turn bitter in the high heat of the air fryer."
   - "Toss, Don't Spray: Toss the raw fries with the olive oil and herbs in a large bowl first. This ensures an even coating that an aerosol spray just can't match."
+works:
+  - "Herb Infusion: The high heat of the air fryer releases the essential oils trapped within the rosemary needles, infusing the entire batch with deep, earthy aromatics."
+  - "Starch Evaporation: The intense, circulating heat strips the potatoes of their surface moisture, delivering a satisfying crunch without requiring a deep-fat fryer."
 tags: ["Vegan", "Gluten-Free", "Healthy"]
 cuisine: "American"
 keywords: ["fries", "air fryer", "rosemary", "garlic", "american", "vegan", "gluten-free", "snack"]

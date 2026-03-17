@@ -13,6 +13,9 @@ tips:
   - "Crispy Secret: Soaking the cut potatoes in cold water for 30 minutes removes excess starch, guaranteeing a shatter-crisp exterior instead of a soggy fry."
   - "Cheese Layering: Add half the cheese halfway through the kimchi mixing, and sprinkle the rest on top so it melts through every layer."
   - "Sauce Consistency: If your Gochujang glaze gets too thick while sautéing, loosen it with a teaspoon of water or sesame oil to ensure it coats the fries evenly."
+works:
+  - "Air Circulation: The air fryer rapidly blasts away moisture, giving the potatoes a deep-fried crunch without being weighed down by oil."
+  - "Flavor Balancing: The sharp, acidic tang of the kimchi perfectly cuts through the rich heaviness of the cheddar cheese and starchy potatoes."
 tags: ["Gluten-Free", "Healthy"]
 cuisine: "Korean"
 keywords: ["kimchi fries", "air fryer", "korean", "fusion", "cheese", "spicy", "snack"]

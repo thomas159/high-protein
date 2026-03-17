@@ -16,6 +16,9 @@ tips:
   - "Press for Success: The drier your tofu, the crispier it gets. Spend an extra 10 minutes pressing out the moisture with a heavy pan before cubing."
   - "Cornstarch Hack: Toss the dried tofu cubes in a light dusting of cornstarch before pan-frying. It creates an incredible, glass-like crust that grabs onto the sticky glaze."
   - "Adjust the Heat: Gochujang brands vary wildly in heat. Taste your chili paste before adding it to the sauce, and balance it with a little extra sugar or ketchup if it's too spicy."
+works:
+  - "Rapid Reduction: The sugar in the sauce caramelizes the moment it hits the hot pan, rapidly transforming a thin liquid into a glossy, sticky coating."
+  - "Textural Contrast: The shatter-crisp exterior of the pan-fried tofu provides the perfect structural balance to the heavy, savory-sweet Gochujang glaze."
 servingSuggestions: "This fiery, sticky tofu is perfectly balanced when served over a bowl of plain, short-grain white rice, which helps mellow the intense flavors of the Gochujang glaze. Accompany it with a side of quick-pickled cucumbers or a simple sesame spinach salad for a refreshing contrast. Wrap the tofu in crisp lettuce leaves for a fun, interactive meal."
 shelf_life: "Best eaten immediately to maintain the tofu's crispness."
 whyTitle: "Why it's a Muscle Builder"

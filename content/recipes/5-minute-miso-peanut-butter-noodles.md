@@ -15,6 +15,9 @@ tips:
   - "Miso Care: Never aggressively boil miso paste, as high heat destroys its delicate flavors and beneficial probiotics. Only bring the sauce to a very gentle simmer."
   - "Starchy Water Secret: If your sauce looks too thick or split, vigorously stir in a splash of the starchy water from your cooked noodles to instantly bring it back to a silky glaze."
   - "Soy Milk Temp: Add the soy milk gradually over low heat and stir constantly. Adding cold soy milk to a hot pan too quickly can cause it to separate and curdle."
+works:
+  - "Emulsion Magic: Whisking peanut butter into the warm water before adding the soy milk creates a stable, creamy emulsion that coats the noodles beautifully."
+  - "Umami Synergy: Miso and soy sauce combine to deliver a massive punch of savory depth, entirely replacing the need for long-simmered broths or meat."
 servingSuggestions: "These rich, umami-packed noodles are incredibly satisfying on their own, but pairing them with some crunchy greens elevates the dish. Serve alongside blanched edamame, sugar snap peas, or a refreshing cucumber ribbon salad to cut through the creamy peanut sauce. A wedge of lime squeezed over the top right before eating adds a perfect bright finish."
 shelf_life: "Best eaten fresh; the sauce thickens significantly as it cools."
 storageInstructions: "Store leftovers in the fridge for up to 3 days. The sauce will thicken, so add a splash of warm water when reheating. Do not freeze."

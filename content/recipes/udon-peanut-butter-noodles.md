@@ -16,6 +16,9 @@ tips:
   - "Rinse the Udon: If using vacuum-packed fresh udon, quickly rinse them under hot water to loosen the strands before adding them to the pan so they don't break."
   - "Tofu Texture: To get the crispiest tofu in your stir-fry, gently press it dry with a paper towel and let it sear undisturbed for a few minutes before tossing."
   - "Thinning the Sauce: The peanut butter sauce will thicken as it cools. If you're meal prepping, stir in a splash of warm water when reheating to bring back that silky texture."
+works:
+  - "Noodle Geometry: The thick, chewy nature of the udon noodles provides the perfect surface area to hold onto the heavy, robust peanut sauce."
+  - "Fat and Acid: The rich combination of coconut milk and peanut butter is perfectly balanced by the sharp acidity of the lime juice at the end."
 rating: 
 reviews: 
 flavor_profile: "Nutty, Creamy, Savory"

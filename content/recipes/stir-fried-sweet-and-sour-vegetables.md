@@ -18,6 +18,9 @@ tips:
   - "Prep is Everything: Stir-frying is fast! Chop all your vegetables and mix your sweet and sour sauce in a bowl before you even turn on the stove."
   - "High Heat Hitting: Make sure your pan is smoking hot before adding the vegetables. You want to sear them quickly to lock in their crunch, not steam them."
   - "Pineapple Power: Use fresh pineapple if possible; the natural enzymes tenderize the vegetables slightly, and the juice adds a bright, sharp acidity that canned versions lack."
+works:
+  - "Flash Cooking: Searing the vegetables quickly over high heat seals in their natural moisture, preventing them from going mushy."
+  - "Cornstarch Thickening: The corn flour slurry binds the thin vinegar and stock into a glossy, sticky glaze that perfectly coats every vegetable."
 flavor_profile: "Sweet, Sour, Tangy"
 servingSuggestions: "To turn these sweet and sour vegetables into a complete, satisfying meal, serve them over a bed of freshly steamed jasmine rice or tossed with warm egg noodles. If you're looking for extra protein, top the dish with crispy air-fried tofu or grilled tempeh. A sprinkle of toasted sesame seeds and a dash of chili oil right before serving adds a lovely crunch and heat."
 storageInstructions: "Keep in the fridge for up to 3 days. Not recommended for freezing, as the vegetables (especially cucumber and tomato) will become overly soft and soggy when thawed."

@@ -17,6 +17,9 @@ tips:
   - "Scoring the Tofu: Lightly score the surface of your tofu cubes in a crisscross pattern to allow the sweet honey glaze to penetrate even deeper."
   - "Watch the Heat: Honey caramelizes beautifully but can burn quickly. Keep a close eye on the tofu during the final minutes of cooking to ensure a golden, not charred, crust."
   - "Vegan Swap: Easily make this recipe 100% vegan by swapping the honey for agave nectar or a thick maple syrup; both work perfectly for that sticky finish."
+works:
+  - "Maillard Reaction: The natural sugars in the honey undergo rapid caramelization in the air fryer, forming a sticky, glossy lacquer over the tofu."
+  - "Flavor Equilibrium: The intense sweetness of the honey is expertly grounded by the salty soy sauce and the earthy depth of the cumin."
 rating: 
 reviews: 
 flavor_profile: "Earthy, Spicy, Savory"

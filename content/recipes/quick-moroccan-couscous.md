@@ -16,6 +16,9 @@ tips:
   - "The Fork Rule: Always use a fork, never a spoon, to fluff your couscous. A spoon will mash the delicate grains together into a dense clump."
   - "Stock Matters: Because the couscous absorbs all the liquid, use a high-quality vegetable stock rather than just water for a massive flavor upgrade."
   - "Fresh Herb Finish: Stir through a generous handful of freshly chopped mint or parsley right before serving to bring a vibrant, authentic Mediterranean brightness to the dish."
+works:
+  - "Instant Hydration: Couscous has already been steamed and dried during manufacturing, meaning pouring boiling stock over it instantly rehydrates it without simmering."
+  - "Sweet and Salty Balance: The slight sweetness from the sautéed red onions beautifully offsets the sharp, salty punch of the feta cheese."
 rating: 
 reviews: 
 flavor_profile: "Fresh, Tangy, Savory"

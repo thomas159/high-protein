@@ -14,6 +14,9 @@ tips:
   - "The Golden Shake: Give your air fryer basket a vigorous shake every 5 minutes. This ensures the hot air hits every side of the potato, creating an impossibly even crunch."
   - "Sauce Separation: If making this for a party, serve the garlic sour cream sauce on the side as a dip to keep the fries shatter-crisp for as long as possible."
   - "Cold Sauce, Hot Fries: Make sure the sour cream is straight from the fridge when you toss the fries. The temperature contrast between the piping hot potatoes and cool cream is incredible."
+works:
+  - "Temperature Contrast: The intense heat of the crispy fries forces the cool sour cream to slightly melt, forming a silky, rich coating."
+  - "Air-Fried Texture: Using an air fryer strips the potatoes of excess moisture rapidly, creating a tough exterior that doesn't immediately go soggy under the heavy cream."
 tags: []
 keywords: ["sour cream", "fries", "air fryer", "american", "snack", "garlic", "crispy"]
 whyTitle: "Why use an air fryer?"

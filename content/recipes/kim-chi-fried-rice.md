@@ -13,6 +13,9 @@ tips:
   - "Flavor Bomb: Don't waste the liquid! Add 2-3 tablespoons of the juice from your kimchi jar during Step 3 for a deeply authentic, punchy flavor."
   - "Protein Boost: Dice 200g of extra-firm tofu or tempeh and pan-fry it before starting the rice for a massive plant-based protein upgrade."
   - "Day-Old Rice is King: Always use cold, day-old rice. Freshly cooked rice has too much moisture and will turn your dish into mush."
+works:
+  - "Fermented Depth: The aged kimchi provides instant tang and umami that usually takes hours of slow cooking to achieve."
+  - "The Searing Technique: Pressing the rice into the high-heat pan creates crucial textural contrast, delivering those coveted crispy, caramelized edges."
 cuisine: "Korean"
 tags: ["vegan"]
 keywords: ["kimchi", "fried rice", "korean", "vegan", "15-minute", "spicy", "comfort food"]

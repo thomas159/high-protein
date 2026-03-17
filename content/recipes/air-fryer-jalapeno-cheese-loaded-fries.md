@@ -13,6 +13,9 @@ tips:
   - "Block Cheese Only: Always use cheese grated fresh from a block. Pre-shredded cheese is coated in cellulose that prevents it from achieving that perfect, gooey melt."
   - "Layering Technique: Don't just dump the cheese on top! Build the fries in two layers with cheese and jalapeños in the middle, guaranteeing a perfect bite every time."
   - "Jalapeño Heat: If you want the jalapeño flavor without the aggressive burn, quickly rinse the sliced jalapeños under cold water to wash away some of the fiery seeds."
+works:
+  - "Two-Stage Cooking: Air frying the potatoes separately ensures they form a rigid, crispy shell capable of holding up the heavy cheese without turning to mush."
+  - "Residual Melting: Adding the cheese at the very end uses the intense circulating heat to turn it molten quickly, avoiding burnt edges."
 tags: []
 cuisine: "American"
 keywords: ["loaded fries", "jalapeno", "cheese", "air fryer", "american", "snack", "spicy"]

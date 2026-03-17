@@ -18,6 +18,9 @@ tips:
   - "Vegan Alternative: Swap the egg for a 'flax egg' (1 tbsp ground flax + 3 tbsp water) and use a high-protein soy yogurt instead of Greek yogurt. Replace the honey with maple syrup."
   - "Spotty Bananas Only: Use the brownest, ugliest bananas you can find. They mash easier, provide natural caramel notes, and dramatically reduce the need for added sweeteners."
   - "Don't Over-Mix: Stir the wet and dry ingredients until *just* combined. Over-mixing activates the oat starches and can make your muffins dense and rubbery instead of light and fluffy."
+works:
+  - "Moisture Lock: The mashed bananas and Greek yogurt provide incredible hydration to the bake, completely eliminating the need for heavy oils or butter."
+  - "Oat Flour Science: The finely ground oats absorb the liquid ingredients efficiently, acting as a gluten-free binder that yields a dense, brownie-like texture."
 rating: 
 reviews: 
 flavor_profile: "Sweet, Chocolatey, Fudgy"

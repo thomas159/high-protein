@@ -16,6 +16,9 @@ tips:
   - "Apple Choice: Use a tart apple variety like Granny Smith or Braeburn. Their sharp acidity perfectly balances the sweet, protein-heavy oat topping."
   - "Foil Shield: If your oat crumble starts to brown too quickly in the air fryer before the apples are soft, simply cover the ramekin loosely with a small piece of tin foil."
   - "Butter Temperature: Use melted butter or warm coconut oil for the topping. It binds the protein powder and oats together to create those satisfying, chunky clusters."
+works:
+  - "Textural Contrast: The moisture of the steaming apples underneath keeps the base soft, while the direct heat of the air fryer blasts the top layer into a crunchy, golden shell."
+  - "Protein Power: Replacing standard flour with protein powder boosts the macro profile incredibly well, acting as a functional binder that doesn't compromise the dessert's integrity."
 rating: 
 reviews: 
 flavor_profile: "Sweet, Cinnamon, Crunchy"

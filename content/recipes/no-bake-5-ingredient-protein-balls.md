@@ -16,6 +16,9 @@ tips:
   - "Texture Control: If the mixture is too dry, add a splash of milk or a teaspoon of water; if it's too sticky, sprinkle in a few more oats or protein powder."
   - "Flavor Upgrades: Try folding in dark chocolate chips, dried cranberries, or a pinch of cinnamon to keep your snacking exciting."
   - "Chill for Easy Rolling: Pop the bowl in the fridge for 10 minutes before rolling to help the nut butter firm up and reduce mess."
+works:
+  - "Natural Binders: The sticky consistency of the peanut butter and honey perfectly traps the dry oats and protein powder, removing the need to bake them."
+  - "Carb to Fat Ratio: Combining the complex, slow-digesting carbs of the oats with the healthy fats in the nut butter prevents sharp blood sugar spikes."
 rating: 
 reviews:
 flavor_profile: "Sweet, Nutty, Creamy"

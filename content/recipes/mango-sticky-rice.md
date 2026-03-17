@@ -18,6 +18,9 @@ tips:
   - "Don't Skip the Soak: Glutinous rice requires soaking for at least 6 hours (or 1 hour in boiling water) to soften the tough outer shell and ensure an even, tender steam."
   - "Hot Rice, Cold Milk: Always mix the sweetened coconut cream into the rice while the rice is piping hot. The heat helps the grains absorb the liquid perfectly."
   - "The Salt Finish: A tiny pinch of salt in the coconut glaze is the secret ingredient. It sharply contrasts the sweet mango and rich sugar, making all the flavors pop."
+works:
+  - "Starch Gelatinization: Steaming the pre-soaked glutinous rice properly converts the complex starches, giving it that iconic, sticky, chewy texture."
+  - "Osmosis Action: Pouring the coconut milk over the hot rice causes the grains to expand and drink in the creamy liquid, trapping the flavor internally."
 rating: 
 reviews: 
 flavor_profile: "Sweet, Creamy, Tropical"

@@ -17,6 +17,9 @@ tips:
   - "Adobo Power: Don't just use the chipotle pepper! Spoon in an extra teaspoon of the smoky adobo sauce from the can for a massive, concentrated flavor boost."
   - "Press and Score: Thoroughly press your tofu, then use a knife to lightly score the surface. This creates tiny channels for the zesty lime and smoky chili to penetrate."
   - "The Citrus Finish: The heat destroys some of the fresh lime notes during cooking. Squeeze an extra wedge of raw lime over the tofu right as it comes out of the pan to revive the zing."
+works:
+  - "Acidic Breakdown: The lime juice softens the dense outer layer of the tofu, allowing the robust spices and smoky oils to soak past the surface."
+  - "Sugar Caramelization: The chipotle adobo sauce contains natural sugars that rapidly char and form a BBQ-style bark under the intense heat of the air fryer."
 rating: 
 reviews: 
 flavor_profile: "Earthy, Spicy, Savory"

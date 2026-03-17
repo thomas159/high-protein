@@ -17,6 +17,9 @@ tips:
   - "Room Temp Ingredients: Ensure your cream cheese and egg are at room temperature before mixing. Cold ingredients will seize up, causing a lumpy, uneven batter."
   - "The Gentle Wobble: Pull the cheesecake from the air fryer while the very center still has a slight 'jiggle.' It will continue to cook and set perfectly as it cools down."
   - "Patience is Key: Do not rush the chilling process! The cheesecake needs at least 2 hours in the fridge to develop that classic, dense texture and for the sweetener flavors to mellow."
+works:
+  - "Yogurt Substitution: Greek yogurt provides the necessary volume and tang of a traditional cheesecake but slashes the heavy fat and calorie content drastically."
+  - "Air Fryer Consistency: The small, sealed environment of the air fryer acts like an intense convection oven, cooking the dense protein structure of the egg and cheese incredibly fast."
 flavor_profile: "Sweet, Creamy, Tangy"
 servingSuggestions: "Serving your cheesecake with the right accompaniments can elevate the dessert experience. Fresh fruit is a classic pairing that adds a burst of flavor and a touch of natural sweetness. Consider topping your cheesecake with a mix of berries, such as strawberries, blueberries, and raspberries. The tartness of the berries complements the creamy richness of the cheesecake perfectly."
 storageInstructions: "Store in the fridge, covered, for up to 4 days. You can freeze the cheesecake whole or in slices for up to 2 months. Thaw overnight in the fridge before eating."
