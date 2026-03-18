@@ -1,69 +1,30 @@
 <script setup lang="ts">
 const appConfig = useAppConfig()
+const { initializeScripts, checkConsent } = useAnalytics()
+
 const showBanner = ref(false)
 
-// We define our IDs here for easy updates
-const GA_ID = 'G-YHZ3LGX35G'
-const ADSENSE_ID = 'ca-pub-2508418027852597'
-
-// Reactive state to control when scripts are injected into the DOM
-const scriptsEnabled = ref(false)
-
-// UseHead will reactively inject these tags as soon as scriptsEnabled becomes true
-useHead({
-  script: computed(() => {
-    if (!scriptsEnabled.value) return []
-    return [
-      // 1. Google Analytics (Main Tag)
-      {
-        src: `https://www.googletagmanager.com/gtag/js?id=${GA_ID}`,
-        async: true
-      },
-      // 2. Google AdSense
-      {
-        src: `https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${ADSENSE_ID}`,
-        async: true,
-        crossorigin: 'anonymous'
-      }
-    ]
-  })
-})
-
-const initializeScripts = () => {
-  scriptsEnabled.value = true
-
-  // 3. Initialize gtag logic
-  window.dataLayer = window.dataLayer || []
-  
-  // Replace 'arguments' with rest parameters (...args)
-  function gtag(...args: any[]) { 
-    window.dataLayer.push(args) 
-  }
-  
-  gtag('js', new Date())
-  gtag('config', GA_ID, {
-    cookie_domain: 'auto'
-  })
-}
-
 onMounted(() => {
-  const consent = localStorage.getItem('cookie-consent')
+  // We check consent status on mount
+  const consent = checkConsent()
+  
+  // Only show the banner if no choice (accepted/declined) has been made yet
   if (!consent) {
     showBanner.value = true
-  } else if (consent === 'accepted') {
-    initializeScripts()
   }
 })
 
 const acceptCookies = () => {
   localStorage.setItem('cookie-consent', 'accepted')
   showBanner.value = false
+  // Trigger the script injection immediately
   initializeScripts()
 }
 
 const declineCookies = () => {
   localStorage.setItem('cookie-consent', 'declined')
   showBanner.value = false
+  // We do NOT call initializeScripts here
 }
 </script>
 
@@ -98,8 +59,8 @@ const declineCookies = () => {
         <div class="grid grid-cols-2 gap-3 mt-6">
           <button 
             id="cookieDecline"
-            role="button"
-            aria-label="cookieDecline"
+            type="button"
+            aria-label="Decline cookies"
             @click="declineCookies"
             class="px-4 py-2 text-sm font-medium border border-border rounded-lg hover:bg-muted transition-colors cursor-pointer"
           >
@@ -107,8 +68,8 @@ const declineCookies = () => {
           </button>
           <button 
             id="cookieAccept"
-            role="button"
-            aria-label="cookieAccept"
+            type="button"
+            aria-label="Accept all cookies"
             @click="acceptCookies"
             class="px-4 py-2 text-sm font-medium bg-emerald-500 text-white rounded-lg hover:bg-emerald-600 transition-colors cursor-pointer"
           >

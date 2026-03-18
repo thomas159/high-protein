@@ -1,10 +1,13 @@
 <script setup lang="ts">
 const { siteName, siteDescription } = useAppConfig()
+const { checkConsent } = useAnalytics()
 
-// This loads GA4 only when the browser is idle to keep your site fast
+onMounted(() => {
+  // This will fire scripts immediately if 'accepted' is in localStorage
+  checkConsent()
+})
 useHead({
   titleTemplate: (title) => title ? `${title} | ${siteName}` : siteName,
-  // adsense
   meta: [
     // Pinterest Domain Verification
     { name: 'p:domain_verify', content: 'e4bd68dbe0b0482e0504097aa8617742' },
