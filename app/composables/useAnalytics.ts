@@ -1,6 +1,10 @@
 // composables/useAnalytics.ts
+import { useHead, useState, computed } from '#imports'
+
 export const useAnalytics = () => {
-  const scriptsEnabled = useState('scripts_enabled', () => false)
+  const scriptsEnabled = useState<boolean>('scripts_enabled', () => false)
+  
+  // Your specific IDs
   const GTM_ID = 'GTM-WHMK6XD7'
   const GA_ID = 'G-YHZ3LGX35G'
   const ADSENSE_ID = 'ca-pub-2508418027852597'
@@ -10,43 +14,49 @@ export const useAnalytics = () => {
     
     scriptsEnabled.value = true
 
-    // Initialize dataLayer for GTM
+    // 1. Initialize DataLayer for GTM
     window.dataLayer = window.dataLayer || []
     window.dataLayer.push({
       'gtm.start': new Date().getTime(),
       event: 'gtm.js'
     })
 
-    // Existing gtag logic for GA4
+    // 2. Define gtag globally
     window.gtag = function (...args: any[]) { 
       window.dataLayer.push(args) 
     }
+    
+    // 3. Configure GA4 Measurement ID
     window.gtag('js', new Date())
-    window.gtag('config', GA_ID)
+    window.gtag('config', GA_ID, {
+      cookie_domain: 'auto',
+      // Sending the stream name as a custom dimension can be helpful
+      stream_name: 'hotrecipes' 
+    })
   }
 
   useHead({
     script: computed(() => {
       if (!scriptsEnabled.value) return []
       return [
-        // Google Tag Manager
+        // Google Tag Manager Script
         {
           src: `https://www.googletagmanager.com/gtm.js?id=${GTM_ID}`,
           async: true,
-          key: 'gtm-script'
+          key: 'gtm-js'
         },
-        // GA4
+        // Google Analytics 4 (Measurement ID: G-YHZ3LGX35G)
         {
           src: `https://www.googletagmanager.com/gtag/js?id=${GA_ID}`,
           async: true,
-          key: 'google-analytics'
+          key: 'ga-js'
         },
-        // AdSense
+        // Google AdSense
         {
-          src: `https://pagead2.googlesyndication.com/adsbygoogle.js?client=${ADSENSE_ID}`,
+          src: `https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${ADSENSE_ID}`,
           async: true,
           crossorigin: 'anonymous',
-          key: 'google-adsense'
+          key: 'ads-js'
         }
       ]
     })
@@ -61,5 +71,9 @@ export const useAnalytics = () => {
     return consent
   }
 
-  return { scriptsEnabled, initializeScripts, checkConsent }
+  return {
+    scriptsEnabled,
+    initializeScripts,
+    checkConsent
+  }
 }
