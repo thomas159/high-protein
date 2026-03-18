@@ -17,7 +17,10 @@ export const useAnalytics = () => {
     }
     
     window.gtag('js', new Date())
-    window.gtag('config', GA_ID, { cookie_domain: 'auto' })
+    window.gtag('config', GA_ID, { 
+      cookie_domain: 'auto',
+      debug_mode: true
+    })
   }
 
   const initializeScripts = () => {
