@@ -1,3 +1,5 @@
+import { computed, useHead, useState } from '#imports'
+
 export const useAnalytics = () => {
   // Use a standard ref or useState to track activation
   const scriptsEnabled = useState('scripts_enabled', () => false)
