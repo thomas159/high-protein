@@ -1,49 +1,50 @@
-import { computed, useHead, useState } from '#imports'
-
+// composables/useAnalytics.ts
 export const useAnalytics = () => {
-  // Use a standard ref or useState to track activation
   const scriptsEnabled = useState('scripts_enabled', () => false)
+  const GTM_ID = 'GTM-WHMK6XD7'
   const GA_ID = 'G-YHZ3LGX35G'
   const ADSENSE_ID = 'ca-pub-2508418027852597'
 
-  // Define the helper function globally for the browser
-  const defineGtag = () => {
-    if (import.meta.server) return
-    
-    window.dataLayer = window.dataLayer || []
-    // Assigning to window fixes the "gtag is not defined" error
-    window.gtag = function (...args: any[]) { 
-      window.dataLayer.push(args) 
-    }
-    
-    window.gtag('js', new Date())
-    window.gtag('config', GA_ID, { 
-      cookie_domain: 'auto',
-      debug_mode: true
-    })
-  }
-
   const initializeScripts = () => {
-    // Prevent double-initialization or server-side execution
     if (import.meta.server || scriptsEnabled.value) return
     
     scriptsEnabled.value = true
-    defineGtag()
+
+    // Initialize dataLayer for GTM
+    window.dataLayer = window.dataLayer || []
+    window.dataLayer.push({
+      'gtm.start': new Date().getTime(),
+      event: 'gtm.js'
+    })
+
+    // Existing gtag logic for GA4
+    window.gtag = function (...args: any[]) { 
+      window.dataLayer.push(args) 
+    }
+    window.gtag('js', new Date())
+    window.gtag('config', GA_ID)
   }
 
-  // Nuxt/Unhead will watch this computed property
   useHead({
     script: computed(() => {
       if (!scriptsEnabled.value) return []
       return [
-        { 
-          src: `https://www.googletagmanager.com/gtag/js?id=${GA_ID}`, 
+        // Google Tag Manager
+        {
+          src: `https://www.googletagmanager.com/gtm.js?id=${GTM_ID}`,
           async: true,
-          key: 'google-analytics' // Adding keys helps Nuxt manage the tags
+          key: 'gtm-script'
         },
-        { 
-          src: `https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${ADSENSE_ID}`, 
-          async: true, 
+        // GA4
+        {
+          src: `https://www.googletagmanager.com/gtag/js?id=${GA_ID}`,
+          async: true,
+          key: 'google-analytics'
+        },
+        // AdSense
+        {
+          src: `https://pagead2.googlesyndication.com/adsbygoogle.js?client=${ADSENSE_ID}`,
+          async: true,
           crossorigin: 'anonymous',
           key: 'google-adsense'
         }
@@ -60,9 +61,5 @@ export const useAnalytics = () => {
     return consent
   }
 
-  return {
-    scriptsEnabled,
-    initializeScripts,
-    checkConsent
-  }
+  return { scriptsEnabled, initializeScripts, checkConsent }
 }

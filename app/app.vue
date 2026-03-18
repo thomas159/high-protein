@@ -1,6 +1,6 @@
 <script setup lang="ts">
 const { siteName, siteDescription } = useAppConfig()
-const { checkConsent } = useAnalytics()
+const { checkConsent, scriptsEnabled } = useAnalytics()
 
 onMounted(() => {
   // This will fire scripts immediately if 'accepted' is in localStorage
@@ -8,6 +8,15 @@ onMounted(() => {
 })
 useHead({
   titleTemplate: (title) => title ? `${title} | ${siteName}` : siteName,
+  noscript: computed(() => {
+    if (!scriptsEnabled.value) return []
+    return [
+      {
+        children: `<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WHMK6XD7" height="0" width="0" style="display:none;visibility:hidden"></iframe>`,
+        body: true // This forces it to the top of the body
+      }
+    ]
+  }),
   meta: [
     // Pinterest Domain Verification
     { name: 'p:domain_verify', content: 'e4bd68dbe0b0482e0504097aa8617742' },
