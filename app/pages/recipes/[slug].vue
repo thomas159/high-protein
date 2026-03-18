@@ -221,7 +221,7 @@ useHead({
     </div>
 
     <h2 id="relatedRecipes" class="mt-8">Related Recipes</h2>
-    <div class="grid grid-cols-2 gap-main -mx-4">
+    <div class="grid grid-cols-2 gap-main -mx-4 lg:-mx-0">
       <RecipeCard v-for="relatedRecipe in relatedRecipes" :key="relatedRecipe.slug" :recipe="relatedRecipe" />
     </div>
   </main>
