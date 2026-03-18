@@ -17,7 +17,8 @@ export default defineNuxtConfig({
     '@nuxt/test-utils/module',
     '@nuxtjs/seo',
     '@nuxt/scripts',
-    '@vercel/analytics'
+    '@vercel/analytics',
+    '@vercel/speed-insights'
   ],
   // Site Configuration
   site: {
