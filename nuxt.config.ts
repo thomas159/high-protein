@@ -80,11 +80,11 @@ export default defineNuxtConfig({
     domains: ['high-protein.vercel.app'],
     provider: 'cloudinary',
     cloudinary: {
-      baseURL: 'https://res.cloudinary.com/mealse-co-uk/image/fetch',
-      modifiers: {
-        effect: 'sharpen:100',
-        quality: 'auto:best'
-      }
+      baseURL: 'https://res.cloudinary.com/mealse-co-uk/image/upload/f_auto,q_auto/',
+      // modifiers: {
+      //   effect: 'sharpen:100',
+      //   quality: 'auto:best'
+      // }
     },
     // dir: 'public/images',
     // quality: 80,

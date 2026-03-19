@@ -4,18 +4,23 @@ export interface Src {
   src?: string;
 }
 
-const props = defineProps<{
+const props = withDefaults(defineProps<{
   src?: string;
   alt?: string;
-}>();
+  high?: boolean;
+}>(), {
+  src: 'https://images.unsplash.com/photo-1520072959219-c595dc870360?auto=format&fit=crop&q=80&w=1000',
+  alt: 'Recipe Image',
+  high: false,
+});
 </script>
 
 <template>
   <NuxtImg 
-    :src="props.src 
-      ? `https://res.cloudinary.com/mealse-co-uk/image/upload/f_auto,q_auto/${props.src}` 
-      : 'https://images.unsplash.com/photo-1520072959219-c595dc870360?auto=format&fit=crop&q=80&w=1000'"
-    :alt="props.alt || 'Recipe Image'"
-    loading="lazy" 
+    provider="cloudinary"
+    :src="props.src"
+    :alt="props.alt"
+    :preload="props.high && { fetchPriority: 'high' }"
+    :loading="!props.high ? 'lazy' : 'eager'"
     class="w-full h-full object-cover" />
 </template>
