@@ -27,6 +27,7 @@ export interface Recipe {
 }
 const props = defineProps<{
   recipe: Recipe;
+  high: boolean;
 }>();
 </script>
 
@@ -37,7 +38,9 @@ const props = defineProps<{
   >
     <div class="h-52 w-full overflow-hidden relative">
       <Img 
-        :src="props.recipe.image" 
+        :src="props.recipe.image"   
+        :high="props.high"
+        :alt="props.recipe.title"
         class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110" 
       />
       <div class="absolute top-3 left-3">

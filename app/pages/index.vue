@@ -61,6 +61,7 @@ const categories = [
    <HomeMobileScroll 
       :recipes="trendingRecipes" 
       title="Trending This Week"
+      high
     />
   
     <HomeMobileScroll 

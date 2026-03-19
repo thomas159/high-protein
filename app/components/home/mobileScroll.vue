@@ -36,11 +36,13 @@ const props = defineProps<{
              md:mx-0 md:px-0 md:pb-0 md:grid-flow-row md:grid-cols-2 lg:grid-cols-4"
     >
       <div 
-        v-for="recipe in recipes" 
+        v-for="(recipe, index) in recipes" 
         :key="recipe.slug" 
-        class="flex flex-col snap-center"
-      >
-        <RecipeCard :recipe="recipe" class="h-full" />
+        class="flex flex-col snap-center">
+        <RecipeCard 
+          :recipe="recipe" 
+          :high="index === 0" 
+          class="h-full" />
       </div>
     </div>
   </section>
