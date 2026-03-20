@@ -16,17 +16,6 @@ onMounted(() => {
  */
 useHead({
   titleTemplate: (title) => title ? `${title} | ${siteName}` : siteName,
-  
-  noscript: computed(() => {
-    if (status.value !== 'loaded') return []
-    return [
-      {
-        children: `<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WHMK6XD7" height="0" width="0" style="display:none;visibility:hidden"></iframe>`,
-        body: true 
-      }
-    ]
-  }),
-
   meta: [
     { name: 'p:domain_verify', content: 'e4bd68dbe0b0482e0504097aa8617742' },
     { name: 'description', content: siteDescription }
