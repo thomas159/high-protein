@@ -19,6 +19,7 @@ Allow: /
 Allow: /sitemap.xml
 Allow: /privacy-policy/
 Allow: /terms-of-service/
+Allow: /contact/
 
 
 # Link to your Sitemap
