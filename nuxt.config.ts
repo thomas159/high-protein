@@ -20,6 +20,13 @@ export default defineNuxtConfig({
     '@vercel/analytics',
     '@vercel/speed-insights'
   ],
+  scripts: {
+    registry: {
+      googleAnalytics: {
+        id: 'G-YHZ3LGX35G'
+      }
+    }
+  },
   // Site Configuration
   site: {
     url: 'https://hotrecipes.co.uk',
