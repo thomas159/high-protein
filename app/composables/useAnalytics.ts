@@ -1,38 +1,31 @@
-// composables/useAnalytics.ts
 export const useAnalytics = () => {
-  // 1. Initialize the official scripts (won't load yet if trigger is manual)
-  const ga = useScriptGoogleAnalytics({
-    id: 'G-YHZ3LGX35G',
-    trigger: 'manual',
-    options: {
-      initialDataLayer: { debug_mode: true } // Replaces your manual debug_mode logic
-    }
-  })
-
-  const gtm = useScriptGoogleTagManager({
+  // Only manage GTM. GA4 will be triggered BY GTM.
+  const { load, status, proxy } = useScriptGoogleTagManager({
     id: 'GTM-WHMK6XD7',
-    trigger: 'manual'
+    trigger: 'manual' 
   })
 
-  const initializeScripts = () => {
-    // Nuxt Scripts handles the "already loaded" check internally
-    ga.load()
-    gtm.load()
+  const grantConsent = () => {
+    if (!import.meta.client) return
+    
+    // 1. Tell GTM/GA that consent is granted (Consent Mode v2)
+    proxy.dataLayer.push({
+      event: 'default_consent_granted',
+      'ad_storage': 'granted',
+      'analytics_storage': 'granted'
+    })
+
+    // 2. Load the actual GTM script
+    load()
+    
+    localStorage.setItem('cookie-consent', 'accepted')
   }
 
   const checkConsent = () => {
-    if (!import.meta.client) return null
-    const consent = localStorage.getItem('cookie-consent')
-    if (consent === 'accepted') {
-      initializeScripts()
+    if (import.meta.client && localStorage.getItem('cookie-consent') === 'accepted') {
+      grantConsent()
     }
-    return consent
   }
 
-  return { 
-    initializeScripts, 
-    checkConsent,
-    // You can expose the proxy if you need to call gtag('event', ...) elsewhere
-    gtag: ga.proxy.gtag 
-  }
+  return { grantConsent, checkConsent, status }
 }

@@ -22,8 +22,8 @@ export default defineNuxtConfig({
   ],
   scripts: {
     registry: {
-      googleAnalytics: {
-        id: 'G-YHZ3LGX35G'
+      googleTagManager: {
+        id: 'GTM-WHMK6XD7'
       }
     }
   },
