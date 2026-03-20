@@ -5,26 +5,23 @@ const { initializeScripts, checkConsent } = useAnalytics()
 const showBanner = ref(false)
 
 onMounted(() => {
-  // We check consent status on mount
   const consent = checkConsent()
   
-  // Only show the banner if no choice (accepted/declined) has been made yet
-  if (!consent) {
+  // If consent is NOT 'accepted' AND NOT 'declined', show the banner
+  if (consent !== 'accepted' && consent !== 'declined') {
     showBanner.value = true
   }
 })
 
 const acceptCookies = () => {
-  localStorage.setItem('cookie-consent', 'accepted')
-  showBanner.value = false
-  // Trigger the script injection immediately
+  // initializeScripts already sets the localStorage for you in our composable
   initializeScripts()
+  showBanner.value = false
 }
 
 const declineCookies = () => {
   localStorage.setItem('cookie-consent', 'declined')
   showBanner.value = false
-  // We do NOT call initializeScripts here
 }
 </script>
 
