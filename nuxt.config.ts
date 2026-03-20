@@ -22,12 +22,8 @@ export default defineNuxtConfig({
   ],
   scripts: {
     registry: {
-      googleTagManager: {
-        id: 'GTM-WHMK6XD7',
-       // Replace 'auto' with your actual domain to force the cookie scope
-        cookie_domain: 'hotrecipes.co.uk',
-        // Optional: Ensures the cookie is only sent over HTTPS
-        cookie_flags: 'SameSite=None;Secure'
+      googleAnalytics: {
+        id: 'G-YHZ3LGX35G' // Your GA4 Measurement ID
       }
     }
   },

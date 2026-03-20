@@ -1,38 +1,43 @@
 // composables/useAnalytics.ts
 export const useAnalytics = () => {
-  const { load, status, proxy } = useScriptGoogleTagManager({
-    id: 'GTM-WHMK6XD7',
+  const { load, status, proxy } = useScriptGoogleAnalytics({
+    id: 'G-YHZ3LGX35G',
     trigger: 'manual',
   })
 
   const initializeScripts = () => {
     if (!import.meta.client) return
     
-    // 1. Manually ensure dataLayer exists before GTM script arrives
-    window.dataLayer = window.dataLayer || []
-    
-    // 2. Push Consent BEFORE loading
-    window.dataLayer.push({
-      'event': 'consent_update',
+    // 1. Save consent locally
+    localStorage.setItem('cookie-consent', 'accepted')
+
+    // 2. Set GA4 Consent Mode directly
+    proxy.gtag('consent', 'update', {
       'analytics_storage': 'granted',
       'ad_storage': 'granted',
       'ad_user_data': 'granted',
       'ad_personalization': 'granted'
     })
 
-    // 3. Save and Load
-    localStorage.setItem('cookie-consent', 'accepted')
-    load() 
+    // 3. Fire the script
+    load()
   }
 
   const checkConsent = () => {
     if (!import.meta.client) return 'pending'
     const consent = localStorage.getItem('cookie-consent')
+    
     if (consent === 'accepted') {
       load() 
     }
     return consent 
   }
 
-  return { initializeScripts, checkConsent, status }
+  return { 
+    initializeScripts, 
+    checkConsent, 
+    status,
+    // Use this for custom events: trackEvent('purchase', { value: 10 })
+    trackEvent: (name: string, params?: object) => proxy.gtag('event', name, params)
+  }
 }
