@@ -29,7 +29,8 @@ export default defineNuxtConfig({
           cookie_domain: 'auto'
         }
       }
-    },
+    }
+  },
   // Site Configuration
   site: {
     url: 'https://hotrecipes.co.uk',
