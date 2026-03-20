@@ -20,14 +20,14 @@ export default defineNuxtConfig({
     '@vercel/analytics',
     '@vercel/speed-insights'
   ],
-  sscripts: {
+  scripts: {
     registry: {
       googleTagManager: {
         id: 'GTM-WHMK6XD7',
-        // This ensures GTM knows how to handle the domain during initialization
-        options: {
-          cookie_domain: 'auto'
-        }
+       // Replace 'auto' with your actual domain to force the cookie scope
+        cookie_domain: 'hotrecipes.co.uk',
+        // Optional: Ensures the cookie is only sent over HTTPS
+        cookie_flags: 'SameSite=None;Secure'
       }
     }
   },
