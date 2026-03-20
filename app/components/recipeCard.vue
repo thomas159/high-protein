@@ -27,7 +27,7 @@ export interface Recipe {
 }
 const props = defineProps<{
   recipe: Recipe;
-  high: boolean;
+  high?: boolean;
 }>();
 </script>
 

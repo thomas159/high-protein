@@ -1,31 +1,34 @@
+// composables/useAnalytics.ts
 export const useAnalytics = () => {
-  // Only manage GTM. GA4 will be triggered BY GTM.
   const { load, status, proxy } = useScriptGoogleTagManager({
     id: 'GTM-WHMK6XD7',
     trigger: 'manual' 
   })
 
-  const grantConsent = () => {
+  // This is the function the banner needs
+  const initializeScripts = () => {
     if (!import.meta.client) return
     
-    // 1. Tell GTM/GA that consent is granted (Consent Mode v2)
+    // Set Consent Mode v2 defaults/grants
     proxy.dataLayer.push({
       event: 'default_consent_granted',
-      'ad_storage': 'granted',
-      'analytics_storage': 'granted'
+      'analytics_storage': 'granted',
+      'ad_storage': 'granted'
     })
 
-    // 2. Load the actual GTM script
-    load()
-    
+    load() // Nuxt Scripts triggers the actual network request here
     localStorage.setItem('cookie-consent', 'accepted')
   }
 
   const checkConsent = () => {
     if (import.meta.client && localStorage.getItem('cookie-consent') === 'accepted') {
-      grantConsent()
+      initializeScripts()
     }
   }
 
-  return { grantConsent, checkConsent, status }
+  return { 
+    initializeScripts, // Export this to fix the TypeError
+    checkConsent, 
+    status 
+  }
 }

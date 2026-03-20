@@ -1,50 +1,54 @@
 <script setup lang="ts">
+/**
+ * APP CONFIG & ANALYTICS
+ */
 const { siteName, siteDescription } = useAppConfig()
-const { checkConsent, scriptsEnabled } = useAnalytics()
+// grantConsent is now pulled in to be used in the template
+const { checkConsent, grantConsent, status } = useAnalytics()
 
+// 1. Check if they already accepted in a previous session
 onMounted(() => {
-  // This will fire scripts immediately if 'accepted' is in localStorage
   checkConsent()
 })
+
+/**
+ * HEAD & SCRIPTS
+ */
 useHead({
   titleTemplate: (title) => title ? `${title} | ${siteName}` : siteName,
+  
   noscript: computed(() => {
-    if (!scriptsEnabled.value) return []
+    if (status.value !== 'loaded') return []
     return [
       {
         children: `<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WHMK6XD7" height="0" width="0" style="display:none;visibility:hidden"></iframe>`,
-        body: true // This forces it to the top of the body
+        body: true 
       }
     ]
   }),
+
   meta: [
-    // Pinterest Domain Verification
     { name: 'p:domain_verify', content: 'e4bd68dbe0b0482e0504097aa8617742' },
-    
-    // Standard Description
     { name: 'description', content: siteDescription }
   ],
+
   link: [
     { rel: 'icon', type: 'image/png', href: '/favicon.png' }
   ]
 })
 
+/**
+ * SEO & SOCIAL MEDIA
+ */
 useSeoMeta({
   title: 'Build Muscle, Not Dishes | High-Protein Vegetarian Recipes',
-  description: 'Quick, high-protein vegetarian and vegan meals for people who love to eat but hate to wait. Discover 15-minute tofu marinades and one-pan gains.',
-  
-  // Open Graph (Social Media)
+  description: 'Quick, high-protein vegetarian and vegan meals for people who love to eat but hate to wait.',
   ogTitle: 'Build Muscle, Not Dishes | Plant-Based Fitness Recipes',
   ogDescription: 'Stop washing dishes and start hitting your macros with our 5-minute vegan recipes.',
-  ogImage: `https://www.hotrecipes.co.uk/social-share-cover.png`, 
+  ogImage: 'https://www.hotrecipes.co.uk/social-share-cover.png',
   ogUrl: 'https://www.hotrecipes.co.uk',
   ogType: 'website',
-  
-  // Twitter / X
   twitterCard: 'summary_large_image',
-  twitterTitle: 'Build Muscle, Not Dishes',
-  twitterDescription: 'Easy recipes that don\'t sacrifice flavor or protein.',
-  twitterImage: `https://www.hotrecipes.co.uk/social-share-cover.png`,
 })
 </script>
 
@@ -52,6 +56,32 @@ useSeoMeta({
   <UApp>
     <NuxtLayout>
       <NuxtPage />
+
+      <ClientOnly>
+        <div 
+          v-if="status === 'awaiting'" 
+          class="fixed bottom-4 right-4 z-50 p-4 bg-white dark:bg-gray-900 shadow-xl border border-gray-200 dark:border-gray-800 rounded-lg max-w-sm"
+        >
+          <p class="text-sm mb-3">
+            We use cookies to see if our high-protein recipes are actually helping people gain muscle. Cool?
+          </p>
+          <div class="flex gap-2">
+            <UButton 
+              label="Accept & Cook" 
+              color="primary" 
+              size="sm" 
+              @click="grantConsent" 
+            />
+            <UButton 
+              label="No thanks" 
+              variant="ghost" 
+              size="sm" 
+              @click="status = 'skipped'" 
+            />
+          </div>
+        </div>
+      </ClientOnly>
+
     </NuxtLayout>
   </UApp>
 </template>
