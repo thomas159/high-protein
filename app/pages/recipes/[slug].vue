@@ -38,7 +38,9 @@ if (recipe.value?.categories?.includes('vegan')) {
       description: recipe.value?.meta?.seoMetaDescription || recipe.value?.description,
       image: [`https://res.cloudinary.com/mealse-co-uk/image/upload/f_auto,q_auto/${recipe.value?.image}`], // Must be absolute URL
       author: {
-        name: 'Hot Recipes'
+        '@type': 'Organization',
+        name: 'Hot Recipes',
+        url: 'https://hotrecipes.co.uk'
       },
       // Time mapping
       prepTime: formatIso(recipe.value?.prepTimeMins || 0),
