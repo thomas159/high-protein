@@ -1,5 +1,5 @@
 ---
-title: "High-Protein Tikka Tofu - 15-Min Air-Fryer"
+title: "High-Protein Tikka Tofu - 10-Min Air-Fryer"
 slug: "high-protein-tikka-tofu-marinade"
 meta: {
   seoMetaDescription: "Easy Tikka Tofu Marinade with garam masala and lemon. High-protein, air-fried, and ready in 15 minutes."
