@@ -6,7 +6,7 @@ meta: {
 }
 description: "This 10 Minute Mediterranean Couscous is the ultimate versatile dish—light, fluffy, and bursting with fresh aromatics. Whether you’re looking for a vibrant standalone lunch or a quick, elegant side dish for grilled chicken or roasted vegetables, this recipe delivers maximum flavor with almost zero effort."
 blurb: []
-image: "quick-moroccan-couscous_iavij4"
+image: "quick-moroccan-couscous-1_i53dmp"
 categories: ["dinner", "15-minute-meals"]
 tags: ["vegan"]
 cuisine: "Moroccan"
