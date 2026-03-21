@@ -27,7 +27,7 @@ if (import.meta.server) {
 const dietArray: RecipeDiet[] = ["LowCalorieDiet"];
 
 if (recipe.value?.categories?.includes('vegan')) {
-  dietArray.push("VeganDiet");
+  dietArray.push("VeganDiet", "VegetarianDiet"); // Vegan covers both
 } else if (recipe.value?.categories?.includes('vegetarian')) {
   dietArray.push("VegetarianDiet");
 }
