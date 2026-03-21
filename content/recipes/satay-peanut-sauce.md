@@ -24,7 +24,7 @@ use:
   - "As a Dip: Perfect for Halloumi Satay skewers or fresh vegetable crudités."
   - "As a Dressing: Thin it out with a splash of water and lime juice for a Thai Crunch Salad."
   - "As a Stir-fry Sauce: Toss with rice noodles, vegetables, and bean sprouts for a quick satay-noodle hybrid."
-image: "satay-peanut-sauce_aarllp"
+image: "peanut-satay-sauce_rngtry"
 pintrest: ""
 categories: ["sauces", "15-minute-meals"]
 cuisine: "Thai"
