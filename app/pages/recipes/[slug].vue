@@ -122,7 +122,7 @@ useHead({
 
       <RecipesIngredients class="hidden lg:block" :recipe="recipe" />
 
-      <div id="#recipe" class="lg:col-span-8 lg:pl-6 relative">
+      <div id="recipe" class="lg:col-span-8 lg:pl-6 relative">
         <!-- <div class="absolute top-0 right-0 flex gap-2">
             <button class="p-2 text-muted-foreground hover:text-green-600 dark:hover:text-green-400 hover:bg-green-500/10 rounded-lg transition-colors" title="Share Recipe">
               <svg class="w-5 h-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><line x1="8.59" x2="15.42" y1="13.51" y2="17.49"/><line x1="15.41" x2="8.59" y1="6.51" y2="10.49"/></svg>
@@ -142,7 +142,7 @@ useHead({
           <p v-for="(flav, index) in recipe.flavour" :key="index" class="text-muted-foreground" v-html="formatText(flav)" />
         </div>
 
-        <h2 v-if="recipe.variations?.length" id="flavour" class="mt-12">Variations and combinations of ingredients</h2>
+        <h2 v-if="recipe.variations?.length" id="variations" class="mt-12">Variations and combinations of ingredients</h2>
         <div v-if="recipe.variations?.length" class="mt-4 space-y-4">
           <p v-for="(variation, index) in recipe.variations" :key="index" class="text-muted-foreground" v-html="formatText(variation)" />
         </div>
@@ -162,10 +162,10 @@ useHead({
           <p v-for="(tip, index) in recipe.tips" :key="index" class="text-muted-foreground" v-html="formatText(tip)" />
         </div>
 
-        <h2 v-if="recipe.muscleBuildingTip" id="#muscleBuildingTip" class="mt-12">Muscle building tips</h2>
+        <h2 v-if="recipe.muscleBuildingTip" id="muscleBuildingTip" class="mt-12">Muscle building tips</h2>
         <p class=" text-muted-foreground mb-12" v-html="formatText(recipe.muscleBuildingTip)" />
 
-        <h2 v-if="recipe.servingSuggestions" id="why" class="mt-12">Serving Suggestions and Pairings</h2>
+        <h2 v-if="recipe.servingSuggestions" id="servingSuggestions" class="mt-12">Serving Suggestions and Pairings</h2>
         <p class=" text-muted-foreground" v-html="formatText(recipe.servingSuggestions)" />
 
 

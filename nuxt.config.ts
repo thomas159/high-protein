@@ -33,6 +33,7 @@ export default defineNuxtConfig({
     name: 'Spicy & Healthy Recipes',
     description: 'Quick, low-calorie meals for busy weeknights.',
     defaultLocale: 'en',
+    trailingSlash: false,
   },
   ogImage: {
     enabled: true,
