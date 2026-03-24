@@ -16,8 +16,16 @@ export default defineSitemapEventHandler(async (event) => {
     // 3. Map categories to sitemap format
    const categoryUrls = RECIPE_CATEGORIES.map(cat => ({ loc: cat.link }))
 
+   const keywords = [
+    'high-protein',
+    'fries',
+    'air-fryer',
+    'tofu-marinade'
+   ]
+
+   const collectionUrls = keywords.map(keyword => `/collections/${keyword}-recipes`)
     // 4. Merge and return both
-    return [...recipeUrls, ...categoryUrls]
+    return [...recipeUrls, ...categoryUrls, ...collectionUrls]
 
   } catch (e) {
     console.error('Sitemap handler error:', e)

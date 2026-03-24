@@ -2,13 +2,14 @@
 const appConfig = useAppConfig()
 const route = useRoute()
 
-// Get the dynamic topic from the URL (e.g., 'air-fryer' from '/air-fryer-recipes')
-const topicParam = route.params.topic as string
+// Get the dynamic topic from the URL (e.g., 'air-fryer' from '/collections/air-fryer-recipes')
+// Made reactive so navigating between collections updates the page correctly
+const topicParam = computed(() => (route.params.topic as string) || '')
 
 // Format the topic for display: 'air-fryer' -> 'Air Fryer'
 const topicName = computed(() => {
-  if (!topicParam) return ''
-  return topicParam
+  if (!topicParam.value) return ''
+  return topicParam.value
     .split('-')
     .map(word => word.charAt(0).toUpperCase() + word.slice(1))
     .join(' ')
@@ -35,7 +36,7 @@ const filteredRecipes = computed(() => {
   if (!allRecipes.value) return []
   
   const searchPhrase = topicName.value.toLowerCase() // e.g., 'air fryer'
-  const searchSlug = topicParam.toLowerCase() // e.g., 'air-fryer'
+  const searchSlug = topicParam.value.toLowerCase() // e.g., 'air-fryer'
   
   return allRecipes.value.filter(recipe => {
     const titleMatch = recipe.title?.toLowerCase().includes(searchPhrase)
