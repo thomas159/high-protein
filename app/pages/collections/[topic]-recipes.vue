@@ -15,13 +15,21 @@ const topicName = computed(() => {
     .join(' ')
 })
 
+// Custom text mapping for different collections
+const collectionData = computed(() => {
+  // COLLECTION_DATA is auto-imported from ~/utils/collections.ts
+  return COLLECTION_DATA[topicParam.value] || {
+    description: `Dive into our favorite healthy ${topicName.value.toLowerCase()} recipes that you can whip up in no time to satisfy your cravings!`
+  }
+})
+
 // SEO Metadata
 useHead({
-  title: `The Best Healthy ${topicName.value} Recipes - ${appConfig.siteName || 'Our Blog'}`,
+  title: `${collectionData.value.title || 'The Best Healthy ' + topicName.value + ' Recipes'} - ${appConfig.siteName || 'Our Blog'}`,
   meta: [
     { 
       name: 'description', 
-      content: `Discover our collection of delicious, macro-friendly ${topicName.value.toLowerCase()} recipes. Perfect for satisfying your cravings without the guilt!` 
+      content: collectionData.value.description
     }
   ]
 })
@@ -52,11 +60,14 @@ const filteredRecipes = computed(() => {
 <template>
   <div class="max-w-5xl mx-auto px-4 py-12">
     <header class="text-center mb-16">
-      <h1 class="text-4xl md:text-5xl font-bold mb-6 text-foreground">
+      <h1 v-if="collectionData.title" class="text-4xl md:text-5xl font-bold mb-6 text-foreground">
+        {{ collectionData.title }}
+      </h1>
+      <h1 v-else class="text-4xl md:text-5xl font-bold mb-6 text-foreground">
         The Best <span class="text-emerald-500">{{ topicName }}</span> Recipes
       </h1>
       <p class="text-lg text-muted-foreground leading-relaxed max-w-2xl mx-auto">
-        Dive into our favorite healthy {{ topicName.toLowerCase() }} recipes that you can whip up in no time to satisfy your cravings!
+        {{ collectionData.description }}
       </p>
     </header>
 
