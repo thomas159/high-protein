@@ -10,17 +10,18 @@ const { data: recipe } = await useAsyncData(route.path, () => {
 const formatIso = (mins: number) => `PT${mins}M`
 
 
-// Now integrate with SEO
-// 2. SEO & Schema (Server-only injection)
-if (import.meta.server) {
-  useSeoMeta({
-    title: recipe.value?.title,
-    ogTitle: recipe.value?.title,
-    description: recipe.value?.description,
-    ogDescription: recipe.value?.description,
-    ogImage: recipe.value?.image,
-  })
+// 1. SEO Meta Tags (Dynamic for both SSR & Client Navigation)
+useSeoMeta({
+  title: recipe.value?.title,
+  ogTitle: recipe.value?.title,
+  description: recipe.value?.meta?.seoMetaDescription || recipe.value?.description,
+  ogDescription: recipe.value?.meta?.seoMetaDescription || recipe.value?.description,
+  ogImage: recipe.value?.image ? `https://res.cloudinary.com/mealse-co-uk/image/upload/f_auto,q_auto/${recipe.value?.image}` : undefined,
+  twitterCard: 'summary_large_image',
+})
 
+// 2. Schema (Server-only injection)
+if (import.meta.server) {
  type RecipeDiet = "LowCalorieDiet" | "VeganDiet" | "VegetarianDiet";
 
 // 2. Apply that type to the array, and use the shorthand strings
@@ -109,7 +110,9 @@ const formatText = (text: string) => {
 
 useHead({
   titleTemplate: (title) => title ? `${title} | ${siteName}` : siteName,
-  meta: [{ name: 'description', content: siteDescription }]
+  meta: [
+    ...(recipe.value?.keywords?.length ? [{ name: 'keywords', content: recipe.value.keywords.join(', ') }] : [])
+  ]
 })
 </script>
 
