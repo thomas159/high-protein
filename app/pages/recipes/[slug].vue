@@ -85,7 +85,7 @@ if (recipe.value?.categories?.includes('vegan')) {
 
 const { data: relatedRecipes } = await useAsyncData(`${route.path}-related`, async () => {
   // Guard: if no recipe found, return empty array
-  if (!recipe.value?.categories) return []
+  if (!recipe.value?.categories || recipe.value.categories.length === 0) return []
 
   // Get the first category from the current recipe's array
   const primaryCategory = recipe.value.categories[0]
@@ -97,6 +97,28 @@ const { data: relatedRecipes } = await useAsyncData(`${route.path}-related`, asy
     .all()
 }, {
   watch: [recipe], // Re-run if the main recipe changes
+  default: () => []
+})
+
+// Randomized Feature: "You Might Also Like"
+const { data: randomizedRecipes } = await useAsyncData(`${route.path}-random`, async () => {
+  if (!recipe.value?.categories || recipe.value.categories.length === 0) return []
+
+  const primaryCategory = recipe.value.categories[0]
+
+  const matchingRecipes = await queryCollection('recipes')
+    .where('categories', 'LIKE', `%${primaryCategory}%`)
+    .where('slug', '<>', recipe.value.slug)
+    .all()
+
+  // Exclude the recipes already shown in the standard "Related Recipes" section
+  const relatedSlugs = relatedRecipes.value?.map(r => r.slug) || []
+  const uniqueRecipes = matchingRecipes.filter(r => !relatedSlugs.includes(r.slug))
+
+  // Shuffle the remaining unique recipes and grab 4 random ones
+  return uniqueRecipes.sort(() => 0.5 - Math.random()).slice(0, 4)
+}, {
+  watch: [recipe],
   default: () => []
 })
 
@@ -153,6 +175,11 @@ useHead({
         <h2 v-if="recipe.use?.length" id="use" class="mt-12">How to serve</h2>
         <div v-if="recipe.use?.length" class="mt-4 space-y-4">
           <p v-for="(u, index) in recipe.use" :key="index" class="text-muted-foreground" v-html="formatText(u)" />
+        </div>
+
+        <h2 v-if="randomizedRecipes?.length" id="youMightAlsoLike" class="mt-12">You Might Also Like</h2>
+        <div v-if="randomizedRecipes?.length" class="grid grid-cols-2 lg:grid-cols-4 gap-main -mx-4 lg:-mx-0">
+          <RecipeCard v-for="randomRecipe in randomizedRecipes" :key="randomRecipe.slug" :recipe="randomRecipe" />
         </div>
 
         <h2 v-if="recipe.whyTitle && recipe.why?.length" id="why" class="mt-12">{{ recipe.whyTitle }}</h2>
@@ -225,10 +252,11 @@ useHead({
       </div>
     </div>
 
-    <h2 id="relatedRecipes" class="mt-8">Related Recipes</h2>
-    <div class="grid grid-cols-2 gap-main -mx-4 lg:-mx-0">
+    <h2 id="relatedRecipes" class="mt-8">You might also like these similar recipes</h2>
+    <div class="grid grid-cols-2 lg:grid-cols-4 gap-main -mx-4 lg:-mx-0">
       <RecipeCard v-for="relatedRecipe in relatedRecipes" :key="relatedRecipe.slug" :recipe="relatedRecipe" />
     </div>
+
   </main>
   <main v-else>
     <p>Loading Recipe...</p>
