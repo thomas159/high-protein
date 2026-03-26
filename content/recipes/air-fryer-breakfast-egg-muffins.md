@@ -24,10 +24,6 @@ tips:
 works:
   - "Air Circulation: The intense circulating heat of the air fryer cooks the eggs faster than a conventional oven and gives them a wonderful, slightly puffed texture."
   - "Flavor Punch: Sun-dried tomatoes provide an intense, concentrated umami sweetness that pairs perfectly with the salty tang of feta."
-flavour:
-  - "The Base: Light, fluffy, and savory baked eggs."
-  - "The Tang: Salty, creamy, and sharp crumbled feta cheese."
-  - "The Sweetness: Chewy, concentrated sun-dried tomatoes."
 whyTitle: "Why This Combination Works"
 why: 
 - "This dish hits every taste bud: the salty, sharp feta cuts through the richness of the fluffy baked eggs, while the sun-dried tomatoes add a concentrated pop of sweetness that balances the savory base."
@@ -38,7 +34,6 @@ use:
   - "Meal Prep: Make a batch on Sunday and keep them in the fridge for a grab-and-go breakfast all week."
   - "Post-Workout: A rapid, low-carb, high-protein snack to refuel muscles."
   - "Brunch Side: Serve alongside toast and fresh fruit for a complete weekend brunch."
-flavor_profile: "Savory, Salty, Tangy"
 servingSuggestions: "Serve these warm egg muffins with a side of sliced avocado, a piece of whole-grain toast, or a fresh side salad with a light vinaigrette."
 storageInstructions: "Store in an airtight container in the fridge for up to 4 days. Reheat in the microwave for 20-30 seconds. They can also be frozen for up to 2 months; thaw overnight before reheating."
 prepTimeMins: 2
