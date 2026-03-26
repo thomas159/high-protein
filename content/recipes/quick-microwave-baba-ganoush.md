@@ -8,7 +8,6 @@ description: "Craving Middle Eastern flavors but short on time? This microwave v
 image: "quick-microwave-baba-ganoush_douf9l"
 categories: ["dips", "vegan", "15-minute-meals"]
 cuisine: "Middle Eastern"
-flavor_profile: "Smoky, Nutty, Garlicky"
 keywords: ["baba ganoush", "aubergine", "eggplant", "microwave", "middle eastern", "vegan", "dip"]
 tipsTitle: "Smoky Perfection"
 tips:
@@ -18,10 +17,6 @@ tips:
 works:
   - "Internal Steaming: The microwave boils the heavy water content present inside the aubergine, effectively steaming the flesh soft without the need for an oven."
   - "Creamy Emulsion: The high fat and robust flavor of the tahini blends seamlessly into the fibrous aubergine, creating a rich dip without needing dairy."
-flavour:
-  - "The Base: Earthy, soft, and slightly sweet aubergine."
-  - "The Nutty Depth: Rich, savory, and thick tahini paste."
-  - "The Smoke & Tang: A hit of smoked paprika and sharp lemon juice."
 use:
   - "Mezze Platter: The star of the show alongside hummus, falafel, and pita."
   - "Healthy Spread: A low-calorie alternative to mayonnaise in wraps and sandwiches."

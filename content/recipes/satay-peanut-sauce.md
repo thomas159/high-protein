@@ -15,11 +15,6 @@ works:
   - "The Tamarind Factor: Most \"quick\" recipes just use lime, but tamarind adds a fermented depth that is the hallmark of real Thai street food."
   - "Textural Contrast: Using crushed peanuts instead of smooth butter gives the sauce a rustic, premium feel that clings better to skewers or noodles."
   - "Speed vs. Flavor: Because we \"bloom\" the curry paste in the milk, you get hours of slow-cooked flavor in less than 10 minutes."
-flavour:
-  - "The Base: Creamy coconut milk provides a luscious, silky mouthfeel."
-  - "The Heat: Red curry paste adds depth with notes of lemongrass, galangal, and dried chilies."
-  - "The Crunch: Crushed roasted peanuts (or smooth peanut butter) bring a toasted, nutty heart to the sauce."
-  - "The Balance: A splash of soy sauce (salt) and a pinch of brown sugar (sweet) round out the aromatics."
 use:
   - "As a Dip: Perfect for Halloumi Satay skewers or fresh vegetable crudités."
   - "As a Dressing: Thin it out with a splash of water and lime juice for a Thai Crunch Salad."
@@ -35,7 +30,6 @@ variations:
   - "Extra Spicy: Double the red curry paste or add fresh chilies."
 rating: 
 reviews: 
-flavor_profile: "Spicy, Tangy, Nutty"
 servingSuggestions: "This rich satay sauce is a classic pairing for grilled tempeh or tofu skewers, but its uses go far beyond that. Serve it as a decadent dipping sauce for fresh summer rolls packed with herbs and vermicelli. Alternatively, toss it with a cold noodle salad, shredded cabbage, and carrots for a refreshing, flavor-packed summer dish."
 shelf_life: "Stored in airtight container in the fridge for 5 days"
 storageInstructions: "Store in an airtight container in the fridge for up to 5 days. It can be frozen for up to 3 months; thaw in the fridge and whisk well, adding a splash of water if it becomes too thick."

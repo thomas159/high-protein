@@ -9,7 +9,6 @@ image: "creamy-mushroom-pasta_m6794q"
 categories: ["dinner", "vegetarian", "pasta"]
 cuisine: "Italian"
 keywords: ["mushroom pasta", "creamy", "italian", "vegetarian", "comfort food", "white wine"]
-flavor_profile: "Rich, Umami, Savory"
 tipsTitle: "Perfecting the Sauce"
 tips:
   - "Patience with Mushrooms: When you add the mushrooms to the pan, leave them completely undisturbed for 2 minutes. Letting them sear creates a deep, meaty umami crust."
@@ -18,10 +17,6 @@ tips:
 works:
   - "The Maillard Reaction: Searing the mushrooms over high heat creates a caramelized crust, introducing a deep, savory umami profile to the dish."
   - "Starch Emulsion: The starch from the pasta water physically binds the fat in the heavy cream and butter, preventing the sauce from splitting or looking oily."
-flavour:
-  - "The Base: Rich, luxurious heavy cream and salty parmesan cheese."
-  - "The Umami: Deeply caramelized, earthy, and meaty pan-seared mushrooms."
-  - "The Brightness: Crisp white wine cuts through the heavy dairy fat."
 use:
   - "Comfort Food: A hearty, warm dish for cozy evenings."
   - "Date Night: Looks and tastes like a complex restaurant dish with minimal effort."

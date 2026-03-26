@@ -21,15 +21,10 @@ tips:
 works:
   - "Aromatic Awakening: Sautéing the curry paste in coconut fat releases the fat-soluble flavor compounds from the chilies and aromatics."
   - "Sweet and Spicy Synergy: The earthy, natural sweetness of the pureed carrots acts as a perfect counterweight to the intense heat of the Thai red curry."
-flavour:
-  - "The Base: Earthy, naturally sweet pureed carrots."
-  - "The Heat: Aromatic Thai red curry paste with notes of lemongrass and chili."
-  - "The Richness: Silky coconut milk rounds out the spice into a mellow warmth."
 use:
   - "Appetizer: A vibrant, warming starter for a dinner party."
   - "Light Lunch: Pair with crusty bread for a deeply satisfying midday meal."
   - "Freezer Stash: Batch cook and freeze in portions for emergency comfort food."
-flavor_profile: "Spicy, Sweet, Creamy"
 variations:
   - "Ginger Kick: Add a tablespoon of freshly grated ginger."
   - "Sweet Potato Blend: Swap half the carrots for sweet potato."

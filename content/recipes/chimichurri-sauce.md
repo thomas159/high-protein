@@ -20,10 +20,6 @@ tips:
 works:
   - "Maceration Science: Soaking the minced garlic in the red wine vinegar first breaks down its harsh, raw enzymes, resulting in a smooth, integrated pungency."
   - "Fat and Acid Synergy: The rich, heavy mouthfeel of the olive oil is perfectly cut by the sharp vinegar, creating a highly balanced dressing."
-flavour:
-  - "The Base: Vibrant, grassy, and fresh chopped parsley."
-  - "The Tang: Sharp, acidic red wine vinegar that makes your mouth water."
-  - "The Kick: Raw garlic and a subtle chili burn mellowed by rich olive oil."
 use:
   - "As a Marinade: Coat tofu or seitan before grilling."
   - "As a Topping: Spoon over roasted vegetables or potatoes."
@@ -33,7 +29,6 @@ variations:
   - "Cilantro Blend: Replace half the parsley with fresh cilantro."
   - "Lemon Lift: Use fresh lemon juice instead of red wine vinegar."
 reviews: 
-flavor_profile: "Herby, Tangy, Garlicky"
 servingSuggestions: "This vibrant chimichurri is an incredibly versatile condiment. Spoon it generously over freshly grilled seitan steaks, roasted portobello mushrooms, or thick slices of cauliflower steak. It also works beautifully as a zesty dressing for a hearty quinoa and black bean salad, or served in a small dipping bowl alongside warm, crusty bread as an appetizer."
 storageInstructions: "Keep in an airtight jar in the fridge for up to a week. The olive oil may solidify when cold, so let it sit at room temperature for 10 minutes before using. You can freeze chimichurri in ice cube trays for up to 3 months."
 prepTimeMins: 0

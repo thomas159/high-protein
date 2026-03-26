@@ -17,10 +17,6 @@ tips:
 works:
   - "Fermented Depth: The aged kimchi provides instant tang and umami that usually takes hours of slow cooking to achieve."
   - "The Searing Technique: Pressing the rice into the high-heat pan creates crucial textural contrast, delivering those coveted crispy, caramelized edges."
-flavour:
-  - "The Base: Toasted, slightly charred savory rice with nutty sesame notes."
-  - "The Tang: Sour, funky, and vibrant fermented kimchi."
-  - "The Heat: Gochujang adds a sweet, thick, and lingering chili warmth."
 use:
   - "Leftover Rescue: The best way to use up day-old rice and aging kimchi."
   - "Comfort Food: A spicy, warming bowl perfect for late-night cravings."
@@ -33,7 +29,6 @@ variations:
   - "Tofu Scramble: Swap the egg for crumbled, seasoned tofu."
   - "Edamame Addition: Toss in a handful of shelled edamame for protein."
 reviews: 
-flavor_profile: "Spicy, Smoky, Umami"
 servingSuggestions: "A crowning fried egg is essential for kimchi fried rice, as the rich yolk mixes beautifully with the spicy, tangy grains. Serve it with a side of crispy seaweed snacks (gim) to scoop up the rice. A light, clear broth like a simple miso or vegetable soup served alongside helps cleanse the palate between fiery, umami-packed bites."
 storageInstructions: "Store leftovers in an airtight container in the fridge for up to 4 days. This dish freezes beautifully for up to 2 months. Reheat in the microwave or pan straight from frozen."
 prepTimeMins: 0

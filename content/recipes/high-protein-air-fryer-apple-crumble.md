@@ -19,10 +19,6 @@ tips:
 works:
   - "Textural Contrast: The moisture of the steaming apples underneath keeps the base soft, while the direct heat of the air fryer blasts the top layer into a crunchy, golden shell."
   - "Protein Power: Replacing standard flour with protein powder boosts the macro profile incredibly well, acting as a functional binder that doesn't compromise the dessert's integrity."
-flavour:
-  - "The Base: Warm, soft, and naturally sweet cinnamon-spiced apples."
-  - "The Topping: Buttery, toasted, and nutty oat clusters."
-  - "The Richness: A subtle vanilla or caramel note from the protein powder."
 use:
   - "Healthy Dessert: A guilt-free way to finish the evening."
   - "Sweet Breakfast: Pair with Greek yogurt for a fiber-rich start to the day."
@@ -32,7 +28,6 @@ variations:
   - "Berry Mix: Swap half the apples for mixed berries."
   - "Nutty Topping: Add crushed walnuts or pecans to the oat crumble."
 reviews: 
-flavor_profile: "Sweet, Cinnamon, Crunchy"
 servingSuggestions: "This warm, comforting apple crumble is elevated when served with a dollop of cold, high-protein vanilla Greek yogurt or a scoop of low-calorie vanilla ice cream, providing a beautiful hot-and-cold contrast. A light dusting of extra cinnamon on top and a cup of warm chamomile tea makes this the ultimate healthy evening treat."
 shelf_life: "Best eaten immediately while warm."
 storageInstructions: "Store leftovers in the fridge for up to 3 days. Reheat in the air fryer or microwave. The uncooked crumble topping can be mixed and frozen in a bag for up to 3 months."

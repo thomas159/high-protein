@@ -21,17 +21,12 @@ tips:
 works:
   - "Sweet and Savory: The natural sweetness of the roasted carrots pairs perfectly with the salty umami of the parmesan cheese."
   - "Air Fried Crunch: The circulating hot air of the air fryer crisps up the cheese and edges of the carrots using minimal oil."
-flavour:
-  - "The Base: Naturally sweet and earthy roasted carrots."
-  - "The Crust: Salty, crispy, golden parmesan cheese."
-  - "The Kick: Aromatic and pungent minced garlic."
 use:
   - "Healthy Snack: A fantastic low-calorie alternative to potato fries."
   - "Side Dish: Pairs perfectly with burgers, sandwiches, or grilled proteins."
 variations:
   - "Spicy Kick: Toss with a pinch of cayenne pepper."
   - "Vegan Option: Swap parmesan for nutritional yeast."
-flavor_profile: "Sweet, Salty, Savory"
 servingSuggestions: "Serve immediately while hot and crispy, alongside a garlic aioli or a simple yogurt dip."
 storageInstructions: "Best eaten fresh. Leftovers can be stored in the fridge for up to 3 days and reheated in the air fryer to restore some crispness, but they will soften over time. Do not freeze."
 prepTimeMins: 5

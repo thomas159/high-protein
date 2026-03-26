@@ -19,10 +19,6 @@ tips:
 works:
   - "Instant Hydration: Couscous has already been steamed and dried during manufacturing, meaning pouring boiling stock over it instantly rehydrates it without simmering."
   - "Sweet and Salty Balance: The slight sweetness from the sautéed red onions beautifully offsets the sharp, salty punch of the feta cheese."
-flavour:
-  - "The Base: Light, fluffy couscous soaked in savory vegetable stock."
-  - "The Sweetness: Sautéed red onions and peppers provide a caramelized sweetness."
-  - "The Tang: Salty feta cheese and bright lemon juice balance the dish."
 use:
   - "As a Base: Perfect underneath grilled tofu or roasted vegetables."
   - "Meal Prep: Packs well in lunchboxes and tastes great cold."
@@ -32,7 +28,6 @@ variations:
   - "Chickpea Power: Stir in a can of drained chickpeas."
   - "Fruity Twist: Add raisins or dried apricots for extra sweetness."
 reviews: 
-flavor_profile: "Fresh, Tangy, Savory"
 servingSuggestions: "This vibrant couscous makes an excellent bed for grilled proteins like lemon-herb tofu, halloumi skewers, or roasted chickpeas. To enhance its Mediterranean profile, serve it with a dollop of tzatziki or a spoonful of hummus on the side. A side of warm pita bread and a drizzle of high-quality extra virgin olive oil just before serving brings everything together."
 storageInstructions: "Store in an airtight container in the fridge for up to 4 days. Couscous freezes well for up to 3 months. Fluff with a fork after thawing and reheating."
 prepTimeMins: 5

@@ -17,10 +17,6 @@ tips:
 works:
   - "The Pre-baked Canvas: Using pre-cooked naan bread sidesteps the nightmare of dough hydration, guaranteeing a sturdy base that holds up to heavy toppings."
   - "Flavor Layering: The concentrated sweetness of the mango chutney acts perfectly in place of pizza sauce, providing an instant complexity that complements the mild paneer."
-flavour:
-  - "The Base: Sweet, syrupy, and tangy Indian mango chutney."
-  - "The Richness: Mild, milky, and golden-charred paneer cheese."
-  - "The Finish: Fresh, herbal coriander and sweet sautéed onions."
 use:
   - "Fusion Dinner: A creative, rapid alternative to traditional pizza night."
   - "Quick Lunch: Easy to assemble and cook in under 15 minutes."
@@ -33,7 +29,6 @@ variations:
   - "Tikka Topping: Add leftover tikka-marinated tofu cubes."
 rating: 
 reviews: 
-flavor_profile: "Sweet, Spicy, Cheesy"
 servingSuggestions: "Elevate your naan bread pizza by pairing it with a crisp, refreshing side salad dressed with a light vinaigrette to cut through the richness of the cheese. A cooling cucumber raita or an extra dollop of plain yogurt on the side can help balance the sweet and spicy notes of the mango chutney. For an extra kick, serve with a side of mixed Indian pickles."
 storageInstructions: "Best eaten immediately for maximum crispness. Leftovers can be kept in the fridge for up to 2 days and reheated in the air fryer or oven. Do not freeze once assembled."
 prepTimeMins: 0

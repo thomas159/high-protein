@@ -16,10 +16,6 @@ tips:
 works:
   - "Two-Stage Cooking: Air frying the potatoes separately ensures they form a rigid, crispy shell capable of holding up the heavy cheese without turning to mush."
   - "Residual Melting: Adding the cheese at the very end uses the intense circulating heat to turn it molten quickly, avoiding burnt edges."
-flavour:
-  - "The Base: Crispy, savory, golden-brown air-fried potatoes."
-  - "The Richness: Heavy, gooey, and salty melted cheddar cheese."
-  - "The Fire: Sharp, bright, and vinegary jalapeño slices."
 use:
   - "Game Day Grub: The ultimate messy, shareable comfort food."
   - "Decadent Side: Serve alongside a hearty sandwich or wrap."
@@ -36,7 +32,6 @@ variations:
   - "Extra Heat: Drizzle with a vegetarian buffalo sauce."
 rating: 
 reviews: 
-flavor_profile: "Salty, Crispy, Savory"
 servingSuggestions: "These indulgent loaded fries are perfect for sharing. Serve them straight from the basket with a side of cooling ranch dressing or a cilantro-lime crema to help temper the heat of the jalapeños. They make an unbeatable side to a juicy veggie smash burger or pulled \"pork\" jackfruit sandwiches during a weekend game night."
 storageInstructions: "Best served fresh. Leftovers can be kept in the fridge for 2 days and reheated in the air fryer, though texture will soften. Do not freeze."
 prepTimeMins: 5

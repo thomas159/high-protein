@@ -16,10 +16,6 @@ tips:
 works:
   - "Internal Moisture Evaporation: The microwave agitates water molecules inside the potato, effectively steaming it from the inside out until it becomes a dry, crispy shell."
   - "Starch Removal: Soaking the slices pulls out the surface starches that would otherwise cause the potatoes to stick together and turn gummy."
-flavour:
-  - "The Base: Pure, concentrated earthy potato flavor."
-  - "The Seasoning: A simple, clean, and satisfying salty finish."
-  - "The Texture: A shatter-crisp crunch with zero oily aftertaste."
 use:
   - "Healthy Snacking: A zero-oil alternative to store-bought potato chips."
   - "Dipping Companion: Sturdy enough to scoop up thick hummus or guacamole."
@@ -32,7 +28,6 @@ variations:
   - "Spicy BBQ: Toss with smoked paprika and a pinch of chili powder."
 rating: 
 reviews: 
-flavor_profile: "Salty, Crispy, Savory"
 servingSuggestions: "These surprisingly crunchy microwave crisps are the perfect guilt-free snack to enjoy with your favorite dips. Serve them alongside a creamy French onion dip, a tangy salsa, or a rich guacamole. They also make a fantastic, crunchy side to your favorite lunchtime sandwich or wrap, offering all the satisfaction of potato chips without the heavy oils."
 storageInstructions: "Best eaten immediately. Leftovers can be stored in an airtight container at room temperature for 1-2 days, but they may lose some crunch. Do not refrigerate or freeze."
 prepTimeMins: 5

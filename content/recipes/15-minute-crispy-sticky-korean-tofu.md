@@ -8,7 +8,6 @@ description: "Fried until golden and tossed in a harmonious sweet and spicy Goch
 image: "15-minute-crispy-sticky-korean-tofu_vu0qlh"
 pintrest: "sticky-korean-tofu-pintrest_qh2wsc"
 categories: ["vegan", "high-protein"]
-flavor_profile: "Spicy, Sweet, Umami"
 cuisine: "Korean"
 keywords: ["korean tofu", "gochujang", "sticky tofu", "vegan", "high-protein", "15-minute", "crispy"]
 tipsTitle: "Achieving Maximum Crispiness"
@@ -19,10 +18,6 @@ tips:
 works:
   - "Rapid Reduction: The sugar in the sauce caramelizes the moment it hits the hot pan, rapidly transforming a thin liquid into a glossy, sticky coating."
   - "Textural Contrast: The shatter-crisp exterior of the pan-fried tofu provides the perfect structural balance to the heavy, savory-sweet Gochujang glaze."
-flavour:
-  - "The Base: A thick, sticky, and intensely savory soy-ketchup glaze."
-  - "The Heat: Deep, fermented sweetness and spice from Gochujang."
-  - "The Aromatics: Toasted sesame and fresh green onion."
 use:
   - "Main Course: Serve over short-grain rice with steamed broccoli."
   - "Lettuce Wraps: Wrap in crisp butter lettuce with a little ssamjang."

@@ -22,10 +22,6 @@ tips:
 works:
   - "Starch Release: Vigorously stirring the arborio rice after microwaving forces the grains to release their natural starches, creating a creamy sauce without heavy cream."
   - "Controlled Steam: The microwave creates a perfect high-heat, steamy environment that cooks the rice evenly without the need for constant stirring over a hot stove."
-flavour:
-  - "The Base: Creamy, starchy arborio rice enriched with parmesan and butter."
-  - "The Brightness: Jammy, burst cherry tomatoes add a sweet acidity."
-  - "The Depth: A splash of white wine provides a crisp, gourmet background note."
 use:
   - "Quick Dinner: A rapid comfort meal that requires almost zero active cooking."
   - "Lunch Prep: Easy to batch cook and microwave the next day."
@@ -35,7 +31,6 @@ variations:
   - "Cheesy Upgrade: Add a dollop of mascarpone for extra richness."
 rating: 
 reviews: 
-flavor_profile: "Creamy, Savory, Fresh"
 servingSuggestions: "A bowl of this creamy risotto is satisfying on its own, but serving it with a slice of crusty garlic bread is perfect for mopping up every last bit of the rich sauce. A side of lightly dressed rocket (arugula) adds a peppery freshness that cuts through the creaminess. Pair with a chilled glass of crisp white wine, such as Pinot Grigio, to complement the flavors."
 storageInstructions: "Store in an airtight container in the fridge for up to 3 days. Reheat with a splash of water or stock to loosen. Not recommended for freezing as the rice texture can become grainy."
 prepTimeMins: 0

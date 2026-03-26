@@ -19,17 +19,12 @@ tips:
 works:
   - "Acidic Tenderizing: The citric acid from the lime juice gently breaks down the tofu's exterior, allowing the spices to penetrate deeply."
   - "Heat Caramelization: The high heat of the air fryer or pan quickly roasts the ginger and garlic paste, forming a delicious, aromatic crust before the tofu dries out."
-flavour:
-  - "The Base: Warm, complex, and earthy Indian spices."
-  - "The Aromatics: Pungent garlic and sharp, zesty fresh ginger."
-  - "The Tang: Bright lime juice lifts the heavy spice profile."
 use:
   - "Curry Protein: Air-fry and drop into a simmering tikka masala."
   - "Wrap Filling: Serve in a warm flatbread with mint yogurt and salad."
   - "Meal Prep: Stays flavorful and firm in the fridge for days."
 rating: 
 reviews: 
-flavor_profile: "Earthy, Spicy, Savory"
 servingSuggestions: "Serve this deeply flavorful, Indian-spiced tofu alongside a steaming mound of fragrant basmati rice or warm, fluffy naan bread to soak up the aromatic spices. It pairs wonderfully with a cooling cucumber and mint raita or a side of lightly sautéed spinach. For a complete meal, include a portion of hearty dal or a vibrant kachumber salad."
 shelf_life: "Stored in airtight container in the fridge for 5 days"
 storageInstructions: "Keep the uncooked marinated tofu in the fridge for up to 5 days. Can be frozen in the marinade for up to 3 months; thawing actually improves the tofu's chewy texture."

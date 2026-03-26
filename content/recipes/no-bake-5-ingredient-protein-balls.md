@@ -19,10 +19,6 @@ tips:
 works:
   - "Natural Binders: The sticky consistency of the peanut butter and honey perfectly traps the dry oats and protein powder, removing the need to bake them."
   - "Carb to Fat Ratio: Combining the complex, slow-digesting carbs of the oats with the healthy fats in the nut butter prevents sharp blood sugar spikes."
-flavour:
-  - "The Base: Sweet, creamy, and nutty peanut butter."
-  - "The Sweetness: Natural honey and ripe banana notes."
-  - "The Texture: Dense, chewy oats with a rich vanilla protein finish."
 use:
   - "Pre-Workout: A quick hit of energy from fast-digesting carbs and fats."
   - "On-the-Go Snack: Easy to pack in a gym bag or backpack."
@@ -32,7 +28,6 @@ variations:
   - "Chocolate Chip: Fold in vegan dark chocolate chips."
   - "Coconut Coating: Roll the finished balls in desiccated coconut."
 reviews:
-flavor_profile: "Sweet, Nutty, Creamy"
 servingSuggestions: "Keep these energy-dense protein balls chilled and serve them straight from the fridge for the best, fudgy texture. They pair wonderfully with a mid-morning cappuccino or a post-workout protein shake. If you're serving them as a healthier dessert option, arrange them on a platter alongside fresh berries and a small bowl of dark chocolate sauce for dipping."
 shelf_life: "Stored in airtight container in the fridge for 5 days" 
 storageInstructions: "Store in an airtight container in the fridge for up to 2 weeks. They freeze exceptionally well for up to 3 months. Eat straight from the freezer or let them soften for 5 minutes."

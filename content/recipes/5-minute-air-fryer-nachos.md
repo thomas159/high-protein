@@ -16,10 +16,6 @@ tips:
 works:
   - "Dry Heat Melting: Unlike microwaves which steam the chips into a soggy mess, the air fryer uses dry circulating heat to toast the chips while melting the cheese."
   - "Rapid Thermodynamics: The small cooking chamber reaches peak heat in seconds, shaving off the 10-15 minute preheat time associated with conventional ovens."
-flavour:
-  - "The Base: Toasted, crunchy, and salty corn tortilla chips."
-  - "The Richness: A thick blanket of savory melted cheddar."
-  - "The Freshness: Bright tomatoes, sharp onions, and zesty lime."
 use:
   - "Instant Craving: A hot, cheesy snack ready faster than preheating an oven."
   - "Movie Night: Easy to customize with everyone's favorite toppings."
@@ -37,7 +33,6 @@ variations:
   - "Spicy Jalapeno: Top with pickled jalapenos before air frying."
 rating: 
 reviews: 
-flavor_profile: "Salty, Crispy, Savory"
 servingSuggestions: "These lightning-fast nachos are begging to be loaded up with fresh toppings once they come out of the air fryer. Serve them immediately with small bowls of fresh pico de gallo, creamy guacamole, and a dollop of sour cream on the side. A refreshing margarita or an ice-cold lime soda makes for the perfect beverage pairing for this casual snack."
 storageInstructions: "Best enjoyed immediately while hot and crispy. Leftovers will become soggy in the fridge. Do not freeze."
 prepTimeMins: 40

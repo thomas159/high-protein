@@ -15,10 +15,6 @@ works:
   - "Calorie Conscious: By using a tortilla instead of dough, you save roughly 200–300 calories per serving."
   - "Bursting with Flavor: Pesto provides all the seasoning you need—garlic, nuts, cheese, and herbs—in one single ingredient."
   - "Perfect Texture: The high heat of the oven turns the thin tortilla into a delicate, snap-crisp base."
-flavour:
-  - "The Base: Herbal, garlicky, and nutty green pesto."
-  - "The Richness: Salty, bubbling, and savory melted mozzarella."
-  - "The Crunch: A delicate, cracker-thin toasted tortilla crust."
 use:
   - "Low-Calorie Fix: All the pizza flavor with barely any of the carbs."
   - "After-School Snack: Simple enough to make in a hurry."
@@ -34,7 +30,6 @@ variations:
   - "Spicy Kick: Add sliced jalapenos and a drizzle of hot honey."
 rating: 
 reviews: 
-flavor_profile: "Cheesy, Crispy, Savory"
 servingSuggestions: "This light, crispy tortilla pizza pairs wonderfully with a fresh side salad of peppery rocket, shaved parmesan, and a balsamic glaze to mimic a classic Italian pizzeria experience. If you like a bit of heat, serve it with a side of crushed red pepper flakes or chili-infused olive oil for drizzling. It's best enjoyed hot and sliced into easily manageable wedges."
 storageInstructions: "Best eaten fresh for a crispy base. You can assemble the pizza and freeze it flat before cooking for up to a month, but do not freeze after it has been cooked."
 prepTimeMins: 5

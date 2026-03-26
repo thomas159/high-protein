@@ -16,10 +16,6 @@ tips:
 works:
   - "Herb Infusion: The high heat of the air fryer releases the essential oils trapped within the rosemary needles, infusing the entire batch with deep, earthy aromatics."
   - "Starch Evaporation: The intense, circulating heat strips the potatoes of their surface moisture, delivering a satisfying crunch without requiring a deep-fat fryer."
-flavour:
-  - "The Base: Fluffy on the inside, crispy on the outside savory potatoes."
-  - "The Aromatics: Piney, woody, and fragrant toasted rosemary."
-  - "The Kick: Deep, pungent, and savory garlic granules."
 use:
   - "Gourmet Side: A sophisticated step up from standard french fries."
   - "Steak Pairing: The absolute best companion to a thick cauliflower or seitan steak."
@@ -37,7 +33,6 @@ variations:
   - "Parmesan Toss: Toss with grated vegetarian parmesan after air frying."
   - "Thyme Swap: Use fresh thyme instead of rosemary."
 reviews: 
-flavor_profile: "Salty, Crispy, Savory"
 servingSuggestions: "These elegant, herb-infused fries are a step above standard chips and deserve a great dip. Serve them with a side of truffle mayonnaise or a sharp garlic aioli. They make a sophisticated side dish to pan-seared cauliflower steaks, grilled halloumi, or a gourmet portobello mushroom burger, elevating a simple meal into something special."
 storageInstructions: "Best eaten immediately. Leftovers can be kept in the fridge for up to 3 days and reheated in the air fryer for 3-4 minutes to crisp up again. Do not freeze."
 prepTimeMins: 5

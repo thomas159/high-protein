@@ -19,10 +19,6 @@ tips:
 works:
   - "Liquid Reduction: By boiling off the stock instead of draining it, all the savory flavor is absorbed directly into the noodles rather than being thrown away."
   - "Acid Balance: The tiny splash of rice vinegar acts as a flavor enhancer, cutting through the heavy sesame oil to wake up the palate."
-flavour:
-  - "The Base: Intensely savory soy sauce and vegetable stock reduction."
-  - "The Nutty Finish: Toasted sesame oil coats every strand with a deep aroma."
-  - "The Heat: Sriracha or sambal delivers a sharp, garlicky chili kick."
 use:
   - "Snack Attack: A massive upgrade to a basic instant noodle craving."
   - "Midnight Munchies: Quick, savory, and requires almost no cleanup."
@@ -32,7 +28,6 @@ variations:
   - "Veggie Boost: Toss in shredded carrots and edamame."
 rating: 
 reviews: 
-flavor_profile: "Umami, Salty, Savory"
 servingSuggestions: "Transform these quick instant noodles into a more substantial meal by topping them with a soft-boiled egg or some leftover sliced smoked tofu or seitan. Serve with a side of quick-steamed pak choi or a small side salad to add freshness. A few slices of fresh jalapeño or a dash of chili crisp on top provides a welcoming kick for spice lovers."
 storageInstructions: "Best enjoyed immediately. Leftovers can be stored in the fridge for up to 2 days but the noodles may soften. Freezing is not recommended."
 prepTimeMins: 0

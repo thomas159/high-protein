@@ -20,17 +20,12 @@ tips:
 works:
   - "Maillard Reaction: The natural sugars in the honey undergo rapid caramelization in the air fryer, forming a sticky, glossy lacquer over the tofu."
   - "Flavor Equilibrium: The intense sweetness of the honey is expertly grounded by the salty soy sauce and the earthy depth of the cumin."
-flavour:
-  - "The Base: A sticky, caramelized honey sweetness."
-  - "The Umami: Savory soy sauce perfectly balances the sugar."
-  - "The Earthiness: Hints of cumin and coriander bring a warm, complex depth."
 use:
   - "Sticky Skewers: Thread onto sticks with peppers and grill."
   - "Bowl Builder: The ultimate sweet and savory protein for rice or quinoa bowls."
   - "Stir-Fry Addition: Toss into noodle dishes at the very end of cooking."
 rating: 
 reviews: 
-flavor_profile: "Earthy, Spicy, Savory"
 servingSuggestions: "The sticky, sweet-and-savory profile of this tofu makes it an ideal companion for a bowl of sticky sushi rice or quick-cooking soba noodles. Serve it alongside lightly steamed bok choy or garlic-sautéed broccoli for a balanced meal. A final garnish of freshly sliced spring onions and a sprinkle of toasted sesame seeds will give it a restaurant-quality finish."
 shelf_life: "Stored in airtight container in the fridge for 5 days"
 storageInstructions: "Store uncooked marinated tofu in the fridge for up to 5 days. Freeze in an airtight container or bag for up to 3 months. Thaw in the fridge before cooking."

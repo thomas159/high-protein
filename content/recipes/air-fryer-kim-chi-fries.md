@@ -16,10 +16,6 @@ tips:
 works:
   - "Air Circulation: The air fryer rapidly blasts away moisture, giving the potatoes a deep-fried crunch without being weighed down by oil."
   - "Flavor Balancing: The sharp, acidic tang of the kimchi perfectly cuts through the rich heaviness of the cheddar cheese and starchy potatoes."
-flavour:
-  - "The Base: Crispy, salty, perfectly air-fried potatoes."
-  - "The Tang: Fermented, spicy kimchi brings a sharp, acidic bite."
-  - "The Richness: Melted cheddar cheese rounds out the intense flavors."
 use:
   - "Party Snack: The ultimate crowd-pleasing sharing platter."
   - "Side Dish: Pairs perfectly with a thick, juicy veggie burger."
@@ -36,7 +32,6 @@ variations:
   - "Extra Cheesy: Mix mozzarella with the cheddar for a great cheese pull."
 rating: 
 reviews: 
-flavor_profile: "Salty, Crispy, Savory"
 servingSuggestions: "These bold, fusion-style fries are incredibly satisfying on their own, but pairing them with a cooling element can elevate the dish. A drizzle of sriracha mayo or a side of creamy avocado slices helps to tame the spicy heat of the kimchi. Serve them as a hearty appetizer or alongside a plant-based Korean-style BBQ burger for an unforgettable weekend feast."
 storageInstructions: "Best served fresh. Leftovers will lose their crispness but can be stored in the fridge for up to 2 days and reheated in the air fryer. Do not freeze."
 prepTimeMins: 5

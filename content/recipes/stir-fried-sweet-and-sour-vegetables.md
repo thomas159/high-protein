@@ -21,10 +21,6 @@ tips:
 works:
   - "Flash Cooking: Searing the vegetables quickly over high heat seals in their natural moisture, preventing them from going mushy."
   - "Cornstarch Thickening: The corn flour slurry binds the thin vinegar and stock into a glossy, sticky glaze that perfectly coats every vegetable."
-flavour:
-  - "The Base: A bright, tangy sweet and sour sauce."
-  - "The Crunch: Fresh, crisp vegetables flash-fried to retain their bite."
-  - "The Sweetness: Juicy pineapple chunks bring tropical, fruity notes."
 use:
   - "Weeknight Dinner: A rapid, 15-minute meal over jasmine rice."
   - "Fridge Clear-out: An excellent way to use up leftover vegetables."
@@ -32,7 +28,6 @@ use:
 variations:
   - "Tofu Addition: Add crispy air-fried tofu cubes for protein."
   - "Cashew Crunch: Top with roasted cashews before serving."
-flavor_profile: "Sweet, Sour, Tangy"
 servingSuggestions: "To turn these sweet and sour vegetables into a complete, satisfying meal, serve them over a bed of freshly steamed jasmine rice or tossed with warm egg noodles. If you're looking for extra protein, top the dish with crispy air-fried tofu or grilled tempeh. A sprinkle of toasted sesame seeds and a dash of chili oil right before serving adds a lovely crunch and heat."
 storageInstructions: "Keep in the fridge for up to 3 days. Not recommended for freezing, as the vegetables (especially cucumber and tomato) will become overly soft and soggy when thawed."
 prepTimeMins: 15

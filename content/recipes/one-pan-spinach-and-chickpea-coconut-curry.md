@@ -7,7 +7,6 @@ meta: {
 description: "A rich and creamy coconut milk base packed with ginger, garlic, and Indian spices. This 25-minute curry is nutrient-dense, high-protein, and requires minimal cleanup."
 image: "one-pan-spinach-and-chickpea-coconut-curry_ffy601"
 categories: ["one-pan-meals", "vegan", "high-protein"]
-flavor_profile: "Earthy, Creamy, Aromatic"
 cuisine: "Indian"
 keywords: ["curry", "chickpea", "spinach", "coconut milk", "one-pan", "indian", "vegan", "high-protein"]
 servingSuggestions: "Serve this comforting, aromatic curry alongside a portion of warm, fluffy quinoa or brown rice to soak up the rich coconut broth. A piece of freshly toasted naan or roti is essential for scooping up the chickpeas. For a cooling contrast, offer a small side of diced cucumber and tomato salad dressed with a squeeze of lemon."
@@ -26,10 +25,6 @@ tips:
 works:
   - "Spice Blooming: Toasting the dry spices in the hot coconut oil releases their fat-soluble compounds, multiplying their flavor intensity before the liquids are added."
   - "Natural Thickening: The starches from the chickpeas gently leach into the coconut milk as it simmers, naturally thickening the curry into a rich sauce."
-flavour:
-  - "The Base: A rich, creamy, and mildly sweet coconut milk broth."
-  - "The Spices: Earthy cumin, warm turmeric, and fragrant coriander."
-  - "The Aromatics: Fresh ginger and garlic provide a bright, zesty foundation."
 use:
   - "Batch Cooking: Make a large pan on Sunday for four days of healthy lunches."
   - "Warming Dinner: Perfect served piping hot over basmati rice on a cold evening."

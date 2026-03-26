@@ -17,10 +17,6 @@ tips:
 works:
   - "Temperature Contrast: The intense heat of the crispy fries forces the cool sour cream to slightly melt, forming a silky, rich coating."
   - "Air-Fried Texture: Using an air fryer strips the potatoes of excess moisture rapidly, creating a tough exterior that doesn't immediately go soggy under the heavy cream."
-flavour:
-  - "The Base: Crispy, golden, and salty air-fried potatoes."
-  - "The Tang: Cool, rich, and slightly acidic sour cream."
-  - "The Aromatics: Savory garlic and sharp, fresh spring onions."
 use:
   - "Gourmet Side: Elevates a standard dinner into a pub-style feast."
   - "Sharing Plate: Perfect for piling high in the center of the table."
@@ -36,7 +32,6 @@ variations:
   - "Spicy Cream: Mix a dash of hot sauce into the sour cream."
 rating: 
 reviews: 
-flavor_profile: "Salty, Crispy, Savory"
 servingSuggestions: "These tangy, crispy fries are a crowd-pleaser and are best served piping hot. For an extra layer of flavor, top them with crispy facon (vegan bacon) bits or a handful of fresh chives just before serving. They pair wonderfully with casual, pub-style mains like crispy battered banana blossom or a hearty, stacked veggie club sandwich."
 storageInstructions: "Best enjoyed fresh. Leftover fries (without sauce) can be stored in the fridge for 3 days and reheated in the air fryer. The sour cream sauce should be stored separately in the fridge for up to 4 days."
 prepTimeMins: 5

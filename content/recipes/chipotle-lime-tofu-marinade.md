@@ -20,17 +20,12 @@ tips:
 works:
   - "Acidic Breakdown: The lime juice softens the dense outer layer of the tofu, allowing the robust spices and smoky oils to soak past the surface."
   - "Sugar Caramelization: The chipotle adobo sauce contains natural sugars that rapidly char and form a BBQ-style bark under the intense heat of the air fryer."
-flavour:
-  - "The Base: Earthy, smoky adobo and chipotle peppers."
-  - "The Zing: Fresh lime juice cuts through the heat."
-  - "The Spices: Cumin and paprika add a savory, warming depth."
 use:
   - "Taco Filling: Creates a deeply flavorful, smoky protein for Mexican night."
   - "Salad Topper: Add cold to a black bean and corn salad for a zesty punch."
   - "Fajita Bowls: Serve over cilantro-lime rice with sautéed peppers."
 rating: 
 reviews: 
-flavor_profile: "Earthy, Spicy, Savory"
 servingSuggestions: "This smoky, zesty tofu is perfect as the star protein in a vibrant Mexican-inspired bowl. Serve it over a bed of cilantro-lime quinoa, alongside black beans, roasted corn, and sliced avocado. It also makes a fantastic filling for soft corn tacos, topped with a fresh tomato salsa, shredded cabbage, and a drizzle of vegan sour cream to balance the chipotle heat."
 shelf_life: "Stored in airtight container in the fridge for 5 days"
 storageInstructions: "Store the marinated, uncooked tofu in the fridge for up to 5 days. You can also freeze the tofu in its marinade for up to 3 months; freezing actually helps the tofu absorb more flavor and improves its chewy texture once thawed."

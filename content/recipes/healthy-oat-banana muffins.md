@@ -20,10 +20,6 @@ tips:
 works:
   - "Moisture Lock: The mashed bananas and Greek yogurt provide incredible hydration to the bake, completely eliminating the need for heavy oils or butter."
   - "Oat Flour Science: The finely ground oats absorb the liquid ingredients efficiently, acting as a gluten-free binder that yields a dense, brownie-like texture."
-flavour:
-  - "The Base: Deep, fudgy chocolate and toasted oats."
-  - "The Sweetness: Caramelized ripe banana and a touch of honey."
-  - "The Tropical Note: Nutty, aromatic desiccated coconut."
 use:
   - "Breakfast on the Go: Grab one with your morning coffee for lasting energy."
   - "Post-Workout: A macro-friendly balance of carbs and protein."
@@ -33,7 +29,6 @@ variations:
   - "Berry Burst: Swap cocoa powder for fresh blueberries."
 rating: 
 reviews: 
-flavor_profile: "Sweet, Chocolatey, Fudgy"
 servingSuggestions: "These protein-packed muffins are fantastic on their own, but pairing them with a hot cup of black coffee or herbal tea makes for a perfect morning ritual. For a more indulgent snack, split a warm muffin in half and spread a thin layer of almond butter or peanut butter on top. They also go wonderfully with a side of fresh banana slices or a dollop of Greek yogurt."
 storageInstructions: "Store in an airtight container at room temperature for 2 days or in the fridge for up to 5 days. Freeze individually wrapped muffins for up to 3 months. Thaw at room temperature."
 prepTimeMins: 5

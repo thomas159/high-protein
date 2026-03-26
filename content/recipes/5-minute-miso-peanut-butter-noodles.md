@@ -9,7 +9,6 @@ image: "5-minute-miso-peanut-butter-noodles_eo9aef"
 categories: ["5-minute-meals", "vegan", "high-protein"]
 cuisine: "Japanese"
 keywords: ["miso", "peanut butter", "noodles", "japanese", "vegan", "high-protein", "5-minute"]
-flavor_profile: "Umami, Creamy, Spicy"
 tipsTitle: "Creamy Noodle Hacks"
 tips:
   - "Miso Care: Never aggressively boil miso paste, as high heat destroys its delicate flavors and beneficial probiotics. Only bring the sauce to a very gentle simmer."
@@ -18,10 +17,6 @@ tips:
 works:
   - "Emulsion Magic: Whisking peanut butter into the warm water before adding the soy milk creates a stable, creamy emulsion that coats the noodles beautifully."
   - "Umami Synergy: Miso and soy sauce combine to deliver a massive punch of savory depth, entirely replacing the need for long-simmered broths or meat."
-flavour:
-  - "The Base: Creamy, nutty peanut butter blended with rich soy milk."
-  - "The Umami: White miso paste adds a deep, fermented, savory backbone."
-  - "The Heat: Chili oil provides a vibrant, tingling spice to finish."
 use:
   - "Speedy Dinner: The ultimate 5-minute hack when you don't want to cook."
   - "Pantry Meal: Uses long-lasting staples you probably already have."

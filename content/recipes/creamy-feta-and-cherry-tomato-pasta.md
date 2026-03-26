@@ -17,10 +17,6 @@ tips:
 works:
   - "Acid and Fat Synergy: The sharp acidity of the white wine and tomatoes cuts beautifully through the heavy cream and salty feta, creating a perfectly balanced bite."
   - "Starch Binding: Reserving and adding the starchy pasta water ensures the dairy emulsifies completely into a smooth sauce that clings to every noodle."
-flavour:
-  - "The Base: Intensely sharp, salty, and tangy melted feta cheese."
-  - "The Brightness: Sweet, acidic, and jammy blistered cherry tomatoes."
-  - "The Richness: Velvety cream and a hint of crisp white wine."
 use:
   - "Weeknight Savior: A luxurious pasta dish that only takes 15 minutes."
   - "Lunch Prep: Tastes incredible reheated the next day."
@@ -33,7 +29,6 @@ reviews:
 variations:
   - "Spinach Fold: Stir in baby spinach until wilted."
   - "Protein Addition: Toss in cooked white beans or crispy tofu cubes."
-flavor_profile: "Creamy, Tangy, Fresh"
 servingSuggestions: "This Mediterranean-inspired pasta dish is best served immediately while the feta is warm and creamy. A side of roasted asparagus or steamed green beans adds a lovely crunch and vibrant color to the meal. Pair it with a chilled, crisp white wine, such as a Sauvignon Blanc, and offer extra cracked black pepper and fresh basil at the table."
 storageInstructions: "Store in the fridge for up to 3 days. Reheat gently with a splash of water. Freezing is not recommended as the feta cream sauce may split and become grainy upon thawing."
 prepTimeMins: 0

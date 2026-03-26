@@ -9,7 +9,6 @@ image: "5-minute-peanut-butter-chilli-noodle_getziq"
 categories: ["5-minute-meals", "vegan", "high-protein"]
 cuisine: "Asian"
 keywords: ["peanut butter noodles", "chilli", "asian", "vegan", "high-protein", "5-minute", "spicy"]
-flavor_profile: "Spicy, Nutty, Aromatic"
 tipsTitle: "Sauce & Sizzle"
 tips:
   - "Adjust the Consistency: Peanut butter thickens rapidly when heated. Keep a splash of warm water or reserved noodle water handy to loosen the sauce if it gets too claggy."
@@ -18,10 +17,6 @@ tips:
 works:
   - "Instant Emulsion: The starchy noodle water binds the heavy peanut butter and soy sauce together into a smooth, glossy sauce that won't split."
   - "Raw Aromatics: Utilizing raw grated ginger and minced garlic in the sauce provides a sharp, pungent bite that stands up to the heavy peanut flavor."
-flavour:
-  - "The Base: Thick, savory, and incredibly nutty peanut sauce."
-  - "The Aromatics: Sharp raw garlic and zingy fresh ginger wake up the palate."
-  - "The Balance: Rice wine vinegar cuts the richness, while chili oil brings the fire."
 use:
   - "Instant Meal: A savory, spicy fix ready faster than ordering takeout."
   - "Cold Noodle Salad: Packs beautifully for a chilled work lunch."

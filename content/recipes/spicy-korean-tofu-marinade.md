@@ -19,10 +19,6 @@ tips:
 works:
   - "Fermented Power: The Gochujang paste acts as an immediate flavor foundation, providing depth that usually takes hours of slow braising to achieve."
   - "The Emulsion: Whisking the thick chili paste with sesame oil and vinegar creates a heavy, emulsified marinade that clings to the tofu instead of running off in the pan."
-flavour:
-  - "The Base: Deep, fermented, and intensely savory Gochujang."
-  - "The Sweetness: A sticky, caramelized sugary finish."
-  - "The Aromatics: Nutty sesame oil, sharp garlic, and fresh ginger."
 use:
   - "Sticky Protein: Perfect for air-frying into a crispy, glazed main."
   - "Noodle Topper: Serve over spicy ramen or udon for extra protein."
@@ -32,7 +28,6 @@ variations:
   - "Mushroom Steak: Marinate whole portobello mushrooms instead of tofu."
   - "Sesame Crunch: Coat the tofu in sesame seeds before frying."
 reviews: 
-flavor_profile: "Spicy, Sweet, Umami"
 servingSuggestions: "To balance the bold, fermented heat of this Gochujang tofu, serve it alongside mild, comforting sides like a fluffy steamed egg or a gentle miso soup. It is brilliant when wrapped in fresh perilla leaves or crisp butter lettuce along with a smear of ssamjang and a sliver of raw garlic for a traditional Korean BBQ-style bite."
 shelf_life: "Stored in airtight container in the fridge for 5 days"
 storageInstructions: "Store the uncooked marinated tofu in the fridge for up to 5 days. It freezes exceptionally well for up to 3 months; the freezing process makes the tofu firmer and meatier upon thawing."

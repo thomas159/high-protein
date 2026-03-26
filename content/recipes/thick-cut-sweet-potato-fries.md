@@ -18,10 +18,6 @@ tips:
 works:
   - "Moisture Control: Sweet potatoes hold a lot of water. The rapid air circulation of the air fryer evaporates this moisture quickly, achieving a crispy exterior that ovens struggle to replicate."
   - "Natural Sweetness: The high heat caramelizes the natural sugars in the sweet potato, creating complex flavor profiles with minimal added ingredients."
-flavour:
-  - "The Base: Naturally sweet, earthy sweet potatoes."
-  - "The Crust: A savory, salty bite with a slight charred edge."
-  - "The Finish: Olive oil richness enhancing the caramelized sugars."
 use:
   - "Burger Sidekick: The classic pairing for any plant-based burger."
   - "Healthy Snack: A satisfying, nutrient-dense treat when you need a crunch."
@@ -32,7 +28,6 @@ variations:
   - "Spicy Cajun: Season with smoked paprika and cayenne pepper."
 rating: 
 reviews: 
-flavor_profile: "Salty, Crispy, Savory"
 servingSuggestions: "These hearty sweet potato fries are best served hot with a selection of your favorite dipping sauces. A classic garlic aioli or a smoky chipotle mayo are excellent choices that complement the natural sweetness of the potatoes. They make a perfect side dish for loaded veggie burgers, grilled halloumi wraps, or as a satisfying snack on their own."
 storageInstructions: "Store leftovers in an airtight container in the fridge for up to 3 days. Reheat in the air fryer for 3-4 minutes to restore crispness. Freezing cooked fries is not recommended."
 prepTimeMins: 30

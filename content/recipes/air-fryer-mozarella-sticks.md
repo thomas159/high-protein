@@ -16,10 +16,6 @@ tips:
 works:
   - "Thermal Delay: Freezing the sticks ensures the breading has enough time to toast and crisp up in the air fryer before the cheese inside completely liquifies."
   - "Structural Integrity: The double coating of egg and flour forms a tight seal, locking the cheese inside a crispy barrier."
-flavour:
-  - "The Base: Mild, milky, and gooey melted mozzarella."
-  - "The Crust: Toasted breadcrumbs with a savory garlic profile."
-  - "The Heat: A gentle, lingering warmth from chili flakes and oregano."
 use:
   - "Appetizer: The ultimate start to an Italian-American feast."
   - "Party Platter: A guaranteed crowd-pleaser that stays contained in the air fryer."
@@ -39,7 +35,6 @@ variations:
   - "Spicy Sticks: Add a pinch of cayenne pepper to the flour dredge."
 rating: 
 reviews: 
-flavor_profile: "Salty, Crispy, Savory"
 servingSuggestions: "These crispy mozzarella sticks demand a robust dipping sauce. A warm, garlicky marinara or a spicy arrabbiata sauce are classic choices that perfectly complement the rich, melted cheese. For a different flavor profile, try serving them with a zesty ranch dip. Arrange them on a platter with celery sticks and cherry tomatoes for a balanced appetizer spread."
 storageInstructions: "Uncooked breaded sticks can be frozen in a single layer, then transferred to a freezer bag for up to 3 months. Cook directly from frozen, adding 2-3 minutes to the cooking time. Cooked sticks are best eaten immediately."
 prepTimeMins: 40
