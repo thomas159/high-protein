@@ -25,8 +25,9 @@ works:
   - "Air Circulation: The intense circulating heat of the air fryer cooks the eggs faster than a conventional oven and gives them a wonderful, slightly puffed texture."
   - "Flavor Punch: Sun-dried tomatoes provide an intense, concentrated umami sweetness that pairs perfectly with the salty tang of feta."
 whyTitle: "Why This Combination Works"
-why: 
-- "This dish hits every taste bud: the salty, sharp feta cuts through the richness of the fluffy baked eggs, while the sun-dried tomatoes add a concentrated pop of sweetness that balances the savory base."
+why:
+  - "Salty & Sharp: The feta cuts cleanly through the richness of the fluffy baked eggs."
+  - "Concentrated Sweetness: Sun-dried tomatoes add a pop of umami sweetness that beautifully balances the savory base."
 variations:
   - "Spicy Kick: Add a pinch of chili flakes or a dash of your favorite hot sauce to the beaten egg before cooking."
   - "Cheesy Swap: Use sharp cheddar, gooey mozzarella, or tangy goat cheese instead of feta."
