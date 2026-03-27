@@ -18,7 +18,8 @@ useHead({
   titleTemplate: (title) => title ? `${title} | ${siteName}` : siteName,
   meta: [
     { name: 'p:domain_verify', content: 'e4bd68dbe0b0482e0504097aa8617742' },
-    { name: 'description', content: siteDescription }
+    { name: 'description', content: siteDescription },
+    { name: 'google-adsense-account', content: 'ca-pub-9057939602568225' }
   ],
 
   link: [
