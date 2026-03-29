@@ -51,8 +51,8 @@ ingredients:
   - { item: "Spring onions", type: 'finely chopped', amount: 25, unit: 'g' }
   - { item: "Lime juice", amount: 1, unit: 'tsp' }
 steps:
-  - "Layer the Base Line your air fryer basket with a small piece of parchment paper (this makes cleanup easy and helps you lift the nachos out later). Spread a layer of tortilla chips evenly across the bottom."
+  - "Line your air fryer basket with a small piece of parchment paper (this makes cleanup easy and helps you lift the nachos out later). Spread a layer of tortilla chips evenly across the bottom."
   - "Generously sprinkle grated cheese over the chips, followed by finely chopped tomatoes and red onions."
-  - "The Quick MeltAir fry at 160°C for 3–5 minutes. Keep a close eye on them; you want the cheese bubbling and golden, but the chips can burn quickly if left too long."
+  - "Air fry at 160°C for 3–5 minutes. Keep a close eye on them; you want the cheese bubbling and golden, but the chips can burn quickly if left too long."
   - "Carefully lift the parchment paper to remove the nachos. Top with fresh spring onions, a dollop of sour cream, or a bright squeeze of lime juice for that signature \"zing.\""
 ---
