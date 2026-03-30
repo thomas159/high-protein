@@ -49,6 +49,13 @@ ingredients:
   - { item: "Greek yogurt", amount: 2, unit: "tbsp" }
   - { item: "Honey", amount: 2, unit: "tbsp" }
   - { item: "Desiccated coconut", amount: 20, unit: "g" } 
+
+faq:
+  - question: "Can I use normal flour instead of oat flour?"
+    answer: "Yes, you can substitute whole wheat or all-purpose flour in a 1:1 ratio, but oat flour provides a denser, fudgier texture and more fiber."
+  - question: "Why did my muffins turn out rubbery?"
+    answer: "Over-mixing the batter activates the starches too much. Gently fold the wet and dry ingredients together until *just* combined."
+
 steps:
   - "Mash the banana in a bowl until smooth. Whisk in the egg, Greek yogurt, honey, and cocoa powder"
   - "Fold in the oat flour, baking powder, and half of the desiccated coconut"

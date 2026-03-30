@@ -52,6 +52,12 @@ ingredients:
   - { item: "Cumin", amount: 0.25, unit: "tsp" }
   - { item: "Salt", amount: 0.25, unit: "tsp" }
 
+faq:
+  - question: "Can I eat the aubergine skin?"
+    answer: "For baba ganoush, it is best to scoop out the soft flesh and discard the skin to ensure a creamy, smooth dip."
+  - question: "Why did my aubergine explode in the microwave?"
+    answer: "This happens if you forget to prick it! Always poke holes all over the aubergine with a fork so the steam can escape while cooking."
+
 steps:
   - "Prick the aubergine all over with a fork (to prevent exploding) and place on a microwave-safe plate. Microwave on high for 8-10 minutes until collapsed and soft."
   - "Let the aubergine cool for a few minutes, then slice it open and scoop the soft flesh into a bowl, discarding the skin."

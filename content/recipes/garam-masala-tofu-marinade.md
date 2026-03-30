@@ -51,6 +51,13 @@ ingredients:
   - { item: "Chilli powder", amount: 1, unit: "tsp" }
   - { item: "Lime juice", amount: 2, unit: "tbsp" }
   - { item: "Garam masala", amount: 1, unit: "tsp" }
+
+faq:
+  - question: "Can I use a different protein instead of tofu?"
+    answer: "Yes, this Indian-inspired marinade works beautifully with paneer, tempeh, or even roasted chickpeas."
+  - question: "What should I serve this with?"
+    answer: "It's perfect alongside fragrant basmati rice, warm naan bread, and a cooling cucumber mint raita."
+
 steps:
   - "For the best results, wrap your extra-firm tofu in a clean towel and place a heavy weight on top for 15 minutes. Removing excess water allows the marinade to soak deep into the block rather than just sitting on the surface."
   - "In a bowl, combine the ginger garlic paste, chilli powder, lime juice, garam masala and a splash of oil."

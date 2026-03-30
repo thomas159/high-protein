@@ -55,6 +55,13 @@ ingredients:
   - { item: "Cumin", amount: 0.5, unit: 'tsp' }
   - { item: "Garlic powder", amount: 0.5, unit: 'tsp' } 
   - { item: "Oregano", amount: 0.5, unit: 'tsp' }
+
+faq:
+  - question: "Is chipotle very spicy?"
+    answer: "It has a moderate, smoky heat. If you prefer less spice, use less of the actual chopped pepper and just use a spoonful of the adobo sauce it comes in."
+  - question: "Can I use this marinade on vegetables?"
+    answer: "Absolutely! This smoky lime marinade is incredible tossed with cauliflower florets or sliced bell peppers before roasting or air frying."
+
 steps:
   - "For the best results, wrap your extra-firm tofu in a clean towel and place a heavy weight on top for 15 minutes. Removing excess water allows the marinade to soak deep into the block rather than just sitting on the surface."
   - "In a bowl, combine the lime juice, adobo chile pepper, paprika powder, cumin, garlic powder, oregano, a pinch of salt and a splash of oil."

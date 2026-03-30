@@ -56,6 +56,13 @@ ingredients:
   - { item: "Garlic powder", amount: 0.25, unit: 'tsp' } 
   - { item: "Chilli powder", amount: 0.25, unit: 'tsp' }
   - { item: "Water", amount: 1, unit: 'tbsp' }
+
+faq:
+  - question: "Does honey burn in the air fryer?"
+    answer: "It can if left too long, due to the high sugar content. Keep an eye on it during the last few minutes, or lower the heat slightly if it's browning too fast."
+  - question: "Do I need to press the tofu first?"
+    answer: "Yes, pressing out the water allows the tofu to act like a sponge and soak up the sweet and savory marinade."
+
 steps:
   - "For the best results, wrap your extra-firm tofu in a clean towel and place a heavy weight on top for 15 minutes. Removing excess water allows the marinade to soak deep into the block rather than just sitting on the surface."
   - "In a bowl, combine the honey, lemon juice, paprika, cumin, coriander, garlic powder, chilli powder, water, a pinch of salt and a splash of oil."

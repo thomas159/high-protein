@@ -54,6 +54,12 @@ ingredients:
   - { item: "Spring Onion", type: "Sliced", amount: 1 }
   - { item: "Peanuts", type: "chopped", amount: 10, unit: "g"}
 
+faq:
+  - question: "Which type of miso paste is best?"
+    answer: "White or yellow miso is best for this recipe as it is sweeter and milder. Red miso can be quite overpowering."
+  - question: "Can I make this gluten-free?"
+    answer: "Yes, just swap the soy sauce for tamari and use 100% buckwheat soba noodles or rice noodles."
+
 steps:
   - "Begin by cooking the noodles according to packet instructions. If you're using fresh noodles, you can skip straight to the pan."
   - "While the noodles are cooking, place a small pan over low heat. Add the water, miso, and peanut butter."

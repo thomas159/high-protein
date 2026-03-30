@@ -57,6 +57,12 @@ ingredients:
   - { item: "Coconut Milk", amount: 100, unit: "ml" }
   - { item: "Kasuri Methi", type: "Dried Fenugreek", amount: 0.5, unit: "tsp" }
 
+faq:
+  - question: "Can I use light coconut milk?"
+    answer: "You can, but the curry broth will be much thinner. Full-fat coconut milk provides the luxurious, creamy texture this dish is known for."
+  - question: "Do I have to use fresh spinach?"
+    answer: "Frozen spinach works perfectly! Just stir it in during the last 5 minutes of simmering until it's heated through."
+
 steps:
   - "Heat coconut oil in a large pan over medium heat. Sauté the onion for 5-10 minutes until translucent and soft."
   - "Stir in the turmeric, coriander, and cumin. Toast the spices for 2 minutes to release their oils."

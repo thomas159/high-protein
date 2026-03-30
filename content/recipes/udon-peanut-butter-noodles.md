@@ -52,6 +52,13 @@ ingredients:
   - { item: "Soy sauce", amount: 0.5, unit: "tsp" }
   - { item: "Brown sugar", amount: 0.5, unit: "tsp" }
   - { item: "lime juice", amount: 0.5, unit: "tsp" }
+
+faq:
+  - question: "Can I use dried udon noodles?"
+    answer: "Yes, just boil them according to the package directions first. Fresh, vacuum-sealed udon are preferred for speed and texture."
+  - question: "Why is my peanut sauce clumpy?"
+    answer: "Peanut butter seizes up sometimes when mixed with liquids. Add a splash of warm water and whisk vigorously over low heat to smooth it out."
+
 steps:
   - "Bring a large pot of water to a rolling boil. Add the udon noodles and cook according to package instructions until tender. Drain and set aside, reserving a splash of noodle water if you prefer a silkier sauce."
   - "While the noodles cook, thinly slice your vegetables and cut the tofu into cubes. Heat the coconut oil in a large pan or wok over medium-high heat. Add the carrots, peppers and tofu, sautéing for approximately 5 minutes until the vegetables begin to soften but still retain a slight crunch and the tofu is slightly browned."

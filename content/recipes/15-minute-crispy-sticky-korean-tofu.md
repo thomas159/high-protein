@@ -56,6 +56,12 @@ ingredients:
   - { item: "Spring Onion", type: "sliced", amount: 1 }
   - { item: "Sesame Seeds", amount: 1, unit: "tbsp" }
 
+faq:
+  - question: "Do I need cornstarch to make the tofu crispy?"
+    answer: "Tossing the tofu in a tablespoon of cornstarch before frying will give it an extra-crispy, glass-like crust, but simply pressing and pan-frying it works great too!"
+  - question: "What can I substitute for rice vinegar?"
+    answer: "Apple cider vinegar or white wine vinegar are the best substitutes if you're out of rice vinegar."
+
 steps:
   - "Pat the tofu dry with a paper towel and slice into bite-sized cubes. Drying the tofu is the secret to getting a golden crust without deep-frying."
   - "Heat grapeseed oil in a non-stick pan over medium heat. Add the tofu and cook for about 5 minutes per side until golden brown."

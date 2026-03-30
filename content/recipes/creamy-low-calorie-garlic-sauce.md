@@ -49,6 +49,13 @@ ingredients:
   - { item: "Salt", amount: 0.25, unit: "tsp" }
   - { item: "Black pepper", amount: 0.5, unit: "tsp" }
   - { item: "Spring onion", amount: 5, unit: "g" }
+
+faq:
+  - question: "Does this dip taste strongly of yogurt?"
+    answer: "No! The mayonnaise, garlic, and salt mask the yogurt's natural tang, making it taste like a rich, traditional garlic aioli."
+  - question: "How long does this sauce last in the fridge?"
+    answer: "It will stay fresh in an airtight container for up to 4 days. The garlic flavor will actually intensify after the first day!"
+
 steps:
   - "In a small mixing bowl, whisk together the mayonnaise and Greek yogurt until completely smooth"
   - "Mix in the garlic, salt and pepper"

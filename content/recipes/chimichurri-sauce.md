@@ -49,6 +49,13 @@ ingredients:
   - { item: "Red chilli finely chopped", amount: 1 }
   - { item: "Salt", amount: 0.25, unit: "tsp" }
   - { item: "Pinch of black pepper" }
+
+faq:
+  - question: "Why is my chimichurri bitter?"
+    answer: "Using too much oregano or blending the sauce in a food processor can cause the olive oil to become bitter. Always chop the herbs by hand!"
+  - question: "Can I make this ahead of time?"
+    answer: "Yes, making it a day in advance actually allows the garlic and herb flavors to meld together beautifully in the fridge."
+
 steps:
   - "In a small bowl, whisk the vinegar, salt, and garlic first. Let it sit for 2 minutes. This \"macerates\" the garlic, removing the harsh raw bite and infusing the vinegar"
   - "Then, stir in the herbs, chilli, and finally the olive oil"
