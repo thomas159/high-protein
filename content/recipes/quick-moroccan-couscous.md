@@ -47,6 +47,13 @@ ingredients:
   - { item: "Lemon juice", amount: 10, unit: "ml" }
   - { item: "Feta cheese", amount: 50, unit: "g" }
   - { item: "Olive oil", amount: 1, unit: "tsp" }
+
+faq:
+  - question: "Can I make this with quinoa instead?"
+    answer: "Yes, but quinoa requires simmering. Cook the quinoa separately first, then fold in the sautéed vegetables, lemon, and feta."
+  - question: "Do I have to use vegetable stock?"
+    answer: "While you can use boiling water, vegetable stock adds a massive amount of savory flavor that makes the dish stand out."
+
 steps:
   - "Heat a splash of oil in a pan over medium heat. Add your finely sliced red peppers and onions. Cook for 5–10 minutes until the onions get a slightly golden edge, this adds a natural sweetness that balances the salty feta cheese later."
   - "Place the dry couscous into a heat-proof bowl. Pour the boiling vegetable stock over the grains and stir in the lemon juice. Place a lid or plate over the bowl and let it sit for 5 minutes. Once all the liquid is absorbed, use a fork (never a spoon!) to gently rake through the grains. This separates them and keeps the texture light."

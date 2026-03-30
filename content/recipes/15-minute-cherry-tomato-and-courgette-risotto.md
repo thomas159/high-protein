@@ -52,6 +52,13 @@ ingredients:
   - { item: "Courgette (zuchinni)", type: 'grated', amount: 50, unit: "g" }
   - { item: "Butter", amount: 10, unit: "g" }
   - { item: "Parmesan cheese", amount: 15, unit: "g" }  
+
+faq:
+  - question: "Do I have to use Arborio rice?"
+    answer: "Yes, Arborio or Carnaroli rice is essential. They are high-starch short-grain rices that create the creamy risotto texture. Regular long-grain white rice will just turn into a standard rice dish."
+  - question: "Can I make this on the stove instead?"
+    answer: "Definitely. Simply simmer the rice in a pan, adding the stock a ladle at a time and stirring continuously until absorbed."
+
 steps:
   - "In a large microwave-safe bowl (choose one bigger than you think you need to avoid boil-overs), combine the Arborio rice and white wine. The wine should just barely submerge the grains. Microwave for 2 minutes on high. The wine should be mostly absorbed, smelling fragrant but not burnt."
   - "Pour your vegetable stock over the par-cooked rice. Microwave for 13 minutes. At the 7-minute mark, give it a quick stir. If the rice looks \"dry\" on top, add a splash more stock or water. You want a slightly soupy consistency at the end, not a solid block of rice."

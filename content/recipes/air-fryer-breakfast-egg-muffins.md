@@ -51,6 +51,13 @@ ingredients:
   - { item: "Sun-dried tomatoes", type: "chopped", amount: 5, unit: "g" }
   - { item: "Feta cheese", type: "crumbled", amount: 5, unit: "g" }
   - { item: "Spring onion", type: "chopped", amount: 5, unit: "g" }
+
+faq:
+  - question: "Can I freeze these egg muffins?"
+    answer: "Yes, they freeze wonderfully! Store them in an airtight container for up to 2 months and thaw overnight in the fridge before reheating."
+  - question: "Why did my egg muffins deflate?"
+    answer: "Egg muffins naturally puff up in the air fryer and deflate slightly as they cool. This is completely normal and doesn't affect the taste!"
+
 steps:
   - "Crack the egg into a small bowl, beat it well with a fork, and pour it into a silicone muffin case."
   - "Drop the chopped sun-dried tomatoes, spring onion and crumbled feta cheese directly into the beaten egg."

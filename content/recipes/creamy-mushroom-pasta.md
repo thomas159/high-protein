@@ -53,6 +53,12 @@ ingredients:
   - { item: "Parmesan", amount: 15, unit: "g" }
   - { item: "Fresh Thyme", amount: 1, type: "sprig" }
 
+faq:
+  - question: "Do I need to use white wine?"
+    answer: "The wine adds a beautiful acidity, but you can substitute it with a splash of vegetable broth mixed with half a teaspoon of lemon juice or white wine vinegar."
+  - question: "What is the best type of mushroom to use?"
+    answer: "Chestnut, cremini, or baby bella mushrooms work beautifully as they hold their shape and offer a deep, earthy flavor."
+
 steps:
   - "Bring a large pot of heavily salted water to a boil. Add the pasta and cook for roughly one minute less than the package directions (al dente). Reserve a cup of pasta water before draining."
   - "While the pasta cooks, melt the butter with a splash of oil in a large saucepan over medium-high heat. The oil prevents the butter from burning while you sear the mushrooms."

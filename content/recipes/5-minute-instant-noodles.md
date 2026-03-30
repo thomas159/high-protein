@@ -48,6 +48,13 @@ ingredients:
   - { item: "Schiraca or sambal oelek", amount: 0.25, unit: "tsp" }
   - { item: "Spring onions to garnish" }
   - { item: "Fried onions to garnish" }
+
+faq:
+  - question: "Can I use regular noodles instead of instant noodles?"
+    answer: "Instant noodles work best because they cook rapidly and release starches that thicken the sauce, but you can use regular noodles, they may take a little longer to cook"
+  - question: "Is this recipe spicy?"
+    answer: "It has a mild kick from the sambal or sriracha. You can easily omit the chili paste if you prefer a non-spicy version."
+
 steps:
   - "Pour your vegetable stock into a wide pan and bring it to a boil.  Drop in the instant noodles. Cook for 2–3 minutes, using a fork to gently teased the block apart as it softens. You want the stock to reduce by about half—this creates a concentrated \"glaze\" rather than a thin soup"
   - "Just before the liquid is fully absorbed, reduce the heat to low. Stir in the soy sauce, toasted sesame oil, rice vinegar, and sambal (chili paste) or schriracha. Toss the noodles vigorously for 30 seconds. The acidity of the rice vinegar cuts through the richness of the sesame oil, creating a balanced, glossy coating"

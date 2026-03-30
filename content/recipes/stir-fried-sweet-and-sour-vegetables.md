@@ -55,6 +55,13 @@ ingredients:
   - { item: "Tomato Sauce", amount: 0.5, unit: "tbsp" }
   - { item: "Corn Flour", amount: 0.25, unit: "tbsp" }
   - { item: "Water", amount: 0.5, unit: "tbsp" }
+
+faq:
+  - question: "Can I add protein like tempeh or tofu to this?"
+    answer: "Yes! Crispy air-fried tofu or tempeh are perfect additions. Just toss them in at the very end to coat them in the sauce."
+  - question: "Do I have to use fresh pineapple?"
+    answer: "Canned pineapple works perfectly in a pinch! Just be sure to drain the juice, or use a splash of it in the sauce for extra sweetness."
+
 steps:
   - "Heat the oil in a pan over a low heat then add the garlic and cook until it turns light brown. Then add the onion, cauliflower and carrot. Cook for around 5 minutes or until onion is translucent"
   - "Add the cucumber, tomato, pineapple and pepper and cook for another 5 minutes"

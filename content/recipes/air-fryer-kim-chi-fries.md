@@ -53,6 +53,13 @@ ingredients:
   - { item: "Spring onion", type: 'finely chopped', amount: 1 } 
   - { item: "Cheddar cheese", type: 'grated', amount: 20, unit: 'g' }
   - { item: "Sesame seeds", type: 'toasted', amount: 0.5, unit: 'tsp' }
+
+faq:
+  - question: "What can I use if I don't have Gochujang?"
+    answer: "You can mix a little sriracha with a pinch of sugar and miso paste as a quick substitute, though it won't have the exact same fermented depth."
+  - question: "Are kimchi fries overly spicy?"
+    answer: "They have a moderate, savory heat. The cheese helps cool down the spice from the kimchi and gochujang significantly!"
+
 steps:
   - "Scrub the potatoes and slice them into uniform sticks, approximately 0.5cm thick. In a large bowl, toss the fries with olive oil, dried rosemary, and garlic granules and salt until every surface is lightly coated. Using a bowl ensures even seasoning without making the fries soggy"
   - "Arrange the potatoes in the basket, try not to overcrowd them to ensure maximum airflow. Air fry for 18-24 minutes on 190c, giving the basket a vigorous shake halfway through"

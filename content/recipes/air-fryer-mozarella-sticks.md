@@ -55,6 +55,13 @@ ingredients:
   - { item: "Chilli flakes", amount: 0.75, unit: 'tsp' }
   - { item: "Oregano", amount: 0.75, unit: 'tsp' }
   - { item: "Garlic granules", amount: 0.75, unit: 'tsp' }
+
+faq:
+  - question: "Why did the cheese leak out in the air fryer?"
+    answer: "This usually happens if the sticks weren't frozen solid before cooking, or if the breading had gaps. Make sure to double-dredge and freeze for at least 30 minutes!"
+  - question: "Can I use string cheese instead of a block of mozzarella?"
+    answer: "Absolutely! Pre-packaged string cheese works perfectly and saves you the step of slicing the cheese yourself."
+
 steps:
   - "Arrange three small bowls in a row. In the first, add the flour. In the second, the beaten egg. In the third, combine the breadcrumbs with the chili flakes, oregano, and garlic granules. Mixing the spices directly into the crumbs ensures every bite is flavorful."
   - "Slice the mozzarella into uniform sticks about 2cm thick. Pat them slightly with a damp paper towel (if they are too dry) and dredge them in the flour until fully coated, shaking off any excess."
