@@ -6,6 +6,7 @@ meta: {
 }
 description: "This recipe delivers the refreshing flavour of thai stir fried vegetables with a sweet and sour sauce"
 image: "sweet-and-sour-vegetables_covgep"
+alt: "Stir fried sweet and sour vegetables in a bowl"
 pintrest: ""
 categories: ["vegan", "dinner", "trending"]
 cuisine: "Thai"

@@ -6,6 +6,7 @@ meta: {
 } 
 description: "A rich and creamy coconut milk base packed with ginger, garlic, and Indian spices. This 25-minute curry is nutrient-dense, high-protein, and requires minimal cleanup."
 image: "one-pan-spinach-and-chickpea-coconut-curry_ffy601"
+alt: "One-Pan Spinach & Chickpea Coconut Curry in a bowl"
 categories: ["one-pan-meals", "vegan", "high-protein"]
 cuisine: "Indian"
 keywords: ["curry", "chickpea", "spinach", "coconut milk", "one-pan", "indian", "vegan", "high-protein"]

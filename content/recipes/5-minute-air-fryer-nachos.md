@@ -6,6 +6,7 @@ meta: {
 }
 description: "Satisfy your cravings in just 5 minutes with these ultra-crispy, cheesy Air Fryer Nachos—the ultimate lightning-fast snack."
 image: "5-minute-air-fryer-nachos_gf3zzd"
+alt: "5 minute air fryer nachos with melted cheese and tomatoes"
 pintrest: ""
 categories: ["air-fryer", "5-minute-meals", "snacks"]
 tipsTitle: "Pro Tip"

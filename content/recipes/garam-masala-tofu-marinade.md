@@ -6,6 +6,7 @@ meta: {
 } 
 description: "Elevate your plant-based cooking with this bold, Indian-inspired Garam Masala Tofu Marinade. Infused with fresh ginger, garlic, and earthy spices, this vegan-friendly recipe creates a perfectly charred, aromatic crust on every cube. A high-protein, healthy meal prep staple that’s ready for the air fryer, grill, or pan in minutes."
 image: "garam-masala-tofu-marinade_yfdnmb"
+alt: "Garam masala marinated tofu cubes ready for cooking"
 pintrest: ""
 categories: ["vegan", "dinner", "15-minute-meals", "marinade"]
 tags: []

@@ -6,6 +6,7 @@ export interface Recipe {
   slug: string;
   description: string;
   image?: string; 
+  alt?: string;
   categories: string;
   tags: string[];
   rating: number;
@@ -40,7 +41,7 @@ const props = defineProps<{
       <Img 
         :src="props.recipe.image"   
         :high="props.high"
-        :alt="props.recipe.title"
+        :alt="props.recipe.alt"
         class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110" 
       />
       <div class="absolute top-3 left-3">

@@ -6,6 +6,7 @@ meta: {
 }
 description: "Quick, grab and go quick meals are always a good idea. These instant noodles are perfect when you need to satisfy that hunger bite."
 image: "5-minute-instant-noodles_ywvyin"
+alt: "5 Minute instant noodles garnished with spring onions"
 pintrest: ""
 categories: ["vegan", "dinner", "15-minute-meals"]
 cuisine: "Asian"

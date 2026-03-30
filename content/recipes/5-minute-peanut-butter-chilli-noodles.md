@@ -6,6 +6,7 @@ meta: {
 } 
 description: "A mouthwatering dish of Peanut Butter Chili Noodles with a fresh twist of garlic and ginger. This recipe balances the creaminess of peanut butter with a sharp chili kick—perfect for busy weeknights."
 image: "5-minute-peanut-butter-chilli-noodle_getziq"
+alt: "5-Minute Peanut Butter Chilli Noodles in a bowl"
 categories: ["5-minute-meals", "vegan", "high-protein"]
 cuisine: "Asian"
 keywords: ["peanut butter noodles", "chilli", "asian", "vegan", "high-protein", "5-minute", "spicy"]

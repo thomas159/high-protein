@@ -6,6 +6,7 @@ meta: {
 } 
 description: "Fried until golden and tossed in a harmonious sweet and spicy Gochujang glaze. This dish brings the bold flavors of Korean street food to your kitchen in just 15 minutes."
 image: "15-minute-crispy-sticky-korean-tofu_vu0qlh"
+alt: "15-Minute Crispy Sticky Korean Tofu garnished with sesame seeds"
 pintrest: "sticky-korean-tofu-pintrest_qh2wsc"
 categories: ["vegan", "high-protein"]
 cuisine: "Korean"

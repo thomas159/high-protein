@@ -8,6 +8,7 @@ description: "Kimchi Fried Rice (Kimchi-bokkeumbap) is the ultimate Korean comfo
 blurb: 
   - "Whether you're looking for a 15-minute weeknight savior or a cure for a late-night craving, this dish delivers an addictive umami punch that hits every single taste bud."
 image: "kim-chi-fried-rice_a4xo6n"
+alt: "Kimchi fried rice topped with a fried egg"
 categories: ["dinner", "vegan", "15-minute-meals"]
 tipsTitle: "Cooking Tips"
 tips:

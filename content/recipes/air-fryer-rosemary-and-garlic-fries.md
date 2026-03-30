@@ -6,6 +6,7 @@ meta: {
 }
 description: "Upgrade your side dish with these fragrant, herb-infused fries. By combining fresh rosemary and savory garlic with the high-speed crisping of the air fryer, you get a gourmet chip with significantly less fat than traditional frying. Golden, crispy, and ready in under 30 minutes."
 image: "air-fryer-rosemary-garlic-fries_ab8wu4"
+alt: "Crispy air fryer rosemary and garlic fries"
 pintrest: ""
 categories: ["air-fryer", "30-minute-meals", "snacks"]
 tipsTitle: "Crispy Fry Secrets"

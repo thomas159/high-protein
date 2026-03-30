@@ -6,6 +6,7 @@ meta: {
 } 
 description: "When you're in a hurry but still craving a satisfying and flavorful meal, these Peanut Butter Miso Noodles are your go-to solution. A delightful fusion of umami miso and creamy peanut butter that hits the spot in minutes."
 image: "5-minute-miso-peanut-butter-noodles_eo9aef"
+alt: "5-Minute Miso Peanut Butter Noodles garnished with spring onions"
 categories: ["5-minute-meals", "vegan", "high-protein"]
 cuisine: "Japanese"
 keywords: ["miso", "peanut butter", "noodles", "japanese", "vegan", "high-protein", "5-minute"]

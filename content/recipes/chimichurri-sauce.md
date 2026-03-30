@@ -8,6 +8,7 @@ description: "Elevate your meal prep with this Easy Argentinian Chimichurri—th
 blurb: 
 - "Designed for efficiency and flavor, this sauce is a must-have in any plant-based kitchen. Drizzle it over roasted veggies for a micronutrient boost, use it as a zesty salad dressing, or toss it with quinoa and beans for an instant pop of flavor. It’s the perfect way to keep your healthy meals exciting without the added sugar or preservatives of store-bought sauces."
 image: 'chimichurri-sauce_2_usinnj'
+alt: "Fresh and vibrant green chimichurri sauce in a small bowl"
 categories: ["vegan", "sauces", "5-minute-meals"]
 tags: ["vegan"]
 cuisine: "Argentinian"

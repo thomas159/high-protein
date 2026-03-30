@@ -6,6 +6,7 @@ meta: {
 }
 description: "Elevate your side dish game with these irresistible Sour Cream Fries. Shatter-crisp on the outside and fluffy in the center, every golden fry is drizzled with a velvety, garlic-infused sour cream sauce. A perfect 25-minute balance of savory, tangy, and crunchy textures—guaranteed to be the highlight of your next meal or party platter"
 image: "air-fryer-sour-cream-fries_k2lvbn"
+alt: "Air fryer fries drizzled with garlic sour cream sauce"
 pintrest: ""
 categories: ["air-fryer", "30-minute-meals", "snacks"]
 cuisine: "American"

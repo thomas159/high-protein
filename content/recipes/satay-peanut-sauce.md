@@ -20,6 +20,7 @@ use:
   - "As a Dressing: Thin it out with a splash of water and lime juice for a Thai Crunch Salad."
   - "As a Stir-fry Sauce: Toss with rice noodles, vegetables, and bean sprouts for a quick satay-noodle hybrid."
 image: "peanut-satay-sauce_rngtry"
+alt: "Rich and creamy satay peanut sauce in a bowl"
 pintrest: ""
 categories: ["sauces", "15-minute-meals"]
 cuisine: "Thai"

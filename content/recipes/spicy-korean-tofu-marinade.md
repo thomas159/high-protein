@@ -6,6 +6,7 @@ meta: {
 } 
 description: 'A fiery, fermented Korean marinade featuring Gochujang, soy sauce, and sesame. Perfect for sticky, charred air-fryer tofu.'
 image: "spicy-korean-tofu-marinade_dbsui8"
+alt: "Spicy Korean marinated tofu pieces"
 pintrest: ""
 categories: ["vegan", "dinner", "15-minute-meals", "marinade"]
 tags: []

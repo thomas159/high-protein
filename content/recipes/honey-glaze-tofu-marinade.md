@@ -7,6 +7,7 @@ meta: {
 } 
 description: 'Transform your tofu into a golden, caramelized treat with this Honey Glaze Marinade. Balancing the floral sweetness of honey with the savory umami of soy sauce and a bright lemon "zing," this 10-minute marinade creates a restaurant-style glaze. Perfectly seasoned with cumin and paprika, it’s a high-protein vegetarian staple for air-frying, grilling, or pan-searing.'
 image: "honey-glaze-tofu-marinade_1_rykscd"
+alt: "Honey glaze marinated tofu cubes"
 pintrest: ""
 categories: ["vegan", "dinner", "15-minute-meals", "marinade"]
 cuisine: "Asian"

@@ -7,6 +7,7 @@ meta: {
 description: "You’re only going to love these air fryer carrot fries. They’re sweet and savory, with a crispy texture that’s not too healthy, but oh so good. The garlic and parmesan really make this one special. Who needs fries at all?"
 blurb: []
 image: "air-fryer-garlic-and-parmesan-carrot-fries_fumihc"
+alt: "Air fryer garlic and parmesan carrot fries on a plate"
 pintrest: ""
 categories: ["air-fryer", "snacks", "30-minute-meals", "vegetarian"]
 cuisine: "American"

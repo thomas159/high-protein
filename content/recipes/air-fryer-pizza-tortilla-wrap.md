@@ -20,6 +20,7 @@ use:
   - "After-School Snack: Simple enough to make in a hurry."
   - "Light Lunch: Pairs beautifully with a fresh rocket side salad."
 image: "air-fryer-pizza-tortilla-wrap_ko6ckn"
+alt: "Air fryer tortilla pizza with pesto and cherry tomatoes"
 pintrest: ""
 categories: ["air-fryer", "dinner", "15-minute-meals"]
 cuisine: "Italian"

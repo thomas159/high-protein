@@ -6,6 +6,7 @@ meta: {
 }
 description: "Upgrade your snack game with these ultimate loaded fries. Using the air fryer ensures a perfect golden crunch with a fraction of the oil. Smothered in melted cheese and topped with a spicy jalapeño kick, they’re the perfect 15-minute treat for game nights or quick cravings"
 image: "air-fryer-jalapeno-cheese-loaded-fries_twwfu7"
+alt: "Crispy air fryer jalapeño cheese loaded fries on a plate"
 pintrest: ""
 categories: ["air-fryer", "30-minute-meals", "snacks"]
 tipsTitle: "Loaded & Crispy"

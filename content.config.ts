@@ -24,6 +24,7 @@ export default defineContentConfig({
         dontTitle: z.string().optional(),
         flavour: z.array(z.string()).default([]),
         image: z.string().optional(),
+        alt: z.string().optional(),
         pintrest: z.string().optional(),
         categories: z.array(z.string()).default([]),
         variations: z.array(z.string()).default([]),

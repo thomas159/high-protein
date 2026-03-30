@@ -10,6 +10,7 @@ blurb:
 - " This recipe is a great way to enjoy the classic Czech dish in a healthier way. Air frying is a healthier alternative to deep frying, which can retain more of the original flavors and nutrients in the food."
 - " Serve this delicious treat with fries and tarter sauce for an authentic Czech meal. You can also serve it as an appetizer with a side of pickles or sauerkraut for a savory and satisfying snack."
 image: "fried-cheese-czech-style_im1uqu"
+alt: "Crispy Air Fryer Czech Fried Cheese (Smažený Sýr) on a plate"
 categories: ["air-fryer", "dinner", "15-minute-meals"]
 tags: ["Keto", "High Protein", "Vegetarian", "Healthy"]
 cuisine: "Czech"

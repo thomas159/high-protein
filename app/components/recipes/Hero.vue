@@ -4,6 +4,7 @@ export interface Recipe {
   slug: string;
   description: string;
   image: string;
+  alt?: string;
   categories: string[];
   tags: string[];
   rating: number;
@@ -86,7 +87,7 @@ const props = defineProps<{
     <div class="order-1 lg:order-2 lg:col-span-6 relative h-[300px] md:h-[400px] lg:h-[400px]">
       <Img 
         :src="props.recipe.image"
-        :alt="props.recipe.title" class="w-full h-full object-cover rounded-3xl shadow-xl border border-border" 
+        :alt="props.recipe.alt" class="w-full h-full object-cover rounded-3xl shadow-xl border border-border" 
         high
         />
     </div>

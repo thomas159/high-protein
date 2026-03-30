@@ -10,6 +10,7 @@ blurb:
   - "This dip is not only delicious but also versatile, you can adjust the amount of garlic to suit your taste, add some herbs such as parsley, chives or dill for an extra flavor. You can also add some hot sauce or cayenne pepper for a spicy kick."
   - "This Garlic Dip can be served as a dip for vegetables, crackers, or bread, or it can be used as a spread for sandwiches or wraps. It's also perfect for dipping in fried foods such as french fries."
 image: "garlic-sauce_dz8yhf"
+alt: "Creamy low calorie garlic sauce in a small dipping bowl"
 categories: ["sauces", "15-minute-meals"]
 tags: ["Keto"]
 tipsTitle: "Variations to Try"

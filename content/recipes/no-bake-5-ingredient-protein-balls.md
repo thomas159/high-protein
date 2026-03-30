@@ -6,6 +6,7 @@ meta: {
 } 
 description: "Fuel your day with these quick, 5 minute No-Bake Protein Balls. Packed with healthy fats and protein, these bite-sized snacks are refined sugar-free and require zero cooking. The perfect pre-workout boost or healthy afternoon snack for busy meal-preppers."
 image: "no-bake-5-ingredient-protein-balls_kvwhmm"
+alt: "No-bake 5 ingredient protein balls stacked together"
 pintrest: ""
 categories: ["high-protein", "5-minute-meals", "snacks"]
 cuisine: "American"

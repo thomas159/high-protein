@@ -6,6 +6,7 @@ meta: {
 } 
 description: "Craving a warm, comforting dessert without the sugar crash? This high-protein apple crumble is made directly in a ramekin and baked in the air fryer. It combines juicy cinnamon apples with a crunchy, protein-packed oat topping."
 image: "high-protein-air-fryer-apple-crumble_plgb9p"
+alt: "High protein air fryer apple crumble in a ramekin"
 pintrest: ""
 categories: ["high-protein", "air-fryer", "vegan", "keto", "dinner", "breakfast", "trending", "dessert"]
 tags: []

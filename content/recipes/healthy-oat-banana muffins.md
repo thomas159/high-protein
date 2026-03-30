@@ -8,6 +8,7 @@ description: "Fuel your gains with this 10-minute prep, one-bowl chocolate wonde
 blurb: 
 - "The result is a moist, fudge-like chocolate banana oat bake infused with tropical desiccated coconut and natural honey. Whether you’re looking for a vegetarian meal prep idea for the week or a quick pre-gym bite, this recipe delivers maximum flavor with zero fluff and high-quality vegetarian protein."
 image: "healthy-banana-oat-muffins_n0f9xa"
+alt: "Healthy oat banana muffins fresh out of the air fryer"
 categories: ["air-fryer", "dessert", "15-minute-meals"]
 tags: 
 cuisine: "American"

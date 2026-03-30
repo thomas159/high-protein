@@ -8,6 +8,7 @@ description: "Experience the perfect balance of creamy, salty, and sweet with th
 blurb: 
 - "By utilizing a precise 4:1 ratio of coconut infusion to finishing glaze, we ensure every grain of glutinous rice is perfectly tender and fragrant and pair it with fresh, vitamin-rich mango. Whether you're fueling your next gym session or looking for a tropical escape in your kitchen, this macro-friendly dessert delivers high energy and maximum flavor."
 image: "mango-sticky-rice_vzh6ec"
+alt: "Authentic Thai Mango Sticky Rice served with coconut sauce"
 categories: ["dessert"]
 tags: ["vegan", "high-carb", "healthy"]
 cuisine: "Thai"

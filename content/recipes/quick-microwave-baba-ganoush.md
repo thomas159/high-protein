@@ -6,6 +6,7 @@ meta: {
 } 
 description: "Craving Middle Eastern flavors but short on time? This microwave version delivers creamy, smoky aubergine dip in a fraction of the time. Perfect for parties or a healthy sandwich spread."
 image: "quick-microwave-baba-ganoush_douf9l"
+alt: "Quick microwave baba ganoush drizzled with olive oil"
 categories: ["dips", "vegan", "15-minute-meals"]
 cuisine: "Middle Eastern"
 keywords: ["baba ganoush", "aubergine", "eggplant", "microwave", "middle eastern", "vegan", "dip"]

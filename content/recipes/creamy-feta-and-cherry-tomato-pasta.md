@@ -7,6 +7,7 @@ meta: {
 description: "This Feta and Cherry Tomatoes Pasta is a delicious and simple dish that is perfect for busy weeknights or when you're craving a comforting and satisfying meal. This pasta dish is full of flavour and is ready in just 15 minutes. The combination of creamy feta cheese, sweet cherry tomatoes, and pasta creates a delicious and satisfying dish that is perfect for any occasion"
 blurb: []
 image: "feta-and-cherry-tomato-pasta_k93wad"
+alt: "Creamy feta and cherry tomato pasta in a bowl"
 categories: ["dinner", "15-minute-meals"]
 tipsTitle: "Chef's Tips"
 tips:

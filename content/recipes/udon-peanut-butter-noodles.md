@@ -6,6 +6,7 @@ meta: {
 }
 description: "An authentic, creamy Thai Satay Sauce crafted with roasted peanuts, aromatic red curry paste, and rich coconut milk. Perfectly balanced and versatile—use it as a savory dip, a base for vibrant stir-frys, or the ultimate topping for grilled skewers"
 image: "udon-peanut-butter-noodles_qufch8"
+alt: "Udon peanut butter noodles with vegetables and tofu"
 pintrest: ""
 categories: ["vegan", "dinner", "15-minute-meals"]
 cuisine: "Thai"

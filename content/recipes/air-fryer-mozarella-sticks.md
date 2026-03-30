@@ -6,6 +6,7 @@ meta: {
 }
 description: "Skip the store-bought bag and make these crispy, golden mozzarella sticks at home. Coated in a savory blend of chili, oregano, and garlic, they deliver a perfect cheese pull with every bite. Air frying gives you that deep-fried crunch using a fraction of the oil for a healthier, tastier snack."
 image: "air-fryer-mozarella-sticks_oiud1f"
+alt: "Crispy air fryer mozzarella sticks with a cheese pull"
 pintrest: ""
 categories: ["air-fryer", "45-minute-meals", "snacks", "trending"]
 tipsTitle: "Chef's Tip"

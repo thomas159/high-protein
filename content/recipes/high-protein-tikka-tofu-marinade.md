@@ -6,6 +6,7 @@ meta: {
 } 
 description: "Infuse your tofu with the bold, aromatic flavors of India using this easy Tikka Marinade. A vibrant blend of garam masala, turmeric, and coriander mixed into a tangy Greek yogurt base, it creates a perfectly charred, savory crust. Whether grilled, pan-fried, or air-fried, this high-protein vegan staple delivers restaurant-quality flavor in minutes"
 image: "tikka-tofu-marinade_if4ab4"
+alt: "High-protein tikka marinated tofu cubes"
 pintrest: ""
 categories: ["dinner", "15-minute-meals", "marinade"]
 tags: []

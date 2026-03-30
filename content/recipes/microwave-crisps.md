@@ -6,6 +6,7 @@ meta: {
 }
 description: "Experience the satisfying crunch of homemade crisps without the deep-fryer. These microwave crisps deliver all the bold flavor of the classic snack using zero oil, making them a remarkably healthy, guilt-free alternative that’s ready in minutes"
 image: "microwave-crisps_loaj1f"
+alt: "Crunchy oil-free microwave potato crisps in a bowl"
 pintrest: ""
 categories: ["vegan", "snacks", "15-minute-meals"]
 tipsTitle: "Flavor Variation"

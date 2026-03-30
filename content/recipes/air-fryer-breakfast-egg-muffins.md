@@ -9,6 +9,7 @@ blurb:
   - "The best part is that they can be made right in your air fryer, making them a convenient and time-saving option for busy mornings."
   - "These air fryer breakfast egg muffins are a healthy, delicious, and convenient way to start your day. They're packed with protein and are a great way to fuel your body and give you the energy you need to tackle your day. Give this recipe a try and see how easy and delicious breakfast can be!"
 image: "air-fryer-breakfast-egg-muffins_thu9o8"
+alt: "Air fryer breakfast egg muffins with feta and sun-dried tomatoes"
 pintrest: ""
 categories: ["air-fryer", "breakfast", "15-minute-meals", "vegetarian", "keto"]
 cuisine: "American"

@@ -6,6 +6,7 @@ meta: {
 } 
 description: "Experience the ultimate fusion snack with these cheesy, crunchy Kimchi Fries. A perfect 20-minute balance of sweet, salty, and spicy, these fries are tossed with savory sautéed kimchi, melted cheese, and toasted sesame seeds. It's an explosion of Korean-inspired flavors that’s as easy to make as it is to eat."
 image: "air-fryer-kim-chi-fries_u7kuzj"
+alt: "Air fryer kimchi fries topped with melted cheese and sesame seeds"
 pintrest: ""
 categories: ["air-fryer", "30-minute-meals", "snacks"]
 tipsTitle: "Fry Hacks"
