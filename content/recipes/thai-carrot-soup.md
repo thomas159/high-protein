@@ -47,6 +47,13 @@ ingredients:
   - { item: "Thai red curry paste", amount: 0.5, unit: "tbsp" }
   - { item: "Lime (for juicing)", amount: 0.5 }
   - { item: "Coriander (for decoration)", amount: 5, unit: "g"}
+
+faq:
+  - question: "Can I use light coconut milk instead of full-fat?"
+    answer: "You can, but the soup will be much less creamy. Full-fat coconut milk balances the spice of the curry paste perfectly."
+  - question: "Is this soup very spicy?"
+    answer: "It has a mild kick. If you're sensitive to heat, halve the amount of red curry paste to start with."
+
 steps:
   - "Place the chopped carrots into a large pot and cover with water. Bring to a boil over medium heat and simmer for 10–12 minutes until fork-tender. Drain the carrots and set them aside momentarily"
   - "In the same pot, combine the Thai red curry paste with a splash of the coconut milk. Sauté over low heat for 1–2 minutes until the paste is fragrant and well-combined with the milk. This step \"blooms\" the spices, significantly deepening the flavor of your soup base"

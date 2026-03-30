@@ -49,6 +49,13 @@ ingredients:
   - { item: "Cheddar cheese", type: 'grated', amount: 50, unit: 'g' }
   - { item: "Jalapenos", type: 'sliced', amount: 25, unit: 'g' }
   - { item: "Salt", amount: 0.5, unit: 'tsp' }
+
+faq:
+  - question: "How do I prevent the cheese from blowing around in the air fryer?"
+    answer: "The cheese melts very quickly, but if your air fryer fan is extremely powerful, you can place a trivet or a small piece of foil over the top for the first 30 seconds to lock it down."
+  - question: "Can I make the fries from scratch instead of using pre-cut ones?"
+    answer: "Yes, but be sure to soak your hand-cut potatoes in cold water for 30 minutes first, and air fry them until fully crispy before adding the cheese and jalapeños."
+
 steps:
   - "Scrub the potatoes and slice them into uniform sticks, approximately 0.5cm thick. In a large bowl, toss the fries with olive oil, salt until every surface is lightly coated. Using a bowl ensures even seasoning without making the fries soggy"
   - "Arrange the potatoes in the basket, try not to overcrowd them to ensure maximum airflow. Air fry for 18-24 minutes on 190c, giving the basket a vigorous shake every 5 minutes for an even, golden crunch"

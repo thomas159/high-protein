@@ -56,6 +56,12 @@ ingredients:
   - { item: "Ginger", type: 'minced', amount: 0.5, unit: 'tsp' }
   - { item: "Sesame oil", amount: 0.5, unit: 'tsp' }
 
+faq:
+  - question: "Is gochujang gluten-free?"
+    answer: "Traditionally, gochujang contains barley or wheat. If you are gluten-free, be sure to look for a specifically labeled gluten-free gochujang brand."
+  - question: "How long should I marinate the tofu?"
+    answer: "30 minutes is great, but leaving it overnight in the fridge will give you an incredibly deep, rich flavor."
+
 steps:
   - "For the best results, wrap your extra-firm tofu in a clean towel and place a heavy weight on top for 15 minutes. Removing excess water allows the marinade to soak deep into the block rather than just sitting on the surface"
   - "In a bowl, combine the tomato ketchup, sugar, gochujang, soy sauce, rice wine vinegar, garlic clove, ginger, and sesame oil, pinch of salt and a splash of oil"

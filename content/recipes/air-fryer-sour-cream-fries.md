@@ -49,6 +49,13 @@ ingredients:
   - { item: "Sour cream", amount: 1, unit: 'tbsp' }
   - { item: "Garlic granules ", amount: 0.25, unit: 'tsp' }
   - { item: "Spring onion", type: 'finely chopped', amount: 1 }
+
+faq:
+  - question: "Can I use Greek yogurt instead of sour cream?"
+    answer: "Absolutely. Greek yogurt makes a fantastic high-protein, lower-calorie substitute that still provides that tangy, creamy coating."
+  - question: "Will the fries get soggy?"
+    answer: "To keep them as crispy as possible, toss the hot fries in the cool sauce right before eating, or serve the sauce on the side as a dip."
+
 steps:
   - "Scrub the potatoes and slice them into uniform sticks, approximately 0.5cm thick. In a large bowl, toss the fries with olive oil, salt until every surface is lightly coated. Using a bowl ensures even seasoning without making the fries soggy"
   - "Arrange the potatoes in the basket, try not to overcrowd them to ensure maximum airflow. Air fry for 18-24 minutes on 190c, giving the basket a vigorous shake every 5 minutes for an even, golden crunch"

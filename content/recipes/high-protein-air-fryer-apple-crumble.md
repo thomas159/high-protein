@@ -55,6 +55,12 @@ ingredients:
   - { item: "Protein powder", type: 'vanilla or salted caramel', amount: 15, unit: 'g' } 
   - { item: "Honey", type: 'or maple syrup', amount: 1, unit: 'tsp' }
 
+faq:
+  - question: "Can I use whey protein instead of a plant-based one?"
+    answer: "Yes, but whey tends to dry out faster when baked. You may need an extra teaspoon of melted butter or coconut oil to keep the crumble together."
+  - question: "What are the best apples to use for crumble?"
+    answer: "Granny Smith or Braeburn apples are ideal as they retain their shape and provide a tart contrast to the sweet topping."
+
 steps:
 - "In a standard ramekin, toss the diced apple with cinnamon and sugar. Pour the tablespoons of water over the top to help the apples steam while baking."
 - "In a separate small bowl, combine the oats, protein powder, butter, and honey. Rub the mixture together with your fingers or a fork until you achieve a crumbly, pebble-like dough."

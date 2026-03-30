@@ -49,6 +49,13 @@ ingredients:
   - { item: "feta cheese", amount: 50, unit: "g" } 
   - { item: "Cream", amount: 50, unit: "ml" } 
   - { item: "Vegetable stock", amount: 50, unit: "ml"} 
+
+faq:
+  - question: "Can I make this without wine?"
+    answer: "Yes! You can substitute the white wine with an equal amount of vegetable stock mixed with a teaspoon of white wine vinegar or lemon juice."
+  - question: "Should I use block feta or pre-crumbled?"
+    answer: "Always use block feta stored in brine. It melts much smoother into the sauce, whereas pre-crumbled feta has anti-caking agents that make it gritty."
+
 steps:
   - "Fill a large pot with water and a generous pinch of salt (it should taste like the sea). Bring to a rolling boil, add your pasta, and cook until al dente (usually 1–2 minutes less than the package instructions)"
   - "While the pasta is bubbling, heat olive oil in a large saucepan over medium heat. Add the tomatoes and garlic. Cook for 2 minutes until the tomatoes just begin to soften and the garlic is fragrant. Pour in the white wine. Let it simmer for 2–3 minutes until the sharp alcohol scent has vanished and the liquid has reduced by half"

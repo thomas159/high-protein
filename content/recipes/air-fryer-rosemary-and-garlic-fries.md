@@ -50,6 +50,13 @@ ingredients:
   - { item: "Garlic granules", amount: 1, unit: 'tsp' }
   - { item: "Rosemary", amount: 5, unit: 'g' }
   - { item: "Salt", amount: 0.5, unit: 'tsp' }
+
+faq:
+  - question: "Do I need to peel the potatoes?"
+    answer: "No! Leaving the skin on adds extra fibre and helps the fries crisp up nicely in the air fryer."
+  - question: "Why did my garlic burn?"
+    answer: "Fresh minced garlic can burn quickly at high temperatures. Using garlic granules or powder is the best way to get the flavour without the bitter, burnt bits."
+
 steps:
   - "Scrub the potatoes and slice them into uniform sticks, approximately 0.5cm thick. In a large bowl, toss the fries with olive oil, dried rosemary, and garlic granules and salt until every surface is lightly coated. Using a bowl ensures even seasoning without making the fries soggy"
   - "Arrange the potatoes in the basket, try not to overcrowd them to ensure maximum airflow. Air fry for 18-24 minutes on 190c, giving the basket a vigorous shake halfway through—this redistributes the rosemary needles and ensures the garlic oil browns every side of the potato evenly"

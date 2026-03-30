@@ -48,6 +48,13 @@ ingredients:
   - { item: "Flour", amount: 10, unit: "g" } 
   - { item: "Small egg", amount: 10, unit: "g" }   
   - { item: "Olive oil spray" }   
+
+faq:
+  - question: "What kind of cheese is best for Smažený Sýr?"
+    answer: "Edam is the traditional choice in the Czech Republic, but Gouda, Swiss, or even a firm Mozzarella block work wonderfully."
+  - question: "Why did my cheese leak in the air fryer?"
+    answer: "If the breading isn't thick enough, the cheese will escape. Always double-bread the cheese and freeze it for 30 minutes before cooking."
+
 steps:
   - "Arrange three shallow bowls in a row, Bowl 1: All-purpose flour. Bowl 2: One egg, beaten until smooth and runny. Bowl 3: Breadcrumbs"
   - "Lightly moisten the cheese with water (this acts as a primer). Dredge the cheese in the flour, shaking off any excess so only a thin film remains"

@@ -57,6 +57,12 @@ ingredients:
   - { item: "Pinch of salt", amount: 2, unit: "tsp" } 
   - { item: "Lemon juice", amount: 2, unit: "tsp" } 
 
+faq:
+  - question: "Do I need to press the tofu first?"
+    answer: "Yes, pressing the tofu removes excess water, allowing it to act like a sponge and soak up the rich, spiced yogurt marinade."
+  - question: "Can I use a different protein instead of tofu?"
+    answer: "This marinade is perfect for paneer, tempeh, or even cauliflower florets! Just ensure you adjust the cooking times to make sure they are cooked all the way through."
+
 steps:
   - "For the best results, wrap your extra-firm tofu in a clean towel and place a heavy weight on top for 15 minutes. Removing excess water allows the marinade to soak deep into the block rather than just sitting on the surface"
   - "In a bowl, combine the Greek yogurt (or vegan alternative), ginger garlic paste, lemon juice, and a splash of oil. Stir in the coriander powder, garam masala, turmeric powder, and a pinch of salt"
