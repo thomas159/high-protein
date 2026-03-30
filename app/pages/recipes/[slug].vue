@@ -9,7 +9,57 @@ const { data: recipe } = await useAsyncData(route.path, () => {
 // Helper to format minutes into ISO8601 (Schema requirement)
 const formatIso = (mins: number) => `PT${mins}M`
 
+// 2. Map the Nuxt Content FAQ data to fit Nuxt UI's UAccordion properties
+const accordionItems = computed(() => {
+  if (!recipe.value?.faq) return []
+  
+  return recipe.value.faq.map((item) => ({
+    label: item.question,
+    content: item.answer
+  }))
+})
 
+// 3. Inject valid FAQPage & Recipe JSON-LD schema for Google
+if (recipe.value) {
+  const schema = []
+
+  // Add the basic recipe schema
+  schema.push(
+    defineRecipe({
+      name: recipe.value.title,
+      image: recipe.value.image,
+      description: recipe.value.description,
+      prepTime: recipe.value.prepTimeMins ? `PT${recipe.value.prepTimeMins}M` : undefined,
+      cookTime: recipe.value.cookTimeMins ? `PT${recipe.value.cookTimeMins}M` : undefined,
+      recipeYield: recipe.value.servings,
+      recipeCategory: recipe.value.categories?.[0] || 'Dinner',
+      recipeCuisine: recipe.value.cuisine,
+    })
+  )
+
+  // If FAQs exist, add the FAQPage type and map the questions into schema
+  if (recipe.value.faq && recipe.value.faq.length > 0) {
+    // Add FAQPage as an additional type to the WebPage
+    schema.push(
+      defineWebPage({
+        '@type': ['WebPage', 'FAQPage']
+      })
+    )
+
+    // Push each question as valid Google Schema
+    recipe.value.faq.forEach(item => {
+      schema.push(
+        defineQuestion({
+          name: item.question,
+          acceptedAnswer: item.answer
+        })
+      )
+    })
+  }
+
+  // Generate the schema into the document <head>
+  useSchemaOrg(schema)
+}
 // 1. SEO Meta Tags (Dynamic for both SSR & Client Navigation)
 useSeoMeta({
   title: recipe.value?.title,
@@ -217,7 +267,20 @@ useHead({
         <h2 v-if="recipe.storageInstructions" id="storage" class="mt-12 ">Storage and Freezing</h2>
         <p class=" text-muted-foreground" v-html="formatText(recipe.storageInstructions)" />
 
-       
+           <!-- New FAQ Section -->
+        <section v-if="recipe?.faq?.length" class="mt-12">
+          <h2 class="text-2xl font-bold mb-6 text-gray-900 dark:text-white">
+            Frequently Asked Questions
+          </h2>
+          
+          <!-- Nuxt UI Accordion for a clean UX -->
+          <UAccordion 
+            :items="accordionItems" 
+            size="lg"
+            variant="outline"
+            class="max-w-3xl"
+          />
+        </section>
 
         <!-- <div v-if="recipe.dontTitle && recipe.dont" class="bg-blue-50 border-l-4 border-blue-400 p-4 my-4">
             <div class="flex">

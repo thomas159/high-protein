@@ -8,7 +8,7 @@ description: "Fuel your day with these quick, 5 minute No-Bake Protein Balls. Pa
 image: "no-bake-5-ingredient-protein-balls_kvwhmm"
 alt: "No-bake 5 ingredient protein balls stacked together"
 pintrest: ""
-categories: ["high-protein", "5-minute-meals", "snacks"]
+categories: ["high-protein", "5-minute-meals", "snacks", "dessert"]
 cuisine: "American"
 tags: ["vegetarian", "snack", "meal-prep", "high-protein"]
 keywords: ["protein balls", "no-bake", "snack", "high-protein", "american", "meal prep"]
@@ -51,6 +51,12 @@ ingredients:
   - { item: "Milk", amount: 25, unit: "g" }
   - { item: "Banana", type: 'mashed', amount: 1 }
   - { item: "Peanut butter", amount: 1, unit: "tbsp" }
+
+faq:
+  - question: "Can I use a different nut butter instead of peanut butter?"
+    answer: "Absolutely! Almond butter, cashew butter, or even sunflower seed butter work perfectly. Just ensure it has a sticky, drippy consistency to bind the oats."
+  - question: "Are these protein balls gluten-free?"
+    answer: "They can be! Just make sure to buy certified gluten-free oats, as standard rolled oats are often cross-contaminated during manufacturing."
 
 steps:
   - "Add the rolled oats, nut butter, sweetener, protein powder, and any mix-ins (like chocolate chips or seeds) into a large mixing bowl. Stir vigorously until a thick, cohesive dough forms"
