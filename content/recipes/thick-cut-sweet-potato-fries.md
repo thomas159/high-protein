@@ -42,6 +42,13 @@ macros:
 ingredients:
   - { item: "Olive oil", amount: 1, unit: "tbsp" }
   - { item: "Sweet Potato", type: 'thickly cut', amount: 1 }
+
+faq:
+  - question: "Do I need to peel the sweet potatoes?"
+    answer: "No, leaving the skin on adds extra fiber and creates a great texture. Just make sure to scrub them thoroughly before slicing."
+  - question: "Why are my sweet potato fries soggy?"
+    answer: "Overcrowding the air fryer basket or skipping the 30-minute cold water soak can lead to the fries steaming instead of crisping up."
+
 steps:
   - "Slice the sweet potatoes into 1cm matchsticks. Soak them in cold water for 30 minutes to remove surface starch, then pat them completely dry"
   - "In a bowl, toss the fries with a small amount of oil and your seasonings"

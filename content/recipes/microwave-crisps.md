@@ -42,6 +42,13 @@ macros:
 ingredients:
   - { item: "Olive oil", amount: 1, unit: "tbsp" }
   - { item: "Potato", type: 'thinly sliced', amount: 1 }
+
+faq:
+  - question: "Why did my crisps stick to the plate?"
+    answer: "Make sure you are using parchment paper underneath them, and ensure the potato slices are completely dry after their cold water soak."
+  - question: "Can I make these in an air fryer instead?"
+    answer: "Yes! You can air fry them at 180°C for 10-15 minutes, but the microwave method is surprisingly faster for achieving a true, uniform 'chip' snap."
+
 steps:
   - "Cutting the potatoes: Using a mandoline or a very sharp knife, slice the potatoes into paper-thin rounds. The thinner the slice, the crispier the chip will be."
   - "Place the slices in a bowl of cold water for 5 minutes to remove excess starch—this prevents them from sticking and helps them crisp up. Drain and pat them completely dry with a clean kitchen towel; any moisture left behind will cause them to steam rather than crisp."

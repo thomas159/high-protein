@@ -47,6 +47,13 @@ ingredients:
   - { item: "Red pepper", type: 'chopped', amount: 25, unit: "g" } 
   - { item: "White onion", type: 'chopped', amount: 25, unit: "g" } 
   - { item: "Coriander" } 
+
+faq:
+  - question: "What if I don't have paneer?"
+    answer: "You can easily substitute the paneer with extra-firm tofu, thick halloumi cubes, or even standard mozzarella cheese."
+  - question: "Can I use a standard pizza base?"
+    answer: "Absolutely, but the cooking time will be much longer. Naan provides a quick, pre-cooked fluffy base that crisps up perfectly in minutes."
+
 steps:
   - "Spread a generous, even layer of mango chutney across the entire surface of the naan. Think of this as your flavor-packed alternative to traditional tomato sauce"
   - "Evenly distribute the paneer cubes, red peppers, and onions over the chutney. Press the paneer lightly into the chutney so it stays put!"

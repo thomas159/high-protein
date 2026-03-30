@@ -45,6 +45,13 @@ ingredients:
   - { item: "Parmesan cheese", type: "grated", amount: 2, unit: "tbsp" }
   - { item: "Garlic cloves", type: "minced", amount: 2 }
   - { item: "Fresh parsley", type: "chopped, for garnish" }
+
+faq:
+  - question: "Why did my carrot fries burn?"
+    answer: "Carrots have a high natural sugar content which can caramelize and burn quickly. Make sure to shake the basket halfway through and don't skip the oil!"
+  - question: "Can I use regular potatoes instead?"
+    answer: "Yes, but the cooking time may increase slightly. Carrots provide a sweeter, lower-calorie alternative to traditional fries."
+
 steps:
   - "Cut the carrots into thin strips. From the top of the carrot you should be able to cut into 3, and the bottom into 2 strips for uniform fry shapes."
   - "In a bowl, coat the carrot strips evenly with the olive oil, salt, minced garlic, and parmesan cheese."

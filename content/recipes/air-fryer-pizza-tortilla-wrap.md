@@ -47,6 +47,13 @@ ingredients:
   - { item: "Mozarella", amount: 70, unit: "g" }
   - { item: "Cherry tomatoes", amount: 5 }
   - { item: "Red onion", amount: 0.5 }        
+
+faq:
+  - question: "Will the tortilla burn in the air fryer?"
+    answer: "The edges crisp up very fast! If they start browning too much before the cheese fully melts, lower the temperature to 180°C."
+  - question: "Can I use a corn tortilla instead?"
+    answer: "Flour tortillas work best as a pizza base because they hold up better to moist toppings, whereas corn tortillas might split or become too soggy."
+
 steps:
   - "Preheat your air fryer or oven to 200°C. Place the tortilla in the air fryer tray or on a flat baking tray or a pizza stone. Use the back of a spoon to spread the pesto evenly across the surface. Leave a 1cm border around the edge. This allows the tortilla to \"puff\" slightly and turn into a crunchy, golden crust."
   - "Layer your fresh ingredients carefully to ensure an even cook. Distribute the mozzarella slices evenly. Scatter the halved cherry tomatoes (cut-side up to prevent sogginess) and the thinly sliced onions."
