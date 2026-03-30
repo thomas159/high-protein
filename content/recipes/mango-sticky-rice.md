@@ -46,6 +46,13 @@ ingredients:
   - { item: "thick coconut cream", amount: 85, unit: 'g'}
   - { item: "sugar", amount: 1.25, unit: 'tbsp' }
   - { item: "pinch of salt"}
+
+faq:
+  - question: "Can I use regular white rice or jasmine rice?"
+    answer: "Unfortunately, no. Glutinous rice (also known as sweet rice or sticky rice) has a unique starch composition that is essential for the sticky, chewy texture of this dessert."
+  - question: "Why do I need to soak the rice?"
+    answer: "Soaking softens the hard outer shell of the glutinous rice grains, allowing them to steam evenly. If you skip this, the center of the rice will remain hard and crunchy."
+
 steps:
   - "Rinse the glutinous rice until the water runs clear. Soak in warm water for 6 hours (or accelerate by using boiling water for 1 hour). Drain and steam for 15–20 minutes until the grains are translucent, soft, and slightly tacky"
   - "While the rice is still steaming hot, whisk together 80% (4/5) of your coconut cream and sugar with a tiny pinch of salt. Gently fold this mixture into the rice until every grain is coated. Cover the bowl with a clean cloth and let it stand for 30 minutes. This allows the rice to \"drink\" the coconut milk, reaching that perfect, fragrant consistency. Keep the remaining 1/5 aside—you'll need it for the finishing glaze!"

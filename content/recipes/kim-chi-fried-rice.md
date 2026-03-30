@@ -14,12 +14,12 @@ tipsTitle: "Cooking Tips"
 tips:
   - "Flavor Bomb: Don't waste the liquid! Add 2-3 tablespoons of the juice from your kimchi jar during Step 3 for a deeply authentic, punchy flavor."
   - "Protein Boost: Dice 200g of extra-firm tofu or tempeh and pan-fry it before starting the rice for a massive plant-based protein upgrade."
-  - "Day-Old Rice is King: Always use cold, day-old rice. Freshly cooked rice has too much moisture and will turn your dish into mush."
+  - "Rice Choice: We use fresh rice here to keep this a quick 15-minute meal. However, if you plan ahead, day-old cold rice is the ultimate alternative—it has less moisture and crisps up significantly better in the pan!"
 works:
   - "Fermented Depth: The aged kimchi provides instant tang and umami that usually takes hours of slow cooking to achieve."
   - "The Searing Technique: Pressing the rice into the high-heat pan creates crucial textural contrast, delivering those coveted crispy, caramelized edges."
 use:
-  - "Leftover Rescue: The best way to use up day-old rice and aging kimchi."
+  - "Leftover Rescue: A fantastic way to use up leftover rice and aging kimchi if you aren't making the rice fresh."
   - "Comfort Food: A spicy, warming bowl perfect for late-night cravings."
   - "Quick Main: Goes from pan to plate in under 15 minutes."
 cuisine: "Korean"
@@ -53,6 +53,13 @@ ingredients:
   - { item: "Sesame oil", amount: 1, unit: 'tsp'}
   - { item: "Gochujang", amount: 1, unit: 'tsp'}
   - { item: "Sesame seeds", amount: 1, unit: 'tsp'}
+
+faq:
+  - question: "Is day-old rice better than fresh rice for this?"
+    answer: "Yes! While using fresh rice makes this a lightning-fast 15-minute meal, day-old rice is the premium alternative. It requires planning ahead, but the cold, dried-out grains crisp up perfectly and prevent the dish from becoming mushy."
+  - question: "Can I make this without Gochujang?"
+    answer: "Gochujang adds a specific deep, sweet heat, but you can substitute it with sriracha mixed with a tiny pinch of sugar and soy sauce in a pinch."
+
 steps:
   - "Heat your cooking oil in a large pan or wok over medium-high heat. Add the garlic, mixed vegetables, and kimchi. Stir-fry for 3–4 minutes. You want the kimchi to slightly caramelize and the vegetables to soften while retaining a bit of \"snap.\""
   - "Clear a space in the center of your pan by pushing the kimchi and vegetables to the edges (this creates a \"hot zone\"). Crack the egg directly into the center. Whisk it quickly with your spatula to scramble. Once it’s about 80% cooked and looks like soft ribbons, begin folding the vegetables back in to combine."

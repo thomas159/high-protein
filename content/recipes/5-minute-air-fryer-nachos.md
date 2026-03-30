@@ -51,6 +51,13 @@ ingredients:
   - { item: "Red onions", type: 'finely chopped', amount: 25, unit: 'g' }
   - { item: "Spring onions", type: 'finely chopped', amount: 25, unit: 'g' }
   - { item: "Lime juice", amount: 1, unit: 'tsp' }
+
+faq:
+  - question: "Can I use a microwave instead of an air fryer?"
+    answer: "You can, but the chips will become soggy. The air fryer is essential for keeping the tortilla chips crispy while melting the cheese perfectly."
+  - question: "What are the best tortillas to use?"
+    answer: "Thick, restaurant-style corn tortilla chips work best as they hold up to the weight of the melted cheese without breaking."
+
 steps:
   - "Line your air fryer basket with a small piece of parchment paper (this makes cleanup easy and helps you lift the nachos out later). Spread a layer of tortilla chips evenly across the bottom."
   - "Generously sprinkle grated cheese over the chips, followed by finely chopped tomatoes and red onions."

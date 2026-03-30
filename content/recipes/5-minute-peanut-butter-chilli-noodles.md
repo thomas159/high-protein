@@ -55,6 +55,12 @@ ingredients:
   - { item: "Sesame Seeds", amount: 1, unit: "tsp" }
   - { item: "Spring Onion", type: "sliced", amount: 1 }
 
+faq:
+  - question: "Can I eat this dish cold?"
+    answer: "Yes! These noodles are fantastic served chilled as a peanut noodle salad. You may just need to add a splash of water to loosen the sauce after it sits in the fridge."
+  - question: "What can I use instead of peanut butter?"
+    answer: "Almond butter, cashew butter, or sunflower seed butter all make excellent, creamy substitutes if you have a peanut allergy."
+
 steps:
   - "Cook your noodles according to the package instructions. Drain and set aside, reserving a tiny splash of the starchy cooking water."
   - "In a small bowl, whisk together the peanut butter, soy sauce, honey, minced garlic, grated ginger, and chilli oil. If the sauce is too thick to pour, add that splash of reserved noodle water."

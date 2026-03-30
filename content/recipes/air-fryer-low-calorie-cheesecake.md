@@ -44,6 +44,13 @@ ingredients:
   - { item: "Erythritol", amount: 25, unit: "g" }
   - { item: "Lemon juice", amount: 0.5, unit: "tbsp" }
   - { item: "Egg", amount: 0.5}
+
+faq:
+  - question: "Do I have to use erythritol?"
+    answer: "No, you can use any granulated sweetener like stevia, monk fruit, or even regular sugar if you aren't strictly tracking calories or carbs."
+  - question: "Can I bake this in a regular oven?"
+    answer: "Absolutely! Bake at 160°C (320°F) for 25-30 minutes until the edges are set but the center still slightly jiggles."
+
 steps:
   - "In a medium bowl, whisk together the erythritol, cream cheese, and egg until smooth and lump-free. Once combined, gently fold in the yogurt and lemon juice until the mixture is uniform"
   - "Pour the batter into a ramekin. Place in the air fryer basket and cook at 180°C for 18-22 minutes, or until the top is golden and the center has a slight wobble"
