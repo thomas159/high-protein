@@ -1,5 +1,5 @@
 ---
-title: "Creamy feta and cherry tomato pasta"
+title: "15-Minute Creamy Feta & Cherry Tomato Pasta"
 slug: "creamy-feta-and-cherry-tomato-pasta"
 meta: {
   seoMetaDescription: "Whip up this 15-minute Creamy Feta and Cherry Tomato Pasta. A quick, satisfying Italian vegetarian dinner with a rich and tangy sauce."
@@ -23,7 +23,7 @@ use:
   - "Lunch Prep: Tastes incredible reheated the next day."
   - "Dinner Party: Looks and tastes sophisticated enough for entertaining."
 cuisine: "Italian"
-tags: 
+tags: ["vegetarian", "pasta", "quick-dinner"]
 keywords: ["feta pasta", "cherry tomato", "italian", "15-minute", "creamy", "vegetarian"]
 rating: 
 reviews: 

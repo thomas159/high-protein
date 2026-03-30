@@ -1,5 +1,5 @@
 ---
-title: "Air fryer pizza tortilla wrap"
+title: "15-Minute Air Fryer Tortilla Pizza"
 slug: "air-fryer-pizza-tortilla-wrap"
 meta: {
   seoMetaDescription: "Make a crispy, low-calorie Tortilla Pizza in your air fryer in 15 minutes. A quick and easy Italian-inspired dinner with pesto and fresh mozzarella."
@@ -25,7 +25,7 @@ pintrest: ""
 categories: ["air-fryer", "dinner", "15-minute-meals"]
 cuisine: "Italian"
 keywords: ["tortilla pizza", "air fryer", "italian", "quick dinner", "thin-crust", "pesto"]
-tags: []
+tags: ["vegetarian", "low-calorie", "quick-dinner"]
 variations:
   - "Veggie Supreme: Load up with sliced bell peppers, mushrooms, and olives."
   - "Spicy Kick: Add sliced jalapenos and a drizzle of hot honey."

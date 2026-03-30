@@ -1,5 +1,5 @@
 ---
-title: "Air fryer low calorie cheesecake"
+title: "Low-Calorie Air Fryer Protein Cheesecake"
 slug: "air-fryer-low-calorie-cheesecake"
 meta: {
   seoMetaDescription: "Bake a low-calorie, high-protein Cheesecake in your air fryer. A guilt-free, keto-friendly American dessert made with Greek yogurt and cream cheese."

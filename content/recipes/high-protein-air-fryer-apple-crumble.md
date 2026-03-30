@@ -1,5 +1,5 @@
 ---
-title: "High protein air fryer apple crumble"
+title: "High-Protein Air Fryer Apple Crumble"
 slug: "high-protein-air-fryer-apple-crumble"
 meta: {
   seoMetaDescription: "A 20-minute, high-protein Apple Crumble made entirely in the air fryer. The perfect muscle-building dessert with minimal cleanup."
@@ -9,7 +9,7 @@ image: "high-protein-air-fryer-apple-crumble_plgb9p"
 alt: "High protein air fryer apple crumble in a ramekin"
 pintrest: ""
 categories: ["high-protein", "air-fryer", "vegan", "keto", "dinner", "breakfast", "trending", "dessert"]
-tags: []
+tags: ["vegetarian", "high-protein", "dessert"]
 cuisine: "British"
 keywords: ["apple crumble", "air fryer", "high-protein", "dessert", "british", "vegan", "keto"]
 tipsTitle: "Crumble Perfection"

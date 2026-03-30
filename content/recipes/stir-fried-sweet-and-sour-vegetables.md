@@ -1,5 +1,5 @@
 ---
-title: "Stir fried sweet and sour vegetables"
+title: "Healthy Thai Stir-Fried Sweet & Sour Vegetables"
 slug: "stir-fried-sweet-and-sour-vegetables"
 meta: {
   seoMetaDescription: "Enjoy a refreshing Thai Stir-Fried Sweet and Sour Vegetables dish. A vibrant, vegan, and healthy dinner ready in 30 minutes."
@@ -10,8 +10,8 @@ alt: "Stir fried sweet and sour vegetables in a bowl"
 pintrest: ""
 categories: ["vegan", "dinner", "trending"]
 cuisine: "Thai"
-keywords: ["stir fry", "sweet and sour", "vegetables", "thai", "vegan", "healthy"]
-tags: []
+keywords: ["stir fry", "sweet and sour", "vegetables", "thai", "vegan", "healthy", "vegan sweet and sour"]
+tags: ["vegan", "healthy", "thai"]
 rating: 
 reviews: 
 tipsTitle: "Wok Skills"

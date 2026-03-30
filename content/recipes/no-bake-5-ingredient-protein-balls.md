@@ -1,5 +1,5 @@
 ---
-title: "No bake 5 ingredient protein balls"
+title: "No-Bake 5-Ingredient Energy Protein Balls"
 slug: "no-bake-5-ingredient-protein-balls"
 meta: {
   seoMetaDescription: "Easy No-Bake Protein Ball recipe. 5 ingredients and high inprotein. Perfect healthy snack for meal prep."
@@ -10,7 +10,7 @@ alt: "No-bake 5 ingredient protein balls stacked together"
 pintrest: ""
 categories: ["high-protein", "5-minute-meals", "snacks"]
 cuisine: "American"
-tags: []
+tags: ["vegetarian", "snack", "meal-prep", "high-protein"]
 keywords: ["protein balls", "no-bake", "snack", "high-protein", "american", "meal prep"]
 tipsTitle: "Perfecting the Dough"
 tips: 

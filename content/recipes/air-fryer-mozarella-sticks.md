@@ -1,5 +1,5 @@
 ---
-title: "Air fryer mozarella sticks"
+title: "Crispy Air Fryer Mozzarella Sticks"
 slug: "air-fryer-mozarella-sticks"
 meta: {
   seoMetaDescription: "Cook crispy, golden Air Fryer Mozzarella Sticks at home. A healthier, mess-free American appetizer with the perfect cheese pull in every bite."
@@ -22,8 +22,8 @@ use:
   - "Party Platter: A guaranteed crowd-pleaser that stays contained in the air fryer."
   - "Snack Attack: A high-protein, gooey comfort food."
 cuisine: "American"
-tags: []
-keywords: ["mozzarella sticks", "air fryer", "cheese", "snack", "crispy", "american", "appetizer"]
+tags: ["vegetarian", "snack", "comfort-food"]
+keywords: ["mozzarella sticks", "air fryer", "cheese", "snack", "crispy", "american", "appetizer", "homemade mozzarella sticks"]
 whyTitle: "Why use an air fryer?"
 why:
   - "Superior Crunch: Rapid air circulation creates a \"deep-fried\" texture without the grease."

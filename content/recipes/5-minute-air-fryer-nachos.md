@@ -1,5 +1,5 @@
 ---
-title: "5 minute air fryer nachos"
+title: "Crispy 5-Minute Air Fryer Nachos"
 slug: "5-minute-air-fryer-nachos"
 meta: {
   seoMetaDescription: "Make the ultimate 5-minute Air Fryer Nachos. Ultra-crispy, cheesy, and lightning-fast Mexican-style snack perfect for quick cravings."
@@ -21,7 +21,7 @@ use:
   - "Instant Craving: A hot, cheesy snack ready faster than preheating an oven."
   - "Movie Night: Easy to customize with everyone's favorite toppings."
   - "Quick Lunch: Load up with beans and veggies for a surprisingly filling meal."
-tags: []
+tags: ["vegetarian", "snack", "mexican"]
 cuisine: "Mexican"
 keywords: ["nachos", "air fryer", "mexican", "cheese", "snack", "5-minute", "quick"]
 whyTitle: "Why use an air fryer?"

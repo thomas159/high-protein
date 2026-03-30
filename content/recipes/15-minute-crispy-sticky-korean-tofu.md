@@ -9,6 +9,7 @@ image: "15-minute-crispy-sticky-korean-tofu_vu0qlh"
 alt: "15-Minute Crispy Sticky Korean Tofu garnished with sesame seeds"
 pintrest: "sticky-korean-tofu-pintrest_qh2wsc"
 categories: ["vegan", "high-protein"]
+tags: ["vegan", "high-protein", "korean"]
 cuisine: "Korean"
 keywords: ["korean tofu", "gochujang", "sticky tofu", "vegan", "high-protein", "15-minute", "crispy"]
 tipsTitle: "Achieving Maximum Crispiness"

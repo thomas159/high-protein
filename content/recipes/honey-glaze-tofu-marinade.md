@@ -1,5 +1,5 @@
 ---
-title: "Honey glaze tofu marinade"
+title: "Sticky Honey Glaze Tofu Marinade"
 slug: "honey-glaze-tofu-marinade"
 image: ""
 meta: {
@@ -12,7 +12,7 @@ pintrest: ""
 categories: ["vegan", "dinner", "15-minute-meals", "marinade"]
 cuisine: "Asian"
 keywords: ["tofu marinade", "honey glaze", "asian", "vegetarian", "sweet", "savory", "air-fryer"]
-tags: []
+tags: ["vegetarian", "high-protein", "air-fryer"]
 tipsTitle: "Marinade Mastery"
 tips:
   - "Scoring the Tofu: Lightly score the surface of your tofu cubes in a crisscross pattern to allow the sweet honey glaze to penetrate even deeper."

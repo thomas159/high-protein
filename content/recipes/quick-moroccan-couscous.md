@@ -1,5 +1,5 @@
 ---
-title: "Quick Moroccan couscous"
+title: "10-Minute Fluffy Moroccan Couscous"
 slug: "quick-moroccan-couscous"
 meta: {
   seoMetaDescription: "Whip up this 10-minute Quick Moroccan Couscous for a vibrant, light, and fluffy Mediterranean vegan side dish. Perfect with grilled proteins."
@@ -9,7 +9,7 @@ blurb: []
 image: "quick-moroccan-couscous-1_i53dmp"
 alt: "Quick Moroccan couscous with red peppers and feta cheese"
 categories: ["dinner", "15-minute-meals"]
-tags: ["vegan"]
+tags: ["vegan", "mediterranean", "healthy-side"]
 cuisine: "Moroccan"
 keywords: ["couscous", "moroccan", "vegan", "15-minute", "mediterranean", "healthy side"]
 tipsTitle: "Flawless Couscous"

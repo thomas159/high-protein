@@ -1,5 +1,5 @@
 ---
-title: "Healthy Oat Banana Muffins"
+title: "High-Protein Healthy Oat Banana Muffins"
 slug: "healthy-oat-banana-muffins"
 meta: {
   seoMetaDescription: "Bake high-protein, chocolatey Healthy Oat Banana Muffins in the air fryer. A quick, delicious, and muscle-building dessert ready in 15 minutes."
@@ -10,7 +10,7 @@ blurb:
 image: "healthy-banana-oat-muffins_n0f9xa"
 alt: "Healthy oat banana muffins fresh out of the air fryer"
 categories: ["air-fryer", "dessert", "15-minute-meals"]
-tags: 
+tags: ["vegetarian", "high-protein", "baking"]
 cuisine: "American"
 keywords: ["banana muffins", "oats", "healthy baking", "american", "dessert", "high-protein", "chocolate"]
 tipsTitle: "Vegan Alternative"

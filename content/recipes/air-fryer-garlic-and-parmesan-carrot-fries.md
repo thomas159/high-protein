@@ -1,5 +1,5 @@
 ---
-title: "Air fryer garlic and parmesan carrot fries"
+title: "Crispy Air Fryer Garlic Parmesan Carrot Fries"
 slug: "air-fryer-garlic-and-parmesan-carrot-fries"
 meta: {
   seoMetaDescription: "Make delicious, crispy air fryer garlic and parmesan carrot fries in just 20 minutes. A healthy, sweet, and savory alternative to potato fries."

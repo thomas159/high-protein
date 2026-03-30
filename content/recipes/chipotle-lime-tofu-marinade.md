@@ -1,5 +1,5 @@
 ---
-title: "Chipotle lime tofu marinade"
+title: "Smoky Chipotle Lime Tofu Marinade"
 slug: "chipotle-lime-tofu-marinade"
 image: ""
 meta: {
@@ -10,7 +10,7 @@ image: "chipotle-lime-tofu-marinade_ymiqee"
 alt: "Chipotle lime marinated tofu pieces"
 pintrest: ""
 categories: ["vegan", "dinner", "15-minute-meals", "marinade", "trending"]
-tags: []
+tags: ["vegan", "high-protein", "mexican"]
 cuisine: "Mexican"
 keywords: ["tofu marinade", "chipotle", "lime", "mexican", "vegan", "high-protein", "air-fryer", "spicy"]
 tipsTitle: "Maximum Flavor"

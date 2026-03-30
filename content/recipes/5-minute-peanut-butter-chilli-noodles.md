@@ -8,6 +8,7 @@ description: "A mouthwatering dish of Peanut Butter Chili Noodles with a fresh t
 image: "5-minute-peanut-butter-chilli-noodle_getziq"
 alt: "5-Minute Peanut Butter Chilli Noodles in a bowl"
 categories: ["5-minute-meals", "vegan", "high-protein"]
+tags: ["vegan", "high-protein", "spicy"]
 cuisine: "Asian"
 keywords: ["peanut butter noodles", "chilli", "asian", "vegan", "high-protein", "5-minute", "spicy"]
 tipsTitle: "Sauce & Sizzle"

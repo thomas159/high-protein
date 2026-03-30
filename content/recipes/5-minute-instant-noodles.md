@@ -1,5 +1,5 @@
 ---
-title: "5 Minute instant noodles"
+title: "5-Minute Upgraded Instant Noodles (Soy & Sesame)"
 slug: "5-minute-instant-noodles"
 meta: {
   seoMetaDescription: "Upgrade your instant noodles in just 5 minutes with a savory soy and sesame glaze. A quick, vegan-friendly meal perfect for satisfying cravings."
@@ -10,8 +10,8 @@ alt: "5 Minute instant noodles garnished with spring onions"
 pintrest: ""
 categories: ["vegan", "dinner", "15-minute-meals"]
 cuisine: "Asian"
-keywords: ["instant noodles", "asian", "vegan", "quick meal", "5-minute", "ramen"]
-tags: []
+keywords: ["instant noodles upgrade", "asian", "vegan", "quick meal", "5-minute", "ramen hack", "soy sesame noodles"]
+tags: ["vegan", "quick-meals", "comfort-food"]
 tipsTitle: "Elevate the Bowl"
 tips:
   - "Noodle Texture: Pull the noodles off the heat about 30 seconds before they look fully cooked; they will continue to soften in the residual heat and hot sauce."

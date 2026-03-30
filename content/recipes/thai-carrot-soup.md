@@ -1,5 +1,5 @@
 ---
-title: "Thai carrot soup"
+title: "Creamy Vegan Thai Carrot Soup"
 slug: "thai-carrot-soup"
 meta: {
   seoMetaDescription: "Indulge in this creamy, vegan Thai Carrot Soup. Ready in 30 minutes, it's infused with red curry paste and coconut milk for a sweet and spicy kick."
@@ -10,8 +10,8 @@ alt: "Creamy Thai carrot soup topped with fresh coriander"
 pintrest: ""
 categories: ["vegan", "dinner", "30-minute-meals"]
 cuisine: "Thai"
-keywords: ["carrot soup", "thai", "coconut milk", "vegan", "red curry", "creamy", "soup"]
-tags: []
+keywords: ["carrot soup", "thai", "coconut milk", "vegan", "red curry", "creamy", "soup", "vegan carrot soup"]
+tags: ["vegan", "soup", "thai"]
 rating: 
 reviews: 
 tipsTitle: "Soup Secrets"

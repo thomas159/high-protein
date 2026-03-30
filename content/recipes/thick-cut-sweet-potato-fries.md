@@ -1,5 +1,5 @@
 ---
-title: "Thick cut sweet potato fries"
+title: "Crispy Thick-Cut Air Fryer Sweet Potato Fries"
 slug: "thick-cut-sweet-potato-fries"
 meta: {
   seoMetaDescription: "Make crispy, thick-cut sweet potato fries in the air fryer. A delicious, vegan, and healthy American snack ready with minimal oil."
@@ -23,7 +23,7 @@ use:
   - "Burger Sidekick: The classic pairing for any plant-based burger."
   - "Healthy Snack: A satisfying, nutrient-dense treat when you need a crunch."
   - "Loaded Base: Top with black beans, avocado, and salsa for a full meal."
-tags: []
+tags: ["vegan", "healthy", "snack"]
 variations:
   - "Cinnamon Sugar: Toss with a pinch of cinnamon for a sweet treat."
   - "Spicy Cajun: Season with smoked paprika and cayenne pepper."

@@ -1,5 +1,5 @@
 ---
-title: "Satay peanut sauce"
+title: "Authentic 10-Minute Thai Satay Peanut Sauce"
 slug: "satay-peanut-sauce"
 meta: {
   seoMetaDescription: "Create a velvety Thai Satay Peanut Sauce in 10 minutes. A rich, creamy, and spicy dip or stir-fry base made with coconut milk and roasted peanuts."
@@ -24,7 +24,7 @@ alt: "Rich and creamy satay peanut sauce in a bowl"
 pintrest: ""
 categories: ["sauces", "15-minute-meals"]
 cuisine: "Thai"
-tags: []
+tags: ["vegan", "sauce", "thai"]
 keywords: ["satay sauce", "peanut sauce", "thai", "condiment", "dip", "creamy", "spicy"]
 variations:
   - "Almond Satay: Use almond butter for a different nutty flavor."

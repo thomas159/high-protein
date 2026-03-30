@@ -1,5 +1,5 @@
 ---
-title: "Naan bread pizza"
+title: "10-Minute Mango Paneer Naan Bread Pizza"
 slug: "naan-bread-pizza"
 meta: {
   seoMetaDescription: "Try this 10-minute Mango and Paneer Naan Pizza. A quick, sweet, and spicy Indian fusion dinner that's bursting with flavor and easy to make."
@@ -23,7 +23,7 @@ use:
   - "Quick Lunch: Easy to assemble and cook in under 15 minutes."
   - "Kid-Friendly: Fun to customize with different toppings and chutneys."
 cuisine: "Indian"
-tags: 
+tags: ["vegetarian", "indian-fusion", "quick-dinner"]
 keywords: ["naan pizza", "indian", "fusion", "paneer", "mango chutney", "quick dinner"]
 variations:
   - "Vegan Version: Use vegan cheese and dairy-free naan."

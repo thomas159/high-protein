@@ -1,5 +1,5 @@
 ---
-title: "Kim chi fried rice"
+title: "15-Minute Spicy Kimchi Fried Rice"
 slug: "kim-chi-fried-rice"
 meta: {
   seoMetaDescription: "Whip up this 15-minute Kimchi Fried Rice for a quick, spicy, and umami-packed vegetarian dinner. A perfect Korean comfort food with a fried egg."
@@ -23,7 +23,7 @@ use:
   - "Comfort Food: A spicy, warming bowl perfect for late-night cravings."
   - "Quick Main: Goes from pan to plate in under 15 minutes."
 cuisine: "Korean"
-tags: ["vegan"]
+tags: ["vegetarian", "korean", "quick-dinner"]
 keywords: ["kimchi", "fried rice", "korean", "vegan", "15-minute", "spicy", "comfort food"]
 rating: 
 variations:

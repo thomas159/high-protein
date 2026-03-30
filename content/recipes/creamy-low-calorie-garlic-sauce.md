@@ -1,5 +1,5 @@
 ---
-title: "Creamy low calorie garlic sauce"
+title: "5-Minute Creamy Low-Calorie Garlic Sauce"
 slug: "creamy-low-calorie-garlic-sauce"
 meta: {
   seoMetaDescription: "Whip up this creamy Mediterranean Garlic Sauce in just 5 minutes. A perfect keto-friendly dip for vegetables, wraps, and plant-based meats."

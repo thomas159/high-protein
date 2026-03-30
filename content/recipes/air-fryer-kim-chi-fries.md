@@ -1,5 +1,5 @@
 ---
-title: "Air fryer kim chi fries"
+title: "Cheesy Air Fryer Kimchi Fries"
 slug: "air-fryer-kim-chi-fries"
 meta: {
   seoMetaDescription: "Cheesy, crunchy 20-minute Kimchi Fries. A perfect sweet, salty, and spicy fusion snack with sautéed kimchi and melted cheese. Easy to make and addictive!"
@@ -21,7 +21,7 @@ use:
   - "Party Snack: The ultimate crowd-pleasing sharing platter."
   - "Side Dish: Pairs perfectly with a thick, juicy veggie burger."
   - "Late Night Treat: Hits every craving for salty, spicy, and cheesy."
-tags: ["Gluten-Free", "Healthy"]
+tags: ["vegetarian", "spicy", "fusion", "gluten-free"]
 cuisine: "Korean"
 keywords: ["kimchi fries", "air fryer", "korean", "fusion", "cheese", "spicy", "snack"]
 whyTitle: "Why use an air fryer?"

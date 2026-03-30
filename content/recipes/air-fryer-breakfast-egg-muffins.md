@@ -1,5 +1,5 @@
 ---
-title: "Air fryer breakfast egg muffins"
+title: "High-Protein Air Fryer Breakfast Egg Muffins"
 slug: "air-fryer-breakfast-egg-muffins"
 meta: {
   seoMetaDescription: "Make these quick and healthy Air Fryer Breakfast Egg Muffins in just 10 minutes. Packed with feta and sun-dried tomatoes for a high-protein start to your day."
@@ -13,8 +13,8 @@ alt: "Air fryer breakfast egg muffins with feta and sun-dried tomatoes"
 pintrest: ""
 categories: ["air-fryer", "breakfast", "15-minute-meals", "vegetarian", "keto"]
 cuisine: "American"
-keywords: ["egg muffins", "air fryer breakfast", "feta cheese", "sun-dried tomatoes", "keto breakfast", "high-protein"]
-tags: ["keto", "healthy", "high-protein"]
+keywords: ["egg muffins", "air fryer breakfast", "feta cheese", "sun-dried tomatoes", "keto breakfast", "high-protein", "air fryer egg bites"]
+tags: ["keto", "healthy", "high-protein", "vegetarian"]
 rating: 
 reviews: 
 tipsTitle: "Muffin Mastery"

@@ -1,5 +1,5 @@
 ---
-title: "Creamy Mushroom Pasta"
+title: "20-Minute Creamy Garlic Mushroom Pasta"
 slug: "creamy-mushroom-pasta"
 meta: {
   seoMetaDescription: "Master the ultimate Creamy Mushroom Pasta in just 20 minutes. This easy, one-pan recipe uses white wine and parmesan to create a silkier, restaurant-style sauce. Perfectly sautéed golden mushrooms meeting rich, buttery comfort—your new favorite weeknight dinner."
@@ -8,6 +8,7 @@ description: "Indulge in a bowl of pure comfort with this Creamy Mushroom Pasta.
 image: "creamy-mushroom-pasta_m6794q"
 alt: "Creamy mushroom pasta garnished with fresh herbs"
 categories: ["dinner", "vegetarian", "pasta"]
+tags: ["vegetarian", "pasta", "comfort-food"]
 cuisine: "Italian"
 keywords: ["mushroom pasta", "creamy", "italian", "vegetarian", "comfort food", "white wine"]
 tipsTitle: "Perfecting the Sauce"

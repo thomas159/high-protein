@@ -1,5 +1,5 @@
 ---
-title: "15 Minute cherry tomato and courgette risotto"
+title: "15-Minute Microwave Cherry Tomato & Courgette Risotto"
 slug: "15-minute-cherry-tomato-and-courgette-risotto"
 meta: {
   seoMetaDescription: "Make this quick, creamy 15-minute Cherry Tomato and Zucchini Risotto in the microwave. A perfect, comforting vegan meal for busy weeknights."
@@ -12,7 +12,7 @@ blurb:
 image: "15-minute-cherry-tomato-and-courgette-risotto_1_lsbbrh"
 alt: "15-minute cherry tomato and courgette risotto in a bowl"
 categories: ["dinner", "microwave", "15-minute-meals"]
-tags: ["vegan"]
+tags: ["vegan", "microwave-meals", "italian"]
 cuisine: "Italian"
 keywords: ["risotto", "cherry tomato", "courgette", "zucchini", "microwave", "italian", "vegan", "15-minute"]
 tipsTitle: "Microwave Magic"

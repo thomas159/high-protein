@@ -1,5 +1,5 @@
 ---
-title: "Air fryer rosemary and garlic fries"
+title: "Crispy Air Fryer Rosemary & Garlic Fries"
 slug: "air-fryer-rosemary-and-garlic-fries"
 meta: {
   seoMetaDescription: "Make gourmet Air Fryer Rosemary and Garlic Fries in under 30 minutes. A crispy, vegan, and gluten-free snack with a fraction of the fat."

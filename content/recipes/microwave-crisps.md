@@ -1,5 +1,5 @@
 ---
-title: "Microwave crisps"
+title: "Healthy Oil-Free Microwave Potato Crisps"
 slug: "microwave-crisps"
 meta: {
   seoMetaDescription: "Make perfectly crunchy, oil-free potato crisps in the microwave. A healthy, vegan, and guilt-free American snack ready in just 15 minutes."
@@ -22,7 +22,7 @@ use:
   - "Dipping Companion: Sturdy enough to scoop up thick hummus or guacamole."
   - "Lunchbox Addition: A perfect crunchy side for a midday sandwich."
 cuisine: "American"
-tags: []
+tags: ["vegan", "snack", "oil-free", "low-calorie"]
 keywords: ["microwave crisps", "potato chips", "american", "vegan", "snack", "healthy", "oil-free"]
 variations:
   - "Salt and Vinegar: Soak in vinegar instead of water before cooking."

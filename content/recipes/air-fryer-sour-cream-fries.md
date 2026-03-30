@@ -1,5 +1,5 @@
 ---
-title: "Air fryer sour cream fries"
+title: "Crispy Air Fryer Sour Cream & Onion Fries"
 slug: "air-fryer-sour-cream-fries"
 meta: {
   seoMetaDescription: "Enjoy these Air Fryer Sour Cream Fries for a crispy, savory snack. Tossed in a velvety garlic and sour cream sauce, ready in under 30 minutes."
@@ -22,7 +22,7 @@ use:
   - "Gourmet Side: Elevates a standard dinner into a pub-style feast."
   - "Sharing Plate: Perfect for piling high in the center of the table."
   - "Flavor Fix: The tangy sour cream sauce acts as an incredible built-in dip."
-tags: []
+tags: ["vegetarian", "snack", "comfort-food"]
 keywords: ["sour cream", "fries", "air fryer", "american", "snack", "garlic", "crispy"]
 whyTitle: "Why use an air fryer?"
 why:

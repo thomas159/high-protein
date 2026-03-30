@@ -1,5 +1,5 @@
 ---
-title: "Udon peanut butter noodles"
+title: "15-Minute Peanut Butter Udon Noodles"
 slug: "udon-peanut-butter-noodles"
 meta: {
   seoMetaDescription: "Enjoy these 15-minute Udon Peanut Butter Noodles. A quick, creamy, and high-protein vegan meal packed with vegetables and a rich peanut sauce."
@@ -11,7 +11,7 @@ pintrest: ""
 categories: ["vegan", "dinner", "15-minute-meals"]
 cuisine: "Thai"
 keywords: ["udon", "peanut butter", "noodles", "thai", "vegan", "tofu", "stir fry"]
-tags: []
+tags: ["vegan", "high-protein", "asian-fusion"]
 tipsTitle: "Wok Star Tips"
 tips:
   - "Rinse the Udon: If using vacuum-packed fresh udon, quickly rinse them under hot water to loosen the strands before adding them to the pan so they don't break."
