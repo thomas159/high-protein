@@ -84,10 +84,10 @@ const props = defineProps<{
       </div>
     </div>
 
-    <div class="order-1 lg:order-2 lg:col-span-6 relative h-[300px] md:h-[400px] lg:h-[400px]">
+    <div class="order-1 lg:order-2 lg:col-span-6 relative h-[300px] md:h-[400px] lg:h-[400px] -mx-5 md:mx-0">
       <Img 
         :src="props.recipe.image"
-        :alt="props.recipe.alt" class="w-full h-full object-cover rounded-3xl shadow-xl border border-border" 
+        :alt="props.recipe.alt" class="w-full h-full object-cover rounded-b-3xl md:rounded-3xl shadow-none md:shadow-xl border-0 md:border border-border" 
         high
         />
     </div>
