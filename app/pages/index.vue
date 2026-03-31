@@ -25,6 +25,20 @@ const categories = [
   { name: '15 Minute meals', img: '15-minute-meals_wkmurj', link: '/categories/15-minute-meals' },
   { name: 'Air fryer', img: 'air-fryer_too3q1', link: '/categories/air-fryer' }
 ]
+
+useSeoMeta({
+  title: 'Build Muscle, Not Dishes | High-Protein Vegetarian Recipes',
+  description: 'Quick, high-protein vegetarian and vegan meals for people who love to eat but hate to wait.',
+  ogTitle: 'Build Muscle, Not Dishes | High-Protein Vegetarian Recipes',
+  ogDescription: 'Stop washing dishes and start hitting your macros with our high protein vegetarian recipes.',
+  ogImage: 'https://www.hotrecipes.co.uk/social-share-cover.png',
+  ogUrl: 'https://www.hotrecipes.co.uk',
+  ogType: 'website',
+  twitterCard: 'summary_large_image',
+  twitterTitle: 'Build Muscle, Not Dishes | High-Protein Vegetarian Recipes',
+  twitterDescription: 'Stop washing dishes and start hitting your macros with our high protein vegetarian recipes.',
+  twitterImage: 'https://www.hotrecipes.co.uk/social-share-cover.png'
+})
 </script>
 
 <template>

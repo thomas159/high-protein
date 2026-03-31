@@ -67,7 +67,12 @@ useSeoMeta({
   description: recipe.value?.meta?.seoMetaDescription || recipe.value?.description,
   ogDescription: recipe.value?.meta?.seoMetaDescription || recipe.value?.description,
   ogImage: recipe.value?.image ? `https://res.cloudinary.com/mealse-co-uk/image/upload/f_auto,q_auto/${recipe.value?.image}` : undefined,
+  ogType: 'article',
+  ogUrl: `https://www.hotrecipes.co.uk${route.path}`,
   twitterCard: 'summary_large_image',
+  twitterTitle: recipe.value?.title,
+  twitterDescription: recipe.value?.meta?.seoMetaDescription || recipe.value?.description,
+  twitterImage: recipe.value?.image ? `https://res.cloudinary.com/mealse-co-uk/image/upload/f_auto,q_auto/${recipe.value?.image}` : undefined,
 })
 
 // 2. Schema (Server-only injection)
@@ -186,6 +191,7 @@ useHead({
     ...(recipe.value?.keywords?.length ? [{ name: 'keywords', content: recipe.value.keywords.join(', ') }] : [])
   ]
 })
+
 </script>
 
 <template>
