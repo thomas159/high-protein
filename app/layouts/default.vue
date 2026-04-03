@@ -7,7 +7,7 @@
       <LayoutsHeader />
     </header>
     
-    <main class="container md:py-8 px-5">
+    <main class="container py-8 px-5">
       <slot />
     </main>
 
