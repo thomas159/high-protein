@@ -53,7 +53,7 @@ const props = defineProps<{
     
     <div class="p-2 flex-grow flex flex-col">
       
-      <h2 class="font-display text-lg font-extrabold text-foreground mb-2 group-hover:text-green-600 dark:group-hover:text-green-400 line-clamp-2 leading-tight">
+      <h2 class="font-display text-lg font-extrabold text-foreground mb-2 group-hover:text-green-600 dark:group-hover:text-green-400 line-clamp-3 leading-tight">
         {{ props.recipe.title }}
       </h2>
       
