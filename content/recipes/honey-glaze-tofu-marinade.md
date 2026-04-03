@@ -1,7 +1,6 @@
 ---
 title: "Sticky Honey Glaze Tofu Marinade"
 slug: "honey-glaze-tofu-marinade"
-image: ""
 meta: {
   seoMetaDescription: "Easy Honey Soy Tofu Marinade. A sweet, savory, and sticky vegetarian recipe for air-fried or grilled tofu. Ready in 20 minutes."
 } 
