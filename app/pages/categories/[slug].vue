@@ -34,6 +34,17 @@ const displayTitle = computed(() => {
   if (isAllRecipes.value) return 'All Recipes'
   return categorySlug.value.split('-').join(' ').replace(/\b\w/g, l => l.toUpperCase()) + ' Recipes'
 })
+
+// SEO Metadata
+useHead({
+  title: () => `${displayTitle.value} - ${appConfig.siteName || 'High Protein Recipes'}`,
+  meta: [
+    {
+      name: 'description',
+      content: () => `Explore our collection of high-protein ${displayTitle.value.toLowerCase()}. Perfect for fueling your workouts and hitting your macro goals.`
+    }
+  ]
+})
 </script>
 
 <template>

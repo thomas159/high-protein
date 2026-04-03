@@ -31,7 +31,7 @@ useHead({
  * SEO & SOCIAL MEDIA
  */
 useSeoMeta({
-  title: 'Build Muscle, Not Dishes | High-Protein Vegetarian Recipes',
+  title: 'Build Muscle, Not Dishes | High-Protein Vegetarian and vegan Recipes',
   description: 'Quick, high-protein vegetarian and vegan meals for people who love to eat but hate to wait.',
   ogTitle: 'Build Muscle, Not Dishes | Plant-Based Fitness Recipes',
   ogDescription: 'Stop washing dishes and start hitting your macros with our 5-minute vegan recipes.',

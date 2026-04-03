@@ -31,7 +31,7 @@ const footerLinks = {
             <span class="text-emerald-500 italic">{{ appConfig.siteName }}</span>
           </NuxtLink>
           <p class="mt-4 text-sm text-muted-foreground leading-relaxed">
-            Making high-quality, chef-inspired recipes accessible to home cooks everywhere.
+            Quick, high-protein vegetarian and vegan meals for people who love to eat but hate to wait.
           </p>
         </div>
 
