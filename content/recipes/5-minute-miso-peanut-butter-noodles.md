@@ -8,7 +8,7 @@ description: "When you're in a hurry but still craving a satisfying and flavorfu
 image: "5-minute-miso-peanut-butter-noodles_eo9aef"
 alt: "5-Minute Miso Peanut Butter Noodles garnished with spring onions"
 categories: ["5-minute-meals", "vegan", "high-protein"]
-tags: ["vegan", "high-protein", "quick-meals"]
+tags: ["vegan", "high protein", "quick-meals"]
 cuisine: "Japanese"
 keywords: ["miso", "peanut butter", "noodles", "japanese", "vegan", "high-protein", "5-minute"]
 tipsTitle: "Creamy Noodle Hacks"

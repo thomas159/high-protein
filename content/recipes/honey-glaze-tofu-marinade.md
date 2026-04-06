@@ -11,7 +11,7 @@ pintrest: ""
 categories: ["vegan", "dinner", "15-minute-meals", "marinade"]
 cuisine: "Asian"
 keywords: ["tofu marinade", "honey glaze", "asian", "vegetarian", "sweet", "savory", "air-fryer"]
-tags: ["high-protein", "air-fryer"]
+tags: ["high protein", "air-fryer"]
 tipsTitle: "Marinade Mastery"
 tips:
   - "Scoring the Tofu: Lightly score the surface of your tofu cubes in a crisscross pattern to allow the sweet honey glaze to penetrate even deeper."

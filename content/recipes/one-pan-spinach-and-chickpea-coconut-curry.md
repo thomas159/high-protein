@@ -8,7 +8,7 @@ description: "A rich and creamy coconut milk base packed with ginger, garlic, an
 image: "one-pan-spinach-and-chickpea-coconut-curry_ffy601"
 alt: "One-Pan Spinach & Chickpea Coconut Curry in a bowl"
 categories: ["vegan", "one-pan-meals", "high-protein"]
-tags: ["vegan", "high-protein", "one-pan"]
+tags: ["vegan", "high protein", "one-pan"]
 cuisine: "Indian"
 keywords: ["curry", "chickpea", "spinach", "coconut milk", "one-pan", "indian", "vegan", "high-protein"]
 servingSuggestions: "Serve this comforting, aromatic curry alongside a portion of warm, fluffy quinoa or brown rice to soak up the rich coconut broth. A piece of freshly toasted naan or roti is essential for scooping up the chickpeas. For a cooling contrast, offer a small side of diced cucumber and tomato salad dressed with a squeeze of lemon."

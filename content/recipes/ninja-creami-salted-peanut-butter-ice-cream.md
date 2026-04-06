@@ -9,7 +9,7 @@ image: "ninja-creami-salted-peanut-butter-ice-cream_ct82q9"
 alt: "Salted peanut butter protein ice cream in a Ninja Creami pint"
 pintrest: ""
 categories: ["dessert", "high-protein", "snacks"]
-tags: ["vegetarian", "high-protein", "dessert", "keto"]
+tags: ["vegetarian", "high protein", "dessert", "keto"]
 cuisine: "American"
 keywords: ["ninja creami", "peanut butter", "protein ice cream", "salted", "healthy dessert", "keto", "high-protein", "ice cream"]
 tipsTitle: "Creami Perfection"

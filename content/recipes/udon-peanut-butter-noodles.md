@@ -11,7 +11,7 @@ pintrest: ""
 categories: ["vegan", "dinner", "15-minute-meals"]
 cuisine: "Thai"
 keywords: ["udon", "peanut butter", "noodles", "thai", "vegan", "tofu", "stir fry"]
-tags: ["vegan", "high-protein", "asian-fusion"]
+tags: ["vegan", "high protein", "asian-fusion"]
 tipsTitle: "Wok Star Tips"
 tips:
   - "Rinse the Udon: If using vacuum-packed fresh udon, quickly rinse them under hot water to loosen the strands before adding them to the pan so they don't break."

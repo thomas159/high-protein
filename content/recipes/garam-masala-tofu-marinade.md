@@ -9,7 +9,7 @@ image: "garam-masala-tofu-marinade_yfdnmb"
 alt: "Garam masala marinated tofu cubes ready for cooking"
 pintrest: ""
 categories: ["vegan", "dinner", "15-minute-meals", "marinade"]
-tags: ["vegan", "high-protein", "indian"]
+tags: ["vegan", "high protein", "indian"]
 cuisine: "Indian"
 keywords: ["tofu marinade", "garam masala", "indian", "vegan", "high-protein", "spicy", "air-fryer"]
 tipsTitle: "Spice & Char"
