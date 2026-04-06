@@ -10,7 +10,7 @@ blurb:
 image: "mango-sticky-rice_vzh6ec"
 alt: "Authentic Thai Mango Sticky Rice served with coconut sauce"
 categories: ["dessert"]
-tags: ["vegan", "high-carb", "healthy"]
+tags: ["vegan", "healthy"]
 cuisine: "Thai"
 keywords: ["mango sticky rice", "thai", "dessert", "coconut", "sweet", "sticky rice", "macro-friendly", "vegan dessert", "healthy", "high-carb", "post-workout"]
 tipsTitle: "Authentic Sticky Rice"
