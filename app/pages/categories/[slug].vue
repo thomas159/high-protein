@@ -86,9 +86,15 @@ const filteredRecipes = computed(() => {
 <template>
   <div class="container mx-auto">
     <div class="text-center">
-    <h1 class="text-3xl font-bold mb-6 capitalize">
+    <h1 class="text-3xl font-bold mb-4 capitalize">
       {{ categorySlug === 'all-recipes' ? 'All Recipes' : `${categorySlug.replace(/-/g, ' ')} Recipes` }}
     </h1>
+    <p class="text-muted-foreground text-lg max-w-2xl mx-auto mb-8">
+      {{ categorySlug === 'all-recipes' 
+        ? 'Browse our complete collection of delicious, macro-friendly, and high-protein recipes designed to help you hit your fitness goals without sacrificing flavor.' 
+        : `Explore our delicious collection of ${categorySlug.replace(/-/g, ' ')} recipes. Perfect for hitting your protein goals while enjoying satisfying, guilt-free meals.` 
+      }}
+    </p>
     </div>
 
     <!-- Filters section -->
