@@ -1,70 +1,179 @@
 <script setup lang="ts">
-const appConfig = useAppConfig()
+import { ref, computed, watch } from 'vue'
+import { useRoute, useRouter } from 'vue-router'
+import Button from '@/components/common/Button.vue'
+
 const route = useRoute()
+const router = useRouter()
+const categorySlug = route.params.slug as string
+const showFilters = ref(false)
 
-// 1. Ensure the slug is reactive and never undefined for the query
-const categorySlug = computed(() => (route.params.slug as string) || '')
-const isAllRecipes = computed(() => categorySlug.value === 'all-recipes')
-
-const { data: recipes, refresh, status } = await useAsyncData(
-  `recipes-${categorySlug.value}`, 
-  async () => {
-    // Safety check: Don't query if the slug is missing (unless it's 'all-recipes')
-    if (!categorySlug.value && !isAllRecipes.value) return []
-
-    let query = queryCollection('recipes')
-    
-    if (!isAllRecipes.value && categorySlug.value) {
-      // Use the precise array filter if using Nuxt Content v3
-      query = query.where('categories', 'LIKE', `%${categorySlug.value}%`)
-    }
-    
-    return await query.all()
-  },
-  {
-    // Re-run whenever the slug changes
-    watch: [categorySlug],
-    default: () => []
+// 1. Fetch recipes for this specific category
+const { data: recipes } = await useAsyncData(`category-${categorySlug}`, () => {
+  if (categorySlug === 'all-recipes') {
+    return queryCollection('recipes').all()
   }
-)
-
-// Re-calculate the title safely
-const displayTitle = computed(() => {
-  if (!categorySlug.value) return 'Loading...'
-  if (isAllRecipes.value) return 'All Recipes'
-  return categorySlug.value.split('-').join(' ').replace(/\b\w/g, l => l.toUpperCase()) + ' Recipes'
+  return queryCollection('recipes')
+    .where('categories', 'LIKE', `%${categorySlug}%`)
+    .all()
 })
 
-// SEO Metadata
-useHead({
-  title: () => `${displayTitle.value} - ${appConfig.siteName || 'High Protein Recipes'}`,
-  meta: [
-    {
-      name: 'description',
-      content: () => `Explore our collection of high-protein ${displayTitle.value.toLowerCase()}. Perfect for fueling your workouts and hitting your macro goals.`
+// 2. Extract unique tags from the fetched recipes
+const availableTags = computed(() => {
+  if (!recipes.value) return []
+  
+  const tags = new Set<string>()
+  recipes.value.forEach(recipe => {
+    if (recipe.tags && Array.isArray(recipe.tags)) {
+      recipe.tags.forEach((tag: string) => tags.add(tag.toLowerCase()))
     }
-  ]
+  })
+  return Array.from(tags).sort()
+})
+
+// 3. Track selected tags (Initialize from URL query parameters!)
+const getTagsFromQuery = () => {
+  const tags = route.query.tags
+  if (!tags) return []
+  return typeof tags === 'string' ? tags.split(',') : (tags as string[])
+}
+const selectedTags = ref<string[]>(getTagsFromQuery())
+
+// 4. Toggle tag selection and update the URL silently
+const updateUrl = () => {
+  router.replace({
+    query: {
+      ...route.query,
+      tags: selectedTags.value.length ? selectedTags.value.join(',') : undefined
+    }
+  })
+}
+
+const toggleTag = (tag: string) => {
+  if (selectedTags.value.includes(tag)) {
+    selectedTags.value = selectedTags.value.filter(t => t !== tag)
+  } else {
+    selectedTags.value.push(tag)
+  }
+  updateUrl()
+}
+
+const clearFilters = () => {
+  selectedTags.value = []
+  updateUrl()
+}
+
+// Listen for browser back/forward buttons to sync URL state back to the UI
+watch(() => route.query.tags, () => {
+  selectedTags.value = getTagsFromQuery()
+})
+
+// 5. Filter recipes based on selected tags
+const filteredRecipes = computed(() => {
+  if (!recipes.value) return []
+  if (selectedTags.value.length === 0) return recipes.value
+
+  return recipes.value.filter(recipe => {
+    if (!recipe.tags) return false
+    
+    const lowerRecipeTags = recipe.tags.map((t: string) => t.toLowerCase())
+    // AND logic: recipe must have every selected tag
+    return selectedTags.value.every(tag => lowerRecipeTags.includes(tag))
+  })
 })
 </script>
 
 <template>
-  <div>   
-    <div class="flex justify-center mx-auto">
-      <h1>{{ displayTitle }}</h1>
-    </div>
+  <div class="text-center">
+    <h1 class="text-3xl font-bold mb-6 capitalize">
+      {{ categorySlug === 'all-recipes' ? 'All Recipes' : `${categorySlug.replace(/-/g, ' ')} Recipes` }}
+    </h1>
 
-    <div v-if="status === 'pending'" class="text-center py-20">
-      <p>Loading your muscle-building meals...</p>
-    </div>
+    <!-- Filters -->
+    <div v-if="availableTags.length > 0" class="mb-8">
+      <!-- Mobile Filter Toggle -->
+      <div class="md:hidden mb-4">
+        <Button 
+          color="white" 
+          class="w-full justify-center"
+          @click="showFilters = !showFilters"
+        >
+          <svg class="w-5 h-5 mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 4a1 1 0 011-1h16a1 1 0 011 1v2.586a1 1 0 01-.293.707l-6.414 6.414a1 1 0 00-.293.707V17l-4 4v-6.586a1 1 0 00-.293-.707L3.293 7.293A1 1 0 013 6.586V4z"></path>
+          </svg>
+          {{ showFilters ? 'Hide Filters' : 'Filter Recipes' }}
+          <span v-if="selectedTags.length > 0" class="ml-1 bg-emerald-500 border border-emerald-600 text-white px-2 py-0.5 rounded-full text-[10px] font-bold shadow-sm">
+            {{ selectedTags.length }}
+          </span>
+        </Button>
+      </div>
 
-    <div v-else-if="recipes && recipes.length > 0" class="grid grid-cols-2 md:grid-cols-3 gap-main -mx-4 lg:-mx-0">
-      <div v-for="recipe in recipes" :key="recipe.path">
-        <RecipeCard :recipe="recipe" class="h-full" />
+      <h3 class="text-lg font-semibold mb-3 hidden md:block">Filter by Tags:</h3>
+      <div :class="[showFilters ? 'flex' : 'hidden', 'md:flex flex-wrap gap-2']">
+        <Button
+          v-for="tag in availableTags"
+          :key="tag"
+          :color="selectedTags.includes(tag) ? 'green' : 'white'"
+          size="small"
+          @click="toggleTag(tag)">
+          {{ tag }}
+        </Button>
+        
+        <Button 
+          v-if="selectedTags.length > 0"
+          color="clear"
+          size="small"
+          @click="clearFilters"
+        >
+          Clear Filters
+        </Button>
       </div>
     </div>
 
-    <div v-else class="text-center py-20">
-      <p class="text-gray-500 italic">No recipes found for "{{ categorySlug }}".</p>
+    <!-- Recipe Grid -->
+    <TransitionGroup 
+      v-if="filteredRecipes.length > 0" 
+      name="list" 
+      tag="div" 
+      class="grid grid-cols-2 lg:grid-cols-4 gap-main -mx-4 lg:-mx-0"
+    >
+      <RecipeCard
+        v-for="recipe in filteredRecipes" 
+        :key="recipe.path" 
+        :recipe="recipe"
+      />
+    </TransitionGroup>
+    
+    <!-- Empty State -->
+    <div v-else class="text-center py-12 text-gray-500">
+      <p class="text-lg mb-2">No recipes found matching the selected tags.</p>
+      <Button color="clear" size="small" @click="clearFilters">
+        Clear filters
+      </Button>
     </div>
   </div>
 </template>
+
+<style scoped>
+/* Vue TransitionGroup Animations */
+.list-move,
+.list-enter-active,
+.list-leave-active {
+  /* Target specific properties to prevent the browser from blurring text */
+  transition: transform 0.1s ease, opacity 0.1s ease !important;
+  backface-visibility: hidden;
+  will-change: transform, opacity;
+}
+
+.list-enter-from,
+.list-leave-to {
+  opacity: 0 !important;
+  transform: translateY(15px) scale(0.98) !important;
+}
+
+/* Ensure elements are taken out of flow when leaving so others slide smoothly */
+.list-leave-active {
+  position: absolute;
+  z-index: -1;
+}
+</style>

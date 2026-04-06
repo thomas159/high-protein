@@ -22,7 +22,7 @@ use:
   - "Gourmet Side: Elevates a standard dinner into a pub-style feast."
   - "Sharing Plate: Perfect for piling high in the center of the table."
   - "Flavor Fix: The tangy sour cream sauce acts as an incredible built-in dip."
-tags: ["vegetarian", "snack", "comfort-food"]
+tags: ["vegetarian"]
 keywords: ["sour cream", "fries", "air fryer", "american", "snack", "garlic", "crispy"]
 whyTitle: "Why use an air fryer?"
 why:

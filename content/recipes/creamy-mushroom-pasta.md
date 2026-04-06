@@ -8,7 +8,7 @@ description: "Indulge in a bowl of pure comfort with this Creamy Mushroom Pasta.
 image: "creamy-mushroom-pasta_m6794q"
 alt: "Creamy mushroom pasta garnished with fresh herbs"
 categories: ["dinner", "vegetarian", "pasta"]
-tags: ["vegetarian", "pasta", "comfort-food"]
+tags: ["vegetarian"]
 cuisine: "Italian"
 keywords: ["mushroom pasta", "creamy", "italian", "vegetarian", "comfort food", "white wine"]
 tipsTitle: "Perfecting the Sauce"

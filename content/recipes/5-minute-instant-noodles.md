@@ -11,7 +11,7 @@ pintrest: ""
 categories: ["vegan", "dinner", "15-minute-meals"]
 cuisine: "Asian"
 keywords: ["instant noodles upgrade", "asian", "vegan", "quick meal", "5-minute", "ramen hack", "soy sesame noodles"]
-tags: ["vegan", "quick-meals", "comfort-food"]
+tags: ["vegan", "quick-meals"]
 tipsTitle: "Elevate the Bowl"
 tips:
   - "Noodle Texture: Pull the noodles off the heat about 30 seconds before they look fully cooked; they will continue to soften in the residual heat and hot sauce."

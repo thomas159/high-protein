@@ -191,7 +191,6 @@ useHead({
     ...(recipe.value?.keywords?.length ? [{ name: 'keywords', content: recipe.value.keywords.join(', ') }] : [])
   ]
 })
-
 </script>
 
 <template>
