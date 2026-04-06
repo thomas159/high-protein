@@ -84,13 +84,15 @@ const filteredRecipes = computed(() => {
 </script>
 
 <template>
-  <div class="text-center">
+  <div class="container mx-auto">
+    <div class="text-center">
     <h1 class="text-3xl font-bold mb-6 capitalize">
       {{ categorySlug === 'all-recipes' ? 'All Recipes' : `${categorySlug.replace(/-/g, ' ')} Recipes` }}
     </h1>
+    </div>
 
-    <!-- Filters -->
-    <div v-if="availableTags.length > 0" class="mb-8">
+    <!-- Filters section -->
+    <div v-if="availableTags.length > 0" class="mb-8 text-left">
       <!-- Mobile Filter Toggle -->
       <div class="md:hidden mb-4">
         <Button 
@@ -108,7 +110,7 @@ const filteredRecipes = computed(() => {
         </Button>
       </div>
 
-      <h3 class="text-lg font-semibold mb-3 hidden md:block">Filter by Tags:</h3>
+      <h3 class="text-lg font-semibold mb-3 hidden md:block text-left">Filter by Tags:</h3>
       <div :class="[showFilters ? 'flex' : 'hidden', 'md:flex flex-wrap gap-2']">
         <Button
           v-for="tag in availableTags"
@@ -145,7 +147,7 @@ const filteredRecipes = computed(() => {
     </TransitionGroup>
     
     <!-- Empty State -->
-    <div v-else class="text-center py-12 text-gray-500">
+    <div v-else class="text-center py-12 text-gray-500 bg-gray-50 rounded-xl border border-dashed border-gray-200">
       <p class="text-lg mb-2">No recipes found matching the selected tags.</p>
       <Button color="clear" size="small" @click="clearFilters">
         Clear filters
