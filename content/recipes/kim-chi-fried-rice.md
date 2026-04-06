@@ -23,7 +23,7 @@ use:
   - "Comfort Food: A spicy, warming bowl perfect for late-night cravings."
   - "Quick Main: Goes from pan to plate in under 15 minutes."
 cuisine: "Korean"
-tags: ["vegetarian", "korean", "quick-dinner"]
+tags: ["korean"]
 keywords: ["kimchi", "fried rice", "korean", "vegan", "15-minute", "spicy", "comfort food"]
 rating: 
 variations:

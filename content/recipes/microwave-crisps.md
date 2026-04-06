@@ -1,12 +1,12 @@
 ---
-title: "Healthy Oil-Free Microwave Potato Crisps"
+title: "Healthy Microwave Potato Crisps"
 slug: "microwave-crisps"
 meta: {
-  seoMetaDescription: "Make perfectly crunchy, oil-free potato crisps in the microwave. A healthy, vegan, and guilt-free American snack ready in just 15 minutes."
+  seoMetaDescription: "Make perfectly crunchy potato crisps in the microwave. A healthy, vegan, and guilt-free American snack ready in just 15 minutes."
 }
-description: "Experience the satisfying crunch of homemade crisps without the deep-fryer. These microwave crisps deliver all the bold flavor of the classic snack using zero oil, making them a remarkably healthy, guilt-free alternative that’s ready in minutes"
+description: "Experience the satisfying crunch of homemade crisps without the deep-fryer. These microwave crisps deliver all the bold flavor of the classic snack with a fraction of the oil, making them a remarkably healthy, guilt-free alternative that’s ready in minutes"
 image: "microwave-crisps_loaj1f"
-alt: "Crunchy oil-free microwave potato crisps in a bowl"
+alt: "Crunchy microwave potato crisps in a bowl"
 pintrest: ""
 categories: ["vegan", "snacks", "15-minute-meals"]
 tipsTitle: "Flavor Variation"
@@ -18,12 +18,12 @@ works:
   - "Internal Moisture Evaporation: The microwave agitates water molecules inside the potato, effectively steaming it from the inside out until it becomes a dry, crispy shell."
   - "Starch Removal: Soaking the slices pulls out the surface starches that would otherwise cause the potatoes to stick together and turn gummy."
 use:
-  - "Healthy Snacking: A zero-oil alternative to store-bought potato chips."
+  - "Healthy Snacking: A low-oil alternative to store-bought potato chips."
   - "Dipping Companion: Sturdy enough to scoop up thick hummus or guacamole."
   - "Lunchbox Addition: A perfect crunchy side for a midday sandwich."
 cuisine: "American"
-tags: ["vegan", "snack", "oil-free", "low-calorie"]
-keywords: ["microwave crisps", "potato chips", "american", "vegan", "snack", "healthy", "oil-free"]
+tags: ["vegan", "snack"]
+keywords: ["microwave crisps", "potato chips", "american", "vegan", "snack", "healthy"]
 variations:
   - "Salt and Vinegar: Soak in vinegar instead of water before cooking."
   - "Spicy BBQ: Toss with smoked paprika and a pinch of chili powder."
@@ -52,7 +52,7 @@ faq:
 steps:
   - "Cutting the potatoes: Using a mandoline or a very sharp knife, slice the potatoes into paper-thin rounds. The thinner the slice, the crispier the chip will be."
   - "Place the slices in a bowl of cold water for 5 minutes to remove excess starch—this prevents them from sticking and helps them crisp up. Drain and pat them completely dry with a clean kitchen towel; any moisture left behind will cause them to steam rather than crisp."
-  - "Lightly dust the dry slices with sea salt, paprika, or your favorite seasoning. Line your microwave's turntable (or a microwave-safe plate) with parchment paper. Arrange the slices in a single layer, ensuring they do not overlap."
+  - "Toss the dry slices with the olive oil and lightly dust with sea salt, paprika, or your favorite seasoning. Line your microwave's turntable (or a microwave-safe plate) with parchment paper. Arrange the slices in a single layer, ensuring they do not overlap."
   - "Microwave on high for 3 minutes. Flip the slices over and microwave for another 2 minutes. Continue in 1-minute increments until the chips start to turn golden brown and feel firm."
   - "Remove the chips from the microwave and let them sit for 1–2 minutes. They will continue to harden and reach maximum crunch as they cool. Serve immediately as a healthy side or a quick snack."
 ---

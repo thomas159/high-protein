@@ -2,7 +2,7 @@
 title: "15-Minute Microwave Cherry Tomato & Courgette Risotto"
 slug: "15-minute-cherry-tomato-and-courgette-risotto"
 meta: {
-  seoMetaDescription: "Make this quick, creamy 15-minute Cherry Tomato and Zucchini Risotto in the microwave. A perfect, comforting vegan meal for busy weeknights."
+  seoMetaDescription: "Make this quick, creamy 15-minute Cherry Tomato and Zucchini Risotto in the microwave. A perfect, comforting vegetarian meal for busy weeknights."
 }
 description: "This 15-minute Cherry Tomato and Zucchini Risotto is a quick and easy way to enjoy the classic dish without spending hours in the kitchen. Made using a microwave, this recipe is perfect for busy weeknights or when you're craving a comforting and satisfying meal."
 blurb: 
@@ -12,9 +12,9 @@ blurb:
 image: "15-minute-cherry-tomato-and-courgette-risotto_1_lsbbrh"
 alt: "15-minute cherry tomato and courgette risotto in a bowl"
 categories: ["dinner", "microwave", "15-minute-meals"]
-tags: ["vegan", "microwave-meals", "italian"]
+tags: ["vegetarian", "microwave-meals", "italian"]
 cuisine: "Italian"
-keywords: ["risotto", "cherry tomato", "courgette", "zucchini", "microwave", "italian", "vegan", "15-minute"]
+keywords: ["risotto", "cherry tomato", "courgette", "zucchini", "microwave", "italian", "vegetarian", "15-minute"]
 tipsTitle: "Microwave Magic"
 tips:
   - "Mind the Bowl Size: Arborio rice expands and the liquid bubbles up significantly in the microwave, so always use a much larger bowl than you think you need."
