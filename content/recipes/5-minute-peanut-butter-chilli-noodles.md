@@ -46,7 +46,7 @@ ingredients:
   - { item: "Noodles", type: "Ramen or Rice Noodles", amount: 100, unit: "g" }
   - { item: "Peanut Butter", amount: 2, unit: "tsp" }
   - { item: "Light Soy Sauce", amount: 1, unit: "tsp" }
-  - { item: "Honey or Agave", amount: 1, unit: "tsp" }
+  - { item: "Agave or Maple Syrup", amount: 1, unit: "tsp" }
   - { item: "Rice Wine Vinegar", amount: 1, unit: "tsp" }
   - { item: "Sesame Oil", amount: 1, unit: "tsp" }
   - { item: "Chilli Oil", amount: 1, unit: "tsp" }

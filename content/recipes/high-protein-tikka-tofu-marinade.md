@@ -9,7 +9,7 @@ image: "tikka-tofu-marinade_if4ab4"
 alt: "High-protein tikka marinated tofu cubes"
 pintrest: ""
 categories: ["dinner", "15-minute-meals", "marinade"]
-tags: ["vegan", "high protein", "indian"]
+tags: ["vegetarian", "high protein", "indian"]
 cuisine: "Indian"
 keywords: ["tofu marinade", "tikka", "indian", "vegetarian", "high-protein", "air-fryer", "grilled"]
 tipsTitle: "Ingredient Swap"

@@ -8,10 +8,10 @@ description: "Craving a warm, comforting dessert without the sugar crash? This h
 image: "high-protein-air-fryer-apple-crumble_plgb9p"
 alt: "High protein air fryer apple crumble in a ramekin"
 pintrest: ""
-categories: ["high-protein", "air-fryer", "vegan", "dinner", "breakfast", "trending", "dessert"]
+categories: ["high-protein", "air-fryer", "vegetarian", "dinner", "breakfast", "trending", "dessert"]
 tags: ["high protein", "dessert"]
 cuisine: "British"
-keywords: ["apple crumble", "air fryer", "high-protein", "dessert", "british", "vegan"]
+keywords: ["apple crumble", "air fryer", "high-protein", "dessert", "british", "vegetarian"]
 tipsTitle: "Crumble Perfection"
 tips: 
   - "Apple Choice: Use a tart apple variety like Granny Smith or Braeburn. Their sharp acidity perfectly balances the sweet, protein-heavy oat topping."

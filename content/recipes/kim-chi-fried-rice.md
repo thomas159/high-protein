@@ -9,7 +9,7 @@ blurb:
   - "Whether you're looking for a 15-minute weeknight savior or a cure for a late-night craving, this dish delivers an addictive umami punch that hits every single taste bud."
 image: "kim-chi-fried-rice_a4xo6n"
 alt: "Kimchi fried rice topped with a fried egg"
-categories: ["dinner", "vegan", "15-minute-meals"]
+categories: ["dinner", "vegetarian", "15-minute-meals"]
 tipsTitle: "Cooking Tips"
 tips:
   - "Flavor Bomb: Don't waste the liquid! Add 2-3 tablespoons of the juice from your kimchi jar during Step 3 for a deeply authentic, punchy flavor."
@@ -24,7 +24,7 @@ use:
   - "Quick Main: Goes from pan to plate in under 15 minutes."
 cuisine: "Korean"
 tags: ["korean"]
-keywords: ["kimchi", "fried rice", "korean", "vegan", "15-minute", "spicy", "comfort food"]
+keywords: ["kimchi", "fried rice", "korean", "vegetarian", "15-minute", "spicy", "comfort food"]
 rating: 
 variations:
   - "Tofu Scramble: Swap the egg for crumbled, seasoned tofu."

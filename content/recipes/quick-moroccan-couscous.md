@@ -9,9 +9,9 @@ blurb: []
 image: "quick-moroccan-couscous-1_i53dmp"
 alt: "Quick Moroccan couscous with red peppers and feta cheese"
 categories: ["dinner", "15-minute-meals"]
-tags: ["vegan", "mediterranean", "healthy-side"]
+tags: ["vegetarian", "mediterranean", "healthy-side"]
 cuisine: "Moroccan"
-keywords: ["couscous", "moroccan", "vegan", "15-minute", "mediterranean", "healthy side"]
+keywords: ["couscous", "moroccan", "vegetarian", "15-minute", "mediterranean", "healthy side"]
 tipsTitle: "Flawless Couscous"
 tips:
   - "The Fork Rule: Always use a fork, never a spoon, to fluff your couscous. A spoon will mash the delicate grains together into a dense clump."

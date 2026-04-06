@@ -8,7 +8,7 @@ description: 'Transform your tofu into a golden, caramelized treat with this Hon
 image: "honey-glaze-tofu-marinade_1_rykscd"
 alt: "Honey glaze marinated tofu cubes"
 pintrest: ""
-categories: ["vegan", "dinner", "15-minute-meals", "marinade"]
+categories: ["vegetarian", "dinner", "15-minute-meals", "marinade"]
 cuisine: "Asian"
 keywords: ["tofu marinade", "honey glaze", "asian", "vegetarian", "sweet", "savory", "air-fryer"]
 tags: ["high protein", "air-fryer"]
