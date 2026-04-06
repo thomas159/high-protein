@@ -12,7 +12,7 @@ blurb:
 image: "garlic-sauce_dz8yhf"
 alt: "Creamy low calorie garlic sauce in a small dipping bowl"
 categories: ["sauces", "15-minute-meals"]
-tags: ["Keto"]
+tags: ["keto"]
 tipsTitle: "Variations to Try"
 tips: 
   - "Add a Zing: A fresh squeeze of lemon juice immediately brightens the sauce and cuts through the richness."

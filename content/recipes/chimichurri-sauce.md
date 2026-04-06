@@ -10,7 +10,7 @@ blurb:
 image: 'chimichurri-sauce_2_usinnj'
 alt: "Fresh and vibrant green chimichurri sauce in a small bowl"
 categories: ["vegan", "sauces", "5-minute-meals"]
-tags: ["vegan"]
+tags: ["vegan", "keto"]
 cuisine: "Argentinian"
 keywords: ["chimichurri", "sauce", "argentinian", "vegan", "5-minute", "condiment", "herbs"]
 tipsTitle: "Serving Tip"
