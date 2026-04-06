@@ -66,7 +66,7 @@ const adjustedIngredients = computed(() => {
 <template>
 <div class="lg:col-span-4">
     <div class="bg-card rounded-3xl p-6 md:p-8 border border-border sticky top-24 shadow-sm transition-colors duration-300">
-      <div class="flex justify-between items-center mb-6">
+      <div class="flex justify-between items-center">
         
         <h2 class="text-xl font-bold text-foreground">Ingredients for {{ props.recipe?.title }}</h2>
         
@@ -93,7 +93,7 @@ const adjustedIngredients = computed(() => {
         </div>
       </div>
 
-      <ul class="space-y-4 mb-8">
+      <ul class="space-y-4">
         <li v-for="(item, index) in adjustedIngredients" :key="index" class="flex items-start gap-3 group">
           <div class="relative flex items-start pt-1">
             
