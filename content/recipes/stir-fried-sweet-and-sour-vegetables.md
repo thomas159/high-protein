@@ -11,7 +11,7 @@ pintrest: ""
 categories: ["vegan", "dinner", "trending"]
 cuisine: "Thai"
 keywords: ["stir fry", "sweet and sour", "vegetables", "thai", "vegan", "healthy", "vegan sweet and sour"]
-tags: ["vegan", "healthy", "thai"]
+tags: ["vegan", "thai"]
 rating: 
 reviews: 
 tipsTitle: "Wok Skills"

@@ -12,7 +12,7 @@ blurb:
 image: "15-minute-cherry-tomato-and-courgette-risotto_1_lsbbrh"
 alt: "15-minute cherry tomato and courgette risotto in a bowl"
 categories: ["dinner", "microwave", "15-minute-meals"]
-tags: ["vegetarian", "microwave-meals", "italian"]
+tags: ["microwave-meals", "italian"]
 cuisine: "Italian"
 keywords: ["risotto", "cherry tomato", "courgette", "zucchini", "microwave", "italian", "vegetarian", "15-minute"]
 tipsTitle: "Microwave Magic"

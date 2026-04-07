@@ -21,7 +21,7 @@ use:
   - "Party Snack: The ultimate crowd-pleasing sharing platter."
   - "Side Dish: Pairs perfectly with a thick, juicy veggie burger."
   - "Late Night Treat: Hits every craving for salty, spicy, and cheesy."
-tags: ["vegetarian", "spicy", "fusion", "gluten-free"]
+tags: ["spicy", "fusion", "gluten-free"]
 cuisine: "Korean"
 keywords: ["kimchi fries", "air fryer", "korean", "fusion", "cheese", "spicy", "snack"]
 whyTitle: "Why use an air fryer?"

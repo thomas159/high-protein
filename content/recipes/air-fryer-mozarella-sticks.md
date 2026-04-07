@@ -22,7 +22,7 @@ use:
   - "Party Platter: A guaranteed crowd-pleaser that stays contained in the air fryer."
   - "Snack Attack: A high-protein, gooey comfort food."
 cuisine: "American"
-tags: ["vegetarian", "party snack",]
+tags: ["party snack"]
 keywords: ["mozzarella sticks", "air fryer", "cheese", "snack", "crispy", "american", "appetizer", "homemade mozzarella sticks"]
 whyTitle: "Why use an air fryer?"
 why:

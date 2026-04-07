@@ -9,7 +9,7 @@ blurb: []
 image: "quick-moroccan-couscous-1_i53dmp"
 alt: "Quick Moroccan couscous with red peppers and feta cheese"
 categories: ["dinner", "15-minute-meals"]
-tags: ["vegetarian", "mediterranean", "healthy-side"]
+tags: ["mediterranean", "healthy-side"]
 cuisine: "Moroccan"
 keywords: ["couscous", "moroccan", "vegetarian", "15-minute", "mediterranean", "healthy side"]
 tipsTitle: "Flawless Couscous"

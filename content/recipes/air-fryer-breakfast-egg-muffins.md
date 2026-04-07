@@ -14,7 +14,7 @@ pintrest: ""
 categories: ["air-fryer", "breakfast", "15-minute-meals", "vegetarian", "keto"]
 cuisine: "American"
 keywords: ["egg muffins", "air fryer breakfast", "feta cheese", "sun-dried tomatoes", "keto breakfast", "high-protein", "air fryer egg bites"]
-tags: ["keto", "healthy", "high protein", "vegetarian"]
+tags: ["keto", "high protein"]
 rating: 
 reviews: 
 tipsTitle: "Muffin Mastery"

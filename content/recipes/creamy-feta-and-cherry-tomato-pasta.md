@@ -23,7 +23,7 @@ use:
   - "Lunch Prep: Tastes incredible reheated the next day."
   - "Dinner Party: Looks and tastes sophisticated enough for entertaining."
 cuisine: "Italian"
-tags: ["vegetarian", "pasta", "quick-dinner"]
+tags: ["pasta", "quick-dinner"]
 keywords: ["feta pasta", "cherry tomato", "italian", "15-minute", "creamy", "vegetarian"]
 rating: 
 reviews: 

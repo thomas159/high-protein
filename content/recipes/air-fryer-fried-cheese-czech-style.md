@@ -12,7 +12,7 @@ blurb:
 image: "fried-cheese-czech-style_im1uqu"
 alt: "Crispy Air Fryer Czech Fried Cheese (Smažený Sýr) on a plate"
 categories: ["air-fryer", "dinner", "15-minute-meals"]
-tags: ["high protein", "vegetarian", "healthy"]
+tags: ["high protein"]
 cuisine: "Czech"
 keywords: ["fried cheese", "smazeny syr", "czech", "air fryer", "high-protein", "dinner", "vegetarian", "healthy fried cheese", "air fryer smazeny syr"]
 rating: 

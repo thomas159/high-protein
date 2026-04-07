@@ -12,7 +12,7 @@ pintrest: ""
 categories: ["air-fryer", "snacks", "30-minute-meals", "vegetarian"]
 cuisine: "American"
 keywords: ["carrot fries", "air fryer", "garlic parmesan", "healthy fries", "vegetarian snack"]
-tags: ["healthy"]
+tags: []
 rating: 
 reviews: 
 tipsTitle: "Crispy Carrot Tips"

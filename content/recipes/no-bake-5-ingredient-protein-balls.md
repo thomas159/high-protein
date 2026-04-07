@@ -10,7 +10,7 @@ alt: "No-bake 5 ingredient protein balls stacked together"
 pintrest: ""
 categories: ["high-protein", "5-minute-meals", "snacks", "dessert"]
 cuisine: "American"
-tags: ["vegetarian", "snack", "high protein"]
+tags: ["snack", "high protein"]
 keywords: ["protein balls", "no-bake", "snack", "high-protein", "american", "meal prep"]
 tipsTitle: "Perfecting the Dough"
 tips: 

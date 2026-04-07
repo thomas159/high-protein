@@ -9,7 +9,7 @@ image: "high-protein-air-fryer-apple-crumble_plgb9p"
 alt: "High protein air fryer apple crumble in a ramekin"
 pintrest: ""
 categories: ["high-protein", "air-fryer", "vegetarian", "dinner", "breakfast", "trending", "dessert"]
-tags: ["high protein", "dessert"]
+tags: ["high protein"]
 cuisine: "British"
 keywords: ["apple crumble", "air fryer", "high-protein", "dessert", "british", "vegetarian"]
 tipsTitle: "Crumble Perfection"

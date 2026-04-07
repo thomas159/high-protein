@@ -23,7 +23,7 @@ use:
   - "Burger Sidekick: The classic pairing for any plant-based burger."
   - "Healthy Snack: A satisfying, nutrient-dense treat when you need a crunch."
   - "Loaded Base: Top with black beans, avocado, and salsa for a full meal."
-tags: ["vegan", "healthy", "snack"]
+tags: ["vegan", "snack"]
 variations:
   - "Cinnamon Sugar: Toss with a pinch of cinnamon for a sweet treat."
   - "Spicy Cajun: Season with smoked paprika and cayenne pepper."

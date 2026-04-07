@@ -10,7 +10,7 @@ blurb:
 image: "healthy-banana-oat-muffins_n0f9xa"
 alt: "Healthy oat banana muffins fresh out of the air fryer"
 categories: ["air-fryer", "dessert", "15-minute-meals"]
-tags: ["vegetarian", "high protein", "baking"]
+tags: ["high protein", "baking"]
 cuisine: "American"
 keywords: ["banana muffins", "oats", "healthy baking", "american", "dessert", "high-protein", "chocolate"]
 tipsTitle: "Vegan Alternative"
