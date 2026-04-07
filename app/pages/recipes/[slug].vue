@@ -198,7 +198,7 @@ useHead({
 
     <RecipesHero :recipe="recipe" />
 
-    <div class="grid grid-cols-1 lg:grid-cols-12 gap-10 mt-8 md:mt-12">
+    <div class="grid grid-cols-1 lg:grid-cols-12 gap-10">
 
       <RecipesIngredients class="hidden lg:block" :recipe="recipe" />
 
@@ -212,53 +212,53 @@ useHead({
           <p v-for="(blurb, index) in recipe.blurb" :key="index" class="text-muted-foreground" v-html="formatText(blurb)" />
         </div>
 
-        <h2 v-if="recipe.works?.length" id="works" class="mt-12">Why this recipe works</h2>
+        <h2 v-if="recipe.works?.length" id="works" class="mt-8">Why this recipe works</h2>
         <div v-if="recipe.works?.length" class="mt-4 space-y-4">
           <p v-for="(work, index) in recipe.works" :key="index" class="text-muted-foreground" v-html="formatText(work)" />
         </div>
 
-        <h2 v-if="recipe.flavour?.length" id="flavour" class="mt-12">Flavour profile</h2>
+        <h2 v-if="recipe.flavour?.length" id="flavour" class="mt-8">Flavour profile</h2>
         <div v-if="recipe.flavour?.length" class="mt-4 space-y-4">
           <p v-for="(flav, index) in recipe.flavour" :key="index" class="text-muted-foreground" v-html="formatText(flav)" />
         </div>
 
-        <h2 v-if="recipe.variations?.length" id="variations" class="mt-12">Variations and combinations of ingredients</h2>
+        <h2 v-if="recipe.variations?.length" id="variations" class="mt-8">Variations and combinations of ingredients</h2>
         <div v-if="recipe.variations?.length" class="mt-4 space-y-4">
           <p v-for="(variation, index) in recipe.variations" :key="index" class="text-muted-foreground" v-html="formatText(variation)" />
         </div>
 
-        <h2 v-if="recipe.use?.length" id="use" class="mt-12">How to serve</h2>
+        <h2 v-if="recipe.use?.length" id="use" class="mt-8">How to serve</h2>
         <div v-if="recipe.use?.length" class="mt-4 space-y-4">
           <p v-for="(u, index) in recipe.use" :key="index" class="text-muted-foreground" v-html="formatText(u)" />
         </div>
 
-        <h2 v-if="randomizedRecipes?.length" id="youMightAlsoLike" class="mt-12">You Might Also Like</h2>
+        <h2 v-if="randomizedRecipes?.length" id="youMightAlsoLike" class="mt-8">You Might Also Like</h2>
         <div v-if="randomizedRecipes?.length" class="grid grid-cols-2 lg:grid-cols-4 gap-main -mx-4 lg:-mx-0">
           <RecipeCard v-for="randomRecipe in randomizedRecipes" :key="randomRecipe.slug" :recipe="randomRecipe" />
         </div>
 
-        <h2 v-if="recipe.whyTitle && recipe.why?.length" id="why" class="mt-12">{{ recipe.whyTitle }}</h2>
+        <h2 v-if="recipe.whyTitle && recipe.why?.length" id="why" class="mt-8">{{ recipe.whyTitle }}</h2>
         <div v-if="recipe.why?.length" class="mt-4 space-y-4">
           <p v-for="(reason, index) in recipe.why" :key="index" class="text-muted-foreground" v-html="formatText(reason)" />
         </div>
 
-        <h2 v-if="recipe.tips?.length" id="tips" class="mt-12">{{ recipe.tipsTitle || 'Tips' }}</h2>
+        <h2 v-if="recipe.tips?.length" id="tips" class="mt-8">{{ recipe.tipsTitle || 'Tips' }}</h2>
         <div v-if="recipe.tips?.length" class="mt-4 space-y-4">
           <p v-for="(tip, index) in recipe.tips" :key="index" class="text-muted-foreground" v-html="formatText(tip)" />
         </div>
 
-        <h2 v-if="recipe.muscleBuildingTip" id="muscleBuildingTip" class="mt-12">Muscle building tips</h2>
+        <h2 v-if="recipe.muscleBuildingTip" id="muscleBuildingTip" class="mt-8">Muscle building tips</h2>
         <p class=" text-muted-foreground mb-12" v-html="formatText(recipe.muscleBuildingTip)" />
 
-        <h2 v-if="recipe.servingSuggestions" id="servingSuggestions" class="mt-12">Serving Suggestions and Pairings</h2>
+        <h2 v-if="recipe.servingSuggestions" id="servingSuggestions" class="mt-8">Serving Suggestions and Pairings</h2>
         <p class=" text-muted-foreground" v-html="formatText(recipe.servingSuggestions)" />
 
 
-        <div class="lg:hidden mt-12">
+        <div class="lg:hidden mt-8">
           <RecipesIngredients :recipe="recipe" />
         </div>
 
-        <h2 id="howToMake" class="scroll-mt-24 mt-12">How to make {{ recipe.title }}</h2>
+        <h2 id="howToMake" class="scroll-mt-20 mt-8">How to make {{ recipe.title }}</h2>
         <div class="markdown-recipe-body mt-6">
           <ol>
             <li v-for="(step, index) in recipe.steps" :key="index">
@@ -269,11 +269,11 @@ useHead({
           </ol>
         </div>
 
-        <h2 v-if="recipe.storageInstructions" id="storage" class="mt-12 ">Storage and Freezing</h2>
+        <h2 v-if="recipe.storageInstructions" id="storage" class="mt-8 ">Storage and Freezing</h2>
         <p class=" text-muted-foreground" v-html="formatText(recipe.storageInstructions)" />
 
            <!-- New FAQ Section -->
-        <section v-if="recipe?.faq?.length" class="mt-12">
+        <section v-if="recipe?.faq?.length" class="mt-8">
           <h2 class="text-2xl font-bold mb-6 text-gray-900 dark:text-white">
             Frequently Asked Questions
           </h2>

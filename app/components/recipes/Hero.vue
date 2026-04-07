@@ -43,19 +43,18 @@ const scrollToRecipe = () => {
 </script>
 
 <template>
-  <div class="grid grid-cols-1 lg:grid-cols-12 gap-10 items-start">
+  <div class="grid grid-cols-1 lg:grid-cols-12 gap-6 md:gap-10 items-start">
 
     <div class="order-2 lg:order-1 lg:col-span-6 flex flex-col justify-start h-full">
       <div class="flex flex-row justify-between">
         <RecipesBreadcrumbs :recipe="props.recipe" />
-
-        <RecipesTags :recipe="props.recipe" />
       </div>
-      <h1 class="">
+       <RecipesTags :recipe="props.recipe" />
+      <h1 class="mb-">
         {{ props.recipe.title }}
       </h1>
 
-      <div class="flex justify-center lg:justify-start my-8">
+      <div class="flex justify-center lg:justify-start mb-6">
         <Button 
           @click="scrollToRecipe">
              <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
