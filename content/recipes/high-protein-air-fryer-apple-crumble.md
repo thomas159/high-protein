@@ -2,7 +2,7 @@
 title: "High-Protein Air Fryer Apple Crumble"
 slug: "high-protein-air-fryer-apple-crumble"
 meta: {
-  seoMetaDescription: "A 20-minute, high-protein Apple Crumble made entirely in the air fryer. The perfect muscle-building dessert with minimal cleanup."
+  seoMetaDescription: "A 25-minute, high-protein Apple Crumble made entirely in the air fryer. The perfect muscle-building dessert with minimal cleanup."
 } 
 description: "Craving a warm, comforting dessert without the sugar crash? This high-protein apple crumble is made directly in a ramekin and baked in the air fryer. It combines juicy cinnamon apples with a crunchy, protein-packed oat topping."
 image: "high-protein-air-fryer-apple-crumble_plgb9p"
@@ -38,7 +38,7 @@ why:
   - "Perfect Crunch: The forced air circulation creates a much crispier oat topping than a microwave or traditional oven could."
   - "Muscle Recovery: By swapping flour for oats and protein powder, this dessert doubles as a high-fiber post-workout snack."
 prepTimeMins: 5
-cookTimeMins: 20
+cookTimeMins: 25
 servings: 1
 macros:
   calories: 375
@@ -65,6 +65,6 @@ steps:
 - "In a standard ramekin, toss the diced apple with cinnamon and sugar. Pour the tablespoons of water over the top to help the apples steam while baking."
 - "In a separate small bowl, combine the oats, protein powder, butter, and honey. Rub the mixture together with your fingers or a fork until you achieve a crumbly, pebble-like dough."
 - "Sprinkle the crumble mixture evenly over the apples in the ramekin, pressing down slightly to ensure it sticks."
-- "Place the ramekin in the air fryer basket. Bake at 160°C for 20-25 minutes. Check at the 15-minute mark; if the top is browning too fast, you can cover it loosely with a small piece of foil."
+- "Place the ramekin in the air fryer basket. Bake at 160°C for 25-30 minutes. Check at the 15-minute mark; if the top is browning too fast, you can cover it loosely with a small piece of foil."
 - "Carefully remove the ramekin using oven mitts (it will be extremely hot). Let it sit for 2-3 minutes; this allows the apple juices to thicken into a syrup before you dive in."
 ---
