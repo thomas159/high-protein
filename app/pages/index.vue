@@ -83,7 +83,7 @@ useSeoMeta({
       title="Air fryer Recipes"
       class="pt-6"
     />
-        <!-- <HomeAboutMe /> -->
+    <HomeAboutMe />
     </main>
   </div>
 </template>

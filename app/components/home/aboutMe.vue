@@ -3,40 +3,19 @@ const appConfig = useAppConfig()
 </script>
 
 <template>
-<div class="text-gray-800">
-
-<main class="max-w-7xl mx-auto px-6 grid grid-cols-1 lg:grid-cols-12 gap-12">
-  
-  <aside class="lg:col-span-3">
-    <div class="border border-gray-200 bg-white rounded-sm shadow-sm overflow-hidden">
-      <div class="bg-flavor-sap text-white py-3 px-4 font-bold text-center text-sm">
-        Welcome to our food blog!
-      </div>
-      
-      <div class="p-6 flex flex-col items-center">
-        <div class="w-40 h-40 rounded-sm overflow-hidden mb-4 border border-gray-100">
-          <!-- <img src="james.jpg" class="w-full h-full object-cover" alt="James Carter"> -->
-        </div>
-        
-        <h2 class="text-flavor-deep font-bold text-xl tracking-tighter mb-2">JAMES CARTER</h2>
-        <p class="text-gray-500 text-xs text-center leading-relaxed mb-6">
-          A passionate food lover, James shares easy and tasty recipes on {{ appConfig.siteName }} to inspire home cooks and food enthusiasts alike.
-        </p>
-        
-        <div class="font-signature text-3xl text-flavor-deep mb-6">James Carter</div>
-        
-        <div class="flex gap-4 text-gray-400">
-          <a href="#" class="hover:text-flavor-sap"><i class="fab fa-facebook-f"></i></a>
-          <a href="#" class="hover:text-flavor-sap"><i class="fab fa-instagram"></i></a>
-          <a href="#" class="hover:text-flavor-sap"><i class="fab fa-pinterest"></i></a>
-        </div>
-      </div>
+  <section class="container mx-auto py-8 px-6 my-12 bg-muted/30 rounded-3xl flex flex-col md:flex-row items-center gap-8 justify-center border border-border">
+    <div class="w-32 h-32 rounded-full overflow-hidden shrink-0 ring-4 ring-emerald-500/20">
+      <img src="/images/tom.avif" class="w-full h-full object-cover" :alt="appConfig.author" />
     </div>
-  </aside>
-
-  <section class="lg:col-span-9">
-   latest
+    
+    <div class="max-w-xl text-center md:text-left">
+      <h2 class="text-2xl font-bold text-foreground mb-2">Hi, I'm {{ appConfig.author }}! 👋</h2>
+      <p class="text-muted-foreground mb-4 leading-relaxed">
+        I share fast, macro-friendly, and high-protein recipes on {{ appConfig.siteName }} to help you hit your fitness goals without spending hours in the kitchen.
+      </p>
+      <NuxtLink to="/about" class="inline-flex items-center text-sm font-semibold text-emerald-500 hover:text-emerald-600 transition-colors">
+        Read My Story <span class="ml-1">&rarr;</span>
+      </NuxtLink>
+    </div>
   </section>
-</main>
-</div>
 </template>

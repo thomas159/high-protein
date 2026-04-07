@@ -11,7 +11,7 @@ const footerLinks = {
     }))
   ],
   company: [
-    { name: 'About Us', path: '/about' },
+    { name: 'About Me', path: '/about' },
     { name: 'Contact', path: '/contact' }
   ],
   legal: [
