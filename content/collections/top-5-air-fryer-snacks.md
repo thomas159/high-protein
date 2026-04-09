@@ -1,15 +1,15 @@
 ---
 title: "Top 5 Quick Air Fryer Snacks & Treats"
-description: "Waiting 20 minutes for an oven to preheat when you've just finished a heavy leg session is an absolute joke. The air fryer is the ultimate piece of kitchen kit—high crunch, minimal oil, and rapid recovery. Whether you need a massive post-workout macro hit or just fancy something cheesy while watching the football, here are my top 5 go-to snack recipes. Zero life stories, just maximum efficiency."
+description: "When the post-training hunger hits, you need rapid solutions, not a 40-minute cooking project. The air fryer is the undisputed king of quick macro-friendly food—delivering maximum crunch with zero deep-frying. From protein-packed desserts to instant savoury hits, here are my top five rapid-fire snacks to keep your recovery on track."
 recipes:
   - slug: "5-minute-air-fryer-nachos"
-    text: "When you need a cheesy, crunchy fix with zero prep time, these 5-minute nachos are the ultimate hack. Proper layering ensures every single bite is loaded with cheddar. Instant gratification without blowing your daily calorie budget."
+    text: "Forget the microwave. If you want a massive pile of crispy tortilla chips drowning in melted cheddar, the air fryer does it in five minutes flat. The perfect high-volume snack to smash while watching the weekend fixtures."
   - slug: "air-fryer-mozarella-sticks"
-    text: "Bin the shop-bought frozen rubbish. The double-breading here locks the cheese inside, preventing any messy leaks in your air fryer basket. You get a massive cheese pull and a deep-fried crunch, minus the heavy oil."
+    text: "A brilliant trick for getting that deep-fried restaurant starter vibe right in your kitchen. Coating your own cheese means you control the macros, and the circulating heat gives you an epic cheese pull with just a quick spray of olive oil."
   - slug: "air-fryer-pizza-tortilla-wrap"
-    text: "A flour tortilla is a fantastic, lightweight base for your pizza toppings. It crisps up beautifully under the intense heat, satisfying that craving while saving you enough calories to easily justify a post-match pint."
+    text: "When you're dieting, ordering a massive takeaway pizza is usually off the cards. This 15-minute workaround uses a tortilla wrap to give you a shatter-crisp thin crust, loading you up with fresh mozzarella and pesto for a fraction of the calories."
   - slug: "healthy-oat-banana-muffins"
-    text: "Need a quick pre-workout carb load that actually fits your macros? These bake perfectly in the air fryer. We've swapped the refined sugar for oats and Greek yoghurt to keep the nutritional profile strictly optimal."
+    text: "Air fryers aren't just for chips. You can knock out a batch of these dense, chocolatey muffins in 15 minutes. Packed with complex carbs and protein, they are my absolute go-to fuel before a heavy lifting session."
   - slug: "high-protein-air-fryer-apple-crumble"
-    text: "The perfect post-training evening dessert. Baking it directly in a ramekin bypasses the messy cleanup phase entirely. The air fryer blasts the protein-packed oat topping into a crispy shell while the apples steam underneath."
+    text: "Craving a classic British pud but need to hit your protein target before bed? Throwing some diced apple and a protein-oat crumble mix into a ramekin is a game-changer. The air fryer creates a golden, crunchy lid in minutes."
 ---
