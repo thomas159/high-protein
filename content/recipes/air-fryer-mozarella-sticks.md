@@ -71,4 +71,5 @@ steps:
     image: "air-fryer-mozarella-sticks-3-1_y7ulkv"
   - text: "Place your breaded sticks on a tray and freeze for at least 30 minutes. Freezing \"sets\" the breading and ensures the cheese doesn't melt faster than the crust can crisp up."
   - text: "Arrange the frozen sticks in the air fryer basket, leaving space between each for airflow. Lightly spray with olive oil. Cook at 200°C for 5–8 minutes, gently turning them halfway through. Remove them as soon as the crust is golden-brown and the cheese just begins to show at the edges."
+    image: "air-fryer-mozarella-sticks-step-4-1_lpj3gg"
 ---

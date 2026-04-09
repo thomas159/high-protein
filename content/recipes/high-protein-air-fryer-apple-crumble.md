@@ -62,9 +62,12 @@ faq:
     answer: "Granny Smith or Braeburn apples are ideal as they retain their shape and provide a tart contrast to the sweet topping."
 
 steps:
-- "In a standard ramekin, toss the diced apple with cinnamon and sugar. Pour the tablespoons of water over the top to help the apples steam while baking."
-- "In a separate small bowl, combine the oats, protein powder, butter, and honey. Rub the mixture together with your fingers or a fork until you achieve a crumbly, pebble-like dough."
-- "Sprinkle the crumble mixture evenly over the apples in the ramekin, pressing down slightly to ensure it sticks."
-- "Place the ramekin in the air fryer basket. Bake at 160°C for 25-30 minutes. Check at the 15-minute mark; if the top is browning too fast, you can cover it loosely with a small piece of foil."
-- "Carefully remove the ramekin using oven mitts (it will be extremely hot). Let it sit for 2-3 minutes; this allows the apple juices to thicken into a syrup before you dive in."
+  - text: "In a standard ramekin, toss the diced apple with cinnamon and sugar. Pour the tablespoons of water over the top to help the apples steam while baking."
+    image: "high-protein-air-fryer-apple-crumble-step-1_yrkw1y"
+  - text: "In a separate small bowl, combine the oats, protein powder, butter, and honey. Rub the mixture together with your fingers or a fork until you achieve a crumbly, pebble-like dough."
+    image: "high-protein-air-fryer-apple-crumble-step-2_fwlkzm"
+  - text: "Sprinkle the crumble mixture evenly over the apples in the ramekin, pressing down slightly to ensure it sticks."
+    image: "high-protein-air-fryer-apple-crumble-step-3_vwexoq"
+  - text: "Place the ramekin in the air fryer basket. Bake at 160°C for 25-30 minutes. Check at the 15-minute mark; if the top is browning too fast, you can cover it loosely with a small piece of foil."
+  - text: "Carefully remove the ramekin using oven mitts (it will be extremely hot). Let it sit for 2-3 minutes; this allows the apple juices to thicken into a syrup before you dive in."
 ---

@@ -55,8 +55,11 @@ faq:
     answer: "Flour tortillas work best as a pizza base because they hold up better to moist toppings, whereas corn tortillas might split or become too soggy."
 
 steps:
-  - "Preheat your air fryer or oven to 200°C. Place the tortilla in the air fryer tray or on a flat baking tray or a pizza stone. Use the back of a spoon to spread the pesto evenly across the surface. Leave a 1cm border around the edge. This allows the tortilla to \"puff\" slightly and turn into a crunchy, golden crust."
-  - "Layer your fresh ingredients carefully to ensure an even cook. Distribute the mozzarella slices evenly. Scatter the halved cherry tomatoes (cut-side up to prevent sogginess) and the thinly sliced onions."
-  - "Cook for around 6–8 minutes. The edges of the tortilla should be a deep golden brown and the mozzarella should be bubbling with small golden spots."
-  - "Remove from the air fryer or oven and let it sit on the tray for 1 minute. This brief rest allows the tortilla to fully crisp up so it can be sliced without folding."
+  - text: "Preheat your air fryer or oven to 200°C. Place the tortilla in the air fryer tray or on in the oven on a flat baking tray or a pizza stone. Use the back of a spoon to spread the pesto evenly across the surface. Leave a 1cm border around the edge. This allows the tortilla to \"puff\" slightly and turn into a crunchy, golden crust."
+    image: "air-fryer-pizza-tortilla-wrap-step-1_obvimo"
+  - text: "Layer your fresh ingredients carefully to ensure an even cook. Distribute the mozzarella slices evenly. Scatter the halved cherry tomatoes (cut-side up to prevent sogginess) and the thinly sliced onions."
+    image: "air-fryer-pizza-tortilla-wrap-step-2_ibfuma"
+  - text: "Cook for around 6–8 minutes. The edges of the tortilla should be a deep golden brown and the mozzarella should be bubbling with small golden spots."
+    image: "air-fryer-pizza-tortilla-wrap-step-4_djmleg"
+  - text: "Remove from the air fryer or oven and let it sit on the tray for 1 minute. This brief rest allows the tortilla to fully crisp up so it can be sliced without folding."
 ---
