@@ -64,7 +64,30 @@ export default defineContentConfig({
           })
         ).default([]),
         
-        steps: z.array(z.string()).default([]),
+        steps: z.array(
+          z.union([
+            z.string(),
+            z.object({
+              text: z.string(),
+              image: z.string().optional()
+            })
+          ])
+        ).default([]),
+      })
+    }),
+    
+    collections: defineCollection({
+      type: 'page',
+      source: 'collections/**',
+      schema: z.object({
+        title: z.string().optional(),
+        description: z.string().optional(),
+        recipes: z.array(
+          z.object({
+            slug: z.string(),
+            text: z.string().optional()
+          })
+        ).default([])
       })
     })
   }
