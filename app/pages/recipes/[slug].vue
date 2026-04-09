@@ -277,7 +277,7 @@ useHead({
                     v-if="step.image" 
                     :src="step.image" 
                     :alt="`Step ${index + 1}`" 
-                    class="w-full !h-auto aspect-video rounded-lg object-cover"
+                    class="w-full max-w-[400px] !h-auto aspect-video rounded-lg object-cover"
                   />
                 </template>
                 
