@@ -1,4 +1,5 @@
 <script setup lang="ts">
+import Img from '@/components/Img.vue'
 const { siteName, siteDescription } = useAppConfig()
 const route = useRoute()
 
@@ -262,8 +263,29 @@ useHead({
         <div class="markdown-recipe-body mt-6">
           <ol>
             <li v-for="(step, index) in recipe.steps" :key="index">
-              <div>
-                <p>{{ step }}</p>
+            <!-- Your step number column usually goes here -->
+            <!-- <div class="step-number">Step {{ index + 1 }}</div> -->
+              
+              <!-- Wrap the content in a div so it stays in ONE column -->
+              <div class="step-content flex flex-col gap-4">
+                
+                <!-- Check if it is the new object format -->
+                <template v-if="step.text">
+                  <p>{{ step.text }}</p>
+                  <!-- The image will now render directly underneath the text -->
+                  <Img 
+                    v-if="step.image" 
+                    :src="step.image" 
+                    :alt="`Step ${index + 1}`" 
+                    class="w-full !h-auto aspect-video rounded-lg object-cover"
+                  />
+                </template>
+                
+                <!-- Fallback for older recipes that use strings -->
+                <template v-else>
+                  <p>{{ step }}</p>
+                </template>
+                
               </div>
             </li>
           </ol>

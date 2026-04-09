@@ -63,9 +63,10 @@ faq:
     answer: "Absolutely! Pre-packaged string cheese works perfectly and saves you the step of slicing the cheese yourself."
 
 steps:
-  - "Arrange three small bowls in a row. In the first, add the flour. In the second, the beaten egg. In the third, combine the breadcrumbs with the chili flakes, oregano, and garlic granules. Mixing the spices directly into the crumbs ensures every bite is flavorful."
-  - "Slice the mozzarella into uniform sticks about 2cm thick. Pat them slightly with a damp paper towel (if they are too dry) and dredge them in the flour until fully coated, shaking off any excess."
-  - "Dip each floured stick into the egg, then roll it in the spiced breadcrumbs. Repeat this process: dip it back into the egg for a second time, then a final roll in the breadcrumbs. This creates a thick, reinforced shell that prevents the cheese from leaking during air frying."
-  - "Place your breaded sticks on a tray and freeze for at least 30 minutes. Freezing \"sets\" the breading and ensures the cheese doesn't melt faster than the crust can crisp up."
-  - "Arrange the frozen sticks in the air fryer basket, leaving space between each for airflow. Lightly spray with olive oil. Cook at 200°C for 5–8 minutes, gently turning them halfway through. Remove them as soon as the crust is golden-brown and the cheese just begins to show at the edges."
+  - text: "Arrange three small bowls in a row. In the first, add the flour. In the second, the beaten egg. In the third, combine the breadcrumbs with the chili flakes, oregano, and garlic granules. Mixing the spices directly into the crumbs ensures every bite is flavorful."
+    image: "air-fryer-mozarella-sticks-step-1_lmayev"
+  - text: "Slice the mozzarella into uniform sticks about 2cm thick. Pat them slightly with a damp paper towel (if they are too dry) and dredge them in the flour until fully coated, shaking off any excess."
+  - text: "Dip each floured stick into the egg, then roll it in the spiced breadcrumbs. Repeat this process: dip it back into the egg for a second time, then a final roll in the breadcrumbs. This creates a thick, reinforced shell that prevents the cheese from leaking during air frying."
+  - text: "Place your breaded sticks on a tray and freeze for at least 30 minutes. Freezing \"sets\" the breading and ensures the cheese doesn't melt faster than the crust can crisp up."
+  - text: "Arrange the frozen sticks in the air fryer basket, leaving space between each for airflow. Lightly spray with olive oil. Cook at 200°C for 5–8 minutes, gently turning them halfway through. Remove them as soon as the crust is golden-brown and the cheese just begins to show at the edges."
 ---
