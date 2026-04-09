@@ -2,9 +2,9 @@
 title: "High-Protein Salted Peanut Butter Ninja Creami"
 slug: "ninja-creami-salted-peanut-butter-ice-cream"
 meta: {
-  seoMetaDescription: "Make a creamy, high-protein Salted Peanut Butter Ice Cream in your Ninja Creami. A guilt-free, delicious dessert with over 70g of protein."
+  seoMetaDescription: "High-Protein Salted Peanut Butter Ninja Creami. Over 70g of protein in a creamy, guilt-free, salty-sweet frozen dessert."
 } 
-description: "Satisfy your sweet tooth with this incredibly creamy, high-protein Salted Peanut Butter Ice Cream made right in your Ninja Creami. By combining rich peanut butter powder, a scoop of your favorite vanilla protein, and a touch of sea salt, you get a decadent, guilt-free treat that tastes like it came straight from an artisan scoop shop."
+description: "A ridiculous 74g of protein disguised as a salty-sweet, premium ice cream. Using peanut butter powder and whey creates a thick, creamy structure without the heavy fat. The Ninja Creami turns this macro-friendly mix into an absolute masterpiece. Total dessert cheat code."
 image: "ninja-creami-salted-peanut-butter-ice-cream_ct82q9"
 alt: "Salted peanut butter protein ice cream in a Ninja Creami pint"
 pintrest: ""

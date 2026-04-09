@@ -2,9 +2,9 @@
 title: "One-Pan Spinach & Chickpea Coconut Curry"
 slug: "one-pan-spinach-and-chickpea-coconut-curry"
 meta: {
-  seoMetaDescription: "A creamy, high-protein vegan chickpea curry made in one pan. Ready in 25 minutes with spinach, coconut milk, and aromatic Indian spices."
+  seoMetaDescription: "One-Pan Spinach & Chickpea Coconut Curry. A high-protein, creamy vegan dinner packed with iron and anti-inflammatory spices."
 } 
-description: "A rich and creamy coconut milk base packed with ginger, garlic, and Indian spices. This 25-minute curry is nutrient-dense, high-protein, and requires minimal cleanup."
+description: "A brilliantly efficient one-pan curry loaded with plant-based iron from the spinach and solid protein from the chickpeas. Toasting the dry spices in coconut oil releases massive flavour, while turmeric and ginger help reduce muscle soreness after a heavy session. Pure, clean fuel."
 image: "one-pan-spinach-and-chickpea-coconut-curry_ffy601"
 alt: "One-Pan Spinach & Chickpea Coconut Curry in a bowl"
 categories: ["vegan", "one-pan-meals", "high-protein"]

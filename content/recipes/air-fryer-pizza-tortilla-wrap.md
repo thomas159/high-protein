@@ -2,9 +2,9 @@
 title: "15-Minute Air Fryer Tortilla Pizza"
 slug: "air-fryer-pizza-tortilla-wrap"
 meta: {
-  seoMetaDescription: "Make a crispy, low-calorie Tortilla Pizza in your air fryer in 15 minutes. A quick and easy Italian-inspired dinner with pesto and fresh mozzarella."
+  seoMetaDescription: "A crispy, low-calorie Tortilla Pizza in your air fryer in 15 minutes. The ultimate hack to hit that pizza craving without blowing your macros."
 }
-description: 'The 15-Minute Tortilla "Thin-Crust" Pizza is the ultimate hack for pizza lovers seeking a lighter, crispier alternative to heavy dough. By using a flour tortilla as the base, you cut down on carbs and calories without sacrificing that essential cheesy, bubbly satisfaction. It’s the perfect "blank canvas" for a quick weeknight dinner or a post-workout snack that feels like a cheat meal.'
+description: "A flour tortilla is a fantastic, lightweight framework for your pizza toppings. It crisps up beautifully under the intense heat of the air fryer, delivering that essential cheesy satisfaction while saving you enough calories to easily justify a post-match pint."
 blurb: []
 tipsTitle: "Pro Tip"
 tips: 

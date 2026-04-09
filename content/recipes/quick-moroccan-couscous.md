@@ -2,9 +2,9 @@
 title: "10-Minute Fluffy Moroccan Couscous"
 slug: "quick-moroccan-couscous"
 meta: {
-  seoMetaDescription: "Whip up this 10-minute Quick Moroccan Couscous for a vibrant, light, and fluffy Mediterranean vegan side dish. Perfect with grilled proteins."
+  seoMetaDescription: "10-Minute Fluffy Moroccan Couscous. A vibrant, light, and healthy Mediterranean vegan side dish for any protein."
 }
-description: "This 10 Minute Mediterranean Couscous is the ultimate versatile dish—light, fluffy, and bursting with fresh aromatics. Whether you’re looking for a vibrant standalone lunch or a quick, elegant side dish for grilled tofu or roasted vegetables, this recipe delivers maximum flavor with almost zero effort."
+description: "The ultimate versatile carb base that requires absolutely zero simmering. Pouring boiling vegetable stock over the couscous instantly rehydrates it, while sautéed red onions and sharp feta add a brilliant sweet and salty balance. 10 minutes of prep, maximum flavour."
 blurb: []
 image: "quick-moroccan-couscous-1_i53dmp"
 alt: "Quick Moroccan couscous with red peppers and feta cheese"

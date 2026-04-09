@@ -2,9 +2,9 @@
 title: "5-Minute Upgraded Instant Noodles (Soy & Sesame)"
 slug: "5-minute-instant-noodles"
 meta: {
-  seoMetaDescription: "Upgrade your instant noodles in just 5 minutes with a savory soy and sesame glaze. A quick, vegan-friendly meal perfect for satisfying cravings."
+  seoMetaDescription: "Upgrade your instant noodles in 5 minutes with a savoury soy and sesame glaze. A rapid, umami-packed post-workout carb load."
 }
-description: "Quick, grab and go quick meals are always a good idea. These instant noodles are perfect when you need to satisfy that hunger bite."
+description: "Don't settle for a depressing, watery bowl of plain instant noodles. Upgrading them with a savoury soy and sesame glaze takes exactly 5 minutes. Boil off the water to force the flavour into the noodles—a perfect, lightning-fast carb load after a heavy session."
 image: "5-minute-instant-noodles_ywvyin"
 alt: "5 Minute instant noodles garnished with spring onions"
 pintrest: ""

@@ -2,11 +2,10 @@
 title: "Authentic Thai Mango Sticky Rice (Macro-Friendly)"
 slug: "mango-sticky-rice"
 meta: {
-  seoMetaDescription: "Make authentic, creamy Thai Mango Sticky Rice at home. A perfect macro-friendly, high-carb vegan dessert for post-workout recovery or a healthy sweet treat."
+  seoMetaDescription: "Authentic Thai Mango Sticky Rice. A macro-friendly, high-carb vegan dessert perfect for fuelling a heavy lifting session."
 }
-description: "Experience the perfect balance of creamy, salty, and sweet with this authentic Mango Sticky Rice. Designed for the active vegetarian, this recipe focuses on Clean Carbs and healthy fats, making it an ideal post-training fuel or a vibrant, chef-inspired treat that doesn't rely on processed additives."
-blurb: 
-- "By utilizing a precise 4:1 ratio of coconut infusion to finishing glaze, we ensure every grain of glutinous rice is perfectly tender and fragrant and pair it with fresh, vitamin-rich mango. Whether you're fueling your next gym session or looking for a tropical escape in your kitchen, this macro-friendly dessert delivers high energy and maximum flavor."
+description: "The ultimate clean-carb refeed. This authentic Mango Sticky Rice relies on a precise 4:1 ratio of coconut infusion to finishing glaze, ensuring the glutinous rice is perfectly tender. Ideal for fuelling your next heavy leg session or just smashing a tropical craving without processed rubbish."
+blurb: []
 image: "mango-sticky-rice_vzh6ec"
 alt: "Authentic Thai Mango Sticky Rice served with coconut sauce"
 categories: ["dessert"]

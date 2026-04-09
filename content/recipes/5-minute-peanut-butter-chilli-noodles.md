@@ -2,9 +2,9 @@
 title: "5-Minute Peanut Butter Chilli Noodles"
 slug: "5-minute-peanut-butter-chilli-noodles"
 meta: {
-  seoMetaDescription: "Whip up these high-protein Peanut Butter Chilli Noodles in just 5 minutes. A perfect one-pan vegan meal with garlic, ginger, and a spicy kick."
+  seoMetaDescription: "High-protein Peanut Butter Chilli Noodles in 5 minutes. A sharp, spicy, one-pan vegan meal with raw garlic and ginger."
 } 
-description: "A mouthwatering dish of Peanut Butter Chili Noodles with a fresh twist of garlic and ginger. This recipe balances the creaminess of peanut butter with a sharp chili kick—perfect for busy weeknights."
+description: "A brilliant balance of heavy peanut butter fats and sharp chilli heat. Using the starchy noodle water emulsifies the sauce instantly, while raw ginger and garlic provide a punchy, anti-inflammatory kick. A top-tier post-workout dinner ready faster than a takeaway."
 image: "5-minute-peanut-butter-chilli-noodle_getziq"
 alt: "5-Minute Peanut Butter Chilli Noodles in a bowl"
 categories: ["5-minute-meals", "vegan", "high-protein"]

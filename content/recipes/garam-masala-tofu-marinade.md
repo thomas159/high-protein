@@ -2,9 +2,9 @@
 title: "Indian Garam Masala Tofu Marinade"
 slug: "garam-masala-tofu-marinade"
 meta: {
-  seoMetaDescription: "Easy Garam Masala Tofu Marinade. High-protein vegan recipe with ginger, garlic, and Indian spices. Perfect for air-frying or grilling."
+  seoMetaDescription: "Indian Garam Masala Tofu Marinade. A high-protein vegan recipe with deep, aromatic spices perfect for the air fryer."
 } 
-description: "Elevate your plant-based cooking with this bold, Indian-inspired Garam Masala Tofu Marinade. Infused with fresh ginger, garlic, and earthy spices, this vegan-friendly recipe creates a perfectly charred, aromatic crust on every cube. A high-protein, healthy meal prep staple that’s ready for the air fryer, grill, or pan in minutes."
+description: "Elevate your meal prep with this bold Garam Masala marinade. The lime juice tenderises the tofu, letting the earthy ginger, garlic, and Indian spices penetrate right to the core. High-protein, totally vegan, and builds a phenomenal charred crust in the air fryer."
 image: "garam-masala-tofu-marinade_yfdnmb"
 alt: "Garam masala marinated tofu cubes ready for cooking"
 pintrest: ""

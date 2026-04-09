@@ -2,9 +2,9 @@
 title: "Sticky Honey Glaze Tofu Marinade"
 slug: "honey-glaze-tofu-marinade"
 meta: {
-  seoMetaDescription: "Easy Honey Soy Tofu Marinade. A sweet, savory, and sticky vegetarian recipe for air-fried or grilled tofu. Ready in 20 minutes."
+  seoMetaDescription: "Sticky Honey Glaze Tofu Marinade. A sweet and savoury vegetarian recipe that builds a perfectly caramelised crust in the air fryer."
 } 
-description: 'Transform your tofu into a golden, caramelized treat with this Honey Glaze Marinade. Balancing the floral sweetness of honey with the savory umami of soy sauce and a bright lemon "zing," this 10-minute marinade creates a restaurant-style glaze. Perfectly seasoned with cumin and paprika, it’s a high-protein vegetarian staple for air-frying, grilling, or pan-searing.'
+description: "Transform plain tofu into a golden, caramelised treat. The natural sugars in the honey react with the intense heat of the air fryer, building a glossy, lacquered crust. Balanced with salty soy sauce and a zing of lemon, it's a high-protein staple that genuinely slaps."
 image: "honey-glaze-tofu-marinade_1_rykscd"
 alt: "Honey glaze marinated tofu cubes"
 pintrest: ""

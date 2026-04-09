@@ -2,9 +2,9 @@
 title: "Low-Calorie Air Fryer Protein Cheesecake"
 slug: "air-fryer-low-calorie-cheesecake"
 meta: {
-  seoMetaDescription: "Bake a low-calorie, high-protein Cheesecake in your air fryer. A guilt-free, keto-friendly American dessert made with Greek yogurt and cream cheese."
+  seoMetaDescription: "Low-Calorie Air Fryer Protein Cheesecake. A guilt-free, macro-friendly dessert made with Greek yoghurt and zero sugar."
 }
-description: "Indulge in the creamy and delicious taste of cheesecake without the guilt with this Air Fryer Low Calorie Cheesecake recipe. This recipe uses cream cheese, Greek yogurt, and a calorie free sweetener to create a healthier version of the classic dessert."
+description: "Hit your cheesecake craving without destroying your macros. By swapping heavy cream for Greek yoghurt and using a zero-calorie sweetener, you get a dense, protein-packed treat. The air fryer perfectly sets the centre in 20 minutes. Pure comfort, successfully refactored."
 image: "air-fryer-low-calorie-cheesecake_ekn9ky"
 alt: "Air fryer low calorie cheesecake in a ramekin"
 categories: ["air-fryer", "keto", "dessert"]

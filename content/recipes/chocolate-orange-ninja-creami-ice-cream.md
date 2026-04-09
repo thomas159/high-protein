@@ -2,9 +2,9 @@
 title: "High-Protein Chocolate Orange Ninja Creami"
 slug: "chocolate-orange-ninja-creami-ice-cream"
 meta: {
-  seoMetaDescription: "Make a creamy, high-protein Chocolate Orange Ice Cream in your Ninja Creami. A guilt-free, delicious dessert with over 60g of protein."
+  seoMetaDescription: "A massive 60g protein hit disguised as decadent Chocolate Orange Ice Cream. Guilt-free, macro-friendly dessert made in the Ninja Creami."
 } 
-description: "Satisfy your sweet tooth with this incredibly creamy, high-protein Chocolate Orange Ice Cream made right in your Ninja Creami. By combining rich cocoa powder, chocolate protein, and bright citrusy orange zest, you get a decadent, guilt-free treat that tastes like classic orange chocolate."
+description: "Over 60g of protein disguised as a decadent chocolate orange dessert. Using the Ninja Creami turns this macro-friendly mix of whey and cocoa into a gelato-like dream. It's the ultimate cheat code for hitting your protein targets without eating another dry chicken breast."
 image: "chocolate-orange-ninja-creami-ice-cream_buvbv2"
 alt: "Chocolate orange protein ice cream in a Ninja Creami pint"
 pintrest: ""

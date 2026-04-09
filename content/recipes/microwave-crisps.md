@@ -2,9 +2,9 @@
 title: "Healthy Microwave Potato Crisps"
 slug: "microwave-crisps"
 meta: {
-  seoMetaDescription: "Make perfectly crunchy potato crisps in the microwave. A healthy, vegan, and guilt-free American snack ready in just 15 minutes."
+  seoMetaDescription: "Perfectly crunchy potato crisps made in the microwave. A healthy, low-oil snack that hits your salty cravings without ruining your macros."
 }
-description: "Experience the satisfying crunch of homemade crisps without the deep-fryer. These microwave crisps deliver all the bold flavor of the classic snack with a fraction of the oil, making them a remarkably healthy, guilt-free alternative that’s ready in minutes"
+description: "Crisps don't have to ruin your diet. The microwave aggressively evaporates the moisture right out of the potato slices, leaving a massive crunch with barely any oil. A totally guilt-free, low-calorie snack that's ready before the kettle boils."
 image: "microwave-crisps_loaj1f"
 alt: "Crunchy microwave potato crisps in a bowl"
 pintrest: ""

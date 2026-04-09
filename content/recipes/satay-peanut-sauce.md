@@ -2,9 +2,9 @@
 title: "Authentic 10-Minute Thai Satay Peanut Sauce"
 slug: "satay-peanut-sauce"
 meta: {
-  seoMetaDescription: "Create a velvety Thai Satay Peanut Sauce in 10 minutes. A rich, creamy, and spicy dip or stir-fry base made with coconut milk and roasted peanuts."
+  seoMetaDescription: "Authentic 10-Minute Thai Satay Peanut Sauce. A rich, spicy, and creamy dip loaded with healthy fats and bold Thai flavour."
 }
-description: "This Velvety Thai Satay Sauce is the ultimate multi-tasker for your kitchen. Crafted from a base of rich coconut milk, earthy roasted peanuts, and a hint of red curry heat, it strikes the perfect balance between savory, sweet, and spicy. Whether you're looking for a glossy stir-fry glaze or a thick, indulgent dip for skewers, this 10-minute sauce is a game-changer for authentic Southeast Asian flavor."
+description: "A top-tier multi-tasker for your kitchen. By 'blooming' the red curry paste in coconut milk, you unlock hours of slow-cooked flavour in just 10 minutes. Loaded with crushed peanuts and tangy tamarind, it's an indulgent, healthy fat source perfect for dipping skewers or dressing noodles."
 blurb: []
 tipsTitle: "Sauce Mastery"
 tips:

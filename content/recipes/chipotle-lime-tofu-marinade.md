@@ -3,9 +3,9 @@ title: "Smoky Chipotle Lime Tofu Marinade"
 slug: "chipotle-lime-tofu-marinade"
 image: ""
 meta: {
-  seoMetaDescription: "Smoky Chipotle Lime Tofu Marinade recipe. Easy, vegan, and high-protein. Perfect for charred air-fryer tofu or grilled tacos."
+  seoMetaDescription: "Smoky Chipotle Lime Tofu Marinade. A zesty, high-protein vegan recipe perfect for charred Mexican tacos or protein bowls."
 } 
-description: "Give your plant-based meals a bold Mexican-inspired kick with this Smoky Chipotle Lime Marinade. Combining the deep, earthy heat of chipotle peppers with the vibrant zest of fresh lime, this recipe creates a beautifully charred, zesty crust. High-protein, vegan, and perfect for tacos, grain bowls, or meal-prep salads"
+description: "Give your meal prep a serious Mexican-inspired kick. The lime juice breaks down the dense outer layer of the tofu, letting the deep, smoky chipotle oils penetrate right to the core. It caramelises beautifully in the air fryer, giving you a massive high-protein punch for your tacos."
 image: "chipotle-lime-tofu-marinade_ymiqee"
 alt: "Chipotle lime marinated tofu pieces"
 pintrest: ""

@@ -2,13 +2,10 @@
 title: "15-Minute Microwave Cherry Tomato & Courgette Risotto"
 slug: "15-minute-cherry-tomato-and-courgette-risotto"
 meta: {
-  seoMetaDescription: "Make this quick, creamy 15-minute Cherry Tomato and Zucchini Risotto in the microwave. A perfect, comforting vegetarian meal for busy weeknights."
+  seoMetaDescription: "A creamy 15-minute Cherry Tomato and Courgette Risotto made in the microwave. The ultimate zero-effort, high-carb recovery meal."
 }
-description: "This 15-minute Cherry Tomato and Zucchini Risotto is a quick and easy way to enjoy the classic dish without spending hours in the kitchen. Made using a microwave, this recipe is perfect for busy weeknights or when you're craving a comforting and satisfying meal."
-blurb: 
-  - "The combination of sweet and tangy cherry tomatoes, tender zucchini and creamy risotto creates a delicious and satisfying dish that is perfect for any occasion. The risotto is made with Arborio rice, which is known for its creamy texture and ability to absorb liquid. The cherry tomatoes and zucchini are added in the last few minutes of cooking for a burst of flavor and texture."
-  - "One of the best things about this recipe is that it is versatile, you can add any vegetables you have on hand, such as mushrooms, bell peppers, or asparagus."
-  - "This recipe is also great for meal prep, you can make a big batch and enjoy it throughout the week, it reheats well in the microwave."
+description: "A proper Italian risotto without standing over a hot stove stirring for 40 minutes like a mug. The microwave steams the arborio rice perfectly, forcing it to release its starches into a creamy sauce. A rapid, carb-heavy recovery meal loaded with fresh courgette and tomatoes."
+blurb: []
 image: "15-minute-cherry-tomato-and-courgette-risotto_1_lsbbrh"
 alt: "15-minute cherry tomato and courgette risotto in a bowl"
 categories: ["dinner", "microwave", "15-minute-meals"]

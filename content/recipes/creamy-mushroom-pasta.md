@@ -2,9 +2,9 @@
 title: "20-Minute Creamy Garlic Mushroom Pasta"
 slug: "creamy-mushroom-pasta"
 meta: {
-  seoMetaDescription: "Master the ultimate Creamy Mushroom Pasta in just 20 minutes. This easy, one-pan recipe uses white wine and parmesan to create a silkier, restaurant-style sauce. Perfectly sautéed golden mushrooms meeting rich, buttery comfort—your new favorite weeknight dinner."
+  seoMetaDescription: "20-Minute Creamy Garlic Mushroom Pasta. An indulgent, high-carb vegetarian recovery meal packed with umami and parmesan."
 } 
-description: "Indulge in a bowl of pure comfort with this Creamy Mushroom Pasta. By sautéing the mushrooms until they reach a deep, golden-brown 'umami' stage and deglazing with a splash of crisp white wine, we build layers of flavor that you'd usually only find in a high-end bistro. Finished with velvety cream and a generous handful of parmesan, this sauce clings perfectly to every strand of pasta for a rich, luxurious bite every time."
+description: "A bowl of pure comfort for when you need a serious carb reload. Searing the mushrooms hard creates a deep, meaty umami crust, while the starchy pasta water emulsifies the cream and parmesan into a flawless, silky sauce. A restaurant-quality dish ready in 20 minutes."
 image: "creamy-mushroom-pasta_m6794q"
 alt: "Creamy mushroom pasta garnished with fresh herbs"
 categories: ["dinner", "vegetarian", "pasta"]

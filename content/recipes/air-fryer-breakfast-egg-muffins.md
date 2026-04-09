@@ -2,12 +2,10 @@
 title: "High-Protein Air Fryer Breakfast Egg Muffins"
 slug: "air-fryer-breakfast-egg-muffins"
 meta: {
-  seoMetaDescription: "Make these quick and healthy Air Fryer Breakfast Egg Muffins in just 10 minutes. Packed with feta and sun-dried tomatoes for a high-protein start to your day."
+  seoMetaDescription: "Air Fryer Breakfast Egg Muffins with feta and sun-dried tomatoes. A rapid, high-protein grab-and-go breakfast ready in 10 minutes."
 }
-description: "If you're looking for a quick and easy breakfast option that's both delicious and healthy, then these Air Fryer Breakfast Egg Muffins are the perfect choice. Made with scrambled eggs, feta cheese, and sun-dried tomatoes, these muffins are packed with flavor and are sure to start your morning off on the right foot."
-blurb: 
-  - "The best part is that they can be made right in your air fryer, making them a convenient and time-saving option for busy mornings."
-  - "These air fryer breakfast egg muffins are a healthy, delicious, and convenient way to start your day. They're packed with protein and are a great way to fuel your body and give you the energy you need to tackle your day. Give this recipe a try and see how easy and delicious breakfast can be!"
+description: "Start your day with a solid hit of protein. These egg muffins pack sharp feta and sweet sun-dried tomatoes into an efficient, grab-and-go format. 10 minutes in the air fryer gives them a perfectly puffed texture, so you're fuelled up and sorted for the day."
+blurb: []
 image: "air-fryer-breakfast-egg-muffins_thu9o8"
 alt: "Air fryer breakfast egg muffins with feta and sun-dried tomatoes"
 pintrest: ""

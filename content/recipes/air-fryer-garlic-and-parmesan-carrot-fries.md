@@ -2,9 +2,9 @@
 title: "Crispy Air Fryer Garlic Parmesan Carrot Fries"
 slug: "air-fryer-garlic-and-parmesan-carrot-fries"
 meta: {
-  seoMetaDescription: "Make delicious, crispy air fryer garlic and parmesan carrot fries in just 20 minutes. A healthy, sweet, and savory alternative to potato fries."
+  seoMetaDescription: "Crispy Air Fryer Garlic Parmesan Carrot Fries. A low-calorie, sweet and savoury alternative to potato chips ready in 20 minutes."
 }
-description: "You’re only going to love these air fryer carrot fries. They’re sweet and savory, with a crispy texture that’s not too healthy, but oh so good. The garlic and parmesan really make this one special. Who needs fries at all?"
+description: "A brilliant low-calorie swap for standard chips. The circulating heat of the air fryer crisps up the parmesan and roasts the carrots until they're perfectly sweet and savoury. A fantastic side dish to bulk up the volume of your meal without blowing your daily calorie budget."
 blurb: []
 image: "air-fryer-garlic-and-parmesan-carrot-fries_fumihc"
 alt: "Air fryer garlic and parmesan carrot fries on a plate"

@@ -2,9 +2,9 @@
 title: "15-Minute Crispy Sticky Korean Tofu"
 slug: "15-minute-crispy-sticky-korean-tofu"
 meta: {
-  seoMetaDescription: "A high-protein vegan Korean tofu dish ready in 15 minutes. Crispy tofu glazed in a sweet and spicy Gochujang sauce."
+  seoMetaDescription: "15-Minute Crispy Sticky Korean Tofu. A high-protein vegan dish with a fiery, sweet Gochujang glaze and a shatter-crisp shell."
 } 
-description: "Fried until golden and tossed in a harmonious sweet and spicy Gochujang glaze. This dish brings the bold flavors of Korean street food to your kitchen in just 15 minutes."
+description: "Shatter-crisp tofu coated in a fiery, sweet Gochujang glaze. By drying the tofu properly, you get a golden crust without deep-frying. The sugar caramelises instantly in the pan, delivering a sticky, bold Korean street food vibe in 15 minutes. Pure plant-based fuel."
 image: "15-minute-crispy-sticky-korean-tofu_vu0qlh"
 alt: "15-Minute Crispy Sticky Korean Tofu garnished with sesame seeds"
 pintrest: "sticky-korean-tofu-pintrest_qh2wsc"

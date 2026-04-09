@@ -2,9 +2,9 @@
 title: "No-Bake 5-Ingredient Energy Protein Balls"
 slug: "no-bake-5-ingredient-protein-balls"
 meta: {
-  seoMetaDescription: "Easy No-Bake Protein Ball recipe. 5 ingredients and high in protein. Perfect healthy snack for meal prep."
+  seoMetaDescription: "Easy No-Bake 5-Ingredient Protein Balls. The ultimate healthy meal-prep snack for a pre-workout boost or beating afternoon cravings."
 } 
-description: "Fuel your day with these quick, 5 minute No-Bake Protein Balls. Packed with healthy fats and protein, these bite-sized snacks are refined sugar-free and require zero cooking. The perfect pre-workout boost or healthy afternoon snack for busy meal-preppers."
+description: "Fuel your training block with these quick, 5-minute No-Bake Protein Balls. Packed with healthy fats from peanut butter and slow-digesting carbs from oats, they perfectly trap your protein powder without needing an oven. The ultimate grab-and-go snack for a pre-workout boost."
 image: "no-bake-5-ingredient-protein-balls_kvwhmm"
 alt: "No-bake 5 ingredient protein balls stacked together"
 pintrest: ""
