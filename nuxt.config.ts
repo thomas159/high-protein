@@ -29,7 +29,7 @@ export default defineNuxtConfig({
   },
   // Site Configuration
   site: {
-    url: 'https://hotrecipes.co.uk',
+    url: 'https://www.hotrecipes.co.uk',
     name: 'Spicy & Healthy Recipes',
     description: 'Quick, low-calorie meals for busy weeknights.',
     defaultLocale: 'en',
