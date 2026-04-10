@@ -16,6 +16,6 @@ export default defineAppConfig({
     image: '/cover.png',
     author: 'Tom Harrison',
     publisher: 'Tom Harrison',
-    canonical: 'https://hotrecipes.co.uk'
+    canonical: 'https://www.hotrecipes.co.uk'
   }
 })
