@@ -2,9 +2,9 @@
 title: "The Quickest, Crispiest 15-Minute Spicy Kimchi Fried Rice"
 slug: "kim-chi-fried-rice"
 meta: {
-  seoMetaDescription: "15-Minute Spicy Kimchi Fried Rice. A smoky, umami-packed vegetarian comfort meal crowned with a perfect fried egg."
+  seoMetaDescription: "Need a spicy recovery meal fast? The quickest, crispiest 15-minute spicy kimchi fried rice delivers smoky umami punch. Minimal prep, maximum flavor!"
 }
-description: "The ultimate recovery meal when you need serious flavour fast. Aged kimchi brings instant fermented tang and umami to the pan, while a high-heat sear gives the rice those coveted crispy edges. Crowned with a golden fried egg, it hits absolutely every macro and taste bud."
+description: "The ultimate recovery meal when you need serious flavour fast. Aged kimchi brings instant fermented tang and umami to the pan, while a high-heat sear delivers the quickest, crispiest 15-minute edges. Minimal prep, maximum flavour, and crowned with a golden fried egg, it hits absolutely every macro."
 blurb: []
 image: "kim-chi-fried-rice_a4xo6n"
 alt: "Kimchi fried rice topped with a fried egg"

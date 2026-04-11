@@ -2,9 +2,9 @@
 title: "The Quickest, Crispiest 5-Minute Microwave Potato Crisps"
 slug: "microwave-crisps"
 meta: {
-  seoMetaDescription: "Perfectly crunchy potato crisps made in the microwave. A healthy, low-oil snack that hits your salty cravings without ruining your macros."
+  seoMetaDescription: "Craving salty snacks? These quickest, crispiest 5-minute microwave potato crisps hit the spot without ruining your macros. Minimal prep, maximum flavor."
 }
-description: "Crisps don't have to ruin your diet. The microwave aggressively evaporates the moisture right out of the potato slices, leaving a massive crunch with barely any oil. A totally guilt-free, low-calorie snack that's ready before the kettle boils."
+description: "Crisps don't have to ruin your diet. The microwave aggressively evaporates the moisture right out of the potato slices, leaving the quickest, crispiest 5-minute crunch with barely any oil. Minimal prep, maximum flavour, and a totally guilt-free, low-calorie snack that's ready before the kettle boils."
 image: "microwave-crisps_loaj1f"
 alt: "Crunchy microwave potato crisps in a bowl"
 pintrest: ""

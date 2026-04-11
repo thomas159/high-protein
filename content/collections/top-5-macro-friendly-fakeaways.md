@@ -1,7 +1,7 @@
 ---
-title: "Top 5 Macro-Friendly Fakeaways"
-slug: "top-5-macro-friendly-fakeaways"
-description: "Let’s be honest, we all crave a dirty takeaway after a brutal training block. But dropping thirty quid just to absolutely obliterate your weekend calorie deficit is a rookie error. Here are my top five 'fakeaways'. Maximum flavour, serious volume, and you'll be eating before the delivery driver would have even left the restaurant."
+title: "The Ultimate Easy Macro-Friendly Fakeaways"
+slug: "easy-macro-friendly-fakeaways"
+description: "Let’s be honest, we all crave a dirty takeaway after a brutal training block. But dropping thirty quid just to absolutely obliterate your weekend calorie deficit is a rookie error. Here are my top five ultimate easy fakeaways. Minimal prep, maximum flavour, serious volume, and you'll be eating before the delivery driver would have even left the restaurant."
 image: "air-fryer-pizza-tortilla-wrap_ko6ckn"
 recipes:
   - slug: "air-fryer-pizza-tortilla-wrap"

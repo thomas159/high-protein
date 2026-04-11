@@ -2,9 +2,9 @@
 title: "Easy 15-Minute Ultra-Creamy Microwave Courgette Risotto"
 slug: "15-minute-cherry-tomato-and-courgette-risotto"
 meta: {
-  seoMetaDescription: "A creamy 15-minute Cherry Tomato and Courgette Risotto made in the microwave. The ultimate zero-effort, high-carb recovery meal."
+  seoMetaDescription: "Want risotto fast? This easy 15-minute ultra-creamy microwave courgette risotto is the ultimate high-carb recovery meal. Minimal prep, maximum flavor!"
 }
-description: "A proper Italian risotto without standing over a hot stove stirring for 40 minutes like a mug. The microwave steams the arborio rice perfectly, forcing it to release its starches into a creamy sauce. A rapid, carb-heavy recovery meal loaded with fresh courgette and tomatoes."
+description: "A proper Italian risotto without standing over a hot stove stirring for 40 minutes like a mug. The microwave steams the arborio rice perfectly, forcing it to release its starches into an easy 15-minute ultra-creamy sauce. Minimal prep, maximum flavour, and loaded with fresh courgette for a rapid recovery meal."
 blurb: []
 image: "15-minute-cherry-tomato-and-courgette-risotto_1_lsbbrh"
 alt: "15-minute cherry tomato and courgette risotto in a bowl"

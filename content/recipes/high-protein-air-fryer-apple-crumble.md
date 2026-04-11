@@ -2,9 +2,9 @@
 title: "Easy 25-Minute Extra Crunchy Air Fryer Apple Crumble"
 slug: "high-protein-air-fryer-apple-crumble"
 meta: {
-  seoMetaDescription: "A 25-minute, high-protein Apple Crumble made in the air fryer. The perfect muscle-building dessert with zero mess and maximum crunch."
+  seoMetaDescription: "Muscle-building dessert! This easy 25-minute extra crunchy air fryer apple crumble delivers macro-friendly satisfaction. Minimal prep, maximum flavor."
 } 
-description: "A post-training dessert that doesn't ruin your diet. Steaming apples sit underneath a protein-packed, crispy oat topping baked directly in a ramekin in the air fryer. Zero messy cleanup, perfectly balanced macros, and maximum gains."
+description: "A post-training dessert that doesn't ruin your diet. Steaming apples sit underneath an easy 25-minute extra crunchy oat topping baked directly in a ramekin in the air fryer. Minimal prep, maximum flavour, zero messy cleanup, perfectly balanced macros, and maximum gains."
 image: "high-protein-air-fryer-apple-crumble_plgb9p"
 alt: "High protein air fryer apple crumble in a ramekin"
 pintrest: ""

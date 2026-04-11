@@ -2,9 +2,9 @@
 title: "The Ultimate Ultra-Creamy Chocolate Orange Ninja Creami"
 slug: "chocolate-orange-ninja-creami-ice-cream"
 meta: {
-  seoMetaDescription: "A massive 60g protein hit disguised as decadent Chocolate Orange Ice Cream. Guilt-free, macro-friendly dessert made in the Ninja Creami."
+  seoMetaDescription: "60g protein hit! The ultimate ultra-creamy chocolate orange Ninja Creami is a guilt-free, macro-friendly masterpiece. Minimal prep, maximum flavor."
 } 
-description: "Over 60g of protein disguised as a decadent chocolate orange dessert. Using the Ninja Creami turns this macro-friendly mix of whey and cocoa into a gelato-like dream. It's the ultimate cheat code for hitting your protein targets without eating another dry chicken breast."
+description: "Over 60g of protein disguised as a decadent chocolate orange dessert. Using the Ninja Creami turns this macro-friendly mix of whey and cocoa into the ultimate ultra-creamy gelato-like dream. Minimal prep, maximum flavour, and the absolute cheat code for hitting your targets without eating another dry chicken breast."
 image: "chocolate-orange-ninja-creami-ice-cream_buvbv2"
 alt: "Chocolate orange protein ice cream in a Ninja Creami pint"
 pintrest: ""

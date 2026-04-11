@@ -2,9 +2,9 @@
 title: "The Ultimate Extra Crispy Air Fryer Mozzarella Sticks"
 slug: "air-fryer-mozarella-sticks"
 meta: {
-  seoMetaDescription: "Bin the shop-bought frozen rubbish. These crispy Air Fryer Mozzarella Sticks deliver a massive cheese pull and deep-fried crunch with a fraction of the oil."
+  seoMetaDescription: "Bin the shop-bought rubbish. These ultimate extra crispy air fryer mozzarella sticks deliver a massive cheese pull in just 10 minutes. Minimal prep, maximum flavor!"
 }
-description: "Skip the frozen aisle. The double-breading on these mozzarella sticks locks the cheese inside, preventing any messy leaks in your air fryer basket. You get a massive cheese pull and a deep-fried crunch without the heavy oil, making it the perfect post-match snack to hit your protein targets."
+description: "Skip the frozen aisle. The double-breading on these mozzarella sticks locks the cheese inside, preventing any messy leaks in your air fryer basket. You get the ultimate extra crispy crunch and a massive cheese pull in just 10 minutes. Minimal prep, maximum flavour, and it's the perfect post-match snack to hit your protein targets."
 image: "air-fryer-mozarella-sticks_oiud1f"
 alt: "Crispy air fryer mozzarella sticks with a cheese pull"
 pintrest: ""

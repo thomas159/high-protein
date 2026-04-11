@@ -2,9 +2,9 @@
 title: "Easy 20-Minute Extra Crispy Air Fryer Kimchi Fries"
 slug: "air-fryer-kim-chi-fries"
 meta: {
-  seoMetaDescription: "Cheesy, crunchy 20-minute Air Fryer Kimchi Fries. The ultimate spicy weekend refeed meal packed with umami and melted cheese."
+  seoMetaDescription: "Ultimate weekend refeed? These easy 20-minute extra crispy air fryer kimchi fries are packed with umami and melted cheese. Minimal prep, maximum flavor."
 } 
-description: "A brilliant fusion of spicy, fermented kimchi and melted cheddar over extra crispy fries. The air fryer blasts away the moisture, giving you a deep-fried crunch without being weighed down by oil. The ultimate weekend refeed meal that cooks in 20 minutes flat."
+description: "A brilliant fusion of spicy, fermented kimchi and melted cheddar over easy 20-minute extra crispy fries. The air fryer blasts away the moisture, giving you a deep-fried crunch without being weighed down by oil. Minimal prep, maximum flavour, and the ultimate weekend cheat meal that actually fits your macros."
 image: "air-fryer-kim-chi-fries_u7kuzj"
 alt: "Air fryer kimchi fries topped with melted cheese and sesame seeds"
 pintrest: ""

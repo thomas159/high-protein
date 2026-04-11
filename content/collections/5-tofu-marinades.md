@@ -1,7 +1,7 @@
 ---
-title: "Top 5 High-Protein Tofu Marinades"
-slug: "5-tofu-marinades"
-description: "Stop eating bland, rubbery tofu. If you're serious about hitting your protein targets on a plant-based diet, you need to treat your prep with some respect. A solid marinade breaks down the dense exterior and injects massive flavour right to the core. Here are my top five rapid-fire marinades to superset your meal prep and actually make you look forward to lunch."
+title: "The Ultimate Quick High-Protein Tofu Marinades"
+slug: "quick-high-protein-tofu-marinades"
+description: "Stop eating bland, rubbery tofu. If you're serious about hitting your protein targets on a plant-based diet, you need to treat your prep with some respect. A solid marinade breaks down the dense exterior and injects massive flavour right to the core. Here are my top five quick high-protein marinades. Minimal prep, maximum flavour, and guaranteed to superset your meal prep so you actually look forward to lunch."
 image: "garam-masala-tofu-marinade_yfdnmb"
 recipes:
   - slug: "chipotle-lime-tofu-marinade"

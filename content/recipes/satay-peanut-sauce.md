@@ -2,9 +2,9 @@
 title: "Quick 10-Minute Ultra-Creamy Thai Satay Peanut Sauce"
 slug: "satay-peanut-sauce"
 meta: {
-  seoMetaDescription: "Authentic 10-Minute Thai Satay Peanut Sauce. A rich, spicy, and creamy dip loaded with healthy fats and bold Thai flavour."
+  seoMetaDescription: "Need a premium dip? This quick 10-minute ultra-creamy Thai satay peanut sauce delivers bold, spicy healthy fats. Minimal prep, maximum flavor."
 }
-description: "A top-tier multi-tasker for your kitchen. By 'blooming' the red curry paste in coconut milk, you unlock hours of slow-cooked flavour in just 10 minutes. Loaded with crushed peanuts and tangy tamarind, it's an indulgent, healthy fat source perfect for dipping skewers or dressing noodles."
+description: "A top-tier multi-tasker for your kitchen. By 'blooming' the red curry paste in coconut milk, you unlock a quick 10-minute ultra-creamy flavour bomb. Minimal prep, maximum flavour, and loaded with crushed peanuts and tangy tamarind. An indulgent, healthy fat source perfect for dipping skewers or dressing noodles."
 blurb: []
 tipsTitle: "Sauce Mastery"
 tips:

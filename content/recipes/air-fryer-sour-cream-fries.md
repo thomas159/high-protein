@@ -2,9 +2,9 @@
 title: "Extra Crispy Air Fryer Sour Cream & Onion Fries"
 slug: "air-fryer-sour-cream-fries"
 meta: {
-  seoMetaDescription: "Enjoy these Air Fryer Sour Cream Fries for a crispy, savory snack. Tossed in a velvety garlic and sour cream sauce, ready in under 30 minutes."
+  seoMetaDescription: "Craving a savory snack? These 25-minute extra crispy air fryer sour cream & onion fries hit the spot with a velvety garlic sauce. Minimal prep, maximum flavor."
 }
-description: "Elevate your side dish game with these irresistible Sour Cream Fries. Extra crispy on the outside and fluffy in the center, every golden fry is drizzled with a velvety, garlic-infused sour cream sauce. A perfect 25-minute balance of savory, tangy, and crunchy textures—guaranteed to be the highlight of your next meal or party platter"
+description: "Elevate your side dish game with these irresistible Sour Cream Fries. Extra crispy on the outside and fluffy in the center, every golden fry is drizzled with a velvety, garlic-infused sour cream sauce. An easy 25-minute treat that delivers minimal prep, maximum flavour, and the perfect balance of savory textures."
 image: "air-fryer-sour-cream-fries_k2lvbn"
 alt: "Air fryer fries drizzled with garlic sour cream sauce"
 pintrest: ""

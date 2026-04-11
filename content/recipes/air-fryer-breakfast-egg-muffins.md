@@ -2,9 +2,9 @@
 title: "Quick & Easy 10-Minute Air Fryer Breakfast Egg Muffins"
 slug: "air-fryer-breakfast-egg-muffins"
 meta: {
-  seoMetaDescription: "Air Fryer Breakfast Egg Muffins with feta and sun-dried tomatoes. A rapid, high-protein grab-and-go breakfast ready in 10 minutes."
+  seoMetaDescription: "Start your day right with these quick & easy 10-minute air fryer breakfast egg muffins. Minimal prep, maximum flavor, and perfectly puffed every time!"
 }
-description: "Start your day with a solid hit of protein. These egg muffins pack sharp feta and sweet sun-dried tomatoes into an efficient, grab-and-go format. 10 minutes in the air fryer gives them a perfectly puffed texture, so you're fuelled up and sorted for the day."
+description: "Start your day with a solid hit of protein. These quick & easy 10-minute egg muffins pack sharp feta and sweet sun-dried tomatoes into an efficient, grab-and-go format. Minimal prep, maximum flavour, and the air fryer gives them a perfectly puffed texture so you're fuelled up and sorted for the day."
 blurb: []
 image: "air-fryer-breakfast-egg-muffins_thu9o8"
 alt: "Air fryer breakfast egg muffins with feta and sun-dried tomatoes"

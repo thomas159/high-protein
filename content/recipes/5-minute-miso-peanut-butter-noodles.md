@@ -2,9 +2,9 @@
 title: "Easy 5-Minute Ultra-Creamy Miso Peanut Butter Noodles"
 slug: "5-minute-miso-peanut-butter-noodles"
 meta: {
-  seoMetaDescription: "High-protein, creamy Miso Peanut Butter Noodles in 5 minutes. The ultimate umami-packed vegan comfort food for busy athletes."
+  seoMetaDescription: "Need an emergency dinner? These easy 5-minute ultra-creamy miso peanut butter noodles are packed with vegan protein. Minimal prep, maximum umami flavor!"
 } 
-description: "The ultimate 5-minute emergency meal. Whisking peanut butter into warm miso creates a stable, creamy emulsion that coats every single noodle. A massive hit of umami and healthy fats—superset this with some edamame and you've got a serious post-gym dinner."
+description: "The ultimate 5-minute emergency meal. Whisking peanut butter into warm miso creates an easy, ultra-creamy emulsion that coats every single noodle perfectly. Minimal prep, maximum flavour, and a massive hit of umami and healthy fats—superset this with some edamame and you've got a serious post-gym dinner."
 image: "5-minute-miso-peanut-butter-noodles_eo9aef"
 alt: "5-Minute Miso Peanut Butter Noodles garnished with spring onions"
 categories: ["5-minute-meals", "vegan", "high-protein"]

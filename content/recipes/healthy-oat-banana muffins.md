@@ -2,9 +2,9 @@
 title: "Easy 15-Minute Fudgy High-Protein Oat Banana Muffins"
 slug: "healthy-oat-banana-muffins"
 meta: {
-  seoMetaDescription: "High-protein Oat Banana Muffins baked in the air fryer. A quick, muscle-building sweet treat ready in 15 minutes."
+  seoMetaDescription: "Craving a sweet treat fast? These easy 15-minute fudgy high-protein oat banana muffins deliver. Minimal prep, maximum flavor, and totally macro-balanced!"
 }
-description: "A macro-balanced powerhouse that actually tastes like a proper dessert. We've binned the refined flour for oats and Greek yoghurt to keep your nutrition completely on point. A quick, fudge-like pre-workout carb boost that compiles perfectly in the air fryer."
+description: "A macro-balanced powerhouse that actually tastes like a proper dessert. We've binned the refined flour for oats and Greek yoghurt to keep your nutrition completely on point. These easy 15-minute muffins require minimal prep, deliver maximum flavour, and compile perfectly in the air fryer for a rapid pre-workout carb boost."
 blurb: []
 image: "healthy-banana-oat-muffins_n0f9xa"
 alt: "Healthy oat banana muffins fresh out of the air fryer"

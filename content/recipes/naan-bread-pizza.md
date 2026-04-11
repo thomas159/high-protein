@@ -2,9 +2,9 @@
 title: "Easy 10-Minute Crispy Mango Paneer Naan Pizza"
 slug: "naan-bread-pizza"
 meta: {
-  seoMetaDescription: "10-minute Mango and Paneer Naan Pizza. A rapid Indian-fusion dinner that's sweet, spicy, and packed with vegetarian protein."
+  seoMetaDescription: "Skip the takeaway with this easy 10-minute crispy mango paneer naan pizza. Minimal prep, maximum flavor, and the ultimate quick Indian-fusion dinner."
 }
-description: "A fluffy naan bread makes the perfect low-effort pizza base, sidestepping the absolute nightmare of making dough from scratch. Sweet mango chutney, creamy paneer, and a spicy kick—a massive flavour upgrade for your weeknight dinner rotation that cooks in 10 minutes."
+description: "A fluffy naan bread makes the perfect low-effort pizza base, sidestepping the absolute nightmare of making dough from scratch. Sweet mango chutney, creamy paneer, and a spicy kick—this easy 10-minute recipe guarantees minimal prep, maximum flavour, and a massive upgrade for your weeknight dinner rotation."
 blurb: []
 image: "naan-bread-pizza_m9ikl5"
 alt: "Naan bread pizza with mango chutney and paneer"

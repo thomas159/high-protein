@@ -1,7 +1,7 @@
 ---
-title: "Top 5 Quick Air Fryer Snacks & Treats"
-slug: "5-air-fryer-snacks"
-description: "When the post-training hunger hits, you need rapid solutions, not a 40-minute cooking project. The air fryer is the undisputed king of quick macro-friendly food—delivering maximum crunch with zero deep-frying. From protein-packed desserts to instant savoury hits, here are my top five rapid-fire snacks to keep your recovery on track."
+title: "The Quickest, Crispiest Air Fryer Snacks & Treats"
+slug: "quickest-crispiest-air-fryer-snacks"
+description: "When the post-training hunger hits, you need rapid solutions, not a 40-minute cooking project. The air fryer is the undisputed king of quick macro-friendly food—delivering maximum crunch with zero deep-frying. From protein-packed desserts to instant savoury hits, here are my top five quickest, crispiest snacks. Minimal prep, maximum flavour, and perfect for keeping your recovery on track."
 image: "high-protein-air-fryer-apple-crumble_plgb9p"
 recipes:
   - slug: "5-minute-air-fryer-nachos"

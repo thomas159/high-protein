@@ -2,9 +2,9 @@
 title: "Quick 15-Minute Charred Garam Masala Air Fryer Tofu"
 slug: "garam-masala-tofu-marinade"
 meta: {
-  seoMetaDescription: "Indian Garam Masala Tofu Marinade. A high-protein vegan recipe with deep, aromatic spices perfect for the air fryer."
+  seoMetaDescription: "Elevate your meal prep! This quick 15-minute charred Garam Masala air fryer tofu is a high-protein vegan powerhouse. Minimal prep, maximum flavor."
 } 
-description: "Elevate your meal prep with this bold Garam Masala marinade. The lime juice tenderises the tofu, letting the earthy ginger, garlic, and Indian spices penetrate right to the core. High-protein, totally vegan, and builds a phenomenal charred crust in the air fryer."
+description: "Elevate your meal prep with this quick 15-minute Garam Masala marinade. The lime juice tenderises the tofu, letting the earthy ginger and Indian spices penetrate right to the core. Minimal prep, maximum flavour, and it builds a phenomenal charred crust in the air fryer. High-protein, totally vegan, and zero BS."
 image: "garam-masala-tofu-marinade_yfdnmb"
 alt: "Garam masala marinated tofu cubes ready for cooking"
 pintrest: ""

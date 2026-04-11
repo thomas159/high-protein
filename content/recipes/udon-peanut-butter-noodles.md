@@ -2,9 +2,9 @@
 title: "Quick 15-Minute Ultra-Creamy Peanut Butter Udon Noodles"
 slug: "udon-peanut-butter-noodles"
 meta: {
-  seoMetaDescription: "Enjoy these 15-minute Udon Peanut Butter Noodles. A quick, creamy, and high-protein vegan meal packed with vegetables and a rich peanut sauce."
+  seoMetaDescription: "Want creamy noodles fast? These quick 15-minute ultra-creamy peanut butter udon noodles are a high-protein vegan powerhouse. Minimal prep, maximum flavor."
 }
-description: "An authentic, creamy Thai Satay Sauce crafted with roasted peanuts, aromatic red curry paste, and rich coconut milk. Perfectly balanced and versatile—use it as a savory dip, a base for vibrant stir-frys, or the ultimate topping for grilled skewers"
+description: "Thick, chewy udon noodles tossed in a quick 15-minute ultra-creamy Thai peanut sauce. Crafted with roasted peanuts, aromatic red curry paste, and rich coconut milk. Minimal prep, maximum flavour, and perfectly balanced to fuel your recovery and hit your plant-based protein targets without the hassle."
 image: "udon-peanut-butter-noodles_qufch8"
 alt: "Udon peanut butter noodles with vegetables and tofu"
 pintrest: ""

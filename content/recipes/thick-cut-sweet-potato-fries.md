@@ -2,9 +2,9 @@
 title: "The Ultimate Extra Crispy Air Fryer Sweet Potato Fries"
 slug: "thick-cut-sweet-potato-fries"
 meta: {
-  seoMetaDescription: "Make crispy, thick-cut sweet potato fries in the air fryer. A delicious, vegan, and healthy American snack ready with minimal oil."
+  seoMetaDescription: "Want the perfect side dish? These ultimate extra crispy air fryer sweet potato fries are a guilt-free 30-minute vegan snack. Minimal prep, maximum flavor."
 }
-description: "Enjoy the perfect balance of sweet and savory with these thick-cut sweet potato fries. Cooked to crispy perfection in the air fryer, they offer a healthy, satisfying crunch with a fraction of the oil used in traditional frying."
+description: "Enjoy the perfect balance of sweet and savory with the ultimate extra crispy sweet potato fries. Cooked to perfection in the air fryer, they offer a healthy, satisfying crunch with a fraction of the oil. Minimal prep, maximum flavour, and the absolute heavyweight champion of macro-friendly sides."
 image: "thick-cut-sweet-potato-fries_zip294"
 alt: "Thick cut sweet potato fries stacked on a plate"
 pintrest: ""

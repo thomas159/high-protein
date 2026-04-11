@@ -1,7 +1,7 @@
 ---
-title: "6 Macro-Friendly Air-Fryer Fries Recipes"
-slug: "6-air-fryer-fries-recipes"
-description: "When the carb cravings hit hard post-workout, standard greasy takeaway chips just aren't going to cut it. You need serious volume without completely blowing your daily calorie budget. From jalapeño loaded fries to ultra-lean sweet potato wedges, here are my top six guilt-free fry recipes to superset your cheat meals and keep your macros in check."
+title: "The Ultimate Extra Crispy Air Fryer Fries"
+slug: "extra-crispy-air-fryer-fries"
+description: "When the carb cravings hit hard post-workout, standard greasy takeaway chips just aren't going to cut it. You need serious volume without completely blowing your daily calorie budget. From jalapeño loaded fries to ultra-lean sweet potato wedges, these are my top six extra crispy air fryer fry recipes. Minimal prep, maximum flavour, and the ultimate cheat code to keep your macros in check."
 image: "air-fryer-jalapeno-cheese-loaded-fries_twwfu7"
 recipes:
   - slug: "thick-cut-sweet-potato-fries"
