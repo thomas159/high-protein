@@ -17,6 +17,17 @@ const { data: airFryerRecipes } = await useAsyncData('airFryer', () => {
   return queryCollection('recipes').where('categories', 'LIKE', '%air-fryer%').limit(4).all()
 }, { default: () => [] });
 
+const { data: topCollections } = await useAsyncData('top-collections', () => {
+  return queryCollection('collections').all()
+}, { default: () => [] });
+
+const collections = computed(() => {
+  return topCollections.value.map(collection => ({
+    ...collection,
+    slug: collection.slug || collection.path?.split('/').pop()
+  }))
+});
+
 const categories = [
   { name: 'High Protein', img: 'high-protein_ozub93', link: '/categories/high-protein' },
   { name: 'Vegan', img: 'vegan_byepar', link: '/categories/vegan' },
@@ -57,7 +68,7 @@ useSeoMeta({
       title="Latest Recipes"
     />
 
-          <section class="border-y border-border py-6 my-12">
+      <section class="border-y border-border py-6 my-12">
       <div class="container mx-auto flex flex-wrap justify-center gap-4 md:gap-16">
         <NuxtLink v-for="cat in categories" :key="cat.name" :to="cat.link" class="flex flex-col items-center group">
           <!-- <span class="text-3xl mb-2 group-hover:scale-110 transition-transform">{{ cat.icon }}</span> -->
@@ -69,13 +80,16 @@ useSeoMeta({
       </div>
 
     </section>
-
-    
+    <!-- top 5 collections -->
+    <HomeMobileScroll 
+      :collections="collections" 
+      class="pt-6"
+    />
 
    <HomeMobileScroll 
       :recipes="trendingRecipes" 
       title="Trending This Week"
-      high
+      class="pt-6"
     />
   
     <HomeMobileScroll 
@@ -83,6 +97,7 @@ useSeoMeta({
       title="Air fryer Recipes"
       class="pt-6"
     />
+
     <HomeAboutMe />
     </main>
   </div>

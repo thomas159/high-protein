@@ -81,7 +81,9 @@ export default defineContentConfig({
       source: 'collections/**',
       schema: z.object({
         title: z.string().optional(),
+        slug: z.string().optional(),
         description: z.string().optional(),
+        image: z.string().optional(),
         recipes: z.array(
           z.object({
             slug: z.string(),
