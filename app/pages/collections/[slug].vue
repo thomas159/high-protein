@@ -47,18 +47,42 @@ useSeoMeta({
       </p>
     </header>
 
-    <!-- Standard Vue native grid replacing ContentRenderer -->
-    <div class="grid grid-cols-1 md:grid-cols-2 gap-x-8 gap-y-12">
-      <div v-for="item in collectionItems" :key="item.slug" class="relative flex flex-col h-full">
+    <!-- Listicle layout for rich content -->
+    <div class="space-y-12">
+      <div v-for="item in collectionItems" :key="item.slug" class="relative flex flex-col md:flex-row gap-6 md:gap-8 bg-card rounded-3xl border border-border p-4 md:p-6 shadow-sm hover:shadow-md transition-shadow">
         
         <!-- Number Badge -->
-        <div class="absolute -top-3 -left-3 z-10 flex items-center justify-center w-10 h-10 rounded-full bg-emerald-500 text-white font-black text-xl shadow-sm border-4 border-background">
+        <div class="absolute -top-4 -left-4 md:-top-5 md:-left-5 z-10 flex items-center justify-center w-12 h-12 md:w-14 md:h-14 rounded-full bg-emerald-500 text-white font-black text-xl md:text-2xl shadow-sm border-4 border-background">
           {{ item.index }}
         </div>
 
-        <!-- Render the visual Recipe Card -->
-        <RecipeCard :recipe="item.recipe" class="h-full" />
+        <!-- Image -->
+        <NuxtLink :to="`/recipes/${item.recipe.slug}`" class="w-full md:w-2/5 shrink-0 h-64 md:h-auto rounded-2xl overflow-hidden relative block">
+          <Img :src="item.recipe.image" :alt="item.recipe.alt" class="w-full h-full object-cover transition-transform duration-700 hover:scale-105" />
+        </NuxtLink>
 
+        <!-- Content -->
+        <div class="flex flex-col justify-center flex-1 py-2 pr-2">
+          <h2 class="text-2xl md:text-3xl font-bold font-display mb-3 leading-tight group">
+            <NuxtLink :to="`/recipes/${item.recipe.slug}`" class="hover:text-emerald-500 transition-colors">
+              {{ item.recipe.title }}
+            </NuxtLink>
+          </h2>
+          
+          <p class="text-muted-foreground text-lg mb-6 leading-relaxed">
+            {{ item.recipe.description }}
+          </p>
+          
+          <div class="flex flex-wrap gap-4 items-center text-xs md:text-sm font-bold uppercase tracking-wider text-muted-foreground mb-6 border-y border-border/50 py-3">
+            <div class="flex items-center gap-1.5" v-if="item.recipe.prepTimeMins !== undefined"><span class="opacity-70">⏱</span> {{ item.recipe.prepTimeMins + item.recipe.cookTimeMins }} MINS</div>
+            <div class="flex items-center gap-1.5" v-if="item.recipe.macros?.calories"><span class="opacity-70">🔥</span> {{ item.recipe.macros.calories }} KCAL</div>
+            <div class="flex items-center gap-1.5" v-if="item.recipe.macros?.protein"><span class="opacity-70">💪</span> {{ item.recipe.macros.protein }}G Protein</div>
+          </div>
+
+          <NuxtLink :to="`/recipes/${item.recipe.slug}`" class="mt-auto inline-flex items-center justify-center bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 font-bold px-6 py-3 rounded-xl hover:bg-emerald-500 hover:text-white transition-colors w-full md:w-fit">
+            Get Recipe &rarr;
+          </NuxtLink>
+        </div>
       </div>
     </div>
   </div>
