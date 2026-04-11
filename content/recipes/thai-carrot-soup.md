@@ -14,24 +14,24 @@ keywords: ["carrot soup", "thai", "coconut milk", "vegan", "red curry", "creamy"
 tags: ["vegan", "soup", "thai"]
 rating: 
 reviews: 
-tipsTitle: "Soup Secrets"
+tipsTitle: "Soup Mechanics"
 tips:
-  - "Spice Blooming: Don't skip frying the red curry paste in the coconut milk. This essential step 'blooms' the spices and removes the raw, metallic taste of the paste."
-  - "Roast for Depth: If you have extra time, try roasting the carrots in the oven until caramelized before blending them; it adds an incredible, smoky sweetness to the soup."
-  - "Consistency Control: If the soup feels too thick after blending, gradually whisk in a little extra vegetable stock until it reaches your ideal silky texture."
+  - "Spice Blooming: Frying the red curry paste in coconut fat is mandatory. It blooms the spices and kills the raw, metallic taste."
+  - "Roast for Depth: Got extra time? Roast the carrots until caramelised before blending for a massive smoky sweetness."
+  - "Consistency Control: If it's too thick, aggressively whisk in extra veg stock until you hit the perfect silky texture."
 works:
-  - "Aromatic Awakening: Sautéing the curry paste in coconut fat releases the fat-soluble flavor compounds from the chilies and aromatics."
-  - "Sweet and Spicy Synergy: The earthy, natural sweetness of the pureed carrots acts as a perfect counterweight to the intense heat of the Thai red curry."
+  - "Aromatic Awakening: Sautéing curry paste in fat violently releases the flavour compounds from the chillies."
+  - "Sweet & Spicy Synergy: Pureed carrots provide the earthy sweetness needed to offset the intense chilli heat."
 use:
-  - "Appetizer: A vibrant, warming starter for a dinner party."
-  - "Light Lunch: Pair with crusty bread for a deeply satisfying midday meal."
+  - "Starter: A vibrant, warming starter for a dinner party."
+  - "Cutting Phase Lunch: Pair with crusty bread for a deeply satisfying but low-calorie meal."
   - "Freezer Stash: Batch cook and freeze in portions for emergency comfort food."
 variations:
-  - "Ginger Kick: Add a tablespoon of freshly grated ginger."
-  - "Sweet Potato Blend: Swap half the carrots for sweet potato."
-servingSuggestions: "This silky Thai carrot soup pairs beautifully with a slice of warm, crusty sourdough bread or a piece of garlic naan for dipping. To add texture, top the soup with a handful of roasted peanuts or crunchy croutons just before serving. A side of fresh spring rolls or a light cucumber salad makes this soup the centerpiece of a nourishing, vibrant meal."
-shelf_life: "3-4 Days (Refrigerated)"
-storageInstructions: "Store in the fridge for up to 4 days. This soup freezes wonderfully for up to 3 months. Thaw overnight and reheat gently, stirring well to re-incorporate the coconut milk."
+  - "Ginger Kick: Add a tablespoon of fresh grated ginger."
+  - "Sweet Potato Swap: Swap half the carrots for sweet potato to bump the carbs."
+servingSuggestions: "Smash this alongside warm sourdough or garlic naan for dipping. Hammer the top with roasted peanuts for a crucial textural crunch."
+shelf_life: "4 Days (Refrigerated)"
+storageInstructions: "Fridge for 4 days. Freezes brilliantly for up to 3 months. Thaw overnight and reheat gently, stirring to resurrect the emulsion."
 prepTimeMins: 5
 cookTimeMins: 15
 servings: 1
@@ -50,14 +50,14 @@ ingredients:
 
 faq:
   - question: "Can I use light coconut milk instead of full-fat?"
-    answer: "You can, but the soup will be much less creamy. Full-fat coconut milk balances the spice of the curry paste perfectly."
+    answer: "You can, but it'll be watery and pathetic. Full-fat balances the spice perfectly."
   - question: "Is this soup very spicy?"
-    answer: "It has a mild kick. If you're sensitive to heat, halve the amount of red curry paste to start with."
+    answer: "Mild kick. If you can't handle heat, halve the curry paste."
 
 steps:
-  - "Place the chopped carrots into a large pot and cover with water. Bring to a boil over medium heat and simmer for 10–12 minutes until fork-tender. Drain the carrots and set them aside momentarily"
-  - "In the same pot, combine the Thai red curry paste with a splash of the coconut milk. Sauté over low heat for 1–2 minutes until the paste is fragrant and well-combined with the milk. This step \"blooms\" the spices, significantly deepening the flavor of your soup base"
-  - "Return the cooked carrots to the pot and pour in the vegetable stock. Using an immersion blender, puree the mixture directly in the pot until completely smooth and creamy. (If using a standard blender, work in batches and take care with the hot liquid)"
-  - "Stir in the remaining coconut milk until the soup is silky and consistent. Simmer gently for another 1–2 minutes to allow the flavors to meld. Taste and season with salt and pepper as needed"
-  - "Ladle the soup into warm bowls. For that essential Thai \"zing,\" finish, garnish with fresh coriander, a bright squeeze of lime, or a swirl of coconut milk. Serve alongside crusty bread or jasmine rice for a cozy, complete meal"
+  - "Boil the chopped carrots in water for 10-12 minutes until fork-tender. Drain and set aside."
+  - "In the empty pot, fry the red curry paste with a splash of coconut milk over low heat. Cook for 2 minutes to bloom the spices and build the flavour base."
+  - "Chuck the carrots back in and pour over the veg stock. Use an immersion blender to completely obliterate it into a smooth puree."
+  - "Stir in the rest of the coconut milk. Simmer gently for 2 minutes to marry the flavours. Season with salt and pepper."
+  - "Ladle into warm bowls. Finish with fresh coriander and a heavy squeeze of lime to wake it up."
 ---

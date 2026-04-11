@@ -12,31 +12,31 @@ categories: ["high-protein", "air-fryer", "vegetarian", "dinner", "breakfast", "
 tags: ["high protein"]
 cuisine: "British"
 keywords: ["apple crumble", "air fryer", "high-protein", "dessert", "british", "vegetarian"]
-tipsTitle: "Crumble Perfection"
+tipsTitle: "Crumble Mechanics"
 tips: 
-  - "Apple Choice: Use a tart apple variety like Granny Smith or Braeburn. Their sharp acidity perfectly balances the sweet, protein-heavy oat topping."
-  - "Foil Shield: If your oat crumble starts to brown too quickly in the air fryer before the apples are soft, simply cover the ramekin loosely with a small piece of tin foil."
-  - "Butter Temperature: Use melted butter or warm coconut oil for the topping. It binds the protein powder and oats together to create those satisfying, chunky clusters."
+  - "Apple Selection: Use a sharp, tart apple like Granny Smith. The acidity perfectly balances the heavy, sweet protein oat topping."
+  - "Foil Shield: If the oat crumble starts catching before the apples soften, loosely cover the ramekin with tin foil."
+  - "Binder Temperature: Use melted butter or warm coconut oil. It acts like glue for the protein powder and oats, building chunky, satisfying clusters."
 works:
-  - "Textural Contrast: The moisture of the steaming apples underneath keeps the base soft, while the direct heat of the air fryer blasts the top layer into a crunchy, golden shell."
-  - "Protein Power: Replacing standard flour with protein powder boosts the macro profile incredibly well, acting as a functional binder that doesn't compromise the dessert's integrity."
+  - "Textural Contrast: Steaming apples keep the base soft, while the air fryer violently blasts the top into a crunchy, golden armour."
+  - "Macro Engineering: Swapping standard flour for protein powder boosts the macros without ruining the structural integrity of the dessert."
 use:
-  - "Healthy Dessert: A guilt-free way to finish the evening."
-  - "Sweet Breakfast: Pair with Greek yogurt for a fiber-rich start to the day."
-  - "Post-Workout: Packs enough protein and carbs to refuel effectively."
+  - "Guilt-Free Finisher: An elite dessert to cap off the evening without blowing your deficit."
+  - "Sweet Fuel: Pair with Greek yoghurt for a massive, fibre-rich morning start."
+  - "Post-Workout: A perfectly balanced hit of carbs and protein."
 rating: 
 variations:
   - "Berry Mix: Swap half the apples for mixed berries."
-  - "Nutty Topping: Add crushed walnuts or pecans to the oat crumble."
+  - "Nutty Crunch: Hammer the topping with crushed walnuts or pecans."
 reviews: 
-servingSuggestions: "This warm, comforting apple crumble is elevated when served with a dollop of cold, high-protein vanilla Greek yogurt or a scoop of low-calorie vanilla ice cream, providing a beautiful hot-and-cold contrast. A light dusting of extra cinnamon on top and a cup of warm chamomile tea makes this the ultimate healthy evening treat."
-shelf_life: "Best eaten immediately while warm."
-storageInstructions: "Store leftovers in the fridge for up to 3 days. Reheat in the air fryer or microwave. The uncooked crumble topping can be mixed and frozen in a bag for up to 3 months."
-whyTitle: "Why the Air Fryer?"
+servingSuggestions: "Superset this warm crumble with a massive dollop of cold, high-protein vanilla Greek yoghurt. The temperature contrast is elite."
+shelf_life: "Demolish immediately while warm."
+storageInstructions: "Fridge leftovers for 3 days. Blast in the air fryer to resurrect the crunch. The raw crumble mix can be frozen in a bag for 3 months."
+whyTitle: "Air Fryer Advantages"
 why:
-  - "Instant Heat: No need to preheat a giant oven for one small ramekin; the air fryer reaches temp in seconds."
-  - "Perfect Crunch: The forced air circulation creates a much crispier oat topping than a microwave or traditional oven could."
-  - "Muscle Recovery: By swapping flour for oats and protein powder, this dessert doubles as a high-fiber post-workout snack."
+  - "Instant Heat: Zero preheating required for a single ramekin. Reaches temp in seconds."
+  - "Perfect Crunch: The forced convection creates a drastically crispier topping than a standard oven."
+  - "Muscle Recovery: High-fibre oats and protein powder transform this from a cheat meal into functional fuel."
 prepTimeMins: 5
 cookTimeMins: 25
 servings: 1
@@ -57,17 +57,17 @@ ingredients:
 
 faq:
   - question: "Can I use whey protein instead of a plant-based one?"
-    answer: "Yes, but whey tends to dry out faster when baked. You may need an extra teaspoon of melted butter or coconut oil to keep the crumble together."
+    answer: "Yes, but whey dries out faster. Add an extra teaspoon of melted butter so it doesn't turn to dust."
   - question: "What are the best apples to use for crumble?"
-    answer: "Granny Smith or Braeburn apples are ideal as they retain their shape and provide a tart contrast to the sweet topping."
+    answer: "Granny Smith or Braeburn. They hold their shape and provide a sharp, tart contrast."
 
 steps:
-  - text: "In a standard ramekin, toss the diced apple with cinnamon and sugar. Pour the tablespoons of water over the top to help the apples steam while baking."
+  - text: "In a ramekin, toss the diced apple with cinnamon and sugar. Pour the water over the top to help the apples steam."
     image: "high-protein-air-fryer-apple-crumble-step-1_yrkw1y"
-  - text: "In a separate small bowl, combine the oats, protein powder, butter, and honey. Rub the mixture together with your fingers or a fork until you achieve a crumbly, pebble-like dough."
+  - text: "In a bowl, mix the oats, protein powder, butter, and honey. Rub it together with your fingers until you get a clumpy, pebble-like dough."
     image: "high-protein-air-fryer-apple-crumble-step-2_fwlkzm"
-  - text: "Sprinkle the crumble mixture evenly over the apples in the ramekin, pressing down slightly to ensure it sticks."
+  - text: "Aggressively pack the crumble mix over the apples."
     image: "high-protein-air-fryer-apple-crumble-step-3_vwexoq"
-  - text: "Place the ramekin in the air fryer basket. Bake at 160°C for 25-30 minutes. Check at the 15-minute mark; if the top is browning too fast, you can cover it loosely with a small piece of foil."
-  - text: "Carefully remove the ramekin using oven mitts (it will be extremely hot). Let it sit for 2-3 minutes; this allows the apple juices to thicken into a syrup before you dive in."
+  - text: "Blast in the air fryer at 160°C for 25-30 minutes. If the top catches fire too quickly, cover it with foil at the 15-minute mark."
+  - text: "Pull it out (it will be molten hot). Let it rest for 3 minutes so the apple juices thicken into a syrup, then destroy it."
 ---

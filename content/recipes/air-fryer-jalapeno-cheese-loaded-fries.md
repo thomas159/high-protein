@@ -2,7 +2,7 @@
 title: "The Ultimate Extra Crispy Air Fryer Jalapeño Cheese Fries"
 slug: "air-fryer-jalapeno-cheese-loaded-fries"
 meta: {
-  seoMetaDescription: "Craving a cheat meal fast? These ultimate extra crispy air fryer jalapeño cheese fries are ready in 30 minutes. Minimal prep, maximum flavor!"
+  seoMetaDescription: "Craving a cheat meal fast? These ultimate extra crispy air fryer jalapeño cheese fries are ready in 30 minutes. Minimal prep, maximum flavour!"
 }
 description: "Melted cheddar, spicy jalapeños, and the ultimate extra crispy chips. The air fryer delivers a deep-fried texture with a fraction of the oil, making this the perfect 30-minute weekend treat. Minimal prep, maximum flavour, and we air-fry the potatoes first to build a rigid shell that easily holds up the heavy cheese."
 image: "air-fryer-jalapeno-cheese-loaded-fries_twwfu7"
@@ -11,30 +11,30 @@ pintrest: ""
 categories: ["air-fryer", "30-minute-meals", "snacks"]
 tipsTitle: "Loaded & Crispy"
 tips: 
-  - "Block Cheese Only: Always use cheese grated fresh from a block. Pre-shredded cheese is coated in cellulose that prevents it from achieving that perfect, gooey melt."
-  - "Layering Technique: Don't just dump the cheese on top! Build the fries in two layers with cheese and jalapeños in the middle, guaranteeing a perfect bite every time."
-  - "Jalapeño Heat: If you want the jalapeño flavor without the aggressive burn, quickly rinse the sliced jalapeños under cold water to wash away some of the fiery seeds."
+  - "Block Cheese Only: Always grate from a solid block. Pre-shredded bags are coated in cellulose dust that completely ruins the melt."
+  - "Strategic Layering: Don't just chuck the cheese on top. Build it in two tiers so every single chip pulls its weight."
+  - "Manage the Burn: If you want the jalapeño flavour without destroying your palate, quickly rinse the slices under cold water to ditch the seeds."
 works:
-  - "Two-Stage Cooking: Air frying the potatoes separately ensures they form a rigid, crispy shell capable of holding up the heavy cheese without turning to mush."
-  - "Residual Melting: Adding the cheese at the very end uses the intense circulating heat to turn it molten quickly, avoiding burnt edges."
+  - "Two-Stage Mechanics: Blasting the potatoes first builds a rigid, crispy shell that can handle the weight of the cheese without turning to mush."
+  - "Flash Melting: Dropping the cheese in at the absolute end uses residual heat to melt it instantly without burning the fats."
 use:
-  - "Game Day Grub: The ultimate messy, shareable comfort food."
-  - "Decadent Side: Serve alongside a hearty sandwich or wrap."
-  - "Comfort Cravings: Hits the spot for salty, spicy, and incredibly cheesy."
+  - "Refeed Heavyweight: The ultimate messy, high-calorie comfort bowl."
+  - "Superset Side: Pair it with a massive veggie burger."
+  - "Late Night Fix: Hits absolutely every craving for salt, fat, and heat."
 tags: []
 cuisine: "American"
 keywords: ["loaded fries", "jalapeno", "cheese", "air fryer", "american", "snack", "spicy"]
 whyTitle: "Why use an air fryer?"
 why:
-  - "Superior Crunch: Rapid air circulation creates a \"deep-fried\" texture without the grease."
-  - "Speed: Go from frozen or fresh to loaded in under 30 minutes."
+  - "Superior Crunch: The circulating air delivers deep-fryer crunch with barely any oil."
+  - "Brutal Efficiency: Raw potato to fully loaded in under 30 minutes."
 variations:
-  - "Vegan Facon: Sprinkle crispy vegetarian bacon bits over the cheese."
-  - "Extra Heat: Drizzle with a vegetarian buffalo sauce."
+  - "Facon Bits: Hammer the top with crispy vegetarian bacon bits."
+  - "Buffalo Kick: Drizzle heavily with vegetarian buffalo sauce."
 rating: 
 reviews: 
-servingSuggestions: "These indulgent loaded fries are perfect for sharing. Serve them straight from the basket with a side of cooling ranch dressing or a cilantro-lime crema to help temper the heat of the jalapeños. They make an unbeatable side to a juicy veggie smash burger or pulled \"pork\" jackfruit sandwiches during a weekend game night."
-storageInstructions: "Best served fresh. Leftovers can be kept in the fridge for 2 days and reheated in the air fryer, though texture will soften. Do not freeze."
+servingSuggestions: "Smash these straight out of the basket. Superset with a cooling ranch or lime crema to put the fire out. Unbeatable alongside a massive veggie smash burger."
+storageInstructions: "Eat them immediately. Leftovers will survive 2 days in the fridge but the texture takes a massive hit. Don't freeze."
 prepTimeMins: 5
 cookTimeMins: 25
 servings: 1

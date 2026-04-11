@@ -14,23 +14,23 @@ keywords: ["instant noodles upgrade", "asian", "vegan", "quick meal", "5-minute"
 tags: ["vegan", "quick-meals"]
 tipsTitle: "Elevate the Bowl"
 tips:
-  - "Noodle Texture: Pull the noodles off the heat about 30 seconds before they look fully cooked; they will continue to soften in the residual heat and hot sauce."
-  - "Sauce Emulsion: Save a tablespoon of the starchy cooking water to mix into your soy-sesame glaze—it helps the sauce cling luxuriously to every strand."
-  - "Veggie Integration: Toss in a handful of quick-cooking greens like baby spinach or thinly sliced pak choi during the last minute of boiling for an effortless nutritional boost."
+  - "Texture Control: Pull them 30 seconds early. They'll keep cooking in the residual heat."
+  - "Sauce Emulsion: Keep a spoonful of starchy water to mix into your glaze—it helps the sauce violently cling to the noodles."
+  - "Volume Boost: Chuck in a handful of baby spinach or pak choi at the end for an effortless micronutrient hit."
 works:
-  - "Liquid Reduction: By boiling off the stock instead of draining it, all the savory flavor is absorbed directly into the noodles rather than being thrown away."
-  - "Acid Balance: The tiny splash of rice vinegar acts as a flavor enhancer, cutting through the heavy sesame oil to wake up the palate."
+  - "Liquid Reduction: Boiling off the stock forces the savoury flavour directly into the noodles."
+  - "Acid Balance: A tiny splash of rice vinegar cuts the heavy sesame oil and wakes up the palate."
 use:
-  - "Snack Attack: A massive upgrade to a basic instant noodle craving."
-  - "Midnight Munchies: Quick, savory, and requires almost no cleanup."
-  - "Base Builder: Add leftover veggies or a soft-boiled egg to make it a full meal."
+  - "Macro Hack: A massive upgrade to a basic instant noodle craving."
+  - "Midnight Fuel: Quick, savoury, and zero cleanup."
+  - "Base Builder: Chuck in a soft-boiled egg or leftover veg for a complete meal."
 variations:
-  - "Peanut Twist: Stir in a spoonful of peanut butter for a creamy sauce."
-  - "Veggie Boost: Toss in shredded carrots and edamame."
+  - "Peanut Twist: Aggressively stir in a spoonful of peanut butter."
+  - "Volume Prep: Toss in shredded carrots and edamame."
 rating: 
 reviews: 
-servingSuggestions: "Transform these quick instant noodles into a more substantial meal by topping them with a soft-boiled egg or some leftover sliced smoked tofu or seitan. Serve with a side of quick-steamed pak choi or a small side salad to add freshness. A few slices of fresh jalapeño or a dash of chili crisp on top provides a welcoming kick for spice lovers."
-storageInstructions: "Best enjoyed immediately. Leftovers can be stored in the fridge for up to 2 days but the noodles may soften. Freezing is not recommended."
+servingSuggestions: "Top with a soft-boiled egg or some pan-seared smoked tofu to bump the protein. Hit it with crispy fried onions and chilli crisp for elite texture."
+storageInstructions: "Demolish immediately. Leftovers survive 2 days in the fridge but turn mushy. Don't freeze."
 prepTimeMins: 0
 cookTimeMins: 5
 servings: 1
@@ -51,12 +51,11 @@ ingredients:
 
 faq:
   - question: "Can I use regular noodles instead of instant noodles?"
-    answer: "Instant noodles work best because they cook rapidly and release starches that thicken the sauce, but you can use regular noodles, they may take a little longer to cook"
+    answer: "Instant is optimal for speed and starch release. Regular noodles work but drag out the cooking time."
   - question: "Is this recipe spicy?"
-    answer: "It has a mild kick from the sambal or sriracha. You can easily omit the chili paste if you prefer a non-spicy version."
+    answer: "A mild kick. Bin the chilli paste if you can't handle it."
 
 steps:
-  - "Pour your vegetable stock into a wide pan and bring it to a boil.  Drop in the instant noodles. Cook for 2–3 minutes, using a fork to gently teased the block apart as it softens. You want the stock to reduce by about half—this creates a concentrated \"glaze\" rather than a thin soup"
-  - "Just before the liquid is fully absorbed, reduce the heat to low. Stir in the soy sauce, toasted sesame oil, rice vinegar, and sambal (chili paste) or schriracha. Toss the noodles vigorously for 30 seconds. The acidity of the rice vinegar cuts through the richness of the sesame oil, creating a balanced, glossy coating"
-  - "Transfer the noodles to a deep bowl. Top with a generous handful of sliced spring onions for freshness and crispy fried onions for that essential texture contrast. A sprinkle of toasted sesame seeds or a squeeze of lime at the very end will make the flavors pop even more"
----
+  - "Boil the stock in a wide pan. Drop in the noodles. Cook for 2–3 minutes, teasing the block apart. Let the stock reduce by half to build a glaze."
+  - "Drop the heat. Stir in the soy sauce, sesame oil, rice vinegar, and sriracha. Toss vigorously for 30 seconds to coat."
+  - "Plate up. Hammer it with spring onions and crispy fried onions. Squeeze a lime over the top and get stuck in."

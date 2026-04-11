@@ -2,7 +2,7 @@
 title: "Quick & Easy 10-Minute Air Fryer Breakfast Egg Muffins"
 slug: "air-fryer-breakfast-egg-muffins"
 meta: {
-  seoMetaDescription: "Start your day right with these quick & easy 10-minute air fryer breakfast egg muffins. Minimal prep, maximum flavor, and perfectly puffed every time!"
+  seoMetaDescription: "Start your day right with these quick & easy 10-minute air fryer breakfast egg muffins. Minimal prep, maximum flavour, and perfectly puffed every time!"
 }
 description: "Start your day with a solid hit of protein. These quick & easy 10-minute egg muffins pack sharp feta and sweet sun-dried tomatoes into an efficient, grab-and-go format. Minimal prep, maximum flavour, and the air fryer gives them a perfectly puffed texture so you're fuelled up and sorted for the day."
 blurb: []
@@ -17,25 +17,24 @@ rating:
 reviews: 
 tipsTitle: "Muffin Mastery"
 tips:
-  - "Silicone is Best: Always use silicone muffin liners or a well-greased silicone mold, as eggs will fiercely stick to paper liners or ungreased metal."
-  - "Veggie Variations: Feel free to add finely chopped spinach, bell peppers, or mushrooms to clear out your fridge."
-  - "Don't Overfill: Eggs expand significantly as they cook. Only fill your muffin cases about 3/4 full to prevent overflow in the air fryer."
+  - "Silicone is Mandatory: Paper liners or bare metal will fuse to the egg like concrete. Use silicone."
+  - "Fridge Clearance: Chuck in whatever leftover veg you have—spinach, peppers, mushrooms."
+  - "Volume Control: Eggs expand aggressively. Only fill 3/4 full or you'll be scraping burnt egg off your air fryer element."
 works:
-  - "Air Circulation: The intense circulating heat of the air fryer cooks the eggs faster than a conventional oven and gives them a wonderful, slightly puffed texture."
-  - "Flavor Punch: Sun-dried tomatoes provide an intense, concentrated umami sweetness that pairs perfectly with the salty tang of feta."
+  - "Convection Lift: The circulating heat puffs the eggs up faster and fluffier than a standard oven ever could."
+  - "Flavour Efficiency: Sun-dried tomatoes and feta deliver a massive umami hit with zero extra prep."
 whyTitle: "Why This Combination Works"
 why:
-  - "Salty & Sharp: The feta cuts cleanly through the richness of the fluffy baked eggs."
-  - "Concentrated Sweetness: Sun-dried tomatoes add a pop of umami sweetness that beautifully balances the savory base."
+  - "Salty & Sharp: Feta cuts cleanly through the heavy richness of the eggs."
+  - "Concentrated Sweetness: Sun-dried tomatoes bring deep, savoury sweetness without adding sugar."
 variations:
-  - "Spicy Kick: Add a pinch of chili flakes or a dash of your favorite hot sauce to the beaten egg before cooking."
-  - "Cheesy Swap: Use sharp cheddar, gooey mozzarella, or tangy goat cheese instead of feta."
+  - "Fire Starter: Add a heavy dash of hot sauce straight into the egg mix."
+  - "Cheese Swap: Bin the feta for sharp cheddar or goat cheese."
 use:
-  - "Meal Prep: Make a batch on Sunday and keep them in the fridge for a grab-and-go breakfast all week."
-  - "Post-Workout: A rapid, low-carb, high-protein snack to refuel muscles."
-  - "Brunch Side: Serve alongside toast and fresh fruit for a complete weekend brunch."
-servingSuggestions: "Serve these warm egg muffins with a side of sliced avocado, a piece of whole-grain toast, or a fresh side salad with a light vinaigrette."
-storageInstructions: "Store in an airtight container in the fridge for up to 4 days. Reheat in the microwave for 20-30 seconds. They can also be frozen for up to 2 months; thaw overnight before reheating."
+  - "Macro Prep: Batch cook on Sunday for grab-and-go morning fuel."
+  - "Post-Workout: A zero-carb, high-protein hit."
+servingSuggestions: "Smash these alongside some sliced avocado and whole-grain toast. Elite morning fuel."
+storageInstructions: "Fridge in an airtight container for 4 days. Blast in the microwave for 20 seconds. They freeze fine for 2 months, just thaw overnight."
 prepTimeMins: 2
 cookTimeMins: 10
 servings: 1

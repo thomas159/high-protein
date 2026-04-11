@@ -11,26 +11,26 @@ categories: ["vegan", "one-pan-meals", "high-protein"]
 tags: ["vegan", "high protein", "one-pan"]
 cuisine: "Indian"
 keywords: ["curry", "chickpea", "spinach", "coconut milk", "one-pan", "indian", "vegan", "high-protein"]
-servingSuggestions: "Serve this comforting, aromatic curry alongside a portion of warm, fluffy quinoa or brown rice to soak up the rich coconut broth. A piece of freshly toasted naan or roti is essential for scooping up the chickpeas. For a cooling contrast, offer a small side of diced cucumber and tomato salad dressed with a squeeze of lemon."
-shelf_life: "Lasts up to 4 days in the fridge. The flavors actually deepen overnight!"
-storageInstructions: "Store in the fridge for up to 4 days (the flavors deepen!). Freezes excellently for up to 3 months. Thaw overnight and reheat gently on the stove."
+servingSuggestions: "The ultimate high-volume main. Smash this over a massive portion of brown rice or quinoa. Use a toasted naan to mop up every last drop of the coconut broth."
+shelf_life: "Lasts 4 days in the fridge. The flavours actually deepen overnight."
+storageInstructions: "Fridge for up to 4 days. Freezes incredibly well for up to 3 months. Thaw overnight and reheat gently."
 whyTitle: "Nutrient Spotlight"
 why:
-  - "Plant-Based Iron: The combination of spinach and chickpeas provides a significant iron boost, which is essential for energy during workouts."
-  - "Healthy Fats: Coconut milk provides MCTs (medium-chain triglycerides) for a quick energy source."
-  - "Anti-Inflammatory: Turmeric and ginger help reduce muscle soreness after a heavy lifting session."
+  - "Plant-Based Iron: Spinach and chickpeas deliver a massive iron hit, crucial for maintaining energy during a heavy training block."
+  - "Heavy Fuel: Coconut milk provides dense, healthy fats for sustained energy."
+  - "Anti-Inflammatory: Turmeric and ginger actively help reduce muscle soreness after a brutal session."
 tipsTitle: "Time-saving Tips"
 tips:
-  - "The 10-Minute Shortcut: Use a high-quality pre-made curry paste (like Tikka or Korma) instead of the individual spices if you're really short on time."
-  - "Frozen over Fresh: Use frozen spinach pellets instead of fresh leaves. They're cheaper, last longer, and you can toss them straight from the freezer into the bubbling pan."
-  - "Creamier Texture: Use full-fat coconut milk rather than 'lite' versions to achieve that luxurious, velvety restaurant-style broth that coats the chickpeas perfectly."
+  - "The 10-Minute Shortcut: Swap the individual spices for a high-quality pre-made curry paste if you're in a rush."
+  - "Frozen Over Fresh: Bin the fresh spinach. Frozen pellets are cheaper and you can chuck them straight into the bubbling pan."
+  - "Fat is Flavour: Use full-fat coconut milk. 'Lite' versions will just give you a watery, depressing broth."
 works:
-  - "Spice Blooming: Toasting the dry spices in the hot coconut oil releases their fat-soluble compounds, multiplying their flavor intensity before the liquids are added."
-  - "Natural Thickening: The starches from the chickpeas gently leach into the coconut milk as it simmers, naturally thickening the curry into a rich sauce."
+  - "Spice Blooming: Toasting dry spices in hot coconut oil aggressively releases their fat-soluble compounds, multiplying the flavour."
+  - "Natural Thickening: Chickpea starches leach into the coconut milk, naturally thickening the curry without any flour."
 use:
-  - "Batch Cooking: Make a large pan on Sunday for four days of healthy lunches."
-  - "Warming Dinner: Perfect served piping hot over basmati rice on a cold evening."
-  - "Pantry Clear-out: Utilizes canned chickpeas and milk for an emergency meal."
+  - "Macro Prep: Batch cook a massive pan on Sunday to fuel your week."
+  - "Warming Dinner: Elite comfort food over basmati rice."
+  - "Pantry Clear-out: Uses standard tinned goods for a high-protein emergency meal."
 variations:
   - "Lentil Swap: Use canned lentils instead of chickpeas."
   - "Sweet Potato: Add diced sweet potato for extra heartiness."
@@ -59,15 +59,14 @@ ingredients:
 
 faq:
   - question: "Can I use light coconut milk?"
-    answer: "You can, but the curry broth will be much thinner. Full-fat coconut milk provides the luxurious, creamy texture this dish is known for."
+    answer: "You can, but the broth will be pathetic and thin. Full-fat provides the elite, velvety texture."
   - question: "Do I have to use fresh spinach?"
-    answer: "Frozen spinach works perfectly! Just stir it in during the last 5 minutes of simmering until it's heated through."
+    answer: "Frozen works perfectly. Just lob it in during the last 5 minutes of simmering."
 
 steps:
-  - "Heat coconut oil in a large pan over medium heat. Sauté the onion for 5-10 minutes until translucent and soft."
-  - "Stir in the turmeric, coriander, and cumin. Toast the spices for 2 minutes to release their oils."
-  - "Add the garlic and ginger, cooking for another 1-2 minutes until fragrant but not browned."
-  - "Add the chopped tomatoes and cook for 3-4 minutes until they begin to break down into a paste."
-  - "Pour in the chickpeas, spinach, vegetable stock, and coconut milk. Bring to a boil, then reduce heat."
-  - "Simmer for 5-10 minutes until the spinach has wilted and the sauce has thickened. If using, stir in the Kasuri Methi at the very end for an authentic aroma."
----
+  - "Heat coconut oil in a large pan. Sauté the onion for 5-10 minutes until soft."
+  - "Chuck in the turmeric, coriander, and cumin. Toast for 2 minutes to aggressively release their oils."
+  - "Add the garlic and ginger. Cook for 1-2 minutes until fragrant."
+  - "Add the chopped tomatoes and cook for 3-4 minutes until they break down into a jammy paste."
+  - "Pour in the chickpeas, spinach, vegetable stock, and coconut milk. Bring to a violent boil, then drop the heat."
+  - "Simmer for 5-10 minutes until the sauce thickens. Stir in Kasuri Methi at the very end if you have it."

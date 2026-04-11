@@ -14,23 +14,23 @@ cuisine: "Moroccan"
 keywords: ["couscous", "moroccan", "vegetarian", "15-minute", "mediterranean", "healthy side"]
 tipsTitle: "Flawless Couscous"
 tips:
-  - "The Fork Rule: Always use a fork, never a spoon, to fluff your couscous. A spoon will mash the delicate grains together into a dense clump."
-  - "Stock Matters: Because the couscous absorbs all the liquid, use a high-quality vegetable stock rather than just water for a massive flavor upgrade."
-  - "Fresh Herb Finish: Stir through a generous handful of freshly chopped mint or parsley right before serving to bring a vibrant, authentic Mediterranean brightness to the dish."
+  - "The Fork Rule: Always fluff with a fork. A spoon will mash the grains into a dense, miserable clump."
+  - "Stock Matters: Couscous absorbs everything. Use a quality vegetable stock instead of water for a massive flavour spike."
+  - "Fresh Finish: Aggressively stir through fresh mint or parsley at the end for an authentic Mediterranean lift."
 works:
-  - "Instant Hydration: Couscous has already been steamed and dried during manufacturing, meaning pouring boiling stock over it instantly rehydrates it without simmering."
-  - "Sweet and Salty Balance: The slight sweetness from the sautéed red onions beautifully offsets the sharp, salty punch of the feta cheese."
+  - "Instant Hydration: Couscous is pre-steamed. Boiling stock rehydrates it instantly with absolutely zero simmering."
+  - "Sweet & Salty: Sautéed red onions perfectly offset the sharp, salty hit of the feta."
 use:
-  - "As a Base: Perfect underneath grilled tofu or roasted vegetables."
-  - "Meal Prep: Packs well in lunchboxes and tastes great cold."
-  - "Quick Side: A 10-minute addition to Mediterranean-style dinners."
+  - "Carb Base: The ultimate bed for grilled tofu or roasted veg."
+  - "Meal Prep: Tastes brilliant cold in your lunchbox."
+  - "Rapid Side: A 10-minute cheat code for Mediterranean dinners."
 rating: 
 variations:
-  - "Chickpea Power: Stir in a can of drained chickpeas."
-  - "Fruity Twist: Add raisins or dried apricots for extra sweetness."
+  - "Protein Spike: Chuck in a drained tin of chickpeas."
+  - "Fruity Twist: Toss in some raisins or dried apricots."
 reviews: 
-servingSuggestions: "This vibrant couscous makes an excellent bed for grilled proteins like lemon-herb tofu, halloumi skewers, or roasted chickpeas. To enhance its Mediterranean profile, serve it with a dollop of tzatziki or a spoonful of hummus on the side. A side of warm pita bread and a drizzle of high-quality extra virgin olive oil just before serving brings everything together."
-storageInstructions: "Store in an airtight container in the fridge for up to 4 days. Couscous freezes well for up to 3 months. Fluff with a fork after thawing and reheating."
+servingSuggestions: "The ultimate carb base for lemon-herb tofu or halloumi. Superset with a heavy dollop of hummus and a drizzle of olive oil."
+storageInstructions: "Fridge in an airtight tub for 4 days. Freezes fine for 3 months. Fluff it with a fork after reheating."
 prepTimeMins: 5
 cookTimeMins: 5
 servings: 1
@@ -50,12 +50,12 @@ ingredients:
 
 faq:
   - question: "Can I make this with quinoa instead?"
-    answer: "Yes, but quinoa requires simmering. Cook the quinoa separately first, then fold in the sautéed vegetables, lemon, and feta."
+    answer: "Yes, but you'll have to boil it. Quinoa destroys the 10-minute prep advantage."
   - question: "Do I have to use vegetable stock?"
-    answer: "While you can use boiling water, vegetable stock adds a massive amount of savory flavor that makes the dish stand out."
+    answer: "Water works, but stock delivers a massive savoury upgrade."
 
 steps:
-  - "Heat a splash of oil in a pan over medium heat. Add your finely sliced red peppers and onions. Cook for 5–10 minutes until the onions get a slightly golden edge, this adds a natural sweetness that balances the salty feta cheese later."
-  - "Place the dry couscous into a heat-proof bowl. Pour the boiling vegetable stock over the grains and stir in the lemon juice. Place a lid or plate over the bowl and let it sit for 5 minutes. Once all the liquid is absorbed, use a fork (never a spoon!) to gently rake through the grains. This separates them and keeps the texture light."
-  - "Now it’s time to bring everything together. Fold the sautéed peppers and onions into the bowl. Add the cubed feta cheese and a final dash of extra virgin olive oil. Toss gently so the feta doesn't completely break down, and add a crack of black pepper to taste."
+  - "Heat a splash of oil in a pan. Sauté the sliced red peppers and onions for 5-10 minutes until golden. This builds natural sweetness."
+  - "Put the dry couscous in a heat-proof bowl. Pour the boiling stock and lemon juice directly over it. Cover with a plate and leave it alone for 5 minutes. Once absorbed, rake through it with a fork."
+  - "Fold the sautéed veg, cubed feta, and a glug of olive oil into the grains. Toss gently so the feta doesn't turn to mush."
 ---

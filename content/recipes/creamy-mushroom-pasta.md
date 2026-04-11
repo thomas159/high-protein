@@ -11,29 +11,29 @@ categories: ["dinner", "vegetarian", "pasta"]
 tags: []
 cuisine: "Italian"
 keywords: ["mushroom pasta", "creamy", "italian", "vegetarian", "comfort food", "white wine"]
-tipsTitle: "Perfecting the Sauce"
+tipsTitle: "Sauce Mastery"
 tips:
-  - "Patience with Mushrooms: When you add the mushrooms to the pan, leave them completely undisturbed for 2 minutes. Letting them sear creates a deep, meaty umami crust."
-  - "Save the Water: Always scoop out a mug of starchy pasta cooking water before draining. This magical liquid binds the butter, cheese, and cream into a smooth, emulsified sauce."
-  - "Deglazing Power: The white wine isn't just for flavor—use it to aggressively scrape up all the dark, caramelized mushroom bits stuck to the bottom of the pan."
+  - "Mushroom Patience: Leave the mushrooms completely undisturbed in the pan for 2 minutes. Let them sear to build a deep, meaty umami crust."
+  - "Save the Water: Always reserve a mug of starchy pasta water. This is the secret binder that forces the butter and cream into a stable emulsion."
+  - "Deglazing Power: The white wine is there to aggressively scrape up the dark, caramelised flavour stuck to the bottom of the pan."
 works:
-  - "The Maillard Reaction: Searing the mushrooms over high heat creates a caramelized crust, introducing a deep, savory umami profile to the dish."
-  - "Starch Emulsion: The starch from the pasta water physically binds the fat in the heavy cream and butter, preventing the sauce from splitting or looking oily."
+  - "The Maillard Reaction: High-heat searing caramelises the mushrooms, delivering a massive umami hit."
+  - "Starch Emulsion: The pasta water starch chemically binds the heavy cream and butter, preventing the sauce from splitting into an oily mess."
 use:
-  - "Comfort Food: A hearty, warm dish for cozy evenings."
-  - "Date Night: Looks and tastes like a complex restaurant dish with minimal effort."
-  - "Leftovers: Reheats beautifully for next-day lunches."
+  - "Heavy Refeed: A massive, warm carb reload for cozy evenings."
+  - "Date Night: Looks and tastes like a premium restaurant dish with zero stress."
+  - "Macro Lunch: Reheats brilliantly for the next day."
 variations:
-  - "Truffle Twist: Drizzle truffle oil over the pasta before serving."
-  - "Protein Boost: Stir in some pan-fried tofu cubes or white beans."
-servingSuggestions: "This luxurious mushroom pasta pairs perfectly with a crisp, acidic side salad—think mixed greens with a sharp lemon vinaigrette—to balance the rich, creamy sauce. Serve with a slice of toasted garlic ciabatta to ensure no sauce is left in the bowl. A glass of light-bodied Pinot Noir or a dry Chardonnay beautifully complements the earthy mushrooms."
-shelf_life: "Best enjoyed fresh; stores in the fridge for up to 2 days."
-storageInstructions: "Keep in the fridge for up to 3 days. Reheat gently on the stove with a splash of milk or water. Freezing is not recommended as the cream sauce can split."
-whyTitle: "Why use white wine?"
+  - "Truffle Twist: Hammer it with truffle oil before serving."
+  - "Protein Spike: Chuck in pan-fried tofu cubes or white beans to balance the macros."
+servingSuggestions: "Superset this rich pasta with a sharp, acidic rocket salad to cut through the heavy cream. Serve with garlic ciabatta to mop the bowl clean."
+shelf_life: "Best enjoyed fresh."
+storageInstructions: "Fridge for 3 days. Reheat gently on the stove with a splash of milk. Don't freeze it; the cream will split."
+whyTitle: "The Science of the Sauce"
 why:
-  - "The Maillard Reaction: Sautéing the mushrooms until golden (rather than just softened) unlocks a deep, meaty umami flavor that carries the entire dish."
-  - "The Emulsion Secret: Combining the starchy pasta water with the butter and cream creates an emulsified sauce that coats the pasta instead of pooling at the bottom of the bowl."
-  - "Acidic Lift: The white wine doesn't just add flavor; its acidity balances the richness of the 90ml of double cream, keeping the dish from feeling too heavy."
+  - "The Maillard Reaction: Sautéing until golden unlocks a deep, meaty umami flavour that carries the entire dish."
+  - "The Emulsion Secret: Starchy pasta water combined with butter creates a glossy coating that actually clings to the pasta."
+  - "Acidic Lift: The wine cuts straight through the 90ml of heavy cream, stopping the dish from becoming a cloying disaster."
 prepTimeMins: 10
 cookTimeMins: 15
 servings: 1
@@ -55,15 +55,15 @@ ingredients:
 
 faq:
   - question: "Do I need to use white wine?"
-    answer: "The wine adds a beautiful acidity, but you can substitute it with a splash of vegetable broth mixed with half a teaspoon of lemon juice or white wine vinegar."
+    answer: "It provides crucial acidity, but veg stock mixed with a dash of white wine vinegar works in an emergency."
   - question: "What is the best type of mushroom to use?"
-    answer: "Chestnut, cremini, or baby bella mushrooms work beautifully as they hold their shape and offer a deep, earthy flavor."
+    answer: "Chestnut or baby bella mushrooms. They hold their shape and deliver a deeper, earthier punch."
 
 steps:
-  - "Bring a large pot of heavily salted water to a boil. Add the pasta and cook for roughly one minute less than the package directions (al dente). Reserve a cup of pasta water before draining."
-  - "While the pasta cooks, melt the butter with a splash of oil in a large saucepan over medium-high heat. The oil prevents the butter from burning while you sear the mushrooms."
-  - "Add the mushrooms in a single layer. Let them sit undisturbed for 2 minutes to develop a deep golden crust (the Maillard reaction) before stirring. Add the minced garlic and thyme during the last minute of sautéing."
-  - "Pour in the white wine to deglaze the pan. Use a wooden spoon to scrape up all the brown bits from the bottom—this is where the concentrated flavor lives. Simmer until the wine has reduced by half."
-  - "Lower the heat to medium. Stir in the vegetable stock, double cream, and parmesan. Season with a generous pinch of black pepper and a little salt. Simmer for 2–3 minutes until the sauce coats the back of a spoon."
-  - "Transfer the cooked pasta directly into the sauce. Toss vigorously, adding a splash of the reserved pasta water if needed to create a glossy, silk-like coating. Serve immediately with extra parmesan."
+  - "Boil the pasta in heavily salted water until al dente. Reserve a mug of starchy cooking water before draining."
+  - "Melt the butter and a splash of oil in a large pan over medium-high heat. The oil stops the butter burning."
+  - "Chuck in the mushrooms in a single layer. Leave them alone for 2 minutes to develop a serious crust. Add the garlic and thyme for the final minute."
+  - "Pour in the wine to deglaze. Aggressively scrape the brown bits off the bottom of the pan. Simmer until the wine halves in volume."
+  - "Drop the heat. Stir in the stock, double cream, and parmesan. Season heavily with black pepper. Simmer for 3 minutes until it thickens."
+  - "Drop the pasta straight into the sauce. Toss vigorously, adding a splash of pasta water to build that glossy finish. Smash it immediately."
 ---

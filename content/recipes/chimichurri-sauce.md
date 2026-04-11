@@ -12,25 +12,25 @@ categories: ["vegan", "sauces", "5-minute-meals"]
 tags: ["vegan", "keto"]
 cuisine: "Argentinian"
 keywords: ["chimichurri", "sauce", "argentinian", "vegan", "5-minute", "condiment", "herbs"]
-tipsTitle: "Serving Tip"
+tipsTitle: "Flavour Mechanics"
 tips: 
-  - "Protein Pairing: This Chimichurri is the perfect companion for grilled tofu steaks or a hearty lentil bowl. The acidity in the vinegar actually helps your body digest plant-based proteins more efficiently!"
-  - "Let It Breathe: For the best flavor, allow the sauce to sit at room temperature for at least 15 minutes before serving so the herbs can release their oils."
-  - "Spice Level: Adjust the heat to your liking by leaving the seeds in the red chili for a fiery kick, or removing them for a milder tang."
+  - "Protein Pairing: The acidity in the vinegar actually helps break down plant-based proteins. Elite over grilled tofu or seitan."
+  - "Let It Breathe: Let it sit at room temperature for 15 minutes before serving so the herbs violently release their oils."
+  - "Heat Control: Leave the chilli seeds in for a fiery kick, or bin them for a milder tang."
 works:
-  - "Maceration Science: Soaking the minced garlic in the red wine vinegar first breaks down its harsh, raw enzymes, resulting in a smooth, integrated pungency."
-  - "Fat and Acid Synergy: The rich, heavy mouthfeel of the olive oil is perfectly cut by the sharp vinegar, creating a highly balanced dressing."
+  - "Maceration Science: Soaking raw garlic in vinegar kills the harsh enzymes, leaving a smooth, integrated pungency."
+  - "Fat and Acid Synergy: The heavy olive oil is perfectly sliced open by the sharp vinegar."
 use:
-  - "As a Marinade: Coat tofu or seitan before grilling."
-  - "As a Topping: Spoon over roasted vegetables or potatoes."
-  - "As a Dressing: Toss through a grain salad for a massive flavor upgrade."
+  - "As a Marinade: Coat tofu or seitan before hitting the grill."
+  - "As a Topping: Spoon aggressively over roasted potatoes or veg."
+  - "As a Dressing: Toss through a grain bowl for a massive flavour spike."
 rating: 
 variations:
-  - "Cilantro Blend: Replace half the parsley with fresh cilantro."
-  - "Lemon Lift: Use fresh lemon juice instead of red wine vinegar."
+  - "Coriander Blend: Swap half the parsley for fresh coriander."
+  - "Citrus Lift: Use fresh lemon juice instead of red wine vinegar."
 reviews: 
-servingSuggestions: "This vibrant chimichurri is an incredibly versatile condiment. Spoon it generously over freshly grilled seitan steaks, roasted portobello mushrooms, or thick slices of cauliflower steak. It also works beautifully as a zesty dressing for a hearty quinoa and black bean salad, or served in a small dipping bowl alongside warm, crusty bread as an appetizer."
-storageInstructions: "Keep in an airtight jar in the fridge for up to a week. The olive oil may solidify when cold, so let it sit at room temperature for 10 minutes before using. You can freeze chimichurri in ice cube trays for up to 3 months."
+servingSuggestions: "Spoon this generously over freshly grilled seitan steaks or thick cauliflower steaks. Brilliant as a dipping sauce with warm, crusty bread."
+storageInstructions: "Airtight jar in the fridge for a week. The olive oil will solidify, so let it sit at room temp for 10 minutes before using. Freezes fine in ice cube trays."
 prepTimeMins: 0
 cookTimeMins: 5
 servings: 1
@@ -51,11 +51,11 @@ ingredients:
 
 faq:
   - question: "Why is my chimichurri bitter?"
-    answer: "Using too much oregano or blending the sauce in a food processor can cause the olive oil to become bitter. Always chop the herbs by hand!"
+    answer: "You used a food processor. Blending olive oil aggressively makes it bitter. Always chop by hand."
   - question: "Can I make this ahead of time?"
-    answer: "Yes, making it a day in advance actually allows the garlic and herb flavors to meld together beautifully in the fridge."
+    answer: "Yes. Making it a day early lets the flavours marry perfectly in the fridge."
 
 steps:
-  - "In a small bowl, whisk the vinegar, salt, and garlic first. Let it sit for 2 minutes. This \"macerates\" the garlic, removing the harsh raw bite and infusing the vinegar"
-  - "Then, stir in the herbs, chilli, and finally the olive oil"
+  - "Whisk the vinegar, salt, and garlic in a bowl. Let it sit for 2 minutes to macerate the garlic and kill the raw bite."
+  - "Fold in the herbs, chilli, and finally the olive oil."
 ---

@@ -13,24 +13,24 @@ cuisine: "American"
 keywords: ["sweet potato fries", "thick cut", "vegan", "american", "snack", "air fryer"]
 tipsTitle: "Crispy Fry Secrets"
 tips: 
-  - "Space is Key: Don't overcrowd the air fryer basket. Cook in smaller batches if necessary to ensure the hot air circulates evenly for maximum crunch."
-  - "The Starch Soak: Soaking the sweet potato sticks in cold water for 30 minutes helps pull out starches, which is the secret to getting a crispy exterior."
-  - "Salt Timing: Only salt your fries *after* they finish cooking. Salting them beforehand draws out moisture and leads to steaming rather than frying."
+  - "Space is Mandatory: Overcrowding the basket equals steaming. Give them room to breathe for maximum crunch."
+  - "The Starch Soak: Soaking in cold water for 30 minutes bins the surface starch. Crucial for a crispy exterior."
+  - "Salt Timing: Only salt *after* cooking. Salting raw potatoes draws out moisture and ruins the crunch."
 works:
-  - "Moisture Control: Sweet potatoes hold a lot of water. The rapid air circulation of the air fryer evaporates this moisture quickly, achieving a crispy exterior that ovens struggle to replicate."
-  - "Natural Sweetness: The high heat caramelizes the natural sugars in the sweet potato, creating complex flavor profiles with minimal added ingredients."
+  - "Moisture Evaporation: The air fryer violently strips the high water content, achieving a crunch that standard ovens can't touch."
+  - "Natural Caramelisation: High heat perfectly roasts the natural sugars, no extras required."
 use:
-  - "Burger Sidekick: The classic pairing for any plant-based burger."
-  - "Healthy Snack: A satisfying, nutrient-dense treat when you need a crunch."
-  - "Loaded Base: Top with black beans, avocado, and salsa for a full meal."
+  - "Burger Sidekick: The elite pairing for a heavy plant-based burger."
+  - "Volume Snack: A massive, nutrient-dense serving when the cravings hit."
+  - "Loaded Base: Crown them with black beans and avocado for a full meal."
 tags: ["vegan", "snack"]
 variations:
   - "Cinnamon Sugar: Toss with a pinch of cinnamon for a sweet treat."
-  - "Spicy Cajun: Season with smoked paprika and cayenne pepper."
+  - "Spicy Cajun: Hammer them with smoked paprika and cayenne."
 rating: 
 reviews: 
-servingSuggestions: "These hearty sweet potato fries are best served hot with a selection of your favorite dipping sauces. A classic garlic aioli or a smoky chipotle mayo are excellent choices that complement the natural sweetness of the potatoes. They make a perfect side dish for loaded veggie burgers, grilled halloumi wraps, or as a satisfying snack on their own."
-storageInstructions: "Store leftovers in an airtight container in the fridge for up to 3 days. Reheat in the air fryer for 3-4 minutes to restore crispness. Freezing cooked fries is not recommended."
+servingSuggestions: "Demolish these immediately with a sharp garlic aioli or smoky chipotle mayo. The ultimate side dish for a stacked veggie burger."
+storageInstructions: "Fridge for 3 days. Blast in the air fryer to resurrect the crunch. Don't freeze them."
 prepTimeMins: 30
 cookTimeMins: 30
 servings: 1
@@ -45,13 +45,12 @@ ingredients:
 
 faq:
   - question: "Do I need to peel the sweet potatoes?"
-    answer: "No, leaving the skin on adds extra fiber and creates a great texture. Just make sure to scrub them thoroughly before slicing."
+    answer: "No. The skin adds extra fibre and brilliant texture. Just scrub them clean."
   - question: "Why are my sweet potato fries soggy?"
-    answer: "Overcrowding the air fryer basket or skipping the 30-minute cold water soak can lead to the fries steaming instead of crisping up."
+    answer: "You overcrowded the basket or skipped the 30-minute soak. Rookie errors that cause steaming instead of crisping."
 
 steps:
-  - "Slice the sweet potatoes into 1cm matchsticks. Soak them in cold water for 30 minutes to remove surface starch, then pat them completely dry"
-  - "In a bowl, toss the fries with a small amount of oil and your seasonings"
-  - "Place the fries in the basket and Air fry at 190c for 20-30 minutes. For the best results, cook in batches rather than stacking them too high. Every 5 minutes, remove the basket and give it a vigorous shake. This ensures every side of the fry hits that high-speed hot air"
-  - "Cook until the edges are golden-brown and slightly charred. Let them sit in the basket for 1 minute after turning the power off to \"set\" the crunch"
----
+  - "Slice into 1cm matchsticks. Submerge in cold water for 30 minutes to bin the starch, then pat ruthlessly dry."
+  - "Toss aggressively in a bowl with oil."
+  - "Space them out in the basket. Blast at 190°C for 20-30 minutes. Cook in batches if needed. Shake the basket violently every 5 minutes."
+  - "Pull them when charred. Let them rest in the basket for 60 seconds to lock in the crunch."

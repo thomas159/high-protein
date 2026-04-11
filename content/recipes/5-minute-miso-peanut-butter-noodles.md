@@ -2,7 +2,7 @@
 title: "Easy 5-Minute Ultra-Creamy Miso Peanut Butter Noodles"
 slug: "5-minute-miso-peanut-butter-noodles"
 meta: {
-  seoMetaDescription: "Need an emergency dinner? These easy 5-minute ultra-creamy miso peanut butter noodles are packed with vegan protein. Minimal prep, maximum umami flavor!"
+  seoMetaDescription: "Need an emergency dinner? These easy 5-minute ultra-creamy miso peanut butter noodles are packed with vegan protein. Minimal prep, maximum umami flavour!"
 } 
 description: "The ultimate 5-minute emergency meal. Whisking peanut butter into warm miso creates an easy, ultra-creamy emulsion that coats every single noodle perfectly. Minimal prep, maximum flavour, and a massive hit of umami and healthy fats—superset this with some edamame and you've got a serious post-gym dinner."
 image: "5-minute-miso-peanut-butter-noodles_eo9aef"
@@ -13,28 +13,28 @@ cuisine: "Japanese"
 keywords: ["miso", "peanut butter", "noodles", "japanese", "vegan", "high-protein", "5-minute"]
 tipsTitle: "Creamy Noodle Hacks"
 tips:
-  - "Miso Care: Never aggressively boil miso paste, as high heat destroys its delicate flavors and beneficial probiotics. Only bring the sauce to a very gentle simmer."
-  - "Starchy Water Secret: If your sauce looks too thick or split, vigorously stir in a splash of the starchy water from your cooked noodles to instantly bring it back to a silky glaze."
-  - "Soy Milk Temp: Add the soy milk gradually over low heat and stir constantly. Adding cold soy milk to a hot pan too quickly can cause it to separate and curdle."
+  - "Miso Care: Never aggressively boil miso paste unless you want to murder the beneficial probiotics. Keep it to a gentle simmer."
+  - "Starchy Water Secret: If your sauce turns to concrete or splits, vigorously stir in a splash of starchy noodle water to resurrect it into a silky glaze."
+  - "Soy Milk Temp: Add the soy milk gradually over low heat. Chucking cold milk into a hot pan is a rookie error and will cause it to split."
 works:
-  - "Emulsion Magic: Whisking peanut butter into the warm water before adding the soy milk creates a stable, creamy emulsion that coats the noodles beautifully."
-  - "Umami Synergy: Miso and soy sauce combine to deliver a massive punch of savory depth, entirely replacing the need for long-simmered broths or meat."
+  - "Emulsion Mechanics: Whisking peanut butter into warm water creates a stable emulsion that perfectly coats every single noodle."
+  - "Umami Synergy: Miso and soy sauce deliver a massive punch of savoury depth. Zero need for long-simmered meat broths."
 use:
-  - "Speedy Dinner: The ultimate 5-minute hack when you don't want to cook."
-  - "Pantry Meal: Uses long-lasting staples you probably already have."
-  - "Protein Boost: Add tofu or edamame for a serious post-gym meal."
-servingSuggestions: "These rich, umami-packed noodles are incredibly satisfying on their own, but pairing them with some crunchy greens elevates the dish. Serve alongside blanched edamame, sugar snap peas, or a refreshing cucumber ribbon salad to cut through the creamy peanut sauce. A wedge of lime squeezed over the top right before eating adds a perfect bright finish."
-shelf_life: "Best eaten fresh; the sauce thickens significantly as it cools."
-storageInstructions: "Store leftovers in the fridge for up to 3 days. The sauce will thicken, so add a splash of warm water when reheating. Do not freeze."
+  - "Speedy Dinner: The ultimate 5-minute cheat code when you're completely knackered."
+  - "Pantry Clear-out: Uses standard staples you likely already have lying around."
+  - "Protein Boost: Chuck in some smoked tofu to heavily bump up the macros."
+servingSuggestions: "These noodles are heavy hitters on their own, but superset them with some crunchy greens to cut through the rich peanut sauce. Blanched edamame or sugar snap peas work perfectly. Squeeze a wedge of lime over the top right before you smash it."
+shelf_life: "Eat it fresh. The sauce goes claggy as it cools."
+storageInstructions: "Fridge for up to 3 days. The sauce will thicken like concrete, so add a splash of warm water when reheating. Don't even think about freezing it."
 whyTitle: "Why this works for your gains"
 why:
-  - "Soy Milk Base: Using soy milk instead of just water adds a creamy texture and an extra 4g of complete plant-based protein."
-  - "Fermented Umami: Miso provides probiotics and deep flavor without the need for long simmering times."
-  - "Healthy Fats: Peanut butter offers heart-healthy monounsaturated fats to keep you satiated."
-muscleBuildingTip: "To get this meal over 30g of protein, toss in 100g of smoked tofu or a handful of edamame beans while the sauce is simmering.
+  - "Soy Milk Base: Using soy milk instead of water adds a creamy texture and sneaks in an extra 4g of plant-based protein."
+  - "Fermented Umami: Miso provides gut-friendly probiotics without hours of tedious prep."
+  - "Heavy Fuel: Peanut butter delivers the heart-healthy fats needed to keep you satiated during a cut."
+muscleBuildingTip: "Need to clear 30g of protein? Toss 100g of smoked tofu or a massive handful of edamame into the pan while the sauce simmers."
 variations:
-  - "Crunchy Veggies: Toss in shredded carrots or red cabbage."
-  - "Tahini Swap: Use tahini instead of peanut butter."
+  - "Volume Eating: Bulk it out with shredded carrots or red cabbage."
+  - "Tahini Swap: Swap peanut butter for tahini if you want a sharper, earthier flavour."
 prepTimeMins: 0
 cookTimeMins: 5
 servings: 1

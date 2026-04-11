@@ -16,21 +16,21 @@ rating:
 reviews: 
 tipsTitle: "Wok Skills"
 tips:
-  - "Prep is Everything: Stir-frying is fast! Chop all your vegetables and mix your sweet and sour sauce in a bowl before you even turn on the stove."
-  - "High Heat Hitting: Make sure your pan is smoking hot before adding the vegetables. You want to sear them quickly to lock in their crunch, not steam them."
-  - "Pineapple Power: Use fresh pineapple if possible; the natural enzymes tenderize the vegetables slightly, and the juice adds a bright, sharp acidity that canned versions lack."
+  - "Prep is Mandatory: Stir-frying is violent and fast. Chop the veg and mix the sauce before you even touch the stove."
+  - "High Heat Hitting: The pan must be smoking hot. You want to sear the veg to lock in the crunch, not steam it into mush."
+  - "Pineapple Power: Fresh pineapple is elite. The enzymes tenderise the veg and the fresh juice obliterates the canned stuff."
 works:
-  - "Flash Cooking: Searing the vegetables quickly over high heat seals in their natural moisture, preventing them from going mushy."
-  - "Cornstarch Thickening: The corn flour slurry binds the thin vinegar and stock into a glossy, sticky glaze that perfectly coats every vegetable."
+  - "Flash Cooking: High-heat searing seals the exterior, preventing the veg from turning to soggy rubbish."
+  - "Cornstarch Thickening: The slurry instantly binds the thin liquids into a thick, glossy glaze."
 use:
-  - "Weeknight Dinner: A rapid, 15-minute meal over jasmine rice."
-  - "Fridge Clear-out: An excellent way to use up leftover vegetables."
-  - "Meal Prep: Holds its crunch well for the next day's lunch."
+  - "Weeknight Fuel: A brutally efficient 15-minute meal over jasmine rice."
+  - "Fridge Clearance: An elite way to bin leftover veg."
+  - "Meal Prep: Retains its crunch perfectly for the next day."
 variations:
-  - "Tofu Addition: Add crispy air-fried tofu cubes for protein."
-  - "Cashew Crunch: Top with roasted cashews before serving."
-servingSuggestions: "To turn these sweet and sour vegetables into a complete, satisfying meal, serve them over a bed of freshly steamed jasmine rice or tossed with warm egg noodles. If you're looking for extra protein, top the dish with crispy air-fried tofu or grilled tempeh. A sprinkle of toasted sesame seeds and a dash of chili oil right before serving adds a lovely crunch and heat."
-storageInstructions: "Keep in the fridge for up to 3 days. Not recommended for freezing, as the vegetables (especially cucumber and tomato) will become overly soft and soggy when thawed."
+  - "Protein Addition: Chuck in some crispy air-fried tofu cubes."
+  - "Cashew Crunch: Hammer it with roasted cashews before serving."
+servingSuggestions: "Smash this over a bed of jasmine rice. Top with extra crispy tofu and a heavy dash of chilli oil for an elite recovery meal."
+storageInstructions: "Fridge for 3 days. Do not freeze this; the cucumber and tomato will turn to absolute mush."
 prepTimeMins: 15
 cookTimeMins: 15
 servings: 1
@@ -58,14 +58,14 @@ ingredients:
 
 faq:
   - question: "Can I add protein like tempeh or tofu to this?"
-    answer: "Yes! Crispy air-fried tofu or tempeh are perfect additions. Just toss them in at the very end to coat them in the sauce."
+    answer: "Absolutely. Pan-fry or air-fry it first, then fold it into the glaze at the very end."
   - question: "Do I have to use fresh pineapple?"
-    answer: "Canned pineapple works perfectly in a pinch! Just be sure to drain the juice, or use a splash of it in the sauce for extra sweetness."
+    answer: "Tinned works in an emergency. Use a splash of the juice in the sauce for extra sweetness."
 
 steps:
-  - "Heat the oil in a pan over a low heat then add the garlic and cook until it turns light brown. Then add the onion, cauliflower and carrot. Cook for around 5 minutes or until onion is translucent"
-  - "Add the cucumber, tomato, pineapple and pepper and cook for another 5 minutes"
-  - "Add the vegetable stock and turn the heat up high and cook until boiling for 2 minutes"
-  - "Add the soy sauce, vinegar, sugar and tomato sauce"
-  - "Mix the corn flour with the water and add to the pan. Continue stirring until the sauce thickens"
+  - "Get oil smoking hot in a pan. Toss in the garlic, onion, cauliflower, and carrot. Sear for 5 minutes until the onion softens."
+  - "Chuck in the cucumber, tomato, pineapple, and pepper. Sauté for another 5 minutes."
+  - "Pour in the veg stock. Blast the heat to max and boil for 2 minutes."
+  - "Stir in the soy sauce, vinegar, sugar, and tomato sauce."
+  - "Whisk the corn flour with the water. Pour it into the boiling pan and stir aggressively until the sauce thickens into a glaze."
 ---

@@ -2,23 +2,23 @@
 title: "The Quickest, Crispiest 15-Minute Air Fryer Tortilla Pizza"
 slug: "air-fryer-pizza-tortilla-wrap"
 meta: {
-  seoMetaDescription: "Hit that pizza craving fast! The quickest, crispiest 15-minute air fryer tortilla pizza gives you a low-calorie crunch. Minimal prep, maximum flavor."
+  seoMetaDescription: "Hit that pizza craving fast! The quickest, crispiest 15-minute air fryer tortilla pizza gives you a low-calorie crunch. Minimal prep, maximum flavour."
 }
 description: "A flour tortilla is a fantastic, lightweight framework for your pizza toppings. It crisps up beautifully under the intense heat of the air fryer, delivering the quickest, crispiest 15-minute pizza. Minimal prep, maximum flavour, and it saves you enough calories to easily justify a post-match pint."
 blurb: []
 tipsTitle: "Pro Tip"
 tips: 
-  - "Sauce Swap: Try adding tomato passata instead of pesto. To get that same punch, sprinkle a pinch of dried oregano, garlic powder, and a tiny dash of salt directly onto the sauce before adding the cheese."
-  - "Crisp Base: Lightly spray the bottom of the tortilla with olive oil before adding toppings to help it crisp up beautifully in the air fryer."
-  - "Don't Overload: Keep toppings light and thinly sliced. Too many heavy ingredients will make the delicate tortilla base soggy and difficult to hold."
+  - "Sauce Swap: Passata works too. Just heavily season it with dried oregano and garlic powder so it doesn't taste like plain crushed tomatoes."
+  - "Crisp Base: A quick mist of olive oil on the underside of the tortilla guarantees a rigid, crispy base."
+  - "Don't Overload It: This isn't a deep-dish. Keep toppings light or the base will buckle under the weight."
 works:
-  - "Calorie Conscious: By using a tortilla instead of dough, you save roughly 200–300 calories per serving."
-  - "Bursting with Flavor: Pesto provides all the seasoning you need—garlic, nuts, cheese, and herbs—in one single ingredient."
-  - "Perfect Texture: The high heat of the oven turns the thin tortilla into a delicate, snap-crisp base."
+  - "Macro Hack: Swapping heavy dough for a tortilla saves you an easy 300 calories to spend elsewhere."
+  - "Pesto Efficiency: Pesto brings oil, garlic, nuts, and herbs in a single spoonful. Ultimate flavour efficiency."
+  - "Rapid Heat: The air fryer turns a floppy wrap into a shatter-crisp crust in minutes."
 use:
-  - "Low-Calorie Fix: All the pizza flavor with barely any of the carbs."
-  - "After-School Snack: Simple enough to make in a hurry."
-  - "Light Lunch: Pairs beautifully with a fresh rocket side salad."
+  - "Cutting Phase Fix: All the pizza satisfaction, barely any of the carbs."
+  - "Emergency Refeed: Ready in 15 minutes when the cravings hit."
+  - "Light Lunch: Superset with a rocket salad."
 image: "air-fryer-pizza-tortilla-wrap_ko6ckn"
 alt: "Air fryer tortilla pizza with pesto and cherry tomatoes"
 pintrest: ""
@@ -27,12 +27,12 @@ cuisine: "Italian"
 keywords: ["tortilla pizza", "air fryer", "italian", "quick dinner", "thin-crust", "pesto"]
 tags: ["low-calorie", "quick-dinner"]
 variations:
-  - "Veggie Supreme: Load up with sliced bell peppers, mushrooms, and olives."
-  - "Spicy Kick: Add sliced jalapenos and a drizzle of hot honey."
+  - "Volume Build: Stack it with mushrooms and peppers."
+  - "Hot Honey: Hit it with jalapeños and a drizzle of chilli honey."
 rating: 
 reviews: 
-servingSuggestions: "This light, crispy tortilla pizza pairs wonderfully with a fresh side salad of peppery rocket, shaved parmesan, and a balsamic glaze to mimic a classic Italian pizzeria experience. If you like a bit of heat, serve it with a side of crushed red pepper flakes or chili-infused olive oil for drizzling. It's best enjoyed hot and sliced into easily manageable wedges."
-storageInstructions: "Best eaten fresh for a crispy base. You can assemble the pizza and freeze it flat before cooking for up to a month, but do not freeze after it has been cooked."
+servingSuggestions: "Smash this alongside a massive rocket and parmesan salad. Drizzle with chilli oil if you need an extra kick. Eat it immediately."
+storageInstructions: "Eat it fresh. Do not try and fridge this or it'll turn into a soggy frisbee."
 prepTimeMins: 5
 cookTimeMins: 10
 servings: 1

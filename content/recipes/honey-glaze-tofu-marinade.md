@@ -14,29 +14,29 @@ keywords: ["tofu marinade", "honey glaze", "asian", "vegetarian", "sweet", "savo
 tags: ["high protein", "air-fryer"]
 tipsTitle: "Marinade Mastery"
 tips:
-  - "Scoring the Tofu: Lightly score the surface of your tofu cubes in a crisscross pattern to allow the sweet honey glaze to penetrate even deeper."
-  - "Watch the Heat: Honey caramelizes beautifully but can burn quickly. Keep a close eye on the tofu during the final minutes of cooking to ensure a golden, not charred, crust."
-  - "Vegan Swap: Easily make this recipe 100% vegan by swapping the honey for agave nectar or a thick maple syrup; both work perfectly for that sticky finish."
+  - "Scoring the Block: Lightly score the tofu in a crisscross pattern so the glaze penetrates the core."
+  - "Watch the Heat: Honey burns quickly. Monitor the final minutes to get a golden crust, not a charcoal briquette."
+  - "Vegan Swap: Swap the honey for maple syrup or agave to keep it 100% plant-based."
 works:
-  - "Maillard Reaction: The natural sugars in the honey undergo rapid caramelization in the air fryer, forming a sticky, glossy lacquer over the tofu."
-  - "Flavor Equilibrium: The intense sweetness of the honey is expertly grounded by the salty soy sauce and the earthy depth of the cumin."
+  - "Maillard Reaction: The high heat forces the honey to caramelise rapidly, forming a sticky, glossy lacquer."
+  - "Flavour Equilibrium: The sharp soy sauce and earthy cumin keep the honey from turning this into a dessert."
 use:
-  - "Sticky Skewers: Thread onto sticks with peppers and grill."
-  - "Bowl Builder: The ultimate sweet and savory protein for rice or quinoa bowls."
-  - "Stir-Fry Addition: Toss into noodle dishes at the very end of cooking."
+  - "Sticky Skewers: Thread onto sticks and blast in the air fryer."
+  - "Bowl Builder: An elite sweet and savoury protein hit for your rice prep."
+  - "Stir-Fry Addition: Toss into noodles right at the end."
 rating: 
 reviews: 
-servingSuggestions: "The sticky, sweet-and-savory profile of this tofu makes it an ideal companion for a bowl of sticky sushi rice or quick-cooking soba noodles. Serve it alongside lightly steamed bok choy or garlic-sautéed broccoli for a balanced meal. A final garnish of freshly sliced spring onions and a sprinkle of toasted sesame seeds will give it a restaurant-quality finish."
+servingSuggestions: "Perfect paired with sticky sushi rice and steamed bok choy. Finish with sliced spring onions and toasted sesame seeds."
 shelf_life: "Stored in airtight container in the fridge for 5 days"
-storageInstructions: "Store uncooked marinated tofu in the fridge for up to 5 days. Freeze in an airtight container or bag for up to 3 months. Thaw in the fridge before cooking."
+storageInstructions: "Fridge the uncooked marinated tofu for 5 days. Freezes well for 3 months; thawing improves the chew."
 whyTitle: "Why marinate tofu?"
 why:
-  - "Natural Caramelization: The sugars in the honey react with the high heat of the air fryer or pan to create a sticky, \"lacquered\" crust that seals in moisture.\\"
-  - "Umami Balance: Soy sauce (or Tamari) provides the salt and depth needed to stop the honey from being overly sweet."
-  - "Fragrant Warmth: While many honey glazes are just \"sweet,\" the addition of cumin and coriander adds an earthy, professional finish that pairs perfectly with grains."
+  - "Natural Caramelization: The sugars react with the heat to build a thick, lacquered crust that locks in moisture."
+  - "Umami Balance: Soy sauce provides the savoury depth to kill the excess sweetness."
+  - "Fragrant Warmth: Cumin and coriander elevate this from basic sweet soy to a professional glaze."
 variations:
-  - "Spicy Honey: Add a teaspoon of sriracha or chili flakes."
-  - "Vegan Swap: Use agave nectar or maple syrup instead of honey."
+  - "Spicy Honey: Whisk in a heavy dash of sriracha or chilli flakes."
+  - "Vegan Swap: Agave or maple syrup."
 prepTimeMins: 30
 cookTimeMins: 5
 servings: 1
@@ -58,14 +58,14 @@ ingredients:
 
 faq:
   - question: "Does honey burn in the air fryer?"
-    answer: "It can if left too long, due to the high sugar content. Keep an eye on it during the last few minutes, or lower the heat slightly if it's browning too fast."
+    answer: "Yes, if you ignore it. Keep an eye on the last few minutes and drop the heat if it's catching."
   - question: "Do I need to press the tofu first?"
-    answer: "Yes, pressing out the water allows the tofu to act like a sponge and soak up the sweet and savory marinade."
+    answer: "Always. Pressing bins the excess water so it can absorb the glaze like a sponge."
 
 steps:
-  - "For the best results, wrap your extra-firm tofu in a clean towel and place a heavy weight on top for 15 minutes. Removing excess water allows the marinade to soak deep into the block rather than just sitting on the surface."
-  - "In a bowl, combine the honey, lemon juice, paprika, cumin, coriander, garlic powder, chilli powder, water, a pinch of salt and a splash of oil."
-  - "Cut the tofu into 2cm cubes and toss them in the marinade. If you have time, let it sit for 30 minutes. The acidity in the lemon juice helps the spices penetrate the tofu."
-  - "Air Fry: 180°C for 6-10 minutes, shaking halfway. Pan Fry: Medium-high heat with a little oil until all sides are golden-brown and slightly charred."
-  - "Serve with a fresh sprig of coriander and an extra wedge of lemon to brighten the deep earthy spices."
+  - "Wrap your tofu in a towel and smash a heavy weight on it for 15 minutes. Getting rid of the water means the marinade can actually penetrate the block."
+  - "Whisk the honey, lemon juice, spices, water, a pinch of salt, and a splash of oil in a bowl."
+  - "Cube the tofu and toss it through the marinade. Let it sit for 30 minutes if you have the time."
+  - "Air Fry at 180°C for 6-10 minutes, shaking halfway. Or pan-fry until golden."
+  - "Hit it with a fresh sprig of coriander and a wedge of lemon before serving."
 ---

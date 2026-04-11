@@ -17,19 +17,19 @@ rating:
 reviews: 
 tipsTitle: "Crispy Carrot Tips"
 tips:
-  - "Uniform Cuts: Try to cut the carrot strips as uniformly as possible so they cook evenly."
-  - "Don't Overcrowd: Make sure the fries are in a single layer in the air fryer basket to maximize crispiness."
+  - "Uniform Cuts: Slice them consistently. Thick ones stay raw while thin ones turn to ash."
+  - "Don't Overcrowd: Give them space in the basket. Overcrowding equals steaming, not crisping."
 works:
-  - "Sweet and Savory: The natural sweetness of the roasted carrots pairs perfectly with the salty umami of the parmesan cheese."
-  - "Air Fried Crunch: The circulating hot air of the air fryer crisps up the cheese and edges of the carrots using minimal oil."
+  - "Sweet and Savoury: The roasted natural sugars perfectly offset the salty, umami hit of the parmesan."
+  - "Air Fried Crunch: The circulating heat crisps the cheese and edges with a fraction of the oil."
 use:
-  - "Healthy Snack: A fantastic low-calorie alternative to potato fries."
-  - "Side Dish: Pairs perfectly with burgers, sandwiches, or grilled proteins."
+  - "Volume Eating: An elite, low-calorie alternative to smash your chip cravings."
+  - "Superset Side: Perfect alongside a heavy protein main."
 variations:
-  - "Spicy Kick: Toss with a pinch of cayenne pepper."
-  - "Vegan Option: Swap parmesan for nutritional yeast."
-servingSuggestions: "Serve immediately while hot and crispy, alongside a garlic aioli or a simple yogurt dip."
-storageInstructions: "Best eaten fresh. Leftovers can be stored in the fridge for up to 3 days and reheated in the air fryer to restore some crispness, but they will soften over time. Do not freeze."
+  - "Spicy Kick: Hammer it with cayenne pepper."
+  - "Vegan Option: Swap the parmesan for nutritional yeast."
+servingSuggestions: "Smash these immediately while they're hot and rigid. Pair with a low-cal garlic yoghurt dip."
+storageInstructions: "Eat them fresh. Fridge leftovers survive 3 days but go limp. Re-crisp in the air fryer. Don't freeze."
 prepTimeMins: 5
 cookTimeMins: 20
 servings: 1
@@ -48,13 +48,13 @@ ingredients:
 
 faq:
   - question: "Why did my carrot fries burn?"
-    answer: "Carrots have a high natural sugar content which can caramelize and burn quickly. Make sure to shake the basket halfway through and don't skip the oil!"
+    answer: "Carrots have high natural sugar that caramelises fast. Shake the basket often and don't skip the oil."
   - question: "Can I use regular potatoes instead?"
-    answer: "Yes, but the cooking time may increase slightly. Carrots provide a sweeter, lower-calorie alternative to traditional fries."
+    answer: "Yes, but carrots are the ultimate cheat code for high-volume, low-calorie snacking."
 
 steps:
-  - "Cut the carrots into thin strips. From the top of the carrot you should be able to cut into 3, and the bottom into 2 strips for uniform fry shapes."
-  - "In a bowl, coat the carrot strips evenly with the olive oil, salt, minced garlic, and parmesan cheese."
-  - "Place the coated carrots in the air fryer basket in a single layer. Air fry at 180°C for 16-20 minutes, shaking the basket halfway through until they are tender and the cheese is crispy and golden."
-  - "Remove from the air fryer and serve immediately with some extra grated parmesan and a sprinkle of fresh parsley on top."
+  - "Cut the carrots into uniform strips so they cook evenly."
+  - "In a bowl, aggressively coat the strips with olive oil, salt, minced garlic, and parmesan."
+  - "Space them out in a single layer in the air fryer basket. Blast at 180°C for 16-20 minutes. Shake halfway through so the cheese crisps evenly."
+  - "Pull them out when golden. Serve immediately with extra parmesan and a hit of parsley."
 ---

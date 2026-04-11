@@ -14,23 +14,23 @@ cuisine: "American"
 keywords: ["banana muffins", "oats", "healthy baking", "american", "dessert", "high-protein", "chocolate"]
 tipsTitle: "Vegan Alternative"
 tips: 
-  - "Vegan Alternative: Swap the egg for a 'flax egg' (1 tbsp ground flax + 3 tbsp water) and use a high-protein soy yogurt instead of Greek yogurt. Replace the honey with maple syrup."
-  - "Spotty Bananas Only: Use the brownest, ugliest bananas you can find. They mash easier, provide natural caramel notes, and dramatically reduce the need for added sweeteners."
-  - "Don't Over-Mix: Stir the wet and dry ingredients until *just* combined. Over-mixing activates the oat starches and can make your muffins dense and rubbery instead of light and fluffy."
+  - "Vegan Swap: Bin the egg for a flax egg (1 tbsp ground flax + 3 tbsp water). Swap Greek yoghurt for soy, and honey for maple syrup."
+  - "Black Bananas Only: Use the absolute ugliest, spotty bananas you can find. They mash easier and provide a massive natural caramel hit."
+  - "Don't Over-Mix: Stir until *just* combined. Over-mixing activates the starches and turns your muffins into rubber."
 works:
-  - "Moisture Lock: The mashed bananas and Greek yogurt provide incredible hydration to the bake, completely eliminating the need for heavy oils or butter."
-  - "Oat Flour Science: The finely ground oats absorb the liquid ingredients efficiently, acting as a gluten-free binder that yields a dense, brownie-like texture."
+  - "Moisture Lock: Bananas and Greek yoghurt provide massive hydration, entirely binning the need for heavy oils or butter."
+  - "Oat Flour Mechanics: Finely ground oats absorb the liquid efficiently, acting as a high-fibre binder for a dense, brownie-like texture."
 use:
-  - "Breakfast on the Go: Grab one with your morning coffee for lasting energy."
-  - "Post-Workout: A macro-friendly balance of carbs and protein."
-  - "Guilt-Free Dessert: Warm it up and serve with a dollop of yogurt."
+  - "Grab & Go Breakfast: Smash one with your morning coffee for lasting energy."
+  - "Macro Fuel: A highly efficient balance of carbs and protein post-workout."
+  - "Evening Treat: Warm it up and serve with a massive dollop of yoghurt."
 variations:
   - "Nutty Crunch: Fold chopped walnuts or pecans into the batter."
   - "Berry Burst: Swap cocoa powder for fresh blueberries."
 rating: 
 reviews: 
-servingSuggestions: "These protein-packed muffins are fantastic on their own, but pairing them with a hot cup of black coffee or herbal tea makes for a perfect morning ritual. For a more indulgent snack, split a warm muffin in half and spread a thin layer of almond butter or peanut butter on top. They also go wonderfully with a side of fresh banana slices or a dollop of Greek yogurt."
-storageInstructions: "Store in an airtight container at room temperature for 2 days or in the fridge for up to 5 days. Freeze individually wrapped muffins for up to 3 months. Thaw at room temperature."
+servingSuggestions: "Smash these with a black coffee or herbal tea. If you need more calories, slice a warm muffin and aggressively spread almond butter across it. Excellent with a dollop of Greek yoghurt."
+storageInstructions: "Airtight tub at room temp for 2 days, or fridge for 5 days. Freeze them individually for up to 3 months. Thaw at room temp."
 prepTimeMins: 5
 cookTimeMins: 10
 servings: 4
@@ -51,13 +51,12 @@ ingredients:
 
 faq:
   - question: "Can I use normal flour instead of oat flour?"
-    answer: "Yes, you can substitute whole wheat or all-purpose flour in a 1:1 ratio, but oat flour provides a denser, fudgier texture and more fiber."
+    answer: "You can use standard flour in a 1:1 ratio, but oat flour delivers a denser, fudgier texture and more fibre."
   - question: "Why did my muffins turn out rubbery?"
-    answer: "Over-mixing the batter activates the starches too much. Gently fold the wet and dry ingredients together until *just* combined."
+    answer: "Over-mixing activates the starches and turns them tough. Gently fold the wet and dry ingredients until *just* combined."
 
 steps:
-  - "Mash the banana in a bowl until smooth. Whisk in the egg, Greek yogurt, honey, and cocoa powder"
-  - "Fold in the oat flour, baking powder, and half of the desiccated coconut"
-  - "Pour into a small lined dish. Sprinkle the remaining coconut on top for a toasted finish"
-  - "Bake at 180°C for 6-8 minutes in the air fryer or the oven until they look cooked (insert a fork and it should come out clean)"
----
+  - "Aggressively mash the banana in a bowl until smooth. Whisk in the egg, Greek yoghurt, honey, and cocoa powder."
+  - "Gently fold in the oat flour, baking powder, and half the desiccated coconut."
+  - "Pour the batter into a small lined dish. Hammer the top with the remaining coconut for a toasted finish."
+  - "Blast at 180°C for 6-8 minutes in the air fryer. Insert a fork—if it comes out clean, they're done."

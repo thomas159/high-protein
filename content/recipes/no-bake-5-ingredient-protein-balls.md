@@ -12,31 +12,31 @@ categories: ["high-protein", "5-minute-meals", "snacks", "dessert"]
 cuisine: "American"
 tags: ["snack", "high protein"]
 keywords: ["protein balls", "no-bake", "snack", "high-protein", "american", "meal prep"]
-tipsTitle: "Perfecting the Dough"
+tipsTitle: "Dough Mastery"
 tips: 
-  - "Texture Control: If the mixture is too dry, add a splash of milk or a teaspoon of water; if it's too sticky, sprinkle in a few more oats or protein powder."
-  - "Flavor Upgrades: Try folding in dark chocolate chips, dried cranberries, or a pinch of cinnamon to keep your snacking exciting."
-  - "Chill for Easy Rolling: Pop the bowl in the fridge for 10 minutes before rolling to help the nut butter firm up and reduce mess."
+  - "Texture Control: Too dry? Add a splash of milk. Too sticky? Chuck in more oats or protein powder to balance the binder."
+  - "Flavour Upgrades: Fold in dark chocolate chips or a heavy pinch of cinnamon to stop your prep getting boring."
+  - "Chill Out: Pop the bowl in the fridge for 10 minutes before rolling. It firms up the nut butter and stops the mess."
 works:
-  - "Natural Binders: The sticky consistency of the peanut butter and honey perfectly traps the dry oats and protein powder, removing the need to bake them."
-  - "Carb to Fat Ratio: Combining the complex, slow-digesting carbs of the oats with the healthy fats in the nut butter prevents sharp blood sugar spikes."
+  - "Natural Binders: The sticky peanut butter and honey perfectly trap the dry ingredients, entirely removing the need to bake them."
+  - "Macro Balance: Complex oat carbs combined with healthy nut fats prevent aggressive blood sugar spikes."
 use:
-  - "Pre-Workout: A quick hit of energy from fast-digesting carbs and fats."
-  - "On-the-Go Snack: Easy to pack in a gym bag or backpack."
-  - "Healthy Dessert: A sweet, fudge-like treat to satisfy late-night sugar cravings."
+  - "Pre-Workout: A rapid, clean hit of carbs and fats before a heavy session."
+  - "Commuter Fuel: Effortless to chuck in your gym bag."
+  - "Late-Night Fix: A dense, fudgy treat to kill late-night sugar cravings."
 rating: 
 variations:
   - "Chocolate Chip: Fold in vegan dark chocolate chips."
-  - "Coconut Coating: Roll the finished balls in desiccated coconut."
+  - "Coconut Armour: Roll the finished balls in desiccated coconut."
 reviews:
-servingSuggestions: "Keep these energy-dense protein balls chilled and serve them straight from the fridge for the best, fudgy texture. They pair wonderfully with a mid-morning cappuccino or a post-workout protein shake. If you're serving them as a healthier dessert option, arrange them on a platter alongside fresh berries and a small bowl of dark chocolate sauce for dipping."
+servingSuggestions: "Keep them chilled and smash them straight from the fridge for the best fudgy texture. Perfect alongside a black coffee."
 shelf_life: "Stored in airtight container in the fridge for 5 days" 
-storageInstructions: "Store in an airtight container in the fridge for up to 2 weeks. They freeze exceptionally well for up to 3 months. Eat straight from the freezer or let them soften for 5 minutes."
-whyTitle: "Why make these protein balls?"
+storageInstructions: "Fridge in an airtight tub for 2 weeks. They freeze brilliantly for 3 months. Eat them straight from the freezer."
+whyTitle: "The Macro Science"
 why:
-  - "Cold-Pressed Nutrition: Because these aren't baked, the delicate micronutrients in ingredients like flaxseed or raw honey remain intact."
-  - "Satiety Balance: The combination of complex carbs (oats) and healthy fats (nut butter) provides sustained energy without the \"sugar crash.\""
-  - "Infinite Variety: Once you have the base ratio, you can swap mix-ins like dark chocolate chips, dried cranberries, or hemp seeds."
+  - "Cold-Pressed Nutrition: Zero baking means the delicate micronutrients stay completely intact."
+  - "Satiety Balance: Slow-digesting oats and heavy nut fats deliver sustained energy without the sugar crash."
+  - "Infinite Variety: Nail the base ratio, then endlessly swap the mix-ins so you never get bored."
 prepTimeMins: 5
 cookTimeMins: 0
 servings: 5
@@ -54,12 +54,12 @@ ingredients:
 
 faq:
   - question: "Can I use a different nut butter instead of peanut butter?"
-    answer: "Absolutely! Almond butter, cashew butter, or even sunflower seed butter work perfectly. Just ensure it has a sticky, drippy consistency to bind the oats."
+    answer: "Absolutely. Almond, cashew, or sunflower seed butter work perfectly. Just ensure it's drippy enough to bind the oats."
   - question: "Are these protein balls gluten-free?"
-    answer: "They can be! Just make sure to buy certified gluten-free oats, as standard rolled oats are often cross-contaminated during manufacturing."
+    answer: "Yes, just ensure you buy certified gluten-free oats to avoid cross-contamination."
 
 steps:
-  - "Add the rolled oats, nut butter, sweetener, protein powder, and any mix-ins (like chocolate chips or seeds) into a large mixing bowl. Stir vigorously until a thick, cohesive dough forms"
-  - 'Take a small scoop of the mixture (about 1 tablespoon) and roll it firmly between your palms to form a round ball. Alternatively, flatten them into "cookie" discs if you prefer that shape'
-  - "If the mixture is too sticky to roll, pop the bowl in the fridge for 10 minutes to firm up the oils in the nut butter"
+  - "Chuck the oats, nut butter, banana, milk, and protein powder into a bowl. Mix aggressively until a thick dough forms."
+  - "Take a tablespoon of the mix and roll it firmly between your palms into a ball. Or flatten them into discs."
+  - "If it's too sticky to handle, fridge the bowl for 10 minutes to solidify the fats."
 ---

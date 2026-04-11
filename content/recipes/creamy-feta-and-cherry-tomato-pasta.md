@@ -9,29 +9,29 @@ blurb: []
 image: "feta-and-cherry-tomato-pasta_k93wad"
 alt: "Creamy feta and cherry tomato pasta in a bowl"
 categories: ["dinner", "15-minute-meals"]
-tipsTitle: "Chef's Tips"
+tipsTitle: "Pasta Mechanics"
 tips:
-  - "Vegan Swap: Easily make this vegan by using a high-fat plant cream (like oat or soy cream) and substituting the dairy feta with a tangy, high-quality vegan feta."
-  - "Jammy Tomatoes: If using cherry tomatoes, try halving them before sautéing. They release their natural juices much faster, creating a sweet, rustic 'jam' base for the sauce."
-  - "Feta Selection: Always buy a block of feta suspended in brine rather than the pre-crumbled tubs. It melts incredibly smooth and provides a much sharper, authentic tang."
-  - "Wine Pairing: A dry, crisp white wine like Pinot Grigio or Sauvignon Blanc works best to cut through the heavy richness of the cream and cheese."
+  - "Vegan Swap: Easily plant-based. Use soy or oat cream and sub the dairy feta for a high-quality vegan block."
+  - "Jammy Tomatoes: Halve the cherry tomatoes before sautéing. They release their juices faster and build a sweet, rustic jam base."
+  - "Feta Selection: Always buy block feta suspended in brine. Pre-crumbled tubs are coated in dust and melt like gravel."
+  - "Wine Pairing: A dry, crisp white wine like Pinot Grigio slices straight through the heavy richness."
 works:
-  - "Acid and Fat Synergy: The sharp acidity of the white wine and tomatoes cuts beautifully through the heavy cream and salty feta, creating a perfectly balanced bite."
-  - "Starch Binding: Reserving and adding the starchy pasta water ensures the dairy emulsifies completely into a smooth sauce that clings to every noodle."
+  - "Acid and Fat Synergy: The sharp acidity of the wine and tomatoes violently cuts the heavy cream and salty feta."
+  - "Starch Binding: Reserving starchy pasta water forces the dairy to emulsify into a smooth sauce that actually clings to the noodles."
 use:
-  - "Weeknight Savior: A luxurious pasta dish that only takes 15 minutes."
-  - "Lunch Prep: Tastes incredible reheated the next day."
-  - "Dinner Party: Looks and tastes sophisticated enough for entertaining."
+  - "Weeknight Saviour: A luxurious, heavy carb refeed in exactly 15 minutes."
+  - "Macro Lunch: Tastes incredible reheated the next day."
+  - "Cheat Meal Illusion: Looks and tastes premium enough to serve to guests."
 cuisine: "Italian"
 tags: ["pasta", "quick-dinner"]
 keywords: ["feta pasta", "cherry tomato", "italian", "15-minute", "creamy", "vegetarian"]
 rating: 
 reviews: 
 variations:
-  - "Spinach Fold: Stir in baby spinach until wilted."
-  - "Protein Addition: Toss in cooked white beans or crispy tofu cubes."
-servingSuggestions: "This Mediterranean-inspired pasta dish is best served immediately while the feta is warm and creamy. A side of roasted asparagus or steamed green beans adds a lovely crunch and vibrant color to the meal. Pair it with a chilled, crisp white wine, such as a Sauvignon Blanc, and offer extra cracked black pepper and fresh basil at the table."
-storageInstructions: "Store in the fridge for up to 3 days. Reheat gently with a splash of water. Freezing is not recommended as the feta cream sauce may split and become grainy upon thawing."
+  - "Volume Boost: Fold in massive handfuls of baby spinach until wilted."
+  - "Protein Spike: Toss in cooked white beans or crispy tofu cubes."
+servingSuggestions: "Smash this immediately while the feta is warm and creamy. Superset with roasted asparagus and a crisp white wine."
+storageInstructions: "Fridge for 3 days. Reheat gently with a splash of boiling water. Do not freeze this; the cream will split into a granular mess."
 prepTimeMins: 0
 cookTimeMins: 15
 servings: 1
@@ -52,14 +52,14 @@ ingredients:
 
 faq:
   - question: "Can I make this without wine?"
-    answer: "Yes! You can substitute the white wine with an equal amount of vegetable stock mixed with a teaspoon of white wine vinegar or lemon juice."
+    answer: "Yes, swap it for vegetable stock mixed with a dash of white wine vinegar."
   - question: "Should I use block feta or pre-crumbled?"
-    answer: "Always use block feta stored in brine. It melts much smoother into the sauce, whereas pre-crumbled feta has anti-caking agents that make it gritty."
+    answer: "Block feta in brine, always. Pre-crumbled has anti-caking agents that make it gritty."
 
 steps:
-  - "Fill a large pot with water and a generous pinch of salt (it should taste like the sea). Bring to a rolling boil, add your pasta, and cook until al dente (usually 1–2 minutes less than the package instructions)"
-  - "While the pasta is bubbling, heat olive oil in a large saucepan over medium heat. Add the tomatoes and garlic. Cook for 2 minutes until the tomatoes just begin to soften and the garlic is fragrant. Pour in the white wine. Let it simmer for 2–3 minutes until the sharp alcohol scent has vanished and the liquid has reduced by half"
-  - "Stir in the vegetable stock and heavy cream. Simmer for another 2–3 minutes until the sauce coats the back of a spoon. Crumble in the feta cheese. Don’t over-stir if you like little \"pockets\" of cheese, or whisk it in for a completely smooth, salty sauce"
-  - "Transfer the cooked pasta directly into the saucepan with the sauce. If the sauce looks too thick, add a splash of that reserved pasta water. The starch in the water helps the sauce cling to the noodles rather than sliding off"
-  - "Remove from heat immediately. Serve in warm bowls and garnish with fresh basil or a crack of black pepper"
+  - "Boil the pasta in heavily salted water until al dente. Reserve a mug of starchy cooking water before draining."
+  - "Heat olive oil in a pan over medium. Sauté the tomatoes and garlic for 2 minutes. Pour in the wine and simmer until reduced by half."
+  - "Stir in the veg stock and cream. Simmer for 3 minutes until thick. Crumble in the feta. Don't over-stir if you like chunky cheese pockets, or whisk aggressively for a smooth sauce."
+  - "Drop the pasta straight into the sauce. Toss vigorously, adding a splash of pasta water to build that glossy finish."
+  - "Pull it off the heat immediately. Garnish with fresh basil and a heavy crack of black pepper."
 ---

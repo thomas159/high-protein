@@ -10,31 +10,31 @@ alt: "Air fryer fries drizzled with garlic sour cream sauce"
 pintrest: ""
 categories: ["air-fryer", "30-minute-meals", "snacks"]
 cuisine: "American"
-tipsTitle: "Crispy & Creamy"
+tipsTitle: "Crunch Mechanics"
 tips: 
-  - "The Golden Shake: Give your air fryer basket a vigorous shake every 5 minutes. This ensures the hot air hits every side of the potato, creating an impossibly even crunch."
-  - "Sauce Separation: If making this for a party, serve the garlic sour cream sauce on the side as a dip to keep the fries extra crispy for as long as possible."
-  - "Cold Sauce, Hot Fries: Make sure the sour cream is straight from the fridge when you toss the fries. The temperature contrast between the piping hot potatoes and cool cream is incredible."
+  - "The Golden Shake: Shake the basket aggressively every 5 minutes. This ensures the circulating heat hits every single fry."
+  - "Sauce Separation: If serving a crowd, keep the sauce on the side as a dip to preserve the crispiness."
+  - "Temperature Contrast: The sour cream must be fridge-cold when it hits the piping hot fries. The contrast is elite."
 works:
-  - "Temperature Contrast: The intense heat of the crispy fries forces the cool sour cream to slightly melt, forming a silky, rich coating."
-  - "Air-Fried Texture: Using an air fryer strips the potatoes of excess moisture rapidly, creating a tough exterior that doesn't immediately go soggy under the heavy cream."
+  - "Thermal Contrast: The intense heat of the fries slightly melts the cold cream, building a silky coating."
+  - "Air-Fried Armour: The air fryer violently strips moisture, creating a rigid exterior that holds up under the heavy sauce."
 use:
-  - "Gourmet Side: Elevates a standard dinner into a pub-style feast."
-  - "Sharing Plate: Perfect for piling high in the center of the table."
-  - "Flavor Fix: The tangy sour cream sauce acts as an incredible built-in dip."
+  - "Gourmet Side: Elevates a standard weeknight dinner into a pub-style feast."
+  - "Match Day Platter: Perfect for piling high in the centre of the table."
+  - "Flavour Fix: The tangy sauce acts as an incredible built-in dip."
 tags: []
 keywords: ["sour cream", "fries", "air fryer", "american", "snack", "garlic", "crispy"]
-whyTitle: "Why use an air fryer?"
+whyTitle: "Air Fryer Advantages"
 why:
-  - "Superior Crunch: Rapid air circulation creates a \"deep-fried\" texture without the grease."
-  - "Speed: Go from frozen or fresh to loaded in under 30 minutes."
+  - "Superior Crunch: Circulating heat delivers a deep-fried snap with barely any oil."
+  - "Brutal Efficiency: Raw potato to fully loaded plate in under 30 minutes."
 variations:
-  - "Loaded Potato Style: Top with cheddar cheese and vegetarian bacon bits."
-  - "Spicy Cream: Mix a dash of hot sauce into the sour cream."
+  - "Loaded Style: Hammer it with cheddar and vegetarian bacon bits."
+  - "Fire Starter: Whisk a heavy dash of hot sauce into the sour cream."
 rating: 
 reviews: 
-servingSuggestions: "These tangy, crispy fries are a crowd-pleaser and are best served piping hot. For an extra layer of flavor, top them with crispy facon (vegan bacon) bits or a handful of fresh chives just before serving. They pair wonderfully with casual, pub-style mains like crispy battered banana blossom or a hearty, stacked veggie club sandwich."
-storageInstructions: "Best enjoyed fresh. Leftover fries (without sauce) can be stored in the fridge for 3 days and reheated in the air fryer. The sour cream sauce should be stored separately in the fridge for up to 4 days."
+servingSuggestions: "Smash these piping hot. Top with crispy facon bits and chives. Elite alongside a massive veggie club sandwich."
+storageInstructions: "Eat them fresh. Naked fries survive 3 days in the fridge and can be re-crisped. Keep the sauce in a separate tub."
 prepTimeMins: 5
 cookTimeMins: 25
 servings: 1
@@ -52,14 +52,14 @@ ingredients:
 
 faq:
   - question: "Can I use Greek yogurt instead of sour cream?"
-    answer: "Absolutely. Greek yogurt makes a fantastic high-protein, lower-calorie substitute that still provides that tangy, creamy coating."
+    answer: "Absolutely. Greek yoghurt is an elite high-protein, lower-calorie swap."
   - question: "Will the fries get soggy?"
-    answer: "To keep them as crispy as possible, toss the hot fries in the cool sauce right before eating, or serve the sauce on the side as a dip."
+    answer: "Toss the hot fries in the cold sauce right before eating, or serve it as a dip to keep the structural integrity intact."
 
 steps:
-  - "Scrub the potatoes and slice them into uniform sticks, approximately 0.5cm thick. In a large bowl, toss the fries with olive oil, salt until every surface is lightly coated. Using a bowl ensures even seasoning without making the fries soggy"
-  - "Arrange the potatoes in the basket, try not to overcrowd them to ensure maximum airflow. Air fry for 18-24 minutes on 190c, giving the basket a vigorous shake every 5 minutes for an even, golden crunch"
-  - "While the fries are crisping, whisk together the sour cream, garlic granules, and finely chopped spring onions in a small bowl."
-  - "Once the fries are deeply golden and nearly finished (fries should be browned on the outside and soft in the middle), transfer them to a clean bowl. Pour the sour cream mixture over the top and toss gently but quickly to coat"
-  - "Serve right away while the fries are still hot and the sauce is cool and creamy. Top with an extra sprinkle of spring onions or a dash of black pepper for a professional finish"
+  - "Scrub the potatoes and slice into 0.5cm matchsticks. Toss aggressively in a bowl with olive oil and salt."
+  - "Space them out in the basket. Blast at 190°C for 18-24 minutes, shaking violently every 5 minutes for an even crunch."
+  - "While they cook, whisk the sour cream, garlic granules, and chopped spring onions."
+  - "Transfer the golden fries to a bowl. Pour over the cold sour cream mix and toss quickly to coat."
+  - "Demolish immediately while the fries are hot and the sauce is cold. Top with extra spring onions."
 ---

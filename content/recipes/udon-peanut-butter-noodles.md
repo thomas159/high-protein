@@ -12,25 +12,25 @@ categories: ["vegan", "dinner", "15-minute-meals"]
 cuisine: "Thai"
 keywords: ["udon", "peanut butter", "noodles", "thai", "vegan", "tofu", "stir fry"]
 tags: ["vegan", "high protein", "asian-fusion"]
-tipsTitle: "Wok Star Tips"
+tipsTitle: "Wok Mechanics"
 tips:
-  - "Rinse the Udon: If using vacuum-packed fresh udon, quickly rinse them under hot water to loosen the strands before adding them to the pan so they don't break."
-  - "Tofu Texture: To get the crispiest tofu in your stir-fry, gently press it dry with a paper towel and let it sear undisturbed for a few minutes before tossing."
-  - "Thinning the Sauce: The peanut butter sauce will thicken as it cools. If you're meal prepping, stir in a splash of warm water when reheating to bring back that silky texture."
+  - "Rinse the Udon: Blast vacuum-packed udon under hot water to loosen the strands. Chucking them in cold will just snap them."
+  - "Tofu Texture: Press the tofu ruthlessly dry. Let it sear completely undisturbed to build a crust before you start tossing it."
+  - "Sauce Consistency: Peanut butter seizes up as it cools. If meal prepping, aggressively stir in a splash of warm water when reheating to resurrect the glaze."
 works:
-  - "Noodle Geometry: The thick, chewy nature of the udon noodles provides the perfect surface area to hold onto the heavy, robust peanut sauce."
-  - "Fat and Acid: The rich combination of coconut milk and peanut butter is perfectly balanced by the sharp acidity of the lime juice at the end."
+  - "Noodle Geometry: Thick, chewy udon provides massive surface area to hold the heavy peanut sauce."
+  - "Fat and Acid: The heavy coconut and peanut fats are perfectly sliced open by the sharp lime juice."
 use:
-  - "Post-Workout: High in carbs and plant-based protein to refuel muscles."
-  - "Quick Lunch: Comes together in just 15 minutes."
-  - "Cold Salad: Tastes excellent chilled the next day straight from the fridge."
+  - "Heavy Refeed: Massive carbs and plant-based protein to restock glycogen."
+  - "Rapid Lunch: 15 minutes from raw ingredients to fully plated."
+  - "Macro Prep: Smashing it cold straight from the fridge the next day is elite."
 rating: 
 variations:
-  - "Broccoli Crunch: Add steamed broccoli florets."
-  - "Sesame Swap: Use tahini instead of peanut butter."
+  - "Volume Fix: Bulk it out with steamed broccoli florets."
+  - "Tahini Swap: Use tahini if you prefer an earthier hit."
 reviews: 
-servingSuggestions: "These thick, chewy udon noodles in rich peanut sauce are best enjoyed with a side of lightly charred Asian greens, such as gai lan (Chinese broccoli) or snap peas. For an extra protein boost, top the bowl with a softly boiled egg or some crispy roasted chickpeas. A side of pickled ginger or radishes offers a sharp, tangy contrast to the creamy sauce."
-storageInstructions: "Store leftovers in an airtight container in the fridge for up to 3 days. Freezing is not recommended as the udon noodles will become mushy upon thawing."
+servingSuggestions: "Smash this heavy bowl alongside charred Asian greens like gai lan or snap peas. Top with a soft-boiled egg or crispy chickpeas for a massive protein spike."
+storageInstructions: "Fridge in an airtight tub for 3 days. Don't freeze it; the udon will turn to mush."
 prepTimeMins: 5
 cookTimeMins: 10
 servings: 1
@@ -55,13 +55,13 @@ ingredients:
 
 faq:
   - question: "Can I use dried udon noodles?"
-    answer: "Yes, just boil them according to the package directions first. Fresh, vacuum-sealed udon are preferred for speed and texture."
+    answer: "Yes, but boil them first. Fresh vacuum-packed udon are the ultimate cheat code for speed."
   - question: "Why is my peanut sauce clumpy?"
-    answer: "Peanut butter seizes up sometimes when mixed with liquids. Add a splash of warm water and whisk vigorously over low heat to smooth it out."
+    answer: "Peanut butter seizes up. Whisk vigorously with a splash of warm water over low heat to force it back into an emulsion."
 
 steps:
-  - "Bring a large pot of water to a rolling boil. Add the udon noodles and cook according to package instructions until tender. Drain and set aside, reserving a splash of noodle water if you prefer a silkier sauce."
-  - "While the noodles cook, thinly slice your vegetables and cut the tofu into cubes. Heat the coconut oil in a large pan or wok over medium-high heat. Add the carrots, peppers and tofu, sautéing for approximately 5 minutes until the vegetables begin to soften but still retain a slight crunch and the tofu is slightly browned."
-  - "Add the Thai red curry paste, coconut milk, soy sauce and brown sugar. Cook for a couple of minutes until it combines into a silky sauce, then toss in the sliced spring onions and cook for an additional 2 minutes (or until they reach your desired tenderness)."
-  - "Lower the heat, then fold in the cooked udon noodles and top with a squeeze of lime juice. Toss well to coat every strand, adding a spoonful of noodle water if the sauce needs thinning."
+  - "Boil the udon noodles according to the packet. Drain, but reserve a small splash of the starchy water for the sauce."
+  - "Heat coconut oil in a large wok. Sauté the sliced carrots, peppers, and tofu for 5 minutes until the veg softens and the tofu catches a crust."
+  - "Chuck in the curry paste, coconut milk, soy sauce, and sugar. Cook for 2 minutes to build a silky sauce, then fold in the spring onions."
+  - "Drop the heat. Fold the udon into the pan and hit it with a squeeze of lime. Toss aggressively to coat every strand."
 ---

@@ -12,31 +12,31 @@ categories: ["vegan", "dinner", "15-minute-meals", "marinade"]
 tags: ["vegan", "high protein", "korean"]
 cuisine: "Korean"
 keywords: ["tofu marinade", "korean", "spicy", "gochujang", "vegan", "high-protein"]
-tipsTitle: "Gochujang Greatness"
+tipsTitle: "Gochujang Mechanics"
 tips: 
-  - "The Pressing Step: Tofu acts like a sponge. Pressing out the water for 15 minutes allows it to soak up the bold, spicy Gochujang flavors all the way to the center."
-  - "Sugar for the Glaze: The small amount of sugar isn't just for sweetness—it caramelizes under heat, creating that signature sticky, glossy lacquer coating."
-  - "Heat Management: Gochujang pastes vary in heat intensity. Taste the raw marinade first and balance it with a touch more ketchup or sugar if it's too fiery for your palate."
+  - "The Pressing Step: Tofu is a sponge. Pressing the water out for 15 minutes is mandatory to let the spicy Gochujang reach the core."
+  - "Sugar for the Glaze: The sugar isn't just for sweetness—it caramelises violently under heat to build a sticky lacquer."
+  - "Heat Management: Gochujang heat varies. Taste the raw marinade and balance with extra ketchup if it's going to blow your head off."
 works:
-  - "Fermented Power: The Gochujang paste acts as an immediate flavor foundation, providing depth that usually takes hours of slow braising to achieve."
-  - "The Emulsion: Whisking the thick chili paste with sesame oil and vinegar creates a heavy, emulsified marinade that clings to the tofu instead of running off in the pan."
+  - "Fermented Power: Gochujang acts as a massive flavour foundation, delivering depth that usually takes hours of braising."
+  - "The Emulsion: Whisking the thick paste with oil and vinegar builds a heavy glaze that clings to the tofu."
 use:
-  - "Sticky Protein: Perfect for air-frying into a crispy, glazed main."
-  - "Noodle Topper: Serve over spicy ramen or udon for extra protein."
-  - "Bibimbap Bowl: The ideal star ingredient for a loaded Korean rice bowl."
+  - "Sticky Protein: Perfect for air-frying into a crispy, high-protein main."
+  - "Noodle Topper: Smash this over spicy ramen or udon."
+  - "Macro Bowl: The elite star ingredient for a loaded Korean rice prep."
 rating: 
 variations:
-  - "Mushroom Steak: Marinate whole portobello mushrooms instead of tofu."
-  - "Sesame Crunch: Coat the tofu in sesame seeds before frying."
+  - "Mushroom Steak: Use this to marinate whole portobello mushrooms."
+  - "Sesame Armour: Roll the tofu in sesame seeds before frying."
 reviews: 
-servingSuggestions: "To balance the bold, fermented heat of this Gochujang tofu, serve it alongside mild, comforting sides like a fluffy steamed egg or a gentle miso soup. It is brilliant when wrapped in fresh perilla leaves or crisp butter lettuce along with a smear of ssamjang and a sliver of raw garlic for a traditional Korean BBQ-style bite."
+servingSuggestions: "Balance the aggressive heat with a cooling side like steamed veg or miso soup. Wrap it in crisp lettuce leaves for a traditional BBQ bite."
 shelf_life: "Stored in airtight container in the fridge for 5 days"
-storageInstructions: "Store the uncooked marinated tofu in the fridge for up to 5 days. It freezes exceptionally well for up to 3 months; the freezing process makes the tofu firmer and meatier upon thawing."
-whyTitle: "Why marinate tofu?"
+storageInstructions: "Fridge the uncooked block in the marinade for 5 days. Freezes brilliantly for 3 months; the ice turns the tofu firmer and meatier."
+whyTitle: "The Flavour Science"
 why:
-  - "Fermented Depth: Unlike standard hot sauce, Gochujang is fermented, providing a savory \"Umami\" backbone that makes the tofu taste meatier."
-  - "The Glaze Effect: The high sugar and starch content in the chili paste creates a thick, lacquer-like coating that clings to the tofu as it heats."
-  - "Aromatic Synergy: Garlic and ginger are the \"holy trinity\" of Korean cooking; when combined with sesame oil, they create a scent that is instantly recognizable and appetizing."
+  - "Fermented Depth: Fermented gochujang delivers a savoury, meaty backbone that standard hot sauce lacks."
+  - "The Glaze Effect: High sugar and starch build a thick, sticky lacquer that locks onto the tofu."
+  - "Aromatic Synergy: Garlic, ginger, and sesame oil are the holy trinity of Korean flavour."
 prepTimeMins: 30
 cookTimeMins: 5
 servings: 1
@@ -58,15 +58,15 @@ ingredients:
 
 faq:
   - question: "Is gochujang gluten-free?"
-    answer: "Traditionally, gochujang contains barley or wheat. If you are gluten-free, be sure to look for a specifically labeled gluten-free gochujang brand."
+    answer: "Traditionally no (contains barley/wheat). Hunt down a specifically labelled gluten-free tub if required."
   - question: "How long should I marinate the tofu?"
-    answer: "30 minutes is great, but leaving it overnight in the fridge will give you an incredibly deep, rich flavor."
+    answer: "30 minutes gets the job done, but leaving it overnight delivers ridiculous, deep flavour."
 
 steps:
-  - "For the best results, wrap your extra-firm tofu in a clean towel and place a heavy weight on top for 15 minutes. Removing excess water allows the marinade to soak deep into the block rather than just sitting on the surface"
-  - "In a bowl, combine the tomato ketchup, sugar, gochujang, soy sauce, rice wine vinegar, garlic clove, ginger, and sesame oil, pinch of salt and a splash of oil"
-  - "Cut the tofu into 2cm cubes and toss them in the marinade. If you have time, let it sit for 30 minutes"
-  - "Air Fry: 180°C for 6-10 minutes, shaking halfway. Pan Fry: Medium-high heat with a little oil until all sides are golden-brown and slightly charred"
-  - "Serve with a sprinkle of toasted sesame seeds and fresh spring onions to balance the heat of the Gochujang"
+  - "Wrap the tofu in a towel and crush it under a heavy weight for 15 minutes. Bin the excess water so the marinade can penetrate."
+  - "Whisk the ketchup, sugar, gochujang, soy sauce, vinegar, garlic, ginger, sesame oil, and a pinch of salt."
+  - "Cube the tofu into 2cm blocks and aggressively toss in the marinade. Let it sit for 30 minutes."
+  - "Air Fry at 180°C for 6-10 minutes, shaking halfway. Or pan-fry until you hit a charred, sticky crust."
+  - "Hammer it with toasted sesame seeds and fresh spring onions to cut the heat."
 
 ---

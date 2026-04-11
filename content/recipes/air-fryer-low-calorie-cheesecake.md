@@ -15,21 +15,21 @@ rating:
 reviews: 
 tipsTitle: "Cheesecake Hacks"
 tips:
-  - "Room Temp Ingredients: Ensure your cream cheese and egg are at room temperature before mixing. Cold ingredients will seize up, causing a lumpy, uneven batter."
-  - "The Gentle Wobble: Pull the cheesecake from the air fryer while the very center still has a slight 'jiggle.' It will continue to cook and set perfectly as it cools down."
-  - "Patience is Key: Do not rush the chilling process! The cheesecake needs at least 2 hours in the fridge to develop that classic, dense texture and for the sweetener flavors to mellow."
+  - "Room Temp Mandatory: Cold cream cheese will seize up and give you a lumpy, miserable batter."
+  - "The Wobble: Pull it when the centre still has a slight jiggle. It continues to cook and sets perfectly as it cools."
+  - "Patience Pays Off: Don't rush it. It needs at least 2 hours in the fridge to develop that dense texture and let the flavours marry."
 works:
-  - "Yogurt Substitution: Greek yogurt provides the necessary volume and tang of a traditional cheesecake but slashes the heavy fat and calorie content drastically."
-  - "Air Fryer Consistency: The small, sealed environment of the air fryer acts like an intense convection oven, cooking the dense protein structure of the egg and cheese incredibly fast."
+  - "Yoghurt Substitution: Greek yoghurt delivers the volume and tang of a proper cheesecake while ruthlessly slashing the fat."
+  - "Convection Power: The air fryer acts like an intense convection oven, setting the dense protein structure rapidly."
 use:
-  - "Diet-Friendly Dessert: Hits the cheesecake craving for a fraction of the calories."
-  - "High-Protein Treat: Greek yogurt makes it a secretly excellent macro option."
-  - "Single Serve: Perfectly portioned so you don't have to bake a massive cake."
+  - "Diet Cheat Code: Hits the craving for a fraction of the calories."
+  - "High-Protein Treat: Greek yoghurt makes this an elite macro option."
+  - "Portion Control: A single-serve dish so you don't end up eating a massive cake."
 variations:
   - "Berry Swirl: Swirl sugar-free strawberry jam into the batter."
   - "Citrus Zing: Add orange or lime zest alongside the lemon juice."
-servingSuggestions: "Serving your cheesecake with the right accompaniments can elevate the dessert experience. Fresh fruit is a classic pairing that adds a burst of flavor and a touch of natural sweetness. Consider topping your cheesecake with a mix of berries, such as strawberries, blueberries, and raspberries. The tartness of the berries complements the creamy richness of the cheesecake perfectly."
-storageInstructions: "Store in the fridge, covered, for up to 4 days. You can freeze the cheesecake whole or in slices for up to 2 months. Thaw overnight in the fridge before eating."
+servingSuggestions: "Serve this thick, velvety cheesecake completely naked, or superset it with fresh raspberries and blueberries. The tartness cuts straight through the richness."
+storageInstructions: "Fridge it, covered, for up to 4 days. Freezes perfectly for up to 2 months. Thaw overnight in the fridge before attacking it."
 prepTimeMins: 5
 cookTimeMins: 20
 servings: 1
@@ -47,12 +47,11 @@ ingredients:
 
 faq:
   - question: "Do I have to use erythritol?"
-    answer: "No, you can use any granulated sweetener like stevia, monk fruit, or even regular sugar if you aren't strictly tracking calories or carbs."
+    answer: "No, use stevia, monk fruit, or standard sugar if you aren't strictly cutting."
   - question: "Can I bake this in a regular oven?"
-    answer: "Absolutely! Bake at 160°C (320°F) for 25-30 minutes until the edges are set but the center still slightly jiggles."
+    answer: "Absolutely. Bake at 160°C for 25-30 minutes until the edges are set but the centre still has a slight wobble."
 
 steps:
-  - "In a medium bowl, whisk together the erythritol, cream cheese, and egg until smooth and lump-free. Once combined, gently fold in the yogurt and lemon juice until the mixture is uniform"
-  - "Pour the batter into a ramekin. Place in the air fryer basket and cook at 180°C for 18-22 minutes, or until the top is golden and the center has a slight wobble"
-  - "Remove the ramekin carefully and let it cool to room temperature. Transfer to the fridge for at least two hours to allow the low calorie cheesecake to set completely before serving"
----
+  - "Whisk the erythritol, cream cheese, and egg until completely smooth. Gently fold in the yoghurt and lemon juice."
+  - "Pour the batter into a ramekin. Blast in the air fryer at 180°C for 18-22 minutes until golden on top with a slight wobble in the centre."
+  - "Pull it out and let it cool to room temp. Chuck it in the fridge for at least two hours to set completely."

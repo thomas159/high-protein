@@ -13,27 +13,27 @@ cuisine: "Asian"
 keywords: ["peanut butter noodles", "chilli", "asian", "vegan", "high-protein", "5-minute", "spicy"]
 tipsTitle: "Sauce & Sizzle"
 tips:
-  - "Adjust the Consistency: Peanut butter thickens rapidly when heated. Keep a splash of warm water or reserved noodle water handy to loosen the sauce if it gets too claggy."
-  - "The Acid Balance: Don't skip the rice wine vinegar! The sharp acidity is crucial for cutting through the rich, heavy fats of the peanut butter and sesame oil."
-  - "Crispy Toppings: Elevate the texture by topping the finished dish with crushed roasted peanuts, crispy fried shallots, or toasted sesame seeds for a satisfying crunch."
+  - "Consistency Control: Peanut butter turns to concrete under heat. Keep starchy noodle water handy to loosen it into a glaze."
+  - "The Acid Balance: Don't skip the rice wine vinegar. The sharp acidity slices straight through the heavy peanut fats."
+  - "Crunch Factor: Hammer the finished dish with crushed peanuts, crispy fried shallots, or toasted sesame seeds."
 works:
-  - "Instant Emulsion: The starchy noodle water binds the heavy peanut butter and soy sauce together into a smooth, glossy sauce that won't split."
-  - "Raw Aromatics: Utilizing raw grated ginger and minced garlic in the sauce provides a sharp, pungent bite that stands up to the heavy peanut flavor."
+  - "Instant Emulsion: The starchy water forces the peanut butter and soy sauce into a glossy, unbreakable sauce."
+  - "Raw Aromatics: Grated ginger and raw garlic deliver a punchy bite that holds its own against the heavy fats."
 use:
-  - "Instant Meal: A savory, spicy fix ready faster than ordering takeout."
-  - "Cold Noodle Salad: Packs beautifully for a chilled work lunch."
-  - "Side Dish: Serve alongside steamed dumplings or spring rolls."
-servingSuggestions: "These spicy, nutty noodles are robust and flavorful, making them the perfect main event. Serve them with a side of light, pickled Asian vegetables, such as daikon radish or cucumbers, to refresh your palate between bites. If serving for dinner, pair with a side of crispy vegetable spring rolls or steamed vegetable dumplings."
-shelf_life: "Best served fresh. If reheating, add a splash of water to loosen the peanut sauce."
-storageInstructions: "Best enjoyed fresh. Leftovers can be stored in the fridge for up to 2 days. Reheat gently on the stove with a splash of water. Not suitable for freezing."
+  - "Emergency Refeed: A savoury, spicy fix ready faster than you can order a takeaway."
+  - "Cold Noodle Salad: Elite macro-friendly prep for a chilled work lunch."
+  - "Superset Side: Serve alongside crispy spring rolls."
+servingSuggestions: "These are heavy-hitters on their own. Superset with some pickled daikon or cucumber to cleanse the palate. Brilliant alongside steamed vegetable dumplings."
+shelf_life: "Eat fresh. The sauce seizes up as it cools."
+storageInstructions: "Fridge for up to 2 days. Reheat gently on the stove with a splash of boiling water to resurrect the sauce. Do not freeze."
 whyTitle: "The Flavor Science"
 why:
-  - "Aromatic Base: Fresh garlic and ginger provide antioxidants and anti-inflammatory benefits, perfect for post-workout recovery."
-  - "The Acid Balance: Rice wine vinegar cuts through the heavy fats of the peanut butter, brightening the entire dish."
-  - "Sesame Finish: Sesame oil has a low smoke point but high flavor impact; adding it at the end preserves its nutty aroma."
+  - "Aromatic Base: Raw garlic and ginger provide massive anti-inflammatory benefits for post-workout recovery."
+  - "The Acid Balance: Vinegar cuts the heavy fats, brightening the entire macro profile."
+  - "Sesame Finish: Add sesame oil right at the end to preserve its highly volatile, nutty aroma."
 variations:
-  - "Almond Butter: Swap peanut butter for almond butter."
-  - "Protein Power: Stir in edamame or pan-fried tempeh."
+  - "Almond Swap: Use almond butter if peanuts aren't your thing."
+  - "Protein Spike: Toss in edamame or pan-fried tempeh."
 prepTimeMins: 0
 cookTimeMins: 5
 servings: 1
@@ -57,14 +57,13 @@ ingredients:
 
 faq:
   - question: "Can I eat this dish cold?"
-    answer: "Yes! These noodles are fantastic served chilled as a peanut noodle salad. You may just need to add a splash of water to loosen the sauce after it sits in the fridge."
+    answer: "Absolutely. They work brilliantly as a cold macro salad. Just add a splash of water to loosen the sauce."
   - question: "What can I use instead of peanut butter?"
-    answer: "Almond butter, cashew butter, or sunflower seed butter all make excellent, creamy substitutes if you have a peanut allergy."
+    answer: "Almond, cashew, or sunflower seed butter are all elite substitutes."
 
 steps:
-  - "Cook your noodles according to the package instructions. Drain and set aside, reserving a tiny splash of the starchy cooking water."
-  - "In a small bowl, whisk together the peanut butter, soy sauce, honey, minced garlic, grated ginger, and chilli oil. If the sauce is too thick to pour, add that splash of reserved noodle water."
-  - "Heat the sesame oil in a saucepan or wok over low heat. Add the cooked noodles and toss briefly to coat."
-  - "Pour the peanut butter sauce over the noodles. Stir-fry for 1-2 minutes until the sauce becomes glossy and clings to every strand."
-  - "Serve immediately, garnished with sliced spring onions and sesame seeds. A squeeze of fresh lime at the end is highly recommended!"
----
+  - "Boil the noodles. Drain, but strictly reserve a splash of the starchy cooking water."
+  - "In a bowl, aggressively whisk the peanut butter, soy sauce, agave, garlic, ginger, and chilli oil. Use the noodle water to loosen it if it's too thick."
+  - "Get the sesame oil in a wok over low heat. Chuck in the noodles and toss to coat."
+  - "Pour the peanut sauce over the top. Stir-fry for 1-2 minutes until glossy and sticking to every strand."
+  - "Smash it immediately. Garnish heavily with spring onions, sesame seeds, and a squeeze of lime."
