@@ -1,5 +1,5 @@
 ---
-title: "5-Minute Fudgy No-Bake Protein Energy Balls"
+title: "Easy 5-Minute Fudgy No-Bake Protein Energy Balls"
 slug: "no-bake-5-ingredient-protein-balls"
 meta: {
   seoMetaDescription: "Easy No-Bake 5-Ingredient Protein Balls. The ultimate healthy meal-prep snack for a pre-workout boost or beating afternoon cravings."

@@ -1,5 +1,5 @@
 ---
-title: "Low-Calorie Air Fryer Protein Cheesecake"
+title: "Easy 20-Minute Velvety Air Fryer Protein Cheesecake"
 slug: "air-fryer-low-calorie-cheesecake"
 meta: {
   seoMetaDescription: "Low-Calorie Air Fryer Protein Cheesecake. A guilt-free, macro-friendly dessert made with Greek yoghurt and zero sugar."

@@ -1,5 +1,5 @@
 ---
-title: "15-Minute Shatter-Crisp Air Fryer Tortilla Pizza"
+title: "The Quickest, Crispiest 15-Minute Air Fryer Tortilla Pizza"
 slug: "air-fryer-pizza-tortilla-wrap"
 meta: {
   seoMetaDescription: "A crispy, low-calorie Tortilla Pizza in your air fryer in 15 minutes. The ultimate hack to hit that pizza craving without blowing your macros."

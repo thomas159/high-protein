@@ -1,5 +1,5 @@
 ---
-title: "30-Minute Silky Vegan Thai Carrot Soup"
+title: "Easy 30-Minute Silky Vegan Thai Carrot Soup"
 slug: "thai-carrot-soup"
 meta: {
   seoMetaDescription: "Indulge in this creamy, vegan Thai Carrot Soup. Ready in 30 minutes, it's infused with red curry paste and coconut milk for a sweet and spicy kick."

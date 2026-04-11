@@ -1,10 +1,10 @@
 ---
-title: "30-Minute Ultimate Cheesy Jalapeño Air Fryer Fries"
+title: "The Ultimate Extra Crispy Air Fryer Jalapeño Cheese Fries"
 slug: "air-fryer-jalapeno-cheese-loaded-fries"
 meta: {
   seoMetaDescription: "Air Fryer Jalapeño Cheese Loaded Fries. A crispy, spicy, 30-minute cheat meal with melted cheddar and a fraction of the oil."
 }
-description: "Melted cheddar, spicy jalapeños, and shatter-crisp chips. The air fryer delivers a deep-fried texture with a fraction of the oil, making this the ultimate weekend treat. We air fry the potatoes first to build a rigid shell that easily holds up the heavy cheese."
+description: "Melted cheddar, spicy jalapeños, and extra crispy chips. The air fryer delivers a deep-fried texture with a fraction of the oil, making this the ultimate weekend treat. We air fry the potatoes first to build a rigid shell that easily holds up the heavy cheese."
 image: "air-fryer-jalapeno-cheese-loaded-fries_twwfu7"
 alt: "Crispy air fryer jalapeño cheese loaded fries on a plate"
 pintrest: ""

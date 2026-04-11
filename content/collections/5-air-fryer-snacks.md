@@ -9,7 +9,7 @@ recipes:
   - slug: "air-fryer-mozarella-sticks"
     text: "A brilliant trick for getting that deep-fried restaurant starter vibe right in your kitchen. Coating your own cheese means you control the macros, and the circulating heat gives you an epic cheese pull with just a quick spray of olive oil."
   - slug: "air-fryer-pizza-tortilla-wrap"
-    text: "When you're dieting, ordering a massive takeaway pizza is usually off the cards. This 15-minute workaround uses a tortilla wrap to give you a shatter-crisp thin crust, loading you up with fresh mozzarella and pesto for a fraction of the calories."
+    text: "When you're dieting, ordering a massive takeaway pizza is usually off the cards. This 15-minute workaround uses a tortilla wrap to give you an extra crispy thin crust, loading you up with fresh mozzarella and pesto for a fraction of the calories."
   - slug: "healthy-oat-banana-muffins"
     text: "Air fryers aren't just for chips. You can knock out a batch of these dense, chocolatey muffins in 15 minutes. Packed with complex carbs and protein, they are my absolute go-to fuel before a heavy lifting session."
   - slug: "high-protein-air-fryer-apple-crumble"

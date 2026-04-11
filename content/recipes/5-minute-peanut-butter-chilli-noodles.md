@@ -1,5 +1,5 @@
 ---
-title: "5-Minute Peanut Butter Chilli Noodles"
+title: "Quick 5-Minute Ultra-Creamy Peanut Butter Chilli Noodles"
 slug: "5-minute-peanut-butter-chilli-noodles"
 meta: {
   seoMetaDescription: "High-protein Peanut Butter Chilli Noodles in 5 minutes. A sharp, spicy, one-pan vegan meal with raw garlic and ginger."

@@ -1,5 +1,5 @@
 ---
-title: "10-Minute Charred High-Protein Air Fryer Tikka Tofu"
+title: "Quick 10-Minute Charred High-Protein Air Fryer Tikka Tofu"
 slug: "tikka-tofu-marinade"
 meta: {
   seoMetaDescription: "Easy Tikka Tofu Marinade with garam masala and lemon. High-protein, air-fried, and ready in 15 minutes."

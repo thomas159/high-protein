@@ -1,5 +1,5 @@
 ---
-title: "10-Minute Fluffy & Vibrant Moroccan Couscous"
+title: "Quick & Easy 10-Minute Fluffy Moroccan Couscous"
 slug: "quick-moroccan-couscous"
 meta: {
   seoMetaDescription: "10-Minute Fluffy Moroccan Couscous. A vibrant, light, and healthy Mediterranean vegan side dish for any protein."

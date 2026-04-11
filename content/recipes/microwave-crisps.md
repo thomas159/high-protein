@@ -1,5 +1,5 @@
 ---
-title: "5-Minute Shatter-Crisp Microwave Potato Crisps"
+title: "The Quickest, Crispiest 5-Minute Microwave Potato Crisps"
 slug: "microwave-crisps"
 meta: {
   seoMetaDescription: "Perfectly crunchy potato crisps made in the microwave. A healthy, low-oil snack that hits your salty cravings without ruining your macros."

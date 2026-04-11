@@ -1,5 +1,5 @@
 ---
-title: "Crispy 5-Minute Air Fryer Nachos"
+title: "The Quickest, Crispiest 5-Minute Air Fryer Nachos"
 slug: "5-minute-air-fryer-nachos"
 meta: {
   seoMetaDescription: "Ultra-crispy 5-Minute Air Fryer Nachos. Ditch the soggy microwave chips for instant, cheesy gratification with zero prep time."
@@ -26,7 +26,7 @@ cuisine: "Mexican"
 keywords: ["nachos", "air fryer", "mexican", "cheese", "snack", "5-minute", "quick"]
 whyTitle: "Why use an air fryer?"
 why:
-  - "No Soggy Chips: Unlike a microwave, the air fryer uses dry heat to melt the cheese while keeping the tortilla chips shatter-crisp."
+  - "No Soggy Chips: Unlike a microwave, the air fryer uses dry heat to melt the cheese while keeping the tortilla chips extra crispy."
   - "Instant Heat: No need to preheat a massive oven for a single plate of nachos; it's ready in just 5 minutes."
   - "Even Melting: The 360° airflow ensures every single chip gets a hit of melted cheese, not just the ones on top."
 variations:

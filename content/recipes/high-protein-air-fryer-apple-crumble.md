@@ -1,5 +1,5 @@
 ---
-title: "25-Minute Crunchy High-Protein Air Fryer Apple Crumble"
+title: "Easy 25-Minute Extra Crunchy Air Fryer Apple Crumble"
 slug: "high-protein-air-fryer-apple-crumble"
 meta: {
   seoMetaDescription: "A 25-minute, high-protein Apple Crumble made in the air fryer. The perfect muscle-building dessert with zero mess and maximum crunch."

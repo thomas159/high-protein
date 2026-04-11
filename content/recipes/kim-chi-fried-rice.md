@@ -1,5 +1,5 @@
 ---
-title: "The Ultimate 15-Minute Spicy Kimchi Fried Rice"
+title: "The Quickest, Crispiest 15-Minute Spicy Kimchi Fried Rice"
 slug: "kim-chi-fried-rice"
 meta: {
   seoMetaDescription: "15-Minute Spicy Kimchi Fried Rice. A smoky, umami-packed vegetarian comfort meal crowned with a perfect fried egg."

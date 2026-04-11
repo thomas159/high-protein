@@ -1,5 +1,5 @@
 ---
-title: "5-Minute Upgraded Instant Noodles (Soy & Sesame)"
+title: "Quick & Easy 5-Minute Upgraded Instant Noodles"
 slug: "5-minute-instant-noodles"
 meta: {
   seoMetaDescription: "Upgrade your instant noodles in 5 minutes with a savoury soy and sesame glaze. A rapid, umami-packed post-workout carb load."

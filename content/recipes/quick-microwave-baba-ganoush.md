@@ -1,5 +1,5 @@
 ---
-title: "15-Minute Smoky & Creamy Microwave Baba Ganoush"
+title: "Quick 15-Minute Ultra-Creamy Microwave Baba Ganoush"
 slug: "quick-microwave-baba-ganoush"
 meta: {
   seoMetaDescription: "Quick Microwave Baba Ganoush. A healthy, creamy Middle Eastern aubergine dip ready in 15 minutes without the oven."

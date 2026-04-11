@@ -1,5 +1,5 @@
 ---
-title: "5-Minute Miso Peanut Butter Noodles"
+title: "Easy 5-Minute Ultra-Creamy Miso Peanut Butter Noodles"
 slug: "5-minute-miso-peanut-butter-noodles"
 meta: {
   seoMetaDescription: "High-protein, creamy Miso Peanut Butter Noodles in 5 minutes. The ultimate umami-packed vegan comfort food for busy athletes."

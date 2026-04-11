@@ -1,5 +1,5 @@
 ---
-title: "15-Minute Fudgy High-Protein Oat Banana Muffins"
+title: "Easy 15-Minute Fudgy High-Protein Oat Banana Muffins"
 slug: "healthy-oat-banana-muffins"
 meta: {
   seoMetaDescription: "High-protein Oat Banana Muffins baked in the air fryer. A quick, muscle-building sweet treat ready in 15 minutes."

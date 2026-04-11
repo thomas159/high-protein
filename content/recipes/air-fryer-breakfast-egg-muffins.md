@@ -1,5 +1,5 @@
 ---
-title: "High-Protein Air Fryer Breakfast Egg Muffins"
+title: "Quick & Easy 10-Minute Air Fryer Breakfast Egg Muffins"
 slug: "air-fryer-breakfast-egg-muffins"
 meta: {
   seoMetaDescription: "Air Fryer Breakfast Egg Muffins with feta and sun-dried tomatoes. A rapid, high-protein grab-and-go breakfast ready in 10 minutes."

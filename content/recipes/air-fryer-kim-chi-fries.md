@@ -1,17 +1,17 @@
 ---
-title: "20-Minute Crispy & Cheesy Air Fryer Kimchi Fries"
+title: "Easy 20-Minute Extra Crispy Air Fryer Kimchi Fries"
 slug: "air-fryer-kim-chi-fries"
 meta: {
   seoMetaDescription: "Cheesy, crunchy 20-minute Air Fryer Kimchi Fries. The ultimate spicy weekend refeed meal packed with umami and melted cheese."
 } 
-description: "A brilliant fusion of spicy, fermented kimchi and melted cheddar over shatter-crisp fries. The air fryer blasts away the moisture, giving you a deep-fried crunch without being weighed down by oil. The ultimate weekend refeed meal that cooks in 20 minutes flat."
+description: "A brilliant fusion of spicy, fermented kimchi and melted cheddar over extra crispy fries. The air fryer blasts away the moisture, giving you a deep-fried crunch without being weighed down by oil. The ultimate weekend refeed meal that cooks in 20 minutes flat."
 image: "air-fryer-kim-chi-fries_u7kuzj"
 alt: "Air fryer kimchi fries topped with melted cheese and sesame seeds"
 pintrest: ""
 categories: ["air-fryer", "30-minute-meals", "snacks"]
 tipsTitle: "Fry Hacks"
 tips: 
-  - "Crispy Secret: Soaking the cut potatoes in cold water for 30 minutes removes excess starch, guaranteeing a shatter-crisp exterior instead of a soggy fry."
+  - "Crispy Secret: Soaking the cut potatoes in cold water for 30 minutes removes excess starch, guaranteeing an extra crispy exterior instead of a soggy fry."
   - "Cheese Layering: Add half the cheese halfway through the kimchi mixing, and sprinkle the rest on top so it melts through every layer."
   - "Sauce Consistency: If your Gochujang glaze gets too thick while sautéing, loosen it with a teaspoon of water or sesame oil to ensure it coats the fries evenly."
 works:

@@ -1,10 +1,10 @@
 ---
-title: "Crispy Air Fryer Sour Cream & Onion Fries"
+title: "Extra Crispy Air Fryer Sour Cream & Onion Fries"
 slug: "air-fryer-sour-cream-fries"
 meta: {
   seoMetaDescription: "Enjoy these Air Fryer Sour Cream Fries for a crispy, savory snack. Tossed in a velvety garlic and sour cream sauce, ready in under 30 minutes."
 }
-description: "Elevate your side dish game with these irresistible Sour Cream Fries. Shatter-crisp on the outside and fluffy in the center, every golden fry is drizzled with a velvety, garlic-infused sour cream sauce. A perfect 25-minute balance of savory, tangy, and crunchy textures—guaranteed to be the highlight of your next meal or party platter"
+description: "Elevate your side dish game with these irresistible Sour Cream Fries. Extra crispy on the outside and fluffy in the center, every golden fry is drizzled with a velvety, garlic-infused sour cream sauce. A perfect 25-minute balance of savory, tangy, and crunchy textures—guaranteed to be the highlight of your next meal or party platter"
 image: "air-fryer-sour-cream-fries_k2lvbn"
 alt: "Air fryer fries drizzled with garlic sour cream sauce"
 pintrest: ""
@@ -13,7 +13,7 @@ cuisine: "American"
 tipsTitle: "Crispy & Creamy"
 tips: 
   - "The Golden Shake: Give your air fryer basket a vigorous shake every 5 minutes. This ensures the hot air hits every side of the potato, creating an impossibly even crunch."
-  - "Sauce Separation: If making this for a party, serve the garlic sour cream sauce on the side as a dip to keep the fries shatter-crisp for as long as possible."
+  - "Sauce Separation: If making this for a party, serve the garlic sour cream sauce on the side as a dip to keep the fries extra crispy for as long as possible."
   - "Cold Sauce, Hot Fries: Make sure the sour cream is straight from the fridge when you toss the fries. The temperature contrast between the piping hot potatoes and cool cream is incredible."
 works:
   - "Temperature Contrast: The intense heat of the crispy fries forces the cool sour cream to slightly melt, forming a silky, rich coating."
