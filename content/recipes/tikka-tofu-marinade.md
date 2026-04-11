@@ -69,3 +69,4 @@ steps:
   - "Cube the tofu and toss it aggressively through the marinade. Let it rest for 30 minutes to absorb."
   - "Air Fry at 180°C for 6-10 minutes, shaking halfway. Or pan-fry until charred."
   - "Hit it with fresh coriander and a heavy squeeze of lime."
+---

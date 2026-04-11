@@ -64,3 +64,4 @@ steps:
   - "Cube the tofu and toss it through. Let it sit for 30 minutes to absorb."
   - "Air Fry at 180°C for 6-10 minutes, shaking halfway. Or pan-fry until charred."
   - "Finish with fresh coriander and a heavy squeeze of lime."
+---

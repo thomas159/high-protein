@@ -54,3 +54,4 @@ steps:
   - "Toss aggressively in a bowl with oil."
   - "Space them out in the basket. Blast at 190°C for 20-30 minutes. Cook in batches if needed. Shake the basket violently every 5 minutes."
   - "Pull them when charred. Let them rest in the basket for 60 seconds to lock in the crunch."
+---

@@ -70,3 +70,4 @@ steps:
   - "Add the chopped tomatoes and cook for 3-4 minutes until they break down into a jammy paste."
   - "Pour in the chickpeas, spinach, vegetable stock, and coconut milk. Bring to a violent boil, then drop the heat."
   - "Simmer for 5-10 minutes until the sauce thickens. Stir in Kasuri Methi at the very end if you have it."
+---

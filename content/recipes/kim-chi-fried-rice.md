@@ -64,3 +64,4 @@ steps:
   - "Push everything to the edges. Crack the egg into the centre and scramble aggressively. Fold the veg back in when the egg is mostly cooked."
   - "Drop the rice in. Hit it with sesame oil, soy sauce, and gochujang. Blast the heat. Press the rice firmly into the pan for 30 seconds, then toss. Repeat to build those elite crispy edges."
   - "Pull it off the heat. Hammer it with toasted sesame seeds and spring onions."
+---

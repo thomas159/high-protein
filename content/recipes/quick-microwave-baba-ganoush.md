@@ -63,3 +63,4 @@ steps:
   - "Let it cool slightly so you don't burn your hands. Slice open and scoop the flesh into a bowl. Bin the skin."
   - "Aggressively mash the flesh with tahini, garlic, lemon juice, paprika, and cumin."
   - "Season with salt. Drown it in olive oil and an extra pinch of paprika."
+---

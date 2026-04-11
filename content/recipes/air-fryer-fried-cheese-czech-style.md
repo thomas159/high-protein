@@ -57,3 +57,4 @@ steps:
   - "Moisten the cheese slightly. Dredge in the flour, aggressively shaking off the excess."
   - "Dunk it in the egg wash, then roll in breadcrumbs. Repeat: back into the egg, back into the crumbs. This double layer is crucial."
   - "Place in the air fryer basket. Hit it with olive oil spray. Blast at 200°C for 4-6 minutes, flipping halfway and spraying again."
+---
