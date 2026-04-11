@@ -46,7 +46,7 @@ export default defineContentConfig({
           carbs: z.number().optional(),
           protein: z.number().optional(),
           fat: z.number().optional()
-        }).optional(),
+        }).default({}).catch({}),
         
         ingredients: z.array(
           z.object({

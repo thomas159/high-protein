@@ -75,8 +75,8 @@ useSeoMeta({
           
           <div class="flex flex-wrap gap-4 items-center text-xs md:text-sm font-bold uppercase tracking-wider text-muted-foreground mb-6 border-y border-border/50 py-3">
             <div class="flex items-center gap-1.5" v-if="item.recipe.prepTimeMins !== undefined"><span class="opacity-70">⏱</span> {{ item.recipe.prepTimeMins + item.recipe.cookTimeMins }} MINS</div>
-            <div class="flex items-center gap-1.5" v-if="item.recipe.macros?.calories"><span class="opacity-70">🔥</span> {{ item.recipe.macros.calories }} KCAL</div>
-            <div class="flex items-center gap-1.5" v-if="item.recipe.macros?.protein"><span class="opacity-70">💪</span> {{ item.recipe.macros.protein }}G Protein</div>
+            <div class="flex items-center gap-1.5" v-if="item.recipe.macros?.calories"><span class="opacity-70">🔥</span> {{ item.recipe.macros?.calories }} KCAL</div>
+            <div class="flex items-center gap-1.5" v-if="item.recipe.macros?.protein"><span class="opacity-70">💪</span> {{ item.recipe.macros?.protein }}G Protein</div>
           </div>
 
           <NuxtLink :to="`/recipes/${item.recipe.slug}`" class="mt-auto inline-flex items-center justify-center bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 font-bold px-6 py-3 rounded-xl hover:bg-emerald-500 hover:text-white transition-colors w-full md:w-fit">
