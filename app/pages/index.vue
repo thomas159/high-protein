@@ -83,6 +83,7 @@ useSeoMeta({
     <!-- top 5 collections -->
     <HomeMobileScroll 
       :collections="collections" 
+      title="Recipe Collections"
       class="pt-6"
     />
 
