@@ -49,22 +49,16 @@ useSeoMeta({
 
     <!-- Standard Vue native grid replacing ContentRenderer -->
     <div class="grid grid-cols-1 md:grid-cols-2 gap-x-8 gap-y-12">
-      <div v-for="item in collectionItems" :key="item.slug" class="flex flex-col gap-4 h-full">
+      <div v-for="item in collectionItems" :key="item.slug" class="relative flex flex-col h-full">
         
+        <!-- Number Badge -->
+        <div class="absolute -top-3 -left-3 z-10 flex items-center justify-center w-10 h-10 rounded-full bg-emerald-500 text-white font-black text-xl shadow-sm border-4 border-background">
+          {{ item.index }}
+        </div>
+
         <!-- Render the visual Recipe Card -->
-        <div class="w-full shrink-0">
-          <RecipeCard :recipe="item.recipe" />
-        </div>
-        
-        <!-- Custom paragraph from the collection frontmatter -->
-        <div class="flex-1 w-full mt-2">
-          <h3 class="text-2xl font-bold mb-2 text-foreground">
-            {{ item.index }}. {{ item.recipe.title }}
-          </h3>
-          <p class="text-muted-foreground leading-relaxed">
-            {{ item.text }}
-          </p>
-        </div>
+        <RecipeCard :recipe="item.recipe" class="h-full" />
+
       </div>
     </div>
   </div>
