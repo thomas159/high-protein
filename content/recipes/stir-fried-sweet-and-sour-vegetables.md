@@ -1,5 +1,5 @@
 ---
-title: "Healthy Thai Stir-Fried Sweet & Sour Vegetables"
+title: "15-Minute Crunchy Thai Sweet & Sour Stir-Fry"
 slug: "stir-fried-sweet-and-sour-vegetables"
 meta: {
   seoMetaDescription: "Healthy Thai Stir-Fried Sweet & Sour Vegetables. A vibrant, fast, and crunchy vegan dinner to hit your micronutrient targets."

@@ -1,5 +1,5 @@
 ---
-title: "Easy 5-Minute Vegan Chimichurri Sauce"
+title: "5-Minute Zesty Vegan Chimichurri Sauce"
 slug: "chimichurri-sauce"
 meta: {
   seoMetaDescription: "Easy 5-Minute Vegan Chimichurri Sauce. An Argentinian herb and olive oil dressing to instantly upgrade your proteins and salads."

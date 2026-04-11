@@ -1,5 +1,5 @@
 ---
-title: "High-Protein Chocolate Orange Ninja Creami"
+title: "The Ultimate High-Protein Chocolate Orange Ninja Creami"
 slug: "chocolate-orange-ninja-creami-ice-cream"
 meta: {
   seoMetaDescription: "A massive 60g protein hit disguised as decadent Chocolate Orange Ice Cream. Guilt-free, macro-friendly dessert made in the Ninja Creami."

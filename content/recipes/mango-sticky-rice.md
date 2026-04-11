@@ -1,5 +1,5 @@
 ---
-title: "Authentic Thai Mango Sticky Rice (Macro-Friendly)"
+title: "The Ultimate Macro-Friendly Thai Mango Sticky Rice"
 slug: "mango-sticky-rice"
 meta: {
   seoMetaDescription: "Authentic Thai Mango Sticky Rice. A macro-friendly, high-carb vegan dessert perfect for fuelling a heavy lifting session."

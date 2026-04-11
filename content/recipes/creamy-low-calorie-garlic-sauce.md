@@ -1,5 +1,5 @@
 ---
-title: "5-Minute Creamy Low-Calorie Garlic Sauce"
+title: "5-Minute Rich & Creamy Low-Calorie Garlic Sauce"
 slug: "creamy-low-calorie-garlic-sauce"
 meta: {
   seoMetaDescription: "5-Minute Creamy Low-Calorie Garlic Sauce. A macro-friendly, keto dip using Greek yoghurt for a rich, tangy punch."

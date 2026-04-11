@@ -1,5 +1,5 @@
 ---
-title: "One-Pan Spinach & Chickpea Coconut Curry"
+title: "20-Minute Velvety Spinach & Chickpea Coconut Curry"
 slug: "one-pan-spinach-and-chickpea-coconut-curry"
 meta: {
   seoMetaDescription: "One-Pan Spinach & Chickpea Coconut Curry. A high-protein, creamy vegan dinner packed with iron and anti-inflammatory spices."

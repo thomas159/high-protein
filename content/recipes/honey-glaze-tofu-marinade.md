@@ -1,5 +1,5 @@
 ---
-title: "Sticky Honey Glaze Tofu Marinade"
+title: "15-Minute Sticky Honey Glazed Air Fryer Tofu"
 slug: "honey-glaze-tofu-marinade"
 meta: {
   seoMetaDescription: "Sticky Honey Glaze Tofu Marinade. A sweet and savoury vegetarian recipe that builds a perfectly caramelised crust in the air fryer."

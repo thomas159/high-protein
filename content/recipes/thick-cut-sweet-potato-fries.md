@@ -1,5 +1,5 @@
 ---
-title: "Crispy Thick-Cut Air Fryer Sweet Potato Fries"
+title: "The Ultimate Crispy Thick-Cut Air Fryer Sweet Potato Fries"
 slug: "thick-cut-sweet-potato-fries"
 meta: {
   seoMetaDescription: "Make crispy, thick-cut sweet potato fries in the air fryer. A delicious, vegan, and healthy American snack ready with minimal oil."

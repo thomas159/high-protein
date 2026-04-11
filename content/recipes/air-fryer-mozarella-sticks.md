@@ -1,5 +1,5 @@
 ---
-title: "Crispy Air Fryer Mozzarella Sticks"
+title: "The Ultimate Crispy Air Fryer Mozzarella Sticks"
 slug: "air-fryer-mozarella-sticks"
 meta: {
   seoMetaDescription: "Bin the shop-bought frozen rubbish. These crispy Air Fryer Mozzarella Sticks deliver a massive cheese pull and deep-fried crunch with a fraction of the oil."

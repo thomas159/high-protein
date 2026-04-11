@@ -1,5 +1,5 @@
 ---
-title: "20-Minute Creamy Garlic Mushroom Pasta"
+title: "20-Minute Ultra-Creamy Garlic Mushroom Pasta"
 slug: "creamy-mushroom-pasta"
 meta: {
   seoMetaDescription: "20-Minute Creamy Garlic Mushroom Pasta. An indulgent, high-carb vegetarian recovery meal packed with umami and parmesan."

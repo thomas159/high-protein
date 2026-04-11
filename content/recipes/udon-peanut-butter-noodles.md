@@ -1,5 +1,5 @@
 ---
-title: "15-Minute Peanut Butter Udon Noodles"
+title: "15-Minute Creamy Peanut Butter Udon Noodles"
 slug: "udon-peanut-butter-noodles"
 meta: {
   seoMetaDescription: "Enjoy these 15-minute Udon Peanut Butter Noodles. A quick, creamy, and high-protein vegan meal packed with vegetables and a rich peanut sauce."

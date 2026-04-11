@@ -1,5 +1,5 @@
 ---
-title: "High-Protein Salted Peanut Butter Ninja Creami"
+title: "Decadent High-Protein Salted Peanut Butter Ninja Creami"
 slug: "ninja-creami-salted-peanut-butter-ice-cream"
 meta: {
   seoMetaDescription: "High-Protein Salted Peanut Butter Ninja Creami. Over 70g of protein in a creamy, guilt-free, salty-sweet frozen dessert."

@@ -1,5 +1,5 @@
 ---
-title: "Authentic 10-Minute Thai Satay Peanut Sauce"
+title: "10-Minute Ultra-Creamy Thai Satay Peanut Sauce"
 slug: "satay-peanut-sauce"
 meta: {
   seoMetaDescription: "Authentic 10-Minute Thai Satay Peanut Sauce. A rich, spicy, and creamy dip loaded with healthy fats and bold Thai flavour."

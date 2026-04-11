@@ -1,5 +1,5 @@
 ---
-title: "Air fryer jalapeño cheese loaded fries"
+title: "30-Minute Ultimate Cheesy Jalapeño Air Fryer Fries"
 slug: "air-fryer-jalapeno-cheese-loaded-fries"
 meta: {
   seoMetaDescription: "Air Fryer Jalapeño Cheese Loaded Fries. A crispy, spicy, 30-minute cheat meal with melted cheddar and a fraction of the oil."

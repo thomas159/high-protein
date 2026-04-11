@@ -1,5 +1,5 @@
 ---
-title: "10-Minute Mango Paneer Naan Bread Pizza"
+title: "10-Minute Crispy Mango Paneer Naan Pizza"
 slug: "naan-bread-pizza"
 meta: {
   seoMetaDescription: "10-minute Mango and Paneer Naan Pizza. A rapid Indian-fusion dinner that's sweet, spicy, and packed with vegetarian protein."

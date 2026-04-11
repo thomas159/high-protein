@@ -1,5 +1,5 @@
 ---
-title: "Smoky Chipotle Lime Tofu Marinade"
+title: "15-Minute Smoky Chipotle Lime Air Fryer Tofu"
 slug: "chipotle-lime-tofu-marinade"
 image: ""
 meta: {

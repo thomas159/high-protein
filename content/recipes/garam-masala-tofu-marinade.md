@@ -1,5 +1,5 @@
 ---
-title: "Indian Garam Masala Tofu Marinade"
+title: "15-Minute Charred Garam Masala Air Fryer Tofu"
 slug: "garam-masala-tofu-marinade"
 meta: {
   seoMetaDescription: "Indian Garam Masala Tofu Marinade. A high-protein vegan recipe with deep, aromatic spices perfect for the air fryer."

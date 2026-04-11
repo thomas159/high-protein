@@ -1,5 +1,5 @@
 ---
-title: "15-Minute Creamy Feta & Cherry Tomato Pasta"
+title: "15-Minute Tangy Feta & Cherry Tomato Pasta"
 slug: "creamy-feta-and-cherry-tomato-pasta"
 meta: {
   seoMetaDescription: "Whip up this 15-minute Creamy Feta and Cherry Tomato Pasta. A quick, satisfying Italian vegetarian dinner with a rich and tangy sauce."

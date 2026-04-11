@@ -1,5 +1,5 @@
 ---
-title: "Spicy Gochujang Korean Tofu Marinade"
+title: "20-Minute Sticky & Spicy Korean Gochujang Tofu"
 slug: "spicy-korean-tofu-marinade"
 meta: {
   seoMetaDescription: "Easy Spicy Korean Tofu Marinade. Vegan Gochujang recipe for high-protein meals. Bold, sweet, and spicy flavors ready in 20 minutes."

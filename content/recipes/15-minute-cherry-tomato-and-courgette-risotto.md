@@ -1,5 +1,5 @@
 ---
-title: "15-Minute Microwave Cherry Tomato & Courgette Risotto"
+title: "15-Minute Ultra-Creamy Microwave Courgette Risotto"
 slug: "15-minute-cherry-tomato-and-courgette-risotto"
 meta: {
   seoMetaDescription: "A creamy 15-minute Cherry Tomato and Courgette Risotto made in the microwave. The ultimate zero-effort, high-carb recovery meal."

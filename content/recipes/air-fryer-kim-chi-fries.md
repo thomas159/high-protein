@@ -1,5 +1,5 @@
 ---
-title: "Cheesy Air Fryer Kimchi Fries"
+title: "20-Minute Crispy & Cheesy Air Fryer Kimchi Fries"
 slug: "air-fryer-kim-chi-fries"
 meta: {
   seoMetaDescription: "Cheesy, crunchy 20-minute Air Fryer Kimchi Fries. The ultimate spicy weekend refeed meal packed with umami and melted cheese."
