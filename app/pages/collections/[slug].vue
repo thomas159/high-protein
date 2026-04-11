@@ -3,7 +3,13 @@ const route = useRoute()
 const appConfig = useAppConfig()
 
 // Fetch the specific markdown document for this collection
-const { data: page } = await useAsyncData(route.path, () => {
+const { data: page } = await useAsyncData(route.path, async () => {
+  const slugParam = route.params.slug as string
+  // First, check if there's a collection matching the custom frontmatter slug
+  const bySlug = await queryCollection('collections').where('slug', '=', slugParam).first()
+  if (bySlug) return bySlug
+  
+  // Fallback to checking the file path directly
   return queryCollection('collections').path(route.path).first()
 })
 

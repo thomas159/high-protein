@@ -42,7 +42,7 @@ const props = defineProps<{
       class="grid gap-6 items-stretch overflow-x-auto no-scrollbar snap-x snap-mandatory
              grid-flow-col auto-cols-[80%] pb-6 -mx-4 px-4
              md:mx-0 md:px-0 md:pb-0 md:grid-flow-row md:grid-cols-2"
-      :class="collections ? 'lg:grid-cols-2' : 'lg:grid-cols-4'"
+      :class="collections ? 'lg:grid-cols-3' : 'lg:grid-cols-4'"
     >
       <template v-if="recipes">
         <div 
