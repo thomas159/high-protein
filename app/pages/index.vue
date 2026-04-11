@@ -63,7 +63,7 @@ useSeoMeta({
     <p class="text-lg md:text-xl text-muted-foreground max-w-2xl mb-12">
       Quick, high-protein vegetarian and vegan meals for people who love to eat but hate to wait.
     </p>
-    <HomeMobileScroll 
+    <MobileScroll 
       :recipes="recipes" 
       title="Latest Recipes"
     />
@@ -81,19 +81,19 @@ useSeoMeta({
 
     </section>
     <!-- top 5 collections -->
-    <HomeMobileScroll 
+    <MobileScroll 
       :collections="collections" 
       title="Recipe Collections"
       class="pt-6"
     />
 
-   <HomeMobileScroll 
+   <MobileScroll 
       :recipes="trendingRecipes" 
       title="Trending This Week"
       class="pt-6"
     />
   
-    <HomeMobileScroll 
+    <MobileScroll 
       :recipes="airFryerRecipes" 
       title="Air fryer Recipes"
       class="pt-6"

@@ -233,11 +233,14 @@ useHead({
           <p v-for="(u, index) in recipe.use" :key="index" class="text-muted-foreground" v-html="formatText(u)" />
         </div>
 
-        <h2 v-if="randomizedRecipes?.length" id="youMightAlsoLike" class="mt-8">You Might Also Like</h2>
-        <div v-if="randomizedRecipes?.length" class="grid grid-cols-2 lg:grid-cols-4 gap-main -mx-4 lg:-mx-0">
-          <RecipeCard v-for="randomRecipe in randomizedRecipes" :key="randomRecipe.slug" :recipe="randomRecipe" />
+        <div v-if="randomizedRecipes?.length" id="youMightAlsoLike">
+          <MobileScroll 
+            :recipes="randomizedRecipes" 
+            title="You Might Also Like"
+            class="pt-6"
+          />
         </div>
-
+        
         <h2 v-if="recipe.whyTitle && recipe.why?.length" id="why" class="mt-8">{{ recipe.whyTitle }}</h2>
         <div v-if="recipe.why?.length" class="mt-4 space-y-4">
           <p v-for="(reason, index) in recipe.why" :key="index" class="text-muted-foreground" v-html="formatText(reason)" />
