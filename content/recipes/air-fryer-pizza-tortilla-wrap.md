@@ -18,7 +18,7 @@ works:
 use:
   - "Cutting Phase Fix: All the pizza satisfaction, barely any of the carbs."
   - "Emergency Refeed: Ready in 15 minutes when the cravings hit."
-go   - "Light Lunch: Pair with a rocket salad."
+  - "Light Lunch: Pair with a rocket salad."
 image: "air-fryer-pizza-tortilla-wrap_ko6ckn"
 alt: "Air fryer tortilla pizza with pesto and cherry tomatoes"
 pintrest: ""

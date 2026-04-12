@@ -45,7 +45,7 @@ ingredients:
   - { item: "Soy sauce", amount: 1, unit: "tsp" }
   - { item: "Sesame oil", amount: 0.5, unit: "tsp" }
   - { item: "Rice vinegar", amount: 0.25, unit: "tsp" }
-  - { item: "Schiraca or sambal oelek", amount: 0.25, unit: "tsp" }
+  - { item: "Sriracha or sambal oelek", amount: 0.25, unit: "tsp" }
   - { item: "Spring onions to garnish" }
   - { item: "Fried onions to garnish" }
 

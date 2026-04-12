@@ -46,7 +46,7 @@ ingredients:
   - { item: "Arborio rice", amount: 100, unit: "g" } 
   - { item: "Garlic clove", type: 'minced', amount: 1 }
   - { item: "Cherry tomatoes", amount: 70, unit: "g" }
-  - { item: "Courgette (zuchinni)", type: 'grated', amount: 50, unit: "g" }
+  - { item: "Courgette (zucchini)", type: 'grated', amount: 50, unit: "g" }
   - { item: "Butter", amount: 10, unit: "g" }
   - { item: "Parmesan cheese", amount: 15, unit: "g" }  
 
