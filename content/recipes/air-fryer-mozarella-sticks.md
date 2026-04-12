@@ -8,7 +8,7 @@ description: "Skip the frozen options. The double-breading on these mozzarella s
 image: "air-fryer-mozarella-sticks_oiud1f"
 alt: "Crispy air fryer mozzarella sticks with a cheese pull"
 pintrest: ""
-categories: ["air-fryer", "45-minute-meals", "snacks", "trending"]
+categories: ["air-fryer", "snacks", "trending"]
 tipsTitle: "Chef's Tip"
 tips:
   - "The Double Dip: Never skip the double-breading. It builds structural armour that stops the molten cheese blowing out in your air fryer."

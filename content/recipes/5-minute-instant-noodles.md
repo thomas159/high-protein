@@ -8,7 +8,7 @@ description: "Skip the watery ramen. Upgrading them with a savoury soy and sesam
 image: "5-minute-instant-noodles_ywvyin"
 alt: "5 Minute instant noodles garnished with spring onions"
 pintrest: ""
-categories: ["vegan", "dinner", "15-minute-meals"]
+categories: ["vegan", "dinner", "5-minute-meals"]
 cuisine: "Asian"
 keywords: ["instant noodles upgrade", "asian", "vegan", "quick meal", "5-minute", "ramen hack", "soy sesame noodles"]
 tags: ["vegan", "quick-meals"]

@@ -8,7 +8,7 @@ description: "Elevate your meal prep with this quick 35-minute Garam Masala mari
 image: "garam-masala-tofu-marinade_yfdnmb"
 alt: "Garam masala marinated tofu cubes ready for cooking"
 pintrest: ""
-categories: ["vegan", "dinner", "15-minute-meals", "marinade"]
+categories: ["vegan", "dinner", "30-minute-meals", "marinade"]
 tags: ["vegan", "high protein", "indian"]
 cuisine: "Indian"
 keywords: ["tofu marinade", "garam masala", "indian", "vegan", "high-protein", "spicy", "air-fryer"]

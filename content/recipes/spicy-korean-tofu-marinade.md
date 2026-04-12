@@ -8,7 +8,7 @@ description: "A fiery, fermented Korean marinade featuring Gochujang, soy sauce,
 image: "spicy-korean-tofu-marinade_dbsui8"
 alt: "Spicy Korean marinated tofu pieces"
 pintrest: ""
-categories: ["vegan", "dinner", "15-minute-meals", "marinade"]
+categories: ["vegan", "dinner", "30-minute-meals", "marinade"]
 tags: ["vegan", "high protein", "korean"]
 cuisine: "Korean"
 keywords: ["tofu marinade", "korean", "spicy", "gochujang", "vegan", "high-protein"]

@@ -8,7 +8,7 @@ description: "Give your meal prep a serious Mexican-inspired kick. The lime juic
 image: "chipotle-lime-tofu-marinade_ymiqee"
 alt: "Chipotle lime marinated tofu pieces"
 pintrest: ""
-categories: ["vegan", "dinner", "15-minute-meals", "marinade", "trending"]
+categories: ["vegan", "dinner", "30-minute-meals", "marinade", "trending"]
 tags: ["vegan", "high protein", "mexican"]
 cuisine: "Mexican"
 keywords: ["tofu marinade", "chipotle", "lime", "mexican", "vegan", "high-protein", "air-fryer", "spicy"]

@@ -8,7 +8,7 @@ description: "Hit your daily micronutrient targets with this easy 30-minute crun
 image: "sweet-and-sour-vegetables_covgep"
 alt: "Stir fried sweet and sour vegetables in a bowl"
 pintrest: ""
-categories: ["vegan", "dinner", "trending"]
+categories: ["vegan", "dinner", "30-minute-meals", "trending"]
 cuisine: "Thai"
 keywords: ["stir fry", "sweet and sour", "vegetables", "thai", "vegan", "healthy", "vegan sweet and sour"]
 tags: ["vegan", "thai"]

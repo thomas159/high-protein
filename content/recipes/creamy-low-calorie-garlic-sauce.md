@@ -8,7 +8,7 @@ description: "A brilliant low-calorie swap that doesn't taste like diet food. **
 blurb: []
 image: "garlic-sauce_dz8yhf"
 alt: "Creamy low calorie garlic sauce in a small dipping bowl"
-categories: ["sauces", "15-minute-meals"]
+categories: ["sauces", "5-minute-meals"]
 tags: ["keto"]
 tipsTitle: "Variations to Try"
 tips: 
