@@ -4,15 +4,15 @@ slug: "kim-chi-fried-rice"
 meta: {
   seoMetaDescription: "Need a spicy recovery meal fast? The quickest, crispiest 15-minute spicy kimchi fried rice delivers smoky umami punch. Minimal prep, maximum flavor!"
 }
-description: "The ultimate recovery meal when you need serious flavour fast. Aged kimchi brings instant fermented tang and umami to the pan, while a high-heat sear delivers the quickest, crispiest 15-minute edges. Minimal prep, maximum flavour, and crowned with a golden fried egg, it hits absolutely every macro."
+description: "The ultimate recovery meal when you need serious flavour fast. **Delivering 13g of protein for 404 kcal**, aged kimchi brings instant fermented tang and umami to the pan.<br><br>Minimal prep, maximum flavour, and a high-heat sear delivers the quickest, crispiest 15-minute edges. Tested with both fresh and day-old rice to guarantee the perfect pan-fried crunch."
 blurb: []
 image: "kim-chi-fried-rice_a4xo6n"
 alt: "Kimchi fried rice topped with a fried egg"
 categories: ["dinner", "vegetarian", "15-minute-meals"]
 tipsTitle: "Cooking Tips"
 tips:
-  - "Flavour Bomb: Don't bin the liquid! Chuck 2-3 tablespoons of kimchi juice into the pan for a massive umami hit."
-  - "Protein Spike: Pan-fry 200g of firm tofu before you start the rice for a massive macro upgrade."
+  - "Flavour Bomb: Don't bin the liquid! Chuck a splash of kimchi juice into the pan for a massive umami hit."
+  - "Protein Spike: Pan-fry a block of firm tofu before you start the rice for a massive macro upgrade."
   - "Rice Mechanics: Day-old cold rice is the ultimate cheat code. It has less moisture and crisps up perfectly without turning to mush."
 works:
   - "Fermented Depth: Aged kimchi delivers instant tang and umami that usually takes hours of simmering."
@@ -62,6 +62,6 @@ faq:
 steps:
   - "Get your oil smoking in a large wok. Chuck in the garlic, veg, and kimchi. Stir-fry for 3-4 minutes to caramelise the kimchi."
   - "Push everything to the edges. Crack the egg into the centre and scramble aggressively. Fold the veg back in when the egg is mostly cooked."
-  - "Drop the rice in. Hit it with sesame oil, soy sauce, and gochujang. Blast the heat. Press the rice firmly into the pan for 30 seconds, then toss. Repeat to build those elite crispy edges."
-  - "Pull it off the heat. Hammer it with toasted sesame seeds and spring onions."
+  - "Drop the rice in. Hit it with sesame oil, soy sauce, and gochujang. Blast the heat. Press the rice firmly into the pan for 30 seconds, then toss. Repeat to build those elite crispy edges. If you constantly stir, it will steam instead of crisp."
+  - "Pull it off the heat. Top it with toasted sesame seeds and spring onions."
 ---

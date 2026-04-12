@@ -4,7 +4,7 @@ slug: "air-fryer-pizza-tortilla-wrap"
 meta: {
   seoMetaDescription: "Hit that pizza craving fast! The quickest, crispiest 15-minute air fryer tortilla pizza gives you a low-calorie crunch. Minimal prep, maximum flavour."
 }
-description: "A flour tortilla is a fantastic, lightweight framework for your pizza toppings. It crisps up beautifully under the intense heat of the air fryer, delivering the quickest, crispiest 15-minute pizza. Minimal prep, maximum flavour, and it saves you enough calories to easily justify a post-match pint."
+description: "A flour tortilla is a fantastic, lightweight framework for your pizza toppings. It crisps up beautifully under the intense heat of the air fryer, delivering the quickest, crispiest 15-minute pizza. Minimal prep, maximum flavour, and it saves you enough calories to easily justify a post-workout drink."
 blurb: []
 tipsTitle: "Pro Tip"
 tips: 
@@ -18,7 +18,7 @@ works:
 use:
   - "Cutting Phase Fix: All the pizza satisfaction, barely any of the carbs."
   - "Emergency Refeed: Ready in 15 minutes when the cravings hit."
-  - "Light Lunch: Superset with a rocket salad."
+go   - "Light Lunch: Pair with a rocket salad."
 image: "air-fryer-pizza-tortilla-wrap_ko6ckn"
 alt: "Air fryer tortilla pizza with pesto and cherry tomatoes"
 pintrest: ""
@@ -31,7 +31,7 @@ variations:
   - "Hot Honey: Hit it with jalapeños and a drizzle of chilli honey."
 rating: 
 reviews: 
-servingSuggestions: "Smash this alongside a massive rocket and parmesan salad. Drizzle with chilli oil if you need an extra kick. Eat it immediately."
+servingSuggestions: "Serve this alongside a massive rocket and parmesan salad. Drizzle with chilli oil if you need an extra kick. Serve it immediately."
 storageInstructions: "Eat it fresh. Do not try and fridge this or it'll turn into a soggy frisbee."
 prepTimeMins: 5
 cookTimeMins: 10

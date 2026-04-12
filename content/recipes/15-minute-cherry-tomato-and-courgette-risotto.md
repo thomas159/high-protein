@@ -4,7 +4,7 @@ slug: "15-minute-cherry-tomato-and-courgette-risotto"
 meta: {
   seoMetaDescription: "Want risotto fast? This easy 15-minute ultra-creamy microwave courgette risotto is the ultimate high-carb recovery meal. Minimal prep, maximum flavor!"
 }
-description: "A proper Italian risotto without standing over a hot stove stirring for 40 minutes like a mug. The microwave steams the arborio rice perfectly, forcing it to release its starches into an easy 15-minute ultra-creamy sauce. Minimal prep, maximum flavour, and loaded with fresh courgette for a rapid recovery meal."
+description: "A proper Italian risotto usually requires standing over a hot stove stirring for 40 minutes. We intentionally choose this microwave hack because saving time and hitting macros is our ultimate priority over culinary tradition.<br><br>Minimal prep, maximum flavour, and loaded with fresh courgette. Tested twice to nail the exact liquid absorption ratio so it doesn't turn into a watery soup."
 blurb: []
 image: "15-minute-cherry-tomato-and-courgette-risotto_1_lsbbrh"
 alt: "15-minute cherry tomato and courgette risotto in a bowl"
@@ -16,7 +16,7 @@ tipsTitle: "Microwave Magic"
 tips:
   - "Mind the Bowl Size: Arborio rice expands aggressively and bubbles up. Use a massive bowl to prevent a microwave disaster."
   - "Creamy Finish: Vigorously stirring for 60 seconds at the end forces the starches out, creating a luxurious sauce without touching double cream."
-  - "Fridge Clearance: Highly forgiving. Chuck in leftover spinach, peas, or peppers at the end."
+  - "Fridge Clearance: Highly forgiving. Stir in leftover spinach, peas, or peppers at the end."
 works:
   - "Starch Release: Aggressive stirring physically beats the starches out of the rice to naturally thicken the sauce."
   - "Controlled Steam: The microwave provides a high-heat, enclosed environment, completely binning the need to stand over a stove stirring for 40 minutes."
@@ -26,10 +26,10 @@ use:
   - "Vegetarian Main: A heavyweight dish that needs zero meat."
 variations:
   - "Green Goodness: Fold in fresh spinach or peas."
-  - "Cheesy Upgrade: Chuck in a dollop of mascarpone if you have the calories to spare."
+  - "Cheesy Upgrade: Mix in a dollop of mascarpone if you have the calories to spare."
 rating: 
 reviews: 
-servingSuggestions: "Perfect on its own, or superset with a slice of garlic ciabatta to mop the bowl. A sharp rocket salad cuts through the heavy creaminess perfectly."
+servingSuggestions: "Perfect on its own, or pair with a slice of garlic ciabatta to mop the bowl. A sharp rocket salad cuts through the heavy creaminess perfectly."
 storageInstructions: "Fridge for 3 days. Reheat with a splash of boiling water. Don't freeze it; the rice turns to a grainy mess."
 prepTimeMins: 0
 cookTimeMins: 15
@@ -57,9 +57,9 @@ faq:
     answer: "Yes, but you'll be stirring for 30 minutes. Simmer and add stock ladle by ladle."
 
 steps:
-  - "Grab a massive microwave-safe bowl. Mix the rice and wine. Blast for 2 minutes on high until the wine absorbs."
-  - "Pour in the veg stock. Microwave for 13 minutes, stirring at the halfway point. You want a wet, soupy finish, not a solid block."
+  - "Take a large microwave-safe bowl. Mix the rice and wine. Blast for 2 minutes on high until the wine absorbs."
+  - "Pour in the veg stock. Microwave for 13 minutes, stirring at the halfway point. You want a wet, slightly soupy finish. If it’s a solid block, add a splash of boiling water."
   - "While the microwave runs, melt the butter and a splash of oil in a pan. Sauté the garlic and tomatoes for 5 minutes until jammy. Stir in the grated courgette for another 3 minutes."
   - "Pull the bowl from the microwave. Fold the veg, remaining butter, and parmesan straight into the rice."
-  - "Stir aggressively, then let it rest for 60 seconds to set the glossy finish."
+  - "Stir aggressively for 60 seconds. This physical agitation forces the starches out, setting the glossy finish. Let it rest for 1 minute before eating."
 ---

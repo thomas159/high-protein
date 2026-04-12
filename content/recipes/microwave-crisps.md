@@ -4,7 +4,7 @@ slug: "microwave-crisps"
 meta: {
   seoMetaDescription: "Craving salty snacks? These quickest, crispiest 5-minute microwave potato crisps hit the spot without ruining your macros. Minimal prep, maximum flavor."
 }
-description: "Crisps don't have to ruin your diet. The microwave aggressively evaporates the moisture right out of the potato slices, leaving the quickest, crispiest 5-minute crunch with barely any oil. Minimal prep, maximum flavour, and a totally guilt-free, low-calorie snack that's ready before the kettle boils."
+description: "Crisps don't have to ruin your diet. **Delivering a satisfying volume snack for just 229 kcal**, the microwave aggressively evaporates the moisture right out of the potato slices.<br><br>Minimal prep, maximum flavour, and the quickest, crispiest 5-minute crunch. Tested extensively to find the exact microwave timings that prevent them from turning to ash."
 image: "microwave-crisps_loaj1f"
 alt: "Crunchy microwave potato crisps in a bowl"
 pintrest: ""
@@ -29,8 +29,8 @@ variations:
   - "Spicy BBQ: Dust with smoked paprika and chilli powder."
 rating: 
 reviews: 
-servingSuggestions: "These are built for heavy dipping. Superset with guacamole, salsa, or a high-protein Greek yoghurt dip."
-storageInstructions: "Demolish immediately. They survive 1-2 days in a tub but lose their edge. Keep them out of the fridge."
+servingSuggestions: "These are built for heavy dipping. Pair with guacamole, salsa, or a high-protein Greek yoghurt dip."
+storageInstructions: "Eat immediately. They survive 1-2 days in a tub but lose their edge. Keep them out of the fridge."
 prepTimeMins: 5
 cookTimeMins: 10
 servings: 1
@@ -53,6 +53,6 @@ steps:
   - "Slice the potatoes into paper-thin rounds. Use a mandoline if you want them actually crispy."
   - "Submerge in cold water for 5 minutes to bin the starch. Drain and pat ruthlessly dry with a towel. Moisture will ruin the crunch."
   - "Toss with olive oil and salt. Line a microwave-safe plate with parchment paper and lay the slices flat without overlapping."
-  - "Microwave on high for 3 minutes. Flip them, then go another 2 minutes. Keep blasting in 1-minute increments until they turn golden brown and firm."
+  - "Microwave on high for 3 minutes. Flip them, then go another 2 minutes. Keep blasting in 1-minute increments until they turn golden brown and firm. If they bend when you pick them up, they aren't done."
   - "Pull them out and let them rest for 2 minutes to solidify into that perfect crisp snap."
 ---

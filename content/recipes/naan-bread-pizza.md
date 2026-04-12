@@ -4,7 +4,7 @@ slug: "naan-bread-pizza"
 meta: {
   seoMetaDescription: "Skip the takeaway with this easy 10-minute crispy mango paneer naan pizza. Minimal prep, maximum flavor, and the ultimate quick Indian-fusion dinner."
 }
-description: "A fluffy naan bread makes the perfect low-effort pizza base, sidestepping the absolute nightmare of making dough from scratch. Sweet mango chutney, creamy paneer, and a spicy kick—this easy 10-minute recipe guarantees minimal prep, maximum flavour, and a massive upgrade for your weeknight dinner rotation."
+description: "A fluffy naan bread makes the perfect low-effort pizza base, sidestepping the absolute nightmare of making dough from scratch.<br><br>Sweet mango chutney, creamy paneer, and a spicy kick—this easy 10-minute recipe guarantees minimal prep and maximum flavour. Tested 4 times to find the exact timing before the naan turns into a giant crouton."
 blurb: []
 image: "naan-bread-pizza_m9ikl5"
 alt: "Naan bread pizza with mango chutney and paneer"
@@ -19,17 +19,17 @@ works:
   - "Flavour Efficiency: Mango chutney replaces pizza sauce, delivering massive complexity instantly."
 use:
   - "Refeed Dinner: A brutally quick workaround for traditional pizza night."
-  - "Rapid Lunch: Assembled and smashed in under 15 minutes."
+  - "Rapid Lunch: Assembled and ready in under 15 minutes."
   - "Customisable: Dead easy to tweak for different macros."
 cuisine: "Indian"
 tags: ["indian-fusion", "quick-dinner"]
 keywords: ["naan pizza", "indian", "fusion", "paneer", "mango chutney", "quick dinner"]
 variations:
   - "Vegan Swap: Use dairy-free naan and a vegan cheese alternative."
-  - "Protein Spike: Chuck some leftover tikka tofu on top."
+  - "Protein Spike: Toss some leftover tikka tofu on top."
 rating: 
 reviews: 
-servingSuggestions: "Smash this alongside a crisp rocket salad with a light vinaigrette. If you need more volume, add a dollop of cooling cucumber raita."
+servingSuggestions: "Serve this alongside a crisp rocket salad with a light vinaigrette. If you need more volume, add a dollop of cooling cucumber raita."
 storageInstructions: "Eat it fresh. Leftovers survive 2 days in the fridge but the microwave will ruin the crust. Reheat in the air fryer. Don't freeze."
 prepTimeMins: 0
 cookTimeMins: 15
@@ -55,7 +55,7 @@ faq:
 
 steps:
   - "Spread an even layer of mango chutney across the naan. This is your high-efficiency flavour base."
-  - "Distribute the paneer, red peppers, and onions. Press the paneer lightly into the chutney so it locks in place."
-  - "Blast it in the air fryer or oven. Leave it in for an extra 2 minutes so the paneer edges catch and get that charred 'tandoori' look."
-  - "Pull it when the edges are crispy. Shower heavily with fresh coriander while it's still steaming and get stuck in."
+  - "Distribute the paneer, red peppers, and onions. Press the paneer firmly into the chutney so it locks in place. If you don't, the air fryer fan will blow it everywhere."
+  - "Blast it in the air fryer or oven. Leave it in for an extra 2 minutes. You want the paneer edges to blister and catch that charred 'tandoori' look."
+  - "Pull it when the edges are crispy. Shower heavily with fresh coriander while it's still steaming and enjoy."
 ---

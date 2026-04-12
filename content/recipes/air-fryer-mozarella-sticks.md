@@ -2,9 +2,9 @@
 title: "The Ultimate Extra Crispy Air Fryer Mozzarella Sticks"
 slug: "air-fryer-mozarella-sticks"
 meta: {
-  seoMetaDescription: "Bin the shop-bought rubbish. These ultimate extra crispy air fryer mozzarella sticks deliver a massive cheese pull in just 10 minutes. Minimal prep, maximum flavour!"
+  seoMetaDescription: "Skip the shop-bought rubbish. These ultimate extra crispy air fryer mozzarella sticks deliver a massive cheese pull in just 10 minutes. Minimal prep, maximum flavour!"
 }
-description: "Skip the frozen aisle. The double-breading on these mozzarella sticks locks the cheese inside, preventing any messy leaks in your air fryer basket. You get the ultimate extra crispy crunch and a massive cheese pull in just 10 minutes. Minimal prep, maximum flavour, and it's the perfect post-match snack to hit your protein targets."
+description: "Skip the frozen options. The double-breading on these mozzarella sticks locks the cheese inside, preventing any messy leaks in your air fryer basket.<br><br>You get the ultimate extra crispy crunch and a massive cheese pull in just 10 minutes. Tested 5 times in a Ninja air fryer—skipping the freezer step guarantees a total blowout."
 image: "air-fryer-mozarella-sticks_oiud1f"
 alt: "Crispy air fryer mozzarella sticks with a cheese pull"
 pintrest: ""
@@ -13,13 +13,13 @@ tipsTitle: "Chef's Tip"
 tips:
   - "The Double Dip: Never skip the double-breading. It builds structural armour that stops the molten cheese blowing out in your air fryer."
   - "Acid Cut: Squeeze fresh lime juice over the sticks right before eating. It cuts straight through the heavy fats."
-  - "Freeze to Please: They must be rock-solid frozen before cooking. If they thaw during prep, bin them back in the freezer for 15 minutes."
+  - "Freeze to Please: They must be rock-solid frozen before cooking. If they thaw during prep, put them back in the freezer for 15 minutes."
 works:
   - "Thermal Delay: Freezing ensures the outer shell toasts perfectly before the cheese core completely liquifies."
   - "Structural Integrity: The double flour and egg dredge forms an impenetrable seal. Science, basically."
 use:
   - "Cheat Day Starter: The ultimate kickoff to an Italian refeed."
-  - "Match Day Platter: A guaranteed crowd-pleaser to smash while watching the football."
+  - "Match Day Platter: A guaranteed crowd-pleaser to enjoy while watching the football."
   - "Snack Attack: High-protein, gooey comfort food without the deep-fat fryer guilt."
 cuisine: "American"
 tags: ["party snack"]
@@ -33,11 +33,11 @@ dontTitle: "Don't skip the freeze!"
 dont: "Skipping the 30-minute freezer step is the difference between a crispy snack and a catastrophic puddle of cheese in your air fryer basket."
 variations:
   - "Herb Armour: Mix dried basil and parsley straight into the breadcrumbs."
-  - "Spicy Shell: Chuck a heavy pinch of cayenne pepper into the flour dredge."
+  - "Spicy Shell: Add a heavy pinch of cayenne pepper into the flour dredge."
 rating: 
 reviews: 
-servingSuggestions: "These demand a proper dipping sauce. Superset them with a warm, garlicky marinara or spicy arrabbiata. Don't ruin your macros by drowning them in cheap supermarket ketchup."
-storageInstructions: "Freeze uncooked sticks in a single layer, then chuck them in a freezer bag for up to 3 months. Air fry straight from frozen. Eat cooked sticks immediately before the cheese solidifies into rubber."
+servingSuggestions: "These demand a proper dipping sauce. Pair them with a warm, garlicky marinara or spicy arrabbiata. Don't ruin your macros by drowning them in cheap supermarket ketchup."
+storageInstructions: "Freeze uncooked sticks in a single layer, then place them in a freezer bag for up to 3 months. Air fry straight from frozen. Eat cooked sticks immediately before the cheese solidifies into rubber."
 prepTimeMins: 40
 cookTimeMins: 5
 servings: 1
@@ -67,9 +67,9 @@ steps:
     image: "air-fryer-mozarella-sticks-step-1_lmayev"
   - text: "Slice the mozzarella into uniform sticks about 2cm thick. Pat them slightly with a damp paper towel (if they are too dry) and dredge them in the flour until fully coated, shaking off any excess."
     image: "air-fryer-mozarella-sticks-step-2-1_wik6yk"
-  - text: "Dip each floured stick into the egg, then roll it in the spiced breadcrumbs. Repeat this process: dip it back into the egg for a second time, then a final roll in the breadcrumbs. This creates a thick, reinforced shell that prevents the cheese from leaking during air frying."
+  - text: "Dunk the floured stick into the egg, then roll in breadcrumbs. Repeat this step. This double-wall armour is mandatory. If you leave gaps in the breading, the cheese will explode into a puddle."
     image: "air-fryer-mozarella-sticks-3-1_y7ulkv"
-  - text: "Place your breaded sticks on a tray and freeze for at least 30 minutes. Freezing \"sets\" the breading and ensures the cheese doesn't melt faster than the crust can crisp up."
-  - text: "Arrange the frozen sticks in the air fryer basket, leaving space between each for airflow. Lightly spray with olive oil. Cook at 200°C for 5–8 minutes, gently turning them halfway through. Remove them as soon as the crust is golden-brown and the cheese just begins to show at the edges."
+  - text: "Set the breaded sticks in the freezer for at least 30 minutes. This drops the core temp so the shell cooks before the centre liquefies."
+  - text: "Space the frozen sticks evenly. Blast at 200°C for 5–8 minutes. Pull them the exact second the crust is golden and you see a tiny hint of cheese trying to escape."
     image: "air-fryer-mozarella-sticks-step-4-1_lpj3gg"
 ---

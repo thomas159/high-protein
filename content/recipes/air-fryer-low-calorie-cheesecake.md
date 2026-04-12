@@ -28,8 +28,8 @@ use:
 variations:
   - "Berry Swirl: Swirl sugar-free strawberry jam into the batter."
   - "Citrus Zing: Add orange or lime zest alongside the lemon juice."
-servingSuggestions: "Serve this thick, velvety cheesecake completely naked, or superset it with fresh raspberries and blueberries. The tartness cuts straight through the richness."
-storageInstructions: "Fridge it, covered, for up to 4 days. Freezes perfectly for up to 2 months. Thaw overnight in the fridge before attacking it."
+servingSuggestions: "Serve this thick, velvety cheesecake completely naked, or pair it with fresh raspberries and blueberries. The tartness cuts straight through the richness."
+storageInstructions: "Fridge it, covered, for up to 4 days. Freezes perfectly for up to 2 months. Thaw overnight in the fridge before enjoying."
 prepTimeMins: 5
 cookTimeMins: 20
 servings: 1
@@ -52,7 +52,7 @@ faq:
     answer: "Absolutely. Bake at 160°C for 25-30 minutes until the edges are set but the centre still has a slight wobble."
 
 steps:
-  - "Whisk the erythritol, cream cheese, and egg until completely smooth. Gently fold in the yoghurt and lemon juice."
+  - "Whisk the erythritol, cream cheese, and eggs until completely smooth. Gently fold in the yoghurt and lemon juice."
   - "Pour the batter into a ramekin. Blast in the air fryer at 180°C for 18-22 minutes until golden on top with a slight wobble in the centre."
-  - "Pull it out and let it cool to room temp. Chuck it in the fridge for at least two hours to set completely."
+  - "Pull it out and let it cool to room temp. Place it in the fridge for at least two hours to set completely."
 ---

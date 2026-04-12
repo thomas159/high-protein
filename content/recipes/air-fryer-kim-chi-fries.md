@@ -4,7 +4,7 @@ slug: "air-fryer-kim-chi-fries"
 meta: {
   seoMetaDescription: "Ultimate weekend refeed? These easy 20-minute extra crispy air fryer kimchi fries are packed with umami and melted cheese. Minimal prep, maximum flavor."
 } 
-description: "A brilliant fusion of spicy, fermented kimchi and melted cheddar over easy 20-minute extra crispy fries. The air fryer blasts away the moisture, giving you a deep-fried crunch without being weighed down by oil. Minimal prep, maximum flavour, and the ultimate weekend cheat meal that actually fits your macros."
+description: "A brilliant fusion of spicy, fermented kimchi and melted cheddar over easy 20-minute extra crispy fries. The air fryer blasts away the moisture, giving you a deep-fried crunch without being weighed down by oil.<br><br>Minimal prep, maximum flavour, and the ultimate weekend cheat meal. Tested multiple times to ensure the fries stay rigid under the heavy toppings."
 image: "air-fryer-kim-chi-fries_u7kuzj"
 alt: "Air fryer kimchi fries topped with melted cheese and sesame seeds"
 pintrest: ""
@@ -26,7 +26,7 @@ cuisine: "Korean"
 keywords: ["kimchi fries", "air fryer", "korean", "fusion", "cheese", "spicy", "snack"]
 whyTitle: "Why use an air fryer?"
 why:
-  - "Reduced Fat: Achieve that signature crunch with just a tablespoon of heart-healthy olive oil."
+  - "Reduced Fat: Achieve that signature crunch with just a splash of heart-healthy olive oil."
   - "Consistent Heat: No hot spots—the air fryer ensures every fry is evenly browned."
 variations:
   - "Protein Packed: Top with crispy tofu cubes or a fried egg."
@@ -61,9 +61,9 @@ faq:
     answer: "They have a moderate, savory heat. The cheese helps cool down the spice from the kimchi and gochujang significantly!"
 
 steps:
-  - "Scrub the potatoes and slice them into uniform sticks, approximately 0.5cm thick. In a large bowl, toss the fries with olive oil, dried rosemary, and garlic granules and salt until every surface is lightly coated. Using a bowl ensures even seasoning without making the fries soggy"
-  - "Arrange the potatoes in the basket, try not to overcrowd them to ensure maximum airflow. Air fry for 18-24 minutes on 190c, giving the basket a vigorous shake halfway through"
-  - "With 5 minutes left on the fries, add the kimchi to a pan over medium heat. Sauté for 2 minutes to cook off the raw edge. Stir in the soy sauce, sugar, and Gochujang. Cook for another 2 minutes until the sauce is glossy and coats the kimchi perfectly"
+  - "Scrub the potatoes and slice them into uniform sticks. Toss aggressively in a bowl with olive oil and seasonings. Using a bowl ensures even coverage without drenching them."
+  - "Arrange the potatoes in the basket. Overcrowding kills the crunch. Air fry for 18-24 minutes at 190°C, shaking the basket violently halfway through."
+  - "Sauté the kimchi in a pan to cook off the raw edge. Stir in the soy sauce, sugar, and Gochujang. Cook until the sauce is glossy and coats the kimchi perfectly."
   - "Once the fries are golden-brown and fragrant, remove them and toss immediately with the hot, saucy kimchi"
   - "Plate the fries while steaming hot. Immediately top with grated cheddar so it melts into the kimchi, then garnish with sesame seeds and fresh spring onions for crunch."
 ---

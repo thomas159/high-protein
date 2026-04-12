@@ -4,7 +4,7 @@ slug: "5-minute-air-fryer-nachos"
 meta: {
   seoMetaDescription: "Need a snack fast? These quickest, crispiest 5-minute air fryer nachos deliver instant, cheesy gratification. Minimal prep, maximum flavour, and zero soggy chips."
 }
-description: "Waiting 20 minutes for an oven to preheat when you need a snack is an absolute joke. These quickest, crispiest 5-minute air fryer nachos deliver instant, cheesy gratification. Minimal prep, maximum flavour, and proper layering ensures every single bite hits the target without the soggy disappointment of the microwave."
+description: "Waiting 20 minutes for an oven to preheat when you need a snack is an absolute joke. These quickest, crispiest 5-minute air fryer nachos deliver instant, cheesy gratification.<br><br>Minimal prep, maximum flavour, and proper layering ensures every bite hits the target. Tested across 3 different air fryer baskets to master the dry heat melt."
 image: "5-minute-air-fryer-nachos_gf3zzd"
 alt: "5 minute air fryer nachos with melted cheese and tomatoes"
 pintrest: ""
@@ -19,7 +19,7 @@ works:
   - "Rapid Thermodynamics: The tiny chamber hits peak heat instantly, entirely binning the 15-minute oven preheat."
 use:
   - "Emergency Refeed: A hot, cheesy hit ready faster than your oven can even preheat."
-  - "Match Day Scran: Effortless to scale up when your mates are over."
+  - "Match Day Snack: Effortless to scale up when your friends are over."
   - "Macro Lunch: Load it heavily with black beans and veg for a surprisingly massive volume meal."
 tags: ["vegetarian", "snack", "mexican"]
 cuisine: "Mexican"
@@ -30,11 +30,11 @@ why:
   - "Brutal Efficiency: Zero preheating required. 5 minutes from craving to eating."
   - "360° Melting: The circulating air ensures even the chips at the bottom get hit with the heat."
 variations:
-  - "Protein Spike: Chuck a tin of drained black beans into the layers."
+  - "Protein Spike: Toss a tin of drained black beans into the layers."
   - "Extra Fire: Load it up with pickled jalapeños before hitting the heat."
 rating: 
 reviews: 
-servingSuggestions: "These need to be smashed immediately. Superset them with massive dollops of guacamole, fresh pico de gallo, and sour cream. Wash it down with an ice-cold zero-sugar soda."
+servingSuggestions: "These need to be eaten immediately. Pair them with massive dollops of guacamole, fresh pico de gallo, and sour cream. Wash it down with an ice-cold zero-sugar soda."
 storageInstructions: "Eat them immediately. Leftovers turn into a soggy, depressing mess in the fridge. Do not freeze."
 prepTimeMins: 40
 cookTimeMins: 5
@@ -60,7 +60,7 @@ faq:
 
 steps:
   - "Line your air fryer basket with a small piece of parchment paper (this makes cleanup easy and helps you lift the nachos out later). Spread a layer of tortilla chips evenly across the bottom."
-  - "Generously sprinkle grated cheese over the chips, followed by finely chopped tomatoes and red onions."
-  - "Air fry at 160°C for 3–5 minutes. Keep a close eye on them; you want the cheese bubbling and golden, but the chips can burn quickly if left too long."
+  - "Aggressively layer on the grated cheese, followed by chopped tomatoes and red onions. Build it in two tiers so every single chip pulls its weight."
+  - "Blast at 160°C for 3–5 minutes. Do not walk away. The line between perfectly bubbling golden cheese and burnt ash is exactly 15 seconds."
   - "Carefully lift the parchment paper to remove the nachos. Top with fresh spring onions, a dollop of sour cream, or a bright squeeze of lime juice for that signature \"zing.\""
 ---

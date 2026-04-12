@@ -4,7 +4,7 @@ slug: "udon-peanut-butter-noodles"
 meta: {
   seoMetaDescription: "Want creamy noodles fast? These quick 15-minute ultra-creamy peanut butter udon noodles are a high-protein vegan powerhouse. Minimal prep, maximum flavor."
 }
-description: "Thick, chewy udon noodles tossed in a quick 15-minute ultra-creamy Thai peanut sauce. Crafted with roasted peanuts, aromatic red curry paste, and rich coconut milk. Minimal prep, maximum flavour, and perfectly balanced to fuel your recovery and hit your plant-based protein targets without the hassle."
+description: "Thick, chewy udon noodles tossed in a quick 15-minute ultra-creamy Thai peanut sauce. Crafted with roasted peanuts, aromatic red curry paste, and rich coconut milk.<br><br>Minimal prep, maximum flavour, and perfectly balanced to fuel your recovery. Developed over a brutal bulking phase to cram in massive, clean calories without the hassle."
 image: "udon-peanut-butter-noodles_qufch8"
 alt: "Udon peanut butter noodles with vegetables and tofu"
 pintrest: ""
@@ -14,7 +14,7 @@ keywords: ["udon", "peanut butter", "noodles", "thai", "vegan", "tofu", "stir fr
 tags: ["vegan", "high protein", "asian-fusion"]
 tipsTitle: "Wok Mechanics"
 tips:
-  - "Rinse the Udon: Blast vacuum-packed udon under hot water to loosen the strands. Chucking them in cold will just snap them."
+  - "Rinse the Udon: Blast vacuum-packed udon under hot water to loosen the strands. Tossing them in cold will just snap them."
   - "Tofu Texture: Press the tofu ruthlessly dry. Let it sear completely undisturbed to build a crust before you start tossing it."
   - "Sauce Consistency: Peanut butter seizes up as it cools. If meal prepping, aggressively stir in a splash of warm water when reheating to resurrect the glaze."
 works:
@@ -29,7 +29,7 @@ variations:
   - "Volume Fix: Bulk it out with steamed broccoli florets."
   - "Tahini Swap: Use tahini if you prefer an earthier hit."
 reviews: 
-servingSuggestions: "Smash this heavy bowl alongside charred Asian greens like gai lan or snap peas. Top with a soft-boiled egg or crispy chickpeas for a massive protein spike."
+servingSuggestions: "Serve this heavy bowl alongside charred Asian greens like gai lan or snap peas. Top with a soft-boiled egg or crispy chickpeas for a massive protein spike."
 storageInstructions: "Fridge in an airtight tub for 3 days. Don't freeze it; the udon will turn to mush."
 prepTimeMins: 5
 cookTimeMins: 10
@@ -60,8 +60,8 @@ faq:
     answer: "Peanut butter seizes up. Whisk vigorously with a splash of warm water over low heat to force it back into an emulsion."
 
 steps:
-  - "Boil the udon noodles according to the packet. Drain, but reserve a small splash of the starchy water for the sauce."
+  - "Boil the udon noodles according to the packet. Drain, but strictly reserve a splash of the starchy cooking water. You will need this later."
   - "Heat coconut oil in a large wok. Sauté the sliced carrots, peppers, and tofu for 5 minutes until the veg softens and the tofu catches a crust."
-  - "Chuck in the curry paste, coconut milk, soy sauce, and sugar. Cook for 2 minutes to build a silky sauce, then fold in the spring onions."
+  - "Stir in the curry paste, coconut milk, soy sauce, and sugar. Cook for 2 minutes to build a silky sauce. If the peanut butter seizes and goes claggy, violently whisk in that reserved noodle water."
   - "Drop the heat. Fold the udon into the pan and hit it with a squeeze of lime. Toss aggressively to coat every strand."
 ---

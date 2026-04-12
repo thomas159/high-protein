@@ -4,7 +4,7 @@ slug: "satay-peanut-sauce"
 meta: {
   seoMetaDescription: "Need a premium dip? This quick 10-minute ultra-creamy Thai satay peanut sauce delivers bold, spicy healthy fats. Minimal prep, maximum flavor."
 }
-description: "A top-tier multi-tasker for your kitchen. By 'blooming' the red curry paste in coconut milk, you unlock a quick 10-minute ultra-creamy flavour bomb. Minimal prep, maximum flavour, and loaded with crushed peanuts and tangy tamarind. An indulgent, healthy fat source perfect for dipping skewers or dressing noodles."
+description: "A top-tier multi-tasker for your kitchen. **Packing healthy fats and 6g of protein for 181 kcal**, 'blooming' the red curry paste in coconut milk unlocks a quick 10-minute flavour bomb.<br><br>Minimal prep, maximum flavour, and loaded with crushed peanuts and tangy tamarind. Developed to rival authentic Thai street food without the hours of simmering."
 blurb: []
 tipsTitle: "Sauce Mastery"
 tips:
@@ -58,5 +58,5 @@ faq:
 steps:
   - "Get your coconut milk and red curry paste in a saucepan over low-medium heat. Stir gently. Cook until fragrant and small beads of red oil shimmer on top. This means the spices have officially bloomed."
   - "Stir in the chopped peanuts. Cook for 2 minutes. The sauce will tighten up into a thick, glossy glaze."
-  - "Kill the heat entirely. Stir in the sugar and tamarind paste. Boiling tamarind destroys the bright, tangy notes, so keep it off the heat."
+  - "Kill the heat entirely. Stir in the sugar and tamarind paste. Boiling tamarind destroys the bright, tangy notes and turns the sauce bitter, so keep it strictly off the heat."
 ---

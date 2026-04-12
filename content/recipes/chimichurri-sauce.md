@@ -17,6 +17,7 @@ tips:
   - "Protein Pairing: The acidity in the vinegar actually helps break down plant-based proteins. Elite over grilled tofu or seitan."
   - "Let It Breathe: Let it sit at room temperature for 15 minutes before serving so the herbs violently release their oils."
   - "Heat Control: Leave the chilli seeds in for a fiery kick, or bin them for a milder tang."
+  - "Heat Control: Leave the chilli seeds in for a fiery kick, or discard them for a milder tang."
 works:
   - "Maceration Science: Soaking raw garlic in vinegar kills the harsh enzymes, leaving a smooth, integrated pungency."
   - "Fat and Acid Synergy: The heavy olive oil is perfectly sliced open by the sharp vinegar."

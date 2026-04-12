@@ -4,7 +4,7 @@ slug: "quick-microwave-baba-ganoush"
 meta: {
   seoMetaDescription: "Middle Eastern mezze fast? This quick 15-minute ultra-creamy microwave baba ganoush is a macro-friendly vegan dip. Minimal prep, maximum flavor."
 } 
-description: "Craving Middle Eastern mezze but don't want to wait 45 minutes for an oven? The microwave aggressively steams the aubergine, letting you scoop out the soft flesh for a quick 15-minute ultra-creamy dip. Minimal prep, maximum flavour, and blended with tahini for a rich, macro-friendly appetizer."
+description: "Craving Middle Eastern mezze but don't want to wait 45 minutes for an oven? **Clocking in at 195 kcal with 7g of protein**, the microwave aggressively steams the aubergine in minutes.<br><br>Minimal prep, maximum flavour, and blended with tahini for a rich, macro-friendly appetizer. Tested multiple times to prove the microwave method completely rivals the traditional open-flame roast."
 image: "quick-microwave-baba-ganoush_douf9l"
 alt: "Quick microwave baba ganoush drizzled with olive oil"
 categories: ["dips", "vegan", "15-minute-meals"]
@@ -59,7 +59,7 @@ faq:
     answer: "Because you forgot to prick it! Poke it aggressively with a fork before cooking."
 
 steps:
-  - "Stab the aubergine all over with a fork. Microwave on high for 8-10 minutes until it totally collapses."
+  - "Stab the aubergine all over with a fork. Microwave on high for 8-10 minutes until it totally collapses. If it still feels firm in the centre, give it another 2 minutes."
   - "Let it cool slightly so you don't burn your hands. Slice open and scoop the flesh into a bowl. Bin the skin."
   - "Aggressively mash the flesh with tahini, garlic, lemon juice, paprika, and cumin."
   - "Season with salt. Drown it in olive oil and an extra pinch of paprika."

@@ -4,7 +4,7 @@ slug: "air-fryer-fried-cheese-czech-style"
 meta: {
   seoMetaDescription: "Craving comfort food? This extra crispy 10-minute air fryer Czech fried cheese gives you a massive gooey block without the oil. Minimal prep, maximum flavor!"
 }
-description: "Authentic Czech Smažený Sýr, completely refactored for the air fryer. A thick, gooey block of cheese with an extra crispy 10-minute shell. The double breading acts as structural armour so the cheese doesn't leak. Minimal prep, maximum flavour, massive protein, and zero deep-frying mess."
+description: "Authentic Czech Smažený Sýr, completely refactored for the air fryer. A thick, gooey block of cheese with an extra crispy 10-minute shell. The double breading acts as structural armour so the cheese doesn't leak.<br><br>Minimal prep, maximum flavour, massive protein, and zero deep-frying mess. Tested across multiple air fryers to ensure the cheese pull is elite every single time."
 blurb: []
 image: "fried-cheese-czech-style_im1uqu"
 alt: "Crispy Air Fryer Czech Fried Cheese (Smažený Sýr) on a plate"
@@ -55,6 +55,6 @@ faq:
 steps:
   - "Set up three bowls. Bowl 1: Flour. Bowl 2: Beaten egg. Bowl 3: Breadcrumbs."
   - "Moisten the cheese slightly. Dredge in the flour, aggressively shaking off the excess."
-  - "Dunk it in the egg wash, then roll in breadcrumbs. Repeat: back into the egg, back into the crumbs. This double layer is crucial."
-  - "Place in the air fryer basket. Hit it with olive oil spray. Blast at 200°C for 4-6 minutes, flipping halfway and spraying again."
+  - "Dunk it in the egg wash, then roll in breadcrumbs. Repeat: back into the egg, back into the crumbs. This double-wall armour is mandatory. If you leave gaps, the cheese will explode into a puddle."
+  - "Place in the air fryer basket. Hit it with olive oil spray. Blast at 200°C for 4-6 minutes. Pull them the exact second the crust is golden and you see a tiny hint of cheese trying to escape."
 ---

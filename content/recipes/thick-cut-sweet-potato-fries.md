@@ -4,7 +4,7 @@ slug: "thick-cut-sweet-potato-fries"
 meta: {
   seoMetaDescription: "Want the perfect side dish? These ultimate extra crispy air fryer sweet potato fries are a guilt-free 30-minute vegan snack. Minimal prep, maximum flavor."
 }
-description: "Enjoy the perfect balance of sweet and savory with the ultimate extra crispy sweet potato fries. Cooked to perfection in the air fryer, they offer a healthy, satisfying crunch with a fraction of the oil. Minimal prep, maximum flavour, and the absolute heavyweight champion of macro-friendly sides."
+description: "Enjoy the perfect balance of sweet and savory with the ultimate extra crispy sweet potato fries. **A high-volume side dish clocking in at just 232 kcal**, they offer a healthy, satisfying crunch with a fraction of the oil.<br><br>Minimal prep, maximum flavour, and cooked to perfection in the air fryer. Tested multiple times to nail the exact soaking time required to pull out the starch."
 image: "thick-cut-sweet-potato-fries_zip294"
 alt: "Thick cut sweet potato fries stacked on a plate"
 pintrest: ""
@@ -26,10 +26,10 @@ use:
 tags: ["vegan", "snack"]
 variations:
   - "Cinnamon Sugar: Toss with a pinch of cinnamon for a sweet treat."
-  - "Spicy Cajun: Hammer them with smoked paprika and cayenne."
+  - "Spicy Cajun: Dust them with smoked paprika and cayenne."
 rating: 
 reviews: 
-servingSuggestions: "Demolish these immediately with a sharp garlic aioli or smoky chipotle mayo. The ultimate side dish for a stacked veggie burger."
+servingSuggestions: "Eat these immediately with a sharp garlic aioli or smoky chipotle mayo. The ultimate side dish for a stacked veggie burger."
 storageInstructions: "Fridge for 3 days. Blast in the air fryer to resurrect the crunch. Don't freeze them."
 prepTimeMins: 30
 cookTimeMins: 30
@@ -53,5 +53,5 @@ steps:
   - "Slice into 1cm matchsticks. Submerge in cold water for 30 minutes to bin the starch, then pat ruthlessly dry."
   - "Toss aggressively in a bowl with oil."
   - "Space them out in the basket. Blast at 190°C for 20-30 minutes. Cook in batches if needed. Shake the basket violently every 5 minutes."
-  - "Pull them when charred. Let them rest in the basket for 60 seconds to lock in the crunch."
+  - "Pull them when charred. Let them rest in the basket for 60 seconds to lock in the crunch. If you skip the resting phase, they'll go floppy the second they hit the plate."
 ---

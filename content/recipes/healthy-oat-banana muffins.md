@@ -4,7 +4,7 @@ slug: "healthy-oat-banana-muffins"
 meta: {
   seoMetaDescription: "Craving a sweet treat fast? These easy 15-minute fudgy high-protein oat banana muffins deliver. Minimal prep, maximum flavor, and totally macro-balanced!"
 }
-description: "A macro-balanced powerhouse that actually tastes like a proper dessert. We've binned the refined flour for oats and Greek yoghurt to keep your nutrition completely on point. These easy 15-minute muffins require minimal prep, deliver maximum flavour, and compile perfectly in the air fryer for a rapid pre-workout carb boost."
+description: "A macro-balanced powerhouse that actually tastes like a proper dessert. **Packing 25g of protein and 138g of clean carbs across the batch**, we've binned the refined flour for oats and Greek yoghurt.<br><br>These easy 15-minute muffins require minimal prep and deliver maximum flavour. Tested 4 times in the air fryer to absolutely nail the moisture lock without drying them out."
 blurb: []
 image: "healthy-banana-oat-muffins_n0f9xa"
 alt: "Healthy oat banana muffins fresh out of the air fryer"
@@ -21,7 +21,7 @@ works:
   - "Moisture Lock: Bananas and Greek yoghurt provide massive hydration, entirely binning the need for heavy oils or butter."
   - "Oat Flour Mechanics: Finely ground oats absorb the liquid efficiently, acting as a high-fibre binder for a dense, brownie-like texture."
 use:
-  - "Grab & Go Breakfast: Smash one with your morning coffee for lasting energy."
+  - "Grab & Go Breakfast: Enjoy one with your morning coffee for lasting energy."
   - "Macro Fuel: A highly efficient balance of carbs and protein post-workout."
   - "Evening Treat: Warm it up and serve with a massive dollop of yoghurt."
 variations:
@@ -29,7 +29,7 @@ variations:
   - "Berry Burst: Swap cocoa powder for fresh blueberries."
 rating: 
 reviews: 
-servingSuggestions: "Smash these with a black coffee or herbal tea. If you need more calories, slice a warm muffin and aggressively spread almond butter across it. Excellent with a dollop of Greek yoghurt."
+servingSuggestions: "Serve these with a black coffee or herbal tea. If you need more calories, slice a warm muffin and aggressively spread almond butter across it. Excellent with a dollop of Greek yoghurt."
 storageInstructions: "Airtight tub at room temp for 2 days, or fridge for 5 days. Freeze them individually for up to 3 months. Thaw at room temp."
 prepTimeMins: 5
 cookTimeMins: 10
@@ -58,6 +58,6 @@ faq:
 steps:
   - "Aggressively mash the banana in a bowl until smooth. Whisk in the egg, Greek yoghurt, honey, and cocoa powder."
   - "Gently fold in the oat flour, baking powder, and half the desiccated coconut."
-  - "Pour the batter into a small lined dish. Hammer the top with the remaining coconut for a toasted finish."
-  - "Blast at 180°C for 6-8 minutes in the air fryer. Insert a fork—if it comes out clean, they're done."
+  - "Pour the batter into a small lined dish. Top with the remaining coconut for a toasted finish."
+  - "Blast at 180°C for 6-8 minutes in the air fryer. Insert a fork—if it comes out clean, they're done. If it's wet with batter, give them another 2 minutes."
 ---

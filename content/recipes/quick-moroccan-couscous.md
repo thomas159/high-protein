@@ -4,7 +4,7 @@ slug: "quick-moroccan-couscous"
 meta: {
   seoMetaDescription: "Need a side dish fast? This quick & easy 10-minute fluffy Moroccan couscous is the perfect vibrant Mediterranean base. Minimal prep, maximum flavor."
 }
-description: "The ultimate versatile carb base that requires absolutely zero simmering. Pouring boiling vegetable stock over the couscous instantly rehydrates it, while sautéed red onions and sharp feta add a brilliant sweet and salty balance. This quick & easy 10-minute side delivers minimal prep and maximum flavour for any protein."
+description: "The ultimate versatile carb base that requires absolutely zero simmering. **Packing 21g of protein and 82g of carbs for 570 kcal**, pouring boiling vegetable stock over the couscous instantly rehydrates it.<br><br>This quick & easy 10-minute side delivers minimal prep and maximum flavour. Tested relentlessly to ensure the grain stays fluffy and never turns to mush."
 blurb: []
 image: "quick-moroccan-couscous-1_i53dmp"
 alt: "Quick Moroccan couscous with red peppers and feta cheese"
@@ -29,7 +29,7 @@ variations:
   - "Protein Spike: Chuck in a drained tin of chickpeas."
   - "Fruity Twist: Toss in some raisins or dried apricots."
 reviews: 
-servingSuggestions: "The ultimate carb base for lemon-herb tofu or halloumi. Superset with a heavy dollop of hummus and a drizzle of olive oil."
+servingSuggestions: "The ultimate carb base for lemon-herb tofu or halloumi. Pair with a heavy dollop of hummus and a drizzle of olive oil."
 storageInstructions: "Fridge in an airtight tub for 4 days. Freezes fine for 3 months. Fluff it with a fork after reheating."
 prepTimeMins: 5
 cookTimeMins: 5
@@ -56,6 +56,6 @@ faq:
 
 steps:
   - "Heat a splash of oil in a pan. Sauté the sliced red peppers and onions for 5-10 minutes until golden. This builds natural sweetness."
-  - "Put the dry couscous in a heat-proof bowl. Pour the boiling stock and lemon juice directly over it. Cover with a plate and leave it alone for 5 minutes. Once absorbed, rake through it with a fork."
+  - "Put the dry couscous in a heat-proof bowl. Pour the boiling stock and lemon juice directly over it. Cover with a plate and leave it alone for exactly 5 minutes. Once absorbed, rake through it with a fork. If you use a spoon, you'll mash it into a clump."
   - "Fold the sautéed veg, cubed feta, and a glug of olive oil into the grains. Toss gently so the feta doesn't turn to mush."
 ---
