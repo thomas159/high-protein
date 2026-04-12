@@ -1,10 +1,10 @@
 ---
-title: "Easy 30-Minute Silky Vegan Thai Carrot Soup"
+title: "Easy 20-Minute Silky Vegan Thai Carrot Soup"
 slug: "thai-carrot-soup"
 meta: {
-  seoMetaDescription: "Want a vibrant starter? This easy 30-minute silky vegan Thai carrot soup is infused with coconut milk and red curry. Minimal prep, maximum flavor."
+  seoMetaDescription: "Want a vibrant starter? This easy 20-minute silky vegan Thai carrot soup is infused with coconut milk and red curry. Minimal prep, maximum flavor."
 }
-description: "Indulge in the rich and aromatic flavours of Thailand with this easy 30-minute silky Thai carrot soup. Infused with fragrant red curry paste and creamy coconut milk, this vegan-friendly soup perfectly blends sweet and spicy notes. Minimal prep, maximum flavour, and a brilliant hit of vitamin A to transport your senses."
+description: "Indulge in the rich and aromatic flavours of Thailand with this easy 20-minute silky Thai carrot soup. Infused with fragrant red curry paste and creamy coconut milk, this vegan-friendly soup perfectly blends sweet and spicy notes. Minimal prep, maximum flavour, and a brilliant hit of vitamin A to transport your senses."
 image: "thai-carrot-soup_e6uask"
 alt: "Creamy Thai carrot soup topped with fresh coriander"
 pintrest: ""

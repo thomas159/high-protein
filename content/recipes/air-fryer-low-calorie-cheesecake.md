@@ -1,10 +1,10 @@
 ---
-title: "Easy 20-Minute Velvety Air Fryer Protein Cheesecake"
+title: "Easy 25-Minute Velvety Air Fryer Protein Cheesecake"
 slug: "air-fryer-low-calorie-cheesecake"
 meta: {
-  seoMetaDescription: "Cheesecake cravings? This easy 20-minute velvety air fryer protein cheesecake uses Greek yogurt for a guilt-free treat. Minimal prep, maximum flavor."
+  seoMetaDescription: "Cheesecake cravings? This easy 25-minute velvety air fryer protein cheesecake uses Greek yogurt for a guilt-free treat. Minimal prep, maximum flavor."
 }
-description: "Hit your cheesecake craving without destroying your macros. By swapping heavy cream for Greek yoghurt and using a zero-calorie sweetener, you get an easy 20-minute velvety treat. Minimal prep, maximum flavour, and the air fryer perfectly sets the centre. Pure comfort, rebuilt for your macros."
+description: "Hit your cheesecake craving without destroying your macros. By swapping heavy cream for Greek yoghurt and using a zero-calorie sweetener, you get an easy 25-minute velvety treat. Minimal prep, maximum flavour, and the air fryer perfectly sets the centre. Pure comfort, rebuilt for your macros."
 image: "air-fryer-low-calorie-cheesecake_ekn9ky"
 alt: "Air fryer low calorie cheesecake in a ramekin"
 categories: ["air-fryer", "keto", "dessert"]

@@ -1,11 +1,11 @@
 ---
-title: "Easy 15-Minute Smoky Chipotle Lime Air Fryer Tofu"
+title: "Easy 35-Minute Smoky Chipotle Lime Air Fryer Tofu"
 slug: "chipotle-lime-tofu-marinade"
 image: ""
 meta: {
-  seoMetaDescription: "Mexican night prep? This easy 15-minute smoky chipotle lime air fryer tofu brings zesty high-protein fire to your tacos. Minimal prep, maximum flavor."
+  seoMetaDescription: "Mexican night prep? This easy 35-minute smoky chipotle lime air fryer tofu brings zesty high-protein fire to your tacos. Minimal prep, maximum flavor."
 } 
-description: "Give your meal prep a serious Mexican-inspired kick. The lime juice breaks down the dense outer layer of the tofu, letting the deep, smoky chipotle oils penetrate right to the core. Minimal prep, maximum flavour, and this easy 15-minute marinade caramelises beautifully in the air fryer for your post-workout tacos."
+description: "Give your meal prep a serious Mexican-inspired kick. The lime juice breaks down the dense outer layer of the tofu, letting the deep, smoky chipotle oils penetrate right to the core. Minimal prep, maximum flavour, and this easy 35-minute marinade caramelises beautifully in the air fryer for your post-workout tacos."
 image: "chipotle-lime-tofu-marinade_ymiqee"
 alt: "Chipotle lime marinated tofu pieces"
 pintrest: ""

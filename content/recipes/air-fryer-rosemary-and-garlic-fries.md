@@ -2,9 +2,9 @@
 title: "Extra Crispy Air Fryer Rosemary & Garlic Fries"
 slug: "air-fryer-rosemary-and-garlic-fries"
 meta: {
-  seoMetaDescription: "Gourmet snack fast! These 25-minute extra crispy air fryer rosemary & garlic fries are a healthy vegan side dish. Minimal prep, maximum flavor."
+  seoMetaDescription: "Gourmet snack fast! These 30-minute extra crispy air fryer rosemary & garlic fries are a healthy vegan side dish. Minimal prep, maximum flavor."
 }
-description: "Upgrade your side dish with these fragrant, herb-infused fries. By combining fresh rosemary and savory garlic with the high-speed crisping of the air fryer, you get 25-minute extra crispy chips with significantly less fat than traditional frying. Minimal prep, maximum flavour, and absolutely golden."
+description: "Upgrade your side dish with these fragrant, herb-infused fries. By combining fresh rosemary and savory garlic with the high-speed crisping of the air fryer, you get 30-minute extra crispy chips with significantly less fat than traditional frying. Minimal prep, maximum flavour, and absolutely golden."
 image: "air-fryer-rosemary-garlic-fries_ab8wu4"
 alt: "Crispy air fryer rosemary and garlic fries"
 pintrest: ""

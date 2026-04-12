@@ -35,7 +35,7 @@ why:
   - "Texture: Steaming in its own skin keeps the flesh incredibly soft."
   - "Zero Mess: No charred baking trays to scrub."
 prepTimeMins: 5
-cookTimeMins: 12
+cookTimeMins: 10
 servings: 4
 macros:
   calories: 195

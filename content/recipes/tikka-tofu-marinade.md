@@ -1,10 +1,10 @@
 ---
-title: "Quick 10-Minute Charred High-Protein Air Fryer Tikka Tofu"
+title: "Quick 35-Minute Charred High-Protein Air Fryer Tikka Tofu"
 slug: "tikka-tofu-marinade"
 meta: {
-  seoMetaDescription: "Skip the curry house! This quick 10-minute charred high-protein air fryer tikka tofu delivers authentic Indian spices fast. Minimal prep, maximum flavor."
+  seoMetaDescription: "Skip the curry house! This quick 35-minute charred high-protein air fryer tikka tofu delivers authentic Indian spices fast. Minimal prep, maximum flavor."
 } 
-description: "Infuse your tofu with the bold, aromatic flavours of India using this quick 10-minute tikka marinade. A vibrant blend of garam masala, turmeric, and coriander mixed into a tangy Greek yoghurt base creates a perfectly charred crust. Minimal prep, maximum flavour, and restaurant-quality vegan protein in minutes."
+description: "Infuse your tofu with the bold, aromatic flavours of India using this quick 35-minute tikka marinade. A vibrant blend of garam masala, turmeric, and coriander mixed into a tangy Greek yoghurt base creates a perfectly charred crust. Minimal prep, maximum flavour, and restaurant-quality vegan protein in minutes."
 image: "tikka-tofu-marinade_if4ab4"
 alt: "High-protein tikka marinated tofu cubes"
 pintrest: ""

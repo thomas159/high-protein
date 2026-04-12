@@ -36,7 +36,7 @@ rating:
 reviews: 
 servingSuggestions: "These need to be eaten immediately. Pair them with massive dollops of guacamole, fresh pico de gallo, and sour cream. Wash it down with an ice-cold zero-sugar soda."
 storageInstructions: "Eat them immediately. Leftovers turn into a soggy, depressing mess in the fridge. Do not freeze."
-prepTimeMins: 40
+prepTimeMins: 0
 cookTimeMins: 5
 servings: 1
 macros:

@@ -1,10 +1,10 @@
 ---
-title: "Easy 15-Minute Crunchy Thai Sweet & Sour Stir-Fry"
+title: "Easy 30-Minute Crunchy Thai Sweet & Sour Stir-Fry"
 slug: "stir-fried-sweet-and-sour-vegetables"
 meta: {
-  seoMetaDescription: "Hit your micronutrient targets fast! This easy 15-minute crunchy Thai sweet & sour stir-fry is a vibrant vegan dinner. Minimal prep, maximum flavor."
+  seoMetaDescription: "Hit your micronutrient targets fast! This easy 30-minute crunchy Thai sweet & sour stir-fry is a vibrant vegan dinner. Minimal prep, maximum flavor."
 }
-description: "Hit your daily micronutrient targets with this easy 15-minute crunchy Thai stir-fry. Searing the veg over blazing heat locks in the crunch, while the cornflour slurry binds the vinegar and stock into a glossy, sweet and sour glaze. Minimal prep, maximum flavour, and clean, efficient fuel on the table fast."
+description: "Hit your daily micronutrient targets with this easy 30-minute crunchy Thai stir-fry. Searing the veg over blazing heat locks in the crunch, while the cornflour slurry binds the vinegar and stock into a glossy, sweet and sour glaze. Minimal prep, maximum flavour, and clean, efficient fuel on the table fast."
 image: "sweet-and-sour-vegetables_covgep"
 alt: "Stir fried sweet and sour vegetables in a bowl"
 pintrest: ""

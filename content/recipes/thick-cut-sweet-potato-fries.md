@@ -2,7 +2,7 @@
 title: "The Ultimate Extra Crispy Air Fryer Sweet Potato Fries"
 slug: "thick-cut-sweet-potato-fries"
 meta: {
-  seoMetaDescription: "Want the perfect side dish? These ultimate extra crispy air fryer sweet potato fries are a guilt-free 30-minute vegan snack. Minimal prep, maximum flavor."
+  seoMetaDescription: "Want the perfect side dish? These ultimate extra crispy air fryer sweet potato fries are a guilt-free 60-minute vegan snack. Minimal prep, maximum flavor."
 }
 description: "Enjoy the perfect balance of sweet and savory with the ultimate extra crispy sweet potato fries. **A high-volume side dish clocking in at just 232 kcal**, they offer a healthy, satisfying crunch with a fraction of the oil.<br><br>Minimal prep, maximum flavour, and cooked to perfection in the air fryer. Tested multiple times to nail the exact soaking time required to pull out the starch."
 image: "thick-cut-sweet-potato-fries_zip294"

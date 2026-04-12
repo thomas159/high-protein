@@ -36,7 +36,7 @@ use:
 servingSuggestions: "Serve these alongside some sliced avocado and whole-grain toast. Elite morning fuel."
 storageInstructions: "Fridge in an airtight container for 4 days. Blast in the microwave for 20 seconds. They freeze fine for 2 months, just thaw overnight."
 prepTimeMins: 2
-cookTimeMins: 10
+cookTimeMins: 8
 servings: 1
 macros:
   calories: 91
