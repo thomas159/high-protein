@@ -4,7 +4,7 @@ slug: "5-minute-instant-noodles"
 meta: {
   seoMetaDescription: "Bin the watery ramen. These quick & easy 5-minute upgraded instant noodles deliver a savory soy-sesame post-workout carb load. Minimal prep, maximum flavor!"
 }
-description: "Don't settle for a depressing, watery bowl of plain instant noodles. Upgrading them with a savoury soy and sesame glaze gives you a quick & easy 5-minute meal. Boil off the water to force the flavour into the noodles. Minimal prep, maximum flavour, and a perfect lightning-fast carb load after a heavy session."
+description: "Skip the watery ramen. Upgrading them with a savoury soy and sesame glaze gives you a quick & easy 5-minute meal. Boil off the water to force the flavour into the noodles. Minimal prep, maximum flavour, and a perfect lightning-fast carb load after a heavy session."
 image: "5-minute-instant-noodles_ywvyin"
 alt: "5 Minute instant noodles garnished with spring onions"
 pintrest: ""
@@ -16,14 +16,14 @@ tipsTitle: "Elevate the Bowl"
 tips:
   - "Texture Control: Pull them 30 seconds early. They'll keep cooking in the residual heat."
   - "Sauce Emulsion: Keep a spoonful of starchy water to mix into your glaze—it helps the sauce violently cling to the noodles."
-  - "Volume Boost: Chuck in a handful of baby spinach or pak choi at the end for an effortless micronutrient hit."
+  - "Volume Boost: Toss in a handful of baby spinach or pak choi at the end for an effortless micronutrient hit."
 works:
   - "Liquid Reduction: Boiling off the stock forces the savoury flavour directly into the noodles."
   - "Acid Balance: A tiny splash of rice vinegar cuts the heavy sesame oil and wakes up the palate."
 use:
   - "Macro Hack: A massive upgrade to a basic instant noodle craving."
   - "Midnight Fuel: Quick, savoury, and zero cleanup."
-  - "Base Builder: Chuck in a soft-boiled egg or leftover veg for a complete meal."
+  - "Base Builder: Toss in a soft-boiled egg or leftover veg for a complete meal."
 variations:
   - "Peanut Twist: Aggressively stir in a spoonful of peanut butter."
   - "Volume Prep: Toss in shredded carrots and edamame."
@@ -58,5 +58,5 @@ faq:
 steps:
   - "Boil the stock in a wide pan. Drop in the noodles. Cook for 2–3 minutes, teasing the block apart. Let the stock reduce by half to build a glaze."
   - "Drop the heat. Stir in the soy sauce, sesame oil, rice vinegar, and sriracha. Toss vigorously for 30 seconds to coat."
-  - "Plate up. Hammer it with spring onions and crispy fried onions. Squeeze a lime over the top and get stuck in."
+  - "Plate up. Top it with spring onions and crispy fried onions. Squeeze a lime over the top and enjoy."
 ---

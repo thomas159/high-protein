@@ -26,7 +26,7 @@ use:
   - "Macro Prep: Stays highly flavourful and firm in the fridge all week."
 rating: 
 reviews: 
-servingSuggestions: "Smash this alongside a mountain of basmati rice or fluffy naan. It pairs perfectly with a cooling cucumber and mint raita."
+servingSuggestions: "Serve this alongside a mountain of basmati rice or fluffy naan. It pairs perfectly with a cooling cucumber and mint raita."
 shelf_life: "Airtight tub in the fridge for 5 days."
 storageInstructions: "Fridge the uncooked marinated tofu for 5 days. Freezes brilliantly for 3 months; thawing actually improves the chewy texture."
 whyTitle: "Why marinate tofu?"
@@ -59,7 +59,7 @@ faq:
     answer: "Mountain of basmati rice, warm naan, and a heavy hit of cucumber raita."
 
 steps:
-  - "Wrap your tofu in a towel and crush it under a heavy weight for 15 minutes. Bin the water so the block can absorb the marinade."
+  - "Wrap your tofu in a towel and crush it under a heavy weight for 15 minutes. Discard the water so the block can absorb the marinade."
   - "Whisk the ginger garlic paste, chilli powder, lime juice, garam masala, and a splash of oil."
   - "Cube the tofu and toss it through. Let it sit for 30 minutes to absorb."
   - "Air Fry at 180°C for 6-10 minutes, shaking halfway. Or pan-fry until charred."

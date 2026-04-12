@@ -30,7 +30,7 @@ reviews:
 variations:
   - "Volume Boost: Fold in massive handfuls of baby spinach until wilted."
   - "Protein Spike: Toss in cooked white beans or crispy tofu cubes."
-servingSuggestions: "Smash this immediately while the feta is warm and creamy. Superset with roasted asparagus and a crisp white wine."
+servingSuggestions: "Serve this immediately while the feta is warm and creamy. Superset with roasted asparagus and a crisp white wine."
 storageInstructions: "Fridge for 3 days. Reheat gently with a splash of boiling water. Do not freeze this; the cream will split into a granular mess."
 prepTimeMins: 0
 cookTimeMins: 15

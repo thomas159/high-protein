@@ -4,7 +4,7 @@ slug: "honey-glaze-tofu-marinade"
 meta: {
   seoMetaDescription: "Sweet tooth kicking in? This easy 15-minute sticky honey glazed air fryer tofu builds a caramelized crust fast. Minimal prep, maximum flavor, and high protein."
 } 
-description: "Transform plain tofu into a golden, caramelised treat. The natural sugars in the honey react with the intense heat of the air fryer to build an easy 15-minute sticky glaze. Minimal prep, maximum flavour, and perfectly balanced with salty soy sauce and a zing of lemon. A high-protein staple that genuinely slaps."
+description: "Transform plain tofu into a golden, caramelised treat. The natural sugars in the honey react with the intense heat of the air fryer to build an easy 15-minute sticky glaze. Minimal prep, maximum flavour, and perfectly balanced with salty soy sauce and a zing of lemon. A high-protein staple that genuinely delivers."
 image: "honey-glaze-tofu-marinade_1_rykscd"
 alt: "Honey glaze marinated tofu cubes"
 pintrest: ""
@@ -60,10 +60,10 @@ faq:
   - question: "Does honey burn in the air fryer?"
     answer: "Yes, if you ignore it. Keep an eye on the last few minutes and drop the heat if it's catching."
   - question: "Do I need to press the tofu first?"
-    answer: "Always. Pressing bins the excess water so it can absorb the glaze like a sponge."
+    answer: "Always. Pressing removes the excess water so it can absorb the glaze like a sponge."
 
 steps:
-  - "Wrap your tofu in a towel and smash a heavy weight on it for 15 minutes. Getting rid of the water means the marinade can actually penetrate the block."
+  - "Wrap your tofu in a towel and place a heavy weight on it for 15 minutes. Removing the water means the marinade can actually penetrate the block."
   - "Whisk the honey, lemon juice, spices, water, a pinch of salt, and a splash of oil in a bowl."
   - "Cube the tofu and toss it through the marinade. Let it sit for 30 minutes if you have the time."
   - "Air Fry at 180°C for 6-10 minutes, shaking halfway. Or pan-fry until golden."

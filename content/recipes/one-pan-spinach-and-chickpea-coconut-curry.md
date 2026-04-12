@@ -22,13 +22,13 @@ why:
 tipsTitle: "Time-saving Tips"
 tips:
   - "The 10-Minute Shortcut: Swap the individual spices for a high-quality pre-made curry paste if you're in a rush."
-  - "Frozen Over Fresh: Bin the fresh spinach. Frozen pellets are cheaper and you can chuck them straight into the bubbling pan."
+  - "Frozen Over Fresh: Skip the fresh spinach. Frozen pellets are cheaper and you can toss them straight into the bubbling pan."
   - "Fat is Flavour: Use full-fat coconut milk. 'Lite' versions will just give you a watery, depressing broth."
 works:
   - "Spice Blooming: Toasting dry spices in hot coconut oil aggressively releases their fat-soluble compounds, multiplying the flavour."
   - "Natural Thickening: Chickpea starches leach into the coconut milk, naturally thickening the curry without any flour."
 use:
-  - "Macro Prep: Batch cook a massive pan on Sunday to fuel your week."
+  - "Macro Prep: Batch cook a large pan on Sunday to fuel your week."
   - "Warming Dinner: Elite comfort food over basmati rice."
   - "Pantry Clear-out: Uses standard tinned goods for a high-protein emergency meal."
 variations:
@@ -65,7 +65,7 @@ faq:
 
 steps:
   - "Heat coconut oil in a large pan. Sauté the onion for 5-10 minutes until soft."
-  - "Chuck in the turmeric, coriander, and cumin. Toast for 2 minutes to aggressively release their oils."
+  - "Stir in the turmeric, coriander, and cumin. Toast for 2 minutes to aggressively release their oils."
   - "Add the garlic and ginger. Cook for 1-2 minutes until fragrant."
   - "Add the chopped tomatoes and cook for 3-4 minutes until they break down into a jammy paste."
   - "Pour in the chickpeas, spinach, vegetable stock, and coconut milk. Bring to a violent boil, then drop the heat."

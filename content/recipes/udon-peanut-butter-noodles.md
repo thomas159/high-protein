@@ -14,7 +14,7 @@ keywords: ["udon", "peanut butter", "noodles", "thai", "vegan", "tofu", "stir fr
 tags: ["vegan", "high protein", "asian-fusion"]
 tipsTitle: "Wok Mechanics"
 tips:
-  - "Rinse the Udon: Blast vacuum-packed udon under hot water to loosen the strands. Tossing them in cold will just snap them."
+  - "Rinse the Udon: Blast vacuum-packed udon under hot water to loosen the strands. Adding them cold will just snap them."
   - "Tofu Texture: Press the tofu ruthlessly dry. Let it sear completely undisturbed to build a crust before you start tossing it."
   - "Sauce Consistency: Peanut butter seizes up as it cools. If meal prepping, aggressively stir in a splash of warm water when reheating to resurrect the glaze."
 works:
@@ -23,13 +23,13 @@ works:
 use:
   - "Heavy Refeed: Massive carbs and plant-based protein to restock glycogen."
   - "Rapid Lunch: 15 minutes from raw ingredients to fully plated."
-  - "Macro Prep: Smashing it cold straight from the fridge the next day is elite."
+  - "Macro Prep: Eating it cold straight from the fridge the next day is elite."
 rating: 
 variations:
   - "Volume Fix: Bulk it out with steamed broccoli florets."
   - "Tahini Swap: Use tahini if you prefer an earthier hit."
 reviews: 
-servingSuggestions: "Serve this heavy bowl alongside charred Asian greens like gai lan or snap peas. Top with a soft-boiled egg or crispy chickpeas for a massive protein spike."
+servingSuggestions: "Enjoy this heavy bowl alongside charred Asian greens like gai lan or snap peas. Top with a soft-boiled egg or crispy chickpeas for a massive protein spike."
 storageInstructions: "Fridge in an airtight tub for 3 days. Don't freeze it; the udon will turn to mush."
 prepTimeMins: 5
 cookTimeMins: 10
@@ -62,6 +62,6 @@ faq:
 steps:
   - "Boil the udon noodles according to the packet. Drain, but strictly reserve a splash of the starchy cooking water. You will need this later."
   - "Heat coconut oil in a large wok. Sauté the sliced carrots, peppers, and tofu for 5 minutes until the veg softens and the tofu catches a crust."
-  - "Stir in the curry paste, coconut milk, soy sauce, and sugar. Cook for 2 minutes to build a silky sauce. If the peanut butter seizes and goes claggy, violently whisk in that reserved noodle water."
+  - "Add the curry paste, coconut milk, soy sauce, and sugar. Cook for 2 minutes to build a silky sauce. If the peanut butter seizes and goes claggy, violently whisk in that reserved noodle water."
   - "Drop the heat. Fold the udon into the pan and hit it with a squeeze of lime. Toss aggressively to coat every strand."
 ---

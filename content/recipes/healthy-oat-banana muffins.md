@@ -14,14 +14,14 @@ cuisine: "American"
 keywords: ["banana muffins", "oats", "healthy baking", "american", "dessert", "high-protein", "chocolate"]
 tipsTitle: "Vegan Alternative"
 tips: 
-  - "Vegan Swap: Bin the egg for a flax egg (1 tbsp ground flax + 3 tbsp water). Swap Greek yoghurt for soy, and honey for maple syrup."
+  - "Vegan Swap: Swap the egg for a flax egg (1 tbsp ground flax + 3 tbsp water). Swap Greek yoghurt for soy, and honey for maple syrup."
   - "Black Bananas Only: Use the absolute ugliest, spotty bananas you can find. They mash easier and provide a massive natural caramel hit."
   - "Don't Over-Mix: Stir until *just* combined. Over-mixing activates the starches and turns your muffins into rubber."
 works:
   - "Moisture Lock: Bananas and Greek yoghurt provide massive hydration, entirely binning the need for heavy oils or butter."
   - "Oat Flour Mechanics: Finely ground oats absorb the liquid efficiently, acting as a high-fibre binder for a dense, brownie-like texture."
 use:
-  - "Grab & Go Breakfast: Enjoy one with your morning coffee for lasting energy."
+  - "Grab & Go Breakfast: Enjoy it with your morning coffee for lasting energy."
   - "Macro Fuel: A highly efficient balance of carbs and protein post-workout."
   - "Evening Treat: Warm it up and serve with a massive dollop of yoghurt."
 variations:

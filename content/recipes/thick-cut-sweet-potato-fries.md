@@ -29,7 +29,7 @@ variations:
   - "Spicy Cajun: Dust them with smoked paprika and cayenne."
 rating: 
 reviews: 
-servingSuggestions: "Eat these immediately with a sharp garlic aioli or smoky chipotle mayo. The ultimate side dish for a stacked veggie burger."
+servingSuggestions: "Enjoy these immediately with a sharp garlic aioli or smoky chipotle mayo. The ultimate side dish for a stacked veggie burger."
 storageInstructions: "Fridge for 3 days. Blast in the air fryer to resurrect the crunch. Don't freeze them."
 prepTimeMins: 30
 cookTimeMins: 30
@@ -50,7 +50,7 @@ faq:
     answer: "You overcrowded the basket or skipped the 30-minute soak. Rookie errors that cause steaming instead of crisping."
 
 steps:
-  - "Slice into 1cm matchsticks. Submerge in cold water for 30 minutes to bin the starch, then pat ruthlessly dry."
+  - "Slice into 1cm matchsticks. Submerge in cold water for 30 minutes to remove the starch, then pat ruthlessly dry."
   - "Toss aggressively in a bowl with oil."
   - "Space them out in the basket. Blast at 190°C for 20-30 minutes. Cook in batches if needed. Shake the basket violently every 5 minutes."
   - "Pull them when charred. Let them rest in the basket for 60 seconds to lock in the crunch. If you skip the resting phase, they'll go floppy the second they hit the plate."

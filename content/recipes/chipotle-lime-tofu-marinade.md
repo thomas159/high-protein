@@ -23,7 +23,7 @@ works:
   - "Sugar Caramelization: The natural sugars in the adobo sauce char rapidly under the air fryer's heat, building a proper BBQ-style bark."
 use:
   - "Taco Fuel: The ultimate smoky protein for Mexican night."
-  - "Salad Topper: Chuck it cold into a black bean and corn bowl."
+  - "Salad Topper: Toss it cold into a black bean and corn bowl."
   - "Fajita Prep: Serve over lime rice and blistered peppers."
 rating: 
 reviews: 
@@ -63,7 +63,7 @@ faq:
     answer: "Absolutely. It's elite tossed over cauliflower florets or sliced peppers before roasting."
 
 steps:
-  - "Wrap your tofu in a towel and press it heavy for 15 minutes. Bin the water so it can absorb the marinade."
+  - "Wrap your tofu in a towel and press it heavy for 15 minutes. Discard the water so it can absorb the marinade."
   - "Whisk the lime juice, chopped chipotle, spices, a pinch of salt, and a splash of oil in a bowl."
   - "Cube the tofu and fold it through the marinade. Let it rest for 30 minutes to absorb."
   - "Air Fry at 180°C for 6-10 minutes, shaking halfway. Or pan-fry until charred."

@@ -51,7 +51,7 @@ faq:
 
 steps:
   - "Slice the potatoes into paper-thin rounds. Use a mandoline if you want them actually crispy."
-  - "Submerge in cold water for 5 minutes to bin the starch. Drain and pat ruthlessly dry with a towel. Moisture will ruin the crunch."
+  - "Submerge in cold water for 5 minutes to remove the starch. Drain and pat ruthlessly dry with a towel. Moisture will ruin the crunch."
   - "Toss with olive oil and salt. Line a microwave-safe plate with parchment paper and lay the slices flat without overlapping."
   - "Microwave on high for 3 minutes. Flip them, then go another 2 minutes. Keep blasting in 1-minute increments until they turn golden brown and firm. If they bend when you pick them up, they aren't done."
   - "Pull them out and let them rest for 2 minutes to solidify into that perfect crisp snap."

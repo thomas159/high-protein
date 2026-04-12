@@ -15,7 +15,7 @@ rating:
 reviews: 
 tipsTitle: "Cheesecake Hacks"
 tips:
-  - "Room Temp Mandatory: Cold cream cheese will seize up and give you a lumpy, miserable batter."
+  - "Room Temp Mandatory: Cold cream cheese will seize up and give you a lumpy, problematic batter."
   - "The Wobble: Pull it when the centre still has a slight jiggle. It continues to cook and sets perfectly as it cools."
   - "Patience Pays Off: Don't rush it. It needs at least 2 hours in the fridge to develop that dense texture and let the flavours marry."
 works:
@@ -54,5 +54,5 @@ faq:
 steps:
   - "Whisk the erythritol, cream cheese, and eggs until completely smooth. Gently fold in the yoghurt and lemon juice."
   - "Pour the batter into a ramekin. Blast in the air fryer at 180°C for 18-22 minutes until golden on top with a slight wobble in the centre."
-  - "Pull it out and let it cool to room temp. Place it in the fridge for at least two hours to set completely."
+  - "Pull it out and let it cool to room temp. Set it in the fridge for at least two hours to set completely."
 ---

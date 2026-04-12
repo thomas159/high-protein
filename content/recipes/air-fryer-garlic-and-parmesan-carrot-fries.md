@@ -26,9 +26,9 @@ use:
   - "Volume Eating: An elite, low-calorie alternative to smash your chip cravings."
   - "Superset Side: Perfect alongside a heavy protein main."
 variations:
-  - "Spicy Kick: Hammer it with cayenne pepper."
+  - "Spicy Kick: Dust it with cayenne pepper."
   - "Vegan Option: Swap the parmesan for nutritional yeast."
-servingSuggestions: "Smash these immediately while they're hot and rigid. Pair with a low-cal garlic yoghurt dip."
+servingSuggestions: "Enjoy these immediately while they're hot and rigid. Pair with a low-cal garlic yoghurt dip."
 storageInstructions: "Eat them fresh. Fridge leftovers survive 3 days but go limp. Re-crisp in the air fryer. Don't freeze."
 prepTimeMins: 5
 cookTimeMins: 20

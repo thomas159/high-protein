@@ -23,7 +23,7 @@ works:
 use:
   - "Tropical Finisher: A stunning finale to an Asian-inspired prep."
   - "Heavy Refeed: A massive, clean-carb treat for heavy training days."
-  - "Morning Fuel: Enjoy leftover sticky rice with fresh fruit for breakfast."
+  - "Morning Fuel: Enjoy the leftover sticky rice with fresh fruit for breakfast."
 rating: 
 variations:
   - "Pandan Infusion: Boil the coconut milk with a pandan leaf for authentic aromatics."

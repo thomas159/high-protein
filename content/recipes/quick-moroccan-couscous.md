@@ -26,7 +26,7 @@ use:
   - "Rapid Side: A 10-minute cheat code for Mediterranean dinners."
 rating: 
 variations:
-  - "Protein Spike: Chuck in a drained tin of chickpeas."
+  - "Protein Spike: Toss in a drained tin of chickpeas."
   - "Fruity Twist: Toss in some raisins or dried apricots."
 reviews: 
 servingSuggestions: "The ultimate carb base for lemon-herb tofu or halloumi. Pair with a heavy dollop of hummus and a drizzle of olive oil."

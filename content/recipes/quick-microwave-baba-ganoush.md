@@ -54,7 +54,7 @@ ingredients:
 
 faq:
   - question: "Can I eat the aubergine skin?"
-    answer: "Bin the skin. Scoop the soft flesh for a smooth dip."
+    answer: "Discard the skin. Scoop the soft flesh for a smooth dip."
   - question: "Why did my aubergine explode in the microwave?"
     answer: "Because you forgot to prick it! Poke it aggressively with a fork before cooking."
 

@@ -29,7 +29,7 @@ use:
 variations:
   - "Different Cheese: Gouda or provolone work brilliantly."
   - "Herb Coating: Mix dried thyme straight into the breadcrumbs."
-servingSuggestions: "For the authentic Czech experience, demolish this with a massive side of crispy fries and tangy tartar sauce. Wash it down with a cold, crisp pilsner."
+servingSuggestions: "For the authentic Czech experience, enjoy this with a massive side of crispy fries and tangy tartar sauce. Wash it down with a cold, crisp pilsner."
 storageInstructions: "Freeze the uncooked, breaded block for up to 2 months. Air fry straight from frozen. Eat cooked cheese immediately."
 prepTimeMins: 5
 cookTimeMins: 10

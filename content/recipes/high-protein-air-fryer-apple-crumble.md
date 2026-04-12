@@ -27,7 +27,7 @@ use:
 rating: 
 variations:
   - "Berry Mix: Swap half the apples for mixed berries."
-  - "Nutty Crunch: Hammer the topping with crushed walnuts or pecans."
+  - "Nutty Crunch: Top heavily with crushed walnuts or pecans."
 reviews: 
 servingSuggestions: "Superset this warm crumble with a massive dollop of cold, high-protein vanilla Greek yoghurt. The temperature contrast is elite."
 shelf_life: "Demolish immediately while warm."
@@ -69,5 +69,5 @@ steps:
   - text: "Aggressively pack the crumble mix over the apples."
     image: "high-protein-air-fryer-apple-crumble-step-3_vwexoq"
   - text: "Blast in the air fryer at 160°C for 25-30 minutes. If the top catches fire too quickly, cover it with foil at the 15-minute mark."
-  - text: "Pull it out (it will be molten hot). Let it rest for 3 minutes so the apple juices thicken into a syrup, then destroy it."
+  - text: "Pull it out (it will be molten hot). Let it rest for 3 minutes so the apple juices thicken into a syrup, then enjoy it."
 ---

@@ -30,14 +30,14 @@ variations:
   - "Chocolate PB: Whisk 1 tbsp of cocoa powder into the base before freezing."
   - "PB&J Swirl: Core the centre after spinning and drop in a dollop of strawberry jam, then run the mix-in."
 reviews: 
-servingSuggestions: "Smash this straight out of the pint. Drizzle with sugar-free syrup and a heavy pinch of flaky sea salt. Toss some crushed peanuts on top for crunch."
+servingSuggestions: "Enjoy this straight out of the pint. Drizzle with sugar-free syrup and a heavy pinch of flaky sea salt. Toss some crushed peanuts on top for crunch."
 shelf_life: "Stores in the freezer indefinitely, but best consumed within a month to prevent freezer burn."
-storageInstructions: "Smooth the top level, lid it, and chuck it back in the freezer. Just re-spin it on 'Lite Ice Cream' when you want it again."
+storageInstructions: "Smooth the top level, lid it, and put it back in the freezer. Just re-spin it on 'Lite Ice Cream' when you want it again."
 whyTitle: "The Macro Science"
 why:
   - "Macro Friendly: Premium ice cream satisfaction for a fraction of the calories and a massive protein spike."
   - "Customisable: You control every gram of sugar and fat. Perfect for strict cuts."
-  - "No Gums Needed: The whey and peanut powder provide enough structure to bin the artificial stabilisers."
+  - "No Gums Needed: The whey and peanut powder provide enough structure to skip the artificial stabilisers."
 prepTimeMins: 5
 cookTimeMins: 5
 servings: 1
@@ -63,11 +63,10 @@ faq:
     answer: "Whey or a whey/casein blend delivers the best texture. 100% isolates can freeze a bit icy."
 
 steps:
-  - "Chuck the milk, whey, PB powder, honey, vanilla, and salt into a shaker. Shake violently until completely smooth."
+  - "Add the milk, whey, PB powder, honey, vanilla, and salt into a shaker. Shake violently until completely smooth."
   - "Pour the mix into the Creami pint. Do not cross the 'Max Fill' line."
   - "Freeze on a perfectly flat surface for 24 hours. A slanted freeze will wreck the machine."
   - "Lock the frozen pint into the Creami outer bowl."
   - "Hit the 'Lite Ice Cream' button and let it run."
   - "If it looks powdery (standard for macro ice creams), add a splash of milk and hit 'Re-spin' to force the creamy texture."
-  - "Hollow out the centre, drop in your crushed peanuts, and run the 'Mix-In' program. Demolish immediately."
----
+  - "Hollow out the centre, drop in your crushed peanuts, and run the 'Mix-In' program. Enjoy immediately."

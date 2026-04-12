@@ -28,7 +28,7 @@ tags: ["vegan", "sauce", "thai"]
 keywords: ["satay sauce", "peanut sauce", "thai", "condiment", "dip", "creamy", "spicy"]
 variations:
   - "Almond Satay: Swap for almond butter if you prefer it."
-  - "Extra Spicy: Double the curry paste or chuck in fresh chillies."
+  - "Extra Spicy: Double the curry paste or toss in fresh chillies."
 rating: 
 reviews: 
 servingSuggestions: "This is a heavy hitter for grilled tempeh or tofu skewers. Alternatively, use it to dress a massive volume bowl of shredded cabbage and cold noodles."

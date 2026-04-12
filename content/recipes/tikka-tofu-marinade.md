@@ -15,7 +15,7 @@ keywords: ["tofu marinade", "tikka", "indian", "vegetarian", "high-protein", "ai
 tipsTitle: "Marinade Mastery"
 tips: 
   - "Fresh Aromatics: If you don't have jarred paste, violently mince 1 large garlic clove and an equal amount of fresh ginger."
-  - "The Yoghurt Rule: Use full-fat Greek yoghurt (or a thick vegan sub). Watery, low-fat rubbish will just slide off and burn."
+  - "The Yoghurt Rule: Use full-fat Greek yoghurt (or a thick vegan sub). Watery, low-fat versions will just slide off and burn."
   - "Don't Skimp on Salt: Tofu is notoriously bland internally. A heavy pinch of salt in the marinade is mandatory."
 works:
   - "Lactic Tenderising: The yoghurt's acidity chemically softens the dense soy, letting the robust Indian spices infiltrate."
@@ -26,7 +26,7 @@ use:
   - "Cold Prep: Slice the cold leftovers over a massive green salad."
 rating: 
 variations:
-  - "Paneer Swap: Bin the tofu for paneer if you eat dairy."
+  - "Paneer Swap: Swap the tofu for paneer if you eat dairy."
   - "Tropical Twist: Use coconut yoghurt for a vegan, subtly sweet crust."
 reviews:
 servingSuggestions: "Serve this over a mountain of basmati rice or stuff it into a warm pita with shredded lettuce and mint chutney."
@@ -59,12 +59,12 @@ ingredients:
 
 faq:
   - question: "Do I need to press the tofu first?"
-    answer: "Always. Pressing bins the excess water so the block can absorb the thick yoghurt marinade."
+    answer: "Always. Pressing removes the excess water so the block can absorb the thick yoghurt marinade."
   - question: "Can I use a different protein instead of tofu?"
     answer: "Absolutely. It's elite on paneer, tempeh, or roasted cauliflower."
 
 steps:
-  - "Wrap the tofu in a towel and crush it under a heavy weight for 15 minutes. Bin the water so the block can absorb the marinade."
+  - "Wrap the tofu in a towel and crush it under a heavy weight for 15 minutes. Discard the water so the block can absorb the marinade."
   - "Whisk the Greek yoghurt, ginger garlic paste, lemon juice, oil, coriander, garam masala, turmeric, and a heavy pinch of salt."
   - "Cube the tofu and toss it aggressively through the marinade. Let it rest for 30 minutes to absorb."
   - "Air Fry at 180°C for 6-10 minutes, shaking halfway. Or pan-fry until charred."

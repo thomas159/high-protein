@@ -23,7 +23,7 @@ works:
 use:
   - "Sticky Protein: Perfect for air-frying into a crispy, high-protein main."
   - "Noodle Topper: Smash this over spicy ramen or udon."
-  - "Macro Bowl: The elite star ingredient for a loaded Korean rice prep."
+  - "Macro Bowl: The elite star ingredient for a loaded Korean rice bowl."
 rating: 
 variations:
   - "Mushroom Steak: Use this to marinate whole portobello mushrooms."
@@ -63,10 +63,10 @@ faq:
     answer: "30 minutes gets the job done, but leaving it overnight delivers ridiculous, deep flavour."
 
 steps:
-  - "Wrap the tofu in a towel and crush it under a heavy weight for 15 minutes. Bin the excess water so the marinade can penetrate."
+  - "Wrap the tofu in a towel and crush it under a heavy weight for 15 minutes. Discard the excess water so the marinade can penetrate."
   - "Whisk the ketchup, sugar, gochujang, soy sauce, vinegar, garlic, ginger, sesame oil, and a pinch of salt."
   - "Cube the tofu into 2cm blocks and aggressively toss in the marinade. Let it sit for 30 minutes."
   - "Air Fry at 180°C for 6-10 minutes, shaking halfway. Or pan-fry until you hit a charred, sticky crust."
-  - "Hammer it with toasted sesame seeds and fresh spring onions to cut the heat."
+  - "Top it with toasted sesame seeds and fresh spring onions to cut the heat."
 
 ---

@@ -30,7 +30,7 @@ reviews:
 cuisine: "Mediterranean"
 keywords: ["garlic sauce", "dip", "mediterranean", "keto", "quick", "appetizer", "condiment"]
 servingSuggestions: "The ultimate dipping companion for carrot sticks or warm pita. Brilliant for cooling down aggressively spicy mains."
-storageInstructions: "Fridge for 4 days in an airtight tub. Do not freeze; the yoghurt will split and look appalling."
+storageInstructions: "Fridge for 4 days in an airtight tub. Do not freeze; the yoghurt will separate entirely."
 prepTimeMins: 5
 cookTimeMins: 0
 servings: 1

@@ -24,12 +24,12 @@ works:
   - "Cornstarch Thickening: The slurry instantly binds the thin liquids into a thick, glossy glaze."
 use:
   - "Weeknight Fuel: A brutally efficient 15-minute meal over jasmine rice."
-  - "Fridge Clearance: An elite way to bin leftover veg."
+  - "Fridge Clearance: An elite way to use up leftover veg."
   - "Meal Prep: Retains its crunch perfectly for the next day."
 variations:
-  - "Protein Addition: Chuck in some crispy air-fried tofu cubes."
-  - "Cashew Crunch: Hammer it with roasted cashews before serving."
-servingSuggestions: "Smash this over a bed of jasmine rice. Top with extra crispy tofu and a heavy dash of chilli oil for an elite recovery meal."
+  - "Protein Addition: Toss in some crispy air-fried tofu cubes."
+  - "Cashew Crunch: Top it with roasted cashews before serving."
+servingSuggestions: "Serve this over a bed of jasmine rice. Top with extra crispy tofu and a heavy dash of chilli oil for an elite recovery meal."
 storageInstructions: "Fridge for 3 days. Do not freeze this; the cucumber and tomato will turn to absolute mush."
 prepTimeMins: 15
 cookTimeMins: 15
@@ -63,8 +63,8 @@ faq:
     answer: "Tinned works in an emergency. Use a splash of the juice in the sauce for extra sweetness."
 
 steps:
-  - "Get oil smoking hot in a pan. Toss in the garlic, onion, cauliflower, and carrot. Sear for 5 minutes until the onion softens."
-  - "Chuck in the cucumber, tomato, pineapple, and pepper. Sauté for another 5 minutes."
+  - "Get oil smoking hot in a pan. Add in the garlic, onion, cauliflower, and carrot. Sear for 5 minutes until the onion softens."
+  - "Toss in the cucumber, tomato, pineapple, and pepper. Sauté for another 5 minutes."
   - "Pour in the veg stock. Blast the heat to max and boil for 2 minutes."
   - "Stir in the soy sauce, vinegar, sugar, and tomato sauce."
   - "Whisk the corn flour with the water. Pour it into the boiling pan and stir aggressively until the sauce thickens into a glaze."

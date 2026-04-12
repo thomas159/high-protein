@@ -29,11 +29,11 @@ why:
   - "Superior Crunch: Circulating heat delivers a deep-fried snap with barely any oil."
   - "Brutal Efficiency: Raw potato to fully loaded plate in under 30 minutes."
 variations:
-  - "Loaded Style: Hammer it with cheddar and vegetarian bacon bits."
+  - "Loaded Style: Top it with cheddar and vegetarian bacon bits."
   - "Fire Starter: Whisk a heavy dash of hot sauce into the sour cream."
 rating: 
 reviews: 
-servingSuggestions: "Smash these piping hot. Top with crispy facon bits and chives. Elite alongside a massive veggie club sandwich."
+servingSuggestions: "Enjoy these piping hot. Top with crispy facon bits and chives. Elite alongside a massive veggie club sandwich."
 storageInstructions: "Eat them fresh. Naked fries survive 3 days in the fridge and can be re-crisped. Keep the sauce in a separate tub."
 prepTimeMins: 5
 cookTimeMins: 25
@@ -61,5 +61,5 @@ steps:
   - "Space them out in the basket. Blast at 190°C for 18-24 minutes, shaking violently every 5 minutes for an even crunch."
   - "While they cook, whisk the sour cream, garlic granules, and chopped spring onions."
   - "Transfer the golden fries to a bowl. Pour over the cold sour cream mix and toss quickly to coat."
-  - "Demolish immediately while the fries are hot and the sauce is cold. Top with extra spring onions."
+  - "Enjoy immediately while the fries are hot and the sauce is cold. Top with extra spring onions."
 ---

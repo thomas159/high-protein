@@ -29,7 +29,7 @@ use:
 variations:
   - "Ginger Kick: Add a tablespoon of fresh grated ginger."
   - "Sweet Potato Swap: Swap half the carrots for sweet potato to bump the carbs."
-servingSuggestions: "Smash this alongside warm sourdough or garlic naan for dipping. Hammer the top with roasted peanuts for a crucial textural crunch."
+servingSuggestions: "Serve this alongside warm sourdough or garlic naan for dipping. Top heavily with roasted peanuts for a crucial textural crunch."
 shelf_life: "4 Days (Refrigerated)"
 storageInstructions: "Fridge for 4 days. Freezes brilliantly for up to 3 months. Thaw overnight and reheat gently, stirring to resurrect the emulsion."
 prepTimeMins: 5
@@ -55,7 +55,7 @@ faq:
     answer: "Mild kick. If you can't handle heat, halve the curry paste."
 
 steps:
-  - "Boil the chopped carrots in water for 10-12 minutes until fork-tender. Drain and set aside."
+  - "Toss the chopped carrots in water and boil for 10-12 minutes until fork-tender. Drain and set aside."
   - "In the empty pot, fry the red curry paste with a splash of coconut milk over low heat. Cook for 2 minutes to bloom the spices and build the flavour base."
   - "Chuck the carrots back in and pour over the veg stock. Use an immersion blender to completely obliterate it into a smooth puree."
   - "Stir in the rest of the coconut milk. Simmer gently for 2 minutes to marry the flavours. Season with salt and pepper."

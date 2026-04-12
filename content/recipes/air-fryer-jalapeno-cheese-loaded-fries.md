@@ -12,7 +12,7 @@ categories: ["air-fryer", "30-minute-meals", "snacks"]
 tipsTitle: "Loaded & Crispy"
 tips: 
   - "Block Cheese Only: Always grate from a solid block. Pre-shredded bags are coated in cellulose dust that completely ruins the melt."
-  - "Strategic Layering: Don't just chuck the cheese on top. Build it in two tiers so every single chip pulls its weight."
+  - "Strategic Layering: Don't just dump the cheese on top. Build it in two tiers so every single chip pulls its weight."
   - "Manage the Burn: If you want the jalapeño flavour without destroying your palate, quickly rinse the slices under cold water to ditch the seeds."
 works:
   - "Two-Stage Mechanics: Blasting the potatoes first builds a rigid, crispy shell that can handle the weight of the cheese without turning to mush."
@@ -29,11 +29,11 @@ why:
   - "Superior Crunch: The circulating air delivers deep-fryer crunch with barely any oil."
   - "Brutal Efficiency: Raw potato to fully loaded in under 30 minutes."
 variations:
-  - "Facon Bits: Hammer the top with crispy vegetarian bacon bits."
+  - "Facon Bits: Top heavily with crispy vegetarian bacon bits."
   - "Buffalo Kick: Drizzle heavily with vegetarian buffalo sauce."
 rating: 
 reviews: 
-servingSuggestions: "Smash these straight out of the basket. Superset with a cooling ranch or lime crema to put the fire out. Unbeatable alongside a massive veggie smash burger."
+servingSuggestions: "Serve these straight out of the basket. Pair with a cooling ranch or lime crema to put the fire out. Unbeatable alongside a massive veggie smash burger."
 storageInstructions: "Eat them immediately. Leftovers will survive 2 days in the fridge but the texture takes a massive hit. Don't freeze."
 prepTimeMins: 5
 cookTimeMins: 25
