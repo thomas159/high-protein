@@ -17,7 +17,7 @@ tips:
   - "Wine Pairing: A dry, crisp white wine like Pinot Grigio slices straight through the heavy richness."
 works:
   - "Acid and Fat Synergy: The sharp acidity of the wine and tomatoes violently cuts the heavy cream and salty feta."
-  - "Starch Binding: Reserving starchy pasta water forces the dairy to emulsify into a smooth sauce that actually clings to the noodles."
+  - "Starch-Stabilised Emulsion: Feta is prone to splitting into a grainy, oily mess when heated. By aggressively tossing the melting cheese with starchy pasta water, the starch molecules physically intercept the fat and water, binding them into a thick, unbreakable, ultra-creamy sauce."
 use:
   - "Weeknight Saviour: A luxurious, heavy carb refeed in exactly 15 minutes."
   - "Macro Lunch: Tastes incredible reheated the next day."

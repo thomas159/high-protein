@@ -19,7 +19,7 @@ tips:
   - "Press and Score: Press the block dry, then lightly score the top. This builds tiny channels for the marinade to infiltrate."
   - "The Citrus Finish: Heat destroys fresh citrus notes. Hit it with a fresh squeeze of lime right before you eat it."
 works:
-  - "Acidic Breakdown: Lime juice chemically softens the dense soy shell so the smoky oils can penetrate."
+  - "Acidic Permeation: The low pH of the lime juice attacks the rigid soy protein structure of the tofu. This slight surface breakdown allows the heavy, fat-soluble smoky oils from the chipotle adobo to infiltrate the block rather than just washing off in the pan."
   - "Sugar Caramelization: The natural sugars in the adobo sauce char rapidly under the air fryer's heat, building a proper BBQ-style bark."
 use:
   - "Taco Fuel: The ultimate smoky protein for Mexican night."

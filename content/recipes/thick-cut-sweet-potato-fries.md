@@ -17,8 +17,8 @@ tips:
   - "The Starch Soak: Soaking in cold water for 30 minutes bins the surface starch. Crucial for a crispy exterior."
   - "Salt Timing: Only salt *after* cooking. Salting raw potatoes draws out moisture and ruins the crunch."
 works:
-  - "Moisture Evaporation: The air fryer violently strips the high water content, achieving a crunch that standard ovens can't touch."
-  - "Natural Caramelisation: High heat perfectly roasts the natural sugars, no extras required."
+  - "Starch Extraction & Dehydration: Soaking the sweet potatoes leaches out the surface amylose starches that typically cause fries to burn and glue together. The air fryer then violently dehydrates the exterior, forcing the complex natural sugars to caramelise into a rigid, crispy shell."
+  - "Moisture Evaporation: The air fryer violently strips the high water content, achieving a crunch that standard ovens simply cannot touch without oil frying."
 use:
   - "Burger Sidekick: The elite pairing for a heavy plant-based burger."
   - "Volume Snack: A massive, nutrient-dense serving when the cravings hit."

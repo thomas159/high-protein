@@ -17,7 +17,7 @@ tips:
   - "The Smoky Hack: Since we skipped the open fire, smoked paprika or liquid smoke is mandatory for that authentic roasted depth."
   - "Drain the Excess: Microwaved aubergine holds water. Let the flesh sit in a sieve for 5 minutes before mashing so your dip isn't watery."
 works:
-  - "Internal Steaming: The microwave boils the heavy water content, steaming the flesh soft in minutes."
+  - "Cellular Collapse: The microwave's dielectric heating violently agitates the aubergine's naturally high water content. This rapid internal boiling bursts the cell walls from the inside out, completely collapsing the dense flesh into a silken puree in a fraction of the time it takes to roast."
   - "Creamy Emulsion: The high-fat tahini blends seamlessly into the fibrous aubergine for a rich, dairy-free dip."
 use:
   - "Mezze Platter: The heavyweight star of the show."

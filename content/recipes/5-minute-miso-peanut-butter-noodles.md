@@ -18,7 +18,7 @@ tips:
   - "Starchy Water Secret: If your sauce turns to concrete or splits, vigorously stir in a splash of starchy noodle water to resurrect it into a silky glaze."
   - "Soy Milk Temp: Add the soy milk gradually over low heat. Adding cold milk into a hot pan is a rookie error and will cause it to split."
 works:
-  - "Emulsion Mechanics: Whisking peanut butter into warm water creates a stable emulsion that perfectly coats every single noodle."
+  - "Mechanical Emulsion: Whisking the high-fat peanut butter into the warm, starchy noodle water forces the disparate fat and water molecules to bind. The starch acts as a physical stabilizer, yielding a glossy, unbroken sauce that clings heavily to the noodles."
   - "Umami Synergy: Miso and soy sauce deliver a massive punch of savoury depth. Zero need for long-simmered meat broths."
 use:
   - "Speedy Dinner: The ultimate 5-minute cheat code when you're short on time."

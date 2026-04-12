@@ -15,7 +15,7 @@ tips:
   - "Cheese Layering: Add half the cheese halfway through the kimchi mixing, and sprinkle the rest on top so it melts through every layer."
   - "Sauce Consistency: If your Gochujang glaze gets too thick while sautéing, loosen it with a teaspoon of water or sesame oil to ensure it coats the fries evenly."
 works:
-  - "Air Circulation: The air fryer rapidly blasts away moisture, giving the potatoes a deep-fried crunch without being weighed down by oil."
+  - "Starch Dehydration: Soaking the potatoes removes surface amylose, preventing the fries from gluing together. The air fryer's rapid convection then violently strips surface moisture, creating a rigid starch crust that doesn't collapse under the heavy, wet kimchi."
   - "Flavor Balancing: The sharp, acidic tang of the kimchi perfectly cuts through the rich heaviness of the cheddar cheese and starchy potatoes."
 use:
   - "Party Snack: The ultimate crowd-pleasing sharing platter."

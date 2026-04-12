@@ -15,7 +15,7 @@ tips:
   - "Strategic Layering: Don't just dump the cheese on top like an amateur. Build two distinct layers so every single chip pulls its weight."
   - "The Parchment Sling: Build the nachos on a sheet of parchment paper in the basket. When they're done, just lift the whole structure out. Zero mess."
 works:
-  - "Dry Heat Mechanics: Microwaves steam chips into a soggy disaster. The air fryer's dry heat toasts the base while perfectly melting the cheese."
+  - "Moisture Management: Microwaves agitate water molecules, steaming the chips into a soggy disaster. The air fryer's rapid convection utilizes dry heat, actively drawing moisture out of the tortilla base to maintain structural rigidity while the cheese fats melt over the top."
   - "Rapid Thermodynamics: The tiny chamber hits peak heat instantly, entirely binning the 15-minute oven preheat."
 use:
   - "Emergency Refeed: A hot, cheesy hit ready faster than your oven can even preheat."

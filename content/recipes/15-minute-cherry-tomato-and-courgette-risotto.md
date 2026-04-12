@@ -18,7 +18,7 @@ tips:
   - "Creamy Finish: Vigorously stirring for 60 seconds at the end forces the starches out, creating a luxurious sauce without touching double cream."
   - "Fridge Clearance: Highly forgiving. Stir in leftover spinach, peas, or peppers at the end."
 works:
-  - "Starch Release: Aggressive stirring physically beats the starches out of the rice to naturally thicken the sauce."
+  - "Starch Gelatinization: Aggressive stirring causes the Arborio rice grains to rub against each other, physically shearing off amylopectin starches into the liquid. This naturally thickens the stock into a creamy, stable emulsion without adding a drop of double cream."
   - "Controlled Steam: The microwave provides a high-heat, enclosed environment, completely binning the need to stand over a stove stirring for 40 minutes."
 use:
   - "Rapid Carb Refeed: A heavy comfort meal with zero active cooking."

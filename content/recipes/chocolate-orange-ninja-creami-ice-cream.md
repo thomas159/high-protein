@@ -19,7 +19,7 @@ tips:
   - "Mix-In Magic: Core the centre and use the mix-in function to fold in dark chocolate chips for a crucial crunch."
   - "Milk Swaps: Easily veganised by using plant milk and maple syrup. Use whole milk if you want it even richer."
 works:
-  - "Protein Power: Whey protein builds the thick, creamy structure, entirely replacing the heavy fat of egg yolks."
+  - "Structural Matrix: Whey protein and cocoa powder act as exceptional mechanical binders. When frozen and violently micro-shaved by the Creami blade, these dry ingredients stabilize the ice crystals in the low-fat milk, replicating the dense, velvety mouthfeel of heavy cream."
   - "Micro-Shaving: The Creami blade violently shaves the solid ice block into an aerated masterpiece."
   - "Flavour Synergy: Deep cocoa is perfectly sliced open by the sharp, acidic orange zest."
 use:

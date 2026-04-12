@@ -15,7 +15,7 @@ tips:
   - "Paneer Prep: Toss the paneer in turmeric and garam masala before building. Don't skip this unless you like bland cheese."
   - "Rigid Base: If the naan is thick, blast it naked in the air fryer for 60 seconds first so the chutney doesn't turn it into a soggy sponge."
 works:
-  - "Zero Dough Prep: Using pre-cooked naan entirely bypasses the absolute nightmare of dough hydration."
+  - "Pre-Gelatinised Base: Using a pre-cooked naan means the dough starches are already fully gelatinised. The air fryer only has to dehydrate the exterior to build a shatter-crisp crust, completely bypassing the complex hydration and baking science required for raw pizza dough."
   - "Flavour Efficiency: Mango chutney replaces pizza sauce, delivering massive complexity instantly."
 use:
   - "Refeed Dinner: A brutally quick workaround for traditional pizza night."

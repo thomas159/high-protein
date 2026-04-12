@@ -18,7 +18,7 @@ tips:
   - "Sauce Emulsion: Keep a spoonful of starchy water to mix into your glaze—it helps the sauce violently cling to the noodles."
   - "Volume Boost: Toss in a handful of baby spinach or pak choi at the end for an effortless micronutrient hit."
 works:
-  - "Liquid Reduction: Boiling off the stock forces the savoury flavour directly into the noodles."
+  - "Osmotic Glazing: By boiling off the stock rather than draining it, the starchy water reduces into a concentrated syrup. The porous noodles act like sponges, absorbing the heavy sodium and soy compounds through osmosis while the residual starch forms a thick, clinging glaze."
   - "Acid Balance: A tiny splash of rice vinegar cuts the heavy sesame oil and wakes up the palate."
 use:
   - "Macro Hack: A massive upgrade to a basic instant noodle craving."

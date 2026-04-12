@@ -14,7 +14,7 @@ tips:
 works:
   - "The Tamarind Factor: Tamarind adds a fermented depth that standard lime juice just can't touch."
   - "Textural Contrast: Crushed peanuts provide a premium, rustic texture that clings perfectly to your protein."
-  - "Speed vs. Flavour: Blooming the paste gives you hours of slow-cooked flavour in a fraction of the time."
+  - "Fat-Soluble Blooming: The intense, aromatic oils in the red curry paste are fat-soluble. Frying them gently in the thick coconut cream extracts and disperses these compounds violently, building hours of slow-cooked flavour depth in under 2 minutes."
 use:
   - "As a Dip: Unbeatable for halloumi skewers or raw veg prep."
   - "As a Dressing: Thin it out with water and lime for a high-fat salad dressing."

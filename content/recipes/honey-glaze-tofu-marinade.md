@@ -18,7 +18,7 @@ tips:
   - "Watch the Heat: Honey burns quickly. Monitor the final minutes to get a golden crust, not a charcoal briquette."
   - "Vegan Swap: Swap the honey for maple syrup or agave to keep it 100% plant-based."
 works:
-  - "Maillard Reaction: The high heat forces the honey to caramelise rapidly, forming a sticky, glossy lacquer."
+  - "Rapid Caramelisation: The intense circulating heat strips water from the honey, allowing the natural fructose and glucose to violently caramelise. This forms a high-viscosity, glassy lacquer that physically binds to the textured surface of the pressed tofu."
   - "Flavour Equilibrium: The sharp soy sauce and earthy cumin keep the honey from turning this into a dessert."
 use:
   - "Sticky Skewers: Thread onto sticks and blast in the air fryer."

@@ -15,7 +15,7 @@ tips:
   - "Strategic Layering: Don't just dump the cheese on top. Build it in two tiers so every single chip pulls its weight."
   - "Manage the Burn: If you want the jalapeño flavour without destroying your palate, quickly rinse the slices under cold water to ditch the seeds."
 works:
-  - "Two-Stage Mechanics: Blasting the potatoes first builds a rigid, crispy shell that can handle the weight of the cheese without turning to mush."
+  - "Two-Stage Structural Integrity: Blasting the naked potatoes first evaporates surface moisture and gelatinises the starches into a rigid, load-bearing crust. This structural armour is entirely necessary to prevent the heavy, molten fats of the cheddar from turning the base into a soggy, collapsed mess."
   - "Flash Melting: Dropping the cheese in at the absolute end uses residual heat to melt it instantly without burning the fats."
 use:
   - "Refeed Heavyweight: The ultimate messy, high-calorie comfort bowl."

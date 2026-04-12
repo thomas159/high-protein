@@ -18,7 +18,7 @@ tips:
   - "Temperature Contrast: Mix the coconut cream in while the rice is piping hot so the grains absorb it perfectly."
   - "The Salt Finish: A tiny pinch of salt in the glaze is mandatory. It violently contrasts the sweet mango and sugar."
 works:
-  - "Starch Gelatinisation: Steaming soaked glutinous rice breaks down complex starches into that iconic, chewy texture."
+  - "Amylopectin Gelatinisation: Glutinous rice contains almost zero amylose and extremely high amylopectin. Steaming breaks down this specific starch structure, causing the grains to become incredibly sticky and chewy without turning into mush."
   - "Osmosis Action: Hot rice expands and drinks in the coconut milk, trapping the flavour inside the grain."
 use:
   - "Tropical Finisher: A stunning finale to an Asian-inspired prep."

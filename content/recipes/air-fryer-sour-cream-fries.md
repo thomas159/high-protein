@@ -16,7 +16,7 @@ tips:
   - "Sauce Separation: If serving a crowd, keep the sauce on the side as a dip to preserve the crispiness."
   - "Temperature Contrast: The sour cream must be fridge-cold when it hits the piping hot fries. The contrast is elite."
 works:
-  - "Thermal Contrast: The intense heat of the fries slightly melts the cold cream, building a silky coating."
+  - "Thermal Coating: The intense residual heat of the fries slightly melts the heavy fats in the cold sour cream upon contact. This instantly transforms the thick dollop into a silky, emulsified sauce that evenly coats the rigid starch crust without immediately turning it soggy."
   - "Air-Fried Armour: The air fryer violently strips moisture, creating a rigid exterior that holds up under the heavy sauce."
 use:
   - "Gourmet Side: Elevates a standard weeknight dinner into a pub-style feast."

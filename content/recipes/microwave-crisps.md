@@ -15,7 +15,7 @@ tips:
   - "Precision Slicing: A mandoline is mandatory. Uneven slices mean half burn while the rest stay soggy."
   - "Patience Pays Off: Let them rest for 2 minutes out of the microwave. They harden and reach maximum snap as they cool."
 works:
-  - "Internal Evaporation: The microwave agitates the water molecules, aggressively steaming the potato from the inside out until it's a rigid shell."
+  - "Dielectric Dehydration: The microwave targets and violently agitates the water molecules inside the potato slice. This rapid internal steaming evaporates the moisture so aggressively that the pectin and starch structures lock into a rigid, glass-like shell."
   - "Starch Removal: Soaking pulls out surface starches so they don't fuse together into a gummy mess."
 use:
   - "Volume Snacking: A completely guilt-free, low-oil fix for your crisp cravings."

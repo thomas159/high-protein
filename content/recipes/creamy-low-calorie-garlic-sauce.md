@@ -17,7 +17,7 @@ tips:
   - "Fire Starter: A dash of cayenne or hot sauce gives it a lingering kick."
 works:
   - "Fat Balance: Greek yoghurt aggressively slashes the calories while maintaining a thick, premium texture."
-  - "Maceration: Resting it in the fridge for 15 minutes allows the raw garlic to mellow out, preventing it from blowing your head off."
+  - "Enzymatic Mellowing: Resting the sauce allows the sharp allicin enzymes in the raw garlic to oxidize and mellow out in the fat of the mayo and yoghurt. This prevents the garlic from chemically burning your palate."
 use:
   - "As a Dip: Elite for sweet potato fries or raw veg."
   - "As a Spread: Slather it inside a high-protein wrap."

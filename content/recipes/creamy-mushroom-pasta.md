@@ -18,7 +18,7 @@ tips:
   - "Deglazing Power: The white wine is there to aggressively scrape up the dark, caramelised flavour stuck to the bottom of the pan."
 works:
   - "The Maillard Reaction: High-heat searing caramelises the mushrooms, delivering a massive umami hit."
-  - "Starch Emulsion: The pasta water starch chemically binds the heavy cream and butter, preventing the sauce from splitting into an oily mess."
+  - "Starch Emulsion: The amylose starches leached into the pasta water physically intercept the heavy cream fats, binding them into a thick, glossy emulsion that clings to the pasta without splitting into a greasy pool."
 use:
   - "Heavy Refeed: A massive, warm carb reload for cozy evenings."
   - "Date Night: Looks and tastes like a premium restaurant dish with zero stress."
@@ -33,7 +33,7 @@ whyTitle: "The Science of the Sauce"
 why:
   - "The Maillard Reaction: Sautéing until golden unlocks a deep, meaty umami flavour that carries the entire dish."
   - "The Emulsion Secret: Starchy pasta water combined with butter creates a glossy coating that actually clings to the pasta."
-  - "Acidic Lift: The wine cuts straight through the heavy cream, stopping the dish from becoming a cloying disaster."
+  - "Acidic Lift: The wine's acidity alters the pH, cutting straight through the heavy lipid structure of the cream and preventing the dish from becoming a cloying disaster."
 prepTimeMins: 10
 cookTimeMins: 15
 servings: 1

@@ -20,7 +20,7 @@ tips:
   - "Patience Pays Off: Don't rush it. It needs at least 2 hours in the fridge to develop that dense texture and let the flavours marry."
 works:
   - "Yoghurt Substitution: Greek yoghurt delivers the volume and tang of a proper cheesecake while ruthlessly slashing the fat."
-  - "Convection Power: The air fryer acts like an intense convection oven, setting the dense protein structure rapidly."
+  - "Protein Coagulation: The combination of egg proteins and the thick casein structure of Greek yoghurt coagulates rapidly under the air fryer's intense heat, creating a stable, velvety matrix that holds its shape without relying on the saturated fat of heavy cream."
 use:
   - "Diet Cheat Code: Hits the craving for a fraction of the calories."
   - "High-Protein Treat: Greek yoghurt makes this an elite macro option."

@@ -16,7 +16,7 @@ tips:
   - "Rice Mechanics: Day-old cold rice is the traditional secret for crispy grains, but we intentionally use fresh rice here. Saving time and hitting your macros is the priority over culinary tradition."
 works:
   - "Fermented Depth: Aged kimchi delivers instant tang and umami that usually takes hours of simmering."
-  - "The Searing Technique: Pressing the rice firmly into the hot pan creates those elite, caramelised crispy edges."
+  - "Thermal Crust Formulation: Pressing the rice firmly into the smoking hot pan maximizes surface area contact. This triggers the Maillard reaction and rapidly evaporates residual moisture, creating a rigid, caramelised starch crust."
 use:
   - "Leftover Rescue: The most efficient way to clear out aging kimchi."
   - "Refeed Bowl: A spicy, warming bowl when you need heavy carbs."

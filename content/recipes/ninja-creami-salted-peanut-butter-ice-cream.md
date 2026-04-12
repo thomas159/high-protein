@@ -19,7 +19,7 @@ tips:
   - "Mix-In Magic: Core the centre and use the mix-in function to fold in crushed peanuts for a crucial crunch."
   - "Milk Swaps: Easily veganised by using plant milk and maple syrup. Use whole milk if you want it even richer."
 works:
-  - "Protein Power: Whey and peanut powder build a thick, creamy structure, entirely replacing the heavy fat of egg yolks."
+  - "Emulsion Replacement: Traditional ice cream relies on egg yolks to emulsify fats and water. Here, the dense protein matrix of the whey isolate binds the low-fat milk and peanut powder, simulating the rich, heavy mouthfeel of a premium gelato without the massive caloric density."
   - "Micro-Shaving: The Creami blade violently shaves the solid ice block into an aerated masterpiece."
 use:
   - "Post-Workout: A ridiculous 74g protein hit disguised as an elite dessert."

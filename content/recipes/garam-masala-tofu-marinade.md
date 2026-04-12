@@ -18,7 +18,7 @@ tips:
   - "Spice Blooming: Toast the garam masala in a dry pan for 30 seconds first to violently awaken the aromatics."
   - "Patience Pays Off: 30 minutes works, but overnight in the fridge delivers restaurant-quality depth."
 works:
-  - "Acidic Tenderising: Citric acid from the lime breaks down the tofu's defence, dragging the spices into the core."
+  - "Acidic Denaturation: The citric acid from the lime juice partially denatures the dense soy protein lattice on the tofu's surface. This micro-breakdown creates pathways for the heavy Indian aromatics to penetrate deeper into the core."
   - "Char Factor: High heat caramelises the ginger and garlic paste into an elite crust."
 use:
   - "Curry Protein: Blast in the air fryer and drop into a simmering masala."

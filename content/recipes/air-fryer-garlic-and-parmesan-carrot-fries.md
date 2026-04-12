@@ -20,7 +20,7 @@ tips:
   - "Uniform Cuts: Slice them consistently. Thick ones stay raw while thin ones turn to ash."
   - "Don't Overcrowd: Give them space in the basket. Overcrowding equals steaming, not crisping."
 works:
-  - "Sweet and Savoury: The roasted natural sugars perfectly offset the salty, umami hit of the parmesan."
+  - "Protein-Starch Crisp: As the air fryer evaporates moisture from the carrot's surface, the high-protein parmesan melts and fuses with the natural sugars. This creates a rigid, caramelised exoskeleton that delivers a satisfying snap."
   - "Air Fried Crunch: The circulating heat crisps the cheese and edges with a fraction of the oil."
 use:
   - "Volume Eating: An elite, low-calorie alternative to smash your chip cravings."

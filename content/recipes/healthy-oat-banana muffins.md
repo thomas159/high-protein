@@ -19,7 +19,7 @@ tips:
   - "Don't Over-Mix: Stir until *just* combined. Over-mixing activates the starches and turns your muffins into rubber."
 works:
   - "Moisture Lock: Bananas and Greek yoghurt provide massive hydration, entirely binning the need for heavy oils or butter."
-  - "Oat Flour Mechanics: Finely ground oats absorb the liquid efficiently, acting as a high-fibre binder for a dense, brownie-like texture."
+  - "Oat Hydration Mechanics: The soluble fibre (beta-glucan) in the finely ground oats aggressively absorbs the heavy moisture from the mashed bananas and Greek yoghurt. This binds the batter into a dense, fudgy crumb structure without relying on gluten networks or heavy baking fats."
 use:
   - "Grab & Go Breakfast: Enjoy it with your morning coffee for lasting energy."
   - "Macro Fuel: A highly efficient balance of carbs and protein post-workout."

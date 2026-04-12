@@ -20,8 +20,8 @@ tips:
   - "The Freezer Hack: Freeze the breaded blocks for 30 minutes. This drops the core temp so the crust crisps before the centre liquefies."
   - "Parchment Sling: Put a small square of parchment under it so the breading doesn't fuse to the basket."
 works:
-  - "The Double Shield: Flour, egg, and breadcrumbs form an impenetrable barrier."
-  - "Rapid Convection: The intense circulating heat gives you that deep-fried snap without the greasy oil bath."
+  - "Thermal Shielding: The double layer of flour, egg, and breadcrumbs acts as a thermal insulator. It ensures the exterior dehydrates and crisps completely before the core temperature rises enough to liquefy the cheese and cause a blowout."
+  - "Rapid Convection: The intense circulating heat mimics deep-frying by rapidly evaporating surface moisture, giving you that authentic snap with zero oil absorption."
 use:
   - "Refeed Main: Serve with chips and tartar sauce."
   - "Burger Patty: Sandwich the block in a brioche bun for an elite macro cheat meal."

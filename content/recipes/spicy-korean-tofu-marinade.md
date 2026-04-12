@@ -19,7 +19,7 @@ tips:
   - "Heat Management: Gochujang heat varies. Taste the raw marinade and balance with extra ketchup if it's going to blow your head off."
 works:
   - "Fermented Power: Gochujang acts as a massive flavour foundation, delivering depth that usually takes hours of braising."
-  - "The Emulsion: Whisking the thick paste with oil and vinegar builds a heavy glaze that clings to the tofu."
+  - "Viscous Maillard Glaze: The heavy starch and sugar content in the gochujang paste acts as a natural thickener. When hit with the air fryer's intense heat, these sugars violently caramelise (the Maillard reaction), forming a tight, sticky lacquer that chemically adheres to the tofu's surface."
 use:
   - "Sticky Protein: Perfect for air-frying into a crispy, high-protein main."
   - "Noodle Topper: Smash this over spicy ramen or udon."

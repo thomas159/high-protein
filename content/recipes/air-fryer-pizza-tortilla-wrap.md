@@ -14,7 +14,7 @@ tips:
 works:
   - "Macro Hack: Swapping heavy dough for a tortilla saves you an easy 300 calories to spend elsewhere."
   - "Pesto Efficiency: Pesto brings oil, garlic, nuts, and herbs in a single spoonful. Ultimate flavour efficiency."
-  - "Rapid Heat: The air fryer turns a floppy wrap into a shatter-crisp crust in minutes."
+  - "Dehydration Mechanics: The intense circulating air of the fryer rapidly evaporates the surface moisture from the thin flour tortilla, fundamentally altering its starch structure to shatter-crisp before the toppings have a chance to make it soggy."
 use:
   - "Cutting Phase Fix: All the pizza satisfaction, barely any of the carbs."
   - "Emergency Refeed: Ready in 15 minutes when the cravings hit."

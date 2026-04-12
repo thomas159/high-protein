@@ -19,7 +19,7 @@ tips:
   - "Sauce Consistency: Peanut butter seizes up as it cools. If meal prepping, aggressively stir in a splash of warm water when reheating to resurrect the glaze."
 works:
   - "Noodle Geometry: Thick, chewy udon provides massive surface area to hold the heavy peanut sauce."
-  - "Fat and Acid: The heavy coconut and peanut fats are perfectly sliced open by the sharp lime juice."
+  - "Emulsification & Starch Adhesion: The heavy fats from the peanut butter and coconut milk are naturally unstable. Vigorously tossing them with the residual starchy udon water forces a stable emulsion, creating a thick, high-viscosity glaze that chemically clings to the dense surface area of the noodles."
 use:
   - "Heavy Refeed: Massive carbs and plant-based protein to restock glycogen."
   - "Rapid Lunch: 15 minutes from raw ingredients to fully plated."

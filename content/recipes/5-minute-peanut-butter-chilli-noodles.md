@@ -17,7 +17,7 @@ tips:
   - "The Acid Balance: Don't skip the rice wine vinegar. The sharp acidity slices straight through the heavy peanut fats."
   - "Crunch Factor: Hammer the finished dish with crushed peanuts, crispy fried shallots, or toasted sesame seeds."
 works:
-  - "Instant Emulsion: The starchy water forces the peanut butter and soy sauce into a glossy, unbreakable sauce."
+  - "Starch-Bound Emulsion: Peanut butter fats and watery soy sauce naturally repel each other. The amylose starches leached into the reserved noodle water act as a mechanical emulsifier, physically binding the fat and water molecules together into a thick, glossy, unbreakable glaze."
   - "Raw Aromatics: Grated ginger and raw garlic deliver a punchy bite that holds its own against the heavy fats."
 use:
   - "Emergency Refeed: A savoury, spicy fix ready faster than you can order a takeaway."

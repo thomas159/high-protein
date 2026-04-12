@@ -18,7 +18,7 @@ tips:
   - "Flavour Upgrades: Fold in dark chocolate chips or a heavy pinch of cinnamon to stop your prep getting boring."
   - "Chill Out: Pop the bowl in the fridge for 10 minutes before rolling. It firms up the nut butter and stops the mess."
 works:
-  - "Natural Binders: The sticky peanut butter and honey perfectly trap the dry ingredients, entirely removing the need to bake them."
+  - "Lipid-Carb Matrix: The heavy, sticky fats from the peanut butter act as a mechanical binder, physically locking the dry oat starches and powdery whey isolate together. Chilling them solidifies these saturated fats, creating a firm, cohesive structure without any thermal cooking."
   - "Macro Balance: Complex oat carbs combined with healthy nut fats prevent aggressive blood sugar spikes."
 use:
   - "Pre-Workout: A rapid, clean hit of carbs and fats before a heavy session."

@@ -21,7 +21,7 @@ tips:
   - "Pineapple Power: Fresh pineapple is elite. The enzymes tenderise the veg and the fresh juice obliterates the canned stuff."
 works:
   - "Flash Cooking: High-heat searing seals the exterior, preventing the veg from turning to soggy rubbish."
-  - "Cornstarch Thickening: The slurry instantly binds the thin liquids into a thick, glossy glaze."
+  - "Starch Gelatinisation: When the cold cornflour slurry hits the boiling liquid, the starch granules instantly swell and burst. This releases long amylose chains that entangle the water molecules, immediately transforming the thin vinegar and stock into a thick, viscous glaze."
 use:
   - "Weeknight Fuel: A brutally efficient 15-minute meal over jasmine rice."
   - "Fridge Clearance: An elite way to use up leftover veg."

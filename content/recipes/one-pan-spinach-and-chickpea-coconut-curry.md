@@ -25,7 +25,7 @@ tips:
   - "Frozen Over Fresh: Skip the fresh spinach. Frozen pellets are cheaper and you can toss them straight into the bubbling pan."
   - "Fat is Flavour: Use full-fat coconut milk. 'Lite' versions will just give you a watery, depressing broth."
 works:
-  - "Spice Blooming: Toasting dry spices in hot coconut oil aggressively releases their fat-soluble compounds, multiplying the flavour."
+  - "Lipid-Soluble Extraction: The flavour compounds in cumin, coriander, and turmeric are fat-soluble. Toasting them in hot coconut oil violently extracts and disperses these compounds into the fat, creating a massively amplified flavour base that water or stock simply cannot achieve."
   - "Natural Thickening: Chickpea starches leach into the coconut milk, naturally thickening the curry without any flour."
 use:
   - "Macro Prep: Batch cook a large pan on Sunday to fuel your week."

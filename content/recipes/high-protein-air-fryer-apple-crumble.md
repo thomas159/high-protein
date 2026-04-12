@@ -18,7 +18,7 @@ tips:
   - "Foil Shield: If the oat crumble starts catching before the apples soften, loosely cover the ramekin with tin foil."
   - "Binder Temperature: Use melted butter or warm coconut oil. It acts like glue for the protein powder and oats, building chunky, satisfying clusters."
 works:
-  - "Textural Contrast: Steaming apples keep the base soft, while the air fryer violently blasts the top into a crunchy, golden armour."
+  - "Fat-Protein Binding: Rubbing melted butter or coconut oil into the oats and whey powder creates a hydrophobic coating. This fat layer prevents the dry ingredients from immediately absorbing the steaming apple juice, ensuring the topping bakes into a rigid, crispy crust instead of collapsing into a wet paste."
   - "Macro Engineering: Swapping standard flour for protein powder boosts the macros without ruining the structural integrity of the dessert."
 use:
   - "Guilt-Free Finisher: An elite dessert to cap off the evening without blowing your deficit."

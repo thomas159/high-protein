@@ -20,7 +20,7 @@ tips:
   - "Roast for Depth: Got extra time? Roast the carrots until caramelised before blending for a massive smoky sweetness."
   - "Consistency Control: If it's too thick, aggressively whisk in extra veg stock until you hit the perfect silky texture."
 works:
-  - "Aromatic Awakening: Sautéing curry paste in fat violently releases the flavour compounds from the chillies."
+  - "Fat-Soluble Extraction: The volatile flavour compounds in the chillies and aromatics of the red curry paste are fat-soluble. Frying the paste in coconut cream extracts and dramatically amplifies these oils, building a massive depth of flavour that boiling in water could never achieve."
   - "Sweet & Spicy Synergy: Pureed carrots provide the earthy sweetness needed to offset the intense chilli heat."
 use:
   - "Starter: A vibrant, warming starter for a dinner party."

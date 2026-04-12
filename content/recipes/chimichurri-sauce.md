@@ -18,7 +18,7 @@ tips:
   - "Let It Breathe: Let it sit at room temperature for 15 minutes before serving so the herbs violently release their oils."
   - "Heat Control: Leave the chilli seeds in for a fiery kick, or discard them for a milder tang."
 works:
-  - "Maceration Science: Soaking raw garlic in vinegar kills the harsh enzymes, leaving a smooth, integrated pungency."
+  - "Enzymatic Mellowing (Maceration): Soaking the raw minced garlic in red wine vinegar first halts the production of allicin—the compound responsible for raw garlic's aggressive, burning bite. This yields a smooth, deeply savoury pungency that perfectly balances the heavy olive oil."
   - "Fat and Acid Synergy: The heavy olive oil is perfectly sliced open by the sharp vinegar."
 use:
   - "As a Marinade: Coat tofu or seitan before hitting the grill."
