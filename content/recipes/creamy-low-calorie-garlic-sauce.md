@@ -4,7 +4,7 @@ slug: "creamy-low-calorie-garlic-sauce"
 meta: {
   seoMetaDescription: "Need a macro-friendly dip? This quick 5-minute ultra-creamy low-calorie garlic sauce uses Greek yogurt for a rich punch. Minimal prep, maximum flavor."
 }
-description: "A brilliant low-calorie swap that doesn't taste like diet food. **Clocking in at just 150 kcal with 6g of protein**, using a heavy ratio of Greek yoghurt to mayonnaise slashes the fat.<br><br>Minimal prep, maximum flavour, and a quick 5-minute ultra-creamy texture. Tested multiple times to get the exact ratio so it tastes like a genuine, premium aioli."
+description: "A brilliant low-calorie swap that doesn't taste like diet food. **Clocking in at just 150 kcal with 6g of protein**, using a heavy ratio of Greek yoghurt to mayonnaise slashes the fat.<br><br>Minimal prep, maximum flavour, and a quick 5-minute ultra-creamy texture. Tested multiple times to perfectly balance the sharp raw garlic bite against the tangy Greek yoghurt, so it tastes like a genuine, premium aioli."
 blurb: []
 image: "garlic-sauce_dz8yhf"
 alt: "Creamy low calorie garlic sauce in a small dipping bowl"
@@ -54,7 +54,7 @@ faq:
     answer: "4 days. The garlic actually gets punchier after 24 hours."
 
 steps:
-  - "Whisk the mayo and Greek yoghurt in a bowl until completely smooth. If it's lumpy, keep whisking; lumps here will ruin the final texture."
+  - "Whisk the mayo and Greek yoghurt in a bowl for 1-2 minutes until completely smooth, thick, and glossy. If it's lumpy, keep whisking; lumps here will ruin the final velvety texture."
   - "Fold in the minced garlic, salt, and pepper."
   - "Stir in half the spring onions. Leave it in the fridge for 15 minutes to let the flavours marry. Top with the remaining onions when serving."
 ---

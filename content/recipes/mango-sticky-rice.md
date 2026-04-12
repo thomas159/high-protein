@@ -4,7 +4,7 @@ slug: "mango-sticky-rice"
 meta: {
   seoMetaDescription: "Clean carb refeed? The ultimate velvety Thai mango sticky rice is an authentic, macro-friendly 15-minute vegan dessert. Minimal prep, maximum flavor."
 }
-description: "The ultimate clean-carb refeed. **Delivering 43g of fast-digesting carbs for 353 kcal**, this authentic Mango Sticky Rice relies on a precise 4:1 ratio of coconut infusion to finishing glaze.<br><br>Minimal prep, maximum flavour, and ideal for fuelling your next heavy leg session. Tested relentlessly to ensure the glutinous rice hits the ultimate velvety texture without turning to mush."
+description: "The ultimate clean-carb refeed. **Delivering 43g of fast-digesting carbs for 353 kcal**, this authentic Mango Sticky Rice relies on a precise 4:1 ratio of coconut infusion to finishing glaze.<br><br>Minimal prep, maximum flavour, and ideal for fuelling your next heavy leg session. Tested relentlessly to perfectly balance the sweet coconut infusion with a sharp pinch of salt, preventing the dessert from becoming cloying."
 blurb: []
 image: "mango-sticky-rice_vzh6ec"
 alt: "Authentic Thai Mango Sticky Rice served with coconut sauce"
@@ -55,6 +55,6 @@ faq:
 steps:
   - "Rinse the rice until the water runs clear. Soak for 6 hours (or 1 hour in boiling water). Drain and steam for 15-20 minutes until soft and tacky."
   - "While the rice is piping hot, whisk 80% of the coconut cream with the sugar and a pinch of salt. Fold it into the rice. Cover and rest for 30 minutes so the rice 'drinks' the milk."
-  - "Heat the remaining 20% of the coconut cream and sugar in a small pan. Stir until dissolved into a glaze. Do not boil it or it will split and turn into an oily mess."
+  - "Heat the remaining 20% of the coconut cream and sugar in a small pan. Stir for 1-2 minutes until completely dissolved into a glossy syrup. Do not boil it or it will split and turn into an oily, granular mess."
   - "Slice the mango. Plate the sticky rice, arrange the fruit, and heavily drizzle the warm glaze over the top."
 ---

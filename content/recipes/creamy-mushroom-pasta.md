@@ -4,7 +4,7 @@ slug: "creamy-mushroom-pasta"
 meta: {
   seoMetaDescription: "Carb reloading? This easy 25-minute ultra-creamy garlic mushroom pasta is an indulgent vegetarian umami bomb. Minimal prep, maximum flavor."
 } 
-description: "A bowl of pure comfort for when you need a serious carb reload. **Delivering 24g of protein and 88g of carbs for 780 kcal**, searing the mushrooms hard creates a deep, meaty umami crust.<br><br>Minimal prep, maximum flavour, and the starchy pasta water emulsifies the parmesan flawlessly. Tested endlessly to ensure the cream never splits."
+description: "A bowl of pure comfort for when you need a serious carb reload. **Delivering 24g of protein and 88g of carbs for 780 kcal**, searing the mushrooms hard creates a deep, meaty umami crust.<br><br>Minimal prep, maximum flavour, and the starchy pasta water emulsifies the parmesan flawlessly. Tested endlessly to perfectly balance the starchy pasta water emulsion against the heavy cream, ensuring it binds into a thick, glossy sauce without splitting."
 image: "creamy-mushroom-pasta_m6794q"
 alt: "Creamy mushroom pasta garnished with fresh herbs"
 categories: ["dinner", "vegetarian", "pasta"]
@@ -64,6 +64,6 @@ steps:
   - "Melt the butter and a splash of oil in a large pan over medium-high heat. The oil stops the butter burning."
   - "Chuck in the mushrooms in a single layer. Leave them alone for 2 minutes to develop a serious crust. Add the garlic and thyme for the final minute."
   - "Pour in the wine to deglaze. Aggressively scrape the brown bits off the bottom of the pan. Simmer until the wine halves in volume."
-  - "Drop the heat. Stir in the stock, double cream, and parmesan. Season heavily with black pepper. Simmer for 3 minutes until it thickens. If it looks watery, keep simmering; it needs to coat the back of a spoon."
+  - "Drop the heat. Stir in the stock, double cream, and parmesan. Season heavily with black pepper. Simmer for 3 minutes until it visibly thickens. If it looks watery, keep simmering; it needs to heavily coat the back of a spoon. If the sauce splits into oil, whisk aggressively with an extra splash of starchy water."
   - "Drop the pasta straight into the sauce. Toss vigorously, adding a splash of pasta water to build that glossy finish. Serve immediately."
 ---

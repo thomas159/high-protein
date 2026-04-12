@@ -4,7 +4,7 @@ slug: "air-fryer-pizza-tortilla-wrap"
 meta: {
   seoMetaDescription: "Hit that pizza craving fast! The quickest, crispiest 15-minute air fryer tortilla pizza gives you a low-calorie crunch. Minimal prep, maximum flavour."
 }
-description: "A flour tortilla is a fantastic, lightweight framework for your pizza toppings. It crisps up beautifully under the intense heat of the air fryer, delivering the quickest, crispiest 15-minute pizza. Minimal prep, maximum flavour, and it saves you enough calories to easily justify a post-workout drink."
+description: "A flour tortilla is a fantastic, lightweight framework for your pizza toppings. It crisps up beautifully under the intense heat of the air fryer, delivering the quickest, crispiest 15-minute pizza.<br><br>Minimal prep, maximum flavour, and it saves you an easy 300 calories. Tested multiple times to balance the moisture of the pesto and tomatoes, ensuring the thin base stays rigid instead of collapsing into a soggy mess."
 blurb: []
 tipsTitle: "Pro Tip"
 tips: 
@@ -59,7 +59,7 @@ steps:
     image: "air-fryer-pizza-tortilla-wrap-step-1_obvimo"
   - text: "Layer your fresh ingredients carefully to ensure an even cook. Distribute the mozzarella slices evenly. Scatter the halved cherry tomatoes (cut-side up to prevent sogginess) and the thinly sliced onions."
     image: "air-fryer-pizza-tortilla-wrap-step-2_ibfuma"
-  - text: "Cook for around 6–8 minutes. The edges of the tortilla should be a deep golden brown and the mozzarella should be bubbling with small golden spots."
+  - text: "Cook for around 6–8 minutes. The edges of the tortilla should be a deep golden brown and shatter slightly when tapped, while the mozzarella should be bubbling with small golden spots."
     image: "air-fryer-pizza-tortilla-wrap-step-4_djmleg"
   - text: "Remove from the air fryer or oven and let it sit on the tray for 1 minute. This brief rest allows the tortilla to fully crisp up so it can be sliced without folding."
 ---

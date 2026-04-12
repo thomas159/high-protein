@@ -4,7 +4,7 @@ slug: "healthy-oat-banana-muffins"
 meta: {
   seoMetaDescription: "Craving a sweet treat fast? These easy 15-minute fudgy high-protein oat banana muffins deliver. Minimal prep, maximum flavor, and totally macro-balanced!"
 }
-description: "A macro-balanced powerhouse that actually tastes like a proper dessert. **Packing 25g of protein and 138g of clean carbs across the batch**, we've binned the refined flour for oats and Greek yoghurt.<br><br>These easy 15-minute muffins require minimal prep and deliver maximum flavour. Tested 4 times in the air fryer to absolutely nail the moisture lock without drying them out."
+description: "A macro-balanced powerhouse that actually tastes like a proper dessert. **Packing 25g of protein and 138g of clean carbs across the batch**, we've binned the refined flour for oats and Greek yoghurt.<br><br>These easy 15-minute muffins require minimal prep and deliver maximum flavour. Tested multiple times to perfectly balance the dense oat flour against the natural banana moisture, ensuring a fudgy texture that doesn't dry out into ash."
 blurb: []
 image: "healthy-banana-oat-muffins_n0f9xa"
 alt: "Healthy oat banana muffins fresh out of the air fryer"
@@ -56,7 +56,7 @@ faq:
     answer: "Over-mixing activates the starches and turns them tough. Gently fold the wet and dry ingredients until *just* combined."
 
 steps:
-  - "Aggressively mash the banana in a bowl until smooth. Whisk in the egg, Greek yoghurt, honey, and cocoa powder."
+  - "Aggressively mash the banana in a bowl until it forms a smooth, liquid paste with almost no lumps. Whisk in the egg, Greek yoghurt, honey, and cocoa powder."
   - "Gently fold in the oat flour, baking powder, and half the desiccated coconut."
   - "Pour the batter into a small lined dish. Top with the remaining coconut for a toasted finish."
   - "Blast at 180°C for 6-8 minutes in the air fryer. Insert a fork—if it comes out clean, they're done. If it's wet with batter, give them another 2 minutes."

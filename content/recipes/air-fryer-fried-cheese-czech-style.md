@@ -4,7 +4,7 @@ slug: "air-fryer-fried-cheese-czech-style"
 meta: {
   seoMetaDescription: "Craving comfort food? This extra crispy 15-minute air fryer Czech fried cheese gives you a massive gooey block without the oil. Minimal prep, maximum flavor!"
 }
-description: "Authentic Czech Smažený Sýr, completely rebuilt for the air fryer. A thick, gooey block of cheese with an extra crispy 15-minute shell. The double breading acts as structural armour so the cheese doesn't leak.<br><br>Minimal prep, maximum flavour, massive protein, and zero deep-frying mess. Tested across multiple air fryers to ensure the cheese pull is elite every single time."
+description: "Authentic Czech Smažený Sýr, completely rebuilt for the air fryer. A thick, gooey block of cheese with an extra crispy 15-minute shell. The double breading acts as structural armour so the cheese doesn't leak.<br><br>Minimal prep, maximum flavour, massive protein (33g per serving), and zero deep-frying mess. Tested repeatedly to perfect the double-breading ratio, ensuring a rigid structural crust that holds the molten cheese without leaking."
 blurb: []
 image: "fried-cheese-czech-style_im1uqu"
 alt: "Crispy Air Fryer Czech Fried Cheese (Smažený Sýr) on a plate"

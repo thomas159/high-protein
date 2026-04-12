@@ -4,7 +4,7 @@ slug: "kim-chi-fried-rice"
 meta: {
   seoMetaDescription: "Need a spicy recovery meal fast? The quickest, crispiest 15-minute spicy kimchi fried rice delivers smoky umami punch. Minimal prep, maximum flavor!"
 }
-description: "The ultimate recovery meal when you need serious flavour fast. **Delivering 13g of protein for 404 kcal**, aged kimchi brings instant fermented tang and umami to the pan.<br><br>Minimal prep, maximum flavour, and a high-heat sear delivers the quickest, crispiest 15-minute edges. Tested with both fresh and day-old rice to guarantee the perfect pan-fried crunch."
+description: "The ultimate recovery meal when you need serious flavour fast. **Delivering 13g of protein for 404 kcal**, aged kimchi brings instant fermented tang and umami to the pan.<br><br>Minimal prep, maximum flavour, and a high-heat sear delivers the quickest, crispiest 15-minute edges. Tested multiple times to balance the fiery gochujang and sharp kimchi juice against the rich egg yolk, ensuring a perfectly rounded heat."
 blurb: []
 image: "kim-chi-fried-rice_a4xo6n"
 alt: "Kimchi fried rice topped with a fried egg"
@@ -62,6 +62,6 @@ faq:
 steps:
   - "Get your oil smoking in a large wok. Toss in the garlic, veg, and kimchi. Stir-fry for 3-4 minutes to caramelise the kimchi."
   - "Push everything to the edges. Crack the egg into the centre and scramble aggressively. Fold the veg back in when the egg is mostly cooked."
-  - "Drop the rice in. Hit it with sesame oil, soy sauce, and gochujang. Blast the heat. Press the rice firmly into the pan for 30 seconds, then toss. Repeat to build those elite crispy edges. If you constantly stir, it will steam instead of crisp."
+  - "Drop the rice in. Hit it with sesame oil, soy sauce, and gochujang. Blast the heat. Press the rice firmly into the pan for 30 seconds to force a deep, caramelised crust to form, then toss. Repeat to build those elite crispy edges. If you constantly stir, it will steam into a soggy mess instead of crisping."
   - "Pull it off the heat. Garnish it with toasted sesame seeds and spring onions."
 ---

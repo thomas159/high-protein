@@ -4,7 +4,7 @@ slug: "spicy-korean-tofu-marinade"
 meta: {
   seoMetaDescription: "Bold heat fast! This easy 35-minute sticky & spicy Korean gochujang tofu marinade is fiery vegan protein. Minimal prep, maximum flavor."
 } 
-description: "A fiery, fermented Korean marinade featuring Gochujang, soy sauce, and sesame. Perfect for sticky, charred air-fryer tofu. This easy 35-minute marinade hits your tastebuds like a one-rep max. Minimal prep, maximum flavour, and it makes hitting your daily plant-based protein targets an absolute breeze."
+description: "A fiery, fermented Korean marinade featuring Gochujang, soy sauce, and sesame. Perfect for sticky, charred air-fryer tofu. This easy 35-minute marinade hits your tastebuds like a one-rep max.<br><br>Minimal prep, maximum flavour, and it makes hitting your daily 24g of plant-based protein an absolute breeze. Tested repeatedly to perfectly balance the fiery gochujang heat with the sweet sugar and sharp vinegar."
 image: "spicy-korean-tofu-marinade_dbsui8"
 alt: "Spicy Korean marinated tofu pieces"
 pintrest: ""
@@ -66,7 +66,7 @@ steps:
   - "Wrap the tofu in a towel and crush it under a heavy weight for 15 minutes. Discard the excess water so the marinade can penetrate."
   - "Whisk the ketchup, sugar, gochujang, soy sauce, vinegar, garlic, ginger, sesame oil, and a pinch of salt."
   - "Cube the tofu into 2cm blocks and aggressively toss in the marinade. Let it sit for 30 minutes."
-  - "Air Fry at 180°C for 6-10 minutes, shaking halfway. Or pan-fry until you hit a charred, sticky crust."
+  - "Air Fry at 180°C for 6-10 minutes, shaking halfway. Or pan-fry until you hit a charred, sticky crust. Watch it closely in the final minutes—the high sugar content will turn it from a glossy lacquer to burnt ash very quickly."
   - "Top it with toasted sesame seeds and fresh spring onions to cut the heat."
 
 ---

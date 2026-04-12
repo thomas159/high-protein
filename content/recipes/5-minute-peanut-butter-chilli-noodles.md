@@ -4,7 +4,7 @@ slug: "5-minute-peanut-butter-chilli-noodles"
 meta: {
   seoMetaDescription: "Need dinner in a flash? These quick 5-minute ultra-creamy peanut butter chilli noodles deliver spicy vegan protein. Minimal prep, maximum flavor."
 } 
-description: "A brilliant balance of heavy peanut butter fats and sharp chilli heat. Using the starchy noodle water emulsifies the sauce instantly, giving you quick 5-minute ultra-creamy noodles.<br><br>Minimal prep, maximum flavour, and raw ginger provides a punchy, anti-inflammatory kick. My go-to rapid prep meal, tested endlessly with different nut butters to nail the perfect viscosity."
+description: "A brilliant balance of heavy peanut butter fats and sharp chilli heat. Using the starchy noodle water emulsifies the sauce instantly, giving you quick 5-minute ultra-creamy noodles.<br><br>Minimal prep, maximum flavour, and raw ginger provides a punchy, anti-inflammatory kick. My go-to rapid prep meal, tested endlessly to balance the sharp rice wine vinegar against the heavy peanut fats, ensuring a bright, punchy viscosity."
 image: "5-minute-peanut-butter-chilli-noodle_getziq"
 alt: "5-Minute Peanut Butter Chilli Noodles in a bowl"
 categories: ["5-minute-meals", "vegan", "high-protein"]
@@ -63,7 +63,7 @@ faq:
 
 steps:
   - "Boil the noodles. Drain, but strictly reserve a splash of the starchy cooking water. This is the glue for your sauce."
-  - "In a bowl, aggressively whisk the peanut butter, soy sauce, agave, garlic, ginger, and chilli oil. If it looks like concrete, whisk in the hot noodle water a splash at a time until it turns glossy."
+  - "In a bowl, aggressively whisk the peanut butter, soy sauce, agave, garlic, ginger, and chilli oil. If it looks like concrete, whisk in the hot noodle water a splash at a time until it turns into a thick, glossy syrup that pours smoothly."
   - "Get the sesame oil in a wok over low heat. Toss in the noodles to coat."
   - "Pour the peanut sauce over the noodles in the wok. Stir-fry for 1-2 minutes until the glaze clings to every single strand."
   - "Serve immediately. Garnish heavily with spring onions, sesame seeds, and a squeeze of lime."

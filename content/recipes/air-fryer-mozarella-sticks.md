@@ -4,7 +4,7 @@ slug: "air-fryer-mozarella-sticks"
 meta: {
   seoMetaDescription: "Skip the shop-bought rubbish. These ultimate extra crispy air fryer mozzarella sticks deliver a massive cheese pull in just 45 minutes. Minimal prep, maximum flavour!"
 }
-description: "Skip the frozen options. The double-breading on these mozzarella sticks locks the cheese inside, preventing any messy leaks in your air fryer basket.<br><br>You get the ultimate extra crispy crunch and a massive cheese pull in just 45 minutes. Tested 5 times in a Ninja air fryer—skipping the freezer step guarantees a total blowout."
+description: "Skip the frozen options. The double-breading on these mozzarella sticks locks the cheese inside, preventing any messy leaks in your air fryer basket.<br><br>Packing 10g of protein for 289 kcal, you get the ultimate extra crispy crunch and a massive cheese pull in just 45 minutes. Tested multiple times to nail the exact double-breading thickness and spice ratio to prevent blowouts."
 image: "air-fryer-mozarella-sticks_oiud1f"
 alt: "Crispy air fryer mozzarella sticks with a cheese pull"
 pintrest: ""
@@ -70,6 +70,6 @@ steps:
   - text: "Dunk the floured stick into the egg, then roll in breadcrumbs. Repeat this step. This double-wall armour is mandatory. If you leave gaps in the breading, the cheese will explode into a puddle."
     image: "air-fryer-mozarella-sticks-3-1_y7ulkv"
   - text: "Set the breaded sticks in the freezer for at least 30 minutes. This drops the core temp so the shell cooks before the centre liquefies."
-  - text: "Space the frozen sticks evenly. Blast at 200°C for 5–8 minutes. Pull them the exact second the crust is golden and you see a tiny hint of cheese trying to escape."
+  - text: "Space the frozen sticks evenly. Blast at 200°C for 5–8 minutes. Pull them the exact second the crust turns deep golden-brown and you see a tiny hint of cheese bubbling to escape. If they sit too long, they will collapse."
     image: "air-fryer-mozarella-sticks-step-4-1_lpj3gg"
 ---

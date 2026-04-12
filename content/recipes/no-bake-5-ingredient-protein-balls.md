@@ -4,7 +4,7 @@ slug: "no-bake-5-ingredient-protein-balls"
 meta: {
   seoMetaDescription: "Pre-workout fuel? These easy 5-minute fudgy no-bake protein energy balls are the ultimate healthy meal-prep snack. Minimal prep, maximum flavor!"
 } 
-description: "Fuel your training block with these easy 5-minute fudgy protein balls. Packed with healthy fats from peanut butter and slow-digesting carbs from oats, they perfectly trap your protein powder without needing an oven. Minimal prep, maximum flavour, and the ultimate grab-and-go snack for a rapid pre-workout boost."
+description: "Fuel your training block with these easy 5-minute fudgy protein balls. Packed with healthy fats from peanut butter and slow-digesting carbs from oats, they perfectly trap your protein powder without needing an oven.<br><br>Minimal prep, maximum flavour, and the ultimate grab-and-go snack. Tested multiple times to dial in the exact binder ratio, ensuring they stay fudgy and cohesive without turning into a dry, powdery mess."
 image: "no-bake-5-ingredient-protein-balls_kvwhmm"
 alt: "No-bake 5 ingredient protein balls stacked together"
 pintrest: ""
@@ -59,7 +59,7 @@ faq:
     answer: "Yes, just ensure you buy certified gluten-free oats to avoid cross-contamination."
 
 steps:
-  - "Mix the oats, nut butter, banana, milk, and protein powder into a bowl. Mix aggressively until a thick dough forms."
+  - "Mix the oats, nut butter, banana, milk, and protein powder into a bowl. Mix aggressively for 1-2 minutes until a thick, cohesive dough forms that holds its shape when squeezed. If it crumbles, add a tiny splash of milk."
   - "Take a tablespoon of the mix and roll it firmly between your palms into a ball. Or flatten them into discs."
   - "If it's too sticky to handle, fridge the bowl for 10 minutes to solidify the fats."
 ---

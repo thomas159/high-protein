@@ -4,7 +4,7 @@ slug: "chocolate-orange-ninja-creami-ice-cream"
 meta: {
   seoMetaDescription: "60g protein hit! The ultimate ultra-creamy chocolate orange Ninja Creami is a guilt-free, macro-friendly masterpiece. Minimal prep, maximum flavor."
 } 
-description: "Over 60g of protein disguised as a decadent chocolate orange dessert. Using the Ninja Creami turns this macro-friendly mix of whey and cocoa into the ultimate ultra-creamy gelato-like dream. Minimal prep, maximum flavour, and the absolute cheat code for hitting your targets without eating another dry chicken breast."
+description: "Over 60g of protein disguised as a decadent chocolate orange dessert. Using the Ninja Creami turns this macro-friendly mix of whey and cocoa into the ultimate ultra-creamy gelato-like dream.<br><br>Minimal prep, maximum flavour, and the absolute cheat code for hitting your targets. Tested endlessly to nail the exact ratio of cocoa to fresh orange zest, preventing it from tasting like artificial medicine."
 image: "chocolate-orange-ninja-creami-ice-cream_buvbv2"
 alt: "Chocolate orange protein ice cream in a Ninja Creami pint"
 pintrest: ""
@@ -66,7 +66,7 @@ faq:
     answer: "Whey or a whey/casein blend delivers the best texture. 100% isolates can freeze a bit icy."
 
 steps:
-  - "Add the milk, whey, cocoa, orange juice, zest, honey, vanilla, and salt into a shaker. Shake violently until completely smooth."
+  - "Add the milk, whey, cocoa, orange juice, zest, honey, vanilla, and salt into a shaker. Shake violently for 30 seconds until completely smooth with no visible powder lumps."
   - "Pour the mix into the Creami pint. Do not cross the 'Max Fill' line."
   - "Freeze on a perfectly flat surface for 24 hours. A slanted freeze will wreck the machine."
   - "Lock the frozen pint into the Creami outer bowl."

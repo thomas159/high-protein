@@ -4,7 +4,7 @@ slug: "15-minute-cherry-tomato-and-courgette-risotto"
 meta: {
   seoMetaDescription: "Want risotto fast? This easy 15-minute ultra-creamy microwave courgette risotto is the ultimate high-carb recovery meal. Minimal prep, maximum flavor!"
 }
-description: "A proper Italian risotto usually requires standing over a hot stove stirring for 40 minutes. We intentionally choose this microwave hack because saving time and hitting macros is our ultimate priority over culinary tradition.<br><br>Minimal prep, maximum flavour, and loaded with fresh courgette. Tested twice to nail the exact liquid absorption ratio so it doesn't turn into a watery soup."
+description: "A proper Italian risotto usually requires standing over a hot stove stirring for 40 minutes. We intentionally choose this microwave hack because saving time and hitting macros is our ultimate priority over culinary tradition.<br><br>Minimal prep, maximum flavour, and loaded with fresh courgette. Tested multiple times to nail the exact liquid absorption ratio and balance the acidic tomatoes against the rich parmesan, preventing it from turning into a bland, watery soup."
 blurb: []
 image: "15-minute-cherry-tomato-and-courgette-risotto_1_lsbbrh"
 alt: "15-minute cherry tomato and courgette risotto in a bowl"
@@ -61,5 +61,5 @@ steps:
   - "Pour in the veg stock. Microwave for 13 minutes, stirring at the halfway point. You want a wet, slightly soupy finish. If it’s a solid block, add a splash of boiling water."
   - "While the microwave runs, melt the butter and a splash of oil in a pan. Sauté the garlic and tomatoes for 5 minutes until jammy. Stir in the grated courgette for another 3 minutes."
   - "Pull the bowl from the microwave. Fold the veg, remaining butter, and parmesan straight into the rice."
-  - "Stir aggressively for 60 seconds. This physical agitation forces the starches out, setting the glossy finish. Let it rest for 1 minute before eating."
+  - "Stir aggressively for 60 seconds. This physical agitation forces the starches out, building a thick, glossy sauce that aggressively clings to the grains. If it looks dry, add a splash of boiling water. Let it rest for 1 minute before eating."
 ---
