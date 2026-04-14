@@ -5,7 +5,7 @@ description: "When the post-training hunger hits, you need rapid solutions, not 
 image: "high-protein-air-fryer-apple-crumble_plgb9p"
 recipes:
   - slug: "5-minute-air-fryer-nachos"
-    text: "Forget the microwave. If you want a massive pile of crispy tortilla chips drowning in melted cheddar, the air fryer does it in five minutes flat. The perfect high-volume snack to smash while watching the weekend fixtures."
+    text: "Forget the microwave. If you want a massive pile of crispy tortilla chips drowning in melted cheddar, the air fryer does it in five minutes flat. The perfect high-volume snack to enjoy while watching the weekend fixtures."
   - slug: "air-fryer-mozarella-sticks"
     text: "A brilliant trick for getting that deep-fried restaurant starter vibe right in your kitchen. Coating your own cheese means you control the macros, and the circulating heat gives you an epic cheese pull with just a quick spray of olive oil."
   - slug: "air-fryer-pizza-tortilla-wrap"
@@ -13,5 +13,4 @@ recipes:
   - slug: "healthy-oat-banana-muffins"
     text: "Air fryers aren't just for chips. You can knock out a batch of these dense, chocolatey muffins in 15 minutes. Packed with complex carbs and protein, they are my absolute go-to fuel before a heavy lifting session."
   - slug: "high-protein-air-fryer-apple-crumble"
-    text: "Craving a classic British pud but need to hit your protein target before bed? Throwing some diced apple and a protein-oat crumble mix into a ramekin is a game-changer. The air fryer creates a golden, crunchy lid in minutes."
----
+    text: "Craving a classic British dessert but need to hit your protein target before bed? Throwing some diced apple and a protein-oat crumble mix into a ramekin is a game-changer. The air fryer creates a golden, crunchy lid in minutes."
