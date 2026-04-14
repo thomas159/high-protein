@@ -72,3 +72,4 @@ steps:
   - "While the tofu fries, vigorously whisk the soy sauce, sugar, gochujang, sesame oil, rice vinegar, ketchup, minced garlic, and water in a small bowl until completely smooth."
   - "Once the tofu is rigid and crispy, pour the sauce directly into the pan. Let it bubble and vigorously simmer for 1-2 minutes. The sugars will violently caramelise and thicken into a glossy lacquer. Toss constantly so every piece is coated."
   - "Kill the heat immediately before the sugar burns to ash. Garnish heavily with sliced spring onions and toasted sesame seeds, then serve."
+---
