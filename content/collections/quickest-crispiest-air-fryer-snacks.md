@@ -14,3 +14,4 @@ recipes:
     text: "Air fryers aren't just for chips. You can knock out a batch of these dense, chocolatey muffins in 15 minutes. Packed with complex carbs and protein, they are my absolute go-to fuel before a heavy lifting session."
   - slug: "high-protein-air-fryer-apple-crumble"
     text: "Craving a classic British dessert but need to hit your protein target before bed? Throwing some diced apple and a protein-oat crumble mix into a ramekin is a game-changer. The air fryer creates a golden, crunchy lid in minutes."
+---
