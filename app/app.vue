@@ -1,4 +1,5 @@
 <script setup lang="ts">
+import { SpeedInsights } from '@vercel/speed-insights/next';
 /**
  * APP CONFIG & ANALYTICS
  */
@@ -71,7 +72,7 @@ useSeoMeta({
           </div>
         </div>
       </ClientOnly>
-
+      <SpeedInsights />
     </NuxtLayout>
   </UApp>
 </template>
