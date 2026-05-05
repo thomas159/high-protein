@@ -57,7 +57,7 @@ useSeoMeta({
         </div>
 
         <!-- Image -->
-        <NuxtLink :to="`/recipes/${item.recipe.slug}`" class="w-full md:w-2/5 shrink-0 h-64 md:h-auto rounded-2xl overflow-hidden relative block">
+        <NuxtLink :to="`/recipes/${item.recipe.slug}`" :aria-label="item.recipe.title" class="w-full md:w-2/5 shrink-0 h-64 md:h-auto rounded-2xl overflow-hidden relative block">
           <Img :src="item.recipe.image" :alt="item.recipe.alt" class="w-full h-full object-cover transition-transform duration-700 hover:scale-105" />
         </NuxtLink>
 
