@@ -2,6 +2,7 @@
 // import tailwindcss from "@tailwindcss/vite";
 
 export default defineNuxtConfig({
+  sourcemap: false,
   compatibilityDate: '2024-11-01',
   devtools: { enabled: true },
 
@@ -116,6 +117,15 @@ export default defineNuxtConfig({
   vite: {
     server: {
       allowedHosts: ['localhost', '.dev'],
+    },
+    build: {
+      sourcemap: false,
+      rollupOptions: {
+        onwarn(warning, warn) {
+          if (warning.plugin === '@tailwindcss/vite:generate:build' && warning.message.includes('Sourcemap is likely to be incorrect')) return
+          warn(warning)
+        }
+      }
     },
   },
   i18n: {
