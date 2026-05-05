@@ -30,8 +30,8 @@ export default defineNuxtConfig({
   // Site Configuration
   site: {
     url: 'https://www.hotrecipes.co.uk',
-    name: 'Spicy & Healthy Recipes',
-    description: 'Quick, low-calorie meals for busy weeknights.',
+    name: 'Hot Recipes',
+    description: 'Quick, tasty, and high-protein vegetarian and vegan recipes designed to fuel your goals without sacrificing flavor.',
     defaultLocale: 'en',
     trailingSlash: false,
   },
