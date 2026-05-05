@@ -23,7 +23,7 @@ const toggleTheme = () => {
   <nav class="relative container border-b border-border">
     <div class="mx-auto px-4 py-2 flex items-center justify-between">
       
- <NuxtLink to="/" class="block w-[200px]">
+ <NuxtLink to="/" class="block w-[200px]" aria-label="Homepage">
   <img
     src="/images/logo.avif"
     alt="Logo"

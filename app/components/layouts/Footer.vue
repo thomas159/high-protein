@@ -27,7 +27,7 @@ const footerLinks = {
       <div class="grid grid-cols-1 md:grid-cols-4 gap-8">
         
         <div class="col-span-1 md:col-span-1">
-          <NuxtLink to="/" class="text-xl font-bold text-foreground flex items-center gap-2">
+          <NuxtLink to="/" class="text-xl font-bold text-foreground flex items-center gap-2" aria-label="Homepage">
             <span class="text-emerald-500 italic">{{ appConfig.siteName }}</span>
           </NuxtLink>
           <p class="mt-4 text-sm text-muted-foreground leading-relaxed">
