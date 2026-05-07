@@ -50,7 +50,7 @@ ingredients:
   - { item: "Vanilla whey protein powder", amount: 60, unit: "g" }
   - { item: "Honey", amount: 25, unit: "g" }
   - { item: "Vanilla extract", amount: 1, unit: "tsp" }
-  - { item: "Dark rum", type: "for soaking", amount: 75, unit: "ml" }
+  - { item: "Dark rum", type: "for soaking raisins", amount: 75, unit: "ml" }
   - { item: "Dark rum", type: "for ice cream base", amount: 25, unit: "ml" }
   - { item: "Raisins", amount: 50, unit: "g" }
 
