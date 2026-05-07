@@ -42,10 +42,10 @@ prepTimeMins: 5
 cookTimeMins: 5
 servings: 1
 macros:
-  calories: 354
-  carbs: 77
-  protein: 9
-  fat: 3
+  calories: 594
+  carbs: 84
+  protein: 53
+  fat: 7
 ingredients:
   - { item: "Banana", type: "ripe", amount: 200, unit: "g" }
   - { item: "Low fat milk", amount: 200, unit: "ml" }
