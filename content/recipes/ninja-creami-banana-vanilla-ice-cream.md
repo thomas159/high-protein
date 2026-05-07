@@ -26,6 +26,7 @@ use:
   - "Pre-Workout: Highly effective to stock up glycogen stores before a heavy session."
 rating: 
 variations:
+  - "Double Banana Hit: Swap the vanilla whey protein powder for banana-flavoured whey to massively amplify the banana profile."
   - "Peanut Butter Swirl: Core the centre after spinning and drop in a dollop of smooth peanut butter."
   - "Choc-Chip: Fold in dark chocolate chips during the mix-in phase."
 reviews: 
