@@ -52,7 +52,7 @@ ingredients:
   - { item: "Vanilla extract", amount: 1, unit: "tsp" }
   - { item: "Dark rum", type: "for soaking raisins", amount: 75, unit: "ml" }
   - { item: "Dark rum", type: "for ice cream base", amount: 25, unit: "ml" }
-  - { item: "Raisins", amount: 50, unit: "g" }
+  - { item: "Raisins", amount: 60, unit: "g" }
 
 faq:
   - question: "Do I have to use Xanthan gum?"
