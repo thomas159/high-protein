@@ -1,17 +1,17 @@
 ---
-title: "The Ultimate Ultra-Creamy Rum and Raisin Ninja Creami"
+title: "The Ultimate Ultra-Creamy Rum and Raisin Ninja Creami (Malaga)"
 slug: "ninja-creami-rum-and-raisin-ice-cream"
 meta: {
   seoMetaDescription: "An ultra-creamy rum and raisin Ninja Creami. Minimal prep, a proper British pudding flavour, and a massive 66g protein hit."
 }
-description: "A velvety, boozy rum and raisin dessert in freezing cold ice cream form. Using the Ninja Creami turns this macro-friendly mix of low-fat milk, vanilla whey, dark rum, and soaked raisins into an ultra-creamy dream.<br><br>Minimal prep, maximum flavour, and the absolute cheat code for hitting your targets. Tested endlessly to nail the exact rum ratio so it tastes like a premium old-school British classic, but packed with protein to support your gains."
+description: "A velvety, boozy rum and raisin dessert (also known across Europe as Malaga) in freezing cold ice cream form. Using the Ninja Creami turns this macro-friendly mix of low-fat milk, vanilla whey, dark rum, and soaked raisins into an ultra-creamy dream.<br><br>Minimal prep, maximum flavour, and the absolute cheat code for hitting your targets. Tested endlessly to nail the exact rum ratio so it tastes like a premium old-school British classic, but packed with protein to support your gains."
 image: "ninja-creami-rum-and-raisin"
 alt: "Rum and raisin protein ice cream in a Ninja Creami pint"
 pintrest: ""
 categories: ["dessert", "high-protein", "snacks"]
 tags: ["easy", "high protein"]
 cuisine: "British"
-keywords: ["ninja creami", "rum and raisin", "protein ice cream", "healthy dessert", "easy", "boozy"]
+keywords: ["ninja creami", "rum and raisin", "protein ice cream", "healthy dessert", "easy", "boozy", "malaga"]
 tipsTitle: "Creami Mechanics"
 tips:
   - "Patience is Mandatory: Freeze the pint completely level for 24 hours. A slanted freeze will destroy your Creami blade."
@@ -50,7 +50,7 @@ ingredients:
   - { item: "Vanilla whey protein powder", amount: 60, unit: "g" }
   - { item: "Honey", amount: 25, unit: "g" }
   - { item: "Vanilla extract", amount: 1, unit: "tsp" }
-  - { item: "Dark rum", amount: 25, unit: "ml" }
+  - { item: "Dark rum", amount: 125, unit: "ml" }
   - { item: "Raisins", type: "soaked in rum", amount: 50, unit: "g" }
 
 faq:
