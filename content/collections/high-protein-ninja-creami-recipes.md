@@ -1,0 +1,21 @@
+---
+title: "The Ultimate High-Protein Ninja Creami Recipes"
+slug: "high-protein-ninja-creami-recipes"
+description: "Stop wasting your macros on generic supermarket tubs and suffering through powdery protein puddings. The Ninja Creami is the ultimate cheat code for hitting your daily targets without feeling miserable. Here are my top high-protein Creami recipes. Minimal prep, serious volume, and exactly the velvet texture you'd expect from a premium gelato, all engineered to support your gains."
+image: "ninja-creami-salted-peanut-butter-ice-cream_ct82q9"
+recipes:
+  - slug: "ninja-creami-salted-peanut-butter-ice-cream"
+    text: "A ridiculous 74g of protein disguised as a salty-sweet, premium ice cream. Using peanut butter powder gives you the ultimate ultra-creamy structure without completely blowing out your daily fat limits."
+  - slug: "chocolate-orange-ninja-creami-ice-cream"
+    text: "Over 60g of protein engineered into a decadent chocolate orange dessert. We balance the cocoa with fresh orange zest so it tastes like a proper British treat, not artificial medicine."
+  - slug: "ninja-creami-apple-cinnamon-ice-cream"
+    text: "A massive 56g of protein masquerading as a warm, spiced apple pie in freezing cold ice cream form. Stewing the apples first is the secret to unlocking the natural pectin and avoiding icy shards."
+  - slug: "ninja-creami-rum-and-raisin-ice-cream"
+    text: "An elite 66g protein hit with a proper pub-style flavour profile. The dark rum naturally lowers the freezing point, giving you an exceptionally soft, scoopable texture straight out of the machine."
+  - slug: "ninja-creami-coconut-ice-cream"
+    text: "A velvety, tropical fix packing 49g of protein. We use carton coconut milk instead of the heavy canned stuff to keep the fats low while the whey binds it all into an ultra-creamy dream."
+  - slug: "ninja-creami-banana-vanilla-ice-cream"
+    text: "The perfect pre-workout carb load. Ripe bananas provide natural starches to bind the ice cream and deliver a massive hit of fast-digesting sweet fuel before a heavy session."
+  - slug: "ninja-creami-chocolate-ice-cream"
+    text: "The definitive high-protein chocolate base. It's the foundational recipe you need in your freezer at all times—rich, dark, and highly satiating to kill those late-night cravings."
+---

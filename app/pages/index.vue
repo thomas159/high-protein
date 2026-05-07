@@ -17,6 +17,14 @@ const { data: airFryerRecipes } = await useAsyncData('airFryer', () => {
   return queryCollection('recipes').where('categories', 'LIKE', '%air-fryer%').limit(4).all()
 }, { default: () => [] });
 
+const { data: creamiRecipes } = await useAsyncData('creami', () => {
+  return queryCollection('recipes').where('slug', 'LIKE', '%creami%').limit(5).all()
+}, { default: () => [] });
+
+const { data: noodleRecipes } = await useAsyncData('noodles', () => {
+  return queryCollection('recipes').where('slug', 'LIKE', '%noodle%').limit(4).all()
+}, { default: () => [] });
+
 const { data: topCollections } = await useAsyncData('top-collections', () => {
   return queryCollection('collections').all()
 }, { default: () => [] });
