@@ -5,7 +5,7 @@ meta: {
   seoMetaDescription: "An ultra-creamy rum and raisin Ninja Creami. Minimal prep, a proper British pudding flavour, and a massive 66g protein hit."
 }
 description: "A velvety, boozy rum and raisin dessert (also known across Europe as Malaga) in freezing cold ice cream form. Using the Ninja Creami turns this macro-friendly mix of low-fat milk, vanilla whey, dark rum, and soaked raisins into an ultra-creamy dream.<br><br>Minimal prep, maximum flavour, and the absolute cheat code for hitting your targets. Tested endlessly to nail the exact rum ratio so it tastes like a premium old-school British classic, but packed with protein to support your gains."
-image: "ninja-creami-rum-and-raisin"
+image: "ninja-creami-rum-and-raisin-ice-cream_tku2cj"
 alt: "Rum and raisin protein ice cream in a Ninja Creami pint"
 pintrest: ""
 categories: ["dessert", "high-protein", "snacks"]
