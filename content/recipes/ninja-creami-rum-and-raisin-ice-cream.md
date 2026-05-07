@@ -36,7 +36,7 @@ whyTitle: "The Macro Science"
 why:
   - "Macro Friendly: Premium ice cream satisfaction for a fraction of the calories and a massive 66g protein spike."
   - "Customisable: You control every gram of sugar. Perfect for strict cuts."
-  - "Natural Softener: The 25ml of rum not only adds authentic flavour but chemically improves the freeze structure."
+  - "Natural Softener: The dark rum added to the ice cream base not only adds authentic flavour but chemically improves the freeze structure."
 prepTimeMins: 5
 cookTimeMins: 5
 servings: 1
@@ -50,8 +50,9 @@ ingredients:
   - { item: "Vanilla whey protein powder", amount: 60, unit: "g" }
   - { item: "Honey", amount: 25, unit: "g" }
   - { item: "Vanilla extract", amount: 1, unit: "tsp" }
-  - { item: "Dark rum", amount: 125, unit: "ml" }
-  - { item: "Raisins", type: "soaked in rum", amount: 50, unit: "g" }
+  - { item: "Dark rum", type: "for soaking", amount: 100, unit: "ml" }
+  - { item: "Dark rum", type: "for ice cream base", amount: 25, unit: "ml" }
+  - { item: "Raisins", amount: 50, unit: "g" }
 
 faq:
   - question: "Do I have to use Xanthan gum?"
@@ -60,12 +61,12 @@ faq:
     answer: "You can, but soaking them in the dark rum is essential for achieving that authentic plump texture and locking in the intense flavour."
 
 steps:
-  - "Place the raisins in a small bowl and pour over the dark rum. Let them soak for at least 30 minutes to plump up."
-  - "Add the milk, vanilla whey, honey, and vanilla extract into a blender. Blitz aggressively until completely smooth with no lumps."
+  - "Place the raisins in a small bowl and pour over the soaking measure of dark rum. Let them soak for at least 30 minutes to plump up."
+  - "Add the milk, vanilla whey, honey, vanilla extract, and the base measure of dark rum into a blender. Blitz aggressively until completely smooth with no lumps."
   - "Pour the blended mix into the Creami pint. Do not cross the 'Max Fill' line."
   - "Freeze on a perfectly flat surface for 24 hours. A slanted freeze will wreck the machine."
   - "Lock the frozen pint into the Creami outer bowl."
   - "Hit the 'Lite Ice Cream' button and let it run."
   - "If it looks powdery (standard for macro ice creams), add a splash of milk and hit 'Re-spin' to force the creamy texture."
-  - "Hollow out the centre, drop in your rum-soaked raisins (along with any remaining unabsorbed rum), and run the 'Mix-In' program. Demolish immediately."
+  - "Hollow out the centre, drop in your rum-soaked raisins (draining any excess liquid if preferred), and run the 'Mix-In' program. Demolish immediately."
 ---
