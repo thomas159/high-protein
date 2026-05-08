@@ -47,6 +47,10 @@ useSeoMeta({
       </p>
     </header>
 
+    <div v-if="page.body" class="collection-body max-w-3xl mx-auto mb-16 text-lg">
+      <ContentRenderer :value="page" />
+    </div>
+
     <!-- Listicle layout for rich content -->
     <div class="space-y-12">
       <div v-for="item in collectionItems" :key="item.slug" class="relative flex flex-col md:flex-row gap-6 md:gap-8 bg-card rounded-3xl border border-border p-4 md:p-6 shadow-sm hover:shadow-md transition-shadow">
@@ -91,3 +95,54 @@ useSeoMeta({
     <NuxtLink to="/" class="text-emerald-500 hover:underline">Return home</NuxtLink>
   </div>
 </template>
+
+<style scoped>
+.collection-body :deep(h2) {
+  font-size: 1.875rem;
+  line-height: 2.25rem;
+  font-weight: 700;
+  color: var(--color-foreground);
+  margin-top: 2.5rem;
+  margin-bottom: 1.25rem;
+}
+
+.collection-body :deep(h3) {
+  font-size: 1.5rem;
+  line-height: 2rem;
+  font-weight: 600;
+  color: var(--color-foreground);
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+.collection-body :deep(p) {
+  margin-bottom: 1.25rem;
+  line-height: 1.75;
+  color: var(--color-muted-foreground);
+}
+
+.collection-body :deep(ol),
+.collection-body :deep(ul) {
+  margin-bottom: 1.5rem;
+  padding-left: 1.5rem;
+  color: var(--color-muted-foreground);
+}
+
+.collection-body :deep(li) {
+  margin-bottom: 0.5rem;
+  line-height: 1.6;
+}
+
+.collection-body :deep(ol) {
+  list-style-type: decimal;
+}
+
+.collection-body :deep(ul) {
+  list-style-type: disc;
+}
+
+.collection-body :deep(strong) {
+  font-weight: 700;
+  color: var(--color-foreground);
+}
+</style>
