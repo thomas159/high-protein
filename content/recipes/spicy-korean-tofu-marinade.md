@@ -14,7 +14,7 @@ cuisine: "Korean"
 keywords: ["tofu marinade", "korean", "spicy", "gochujang", "vegan", "high-protein"]
 tipsTitle: "Gochujang Mechanics"
 tips: 
-  - "The Pressing Step: Tofu is a sponge. Pressing the water out for 15 minutes is mandatory to let the spicy Gochujang reach the core."
+  - "Tofu Prep: Skip the tedious 15-minute press. Check out our [Ultimate Quick Tofu Prep Hacks](/collections/easy-quick-tofu-prep-hacks) to nail the perfect texture before cooking."
   - "Sugar for the Glaze: The sugar isn't just for sweetness—it caramelises violently under heat to build a sticky lacquer."
   - "Heat Management: Gochujang heat varies. Taste the raw marinade and balance with extra ketchup if it's going to blow your head off."
 works:
@@ -63,7 +63,7 @@ faq:
     answer: "30 minutes gets the job done, but leaving it overnight delivers ridiculous, deep flavour."
 
 steps:
-  - "Wrap the tofu in a towel and crush it under a heavy weight for 15 minutes. Discard the excess water so the marinade can penetrate."
+  - "Prep the tofu by either microwaving it in 30-second bursts until dry, but not cooked (approx 4 minutes) or boiling it for 5-10 minutes to force the water out so the marinade can penetrate. See our [Ultimate Quick Tofu Prep Hacks](/collections/easy-quick-tofu-prep-hacks) for the exact methods."
   - "Whisk the ketchup, sugar, gochujang, soy sauce, vinegar, garlic, ginger, sesame oil, and a pinch of salt."
   - "Cube the tofu into 2cm blocks and aggressively toss in the marinade. Let it sit for 30 minutes."
   - "Air Fry at 180°C for 6-10 minutes, shaking halfway. Or pan-fry until you hit a charred, sticky crust. Watch it closely in the final minutes—the high sugar content will turn it from a glossy lacquer to burnt ash very quickly."

@@ -14,6 +14,7 @@ cuisine: "Indian"
 keywords: ["tofu marinade", "garam masala", "indian", "vegan", "high-protein", "spicy", "air-fryer"]
 tipsTitle: "Spice & Char"
 tips:
+  - "Tofu Prep: Check out our [Ultimate Quick Tofu Prep Hacks](/collections/easy-quick-tofu-prep-hacks) to nail the perfect texture before cooking."
   - "Yoghurt Base: For a proper 'tandoori' coating, mix the spices into 2 tablespoons of dairy-free yoghurt."
   - "Spice Blooming: Toast the garam masala in a dry pan for 30 seconds first to violently awaken the aromatics."
   - "Patience Pays Off: 30 minutes works, but overnight in the fridge delivers restaurant-quality depth."
@@ -59,7 +60,7 @@ faq:
     answer: "Mountain of basmati rice, warm naan, and a heavy hit of cucumber raita."
 
 steps:
-  - "Wrap your tofu in a towel and crush it under a heavy weight for 15 minutes. Discard the water so the block can absorb the marinade."
+  - "Prep the tofu by either microwaving it in 30-second bursts until dry, but not cooked (approx 4 minutes) or boiling it for 5-10 minutes to force the water out so the block can absorb the marinade. See our [Ultimate Quick Tofu Prep Hacks](/collections/easy-quick-tofu-prep-hacks) for the exact methods."
   - "Whisk the ginger garlic paste, chilli powder, lime juice, garam masala, and a splash of oil."
   - "Cube the tofu and toss it through. Let it sit for 30 minutes to absorb."
   - "Air Fry at 180°C for 6-10 minutes, shaking halfway. Or pan-fry until charred."

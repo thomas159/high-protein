@@ -14,6 +14,7 @@ cuisine: "Korean"
 keywords: ["korean tofu", "gochujang", "sticky tofu", "vegan", "high-protein", "15-minute", "crispy"]
 tipsTitle: "Crispy Mechanics"
 tips:
+  - "Tofu Prep: Check out our [Ultimate Quick Tofu Prep Hacks](/collections/easy-quick-tofu-prep-hacks) to nail the perfect texture before cooking."
   - "The Cornflour Cheat: Tossing the dried tofu in cornflour is mandatory. It's the absolute cheat code for getting a deep-fried crunch in the pan without the heavy oil."
   - "Sauce Consistency: If the glaze turns to concrete in the pan, violently whisk in a splash of water to resurrect it."
   - "Heat Management: Gochujang heat varies wildly. Taste the raw sauce and balance with an extra pinch of sugar if it's going to blow your head off."
@@ -67,7 +68,7 @@ faq:
     answer: "Traditionally no (contains barley/wheat). Hunt down a specifically labelled gluten-free tub if required."
 
 steps:
-  - "Wrap the tofu in a towel and press firmly to remove excess moisture. Cube it, then toss aggressively in a bowl with the cornflour and a pinch of salt until every piece is evenly coated."
+  - "Prep the tofu by either microwaving it in 30-second bursts until dry, but not cooked (approx 4 minutes) or boiling it for 5-10 minutes (see our [Ultimate Quick Tofu Prep Hacks](/collections/easy-quick-tofu-prep-hacks) for the exact methods). Cube it, then toss aggressively in a bowl with the cornflour and a pinch of salt until every piece is evenly coated."
   - "Heat the grapeseed oil in a pan over medium-high heat. Add the tofu and pan-fry for 5 minutes, turning occasionally, until a shatter-crisp, golden crust forms. If the pan isn't hot enough, the tofu will just absorb the oil."
   - "While the tofu fries, vigorously whisk the soy sauce, sugar, gochujang, sesame oil, rice vinegar, ketchup, minced garlic, and water in a small bowl until completely smooth."
   - "Once the tofu is rigid and crispy, pour the sauce directly into the pan. Let it bubble and vigorously simmer for 1-2 minutes. The sugars will violently caramelise and thicken into a glossy lacquer. Toss constantly so every piece is coated."

@@ -14,6 +14,7 @@ cuisine: "Indian"
 keywords: ["tofu marinade", "tikka", "indian", "vegetarian", "high-protein", "air-fryer", "grilled"]
 tipsTitle: "Marinade Mastery"
 tips: 
+  - "Tofu Prep: Check out our [Ultimate Quick Tofu Prep Hacks](/collections/easy-quick-tofu-prep-hacks) to nail the perfect texture before cooking."
   - "Fresh Aromatics: If you don't have jarred paste, violently mince 1 large garlic clove and an equal amount of fresh ginger."
   - "The Yoghurt Rule: Use full-fat Greek yoghurt (or a thick vegan sub). Watery, low-fat versions will just slide off and burn."
   - "Don't Skimp on Salt: Tofu is notoriously bland internally. A heavy pinch of salt in the marinade is mandatory."
@@ -64,7 +65,7 @@ faq:
     answer: "Absolutely. It's elite on paneer, tempeh, or roasted cauliflower."
 
 steps:
-  - "Wrap the tofu in a towel and crush it under a heavy weight for 15 minutes. Discard the water so the block can absorb the marinade."
+  - "Prep the tofu by either microwaving it in 30-second bursts until dry, but not cooked (approx 4 minutes) or boiling it for 5-10 minutes to force the water out so the block can absorb the marinade. See our [Ultimate Quick Tofu Prep Hacks](/collections/easy-quick-tofu-prep-hacks) for the exact methods."
   - "Whisk the Greek yoghurt, ginger garlic paste, lemon juice, oil, coriander, garam masala, turmeric, and a heavy pinch of salt."
   - "Cube the tofu and toss it aggressively through the marinade. Let it rest for 30 minutes to absorb."
   - "Air Fry at 180°C for 6-10 minutes, shaking halfway. Or pan-fry until charred."

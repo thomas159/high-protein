@@ -14,6 +14,7 @@ keywords: ["tofu marinade", "honey glaze", "asian", "vegetarian", "sweet", "savo
 tags: ["high protein", "air-fryer"]
 tipsTitle: "Marinade Mastery"
 tips:
+  - "Tofu Prep: Check out our [Ultimate Quick Tofu Prep Hacks](/collections/easy-quick-tofu-prep-hacks) to nail the perfect texture before cooking."
   - "Scoring the Block: Lightly score the tofu in a crisscross pattern so the glaze penetrates the core."
   - "Watch the Heat: Honey burns quickly. Monitor the final minutes to get a golden crust, not a charcoal briquette."
   - "Vegan Swap: Swap the honey for maple syrup or agave to keep it 100% plant-based."
@@ -63,7 +64,7 @@ faq:
     answer: "Always. Pressing removes the excess water so it can absorb the glaze like a sponge."
 
 steps:
-  - "Wrap your tofu in a towel and place a heavy weight on it for 15 minutes. Removing the water means the marinade can actually penetrate the block."
+  - "Prep the tofu by either microwaving it in 30-second bursts until dry, but not cooked (approx 4 minutes) or boiling it for 5-10 minutes. Removing the water means the marinade can actually penetrate the block. See our [Ultimate Quick Tofu Prep Hacks](/collections/easy-quick-tofu-prep-hacks) for the exact methods."
   - "Whisk the honey, lemon juice, spices, water, a pinch of salt, and a splash of oil in a bowl."
   - "Cube the tofu and toss it through the marinade. Let it sit for 30 minutes if you have the time."
   - "Air Fry at 180°C for 6-10 minutes, shaking halfway. Or pan-fry until golden."

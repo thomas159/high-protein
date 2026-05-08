@@ -14,8 +14,8 @@ cuisine: "Mexican"
 keywords: ["tofu marinade", "chipotle", "lime", "mexican", "vegan", "high-protein", "air-fryer", "spicy"]
 tipsTitle: "Maximum Flavor"
 tips: 
+  - "Tofu Prep: Skip the tedious 15-minute press. Check out our [Ultimate Quick Tofu Prep Hacks](/collections/easy-quick-tofu-prep-hacks) to nail the perfect texture before cooking."
   - "Adobo Power: Don't just use the chilli. Spoon in the smoky adobo sauce from the tin for a massive, concentrated flavour hit."
-  - "Press and Score: Press the block dry, then lightly score the top. This builds tiny channels for the marinade to infiltrate."
   - "The Citrus Finish: Heat destroys fresh citrus notes. Hit it with a fresh squeeze of lime right before you eat it."
 works:
   - "Acidic Permeation: The low pH of the lime juice attacks the rigid soy protein structure of the tofu. This slight surface breakdown allows the heavy, fat-soluble smoky oils from the chipotle adobo to infiltrate the block rather than just washing off in the pan."
@@ -62,7 +62,7 @@ faq:
     answer: "Absolutely. It's elite tossed over cauliflower florets or sliced peppers before roasting."
 
 steps:
-  - "Wrap your tofu in a towel and press it heavy for 15 minutes. Discard the water so it can absorb the marinade."
+  - "Prep the tofu by either microwaving it in 30-second bursts until dry, but not cooked (approx 4 minutes) or boiling it for 5-10 minutes to force the water out so it can absorb the marinade. See our [Ultimate Quick Tofu Prep Hacks](/collections/easy-quick-tofu-prep-hacks) for the exact methods."
   - "Whisk the lime juice, chopped chipotle, spices, a pinch of salt, and a splash of oil in a bowl."
   - "Cube the tofu and fold it through the marinade. Let it rest for 30 minutes to absorb."
   - "Air Fry at 180°C for 6-10 minutes, shaking halfway. Or pan-fry until charred."
