@@ -183,7 +183,15 @@ const formatText = (text: string) => {
 
   // Regex: ^ matches start of string, [\w\s]+ matches words/spaces, : matches colon
   // The 'gm' flags mean Global and Multiline (checks every new line)
-  return text.replace(/^([^:\n]+:)/gm, '<strong class="text-green-600 dark:text-green-400">$1</strong>')
+  let formatted = text.replace(/^([^:\n]+:)/gm, '<strong class="text-green-600 dark:text-green-400">$1</strong>')
+  
+  // Format markdown links [text](url)
+  formatted = formatted.replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" class="text-emerald-500 hover:underline">$1</a>')
+  
+  // Format bold text **text**
+  formatted = formatted.replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
+  
+  return formatted
 }
 
 useHead({
@@ -274,7 +282,7 @@ useHead({
                 
                 <!-- Check if it is the new object format -->
                 <template v-if="step.text">
-                  <p>{{ step.text }}</p>
+                  <p v-html="formatText(step.text)"></p>
                   <!-- The image will now render directly underneath the text -->
                   <Img 
                     v-if="step.image" 
@@ -286,7 +294,7 @@ useHead({
                 
                 <!-- Fallback for older recipes that use strings -->
                 <template v-else>
-                  <p>{{ step }}</p>
+                  <p v-html="formatText(step)"></p>
                 </template>
                 
               </div>
