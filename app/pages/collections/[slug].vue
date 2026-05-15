@@ -34,6 +34,8 @@ useSeoMeta({
   title: page.value?.title ? `${page.value.title} - ${appConfig.siteName}` : appConfig.siteName,
   description: page.value?.description
 })
+
+const { formatText } = useFormatText()
 </script>
 
 <template>
@@ -42,8 +44,7 @@ useSeoMeta({
       <h1 class="text-4xl md:text-5xl font-bold mb-6 text-foreground">
         {{ page.title }}
       </h1>
-      <p v-if="page.description" class="text-lg text-muted-foreground leading-relaxed max-w-3xl mx-auto">
-        {{ page.description }}
+      <p v-if="page.description" class="text-lg text-muted-foreground leading-relaxed max-w-3xl mx-auto" v-html="formatText(page.description)">
       </p>
     </header>
 
@@ -73,8 +74,7 @@ useSeoMeta({
             </NuxtLink>
           </h2>
           
-          <p class="text-muted-foreground text-lg mb-6 leading-relaxed">
-            {{ item.recipe.description }}
+          <p class="text-muted-foreground text-lg mb-6 leading-relaxed" v-html="formatText(item.recipe.description)">
           </p>
           
           <div class="flex flex-wrap gap-4 items-center text-xs md:text-sm font-bold uppercase tracking-wider text-muted-foreground mb-6 border-y border-border/50 py-3">

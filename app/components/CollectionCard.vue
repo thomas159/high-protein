@@ -11,6 +11,8 @@ export interface Collection {
 const props = defineProps<{
   collection: Collection;
 }>();
+
+const { formatText } = useFormatText()
 </script>
 
 <template>
@@ -23,8 +25,7 @@ const props = defineProps<{
       <h2 class="font-display text-2xl font-extrabold text-foreground mb-3 group-hover:text-green-600 dark:group-hover:text-green-400 leading-tight">
         {{ props.collection.title }}
       </h2>
-      <p class="font-body text-sm text-muted-foreground line-clamp-3 md:line-clamp-4 leading-relaxed">
-        {{ props.collection.description }}
+      <p class="font-body text-sm text-muted-foreground line-clamp-3 md:line-clamp-4 leading-relaxed" v-html="formatText(props.collection.description)">
       </p>
     </div>
 

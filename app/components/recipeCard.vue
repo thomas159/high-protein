@@ -30,6 +30,8 @@ const props = defineProps<{
   recipe: Recipe;
   high?: boolean;
 }>();
+
+const { formatText } = useFormatText()
 </script>
 
 <template>
@@ -57,8 +59,7 @@ const props = defineProps<{
         {{ props.recipe.title }}
       </h2>
       
-      <p class="font-body text-sm text-muted-foreground line-clamp-2 mb-4 leading-relaxed">
-        {{ props.recipe.description }}
+      <p class="font-body text-sm text-muted-foreground line-clamp-2 mb-4 leading-relaxed" v-html="formatText(props.recipe.description)">
       </p>
       
       <div class="mt-auto pt-4 flex items-center justify-between text-[11px] font-bold uppercase tracking-wider text-muted-foreground border-t border-border/50">

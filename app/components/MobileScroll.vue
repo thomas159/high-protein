@@ -23,6 +23,8 @@ const props = defineProps<{
   title?: string; // Optional custom title
   description?: string; // Optional custom description
 }>();
+
+const { formatText } = useFormatText()
 </script>
 
 <template>
@@ -32,8 +34,7 @@ const props = defineProps<{
         <h2 class="font-display text-3xl md:text-5xl font-bold">
           {{ title }}
         </h2>
-        <p v-if="description" class="text-slate-500 text-lg">
-          {{ description }}
+        <p v-if="description" class="text-slate-500 text-lg" v-html="formatText(description)">
         </p>
       </div>
     </div>

@@ -34,6 +34,8 @@ const props = defineProps<{
   recipe: Recipe;
 }>();
 
+const { formatText } = useFormatText()
+
 const scrollToRecipe = () => {
   const element = document.getElementById('howToMake')
   if (element) {
@@ -64,8 +66,7 @@ const scrollToRecipe = () => {
         </Button>
       </div>
 
-      <p class="whitespace-pre-line text-muted-foreground text-base md:text-lg leading-relaxed mb-6">
-        {{ props.recipe.description }}
+      <p class="whitespace-pre-line text-muted-foreground text-base md:text-lg leading-relaxed mb-6" v-html="formatText(props.recipe.description)">
       </p>
 
       <div class="grid grid-cols-4 gap-3 md:gap-4 border-t border-b border-border py-6">

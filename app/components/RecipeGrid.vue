@@ -5,6 +5,8 @@ const { data: recipes } = await useAsyncData(`fries-list`, () =>
     .where('tags', 'contains', props.tags)
     .all()
 )
+
+const { formatText } = useFormatText()
 </script>
 
 <template>
@@ -20,7 +22,7 @@ const { data: recipes } = await useAsyncData(`fries-list`, () =>
       </div>
       <div class="p-4">
         <h3 class="font-bold text-lg text-gray-900">{{ recipe.title }}</h3>
-        <p class="text-sm text-gray-500 line-clamp-2">{{ recipe.description }}</p>
+        <p class="text-sm text-gray-500 line-clamp-2" v-html="formatText(recipe.description)"></p>
       </div>
     </NuxtLink>
   </div>
