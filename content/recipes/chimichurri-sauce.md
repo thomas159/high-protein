@@ -2,9 +2,9 @@
 title: "Quick 5-Minute Zesty Vegan Chimichurri Sauce"
 slug: "chimichurri-sauce"
 meta: {
-  seoMetaDescription: "Upgrade your proteins fast! This quick 5-minute zesty vegan chimichurri sauce balances olive oil and fresh herbs perfectly. Minimal prep, maximum flavor."
+  seoMetaDescription: "Upgrade your proteins fast! This quick 5-minute zesty vegan chimichurri sauce balances olive oil and fresh herbs perfectly."
 }
-description: "The ultimate quick 5-minute flavour hack. Macerating the raw garlic in red wine vinegar removes the harsh bite, perfectly balancing the heavy olive oil and fresh herbs. Minimal prep, maximum flavour, and the perfect zesty Chimichurri to drizzle over grilled seitan or roasted veg for a massive, healthy upgrade."
+description: "The ultimate quick 5-minute flavour hack. Macerating the raw garlic in red wine vinegar removes the harsh bite, perfectly balancing the heavy olive oil and fresh herbs. The perfect zesty Chimichurri to drizzle over grilled seitan or roasted veg for a massive, healthy upgrade."
 blurb: []
 image: 'chimichurri-sauce_2_usinnj'
 alt: "Fresh and vibrant green chimichurri sauce in a small bowl"

@@ -2,9 +2,9 @@
 title: "The Quickest, Crispiest 15-Minute Sticky Korean Tofu"
 slug: "15-minute-crispy-sticky-korean-tofu"
 meta: {
-  seoMetaDescription: "Need a high-protein hit fast? The quickest, crispiest 15-minute sticky Korean tofu delivers fiery gochujang flavor. Minimal prep, maximum flavor."
+  seoMetaDescription: "Need a high-protein hit fast? The quickest, crispiest 15-minute sticky Korean tofu delivers fiery gochujang flavor."
 } 
-description: "**Packing 22g of plant-based protein**, this shatter-crisp tofu is coated in a fiery, sweet gochujang glaze. By drying the tofu properly and utilising cornflour, you get a golden, deep-fried crunch in a pan, delivering the quickest, crispiest 15-minute sticky Korean tofu.<br><br>Minimal prep, maximum flavour, and it makes hitting your daily plant-based targets an absolute breeze. Tested repeatedly to perfectly balance the fiery gochujang heat with the sweet sugar and sharp vinegar, ensuring the glaze thickens into a glossy lacquer without burning."
+description: "**Packing 22g of plant-based protein**, this shatter-crisp tofu is coated in a fiery, sweet gochujang glaze. By drying the tofu properly and utilising cornflour, you get a golden, deep-fried crunch in a pan, delivering the quickest, crispiest 15-minute sticky Korean tofu.<br><br>It makes hitting your daily plant-based targets an absolute breeze. Tested repeatedly to perfectly balance the fiery gochujang heat with the sweet sugar and sharp vinegar, ensuring the glaze thickens into a glossy lacquer without burning."
 image: "15-minute-crispy-sticky-korean-tofu_vu0qlh"
 alt: "15-Minute Crispy Sticky Korean Tofu garnished with sesame seeds"
 pintrest: "sticky-korean-tofu-pintrest_qh2wsc"

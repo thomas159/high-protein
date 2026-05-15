@@ -2,9 +2,9 @@
 title: "The Quickest, Crispiest 15-Minute Microwave Potato Crisps"
 slug: "microwave-crisps"
 meta: {
-  seoMetaDescription: "Craving salty snacks? These quickest, crispiest 15-minute microwave potato crisps hit the spot without ruining your macros. Minimal prep, maximum flavor."
+  seoMetaDescription: "Craving salty snacks? These quickest, crispiest 15-minute microwave potato crisps hit the spot without ruining your macros."
 }
-description: "Crisps don't have to ruin your diet. **Delivering a satisfying volume snack for just 229 kcal**, the microwave aggressively evaporates the moisture right out of the potato slices.<br><br>Minimal prep, maximum flavour, and the quickest, crispiest 15-minute crunch. Tested extensively to find the exact microwave timings that prevent them from turning to ash."
+description: "Crisps don't have to ruin your diet. **Delivering a satisfying volume snack for just 229 kcal**, the microwave aggressively evaporates the moisture right out of the potato slices.<br><br>The quickest, crispiest 15-minute crunch. Tested extensively to find the exact microwave timings that prevent them from turning to ash."
 image: "microwave-crisps_loaj1f"
 alt: "Crunchy microwave potato crisps in a bowl"
 pintrest: ""
@@ -18,7 +18,7 @@ works:
   - "Dielectric Dehydration: The microwave targets and violently agitates the water molecules inside the potato slice. This rapid internal steaming evaporates the moisture so aggressively that the pectin and starch structures lock into a rigid, glass-like shell."
   - "Starch Removal: Soaking pulls out surface starches so they don't fuse together into a gummy mess."
 use:
-  - "Volume Snacking: A completely guilt-free, low-oil fix for your crisp cravings."
+  - "Volume Snacking: A completely macro-friendly, low-oil fix for your crisp cravings."
   - "Dipping Companion: Sturdy enough to handle heavy hummus."
   - "Lunchbox Addition: Effortless crunch for your midday prep."
 cuisine: "American"

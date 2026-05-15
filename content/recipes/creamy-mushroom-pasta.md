@@ -2,9 +2,9 @@
 title: "Easy 25-Minute Ultra-Creamy Garlic Mushroom Pasta"
 slug: "creamy-mushroom-pasta"
 meta: {
-  seoMetaDescription: "Carb reloading? This easy 25-minute ultra-creamy garlic mushroom pasta is an indulgent vegetarian umami bomb. Minimal prep, maximum flavor."
+  seoMetaDescription: "Carb reloading? This easy 25-minute ultra-creamy garlic mushroom pasta is an Dig innt vegetarian umami bomb."
 } 
-description: "A bowl of pure comfort for when you need a serious carb reload. **Delivering 24g of protein and 88g of carbs for 780 kcal**, searing the mushrooms hard creates a deep, meaty umami crust.<br><br>Minimal prep, maximum flavour, and the starchy pasta water emulsifies the parmesan flawlessly. Tested endlessly to perfectly balance the starchy pasta water emulsion against the heavy cream, ensuring it binds into a thick, glossy sauce without splitting."
+description: "A bowl of pure comfort for when you need a serious carb reload. **Delivering 24g of protein and 88g of carbs for 780 kcal**, searing the mushrooms hard creates a deep, meaty umami crust.<br><br>The starchy pasta water emulsifies the parmesan flawlessly. Tested endlessly to perfectly balance the starchy pasta water emulsion against the heavy cream, ensuring it binds into a thick, glossy sauce without splitting."
 image: "creamy-mushroom-pasta_m6794q"
 alt: "Creamy mushroom pasta garnished with fresh herbs"
 categories: ["dinner", "vegetarian", "pasta"]

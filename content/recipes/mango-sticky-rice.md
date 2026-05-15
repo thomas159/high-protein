@@ -2,9 +2,9 @@
 title: "The Ultimate Velvety Thai Mango Sticky Rice"
 slug: "mango-sticky-rice"
 meta: {
-  seoMetaDescription: "Clean carb refeed? The ultimate velvety Thai mango sticky rice is an authentic, macro-friendly 15-minute vegan dessert. Minimal prep, maximum flavor."
+  seoMetaDescription: "Clean carb refeed? The ultimate velvety Thai mango sticky rice is an authentic, macro-friendly 15-minute vegan dessert."
 }
-description: "The ultimate clean-carb refeed. **Delivering 43g of fast-digesting carbs for 353 kcal**, this authentic Mango Sticky Rice relies on a precise 4:1 ratio of coconut infusion to finishing glaze.<br><br>Minimal prep, maximum flavour, and ideal for fuelling your next heavy leg session. Tested relentlessly to perfectly balance the sweet coconut infusion with a sharp pinch of salt, preventing the dessert from becoming cloying."
+description: "The ultimate clean-carb refeed. **Delivering 43g of fast-digesting carbs for 353 kcal**, this authentic Mango Sticky Rice relies on a precise 4:1 ratio of coconut infusion to finishing glaze.<br><br>Ideal for fuelling your next heavy leg session. Tested relentlessly to perfectly balance the sweet coconut infusion with a sharp pinch of salt, preventing the dessert from becoming cloying."
 blurb: []
 image: "mango-sticky-rice_vzh6ec"
 alt: "Authentic Thai Mango Sticky Rice served with coconut sauce"

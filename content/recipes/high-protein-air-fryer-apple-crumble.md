@@ -2,9 +2,9 @@
 title: "Easy 30-Minute Extra Crunchy Air Fryer Apple Crumble"
 slug: "high-protein-air-fryer-apple-crumble"
 meta: {
-  seoMetaDescription: "Muscle-building dessert! This easy 30-minute extra crunchy air fryer apple crumble delivers macro-friendly satisfaction. Minimal prep, maximum flavor."
+  seoMetaDescription: "Muscle-building dessert! This easy 30-minute extra crunchy air fryer apple crumble delivers macro-friendly satisfaction."
 } 
-description: "A post-training dessert that doesn't ruin your diet. Steaming apples sit underneath an easy 30-minute extra crunchy oat topping baked directly in a ramekin in the air fryer. Minimal prep, maximum flavour, zero messy cleanup, perfectly balanced macros, and maximum gains."
+description: "A post-training dessert that doesn't ruin your diet. Steaming apples sit underneath an easy 30-minute extra crunchy oat topping baked directly in a ramekin in the air fryer zero messy cleanup, solid macros, and maximum gains."
 image: "high-protein-air-fryer-apple-crumble_plgb9p"
 alt: "High protein air fryer apple crumble in a ramekin"
 pintrest: ""
@@ -21,9 +21,9 @@ works:
   - "Fat-Protein Binding: Rubbing melted butter or coconut oil into the oats and whey powder creates a hydrophobic coating. This fat layer prevents the dry ingredients from immediately absorbing the steaming apple juice, ensuring the topping bakes into a rigid, crispy crust instead of collapsing into a wet paste."
   - "Macro Engineering: Swapping standard flour for protein powder boosts the macros without ruining the structural integrity of the dessert."
 use:
-  - "Guilt-Free Finisher: An elite dessert to cap off the evening without blowing your deficit."
+  - "macro-friendly Finisher: An elite dessert to cap off the evening without blowing your deficit."
   - "Sweet Fuel: Pair with Greek yoghurt for a massive, fibre-rich morning start."
-  - "Post-Workout: A perfectly balanced hit of carbs and protein."
+  - "Post-Workout: A solid hit of carbs and protein."
 rating: 
 variations:
   - "Berry Mix: Swap half the apples for mixed berries."

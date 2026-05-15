@@ -2,9 +2,9 @@
 title: "Quick 5-Minute Ultra-Creamy Low-Calorie Garlic Sauce"
 slug: "creamy-low-calorie-garlic-sauce"
 meta: {
-  seoMetaDescription: "Need a macro-friendly dip? This quick 5-minute ultra-creamy low-calorie garlic sauce uses Greek yogurt for a rich punch. Minimal prep, maximum flavor."
+  seoMetaDescription: "Need a macro-friendly dip? This quick 5-minute ultra-creamy low-calorie garlic sauce uses Greek yogurt for a rich punch."
 }
-description: "A brilliant low-calorie swap that doesn't taste like diet food. **Clocking in at just 150 kcal with 6g of protein**, using a heavy ratio of Greek yoghurt to mayonnaise slashes the fat.<br><br>Minimal prep, maximum flavour, and a quick 5-minute ultra-creamy texture. Tested multiple times to perfectly balance the sharp raw garlic bite against the tangy Greek yoghurt, so it tastes like a genuine, premium aioli."
+description: "A brilliant low-calorie swap that doesn't taste like diet food. **Clocking in at just 150 kcal with 6g of protein**, using a heavy ratio of Greek yoghurt to mayonnaise slashes the fat.<br><br>A quick 5-minute ultra-creamy texture. Tested multiple times to perfectly balance the sharp raw garlic bite against the tangy Greek yoghurt, so it tastes like a genuine, premium aioli."
 blurb: []
 image: "garlic-sauce_dz8yhf"
 alt: "Creamy low calorie garlic sauce in a small dipping bowl"

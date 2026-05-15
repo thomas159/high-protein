@@ -2,9 +2,9 @@
 title: "The Quickest, Crispiest 5-Minute Air Fryer Nachos"
 slug: "5-minute-air-fryer-nachos"
 meta: {
-  seoMetaDescription: "Need a snack fast? These quickest, crispiest 5-minute air fryer nachos deliver instant, cheesy gratification. Minimal prep, maximum flavour, and zero soggy chips."
+  seoMetaDescription: "Need a snack fast? These quickest, crispiest 5-minute air fryer nachos deliver instant, cheesy gratification. Zero soggy chips."
 }
-description: "Waiting 20 minutes for an oven to preheat when you need a snack is an absolute joke. Delivering a massive 14g of protein per serving, these quickest, crispiest 5-minute air fryer nachos provide instant, cheesy gratification.<br><br>Minimal prep, maximum flavour, and proper layering ensures every bite hits the target. Tested multiple times to dial in the perfect cheese layering ratio so the top melts fully before the base chips burn."
+description: "Waiting 20 minutes for an oven to preheat when you need a snack is an absolute joke. Delivering a massive 14g of protein per serving, these quickest, crispiest 5-minute air fryer nachos provide instant, cheesy gratification.<br><br>Proper layering ensures every bite hits the target. Tested multiple times to dial in the perfect cheese layering ratio so the top melts fully before the base chips burn."
 image: "5-minute-air-fryer-nachos_gf3zzd"
 alt: "5 minute air fryer nachos with melted cheese and tomatoes"
 pintrest: ""

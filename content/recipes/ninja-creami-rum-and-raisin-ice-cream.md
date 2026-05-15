@@ -4,7 +4,7 @@ slug: "ninja-creami-rum-and-raisin-ice-cream"
 meta: {
   seoMetaDescription: "An ultra-creamy rum and raisin Ninja Creami. Minimal prep, a proper British pudding flavour, and a massive 66g protein hit."
 }
-description: "A velvety, boozy rum and raisin dessert (also known across Europe as Malaga) in freezing cold ice cream form. Using the Ninja Creami turns this macro-friendly mix of low-fat milk, vanilla whey, dark rum, and soaked raisins into an ultra-creamy dream.<br><br>Minimal prep, maximum flavour, and the absolute cheat code for hitting your targets. Tested endlessly to nail the exact rum ratio so it tastes like a premium old-school British classic, but packed with protein to support your gains."
+description: "A velvety, boozy rum and raisin dessert (also known across Europe as Malaga) in freezing cold ice cream form. Using the Ninja Creami turns this macro-friendly mix of low-fat milk, vanilla whey, dark rum, and soaked raisins into an ultra-creamy dream.<br><br>The absolute cheat code for hitting your targets. Tested endlessly to nail the exact rum ratio so it tastes like a premium old-school British classic, but packed with protein to support your gains."
 image: "ninja-creami-rum-and-raisin-ice-cream_tku2cj"
 alt: "Rum and raisin protein ice cream in a Ninja Creami pint"
 pintrest: ""
@@ -22,7 +22,7 @@ works:
   - "Structural Matrix: Whey protein acts as an exceptional mechanical binder. When frozen and violently micro-shaved by the Creami blade, it stabilizes the ice crystals in the milk, replicating the dense, velvety mouthfeel of heavy cream."
   - "Flavour Enhancement: Soaking the raisins in the dark rum plumps them up and locks the intense boozy flavour deep inside the fruit, releasing it as you chew."
 use:
-  - "Sweet Fuel: A perfectly balanced hit of protein and carbs disguised as an elite dessert."
+  - "Sweet Fuel: Spot-on macros disguised as a premium dessert."
   - "Late-Night Fix: Highly satiating to kill evening cravings while enjoying a classic pub-style flavour."
 rating: 
 variations:

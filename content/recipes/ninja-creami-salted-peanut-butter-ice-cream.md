@@ -2,9 +2,9 @@
 title: "The Ultimate Ultra-Creamy Salted Peanut Butter Ninja Creami"
 slug: "ninja-creami-salted-peanut-butter-ice-cream"
 meta: {
-  seoMetaDescription: "Over 70g of protein! The ultimate ultra-creamy salted peanut butter Ninja Creami is a guilt-free, salty-sweet dessert. Minimal prep, maximum flavor."
+  seoMetaDescription: "Over 70g of protein! The ultimate ultra-creamy salted peanut butter Ninja Creami is a macro-friendly, salty-sweet dessert."
 } 
-description: "A ridiculous 74g of protein disguised as a salty-sweet, premium ice cream. Using peanut butter powder and whey creates the ultimate ultra-creamy structure without the heavy fat. The Ninja Creami turns this macro-friendly mix into an absolute masterpiece. Minimal prep, maximum flavour, and a total dessert cheat code."
+description: "A ridiculous 74g of protein disguised as a salty-sweet, premium ice cream. Using peanut butter powder and whey creates the ultimate ultra-creamy structure without the heavy fat. The Ninja Creami turns this macro-friendly mix into an absolute masterpiece. A total dessert cheat code."
 image: "ninja-creami-salted-peanut-butter-ice-cream_ct82q9"
 alt: "Salted peanut butter protein ice cream in a Ninja Creami pint"
 pintrest: ""
@@ -23,7 +23,7 @@ works:
   - "Micro-Shaving: The Creami blade violently shaves the solid ice block into an aerated masterpiece."
 use:
   - "Post-Workout: A ridiculous 74g protein hit disguised as an elite dessert."
-  - "Late-Night Fix: Highly satiating and totally guilt-free to kill evening cravings."
+  - "Late-Night Fix: Highly satiating and totally macro-friendly to kill evening cravings."
   - "Summer Fuel: The ultimate way to hit your macros in a heatwave."
 rating: 
 variations:
@@ -58,7 +58,7 @@ faq:
   - question: "Do I have to use Xanthan gum?"
     answer: "No. The protein powder already contains thickeners. Add 0.25 tsp if you really want, but it's unnecessary."
   - question: "Can I use real peanut butter instead of powdered?"
-    answer: "Yes, but it massively inflates the fat and calories. PB2 keeps the macros perfectly balanced."
+    answer: "Yes, but it massively inflates the fat and calories. PB2 keeps the macros dialled in."
   - question: "What kind of protein powder works best?"
     answer: "Whey or a whey/casein blend delivers the best texture. 100% isolates can freeze a bit icy."
 

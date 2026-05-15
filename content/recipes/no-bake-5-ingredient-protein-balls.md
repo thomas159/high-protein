@@ -2,9 +2,9 @@
 title: "Easy 5-Minute Fudgy No-Bake Protein Energy Balls"
 slug: "no-bake-5-ingredient-protein-balls"
 meta: {
-  seoMetaDescription: "Pre-workout fuel? These easy 5-minute fudgy no-bake protein energy balls are the ultimate healthy meal-prep snack. Minimal prep, maximum flavor!"
+  seoMetaDescription: "Pre-workout fuel? These easy 5-minute fudgy no-bake protein energy balls are the ultimate healthy meal-prep snack."
 } 
-description: "Fuel your training block with these easy 5-minute fudgy protein balls. Packed with healthy fats from peanut butter and slow-digesting carbs from oats, they perfectly trap your protein powder without needing an oven.<br><br>Minimal prep, maximum flavour, and the ultimate grab-and-go snack. Tested multiple times to dial in the exact binder ratio, ensuring they stay fudgy and cohesive without turning into a dry, powdery mess."
+description: "Fuel your training block with these easy 5-minute fudgy protein balls. Packed with healthy fats from peanut butter and slow-digesting carbs from oats, they perfectly trap your protein powder without needing an oven.<br><br>The ultimate grab-and-go snack. Tested multiple times to dial in the exact binder ratio, ensuring they stay fudgy and cohesive without turning into a dry, powdery mess."
 image: "no-bake-5-ingredient-protein-balls_kvwhmm"
 alt: "No-bake 5 ingredient protein balls stacked together"
 pintrest: ""

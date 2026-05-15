@@ -2,9 +2,9 @@
 title: "The Ultimate Ultra-Creamy Chocolate Orange Ninja Creami"
 slug: "chocolate-orange-ninja-creami-ice-cream"
 meta: {
-  seoMetaDescription: "60g protein hit! The ultimate ultra-creamy chocolate orange Ninja Creami is a guilt-free, macro-friendly masterpiece. Minimal prep, maximum flavor."
+  seoMetaDescription: "60g protein hit! The ultimate ultra-creamy chocolate orange Ninja Creami is a macro-friendly, macro-friendly masterpiece."
 } 
-description: "Over 60g of protein disguised as a decadent chocolate orange dessert. Using the Ninja Creami turns this macro-friendly mix of whey and cocoa into the ultimate ultra-creamy gelato-like dream.<br><br>Minimal prep, maximum flavour, and the absolute cheat code for hitting your targets. Tested endlessly to nail the exact ratio of cocoa to fresh orange zest, preventing it from tasting like artificial medicine."
+description: "Over 60g of protein disguised as a decadent chocolate orange dessert. Using the Ninja Creami turns this macro-friendly mix of whey and cocoa into the ultimate ultra-creamy gelato-like dream.<br><br>The absolute cheat code for hitting your targets. Tested endlessly to nail the exact ratio of cocoa to fresh orange zest, preventing it from tasting like artificial medicine."
 image: "chocolate-orange-ninja-creami-ice-cream_buvbv2"
 alt: "Chocolate orange protein ice cream in a Ninja Creami pint"
 pintrest: ""
@@ -24,7 +24,7 @@ works:
   - "Flavour Synergy: Deep cocoa is perfectly sliced open by the sharp, acidic orange zest."
 use:
   - "Post-Workout: A massive 62g protein hit disguised as an elite dessert."
-  - "Late-Night Fix: Highly satiating and totally guilt-free to kill evening cravings."
+  - "Late-Night Fix: Highly satiating and totally macro-friendly to kill evening cravings."
   - "Summer Fuel: The ultimate way to hit your macros in a heatwave."
 rating: 
 variations:

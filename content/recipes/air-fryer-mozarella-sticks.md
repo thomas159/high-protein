@@ -2,7 +2,7 @@
 title: "The Ultimate Extra Crispy Air Fryer Mozzarella Sticks"
 slug: "air-fryer-mozarella-sticks"
 meta: {
-  seoMetaDescription: "Skip the shop-bought rubbish. These ultimate extra crispy air fryer mozzarella sticks deliver a massive cheese pull in just 45 minutes. Minimal prep, maximum flavour!"
+  seoMetaDescription: "Skip the shop-bought rubbish. These ultimate extra crispy air fryer mozzarella sticks deliver a massive cheese pull in just 45 minutes."
 }
 description: "Skip the frozen options. The double-breading on these mozzarella sticks locks the cheese inside, preventing any messy leaks in your air fryer basket.<br><br>Packing 10g of protein for 289 kcal, you get the ultimate extra crispy crunch and a massive cheese pull in just 45 minutes. Tested multiple times to nail the exact double-breading thickness and spice ratio to prevent blowouts."
 image: "air-fryer-mozarella-sticks_oiud1f"

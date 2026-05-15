@@ -2,9 +2,9 @@
 title: "The Quickest, Crispiest 15-Minute Air Fryer Tortilla Pizza"
 slug: "air-fryer-pizza-tortilla-wrap"
 meta: {
-  seoMetaDescription: "Hit that pizza craving fast! The quickest, crispiest 15-minute air fryer tortilla pizza gives you a low-calorie crunch. Minimal prep, maximum flavour."
+  seoMetaDescription: "Hit that pizza craving fast! The quickest, crispiest 15-minute air fryer tortilla pizza gives you a low-calorie crunch."
 }
-description: "A flour tortilla is a fantastic, lightweight framework for your pizza toppings. It crisps up beautifully under the intense heat of the air fryer, delivering the quickest, crispiest 15-minute pizza.<br><br>Minimal prep, maximum flavour, and it saves you an easy 300 calories. Tested multiple times to balance the moisture of the pesto and tomatoes, ensuring the thin base stays rigid instead of collapsing into a soggy mess."
+description: "A flour tortilla is a fantastic, lightweight framework for your pizza toppings. It crisps up beautifully under the intense heat of the air fryer, delivering the quickest, crispiest 15-minute pizza.<br><br>It saves you an easy 300 calories. Tested multiple times to balance the moisture of the pesto and tomatoes, ensuring the thin base stays rigid instead of collapsing into a soggy mess."
 blurb: []
 tipsTitle: "Pro Tip"
 tips: 

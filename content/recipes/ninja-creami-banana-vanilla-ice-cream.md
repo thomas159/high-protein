@@ -2,9 +2,9 @@
 title: "The Quickest, Creamiest Banana Vanilla Ninja Creami"
 slug: "ninja-creami-banana-vanilla-ice-cream"
 meta: {
-  seoMetaDescription: "An ultra-creamy banana vanilla Ninja Creami. Minimal prep, maximum flavour, and the perfect pre-workout carb load."
+  seoMetaDescription: "An ultra-creamy banana vanilla Ninja Creami. The perfect pre-workout carb load."
 }
-description: "A velvety, sweet banana and vanilla dessert in freezing cold ice cream form. Using the Ninja Creami turns this macro-friendly mix of ripe bananas, honey, and milk into an ultra-creamy dream.<br><br>Minimal prep, maximum flavour, and the absolute cheat code for hitting your targets before a heavy session. Tested endlessly to nail the exact vanilla ratio so it tastes like an authentic British pudding."
+description: "A velvety, sweet banana and vanilla dessert in freezing cold ice cream form. Using the Ninja Creami turns this macro-friendly mix of ripe bananas, honey, and milk into an ultra-creamy dream.<br><br>The absolute cheat code for hitting your targets before a heavy session. Tested endlessly to nail the exact vanilla ratio so it tastes like an authentic British pudding."
 image: "ninja-creami-banana-vanilla-ice-cream_qmcu31"
 alt: "Banana vanilla ice cream in a Ninja Creami pint"
 pintrest: ""
@@ -22,7 +22,7 @@ works:
   - "Structural Matrix: The natural pectin and starches in the bananas act as an exceptional mechanical binder. When frozen and violently micro-shaved by the Creami blade, they stabilize the ice crystals in the milk, replicating a dense, velvety mouthfeel."
   - "Flavour Enhancement: The double hit of vanilla extract amplifies the perceived sweetness of the honey and bananas without adding extra calories."
 use:
-  - "Sweet Fuel: A perfectly balanced hit of fast-digesting carbs."
+  - "Sweet Fuel: A solid hit of fast-digesting carbs."
   - "Pre-Workout: Highly effective to stock up glycogen stores before a heavy session."
 rating: 
 variations:

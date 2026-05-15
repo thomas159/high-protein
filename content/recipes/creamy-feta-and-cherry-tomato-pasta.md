@@ -2,9 +2,9 @@
 title: "Easy 15-Minute Ultra-Creamy Feta & Cherry Tomato Pasta"
 slug: "creamy-feta-and-cherry-tomato-pasta"
 meta: {
-  seoMetaDescription: "Weeknight savior! This easy 15-minute ultra-creamy feta & cherry tomato pasta is a satisfying Italian vegetarian dinner. Minimal prep, maximum flavor."
+  seoMetaDescription: "Weeknight savior! This easy 15-minute ultra-creamy feta & cherry tomato pasta is a satisfying Italian vegetarian dinner."
 }
-description: "This easy 15-minute pasta is a delicious, low-effort dish perfect for busy weeknights or when you're craving a comforting carb refeed. The combination of sweet cherry tomatoes, pasta, and an ultra-creamy feta sauce creates a brilliant meal. Minimal prep, maximum flavour, and guaranteed to hit the spot."
+description: "This easy 15-minute pasta is a delicious, low-effort dish perfect for busy weeknights or when you're craving a comforting carb refeed. The combination of sweet cherry tomatoes, pasta, and an ultra-creamy feta sauce creates a brilliant meal. Guaranteed to hit the spot."
 blurb: []
 image: "feta-and-cherry-tomato-pasta_k93wad"
 alt: "Creamy feta and cherry tomato pasta in a bowl"

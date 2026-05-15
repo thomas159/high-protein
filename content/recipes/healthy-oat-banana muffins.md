@@ -2,7 +2,7 @@
 title: "Easy 15-Minute Fudgy High-Protein Oat Banana Muffins"
 slug: "healthy-oat-banana-muffins"
 meta: {
-  seoMetaDescription: "Craving a sweet treat fast? These easy 15-minute fudgy high-protein oat banana muffins deliver. Minimal prep, maximum flavor, and totally macro-balanced!"
+  seoMetaDescription: "Craving a sweet treat fast? These easy 15-minute fudgy high-protein oat banana muffins deliver. Totally macro-balanced!"
 }
 description: "A macro-balanced powerhouse that actually tastes like a proper dessert. **Packing 25g of protein and 138g of clean carbs across the batch**, we've binned the refined flour for oats and Greek yoghurt.<br><br>These easy 15-minute muffins require minimal prep and deliver maximum flavour. Tested multiple times to perfectly balance the dense oat flour against the natural banana moisture, ensuring a fudgy texture that doesn't dry out into ash."
 blurb: []

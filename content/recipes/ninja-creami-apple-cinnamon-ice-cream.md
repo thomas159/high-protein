@@ -2,9 +2,9 @@
 title: "The Ultimate Ultra-Creamy Apple Cinnamon Ninja Creami"
 slug: "ninja-creami-apple-cinnamon-ice-cream"
 meta: {
-  seoMetaDescription: "56g protein hit! The ultimate ultra-creamy apple cinnamon Ninja Creami is a guilt-free, macro-friendly dessert. Minimal prep, maximum flavor."
+  seoMetaDescription: "56g protein hit! The ultimate ultra-creamy apple cinnamon Ninja Creami is a macro-friendly, macro-friendly dessert."
 } 
-description: "A massive 56g of protein disguised as a warm, spiced apple pie dessert in freezing cold ice cream form. Using the Ninja Creami turns this macro-friendly mix of vanilla whey, sweet apple, and cinnamon into the ultimate ultra-creamy dream.<br><br>Minimal prep, maximum flavour, and the absolute cheat code for hitting your targets. Tested endlessly to nail the exact cinnamon ratio so it tastes like an authentic British pudding, rather than a Yankee candle."
+description: "A massive 56g of protein disguised as a warm, spiced apple pie dessert in freezing cold ice cream form. Using the Ninja Creami turns this macro-friendly mix of vanilla whey, sweet apple, and cinnamon into the ultimate ultra-creamy dream.<br><br>The absolute cheat code for hitting your targets. Tested endlessly to nail the exact cinnamon ratio so it tastes like an authentic British pudding, rather than a Yankee candle."
 image: "ninja-creami-apple-cinnamon-ice-cream_prnjdx"
 alt: "Apple cinnamon protein ice cream in a Ninja Creami pint"
 pintrest: ""
@@ -22,7 +22,7 @@ works:
   - "Structural Matrix: Whey protein acts as an exceptional mechanical binder. When frozen and violently micro-shaved by the Creami blade, it stabilizes the ice crystals in the low-fat milk, replicating the dense, velvety mouthfeel of heavy cream."
   - "Thermal Breakdown: Microwaving the apples first breaks down their rigid cell walls, allowing the natural pectin to release and naturally thicken the ice cream base."
 use:
-  - "Sweet Fuel: A perfectly balanced hit of carbs and protein disguised as an elite dessert."
+  - "Sweet Fuel: Solid macros disguised as a premium dessert."
   - "Late-Night Fix: Highly satiating to kill evening cravings."
   - "Autumn Fuel: The ultimate way to get those warming, spiced flavours while hitting your macros."
 rating: 

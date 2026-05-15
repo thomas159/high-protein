@@ -2,9 +2,9 @@
 title: "Quick 15-Minute Ultra-Creamy Microwave Baba Ganoush"
 slug: "quick-microwave-baba-ganoush"
 meta: {
-  seoMetaDescription: "Middle Eastern mezze fast? This quick 15-minute ultra-creamy microwave baba ganoush is a macro-friendly vegan dip. Minimal prep, maximum flavor."
+  seoMetaDescription: "Middle Eastern mezze fast? This quick 15-minute ultra-creamy microwave baba ganoush is a macro-friendly vegan dip."
 } 
-description: "Craving Middle Eastern mezze but don't want to wait 45 minutes for an oven? **Clocking in at 195 kcal with 7g of protein**, the microwave aggressively steams the aubergine in minutes.<br><br>Minimal prep, maximum flavour, and blended with tahini for a rich, macro-friendly appetizer. Tested multiple times to perfectly balance the lemon juice and tahini, ensuring a rich emulsion that rivals the traditional open-flame roast."
+description: "Craving Middle Eastern mezze but don't want to wait 45 minutes for an oven? **Clocking in at 195 kcal with 7g of protein**, the microwave aggressively steams the aubergine in minutes.<br><br>Blended with tahini for a rich, macro-friendly appetizer. Tested multiple times to perfectly balance the lemon juice and tahini, ensuring a rich emulsion that rivals the traditional open-flame roast."
 image: "quick-microwave-baba-ganoush_douf9l"
 alt: "Quick microwave baba ganoush drizzled with olive oil"
 categories: ["dips", "vegan", "15-minute-meals"]

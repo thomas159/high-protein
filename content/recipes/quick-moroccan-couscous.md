@@ -2,7 +2,7 @@
 title: "Quick & Easy 10-Minute Fluffy Moroccan Couscous"
 slug: "quick-moroccan-couscous"
 meta: {
-  seoMetaDescription: "Need a side dish fast? This quick & easy 10-minute fluffy Moroccan couscous is the perfect vibrant Mediterranean base. Minimal prep, maximum flavor."
+  seoMetaDescription: "Need a side dish fast? This quick & easy 10-minute fluffy Moroccan couscous is the perfect vibrant Mediterranean base."
 }
 description: "The ultimate versatile carb base that requires absolutely zero simmering. **Packing 21g of protein and 82g of carbs for 570 kcal**, pouring boiling vegetable stock over the couscous instantly rehydrates it.<br><br>This quick & easy 10-minute side delivers minimal prep and maximum flavour. Tested relentlessly to ensure the grain stays fluffy and never turns to mush."
 blurb: []
