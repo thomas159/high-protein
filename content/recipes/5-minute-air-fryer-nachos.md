@@ -1,5 +1,5 @@
 ---
-title: "The Quickest, Crispiest 5-Minute Air Fryer Nachos"
+title: "The Ultimate Crispy 5-Minute Air Fryer Nachos"
 slug: "5-minute-air-fryer-nachos"
 meta: {
   seoMetaDescription: "Need a snack fast? These 5-minute air fryer nachos deliver instant, cheesy gratification with zero prep time."
@@ -7,9 +7,9 @@ meta: {
 description: |
   Waiting 20 minutes for an oven to preheat after a brutal leg session is ridiculous. You shouldn't spend more time cooking a snack than eating it. These air-fryer nachos take exactly five minutes and deliver instant, cheesy gratification.
   
-  Proper layering matters. I tested this multiple times to perfectly balance the sharp cheddar flavour with the acidity of fresh lime juice. Build distinct layers. This ensures the top melts completely without turning the base chips to ash.
+  **Proper layering matters.** I tested this multiple times to perfectly balance the sharp cheddar flavour with the acidity of fresh lime juice. Build distinct layers. This ensures the top melts completely without turning the base chips to ash.
   
-  Packing ~14g of protein per serving, this quick fix hits your daily targets. Plus, cleanup is minimal.
+  Packing **~14g of protein** per serving, this quick fix hits your daily targets. Plus, cleanup is minimal.
 image: "5-minute-air-fryer-nachos_gf3zzd"
 alt: "5 minute air fryer nachos with melted cheese and tomatoes"
 pintrest: ""
@@ -66,8 +66,8 @@ faq:
 
 steps:
   - "Line your air fryer basket with a small piece of parchment paper. This makes cleanup easy and helps you lift the nachos out later. Spread a layer of tortilla chips evenly across the bottom."
-  - "Layer on the grated cheese, followed by the chopped tomatoes and red onions. Build it in two tiers so every single chip pulls its weight."
+  - "**Build it in two tiers** so every single chip pulls its weight. Layer on the grated cheese, followed by the chopped tomatoes and red onions."
   - "Blast them at 160°C for 3 to 5 minutes. Do not walk away from this. The line between perfectly bubbling golden cheese and burnt ash is exactly 15 seconds."
-  - "Watch for the visual cue: the cheese should be fully melted and starting to bubble at the edges. If the tortilla chips start turning dark brown, pull them immediately or they will taste bitter."
-  - "Carefully lift the parchment paper to slide the nachos out. Finish it off with fresh spring onions, a spoonful of sour cream, and a quick squeeze of lime juice."
+  - "**Visual cue:** The cheese should be fully melted and starting to bubble at the edges. If the tortilla chips start turning dark brown, pull them immediately or they will taste bitter."
+  - "Carefully lift the parchment paper to slide the nachos out. Finish it off with fresh spring onions, sour cream, and a squeeze of lime juice."
 ---
