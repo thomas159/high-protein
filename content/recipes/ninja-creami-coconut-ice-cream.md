@@ -4,7 +4,10 @@ slug: "ninja-creami-coconut-ice-cream"
 meta: {
   seoMetaDescription: "An ultra-creamy coconut Ninja Creami. Minimal prep, tropical flavour, and a massive protein hit."
 }
-description: "A velvety, tropical coconut dessert in freezing cold ice cream form. Using the Ninja Creami turns this macro-friendly mix of coconut milk, coconut whey, and honey into an ultra-creamy dream.<br><br>The absolute cheat code for hitting your targets. Tested endlessly to nail the exact coconut ratio so it tastes like a premium tropical gelato, without the heavy calories of traditional coconut cream."
+description: |
+  A velvety, tropical coconut dessert in freezing cold ice cream form. Using the Ninja Creami turns this macro-friendly mix of coconut milk, coconut whey, and honey into an ultra-creamy dream.
+  
+  The absolute cheat code for hitting your targets. Tested endlessly to nail the exact coconut ratio so it tastes like a premium tropical gelato, without the heavy calories of traditional coconut cream.
 image: "ninja-creami-coconut-ice-cream_a6jsa1"
 alt: "Coconut protein ice cream in a Ninja Creami pint"
 pintrest: ""
@@ -21,6 +24,7 @@ works:
   - "Structural Matrix: Whey protein acts as an exceptional mechanical binder. When frozen and violently micro-shaved by the Creami blade, it stabilizes the ice crystals in the coconut milk, replicating the dense, velvety mouthfeel of heavy cream."
   - "Flavour Enhancement: The vanilla extract amplifies the natural sweetness of the honey and coconut without adding extra calories."
 use:
+  - "Pre-Workout Primer: The perfect fuel to smash your next PB."
   - "Sweet Fuel: Spot-on macros disguised as a premium dessert."
   - "Tropical Fix: Highly satiating to kill evening cravings and hit your macros."
 rating: 

@@ -4,7 +4,11 @@ slug: "15-minute-cherry-tomato-and-courgette-risotto"
 meta: {
   seoMetaDescription: "Want risotto fast? This easy 15-minute ultra-creamy microwave courgette risotto is the ultimate high-carb recovery meal."
 }
-description: "A proper Italian risotto usually requires standing over a hot stove stirring for 40 minutes. We intentionally choose this microwave hack because saving time and hitting macros is our ultimate priority over culinary tradition.<br><br>Loaded with fresh courgette. Tested multiple times to nail the exact liquid absorption ratio and balance the acidic tomatoes against the rich parmesan, preventing it from turning into a bland, watery soup."
+description: |
+  A proper Italian risotto usually requires standing over a hot stove stirring for 40 minutes. We intentionally choose this microwave hack because saving time and hitting macros is our ultimate priority over culinary tradition.
+
+  Loaded with fresh courgette. Tested multiple times to nail the exact liquid absorption ratio and balance the acidic tomatoes against the rich parmesan, preventing it from turning into a bland, watery soup.
+
 blurb: []
 image: "15-minute-cherry-tomato-and-courgette-risotto_1_lsbbrh"
 alt: "15-minute cherry tomato and courgette risotto in a bowl"
@@ -18,7 +22,7 @@ tips:
   - "Creamy Finish: Vigorously stirring for 60 seconds at the end forces the starches out, creating a luxurious sauce without touching double cream."
   - "Fridge Clearance: Highly forgiving. Stir in leftover spinach, peas, or peppers at the end."
 works:
-  - "Starch Gelatinization: Aggressive stirring causes the Arborio rice grains to rub against each other, physically shearing off amylopectin starches into the liquid. This naturally thickens the stock into a creamy, stable emulsion without adding a drop of double cream."
+  - "Starch Gelatinization: Aggressive stirring causes the Arborio rice grains to rub against each other, physically shearing off amylopectin starches into the liquid. This naturally thickens the stock into a creamy, stable emulsion without adding a drop of double cream.. It’s like a PB for your tastebuds, fuelling your recovery without the heavy prep.. Look for a glossy, thick texture—if it’s watery, you’ve failed the emulsion and need to reduce it further."
   - "Controlled Steam: The microwave provides a high-heat, enclosed environment, completely binning the need to stand over a stove stirring for 40 minutes."
 use:
   - "Rapid Carb Refeed: A heavy comfort meal with zero active cooking."

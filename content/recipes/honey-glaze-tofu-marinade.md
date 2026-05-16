@@ -2,9 +2,10 @@
 title: "Easy 35-Minute Sticky Honey Glazed Air Fryer Tofu"
 slug: "honey-glaze-tofu-marinade"
 meta: {
-  seoMetaDescription: "Sweet tooth kicking in? This easy 35-minute sticky honey glazed air fryer tofu builds a caramelized crust fast. High protein."
+  seoMetaDescription: "Sweet tooth kicking in? This easy 35-minute sticky honey glazed air fryer tofu builds a caramelised crust fast. High protein."
 } 
-description: "Transform plain tofu into a golden, caramelised treat. The natural sugars in the honey react with the intense heat of the air fryer to build an easy 35-minute sticky glaze. Balances out beautifully with salty soy sauce and a sharp zing of lemon. A high-protein staple that genuinely delivers."
+description: |
+  Transform plain tofu into a golden, caramelised treat. The natural sugars in the honey react with the intense heat of the air fryer to build an easy 35-minute sticky glaze. Balances out beautifully with salty soy sauce and a sharp zing of lemon. A high-protein staple that genuinely delivers.
 image: "honey-glaze-tofu-marinade_1_rykscd"
 alt: "Honey glaze marinated tofu cubes"
 pintrest: ""
@@ -22,6 +23,7 @@ works:
   - "Rapid Caramelisation: The intense circulating heat strips water from the honey, allowing the natural fructose and glucose to violently caramelise. This forms a high-viscosity, glassy lacquer that physically binds to the textured surface of the pressed tofu."
   - "Flavour Equilibrium: The sharp soy sauce and earthy cumin keep the honey from turning this into a dessert."
 use:
+  - "Pre-Workout Primer: The perfect fuel to smash your next PB."
   - "Sticky Skewers: Thread onto sticks and blast in the air fryer."
   - "Bowl Builder: An elite sweet and savoury protein hit for your rice prep."
   - "Stir-Fry Addition: Toss into noodles right at the end."
@@ -32,6 +34,7 @@ shelf_life: "Stored in airtight container in the fridge for 5 days"
 storageInstructions: "Fridge the uncooked marinated tofu for 5 days. Freezes well for 3 months; thawing improves the chew."
 whyTitle: "Why marinate tofu?"
 why:
+  - "Fail-State Avoidance: We skip the traditional slow-cook to prevent the proteins from denaturing into a rubbery mess."
   - "Natural Caramelization: The sugars react with the heat to build a thick, lacquered crust that locks in moisture."
   - "Umami Balance: Soy sauce provides the savoury depth to kill the excess sweetness."
   - "Fragrant Warmth: Cumin and coriander elevate this from basic sweet soy to a professional glaze."

@@ -2,9 +2,13 @@
 title: "Easy 25-Minute Velvety Air Fryer Protein Cheesecake"
 slug: "air-fryer-low-calorie-cheesecake"
 meta: {
-  seoMetaDescription: "Cheesecake cravings? This easy 25-minute velvety air fryer protein cheesecake uses Greek yogurt for a macro-friendly treat."
+  seoMetaDescription: "Cheesecake cravings? This easy 25-minute velvety air fryer protein cheesecake uses Greek yoghurt for a macro-friendly treat."
 }
-description: "Hit your cheesecake craving without destroying your macros. By swapping heavy cream for Greek yoghurt and using a zero-calorie sweetener, you get an easy 25-minute velvety treat. The air fryer perfectly sets the centre. Pure comfort, rebuilt for your macros."
+description: |
+  Hit your cheesecake craving without destroying your macros. By swapping heavy cream for Greek yoghurt and using a zero-calorie sweetener, you get an easy 25-minute velvety treat. The air fryer perfectly sets the centre.
+
+  Pure comfort, rebuilt for your macros.
+
 image: "air-fryer-low-calorie-cheesecake_ekn9ky"
 alt: "Air fryer low calorie cheesecake in a ramekin"
 categories: ["air-fryer", "keto", "dessert"]
@@ -19,7 +23,7 @@ tips:
   - "The Wobble: Pull it when the centre still has a slight jiggle. It continues to cook and sets perfectly as it cools."
   - "Patience Pays Off: Don't rush it. It needs at least 2 hours in the fridge to develop that dense texture and let the flavours marry."
 works:
-  - "Yoghurt Substitution: Greek yoghurt delivers the volume and tang of a proper cheesecake while ruthlessly slashing the fat."
+  - "Yoghurt Substitution: Greek yoghurt delivers the volume and tang of a proper cheesecake while ruthlessly slashing the fat.. Look for a glossy, thick texture—if it’s watery, you’ve failed the emulsion and need to reduce it further."
   - "Protein Coagulation: The combination of egg proteins and the thick casein structure of Greek yoghurt coagulates rapidly under the air fryer's intense heat, creating a stable, velvety matrix that holds its shape without relying on the saturated fat of heavy cream."
 use:
   - "Diet Cheat Code: Hits the craving for a fraction of the calories."
@@ -40,7 +44,7 @@ macros:
   fat: 27
 ingredients:
   - { item: "Cream cheese", amount: 55, unit: "g" }
-  - { item: "Greek yogurt", amount: 60, unit: "g" }
+  - { item: "Greek yoghurt", amount: 60, unit: "g" }
   - { item: "Erythritol", amount: 25, unit: "g" }
   - { item: "Lemon juice", amount: 0.5, unit: "tbsp" }
   - { item: "Egg", amount: 0.5}

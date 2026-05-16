@@ -4,7 +4,8 @@ slug: "tikka-tofu-marinade"
 meta: {
   seoMetaDescription: "Skip the curry house! This quick 35-minute charred high-protein air fryer tikka tofu delivers authentic Indian spices fast."
 } 
-description: "Infuse your tofu with the bold, aromatic flavours of India using this quick 35-minute tikka marinade. A vibrant blend of garam masala, turmeric, and coriander mixed into a tangy Greek yoghurt base creates a perfectly charred crust. Restaurant-quality vegan protein in minutes."
+description: |
+  Infuse your tofu with the bold, aromatic flavours of India using this quick 35-minute tikka marinade. A vibrant blend of garam masala, turmeric, and coriander mixed into a tangy Greek yoghurt base creates a perfectly charred crust. Restaurant-quality vegan protein in minutes.
 image: "tikka-tofu-marinade_if4ab4"
 alt: "High-protein tikka marinated tofu cubes"
 pintrest: ""
@@ -48,7 +49,7 @@ macros:
   fat: 17
 ingredients:
   - { item: "Firm tofu", type: "cut into 2cm cubes", amount: 200, unit: "g" }
-  - { item: "Greek Yogurt", amount: 25, unit: "g" }
+  - { item: "Greek Yoghurt", amount: 25, unit: "g" }
   - { item: "Ginger garlic paste", amount: 1, unit: "tsp" }
   - { item: "Coriander powder", amount: 1, unit: "tsp" }
   - { item: "Turmeric powder", amount: 1, unit: "tsp" }

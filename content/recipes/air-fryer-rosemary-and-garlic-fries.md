@@ -4,7 +4,12 @@ slug: "air-fryer-rosemary-and-garlic-fries"
 meta: {
   seoMetaDescription: "Gourmet snack fast! These 30-minute extra crispy air fryer rosemary & garlic fries are a healthy vegan side dish."
 }
-description: "Upgrade your side dish with these fragrant, herb-infused fries. By combining fresh rosemary and savory garlic with the high-speed crisping of the air fryer, you get 30-minute extra crispy chips with significantly less fat than traditional frying. Absolutely golden."
+description: |
+  Upgrade your side dish with these fragrant, herb-infused fries. By combining fresh rosemary and savoury garlic with the high-speed crisping of the air fryer, you get extra crispy chips with significantly less fat than traditional frying.
+  
+  Absolutely golden and perfectly seasoned. It's like adding plates to your barbell, but for flavour.
+  
+  Tested to ensure the garlic doesn't burn, delivering a premium side dish without the grease.
 image: "air-fryer-rosemary-garlic-fries_ab8wu4"
 alt: "Crispy air fryer rosemary and garlic fries"
 pintrest: ""
@@ -15,8 +20,8 @@ tips:
   - "Garlic Granules over Fresh: Use garlic granules or powder rather than fresh minced garlic, which has a tendency to burn and turn bitter in the high heat of the air fryer."
   - "Toss, Don't Spray: Toss the raw fries with the olive oil and herbs in a large bowl first. This ensures an even coating that an aerosol spray just can't match."
 works:
-  - "Essential Oil Extraction: The rapid, circulating heat of the air fryer essentially 'fries' the rosemary needles in the olive oil. This violently extracts their fat-soluble essential oils, distributing a deep, earthy aroma across the dehydrating starch crust of every single potato."
-  - "Starch Evaporation: The intense, circulating heat strips the potatoes of their surface moisture, delivering a satisfying crunch without requiring a deep-fat fryer."
+  - "Essential Oil Extraction: The rapid, circulating heat of the air fryer essentially 'fries' the rosemary needles in the olive oil. This violently extracts their fat-soluble essential oils, distributing a deep, earthy aroma across the dehydrating starch crust of every single potato. Look for the needles to turn dark and brittle."
+  - "Starch Evaporation: The intense, circulating heat strips the potatoes of their surface moisture, delivering a satisfying crunch without requiring a deep-fat fryer. If they look pale and soft, the starches haven't dehydrated enough."
 use:
   - "Gourmet Side: A sophisticated step up from standard french fries."
   - "Steak Pairing: The absolute best companion to a thick cauliflower or seitan steak."
@@ -60,5 +65,5 @@ faq:
 steps:
   - "Scrub the potatoes and slice them into uniform sticks, approximately 0.5cm thick. In a large bowl, toss the fries with olive oil, dried rosemary, and garlic granules and salt until every surface is lightly coated. Using a bowl ensures even seasoning without making the fries soggy"
   - "Arrange the potatoes in the basket, try not to overcrowd them to ensure maximum airflow. Air fry for 18-24 minutes on 190c, giving the basket a vigorous shake halfway through—this redistributes the rosemary needles and ensures the garlic oil browns every side of the potato evenly"
-  - "Once the fries are golden-brown and fragrant, remove them immediately. For an extra pop of flavor, garnish with a final pinch of fresh rosemary"
+  - "Once the fries are golden-brown and fragrant, remove them immediately. For an extra pop of flavour, garnish with a final pinch of fresh rosemary"
 ---

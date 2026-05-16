@@ -4,7 +4,11 @@ slug: "5-minute-instant-noodles"
 meta: {
   seoMetaDescription: "Bin the watery ramen. These quick & easy 5-minute upgraded instant noodles deliver a savory soy-sesame post-workout carb load."
 }
-description: "Skip the watery ramen. Upgrading them with a savoury soy and sesame glaze gives you a quick & easy 5-minute meal. Boil off the water to force the flavour into the noodles. A perfect lightning-fast carb load after a heavy session."
+description: |
+  Skip the watery ramen. Upgrading them with a savoury soy and sesame glaze gives you a quick & easy 5-minute meal. Boil off the water to force the flavour into the noodles.
+
+  A perfect lightning-fast carb load after a heavy session.
+
 image: "5-minute-instant-noodles_ywvyin"
 alt: "5 Minute instant noodles garnished with spring onions"
 pintrest: ""
@@ -18,7 +22,7 @@ tips:
   - "Sauce Emulsion: Keep a spoonful of starchy water to mix into your glaze—it helps the sauce violently cling to the noodles."
   - "Volume Boost: Toss in a handful of baby spinach or pak choi at the end for an effortless micronutrient hit."
 works:
-  - "Osmotic Glazing: By boiling off the stock rather than draining it, the starchy water reduces into a concentrated syrup. The porous noodles act like sponges, absorbing the heavy sodium and soy compounds through osmosis while the residual starch forms a thick, clinging glaze."
+  - "Osmotic Glazing: By boiling off the stock rather than draining it, the starchy water reduces into a concentrated syrup. The porous noodles act like sponges, absorbing the heavy sodium and soy compounds through osmosis while the residual starch forms a thick, clinging glaze.. Look for a glossy, thick texture—if it’s watery, you’ve failed the emulsion and need to reduce it further."
   - "Acid Balance: A tiny splash of rice vinegar cuts the heavy sesame oil and wakes up the palate."
 use:
   - "Macro Hack: A massive upgrade to a basic instant noodle craving."

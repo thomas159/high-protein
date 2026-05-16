@@ -4,7 +4,12 @@ slug: "creamy-mushroom-pasta"
 meta: {
   seoMetaDescription: "Carb reloading? This easy 25-minute ultra-creamy garlic mushroom pasta is an Dig innt vegetarian umami bomb."
 } 
-description: "A bowl of pure comfort for when you need a serious carb reload. **Delivering 24g of protein and 88g of carbs for 780 kcal**, searing the mushrooms hard creates a deep, meaty umami crust.<br><br>The starchy pasta water emulsifies the parmesan flawlessly. Tested endlessly to perfectly balance the starchy pasta water emulsion against the heavy cream, ensuring it binds into a thick, glossy sauce without splitting."
+description: |
+  A bowl of pure comfort for when you need a serious carb reload. Searing the mushrooms hard creates a deep, meaty umami crust that elevates the entire dish.
+  
+  The starchy pasta water emulsifies the parmesan flawlessly. It's the perfect post-workout fuel to replenish your glycogen stores.
+  
+  Tested endlessly to perfectly balance the starchy pasta water emulsion against the heavy cream, ensuring it binds into a thick, glossy sauce without splitting.
 image: "creamy-mushroom-pasta_m6794q"
 alt: "Creamy mushroom pasta garnished with fresh herbs"
 categories: ["dinner", "vegetarian", "pasta"]
@@ -17,8 +22,8 @@ tips:
   - "Save the Water: Always reserve a mug of starchy pasta water. This is the secret binder that forces the butter and cream into a stable emulsion."
   - "Deglazing Power: The white wine is there to aggressively scrape up the dark, caramelised flavour stuck to the bottom of the pan."
 works:
-  - "The Maillard Reaction: High-heat searing caramelises the mushrooms, delivering a massive umami hit."
-  - "Starch Emulsion: The amylose starches leached into the pasta water physically intercept the heavy cream fats, binding them into a thick, glossy emulsion that clings to the pasta without splitting into a greasy pool."
+  - "The Maillard Reaction: High-heat searing caramelises the mushrooms, delivering a massive umami hit. Leave them undisturbed until a deep brown crust forms; if you stir too early, they will just steam and turn rubbery."
+  - "Starch Emulsion: The amylose starches leached into the pasta water physically intercept the heavy cream fats, binding them into a thick, glossy emulsion that clings to the pasta without splitting into a greasy pool. Watch for the sauce to coat the back of a spoon."
 use:
   - "Heavy Refeed: A massive, warm carb reload for cozy evenings."
   - "Date Night: Looks and tastes like a premium restaurant dish with zero stress."
@@ -31,7 +36,7 @@ shelf_life: "Best enjoyed fresh."
 storageInstructions: "Fridge for 3 days. Reheat gently on the stove with a splash of milk. Don't freeze it; the cream will split."
 whyTitle: "The Science of the Sauce"
 why:
-  - "The Maillard Reaction: Sautéing until golden unlocks a deep, meaty umami flavour that carries the entire dish."
+  - "The Maillard Reaction: Sautéing until golden unlocks a deep, meaty umami flavour that carries the entire dish. Like building a solid foundation for your lifts."
   - "The Emulsion Secret: Starchy pasta water combined with butter creates a glossy coating that actually clings to the pasta."
   - "Acidic Lift: The wine's acidity alters the pH, cutting straight through the heavy lipid structure of the cream and preventing the dish from becoming a cloying disaster."
 prepTimeMins: 10

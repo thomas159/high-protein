@@ -4,7 +4,11 @@ slug: "5-minute-miso-peanut-butter-noodles"
 meta: {
   seoMetaDescription: "Need an emergency dinner? These easy 5-minute ultra-creamy miso peanut butter noodles are packed with vegan protein. Minimal prep, maximum umami flavour!"
 } 
-description: "The ultimate 5-minute emergency meal. **Packing 18g of plant-based protein and 448 kcal**, whisking peanut butter into warm miso creates an easy, ultra-creamy emulsion that coats every single noodle perfectly.<br><br>A massive hit of umami and healthy fats. I’ve made this post-gym cheat code at least 50 times to dial in the exact sauce ratio."
+description: |
+  The ultimate 5-minute emergency meal. Packing a massive hit of plant-based protein, whisking peanut butter into warm miso creates an easy, ultra-creamy emulsion that coats every single noodle perfectly.
+
+  A massive hit of umami and healthy fats. I’ve made this post-gym cheat code at least 50 times to dial in the exact sauce ratio.
+
 image: "5-minute-miso-peanut-butter-noodles_eo9aef"
 alt: "5-Minute Miso Peanut Butter Noodles garnished with spring onions"
 categories: ["5-minute-meals", "vegan", "high-protein"]
@@ -17,7 +21,7 @@ tips:
   - "Starchy Water Secret: If your sauce turns to concrete or splits, vigorously stir in a splash of starchy noodle water to resurrect it into a silky glaze."
   - "Soy Milk Temp: Add the soy milk gradually over low heat. Adding cold milk into a hot pan is a rookie error and will cause it to split."
 works:
-  - "Mechanical Emulsion: Whisking the high-fat peanut butter into the warm, starchy noodle water forces the disparate fat and water molecules to bind. The starch acts as a physical stabilizer, yielding a glossy, unbroken sauce that clings heavily to the noodles."
+  - "Mechanical Emulsion: Whisking the high-fat peanut butter into the warm, starchy noodle water forces the disparate fat and water molecules to bind. The starch acts as a physical stabilizer, yielding a glossy, unbroken sauce that clings heavily to the noodles.. Look for a glossy, thick texture—if it’s watery, you’ve failed the emulsion and need to reduce it further."
   - "Umami Synergy: Miso and soy sauce deliver a massive punch of savoury depth. Zero need for long-simmered meat broths."
 use:
   - "Speedy Dinner: The ultimate 5-minute cheat code when you're short on time."
@@ -28,7 +32,7 @@ shelf_life: "Eat it fresh. The sauce goes claggy as it cools."
 storageInstructions: "Fridge for up to 3 days. The sauce will thicken like concrete, so add a splash of warm water when reheating. Don't even think about freezing it."
 whyTitle: "Why this works for your gains"
 why:
-  - "Soy Milk Base: Using soy milk instead of water adds a creamy texture and sneaks in an extra 4g of plant-based protein."
+  - "Soy Milk Base: Using soy milk instead of water adds a creamy texture and sneaks in an extra hit of plant-based protein."
   - "Fermented Umami: Miso provides gut-friendly probiotics without hours of tedious simmering."
   - "Heavy Fuel: Peanut butter delivers the heart-healthy fats needed to keep you satiated during a cut."
 muscleBuildingTip: "Need to bump the protein? Toss some smoked tofu or a massive handful of edamame into the pan while the sauce simmers."

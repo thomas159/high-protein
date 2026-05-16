@@ -4,7 +4,11 @@ slug: "air-fryer-kim-chi-fries"
 meta: {
   seoMetaDescription: "Ultimate weekend refeed? These easy 30-minute extra crispy air fryer kimchi fries are packed with umami and melted cheese."
 } 
-description: "A brilliant fusion of spicy, fermented kimchi and melted cheddar over easy 30-minute extra crispy fries. The air fryer blasts away the moisture, giving you a deep-fried crunch without being weighed down by oil.<br><br>The ultimate weekend cheat meal. Tested multiple times to balance the sharp, acidic kimchi against the rich cheddar, ensuring the flavour profile hits perfectly without becoming overly salty."
+description: |
+  A brilliant fusion of spicy, fermented kimchi and melted cheddar over easy 30-minute extra crispy fries. The air fryer blasts away the moisture, giving you a deep-fried crunch without being weighed down by oil.
+
+  The ultimate weekend cheat meal. Tested multiple times to balance the sharp, acidic kimchi against the rich cheddar, ensuring the flavour profile hits perfectly without becoming overly salty.
+
 image: "air-fryer-kim-chi-fries_u7kuzj"
 alt: "Air fryer kimchi fries topped with melted cheese and sesame seeds"
 pintrest: ""
@@ -15,8 +19,8 @@ tips:
   - "Cheese Layering: Add half the cheese halfway through the kimchi mixing, and sprinkle the rest on top so it melts through every layer."
   - "Sauce Consistency: If your Gochujang glaze gets too thick while sautéing, loosen it with a teaspoon of water or sesame oil to ensure it coats the fries evenly."
 works:
-  - "Starch Dehydration: Soaking the potatoes removes surface amylose, preventing the fries from gluing together. The air fryer's rapid convection then violently strips surface moisture, creating a rigid starch crust that doesn't collapse under the heavy, wet kimchi."
-  - "Flavor Balancing: The sharp, acidic tang of the kimchi perfectly cuts through the rich heaviness of the cheddar cheese and starchy potatoes."
+  - "Starch Dehydration: Soaking the potatoes removes surface amylose, preventing the fries from gluing together. The air fryer's rapid convection then violently strips surface moisture, creating a rigid starch crust that doesn't collapse under the heavy, wet kimchi.. It’s like a PB for your tastebuds, fuelling your recovery without the heavy prep.. Look for a glossy, thick texture—if it’s watery, you’ve failed the emulsion and need to reduce it further."
+  - "Flavour Balancing: The sharp, acidic tang of the kimchi perfectly cuts through the rich heaviness of the cheddar cheese and starchy potatoes."
 use:
   - "Party Snack: The ultimate crowd-pleasing sharing platter."
   - "Side Dish: Pairs perfectly with a thick, juicy veggie burger."

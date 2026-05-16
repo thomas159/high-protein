@@ -4,7 +4,12 @@ slug: "creamy-feta-and-cherry-tomato-pasta"
 meta: {
   seoMetaDescription: "Weeknight savior! This easy 15-minute ultra-creamy feta & cherry tomato pasta is a satisfying Italian vegetarian dinner."
 }
-description: "This easy 15-minute pasta is a delicious, low-effort dish perfect for busy weeknights or when you're craving a comforting carb refeed. The combination of sweet cherry tomatoes, pasta, and an ultra-creamy feta sauce creates a brilliant meal. Guaranteed to hit the spot."
+description: |
+  This easy pasta is a delicious, low-effort dish perfect for busy weeknights or when you're craving a comforting carb refeed. The combination of sweet cherry tomatoes, pasta, and an ultra-creamy feta sauce creates a brilliant meal.
+  
+  Guaranteed to hit the spot and fuel your recovery. It's a heavy-lifting meal that takes minimal prep.
+  
+  Tested to ensure the feta melts into a smooth sauce without turning grainy.
 blurb: []
 image: "feta-and-cherry-tomato-pasta_k93wad"
 alt: "Creamy feta and cherry tomato pasta in a bowl"
@@ -16,8 +21,8 @@ tips:
   - "Feta Selection: Always buy block feta suspended in brine. Pre-crumbled tubs are coated in dust and melt like gravel."
   - "Wine Pairing: A dry, crisp white wine like Pinot Grigio slices straight through the heavy richness."
 works:
-  - "Acid and Fat Synergy: The sharp acidity of the wine and tomatoes violently cuts the heavy cream and salty feta."
-  - "Starch-Stabilised Emulsion: Feta is prone to splitting into a grainy, oily mess when heated. By aggressively tossing the melting cheese with starchy pasta water, the starch molecules physically intercept the fat and water, binding them into a thick, unbreakable, ultra-creamy sauce."
+  - "Acid and Fat Synergy: The sharp acidity of the wine and tomatoes violently cuts the heavy cream and salty feta. Look for the tomatoes to blister and burst, releasing their sweet juices."
+  - "Starch-Stabilised Emulsion: Feta is prone to splitting into a grainy, oily mess when heated. By aggressively tossing the melting cheese with starchy pasta water, the starch molecules physically intercept the fat and water, binding them into a thick, unbreakable, ultra-creamy sauce. If it splits, add more pasta water and whisk vigorously."
 use:
   - "Weeknight Saviour: A luxurious, heavy carb refeed in exactly 15 minutes."
   - "Macro Lunch: Tastes incredible reheated the next day."

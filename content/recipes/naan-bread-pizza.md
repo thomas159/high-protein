@@ -4,7 +4,10 @@ slug: "naan-bread-pizza"
 meta: {
   seoMetaDescription: "Skip the takeaway with this easy 15-minute crispy mango paneer naan pizza. The ultimate quick Indian-fusion dinner."
 }
-description: "A fluffy naan bread makes the perfect low-effort pizza base, sidestepping the absolute nightmare of making dough from scratch.<br><br>Sweet mango chutney, creamy paneer, and a spicy kick—this easy 15-minute recipe guarantees minimal prep and maximum flavour. Tested 4 times to find the exact timing before the naan turns into a giant crouton."
+description: |
+  A fluffy naan bread makes the perfect low-effort pizza base, sidestepping the absolute nightmare of making dough from scratch.
+  
+  Sweet mango chutney, creamy paneer, and a spicy kick—this easy 15-minute recipe guarantees minimal prep and maximum flavour. Tested multiple times to find the exact timing before the naan turns into a giant crouton.
 blurb: []
 image: "naan-bread-pizza_m9ikl5"
 alt: "Naan bread pizza with mango chutney and paneer"
@@ -18,6 +21,7 @@ works:
   - "Pre-Gelatinised Base: Using a pre-cooked naan means the dough starches are already fully gelatinised. The air fryer only has to dehydrate the exterior to build a shatter-crisp crust, completely bypassing the complex hydration and baking science required for raw pizza dough."
   - "Flavour Efficiency: Mango chutney replaces pizza sauce, delivering massive complexity instantly."
 use:
+  - "Pre-Workout Primer: The perfect fuel to smash your next PB."
   - "Refeed Dinner: A brutally quick workaround for traditional pizza night."
   - "Rapid Lunch: Assembled and ready in under 15 minutes."
   - "Customisable: Dead easy to tweak for different macros."

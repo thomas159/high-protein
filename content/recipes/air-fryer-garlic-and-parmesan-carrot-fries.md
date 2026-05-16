@@ -4,7 +4,9 @@ slug: "air-fryer-garlic-and-parmesan-carrot-fries"
 meta: {
   seoMetaDescription: "Craving savory crunch? These extra crispy 25-minute air fryer garlic parmesan carrot fries hit the spot. Totally macro-friendly."
 }
-description: "A brilliant low-calorie swap for standard chips. The circulating heat of the air fryer roasts the carrots and crisps up the parmesan to deliver extra crispy 25-minute fries. A fantastic side dish to bulk up the volume of your meal without blowing your daily calorie budget."
+description: |
+  A brilliant low-calorie swap for standard chips. The circulating heat of the air fryer roasts the carrots and crisps up the parmesan to deliver extra crispy 25-minute fries. A fantastic side dish to bulk up the volume of your meal without blowing your daily calorie budget.
+
 blurb: []
 image: "air-fryer-garlic-and-parmesan-carrot-fries_fumihc"
 alt: "Air fryer garlic and parmesan carrot fries on a plate"
@@ -20,7 +22,7 @@ tips:
   - "Uniform Cuts: Slice them consistently. Thick ones stay raw while thin ones turn to ash."
   - "Don't Overcrowd: Give them space in the basket. Overcrowding equals steaming, not crisping."
 works:
-  - "Protein-Starch Crisp: As the air fryer evaporates moisture from the carrot's surface, the high-protein parmesan melts and fuses with the natural sugars. This creates a rigid, caramelised exoskeleton that delivers a satisfying snap."
+  - "Protein-Starch Crisp: As the air fryer evaporates moisture from the carrot's surface, the high-protein parmesan melts and fuses with the natural sugars. This creates a rigid, caramelised exoskeleton that delivers a satisfying snap.. It’s like a PB for your tastebuds, fuelling your recovery without the heavy prep.. Look for a glossy, thick texture—if it’s watery, you’ve failed the emulsion and need to reduce it further."
   - "Air Fried Crunch: The circulating heat crisps the cheese and edges with a fraction of the oil."
 use:
   - "Volume Eating: An elite, low-calorie alternative to smash your chip cravings."

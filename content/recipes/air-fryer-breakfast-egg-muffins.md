@@ -4,7 +4,11 @@ slug: "air-fryer-breakfast-egg-muffins"
 meta: {
   seoMetaDescription: "Quick & easy 10-minute air fryer breakfast egg muffins. Perfectly puffed every time!"
 }
-description: "Start your day with a solid hit of protein. These quick & easy 10-minute egg muffins pack sharp feta and sweet sun-dried tomatoes into an efficient, grab-and-go format.<br><br>The air fryer gives them a perfectly puffed texture so you're fuelled up and sorted. It took me a few attempts to dial in the timing so they rise perfectly without burning."
+description: |
+  Start your day with a solid hit of protein. These quick & easy 10-minute egg muffins pack sharp feta and sweet sun-dried tomatoes into an efficient, grab-and-go format.
+
+  The air fryer gives them a perfectly puffed texture so you're fuelled up and sorted. It took me a few attempts to dial in the timing so they rise perfectly without burning.
+
 blurb: []
 image: "air-fryer-breakfast-egg-muffins_thu9o8"
 alt: "Air fryer breakfast egg muffins with feta and sun-dried tomatoes"
@@ -21,7 +25,7 @@ tips:
   - "Fridge Clearance: Add in whatever leftover veg you have—spinach, peppers, mushrooms."
   - "Volume Control: Eggs expand aggressively. Only fill 3/4 full or you'll be scraping burnt egg off your air fryer element."
 works:
-  - "Steam Expansion & Coagulation: The intense circulating heat rapidly turns the water inside the beaten eggs into steam. This trapped steam expands the structure while the egg proteins simultaneously coagulate, locking the muffins into a highly aerated, fluffy matrix."
+  - "Steam Expansion & Coagulation: The intense circulating heat rapidly turns the water inside the beaten eggs into steam. This trapped steam expands the structure while the egg proteins simultaneously coagulate, locking the muffins into a highly aerated, fluffy matrix.. Look for a glossy, thick texture—if it’s watery, you’ve failed the emulsion and need to reduce it further."
   - "Flavour Efficiency: Sun-dried tomatoes and feta deliver a massive umami hit with zero extra prep."
 whyTitle: "Why This Combination Works"
 why:

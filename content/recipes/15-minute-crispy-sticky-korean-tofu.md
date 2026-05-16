@@ -2,9 +2,13 @@
 title: "The Quickest, Crispiest 15-Minute Sticky Korean Tofu"
 slug: "15-minute-crispy-sticky-korean-tofu"
 meta: {
-  seoMetaDescription: "Need a high-protein hit fast? The quickest, crispiest 15-minute sticky Korean tofu delivers fiery gochujang flavor."
+  seoMetaDescription: "Need a high-protein hit fast? The quickest, crispiest 15-minute sticky Korean tofu delivers fiery gochujang flavour."
 } 
-description: "**Packing 22g of plant-based protein**, this shatter-crisp tofu is coated in a fiery, sweet gochujang glaze. By drying the tofu properly and utilising cornflour, you get a golden, deep-fried crunch in a pan, delivering the quickest, crispiest 15-minute sticky Korean tofu.<br><br>It makes hitting your daily plant-based targets an absolute breeze. Tested repeatedly to perfectly balance the fiery gochujang heat with the sweet sugar and sharp vinegar, ensuring the glaze thickens into a glossy lacquer without burning."
+description: |
+  Packing a massive hit of plant-based protein, this shatter-crisp tofu is coated in a fiery, sweet gochujang glaze. By drying the tofu properly and utilising cornflour, you get a golden, deep-fried crunch in a pan, delivering the quickest, crispiest 15-minute sticky Korean tofu.
+
+  It makes hitting your daily plant-based targets an absolute breeze. Tested repeatedly to perfectly balance the fiery gochujang heat with the sweet sugar and sharp vinegar, ensuring the glaze thickens into a glossy lacquer without burning.
+
 image: "15-minute-crispy-sticky-korean-tofu_vu0qlh"
 alt: "15-Minute Crispy Sticky Korean Tofu garnished with sesame seeds"
 pintrest: "sticky-korean-tofu-pintrest_qh2wsc"
@@ -19,7 +23,7 @@ tips:
   - "Sauce Consistency: If the glaze turns to concrete in the pan, violently whisk in a splash of water to resurrect it."
   - "Heat Management: Gochujang heat varies wildly. Taste the raw sauce and balance with an extra pinch of sugar if it's going to blow your head off."
 works:
-  - "Starch Gelatinisation: The cornflour acts as a moisture barrier, dehydrating rapidly in the hot oil to form a rigid, shatter-crisp crust. This structural armour ensures the tofu doesn't immediately turn soggy when tossed in the wet glaze."
+  - "Starch Gelatinisation: The cornflour acts as a moisture barrier, dehydrating rapidly in the hot oil to form a rigid, shatter-crisp crust. This structural armour ensures the tofu doesn't immediately turn soggy when tossed in the wet glaze.. Look for a glossy, thick texture—if it’s watery, you’ve failed the emulsion and need to reduce it further."
   - "Viscous Maillard Glaze: The heavy starch and sugar content in the gochujang paste acts as a natural thickener. When simmered, these sugars violently caramelise, forming a tight, sticky lacquer that chemically adheres to the tofu's crispy surface."
 use:
   - "Rapid Main: The ultimate elite star ingredient for a loaded Korean rice bowl."

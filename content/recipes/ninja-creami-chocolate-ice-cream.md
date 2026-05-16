@@ -4,7 +4,10 @@ slug: "ninja-creami-chocolate-ice-cream"
 meta: {
   seoMetaDescription: "Massive 67g protein hit! The ultimate ultra-creamy chocolate Ninja Creami is a macro-friendly, macro-friendly dessert."
 } 
-description: "A massive 67g of protein disguised as a rich, decadent chocolate dessert in freezing cold ice cream form. Using the Ninja Creami turns this macro-friendly mix of chocolate whey and rich cocoa into the ultimate ultra-creamy dream.<br><br>The absolute cheat code for hitting your targets. Tested endlessly to nail the exact cocoa and salt ratio so it tastes like a premium gelato, rather than a powdery supplement shake."
+description: |
+  A massive protein hit disguised as a rich, decadent chocolate dessert in freezing cold ice cream form. Using the Ninja Creami turns this macro-friendly mix of chocolate whey and rich cocoa into the ultimate ultra-creamy dream.
+  
+  The absolute cheat code for hitting your targets. Tested endlessly to nail the exact cocoa and salt ratio so it tastes like a premium gelato, rather than a powdery supplement shake.
 image: "ninja-creami-chocolate-ice-cream_bnolyt"
 alt: "Chocolate protein ice cream in a Ninja Creami pint"
 pintrest: ""
@@ -21,6 +24,7 @@ works:
   - "Structural Matrix: Chocolate whey protein and cocoa powder act as exceptional mechanical binders. When frozen and violently micro-shaved by the Creami blade, they stabilize the ice crystals in the low-fat milk, replicating the dense, velvety mouthfeel of heavy cream."
   - "Flavour Synergy: The sea salt naturally amplifies the depth of the cocoa, transforming a basic protein shake into a premium dessert profile."
 use:
+  - "Pre-Workout Primer: The perfect fuel to smash your next PB."
   - "Sweet Fuel: Solid macros disguised as a premium dessert."
   - "Late-Night Fix: Highly satiating to kill evening cravings without blowing your deficit."
   - "Post-Workout: The ultimate cold recovery meal after a brutal session."

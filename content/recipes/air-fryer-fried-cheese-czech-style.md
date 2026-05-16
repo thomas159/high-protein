@@ -4,7 +4,11 @@ slug: "air-fryer-fried-cheese-czech-style"
 meta: {
   seoMetaDescription: "Craving comfort food? This extra crispy 15-minute air fryer Czech fried cheese gives you a massive gooey block without the oil."
 }
-description: "Authentic Czech Smažený Sýr, completely rebuilt for the air fryer. A thick, gooey block of cheese with an extra crispy 15-minute shell. The double breading acts as structural armour so the cheese doesn't leak.<br><br> massive protein (33g per serving), and zero deep-frying mess. Tested repeatedly to perfect the double-breading ratio, ensuring a rigid structural crust that holds the molten cheese without leaking."
+description: |
+  Authentic Czech Smažený Sýr, completely rebuilt for the air fryer. A thick, gooey block of cheese with an extra crispy 15-minute shell. The double breading acts as structural armour so the cheese doesn't leak.
+
+  massive protein, and zero deep-frying mess. Tested repeatedly to perfect the double-breading ratio, ensuring a rigid structural crust that holds the molten cheese without leaking.
+
 blurb: []
 image: "fried-cheese-czech-style_im1uqu"
 alt: "Crispy Air Fryer Czech Fried Cheese (Smažený Sýr) on a plate"
@@ -20,7 +24,7 @@ tips:
   - "The Freezer Hack: Freeze the breaded blocks for 30 minutes. This drops the core temp so the crust crisps before the centre liquefies."
   - "Parchment Sling: Put a small square of parchment under it so the breading doesn't fuse to the basket."
 works:
-  - "Thermal Shielding: The double layer of flour, egg, and breadcrumbs acts as a thermal insulator. It ensures the exterior dehydrates and crisps completely before the core temperature rises enough to liquefy the cheese and cause a blowout."
+  - "Thermal Shielding: The double layer of flour, egg, and breadcrumbs acts as a thermal insulator. It ensures the exterior dehydrates and crisps completely before the core temperature rises enough to liquefy the cheese and cause a blowout.. It’s like a PB for your tastebuds, fuelling your recovery without the heavy prep.. Look for a glossy, thick texture—if it’s watery, you’ve failed the emulsion and need to reduce it further."
   - "Rapid Convection: The intense circulating heat mimics deep-frying by rapidly evaporating surface moisture, giving you that authentic snap with zero oil absorption."
 use:
   - "Refeed Main: Serve with chips and tartar sauce."

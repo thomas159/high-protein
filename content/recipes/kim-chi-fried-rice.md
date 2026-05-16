@@ -4,7 +4,10 @@ slug: "kim-chi-fried-rice"
 meta: {
   seoMetaDescription: "Need a spicy recovery meal fast? The quickest, crispiest 15-minute spicy kimchi fried rice delivers smoky umami punch."
 }
-description: "The ultimate recovery meal when you need serious flavour fast. **Delivering 13g of protein for 404 kcal**, aged kimchi brings instant fermented tang and umami to the pan.<br><br>A high-heat sear delivers the quickest, crispiest 15-minute edges. Tested multiple times to balance the fiery gochujang and sharp kimchi juice against the rich egg yolk, ensuring a perfectly rounded heat."
+description: |
+  The ultimate recovery meal when you need serious flavour fast. **Delivering solid protein for minimal calories**, aged kimchi brings instant fermented tang and umami to the pan.
+  
+  A high-heat sear delivers the quickest, crispiest 15-minute edges. Tested multiple times to balance the fiery gochujang and sharp kimchi juice against the rich egg yolk, ensuring a perfectly rounded heat.
 blurb: []
 image: "kim-chi-fried-rice_a4xo6n"
 alt: "Kimchi fried rice topped with a fried egg"
@@ -18,6 +21,7 @@ works:
   - "Fermented Depth: Aged kimchi delivers instant tang and umami that usually takes hours of simmering."
   - "Thermal Crust Formulation: Pressing the rice firmly into the smoking hot pan maximizes surface area contact. This triggers the Maillard reaction and rapidly evaporates residual moisture, creating a rigid, caramelised starch crust."
 use:
+  - "Pre-Workout Primer: The perfect fuel to smash your next PB."
   - "Leftover Rescue: The most efficient way to clear out aging kimchi."
   - "Refeed Bowl: A spicy, warming bowl when you need heavy carbs."
   - "Lightning Main: Pan to plate in under 15 minutes."

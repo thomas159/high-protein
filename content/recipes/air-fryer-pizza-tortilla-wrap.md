@@ -4,7 +4,12 @@ slug: "air-fryer-pizza-tortilla-wrap"
 meta: {
   seoMetaDescription: "Hit that pizza craving fast! The quickest, crispiest 15-minute air fryer tortilla pizza gives you a low-calorie crunch."
 }
-description: "A flour tortilla is a fantastic, lightweight framework for your pizza toppings. It crisps up beautifully under the intense heat of the air fryer, delivering the quickest, crispiest 15-minute pizza.<br><br>It saves you an easy 300 calories. Tested multiple times to balance the moisture of the pesto and tomatoes, ensuring the thin base stays rigid instead of collapsing into a soggy mess."
+description: |
+  A flour tortilla is a fantastic, lightweight framework for your pizza toppings. It crisps up beautifully under the intense heat of the air fryer, delivering a quick, crispy pizza.
+  
+  It saves you a massive amount of calories compared to heavy dough. Tested multiple times to balance the moisture of the pesto and tomatoes, ensuring the thin base stays rigid instead of collapsing into a soggy mess.
+  
+  Think of it as a lean, mean macro hack for your cutting phase.
 blurb: []
 tipsTitle: "Pro Tip"
 tips: 
@@ -12,9 +17,9 @@ tips:
   - "Crisp Base: A quick mist of olive oil on the underside of the tortilla guarantees a rigid, crispy base."
   - "Don't Overload It: This isn't a deep-dish. Keep toppings light or the base will buckle under the weight."
 works:
-  - "Macro Hack: Swapping heavy dough for a tortilla saves you an easy 300 calories to spend elsewhere."
+  - "Macro Hack: Swapping heavy dough for a tortilla saves you a massive amount of calories to spend elsewhere."
   - "Pesto Efficiency: Pesto brings oil, garlic, nuts, and herbs in a single spoonful. Ultimate flavour efficiency."
-  - "Dehydration Mechanics: The intense circulating air of the fryer rapidly evaporates the surface moisture from the thin flour tortilla, fundamentally altering its starch structure to shatter-crisp before the toppings have a chance to make it soggy."
+  - "Dehydration Mechanics: The intense circulating air of the fryer rapidly evaporates the surface moisture from the thin flour tortilla. This fundamentally alters its starch structure to shatter-crisp before the toppings have a chance to make it soggy. If the base feels floppy, it needs another minute to fully dehydrate."
 use:
   - "Cutting Phase Fix: All the pizza satisfaction, barely any of the carbs."
   - "Emergency Refeed: Ready in 15 minutes when the cravings hit."

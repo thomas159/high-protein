@@ -4,7 +4,12 @@ slug: "garam-masala-tofu-marinade"
 meta: {
   seoMetaDescription: "Upgrade your meal prep! This quick 35-minute charred Garam Masala air fryer tofu is a high-protein vegan powerhouse."
 } 
-description: "This quick 35-minute Garam Masala marinade. The lime juice tenderises the tofu, letting the earthy ginger and Indian spices penetrate right to the core. It builds a phenomenal charred crust in the air fryer. High-protein, totally vegan, and zero BS."
+description: |
+  This quick Garam Masala marinade is a flavour powerhouse. The lime juice tenderises the tofu, letting the earthy ginger and Indian spices penetrate right to the core.
+  
+  It builds a phenomenal charred crust in the air fryer. High-protein, totally vegan, and zero BS—the perfect fuel for your gains.
+  
+  Tested to ensure the spices bloom perfectly without burning under the intense heat.
 image: "garam-masala-tofu-marinade_yfdnmb"
 alt: "Garam masala marinated tofu cubes ready for cooking"
 pintrest: ""
@@ -19,8 +24,8 @@ tips:
   - "Spice Blooming: Toast the garam masala in a dry pan for 30 seconds first to violently awaken the aromatics."
   - "Patience Pays Off: 30 minutes works, but overnight in the fridge delivers restaurant-quality depth."
 works:
-  - "Acidic Denaturation: The citric acid from the lime juice partially denatures the dense soy protein lattice on the tofu's surface. This micro-breakdown creates pathways for the heavy Indian aromatics to penetrate deeper into the core."
-  - "Char Factor: High heat caramelises the ginger and garlic paste into an elite crust."
+  - "Acidic Denaturation: The citric acid from the lime juice partially denatures the dense soy protein lattice on the tofu's surface. This micro-breakdown creates pathways for the heavy Indian aromatics to penetrate deeper into the core. If the tofu isn't pressed properly, the water will block the marinade."
+  - "Char Factor: High heat caramelises the ginger and garlic paste into an elite crust. Look for dark, crispy edges that signal the perfect Maillard reaction."
 use:
   - "Curry Protein: Blast in the air fryer and drop into a simmering masala."
   - "Wrap Filling: Serve in a flatbread with mint yoghurt."
@@ -32,7 +37,7 @@ shelf_life: "Airtight tub in the fridge for 5 days."
 storageInstructions: "Fridge the uncooked marinated tofu for 5 days. Freezes brilliantly for 3 months; thawing actually improves the chewy texture."
 whyTitle: "Why marinate tofu?"
 why:
-  - "Deeper Flavour: Letting it sit drags the aromatics past the surface layer."
+  - "Deeper Flavour: Letting it sit drags the aromatics past the surface layer. It's all about time under tension for maximum results."
   - "The Perfect Char: Garlic and ginger sugars caramelise under high heat for elite 'tandoori-style' crispy edges."
   - "Lean Macros: A massive flavour punch without touching heavy creams or oils."
 variations:

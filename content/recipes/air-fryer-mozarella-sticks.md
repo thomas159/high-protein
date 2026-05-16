@@ -4,7 +4,12 @@ slug: "air-fryer-mozarella-sticks"
 meta: {
   seoMetaDescription: "Skip the shop-bought rubbish. These ultimate extra crispy air fryer mozzarella sticks deliver a massive cheese pull in just 45 minutes."
 }
-description: "Skip the frozen options. The double-breading on these mozzarella sticks locks the cheese inside, preventing any messy leaks in your air fryer basket.<br><br>Packing 10g of protein for 289 kcal, you get the ultimate extra crispy crunch and a massive cheese pull in just 45 minutes. Tested multiple times to nail the exact double-breading thickness and spice ratio to prevent blowouts."
+description: |
+  Skip the frozen options. The double-breading on these mozzarella sticks locks the cheese inside, preventing any messy leaks in your air fryer basket.
+  
+  Packing a solid protein hit for minimal calories, this is the ultimate cheat day starter. You get an extra crispy crunch and a massive cheese pull without deep-frying.
+  
+  Tested multiple times to nail the exact double-breading thickness and spice ratio. This structural armour prevents blowouts, ensuring you hit your macro targets perfectly.
 image: "air-fryer-mozarella-sticks_oiud1f"
 alt: "Crispy air fryer mozzarella sticks with a cheese pull"
 pintrest: ""
@@ -15,8 +20,8 @@ tips:
   - "Acid Cut: Squeeze fresh lime juice over the sticks right before eating. It cuts straight through the heavy fats."
   - "Freeze to Please: They must be rock-solid frozen before cooking. If they thaw during prep, put them back in the freezer for 15 minutes."
 works:
-  - "Thermal Shielding: Freezing drops the core temperature, while the double layer of flour and egg acts as a thermal insulator. This ensures the exterior dehydrates and crisps completely before the core temperature rises enough to cause a blowout."
-  - "Structural Integrity: As the egg proteins coagulate and the flour starches gelatinize under the intense heat, they form a rigid, impenetrable matrix that locks the melting cheese inside."
+  - "Thermal Shielding: Freezing drops the core temperature, while the double layer of flour and egg acts as a thermal insulator. This ensures the exterior dehydrates and crisps completely before the core temperature rises enough to cause a blowout. If you skip this, the cheese will liquefy and rupture the casing before the crust even sets."
+  - "Structural Integrity: As the egg proteins coagulate and the flour starches gelatinise under the intense heat, they form a rigid, impenetrable matrix that locks the melting cheese inside. Watch for a deep golden-brown crust; if it looks pale, the matrix hasn't fully set."
 use:
   - "Cheat Day Starter: The ultimate kickoff to an Italian refeed."
   - "Match Day Platter: A guaranteed crowd-pleaser to enjoy while watching the football."
@@ -26,9 +31,9 @@ tags: ["party snack"]
 keywords: ["mozzarella sticks", "air fryer", "cheese", "snack", "crispy", "american", "appetizer", "homemade mozzarella sticks"]
 whyTitle: "Why use an air fryer?"
 why:
-  - "Superior Crunch: The circulating air delivers a deep-fried texture without swimming in oil."
-  - "Speed: Frozen to perfectly melted in under 10 minutes."
-  - "Mess-Free: Zero oil splatters to clean up when you're done."
+  - "Superior Crunch: The circulating air delivers a deep-fried texture without swimming in oil. You get that heavy lifting satisfaction without the sluggish aftermath."
+  - "Speed: Frozen to perfectly melted in a fraction of the time."
+  - "Mess-Free: Zero oil splatters to clean up when you're done. Just pure, efficient fuel."
 dontTitle: "Don't skip the freeze!"
 dont: "Skipping the 30-minute freezer step is the difference between a crispy snack and a catastrophic puddle of cheese in your air fryer basket."
 variations:
@@ -63,7 +68,7 @@ faq:
     answer: "Absolutely! Pre-packaged string cheese works perfectly and saves you the step of slicing the cheese yourself."
 
 steps:
-  - text: "Arrange three small bowls in a row. In the first, add the flour. In the second, the beaten egg. In the third, combine the breadcrumbs with the chili flakes, oregano, and garlic granules. Mixing the spices directly into the crumbs ensures every bite is flavorful."
+  - text: "Arrange three small bowls in a row. In the first, add the flour. In the second, the beaten egg. In the third, combine the breadcrumbs with the chili flakes, oregano, and garlic granules. Mixing the spices directly into the crumbs ensures every bite is flavourful."
     image: "air-fryer-mozarella-sticks-step-1_lmayev"
   - text: "Slice the mozzarella into uniform sticks about 2cm thick. Pat them slightly with a damp paper towel (if they are too dry) and dredge them in the flour until fully coated, shaking off any excess."
     image: "air-fryer-mozarella-sticks-step-2-1_wik6yk"

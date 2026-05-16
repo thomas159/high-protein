@@ -4,7 +4,11 @@ slug: "5-minute-peanut-butter-chilli-noodles"
 meta: {
   seoMetaDescription: "Need dinner in a flash? These quick 5-minute ultra-creamy peanut butter chilli noodles deliver spicy vegan protein."
 } 
-description: "A brilliant balance of heavy peanut butter fats and sharp chilli heat. Using the starchy noodle water emulsifies the sauce instantly, giving you quick 5-minute ultra-creamy noodles.<br><br>Raw ginger provides a punchy, anti-inflammatory kick. My go-to rapid prep meal, tested endlessly to balance the sharp rice wine vinegar against the heavy peanut fats, ensuring a bright, punchy viscosity."
+description: |
+  A brilliant balance of heavy peanut butter fats and sharp chilli heat. Using the starchy noodle water emulsifies the sauce instantly, giving you quick 5-minute ultra-creamy noodles.
+
+  Raw ginger provides a punchy, anti-inflammatory kick. My go-to rapid prep meal, tested endlessly to balance the sharp rice wine vinegar against the heavy peanut fats, ensuring a bright, punchy viscosity.
+
 image: "5-minute-peanut-butter-chilli-noodle_getziq"
 alt: "5-Minute Peanut Butter Chilli Noodles in a bowl"
 categories: ["5-minute-meals", "vegan", "high-protein"]
@@ -17,7 +21,7 @@ tips:
   - "The Acid Balance: Don't skip the rice wine vinegar. The sharp acidity slices straight through the heavy peanut fats."
   - "Crunch Factor: Hammer the finished dish with crushed peanuts, crispy fried shallots, or toasted sesame seeds."
 works:
-  - "Starch-Bound Emulsion: Peanut butter fats and watery soy sauce naturally repel each other. The amylose starches leached into the reserved noodle water act as a mechanical emulsifier, physically binding the fat and water molecules together into a thick, glossy, unbreakable glaze."
+  - "Starch-Bound Emulsion: Peanut butter fats and watery soy sauce naturally repel each other. The amylose starches leached into the reserved noodle water act as a mechanical emulsifier, physically binding the fat and water molecules together into a thick, glossy, unbreakable glaze.. Look for a glossy, thick texture—if it’s watery, you’ve failed the emulsion and need to reduce it further."
   - "Raw Aromatics: Grated ginger and raw garlic deliver a punchy bite that holds its own against the heavy fats."
 use:
   - "Emergency Refeed: A savoury, spicy fix ready faster than you can order a takeaway."
@@ -26,7 +30,7 @@ use:
 servingSuggestions: "These are heavy-hitters on their own. Pair with some pickled daikon or cucumber to cleanse the palate. Brilliant alongside steamed vegetable dumplings."
 shelf_life: "Eat fresh. The sauce seizes up as it cools."
 storageInstructions: "Fridge for up to 2 days. Reheat gently on the stove with a splash of boiling water to resurrect the sauce. Do not freeze."
-whyTitle: "The Flavor Science"
+whyTitle: "The Flavour Science"
 why:
   - "Aromatic Base: Raw garlic and ginger provide massive anti-inflammatory benefits for post-workout recovery."
   - "The Acid Balance: Vinegar cuts the heavy fats, brightening the entire macro profile."

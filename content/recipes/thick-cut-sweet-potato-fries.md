@@ -4,7 +4,9 @@ slug: "thick-cut-sweet-potato-fries"
 meta: {
   seoMetaDescription: "Want the perfect side dish? These ultimate extra crispy air fryer sweet potato fries are a macro-friendly 60-minute vegan snack."
 }
-description: "Enjoy the perfect balance of sweet and savory with the ultimate extra crispy sweet potato fries. **A high-volume side dish clocking in at just 232 kcal**, they offer a healthy, satisfying crunch with a fraction of the oil.<br><br>Cooked to perfection in the air fryer. Tested multiple times to nail the exact soaking time required to pull out the starch."
+description: |
+  Enjoy the perfect balance of sweet and savory with the ultimate extra crispy sweet potato fries. **A high-volume side dish clocking in at just solid macros**, they offer a healthy, satisfying crunch with a fraction of the oil.
+  Cooked to perfection in the air fryer. Tested multiple times to nail the exact soaking time required to pull out the starch.
 image: "thick-cut-sweet-potato-fries_zip294"
 alt: "Thick cut sweet potato fries stacked on a plate"
 pintrest: ""

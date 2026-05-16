@@ -4,7 +4,12 @@ slug: "air-fryer-sour-cream-fries"
 meta: {
   seoMetaDescription: "Craving a savory snack? These 30-minute extra crispy air fryer sour cream & onion fries hit the spot with a velvety garlic sauce."
 }
-description: "These irresistible Sour Cream Fries. Extra crispy on the outside and fluffy in the center, every golden fry is drizzled with a velvety, garlic-infused sour cream sauce. An easy 30-minute treat that delivers The perfect balance of savory textures."
+description: |
+  These irresistible sour cream fries are extra crispy on the outside and fluffy in the centre. Every golden fry is drizzled with a velvety, garlic-infused sour cream sauce.
+  
+  An easy treat that delivers the perfect balance of savoury textures. It's the ultimate post-workout reward that won't derail your progress.
+  
+  Tested to ensure the sauce coats the fries perfectly without turning them into a soggy mess.
 image: "air-fryer-sour-cream-fries_k2lvbn"
 alt: "Air fryer fries drizzled with garlic sour cream sauce"
 pintrest: ""
@@ -16,8 +21,8 @@ tips:
   - "Sauce Separation: If serving a crowd, keep the sauce on the side as a dip to preserve the crispiness."
   - "Temperature Contrast: The sour cream must be fridge-cold when it hits the piping hot fries. The contrast is elite."
 works:
-  - "Thermal Coating: The intense residual heat of the fries slightly melts the heavy fats in the cold sour cream upon contact. This instantly transforms the thick dollop into a silky, emulsified sauce that evenly coats the rigid starch crust without immediately turning it soggy."
-  - "Air-Fried Armour: The air fryer violently strips moisture, creating a rigid exterior that holds up under the heavy sauce."
+  - "Thermal Coating: The intense residual heat of the fries slightly melts the heavy fats in the cold sour cream upon contact. This instantly transforms the thick dollop into a silky, emulsified sauce that evenly coats the rigid starch crust without immediately turning it soggy. If the sauce splits, the fries were too hot."
+  - "Air-Fried Armour: The air fryer violently strips moisture, creating a rigid exterior that holds up under the heavy sauce. You want a deep golden crunch to act as the perfect structural base."
 use:
   - "Gourmet Side: Elevates a standard weeknight dinner into a pub-style feast."
   - "Match Day Platter: Perfect for piling high in the centre of the table."
@@ -26,8 +31,8 @@ tags: []
 keywords: ["sour cream", "fries", "air fryer", "american", "snack", "garlic", "crispy"]
 whyTitle: "Air Fryer Advantages"
 why:
-  - "Superior Crunch: Circulating heat delivers a deep-fried snap with barely any oil."
-  - "Brutal Efficiency: Raw potato to fully loaded plate in under 30 minutes."
+  - "Superior Crunch: Circulating heat delivers a deep-fried snap with barely any oil. Like a perfect deadlift, it's all about solid form."
+  - "Brutal Efficiency: Raw potato to fully loaded plate in record time."
 variations:
   - "Loaded Style: Top it with cheddar and vegetarian bacon bits."
   - "Fire Starter: Whisk a heavy dash of hot sauce into the sour cream."
@@ -51,7 +56,7 @@ ingredients:
   - { item: "Spring onion", type: 'finely chopped', amount: 1 }
 
 faq:
-  - question: "Can I use Greek yogurt instead of sour cream?"
+  - question: "Can I use Greek yoghurt instead of sour cream?"
     answer: "Absolutely. Greek yoghurt is an elite high-protein, lower-calorie swap."
   - question: "Will the fries get soggy?"
     answer: "Toss the hot fries in the cold sauce right before eating, or serve it as a dip to keep the structural integrity intact."

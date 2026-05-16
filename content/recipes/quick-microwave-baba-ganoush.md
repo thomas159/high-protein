@@ -4,7 +4,9 @@ slug: "quick-microwave-baba-ganoush"
 meta: {
   seoMetaDescription: "Middle Eastern mezze fast? This quick 15-minute ultra-creamy microwave baba ganoush is a macro-friendly vegan dip."
 } 
-description: "Craving Middle Eastern mezze but don't want to wait 45 minutes for an oven? **Clocking in at 195 kcal with 7g of protein**, the microwave aggressively steams the aubergine in minutes.<br><br>Blended with tahini for a rich, macro-friendly appetizer. Tested multiple times to perfectly balance the lemon juice and tahini, ensuring a rich emulsion that rivals the traditional open-flame roast."
+description: |
+  Craving Middle Eastern mezze but don't want to wait 45 minutes for an oven? **Clocking in at solid macros with a heavy hit of protein**, the microwave aggressively steams the aubergine in minutes.
+  Blended with tahini for a rich, macro-friendly appetizer. Tested multiple times to perfectly balance the lemon juice and tahini, acting like a spotter for your diet and ensuring a rich emulsion that rivals the traditional open-flame roast.
 image: "quick-microwave-baba-ganoush_douf9l"
 alt: "Quick microwave baba ganoush drizzled with olive oil"
 categories: ["dips", "vegan", "15-minute-meals"]
@@ -13,7 +15,7 @@ cuisine: "Middle Eastern"
 keywords: ["baba ganoush", "aubergine", "eggplant", "microwave", "middle eastern", "vegan", "dip"]
 tipsTitle: "Smoky Perfection"
 tips:
-  - "Safety First: Aggressively prick the aubergine with a fork. Unless you want it to explode and decorate your microwave."
+  - "Safety First: Aggressively prick the aubergine with a fork. Unless you want it to violently explode and decorate your microwave due to steam pressure buildup."
   - "The Smoky Hack: Since we skipped the open fire, smoked paprika or liquid smoke is mandatory for that authentic roasted depth."
   - "Drain the Excess: Microwaved aubergine holds water. Let the flesh sit in a sieve for 5 minutes before mashing so your dip isn't watery."
 works:
@@ -48,7 +50,7 @@ ingredients:
   - { item: "Garlic clove", amount: 1, type: "minced" }
   - { item: "Lemon juice", amount: 1, unit: "tbsp" }
   - { item: "Olive oil", amount: 1, unit: "tbsp" }
-  - { item: "Smoked Paprika", amount: 0.5, unit: "tsp", type: "for the smoky flavor" }
+  - { item: "Smoked Paprika", amount: 0.5, unit: "tsp", type: "for the smoky flavour" }
   - { item: "Cumin", amount: 0.25, unit: "tsp" }
   - { item: "Salt", amount: 0.25, unit: "tsp" }
 

@@ -4,7 +4,10 @@ slug: "mango-sticky-rice"
 meta: {
   seoMetaDescription: "Clean carb refeed? The ultimate velvety Thai mango sticky rice is an authentic, macro-friendly 15-minute vegan dessert."
 }
-description: "The ultimate clean-carb refeed. **Delivering 43g of fast-digesting carbs for 353 kcal**, this authentic Mango Sticky Rice relies on a precise 4:1 ratio of coconut infusion to finishing glaze.<br><br>Ideal for fuelling your next heavy leg session. Tested relentlessly to perfectly balance the sweet coconut infusion with a sharp pinch of salt, preventing the dessert from becoming cloying."
+description: |
+  The ultimate clean-carb refeed. **Delivering a massive hit of fast-digesting carbs**, this authentic Mango Sticky Rice relies on a precise 4:1 ratio of coconut infusion to finishing glaze.
+  
+  Ideal for fuelling your next heavy leg session. Tested relentlessly to perfectly balance the sweet coconut infusion with a sharp pinch of salt, preventing the dessert from becoming cloying.
 blurb: []
 image: "mango-sticky-rice_vzh6ec"
 alt: "Authentic Thai Mango Sticky Rice served with coconut sauce"
@@ -21,6 +24,7 @@ works:
   - "Amylopectin Gelatinisation: Glutinous rice contains almost zero amylose and extremely high amylopectin. Steaming breaks down this specific starch structure, causing the grains to become incredibly sticky and chewy without turning into mush."
   - "Osmosis Action: Hot rice expands and drinks in the coconut milk, trapping the flavour inside the grain."
 use:
+  - "Pre-Workout Primer: The perfect fuel to smash your next PB."
   - "Tropical Finisher: A stunning finale to an Asian-inspired prep."
   - "Heavy Refeed: A massive, clean-carb treat for heavy training days."
   - "Morning Fuel: Enjoy the leftover sticky rice with fresh fruit for breakfast."

@@ -4,7 +4,12 @@ slug: "chimichurri-sauce"
 meta: {
   seoMetaDescription: "Upgrade your proteins fast! This quick 5-minute zesty vegan chimichurri sauce balances olive oil and fresh herbs perfectly."
 }
-description: "The ultimate quick 5-minute flavour hack. Macerating the raw garlic in red wine vinegar removes the harsh bite, perfectly balancing the heavy olive oil and fresh herbs. The perfect zesty Chimichurri to drizzle over grilled seitan or roasted veg for a massive, healthy upgrade."
+description: |
+  The ultimate quick flavour hack. Macerating the raw garlic in red wine vinegar removes the harsh bite, perfectly balancing the heavy olive oil and fresh herbs.
+  
+  The perfect zesty chimichurri to drizzle over grilled seitan or roasted veg for a massive, healthy upgrade. It's the ultimate condiment to superset your meals.
+  
+  Tested to ensure the acidity perfectly cuts through the fat, delivering a balanced, punchy profile.
 blurb: []
 image: 'chimichurri-sauce_2_usinnj'
 alt: "Fresh and vibrant green chimichurri sauce in a small bowl"
@@ -18,8 +23,8 @@ tips:
   - "Let It Breathe: Let it sit at room temperature for 15 minutes before serving so the herbs violently release their oils."
   - "Heat Control: Leave the chilli seeds in for a fiery kick, or discard them for a milder tang."
 works:
-  - "Enzymatic Mellowing (Maceration): Soaking the raw minced garlic in red wine vinegar first halts the production of allicin—the compound responsible for raw garlic's aggressive, burning bite. This yields a smooth, deeply savoury pungency that perfectly balances the heavy olive oil."
-  - "Fat and Acid Synergy: The heavy olive oil is perfectly sliced open by the sharp vinegar."
+  - "Enzymatic Mellowing (Maceration): Soaking the raw minced garlic in red wine vinegar first halts the production of allicin—the compound responsible for raw garlic's aggressive, burning bite. This yields a smooth, deeply savoury pungency that perfectly balances the heavy olive oil. If you skip this, the raw garlic will overpower the entire sauce."
+  - "Fat and Acid Synergy: The heavy olive oil is perfectly sliced open by the sharp vinegar. Look for a vibrant green emulsion that holds together nicely."
 use:
   - "As a Marinade: Coat tofu or seitan before hitting the grill."
   - "As a Topping: Spoon aggressively over roasted potatoes or veg."
