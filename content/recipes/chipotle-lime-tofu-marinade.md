@@ -24,7 +24,7 @@ tips:
   - "The Citrus Finish: Heat destroys fresh citrus notes. Hit it with a fresh squeeze of lime right before you eat it."
 works:
   - "Acidic Permeation: The low pH of the lime juice attacks the rigid soy protein structure of the tofu. This slight surface breakdown allows the heavy, fat-soluble smoky oils from the chipotle adobo to infiltrate the block rather than just washing off in the pan. If the tofu is too wet, the acid can't penetrate."
-  - "Sugar Caramelisation: The natural sugars in the adobo sauce char rapidly under the air fryer's heat, building a proper BBQ-style bark. Watch for a dark, sticky crust; if it's pale, it needs more heat."
+  - "Sugar Caramelisation: The natural sugars in the adobo sauce char rapidly under the air fryer's heat, building a proper BBQ-style bark. Watch for a dark, sticky crust, if it's pale, it needs more heat."
 use:
   - "Taco Fuel: The ultimate smoky protein for Mexican night."
   - "Salad Topper: Toss it cold into a black bean and corn bowl."
@@ -33,7 +33,7 @@ rating:
 reviews: 
 servingSuggestions: "The absolute star of a Mexican macro bowl. Serve over lime quinoa, black beans, and avocado. Top with vegan sour cream to kill the heat."
 shelf_life: "Stored in airtight container in the fridge for 5 days"
-storageInstructions: "Fridge the uncooked block in the marinade for 5 days. Freezes well for 3 months; the ice crystals actually improve the chewy texture."
+storageInstructions: "Fridge the uncooked block in the marinade for 5 days. Freezes well for 3 months, the ice crystals actually improve the chewy texture."
 whyTitle: "Why marinate tofu?"
 why:
   - "The Acid Factor: High citric acid breaks down the tofu's defence mechanisms, pulling the marinade to the core. Just like breaking down muscle fibres to build them back stronger."

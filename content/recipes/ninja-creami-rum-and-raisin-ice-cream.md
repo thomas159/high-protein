@@ -21,7 +21,7 @@ tips:
   - "Alcohol Science: The alcohol in the dark rum lowers the freezing point of the ice cream. This naturally prevents it from turning into a rock-solid block of ice, contributing to a much softer, scoopable texture right out of the machine."
   - "Mix-In Magic: Core the centre and use the mix-in function to evenly distribute the rum-soaked raisins."
 works:
-  - "Structural Matrix: Whey protein acts as an exceptional mechanical binder. When frozen and violently micro-shaved by the Creami blade, it stabilises the ice crystals in the milk, replicating the dense, velvety mouthfeel of heavy cream."
+  - "Perfect Texture: Whey protein helps bind it together. When frozen and shaved by the Creami blade, it stabilises the ice crystals in the milk, replicating the dense, velvety mouthfeel of heavy cream."
   - "Flavour Enhancement: Soaking the raisins in the dark rum plumps them up and locks the intense boozy flavour deep inside the fruit, releasing it as you chew."
 use:
   - "Sweet Fuel: Spot-on macros disguised as a premium dessert."

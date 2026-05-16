@@ -19,7 +19,7 @@ tags: ["vegan", "quick-meals"]
 tipsTitle: "Elevate the Bowl"
 tips:
   - "Texture Control: Pull them 30 seconds early. They'll keep cooking in the residual heat."
-  - "Sauce Emulsion: Keep a spoonful of starchy water to mix into your glaze—it helps the sauce violently cling to the noodles."
+  - "Sauce Emulsion: Keep some starchy water to mix into your glaze—it helps the sauce violently cling to the noodles."
   - "Volume Boost: Toss in a handful of baby spinach or pak choi at the end for an effortless micronutrient hit."
 works:
   - "Osmotic Glazing: By boiling off the stock rather than draining it, the starchy water reduces into a concentrated syrup. The porous noodles act like sponges, absorbing the heavy sodium and soy compounds through osmosis while the residual starch forms a thick, clinging glaze.. Look for a glossy, thick texture—if it’s watery, you’ve failed the emulsion and need to reduce it further."
@@ -29,7 +29,7 @@ use:
   - "Midnight Fuel: Quick, savoury, and zero cleanup."
   - "Base Builder: Toss in a soft-boiled egg or leftover veg for a complete meal."
 variations:
-  - "Peanut Twist: Aggressively stir in a spoonful of peanut butter."
+  - "Peanut Twist: Aggressively stir in some peanut butter."
   - "Volume Prep: Toss in shredded carrots and edamame."
 rating: 
 reviews: 

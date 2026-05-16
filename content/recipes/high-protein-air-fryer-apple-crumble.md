@@ -19,8 +19,8 @@ tips:
   - "Foil Shield: If the oat crumble starts catching before the apples soften, loosely cover the ramekin with tin foil."
   - "Binder Temperature: Use melted butter or warm coconut oil. It acts like glue for the protein powder and oats, building chunky, satisfying clusters."
 works:
-  - "Fat-Protein Binding: Rubbing melted butter or coconut oil into the oats and whey powder creates a hydrophobic coating. This fat layer prevents the dry ingredients from immediately absorbing the steaming apple juice, ensuring the topping bakes into a rigid, crispy crust instead of collapsing into a wet paste."
-  - "Macro Engineering: Swapping standard flour for protein powder boosts the macros without ruining the structural integrity of the dessert."
+  - "The Perfect Crunch: Rubbing melted butter or coconut oil into the oats and whey powder coats them so they don't immediately soak up the steaming apple juice. This ensures the topping bakes into a crispy crust instead of turning into a wet paste."
+  - "Macro Boost: Swapping standard flour for protein powder boosts the macros while keeping the dessert perfectly crispy."
 use:
   - "Pre-Workout Primer: The perfect fuel to smash your next PB."
   - "macro-friendly Finisher: An elite dessert to cap off the evening without blowing your deficit."
@@ -36,7 +36,7 @@ shelf_life: "Demolish immediately while warm."
 storageInstructions: "Fridge leftovers for 3 days. Blast in the air fryer to resurrect the crunch. The raw crumble mix can be frozen in a bag for 3 months."
 whyTitle: "Air Fryer Advantages"
 why:
-  - "Fail-State Avoidance: We skip the traditional slow-cook to prevent the proteins from denaturing into a rubbery mess."
+  - "We skip the traditional slow-cook so the protein powder doesn't turn into a rubbery mess."
   - "Instant Heat: Zero preheating required for a single ramekin. Reaches temp in seconds."
   - "Perfect Crunch: The forced convection creates a drastically crispier topping than a standard oven."
   - "Muscle Recovery: High-fibre oats and protein powder transform this from a cheat meal into functional fuel."

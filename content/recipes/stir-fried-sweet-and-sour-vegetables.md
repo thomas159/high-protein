@@ -31,7 +31,7 @@ variations:
   - "Protein Addition: Toss in some crispy air-fried tofu cubes."
   - "Cashew Crunch: Top it with roasted cashews before serving."
 servingSuggestions: "Serve this over a bed of jasmine rice. Top with extra crispy tofu and a heavy dash of chilli oil for an elite recovery meal."
-storageInstructions: "Fridge for 3 days. Do not freeze this; the cucumber and tomato will turn to absolute mush."
+storageInstructions: "Fridge for 3 days. Do not freeze this, the cucumber and tomato will turn to absolute mush."
 prepTimeMins: 15
 cookTimeMins: 15
 servings: 1

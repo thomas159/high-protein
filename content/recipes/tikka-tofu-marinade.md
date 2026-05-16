@@ -20,7 +20,7 @@ tips:
   - "The Yoghurt Rule: Use full-fat Greek yoghurt (or a thick vegan sub). Watery, low-fat versions will just slide off and burn."
   - "Don't Skimp on Salt: Tofu is notoriously bland internally. A heavy pinch of salt in the marinade is mandatory."
 works:
-  - "Lactic Acid Denaturation: The mild lactic acid in the Greek yoghurt gently denatures the rigid soy proteins on the surface of the tofu. This tenderising effect allows the heavy fat-soluble spices to penetrate deeply, while the thick yoghurt proteins act as a thermal shield that catches and chars under high heat."
+  - "The Perfect Char: The Greek yoghurt gently tenderises the tofu so those heavy spices can sink in. The thick yoghurt also acts as a shield, catching and charring perfectly under high heat."
   - "Tandoori Char: The thick yoghurt acts as a thermal shield, bubbling and charring perfectly under high heat."
 use:
   - "Curry Companion: Char it up and drop it into a simmering tomato masala."

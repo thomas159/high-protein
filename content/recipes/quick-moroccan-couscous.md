@@ -20,7 +20,7 @@ tips:
   - "Stock Matters: Couscous absorbs everything. Use a quality vegetable stock instead of water for a massive flavour spike."
   - "Fresh Finish: Aggressively stir through fresh mint or parsley at the end for an authentic Mediterranean lift."
 works:
-  - "Pre-Gelatinised Hydration: Couscous is actually tiny granules of semolina dough that have already been steamed and dried. Because the starches are fully pre-gelatinised, pouring boiling stock over them forces instant capillary absorption, completely bypassing the need for a sustained rolling boil."
+  - "Instant Hydration: Couscous is actually tiny granules of semolina dough that have already been steamed and dried. Because of this, pouring boiling stock over them rehydrates them instantly, completely skipping the need to boil them."
   - "Sweet & Salty: Sautéed red onions perfectly offset the sharp, salty hit of the feta."
 use:
   - "Carb Base: The ultimate bed for grilled tofu or roasted veg."

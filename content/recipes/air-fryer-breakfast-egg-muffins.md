@@ -25,7 +25,7 @@ tips:
   - "Fridge Clearance: Add in whatever leftover veg you have—spinach, peppers, mushrooms."
   - "Volume Control: Eggs expand aggressively. Only fill 3/4 full or you'll be scraping burnt egg off your air fryer element."
 works:
-  - "Steam Expansion & Coagulation: The intense circulating heat rapidly turns the water inside the beaten eggs into steam. This trapped steam expands the structure while the egg proteins simultaneously coagulate, locking the muffins into a highly aerated, fluffy matrix.. Look for a glossy, thick texture—if it’s watery, you’ve failed the emulsion and need to reduce it further."
+  - "Perfect Puff: The intense circulating heat rapidly turns the water inside the beaten eggs into steam, puffing them up while the eggs set into a light, fluffy bite. Look for a glossy, thick texture—if it’s watery, it needs more time."
   - "Flavour Efficiency: Sun-dried tomatoes and feta deliver a massive umami hit with zero extra prep."
 whyTitle: "Why This Combination Works"
 why:

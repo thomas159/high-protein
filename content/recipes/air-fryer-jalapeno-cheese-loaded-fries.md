@@ -17,7 +17,7 @@ tips:
   - "Strategic Layering: Don't just dump the cheese on top. Build it in two tiers so every single chip pulls its weight."
   - "Manage the Burn: If you want the jalapeño flavour without destroying your palate, quickly rinse the slices under cold water to ditch the seeds."
 works:
-  - "Two-Stage Structural Integrity: Blasting the naked potatoes first evaporates surface moisture and gelatinises the starches into a rigid, load-bearing crust. This structural armour is entirely necessary to prevent the heavy, molten fats of the cheddar from turning the base into a soggy, collapsed mess.. It’s like a PB for your tastebuds, fuelling your recovery without the heavy prep.. Look for a glossy, thick texture—if it’s watery, you’ve failed the emulsion and need to reduce it further."
+  - "The Double Cook: Blasting the naked potatoes first crisps them up into a solid base. This is entirely necessary to prevent the heavy, melted cheddar from turning the fries into a soggy, collapsed mess. It’s like a PB for your tastebuds, fuelling your recovery without the heavy prep."
   - "Flash Melting: Dropping the cheese in at the absolute end uses residual heat to melt it instantly without burning the fats."
 use:
   - "Refeed Heavyweight: The ultimate messy, high-calorie comfort bowl."

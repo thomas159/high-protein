@@ -21,7 +21,7 @@ tips:
   - "The Re-Spin Secret: High-protein bases always come out powdery on spin one. Add a splash of milk and hit 'Re-spin' to force that gelato texture."
   - "Mix-In Magic: Core the centre and use the mix-in function to fold in sugar-free chocolate chips or crushed hazelnuts for a crucial crunch."
 works:
-  - "Structural Matrix: Chocolate whey protein and cocoa powder act as exceptional mechanical binders. When frozen and violently micro-shaved by the Creami blade, they stabilize the ice crystals in the low-fat milk, replicating the dense, velvety mouthfeel of heavy cream."
+  - "Perfect Texture: Chocolate whey protein and cocoa powder help bind it together. When frozen and shaved by the Creami blade, they stabilize the ice crystals in the low-fat milk, replicating the dense, velvety mouthfeel of heavy cream."
   - "Flavour Synergy: The sea salt naturally amplifies the depth of the cocoa, transforming a basic protein shake into a premium dessert profile."
 use:
   - "Pre-Workout Primer: The perfect fuel to smash your next PB."
@@ -59,7 +59,7 @@ ingredients:
 
 faq:
   - question: "Do I have to use Xanthan gum?"
-    answer: "No. The protein powder and cocoa provide enough structure to bind the ice cream. Add 0.25 tsp if you really want, but it's completely unnecessary."
+    answer: "No. The protein powder and cocoa provide enough structure to bind the ice cream. Add a pinch of if you really want, but it's completely unnecessary."
   - question: "Can I use water instead of milk?"
     answer: "You can, but it will be incredibly icy and lack the dense, creamy mouthfeel. Stick to milk for a proper gelato texture."
   - question: "Can I increase the honey for a carb refeed?"

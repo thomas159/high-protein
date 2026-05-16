@@ -33,7 +33,7 @@ variations:
 reviews: 
 servingSuggestions: "Balance the aggressive heat with a cooling side like steamed veg or miso soup. Wrap it in crisp lettuce leaves for a traditional BBQ bite."
 shelf_life: "Stored in airtight container in the fridge for 5 days"
-storageInstructions: "Fridge the uncooked block in the marinade for 5 days. Freezes brilliantly for 3 months; the ice turns the tofu firmer and meatier."
+storageInstructions: "Fridge the uncooked block in the marinade for 5 days. Freezes brilliantly for 3 months, the ice turns the tofu firmer and meatier."
 whyTitle: "The Flavour Science"
 why:
   - "Fermented Depth: Fermented gochujang delivers a savoury, meaty backbone that standard hot sauce lacks."

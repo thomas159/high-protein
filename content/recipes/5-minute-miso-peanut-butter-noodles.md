@@ -67,7 +67,7 @@ faq:
 steps:
   - "Begin by cooking the noodles according to packet instructions. If you're using fresh noodles, you can skip straight to the pan."
   - "While the noodles are cooking, place a small pan over low heat. Add the water, miso, and peanut butter."
-  - "Whisk aggressively until the peanut butter and miso dissolve. If it looks lumpy, keep whisking; lumps here will not dissolve later."
+  - "Whisk aggressively until the peanut butter and miso dissolve. If it looks lumpy, keep whisking, lumps here will not dissolve later."
   - "Pour in the soy milk and chilli oil. Once the sauce begins to simmer gently, toss in the cooked noodles."
   - "Toss for 30 seconds until every strand is coated. Get it off the heat immediately so the soy milk doesn't split and turn into a grainy mess."
   - "Garnish with sliced spring onions, peanuts and extra red pepper flakes if you want more heat."

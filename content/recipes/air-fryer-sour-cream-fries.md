@@ -59,7 +59,7 @@ faq:
   - question: "Can I use Greek yoghurt instead of sour cream?"
     answer: "Absolutely. Greek yoghurt is an elite high-protein, lower-calorie swap."
   - question: "Will the fries get soggy?"
-    answer: "Toss the hot fries in the cold sauce right before eating, or serve it as a dip to keep the structural integrity intact."
+    answer: "Toss the hot fries in the cold sauce right before eating, or serve it as a dip to keep the fries crispy."
 
 steps:
   - "Scrub the potatoes and slice into 0.5cm matchsticks. Toss aggressively in a bowl with olive oil and salt."

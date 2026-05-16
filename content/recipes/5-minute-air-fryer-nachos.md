@@ -32,7 +32,7 @@ cuisine: "Mexican"
 keywords: ["nachos", "air fryer", "mexican", "cheese", "snack", "5-minute", "quick"]
 whyTitle: "Why use an air fryer?"
 why:
-  - "Preserved crunch: the air fryer protects the structural integrity of the chips. The microwave just steams them into a soggy mess."
+  - "Preserved crunch: the air fryer keeps the chips perfectly crisp. The microwave just steams them into a soggy mess."
   - "Brutal efficiency: zero preheating required. Get from craving to eating in five minutes."
   - "Even melting: the circulating air means even the chips buried at the bottom get hit with the heat."
 variations:
@@ -68,6 +68,6 @@ steps:
   - "Line your air fryer basket with a small piece of parchment paper. This makes cleanup easy and helps you lift the nachos out later. Spread a layer of tortilla chips evenly across the bottom."
   - "**Build it in two tiers** so every single chip pulls its weight. Layer on the grated cheese, followed by the chopped tomatoes and red onions."
   - "Blast them at 160°C for 3 to 5 minutes. Do not walk away from this. The line between perfectly bubbling golden cheese and burnt ash is exactly 15 seconds."
-  - "**Visual cue:** The cheese should be fully melted and starting to bubble at the edges. If the tortilla chips start turning dark brown, pull them immediately or they will taste bitter."
+  - "The cheese should be fully melted and starting to bubble at the edges. If the tortilla chips start turning dark brown, pull them immediately or they will taste bitter."
   - "Carefully lift the parchment paper to slide the nachos out. Finish it off with fresh spring onions, sour cream, and a squeeze of lime juice."
 ---

@@ -16,7 +16,7 @@ recipes:
   - slug: "ninja-creami-rum-and-raisin-ice-cream"
     text: "An elite protein hit with a proper pub-style flavour profile. The dark rum naturally lowers the freezing point, giving you an exceptionally soft, scoopable texture straight out of the machine. Don't add too much alcohol, or it simply won't freeze into a solid structure."
   - slug: "ninja-creami-coconut-ice-cream"
-    text: "A velvety, tropical fix packing massive amounts of protein. We use carton coconut milk instead of the heavy canned stuff to keep the fats low. The whey binds it all into an ultra-creamy dream. Watch out for a chalky texture; a quick respin fixes it instantly."
+    text: "A velvety, tropical fix packing massive amounts of protein. We use carton coconut milk instead of the heavy canned stuff to keep the fats low. The whey binds it all into an ultra-creamy dream. Watch out for a chalky texture, a quick respin fixes it instantly."
   - slug: "ninja-creami-banana-vanilla-ice-cream"
     text: "The perfect pre-workout carb load. Ripe bananas provide natural starches to bind the ice cream and deliver a massive hit of fast-digesting sweet fuel. Wait until the skins are heavily speckled for maximum natural sweetness and a smoother freeze."
   - slug: "ninja-creami-chocolate-ice-cream"

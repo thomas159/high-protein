@@ -32,7 +32,7 @@ variations:
   - "Tahini Swap: Use tahini if you prefer an earthier hit."
 reviews: 
 servingSuggestions: "Enjoy this heavy bowl alongside charred Asian greens like gai lan or snap peas. Top with a soft-boiled egg or crispy chickpeas for a massive protein spike."
-storageInstructions: "Fridge in an airtight tub for 3 days. Don't freeze it; the udon will turn to mush."
+storageInstructions: "Fridge in an airtight tub for 3 days. Don't freeze it, the udon will turn to mush."
 prepTimeMins: 5
 cookTimeMins: 10
 servings: 1

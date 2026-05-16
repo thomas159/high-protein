@@ -34,7 +34,7 @@ variations:
   - "Visuals: Use butterfly pea extract to dye the rice."
 reviews: 
 servingSuggestions: "Serve slightly warm so the coconut glaze pools around the fresh mango. Top with toasted sesame seeds for a crucial crunch."
-storageInstructions: "Eat it fresh. Fridge leftovers survive 2 days but turn rock hard; microwave with a damp paper towel to resurrect them. Do not freeze."
+storageInstructions: "Eat it fresh. Fridge leftovers survive 2 days but turn rock hard, microwave with a damp paper towel to resurrect them. Do not freeze."
 prepTimeMins: 5
 cookTimeMins: 10
 servings: 1

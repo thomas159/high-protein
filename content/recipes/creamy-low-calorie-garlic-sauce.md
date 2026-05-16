@@ -35,7 +35,7 @@ reviews:
 cuisine: "Mediterranean"
 keywords: ["garlic sauce", "dip", "mediterranean", "keto", "quick", "appetizer", "condiment"]
 servingSuggestions: "The ultimate dipping companion for carrot sticks or warm pita. Brilliant for cooling down aggressively spicy mains."
-storageInstructions: "Fridge for 4 days in an airtight tub. Do not freeze; the yoghurt will separate entirely."
+storageInstructions: "Fridge for 4 days in an airtight tub. Do not freeze, the yoghurt will separate entirely."
 prepTimeMins: 5
 cookTimeMins: 0
 servings: 1
@@ -59,7 +59,7 @@ faq:
     answer: "4 days. The garlic actually gets punchier after 24 hours."
 
 steps:
-  - "Whisk the mayo and Greek yoghurt in a bowl for 1-2 minutes until completely smooth, thick, and glossy. If it's lumpy, keep whisking; lumps here will ruin the final velvety texture."
+  - "Whisk the mayo and Greek yoghurt in a bowl for 1-2 minutes until completely smooth, thick, and glossy. If it's lumpy, keep whisking, lumps here will ruin the final velvety texture."
   - "Fold in the minced garlic, salt, and pepper."
   - "Stir in half the spring onions. Leave it in the fridge for 15 minutes to let the flavours marry. Top with the remaining onions when serving."
 ---

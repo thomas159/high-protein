@@ -24,7 +24,7 @@ tips:
   - "Spice Blooming: Toast the garam masala in a dry pan for 30 seconds first to violently awaken the aromatics."
   - "Patience Pays Off: 30 minutes works, but overnight in the fridge delivers restaurant-quality depth."
 works:
-  - "Acidic Denaturation: The citric acid from the lime juice partially denatures the dense soy protein lattice on the tofu's surface. This micro-breakdown creates pathways for the heavy Indian aromatics to penetrate deeper into the core. If the tofu isn't pressed properly, the water will block the marinade."
+  - "Flavour Absorption: The lime juice breaks down the tofu's surface just enough to let those heavy Indian spices sink right to the core. If the tofu isn't pressed properly, the water will block the marinade."
   - "Char Factor: High heat caramelises the ginger and garlic paste into an elite crust. Look for dark, crispy edges that signal the perfect Maillard reaction."
 use:
   - "Curry Protein: Blast in the air fryer and drop into a simmering masala."
@@ -34,7 +34,7 @@ rating:
 reviews: 
 servingSuggestions: "Serve this alongside a mountain of basmati rice or fluffy naan. It pairs perfectly with a cooling cucumber and mint raita."
 shelf_life: "Airtight tub in the fridge for 5 days."
-storageInstructions: "Fridge the uncooked marinated tofu for 5 days. Freezes brilliantly for 3 months; thawing actually improves the chewy texture."
+storageInstructions: "Fridge the uncooked marinated tofu for 5 days. Freezes brilliantly for 3 months, thawing actually improves the chewy texture."
 whyTitle: "Why marinate tofu?"
 why:
   - "Deeper Flavour: Letting it sit drags the aromatics past the surface layer. It's all about time under tension for maximum results."

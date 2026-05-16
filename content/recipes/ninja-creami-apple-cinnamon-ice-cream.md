@@ -22,7 +22,7 @@ tips:
   - "Apple Prep: Stew the diced apple in the microwave before blending. Raw apple will just freeze into rock-hard, icy shards and ruin the velvety texture."
   - "Mix-In Magic: Core the centre and use the mix-in function to fold in crushed digestive biscuits or granola for a crucial crunch."
 works:
-  - "Structural Matrix: Whey protein acts as an exceptional mechanical binder. When frozen and violently micro-shaved by the Creami blade, it stabilizes the ice crystals in the low-fat milk, replicating the dense, velvety mouthfeel of heavy cream."
+  - "Perfect Texture: Whey protein helps bind it together. When frozen and shaved by the Creami blade, it stabilizes the ice crystals in the low-fat milk, replicating the dense, velvety mouthfeel of heavy cream."
   - "Thermal Breakdown: Microwaving the apples first breaks down their rigid cell walls, allowing the natural pectin to release and naturally thicken the ice cream base."
 use:
   - "Pre-Workout Primer: The perfect fuel to smash your next PB."
@@ -61,7 +61,7 @@ ingredients:
 
 faq:
   - question: "Do I have to use Xanthan gum?"
-    answer: "No. The protein powder and natural apple pectin provide enough structure. Add 0.25 tsp if you really want, but it's completely unnecessary."
+    answer: "No. The protein powder and natural apple pectin provide enough structure. Add a pinch of if you really want, but it's completely unnecessary."
   - question: "Can I increase the honey for a carb refeed?"
     answer: "Absolutely. If you want an aggressive, fast-digesting carb spike to restock glycogen stores after a brutal session, massively scale up the honey."
   - question: "Can I just blend raw apple?"

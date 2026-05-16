@@ -22,7 +22,7 @@ tips:
   - "Banana Prep: Use overly ripe, spotty bananas for maximum natural sweetness and a smoother blend."
   - "Mix-In Magic: Core the centre and use the mix-in function to fold in dark chocolate chips or crushed digestive biscuits for a crucial crunch."
 works:
-  - "Structural Matrix: The natural pectin and starches in the bananas act as an exceptional mechanical binder. When frozen and violently micro-shaved by the Creami blade, they stabilize the ice crystals in the milk, replicating a dense, velvety mouthfeel."
+  - "Perfect Texture: The natural starches in the bananas help bind it together. When frozen and shaved by the Creami blade, they stabilize the ice crystals in the milk, replicating a dense, velvety mouthfeel."
   - "Flavour Enhancement: The double hit of vanilla extract amplifies the perceived sweetness of the honey and bananas without adding extra calories."
 use:
   - "Pre-Workout Primer: The perfect fuel to smash your next PB."
@@ -60,7 +60,7 @@ ingredients:
 
 faq:
   - question: "Do I have to use Xanthan gum?"
-    answer: "You can achieve great results without it, as the natural banana starches provide solid structure. However, adding 0.25 tsp can also yield excellent results by further enhancing the velvety texture."
+    answer: "You can achieve great results without it, as the natural banana starches provide solid structure. However, adding a pinch of can also yield excellent results by further enhancing the velvety texture."
   - question: "Can I increase the honey for a carb refeed?"
     answer: "Absolutely. If you want an aggressive, fast-digesting carb spike to restock glycogen stores after a brutal session, massively scale up the honey."
 

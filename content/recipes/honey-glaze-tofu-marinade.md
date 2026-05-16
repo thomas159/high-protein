@@ -31,10 +31,10 @@ rating:
 reviews: 
 servingSuggestions: "Perfect paired with sticky sushi rice and steamed bok choy. Finish with sliced spring onions and toasted sesame seeds."
 shelf_life: "Stored in airtight container in the fridge for 5 days"
-storageInstructions: "Fridge the uncooked marinated tofu for 5 days. Freezes well for 3 months; thawing improves the chew."
+storageInstructions: "Fridge the uncooked marinated tofu for 5 days. Freezes well for 3 months, thawing improves the chew."
 whyTitle: "Why marinate tofu?"
 why:
-  - "Fail-State Avoidance: We skip the traditional slow-cook to prevent the proteins from denaturing into a rubbery mess."
+  - "We skip the traditional slow-cook to prevent the proteins from denaturing into a rubbery mess."
   - "Natural Caramelization: The sugars react with the heat to build a thick, lacquered crust that locks in moisture."
   - "Umami Balance: Soy sauce provides the savoury depth to kill the excess sweetness."
   - "Fragrant Warmth: Cumin and coriander elevate this from basic sweet soy to a professional glaze."

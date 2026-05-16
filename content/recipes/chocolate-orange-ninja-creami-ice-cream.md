@@ -1,15 +1,15 @@
 ---
-title: "The Ultimate Ultra-Creamy Chocolate Orange Ninja Creami"
+title: "The Ultimate Ultra-Creamy 10-Minute Chocolate Orange Ninja Creami"
 slug: "chocolate-orange-ninja-creami-ice-cream"
 meta: {
-  seoMetaDescription: "60g protein hit! The ultimate ultra-creamy chocolate orange Ninja Creami is a macro-friendly, macro-friendly masterpiece."
+  seoMetaDescription: "A massive protein hit! The ultimate ultra-creamy 10-minute chocolate orange Ninja Creami is a macro-friendly masterpiece."
 } 
 description: |
-  A massive protein hit disguised as a decadent chocolate orange dessert. Using the Ninja Creami turns this macro-friendly mix of whey and cocoa into the ultimate ultra-creamy gelato-like dream.
+  A massive protein hit disguised as a decadent chocolate orange dessert. The Ninja Creami turns this macro-friendly mix into an ultra-creamy gelato dream.
   
-  The absolute cheat code for hitting your targets without sacrificing flavour. It's a PB for your tastebuds.
+  You get the absolute cheat code for hitting targets without sacrificing flavour. It's a PB for your tastebuds.
   
-  Tested endlessly to nail the exact ratio of cocoa to fresh orange zest, preventing it from tasting like artificial medicine.
+  We tested this to nail the exact ratio of cocoa to fresh orange zest. It never tastes like artificial medicine.
 image: "chocolate-orange-ninja-creami-ice-cream_buvbv2"
 alt: "Chocolate orange protein ice cream in a Ninja Creami pint"
 pintrest: ""
@@ -19,31 +19,31 @@ cuisine: "American"
 keywords: ["ninja creami", "chocolate orange", "protein ice cream", "chocolate", "healthy dessert", "high-protein", "ice cream"]
 tipsTitle: "Creami Mechanics"
 tips:
-  - "Patience is Mandatory: Freeze the pint completely level for 24 hours. A slanted freeze will destroy your Creami blade."
-  - "The Re-Spin Secret: High-protein bases always come out powdery on spin one. Add a splash of milk and hit 'Re-spin' to force that gelato texture."
-  - "Mix-In Magic: Core the centre and use the mix-in function to fold in dark chocolate chips for a crucial crunch."
-  - "Milk Swaps: Easily veganised by using plant milk and maple syrup. Use whole milk if you want it even richer."
+  - "**Patience is mandatory:** Freeze the pint completely level for 24 hours. A slanted freeze wrecks your Creami blade."
+  - "**The re-spin secret:** High-protein bases come out powdery on spin one. Add a splash of milk and hit 'Re-spin' to force that gelato texture."
+  - "**Mix-in magic:** Core the centre and use the mix-in function to fold in dark chocolate chips for crucial crunch."
+  - "**Milk swaps:** Easily veganise it by using plant milk and maple syrup. Use whole milk if you want a richer texture."
 works:
-  - "Structural Matrix: Whey protein and cocoa powder act as exceptional mechanical binders. When frozen and violently micro-shaved by the Creami blade, these dry ingredients stabilise the ice crystals in the low-fat milk, replicating the dense, velvety mouthfeel of heavy cream. If it comes out powdery, it just needs a re-spin with a splash of milk."
-  - "Micro-Shaving: The Creami blade violently shaves the solid ice block into an aerated masterpiece. Ensure the surface is perfectly flat before freezing to avoid blade damage."
-  - "Flavour Synergy: Deep cocoa is perfectly sliced open by the sharp, acidic orange zest."
+  - "**Perfect Texture:** Whey protein and cocoa powder help bind it together. When frozen and shaved by the Creami blade, they stabilise the ice crystals. This replicates the dense mouthfeel of heavy cream."
+  - "**Micro-shaving:** The Creami blade shaves the solid ice block into an aerated masterpiece. Ensure the surface is perfectly flat before freezing."
+  - "**Flavour synergy:** Deep cocoa is perfectly sliced open by the sharp, acidic orange zest."
 use:
-  - "Post-Workout: A massive protein hit disguised as an elite dessert."
-  - "Late-Night Fix: Highly satiating and totally macro-friendly to kill evening cravings."
-  - "Summer Fuel: The ultimate way to hit your macros in a heatwave."
+  - "**Post-workout:** A massive protein hit disguised as an elite dessert."
+  - "**Late-night fix:** Highly satiating and totally macro-friendly to kill evening cravings."
+  - "**Summer fuel:** The ultimate way to hit your macros in a heatwave."
 rating: 
 variations:
-  - "Double Chocolate: Fold in dark chocolate chips using the mix-in button."
-  - "Mocha Orange: Whisk 1 tsp of instant espresso powder into the base before freezing."
+  - "**Double chocolate:** Fold in dark chocolate chips using the mix-in button."
+  - "**Mocha orange:** Whisk instant espresso powder into the base before freezing."
 reviews: 
 servingSuggestions: "Enjoy this straight out of the pint. Drizzle with sugar-free syrup and a heavy handful of dark chocolate chips."
 shelf_life: "Stores in the freezer indefinitely, but best consumed within a month to prevent freezer burn."
-storageInstructions: "Smooth the top level, lid it, and put it back in the freezer. Just re-spin it on 'Lite Ice Cream' when you want it again."
+storageInstructions: "Smooth the top level, lid it, and put it back in the freezer. Re-spin it on 'Lite Ice Cream' when you want it again."
 whyTitle: "The Macro Science"
 why:
-  - "Macro Friendly: Premium ice cream satisfaction for a fraction of the calories and a massive protein spike. The ultimate recovery fuel."
-  - "Customisable: You control every gram of sugar and fat. Perfect for strict cuts."
-  - "No Gums Needed: The whey and cocoa provide enough structure to skip the artificial stabilisers."
+  - "**Macro friendly:** Premium ice cream satisfaction for a fraction of the calories. You get a massive protein spike for recovery."
+  - "**Customisable:** You control every gram of sugar and fat. It works perfectly for strict cuts."
+  - "**No gums needed:** The whey and cocoa provide enough structure to skip artificial stabilisers."
 prepTimeMins: 5
 cookTimeMins: 5
 servings: 1
@@ -64,18 +64,18 @@ ingredients:
 
 faq:
   - question: "Do I have to use Xanthan gum?"
-    answer: "No. The protein powder already contains thickeners. Add 0.25 tsp if you really want, but it's unnecessary."
+    answer: "No. The protein powder already contains thickeners. Add a pinch if you really want, but it is unnecessary."
   - question: "Can I use orange extract instead of fresh juice and zest?"
-    answer: "You can, but fresh juice and zest deliver a vastly superior, authentic citrus hit."
+    answer: "You can, but fresh juice and zest deliver a vastly superior citrus hit."
   - question: "What kind of protein powder works best?"
-    answer: "Whey or a whey/casein blend delivers the best texture. 100% isolates can freeze a bit icy."
+    answer: "Whey or a whey-casein blend delivers the best texture. Pure isolates can freeze a bit icy."
 
 steps:
   - "Add the milk, whey, cocoa, orange juice, zest, honey, vanilla, and salt into a shaker. Shake violently for 30 seconds until completely smooth with no visible powder lumps."
-  - "Pour the mix into the Creami pint. Do not cross the 'Max Fill' line."
-  - "Freeze on a perfectly flat surface for 24 hours. A slanted freeze will wreck the machine."
+  - "Pour the mix into the Creami pint. **Do not cross the 'Max Fill' line.**"
+  - "Freeze on a perfectly flat surface for 24 hours. A slanted freeze wrecks the machine."
   - "Lock the frozen pint into the Creami outer bowl."
   - "Hit the 'Lite Ice Cream' button and let it run."
-  - "If it looks powdery (standard for macro ice creams), add a splash of milk and hit 'Re-spin' to force the creamy texture."
+  - "If it looks powdery, add a splash of milk and hit 'Re-spin' to force the creamy texture."
   - "Hollow out the centre, drop in your chocolate chips, and run the 'Mix-In' program. Enjoy immediately."
 ---

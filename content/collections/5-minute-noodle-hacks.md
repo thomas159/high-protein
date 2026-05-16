@@ -10,7 +10,7 @@ recipes:
   - slug: "5-minute-miso-peanut-butter-noodles"
     text: "The ultimate emergency meal for rapid recovery. Whisking peanut butter into warm miso creates an ultra-creamy emulsion. If the liquid is too hot, the fats will split, so keep it warm, not boiling. A massive hit of umami, healthy fats, and plant-based protein to superset your macros."
   - slug: "5-minute-peanut-butter-chilli-noodles"
-    text: "A brilliant balance of heavy peanut butter fats and sharp chilli heat. Using the starchy noodle water emulsifies the sauce instantly. Watch for a glossy, thick texture; if it's watery, the starch hasn't bound the fats yet. Raw ginger provides a punchy, anti-inflammatory kick to speed up recovery."
+    text: "A brilliant balance of heavy peanut butter fats and sharp chilli heat. Using the starchy noodle water emulsifies the sauce instantly. Watch for a glossy, thick texture, if it's watery, the starch hasn't bound the fats yet. Raw ginger provides a punchy, anti-inflammatory kick to speed up recovery."
   - slug: "5-minute-instant-noodles"
     text: "Bin the watery ramen flavour packets. We upgrade the cheap blocks with a rapid, savoury soy and sesame glaze. Boiling off the water forces the intense flavour straight into the noodles for a lightning-fast carb load. Look for a sticky, deep brown coating on the noodles to know the glaze has reduced properly."
   - slug: "udon-peanut-butter-noodles"

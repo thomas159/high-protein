@@ -20,7 +20,7 @@ tips:
   - "Mix-In Magic: Core the centre and use the mix-in function to fold in crushed peanuts for a crucial crunch."
   - "Milk Swaps: Easily veganised by using plant milk and maple syrup. Use whole milk if you want it even richer."
 works:
-  - "Emulsion Replacement: Traditional ice cream relies on egg yolks to emulsify fats and water. Here, the dense protein matrix of the whey isolate binds the low-fat milk and peanut powder, simulating the rich, heavy mouthfeel of a premium gelato without the massive caloric density."
+  - "No Eggs Needed: Traditional ice cream relies on egg yolks to bring the fats and water together. Here, the whey isolate does the heavy lifting, giving you the rich mouthfeel of a premium gelato without the massive calories."
   - "Micro-Shaving: The Creami blade violently shaves the solid ice block into an aerated masterpiece."
 use:
   - "Post-Workout: A massive protein hit disguised as an elite dessert."
@@ -28,7 +28,7 @@ use:
   - "Summer Fuel: The ultimate way to hit your macros in a heatwave."
 rating: 
 variations:
-  - "Chocolate PB: Whisk a spoonful of cocoa powder into the base before freezing."
+  - "Chocolate PB: Whisk some cocoa powder into the base before freezing."
   - "PB&J Swirl: Core the centre after spinning and drop in a dollop of strawberry jam, then run the mix-in."
 reviews: 
 servingSuggestions: "Enjoy this straight out of the pint. Drizzle with sugar-free syrup and a heavy pinch of flaky sea salt. Toss some crushed peanuts on top for crunch."

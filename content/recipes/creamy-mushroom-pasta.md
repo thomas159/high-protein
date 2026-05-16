@@ -22,7 +22,7 @@ tips:
   - "Save the Water: Always reserve a mug of starchy pasta water. This is the secret binder that forces the butter and cream into a stable emulsion."
   - "Deglazing Power: The white wine is there to aggressively scrape up the dark, caramelised flavour stuck to the bottom of the pan."
 works:
-  - "The Maillard Reaction: High-heat searing caramelises the mushrooms, delivering a massive umami hit. Leave them undisturbed until a deep brown crust forms; if you stir too early, they will just steam and turn rubbery."
+  - "The Maillard Reaction: High-heat searing caramelises the mushrooms, delivering a massive umami hit. Leave them undisturbed until a deep brown crust forms, if you stir too early, they will just steam and turn rubbery."
   - "Starch Emulsion: The amylose starches leached into the pasta water physically intercept the heavy cream fats, binding them into a thick, glossy emulsion that clings to the pasta without splitting into a greasy pool. Watch for the sauce to coat the back of a spoon."
 use:
   - "Heavy Refeed: A massive, warm carb reload for cozy evenings."
@@ -33,7 +33,7 @@ variations:
   - "Protein Spike: Toss in pan-fried tofu cubes or white beans to balance the macros."
 servingSuggestions: "Pair this rich pasta with a sharp, acidic rocket salad to cut through the heavy cream. Serve with garlic ciabatta to mop the bowl clean."
 shelf_life: "Best enjoyed fresh."
-storageInstructions: "Fridge for 3 days. Reheat gently on the stove with a splash of milk. Don't freeze it; the cream will split."
+storageInstructions: "Fridge for 3 days. Reheat gently on the stove with a splash of milk. Don't freeze it, the cream will split."
 whyTitle: "The Science of the Sauce"
 why:
   - "The Maillard Reaction: Sautéing until golden unlocks a deep, meaty umami flavour that carries the entire dish. Like building a solid foundation for your lifts."
@@ -69,6 +69,6 @@ steps:
   - "Melt the butter and a splash of oil in a large pan over medium-high heat. The oil stops the butter burning."
   - "Chuck in the mushrooms in a single layer. Leave them alone for 2 minutes to develop a serious crust. Add the garlic and thyme for the final minute."
   - "Pour in the wine to deglaze. Aggressively scrape the brown bits off the bottom of the pan. Simmer until the wine halves in volume."
-  - "Drop the heat. Stir in the stock, double cream, and parmesan. Season heavily with black pepper. Simmer for 3 minutes until it visibly thickens. If it looks watery, keep simmering; it needs to heavily coat the back of a spoon. If the sauce splits into oil, whisk aggressively with an extra splash of starchy water."
+  - "Drop the heat. Stir in the stock, double cream, and parmesan. Season heavily with black pepper. Simmer for 3 minutes until it visibly thickens. If it looks watery, keep simmering, it needs to heavily coat the back of a spoon. If the sauce splits into oil, whisk aggressively with an extra splash of starchy water."
   - "Drop the pasta straight into the sauce. Toss vigorously, adding a splash of pasta water to build that glossy finish. Serve immediately."
 ---

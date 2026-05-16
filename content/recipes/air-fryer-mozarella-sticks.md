@@ -20,8 +20,8 @@ tips:
   - "Acid Cut: Squeeze fresh lime juice over the sticks right before eating. It cuts straight through the heavy fats."
   - "Freeze to Please: They must be rock-solid frozen before cooking. If they thaw during prep, put them back in the freezer for 15 minutes."
 works:
-  - "Thermal Shielding: Freezing drops the core temperature, while the double layer of flour and egg acts as a thermal insulator. This ensures the exterior dehydrates and crisps completely before the core temperature rises enough to cause a blowout. If you skip this, the cheese will liquefy and rupture the casing before the crust even sets."
-  - "Structural Integrity: As the egg proteins coagulate and the flour starches gelatinise under the intense heat, they form a rigid, impenetrable matrix that locks the melting cheese inside. Watch for a deep golden-brown crust; if it looks pale, the matrix hasn't fully set."
+  - "Thermal Shielding: Freezing drops the core temperature, while the double layer of flour and egg acts as an insulator. This ensures the exterior crisps completely before the core temperature rises enough to cause a blowout. If you skip this, the cheese will melt and rupture the casing before the crust even sets."
+  - "The Perfect Crust: The flour and egg form a solid shell under the intense heat, locking the melting cheese inside. Watch for a deep golden-brown crust, if it looks pale, it needs more time."
 use:
   - "Cheat Day Starter: The ultimate kickoff to an Italian refeed."
   - "Match Day Platter: A guaranteed crowd-pleaser to enjoy while watching the football."

@@ -34,7 +34,7 @@ variations:
 rating: 
 reviews: 
 servingSuggestions: "Perfect on its own, or pair with a slice of garlic ciabatta to mop the bowl. A sharp rocket salad cuts through the heavy creaminess perfectly."
-storageInstructions: "Fridge for 3 days. Reheat with a splash of boiling water. Don't freeze it; the rice turns to a grainy mess."
+storageInstructions: "Fridge for 3 days. Reheat with a splash of boiling water. Don't freeze it, the rice turns to a grainy mess."
 prepTimeMins: 0
 cookTimeMins: 15
 servings: 1

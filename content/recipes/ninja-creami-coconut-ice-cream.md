@@ -21,7 +21,7 @@ tips:
   - "The Re-Spin Secret: High-protein bases always come out powdery on spin one. Add a splash of coconut milk and hit 'Re-spin' to force that gelato texture."
   - "Mix-In Magic: Core the centre and use the mix-in function to fold in toasted desiccated coconut or dark chocolate chips for a crucial crunch."
 works:
-  - "Structural Matrix: Whey protein acts as an exceptional mechanical binder. When frozen and violently micro-shaved by the Creami blade, it stabilizes the ice crystals in the coconut milk, replicating the dense, velvety mouthfeel of heavy cream."
+  - "Perfect Texture: Whey protein helps bind it together. When frozen and shaved by the Creami blade, it stabilizes the ice crystals in the coconut milk, replicating the dense, velvety mouthfeel of heavy cream."
   - "Flavour Enhancement: The vanilla extract amplifies the natural sweetness of the honey and coconut without adding extra calories."
 use:
   - "Pre-Workout Primer: The perfect fuel to smash your next PB."
@@ -30,7 +30,7 @@ use:
 rating: 
 variations:
   - "Bounty Bar: Fold in dark chocolate chips and toasted desiccated coconut during the mix-in phase."
-  - "Mango Swirl: Core the centre after spinning and drop in a spoonful of mango purée."
+  - "Mango Swirl: Core the centre after spinning and drop in some mango purée."
 reviews: 
 servingSuggestions: "Enjoy this straight out of the pint. Top with a sprinkle of toasted coconut flakes for extra texture."
 shelf_life: "Stores in the freezer indefinitely, but best consumed within a month to prevent freezer burn."
@@ -57,7 +57,7 @@ ingredients:
 
 faq:
   - question: "Do I have to use Xanthan gum?"
-    answer: "You can achieve great results without it, as the whey protein provides solid structure. However, adding 0.25 tsp can also yield excellent results by further enhancing the velvety texture."
+    answer: "You can achieve great results without it, as the whey protein provides solid structure. However, adding a pinch of can also yield excellent results by further enhancing the velvety texture."
   - question: "Can I use canned coconut milk?"
     answer: "You can, but it will massively increase the fat and calorie content. This recipe is optimized for the lighter carton coconut milk to keep it macro-friendly."
 
