@@ -31,7 +31,7 @@ use:
 variations:
   - "Truffle Twist: Drizzle it with truffle oil before serving."
   - "Protein Spike: Toss in pan-fried tofu cubes or white beans to balance the macros."
-servingSuggestions: "Pair this rich pasta with a sharp, acidic rocket salad to cut through the heavy cream. Serve with garlic ciabatta to mop the bowl clean."
+servingSuggestions: "Pair this rich pasta with a sharp, acidic rocket (arugula) salad to cut through the heavy cream. Serve with garlic ciabatta to mop the bowl clean."
 shelf_life: "Best enjoyed fresh."
 storageInstructions: "Fridge for 3 days. Reheat gently on the stove with a splash of milk. Don't freeze it, the cream will split."
 whyTitle: "The Science of the Sauce"

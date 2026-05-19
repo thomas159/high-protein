@@ -1,13 +1,13 @@
 ---
-title: "Easy 15-Minute Ultra-Creamy Microwave Courgette Risotto"
+title: "Easy 15-Minute Ultra-Creamy Microwave Courgette (zucchini) Risotto"
 slug: "15-minute-cherry-tomato-and-courgette-risotto"
 meta: {
-  seoMetaDescription: "Want risotto fast? This easy 15-minute ultra-creamy microwave courgette risotto is the ultimate high-carb recovery meal."
+  seoMetaDescription: "Want risotto fast? This easy 15-minute ultra-creamy microwave courgette (zucchini) risotto is the ultimate high-carb recovery meal."
 }
 description: |
   A proper Italian risotto usually requires standing over a hot stove stirring for 40 minutes. We intentionally choose this microwave hack because saving time and hitting macros is our ultimate priority over culinary tradition.
 
-  Loaded with fresh courgette. Tested multiple times to nail the exact liquid absorption ratio and balance the acidic tomatoes against the rich parmesan, preventing it from turning into a bland, watery soup.
+  Loaded with fresh courgette (zucchini). Tested multiple times to nail the exact liquid absorption ratio and balance the acidic tomatoes against the rich parmesan, preventing it from turning into a bland, watery soup.
 
 blurb: []
 image: "15-minute-cherry-tomato-and-courgette-risotto_1_lsbbrh"
@@ -33,7 +33,7 @@ variations:
   - "Cheesy Upgrade: Mix in a dollop of mascarpone if you have the calories to spare."
 rating: 
 reviews: 
-servingSuggestions: "Perfect on its own, or pair with a slice of garlic ciabatta to mop the bowl. A sharp rocket salad cuts through the heavy creaminess perfectly."
+servingSuggestions: "Perfect on its own, or pair with a slice of garlic ciabatta to mop the bowl. A sharp rocket (arugula) salad cuts through the heavy creaminess perfectly."
 storageInstructions: "Fridge for 3 days. Reheat with a splash of boiling water. Don't freeze it, the rice turns to a grainy mess."
 prepTimeMins: 0
 cookTimeMins: 15
@@ -63,7 +63,7 @@ faq:
 steps:
   - "Take a large microwave-safe bowl. Mix the rice and wine. Blast for 2 minutes on high until the wine absorbs."
   - "Pour in the veg stock. Microwave for 13 minutes, stirring at the halfway point. You want a wet, slightly soupy finish. If it’s a solid block, add a splash of boiling water."
-  - "While the microwave runs, melt the butter and a splash of oil in a pan. Sauté the garlic and tomatoes for 5 minutes until jammy. Stir in the grated courgette for another 3 minutes."
+  - "While the microwave runs, melt the butter and a splash of oil in a pan. Sauté the garlic and tomatoes for 5 minutes until jammy. Stir in the grated courgette (zucchini) for another 3 minutes."
   - "Pull the bowl from the microwave. Fold the veg, remaining butter, and parmesan straight into the rice."
   - "Stir aggressively for 60 seconds. This physical agitation forces the starches out, building a thick, glossy sauce that aggressively clings to the grains. If it looks dry, add a splash of boiling water. Let it rest for 1 minute before eating."
 ---

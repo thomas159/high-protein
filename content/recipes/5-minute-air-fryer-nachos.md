@@ -55,7 +55,7 @@ ingredients:
   - { item: "Cheddar cheese", type: 'grated', amount: 50, unit: 'g' }
   - { item: "Tomatoes", type: "finely chopped", amount: 50, unit: 'g' }
   - { item: "Red onions", type: 'finely chopped', amount: 25, unit: 'g' }
-  - { item: "Spring onions", type: 'finely chopped', amount: 25, unit: 'g' }
+  - { item: "Spring onions (scallions)", type: 'finely chopped', amount: 25, unit: 'g' }
   - { item: "Lime juice", amount: 1, unit: 'tsp' }
 
 faq:
@@ -69,5 +69,5 @@ steps:
   - "**Build it in two tiers** so every single chip pulls its weight. Layer on the grated cheese, followed by the chopped tomatoes and red onions."
   - "Blast them at 160°C for 3 to 5 minutes. Do not walk away from this. The line between perfectly bubbling golden cheese and burnt ash is exactly 15 seconds."
   - "The cheese should be fully melted and starting to bubble at the edges. If the tortilla chips start turning dark brown, pull them immediately or they will taste bitter."
-  - "Carefully lift the parchment paper to slide the nachos out. Finish it off with fresh spring onions, sour cream, and a squeeze of lime juice."
+  - "Carefully lift the parchment paper to slide the nachos out. Finish it off with fresh spring onions (scallions), sour cream, and a squeeze of lime juice."
 ---

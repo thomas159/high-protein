@@ -29,7 +29,7 @@ use:
   - "Stir-Fry Addition: Toss into noodles right at the end."
 rating: 
 reviews: 
-servingSuggestions: "Perfect paired with sticky sushi rice and steamed bok choy. Finish with sliced spring onions and toasted sesame seeds."
+servingSuggestions: "Perfect paired with sticky sushi rice and steamed bok choy. Finish with sliced spring onions (scallions) and toasted sesame seeds."
 shelf_life: "Stored in airtight container in the fridge for 5 days"
 storageInstructions: "Fridge the uncooked marinated tofu for 5 days. Freezes well for 3 months, thawing improves the chew."
 whyTitle: "Why marinate tofu?"
@@ -37,7 +37,7 @@ why:
   - "We skip the traditional slow-cook to prevent the proteins from denaturing into a rubbery mess."
   - "Natural Caramelization: The sugars react with the heat to build a thick, lacquered crust that locks in moisture."
   - "Umami Balance: Soy sauce provides the savoury depth to kill the excess sweetness."
-  - "Fragrant Warmth: Cumin and coriander elevate this from basic sweet soy to a professional glaze."
+  - "Fragrant Warmth: Cumin and coriander (cilantro) elevate this from basic sweet soy to a professional glaze."
 variations:
   - "Spicy Honey: Whisk in a heavy dash of sriracha or chilli flakes."
   - "Vegan Swap: Agave or maple syrup."
@@ -55,7 +55,7 @@ ingredients:
   - { item: "Lemon juice", amount: 1, unit: "tbsp" }
   - { item: "Paprika", amount: 0.5, unit: 'tsp' }
   - { item: "Cumin", amount: 0.5, unit: 'tsp' }
-  - { item: "Coriander", amount: 0.5, unit: 'tsp' }
+  - { item: "Coriander (cilantro)", amount: 0.5, unit: 'tsp' }
   - { item: "Garlic powder", amount: 0.25, unit: 'tsp' } 
   - { item: "Chilli powder", amount: 0.25, unit: 'tsp' }
   - { item: "Water", amount: 1, unit: 'tbsp' }
@@ -71,5 +71,5 @@ steps:
   - "Whisk the honey, lemon juice, spices, water, a pinch of salt, and a splash of oil in a bowl."
   - "Cube the tofu and toss it through the marinade. Let it sit for 30 minutes if you have the time."
   - "Air Fry at 180°C for 6-10 minutes, shaking halfway. Or pan-fry until golden."
-  - "Hit it with a fresh sprig of coriander and a wedge of lemon before serving."
+  - "Hit it with a fresh sprig of coriander (cilantro) and a wedge of lemon before serving."
 ---

@@ -33,7 +33,7 @@ variations:
   - "Protein Spike: Toss some leftover tikka tofu on top."
 rating: 
 reviews: 
-servingSuggestions: "Serve this alongside a crisp rocket salad with a light vinaigrette. If you need more volume, add a dollop of cooling cucumber raita."
+servingSuggestions: "Serve this alongside a crisp rocket (arugula) salad with a light vinaigrette. If you need more volume, add a dollop of cooling cucumber raita."
 storageInstructions: "Eat it fresh. Leftovers survive 2 days in the fridge but the microwave will ruin the crust. Reheat in the air fryer. Don't freeze."
 prepTimeMins: 0
 cookTimeMins: 15
@@ -49,7 +49,7 @@ ingredients:
   - { item: "Paneer", amount: 50, unit: "g" }  
   - { item: "Red pepper", type: 'chopped', amount: 25, unit: "g" } 
   - { item: "White onion", type: 'chopped', amount: 25, unit: "g" } 
-  - { item: "Coriander" } 
+  - { item: "Coriander (cilantro)" } 
 
 faq:
   - question: "What if I don't have paneer?"
@@ -61,5 +61,5 @@ steps:
   - "Spread an even layer of mango chutney across the naan. This is your high-efficiency flavour base."
   - "Distribute the paneer, red peppers, and onions. Press the paneer firmly into the chutney so it locks in place. If you don't, the air fryer fan will blow it everywhere."
   - "Blast it in the air fryer or oven. Leave it in for an extra 2 minutes. You want the paneer edges to blister and catch that charred 'tandoori' look."
-  - "Pull it when the edges are crispy. Shower heavily with fresh coriander while it's still steaming and enjoy."
+  - "Pull it when the edges are crispy. Shower heavily with fresh coriander (cilantro) while it's still steaming and enjoy."
 ---

@@ -5,7 +5,7 @@ meta: {
   seoMetaDescription: "Skip the curry house! This quick 35-minute charred high-protein air fryer tikka tofu delivers authentic Indian spices fast."
 } 
 description: |
-  Infuse your tofu with the bold, aromatic flavours of India using this quick 35-minute tikka marinade. A vibrant blend of garam masala, turmeric, and coriander mixed into a tangy Greek yoghurt base creates a perfectly charred crust. Restaurant-quality vegan protein in minutes.
+  Infuse your tofu with the bold, aromatic flavours of India using this quick 35-minute tikka marinade. A vibrant blend of garam masala, turmeric, and coriander (cilantro) mixed into a tangy Greek yoghurt base creates a perfectly charred crust. Restaurant-quality vegan protein in minutes.
 image: "tikka-tofu-marinade_if4ab4"
 alt: "High-protein tikka marinated tofu cubes"
 pintrest: ""
@@ -51,7 +51,7 @@ ingredients:
   - { item: "Firm tofu", type: "cut into 2cm cubes", amount: 200, unit: "g" }
   - { item: "Greek Yoghurt", amount: 25, unit: "g" }
   - { item: "Ginger garlic paste", amount: 1, unit: "tsp" }
-  - { item: "Coriander powder", amount: 1, unit: "tsp" }
+  - { item: "Coriander (cilantro) powder", amount: 1, unit: "tsp" }
   - { item: "Turmeric powder", amount: 1, unit: "tsp" }
   - { item: "Kasuri methi", amount: 0.5, unit: "tsp" }  
   - { item: "Garam masala", amount: 0.25, unit: "tsp" }  
@@ -67,8 +67,8 @@ faq:
 
 steps:
   - "Prep the tofu by either microwaving it in 30-second bursts until dry, but not cooked (approx 4 minutes) or boiling it for 5-10 minutes to force the water out so the block can absorb the marinade. See our [Ultimate Quick Tofu Prep Hacks](/collections/easy-quick-tofu-prep-hacks) for the exact methods."
-  - "Whisk the Greek yoghurt, ginger garlic paste, lemon juice, oil, coriander, garam masala, turmeric, and a heavy pinch of salt."
+  - "Whisk the Greek yoghurt, ginger garlic paste, lemon juice, oil, coriander (cilantro), garam masala, turmeric, and a heavy pinch of salt."
   - "Cube the tofu and toss it aggressively through the marinade. Let it rest for 30 minutes to absorb."
   - "Air Fry at 180°C for 6-10 minutes, shaking halfway. Or pan-fry until charred."
-  - "Hit it with fresh coriander and a heavy squeeze of lime."
+  - "Hit it with fresh coriander (cilantro) and a heavy squeeze of lime."
 ---

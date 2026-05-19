@@ -60,5 +60,5 @@ steps:
   - "In the empty pot, fry the red curry paste with a splash of coconut milk over low heat. Cook for 2 minutes to bloom the spices and build the flavour base."
   - "Chuck the carrots back in and pour over the veg stock. Use an immersion blender to completely obliterate it into a smooth puree."
   - "Stir in the rest of the coconut milk. Simmer gently for 2 minutes to marry the flavours. Season with salt and pepper."
-  - "Ladle into warm bowls. Finish with fresh coriander and a heavy squeeze of lime to wake it up."
+  - "Ladle into warm bowls. Finish with fresh coriander (cilantro) and a heavy squeeze of lime to wake it up."
 ---

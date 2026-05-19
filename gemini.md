@@ -3,7 +3,7 @@
 ## Style Guide
 
 * **Tone:** Logical, straight-talking, and dryly humorous. I want the facts, the macros, and a good punchline. Avoid fluffy, endless food-blogger life stories.
-* **Voice & Spelling:** Slightly British tone with strict British English spellings ('s' instead of 'z' like caramelise, 'ou' instead of 'o' like flavour). Use metric/UK terms like celsius, grams, courgette, aubergine. Confident, casual, and a bit sarcastic but always genuinely helpful.
+* **Voice & Spelling:** Slightly British tone with strict British English spellings ('s' instead of 'z' like caramelise, 'ou' instead of 'o' like flavour). Use metric/UK terms like celsius, grams, courgette, aubergine. Anytime a British term (like courgette or aubergine) is used, add the American equivalent in brackets immediately afterwards, e.g., courgette (zucchini). Confident, casual, and a bit sarcastic but always genuinely helpful.
 * **Global Accessibility (No Slang):** Do not use obscure regional British slang (e.g., "scran", "knackered", "smash it", "pud"). The language must be easily understandable to a worldwide audience while retaining the dry British wit.
 * **Metaphors:** Naturally weave in lighthearted gym/sports metaphors (e.g., 'hitting your daily targets', 'a PB for your tastebuds', 'supersetting your sides'). Keep it fun and relatable, not overly intense or "hardcore bodybuilder".
 * **Structure:** Keep it modular and efficient. Tell me why a recipe works, what it does for my gains/recovery, and get straight to the execution.

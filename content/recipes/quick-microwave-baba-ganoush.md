@@ -5,7 +5,7 @@ meta: {
   seoMetaDescription: "Middle Eastern mezze fast? This quick 15-minute ultra-creamy microwave baba ganoush is a macro-friendly vegan dip."
 } 
 description: |
-  Craving Middle Eastern mezze but don't want to wait 45 minutes for an oven? **Clocking in at solid macros with a heavy hit of protein**, the microwave aggressively steams the aubergine in minutes.
+  Craving Middle Eastern mezze but don't want to wait 45 minutes for an oven? **Clocking in at solid macros with a heavy hit of protein**, the microwave aggressively steams the aubergine (eggplant) in minutes.
   Blended with tahini for a rich, macro-friendly appetizer. Tested multiple times to perfectly balance the lemon juice and tahini, acting like a spotter for your diet and ensuring a rich emulsion that rivals the traditional open-flame roast.
 image: "quick-microwave-baba-ganoush_douf9l"
 alt: "Quick microwave baba ganoush drizzled with olive oil"
@@ -15,12 +15,12 @@ cuisine: "Middle Eastern"
 keywords: ["baba ganoush", "aubergine", "eggplant", "microwave", "middle eastern", "vegan", "dip"]
 tipsTitle: "Smoky Perfection"
 tips:
-  - "Safety First: Aggressively prick the aubergine with a fork. Unless you want it to violently explode and decorate your microwave due to steam pressure buildup."
+  - "Safety First: Aggressively prick the aubergine (eggplant) with a fork. Unless you want it to violently explode and decorate your microwave due to steam pressure buildup."
   - "The Smoky Hack: Since we skipped the open fire, smoked paprika or liquid smoke is mandatory for that authentic roasted depth."
-  - "Drain the Excess: Microwaved aubergine holds water. Let the flesh sit in a sieve for 5 minutes before mashing so your dip isn't watery."
+  - "Drain the Excess: Microwaved aubergine (eggplant) holds water. Let the flesh sit in a sieve for 5 minutes before mashing so your dip isn't watery."
 works:
-  - "Cellular Collapse: The microwave's dielectric heating violently agitates the aubergine's naturally high water content. This rapid internal boiling bursts the cell walls from the inside out, completely collapsing the dense flesh into a silken puree in a fraction of the time it takes to roast."
-  - "Creamy Emulsion: The high-fat tahini blends seamlessly into the fibrous aubergine for a rich, dairy-free dip."
+  - "Cellular Collapse: The microwave's dielectric heating violently agitates the aubergine (eggplant)'s naturally high water content. This rapid internal boiling bursts the cell walls from the inside out, completely collapsing the dense flesh into a silken puree in a fraction of the time it takes to roast."
+  - "Creamy Emulsion: The high-fat tahini blends seamlessly into the fibrous aubergine (eggplant) for a rich, dairy-free dip."
 use:
   - "Mezze Platter: The heavyweight star of the show."
   - "Macro Spread: An elite, low-calorie alternative to mayo in wraps."
@@ -31,7 +31,7 @@ variations:
   - "Fire Starter: Add a heavy pinch of red pepper flakes."
 shelf_life: "Stored in an airtight container in the fridge for up to 4 days"
 storageInstructions: "Fridge in an airtight tub for 4 days. Freezes fine for 3 months, just whisk it aggressively after thawing."
-whyTitle: "Why microwave the aubergine?"
+whyTitle: "Why microwave the aubergine (eggplant)?"
 why:
   - "Brutal Efficiency: Slashes the cooking time by 75%."
   - "Texture: Steaming in its own skin keeps the flesh incredibly soft."
@@ -45,7 +45,7 @@ macros:
   protein: 7
   fat: 9
 ingredients:
-  - { item: "Large aubergine", amount: 1, type: "pricked with a fork" }
+  - { item: "Large aubergine (eggplant)", amount: 1, type: "pricked with a fork" }
   - { item: "Tahini", amount: 1, unit: "tbsp" }
   - { item: "Garlic clove", amount: 1, type: "minced" }
   - { item: "Lemon juice", amount: 1, unit: "tbsp" }
@@ -55,13 +55,13 @@ ingredients:
   - { item: "Salt", amount: 0.25, unit: "tsp" }
 
 faq:
-  - question: "Can I eat the aubergine skin?"
+  - question: "Can I eat the aubergine (eggplant) skin?"
     answer: "Discard the skin. Scoop the soft flesh for a smooth dip."
-  - question: "Why did my aubergine explode in the microwave?"
+  - question: "Why did my aubergine (eggplant) explode in the microwave?"
     answer: "Because you forgot to prick it! Poke it aggressively with a fork before cooking."
 
 steps:
-  - "Stab the aubergine all over with a fork. Microwave on high for 8-10 minutes until the skin visibly shrivels and the core totally collapses into a soft pulp. If it still feels firm when pressed, give it another 2 minutes."
+  - "Stab the aubergine (eggplant) all over with a fork. Microwave on high for 8-10 minutes until the skin visibly shrivels and the core totally collapses into a soft pulp. If it still feels firm when pressed, give it another 2 minutes."
   - "Let it cool slightly so you don't burn your hands. Slice open and scoop the flesh into a bowl. Bin the skin."
   - "Aggressively mash the flesh with tahini, garlic, lemon juice, paprika, and cumin for 1-2 minutes until it forms a creamy, cohesive emulsion."
   - "Season with salt. Drown it in olive oil and an extra pinch of paprika."

@@ -54,7 +54,7 @@ ingredients:
   - { item: "Soy sauce", amount: 1, unit: 'tsp' }
   - { item: "Sugar", amount: 0.5, unit: 'tsp' } 
   - { item: "Gochujang", amount: 0.5, unit: 'tsp' } 
-  - { item: "Spring onion", type: 'finely chopped', amount: 1 } 
+  - { item: "Spring onion (scallion)", type: 'finely chopped', amount: 1 } 
   - { item: "Cheddar cheese", type: 'grated', amount: 20, unit: 'g' }
   - { item: "Sesame seeds", type: 'toasted', amount: 0.5, unit: 'tsp' }
 
@@ -69,5 +69,5 @@ steps:
   - "Arrange the potatoes in the basket. Overcrowding kills the crunch. Air fry for 18-24 minutes at 190°C, shaking the basket violently halfway through."
   - "Sauté the kimchi in a pan for 2-3 minutes to cook off the raw edge. Stir in the soy sauce, sugar, and Gochujang. Cook until the sauce turns thick, glossy, and heavily coats the kimchi. If it dries out into a paste, add a tiny splash of water."
   - "Once the fries are golden-brown and fragrant, remove them and toss immediately with the hot, saucy kimchi"
-  - "Plate the fries while steaming hot. Immediately top with grated cheddar so it melts into the kimchi, then garnish with sesame seeds and fresh spring onions for crunch."
+  - "Plate the fries while steaming hot. Immediately top with grated cheddar so it melts into the kimchi, then garnish with sesame seeds and fresh spring onions (scallions) for crunch."
 ---

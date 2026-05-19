@@ -53,7 +53,7 @@ ingredients:
   - { item: "Potatoes", type: 'sliced into 0.5cm matchsticks', amount: 200, unit: 'g'} 
   - { item: "Sour cream", amount: 1, unit: 'tbsp' }
   - { item: "Garlic granules ", amount: 0.25, unit: 'tsp' }
-  - { item: "Spring onion", type: 'finely chopped', amount: 1 }
+  - { item: "Spring onion (scallion)", type: 'finely chopped', amount: 1 }
 
 faq:
   - question: "Can I use Greek yoghurt instead of sour cream?"
@@ -64,7 +64,7 @@ faq:
 steps:
   - "Scrub the potatoes and slice into 0.5cm matchsticks. Toss aggressively in a bowl with olive oil and salt."
   - "Space them out in the basket. Blast at 190°C for 18-24 minutes, shaking violently every 5 minutes for an even crunch."
-  - "While they cook, whisk the sour cream, garlic granules, and chopped spring onions."
+  - "While they cook, whisk the sour cream, garlic granules, and chopped spring onions (scallions)."
   - "Transfer the golden fries to a bowl. Pour over the cold sour cream mix and toss quickly to coat."
-  - "Enjoy immediately while the fries are hot and the sauce is cold. Top with extra spring onions."
+  - "Enjoy immediately while the fries are hot and the sauce is cold. Top with extra spring onions (scallions)."
 ---

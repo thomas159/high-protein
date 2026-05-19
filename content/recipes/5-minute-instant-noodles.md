@@ -50,7 +50,7 @@ ingredients:
   - { item: "Sesame oil", amount: 0.5, unit: "tsp" }
   - { item: "Rice vinegar", amount: 0.25, unit: "tsp" }
   - { item: "Sriracha or sambal oelek", amount: 0.25, unit: "tsp" }
-  - { item: "Spring onions to garnish" }
+  - { item: "Spring onions (scallions) to garnish" }
   - { item: "Fried onions to garnish" }
 
 faq:
@@ -62,5 +62,5 @@ faq:
 steps:
   - "Boil the stock in a wide pan. Drop in the noodles. Cook for 2–3 minutes, teasing the block apart. Let the stock reduce by half to build a glaze."
   - "Drop the heat. Stir in the soy sauce, sesame oil, rice vinegar, and sriracha. Toss vigorously for 30 seconds to coat."
-  - "Plate up. Top it with spring onions and crispy fried onions. Squeeze a lime over the top and enjoy."
+  - "Plate up. Top it with spring onions (scallions) and crispy fried onions. Squeeze a lime over the top and enjoy."
 ---

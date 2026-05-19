@@ -51,7 +51,7 @@ ingredients:
   - { item: "Egg", type: "beaten", amount: 1 }
   - { item: "Sun-dried tomatoes", type: "chopped", amount: 5, unit: "g" }
   - { item: "Feta cheese", type: "crumbled", amount: 5, unit: "g" }
-  - { item: "Spring onion", type: "chopped", amount: 5, unit: "g" }
+  - { item: "Spring onion (scallion)", type: "chopped", amount: 5, unit: "g" }
 
 faq:
   - question: "Can I freeze these egg muffins?"
@@ -61,7 +61,7 @@ faq:
 
 steps:
   - "Crack the eggs, beat them aggressively with a fork until completely uniform and frothy, and pour the mixture straight into a silicone muffin case. If you don't beat it enough, you'll get rubbery white streaks."
-  - "Drop the chopped sun-dried tomatoes, spring onion and crumbled feta cheese directly into the beaten egg."
+  - "Drop the chopped sun-dried tomatoes, spring onion (scallion) and crumbled feta cheese directly into the beaten egg."
   - "Carefully transfer to the air fryer. Blast at 180°C for 8-10 minutes. Look for a golden-brown, puffed top. If they sink immediately upon checking, they needed another 60 seconds."
   - "Pull them out, let them sit for a minute so you don't burn your mouth, and serve immediately."
 ---

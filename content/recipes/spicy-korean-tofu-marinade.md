@@ -69,6 +69,6 @@ steps:
   - "Whisk the ketchup, sugar, gochujang, soy sauce, vinegar, garlic, ginger, sesame oil, and a pinch of salt."
   - "Cube the tofu into 2cm blocks and aggressively toss in the marinade. Let it sit for 30 minutes."
   - "Air Fry at 180°C for 6-10 minutes, shaking halfway. Or pan-fry until you hit a charred, sticky crust. Watch it closely in the final minutes—the high sugar content will turn it from a glossy lacquer to burnt ash very quickly."
-  - "Top it with toasted sesame seeds and fresh spring onions to cut the heat."
+  - "Top it with toasted sesame seeds and fresh spring onions (scallions) to cut the heat."
 
 ---

@@ -55,7 +55,7 @@ ingredients:
   - { item: "Chilli Oil", amount: 1, unit: "tsp" }
   - { item: "Water", amount: 150, unit: "ml" }
   - { item: "Soy Milk", type: "Unsweetened", amount: 100, unit: "ml" }
-  - { item: "Spring Onion", type: "Sliced", amount: 1 }
+  - { item: "Spring onion (scallion)", type: "Sliced", amount: 1 }
   - { item: "Peanuts", type: "chopped", amount: 10, unit: "g"}
 
 faq:
@@ -70,5 +70,5 @@ steps:
   - "Whisk aggressively until the peanut butter and miso dissolve. If it looks lumpy, keep whisking, lumps here will not dissolve later."
   - "Pour in the soy milk and chilli oil. Once the sauce begins to simmer gently, toss in the cooked noodles."
   - "Toss for 30 seconds until every strand is coated. Get it off the heat immediately so the soy milk doesn't split and turn into a grainy mess."
-  - "Garnish with sliced spring onions, peanuts and extra red pepper flakes if you want more heat."
+  - "Garnish with sliced spring onions (scallions), peanuts and extra red pepper flakes if you want more heat."
 ---

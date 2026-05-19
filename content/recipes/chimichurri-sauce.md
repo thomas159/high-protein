@@ -31,7 +31,7 @@ use:
   - "As a Dressing: Toss through a grain bowl for a massive flavour spike."
 rating: 
 variations:
-  - "Coriander Blend: Swap half the parsley for fresh coriander."
+  - "Coriander (cilantro) Blend: Swap half the parsley for fresh coriander (cilantro)."
   - "Citrus Lift: Use fresh lemon juice instead of red wine vinegar."
 reviews: 
 servingSuggestions: "Spoon this generously over freshly grilled seitan steaks or thick cauliflower steaks. Brilliant as a dipping sauce with warm, crusty bread."

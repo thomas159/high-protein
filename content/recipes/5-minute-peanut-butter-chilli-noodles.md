@@ -57,7 +57,7 @@ ingredients:
   - { item: "Garlic clove", type: "minced", amount: 1 }
   - { item: "Ginger", type: "grated", amount: 0.5, unit: "tsp" }
   - { item: "Sesame Seeds", amount: 1, unit: "tsp" }
-  - { item: "Spring Onion", type: "sliced", amount: 1 }
+  - { item: "Spring onion (scallion)", type: "sliced", amount: 1 }
 
 faq:
   - question: "Can I eat this dish cold?"
@@ -70,5 +70,5 @@ steps:
   - "In a bowl, aggressively whisk the peanut butter, soy sauce, agave, garlic, ginger, and chilli oil. If it looks like concrete, whisk in the hot noodle water a splash at a time until it turns into a thick, glossy syrup that pours smoothly."
   - "Get the sesame oil in a wok over low heat. Toss in the noodles to coat."
   - "Pour the peanut sauce over the noodles in the wok. Stir-fry for 1-2 minutes until the glaze clings to every single strand."
-  - "Serve immediately. Garnish heavily with spring onions, sesame seeds, and a squeeze of lime."
+  - "Serve immediately. Garnish heavily with spring onions (scallions), sesame seeds, and a squeeze of lime."
 ---

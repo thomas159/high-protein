@@ -69,5 +69,5 @@ steps:
   - "Whisk the ginger garlic paste, chilli powder, lime juice, garam masala, and a splash of oil."
   - "Cube the tofu and toss it through. Let it sit for 30 minutes to absorb."
   - "Air Fry at 180°C for 6-10 minutes, shaking halfway. Or pan-fry until charred."
-  - "Finish with fresh coriander and a heavy squeeze of lime."
+  - "Finish with fresh coriander (cilantro) and a heavy squeeze of lime."
 ---

@@ -50,7 +50,7 @@ ingredients:
   - { item: "Garlic clove", type: 'minced', amount: 1 }
   - { item: "Salt", amount: 0.25, unit: "tsp" }
   - { item: "Black pepper", amount: 0.5, unit: "tsp" }
-  - { item: "Spring onion", amount: 5, unit: "g" }
+  - { item: "Spring onion (scallion)", amount: 5, unit: "g" }
 
 faq:
   - question: "Does this dip taste strongly of yoghurt?"
@@ -61,5 +61,5 @@ faq:
 steps:
   - "Whisk the mayo and Greek yoghurt in a bowl for 1-2 minutes until completely smooth, thick, and glossy. If it's lumpy, keep whisking, lumps here will ruin the final velvety texture."
   - "Fold in the minced garlic, salt, and pepper."
-  - "Stir in half the spring onions. Leave it in the fridge for 15 minutes to let the flavours marry. Top with the remaining onions when serving."
+  - "Stir in half the spring onions (scallions). Leave it in the fridge for 15 minutes to let the flavours marry. Top with the remaining onions when serving."
 ---

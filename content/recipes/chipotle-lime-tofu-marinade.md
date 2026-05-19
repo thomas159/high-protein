@@ -55,7 +55,7 @@ ingredients:
   - { item: "Lime juice", amount: 2, unit: "tbsp" }
   - { item: "Adobo chile pepper", type: 'finely chopped', amount: 1 }
   - { item: "Paprika powder", amount: 1, unit: 'tsp' }
-  - { item: "Coriander", amount: 0.5, unit: 'tsp' }
+  - { item: "Coriander (cilantro)", amount: 0.5, unit: 'tsp' }
   - { item: "Cumin", amount: 0.5, unit: 'tsp' }
   - { item: "Garlic powder", amount: 0.5, unit: 'tsp' } 
   - { item: "Oregano", amount: 0.5, unit: 'tsp' }
@@ -71,5 +71,5 @@ steps:
   - "Whisk the lime juice, chopped chipotle, spices, a pinch of salt, and a splash of oil in a bowl."
   - "Cube the tofu and fold it through the marinade. Let it rest for 30 minutes to absorb."
   - "Air Fry at 180°C for 6-10 minutes, shaking halfway. Or pan-fry until charred."
-  - "Serve with fresh coriander and an extra squeeze of lime."
+  - "Serve with fresh coriander (cilantro) and an extra squeeze of lime."
 ---

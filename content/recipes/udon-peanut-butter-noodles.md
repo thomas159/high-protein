@@ -47,7 +47,7 @@ ingredients:
   - { item: "Red pepper", amount: 50, unit: "g" }
   - { item: "Carrots", amount: 50, unit: "g" }
   - { item: "Tofu", amount: 180, unit: "g" }
-  - { item: "Spring onions", amount: 25, unit: "g" }
+  - { item: "Spring onions (scallions)", amount: 25, unit: "g" }
   - { item: "Peanut butter", amount: 1, unit: "tbsp" }
   - { item: "Coconut milk", amount: 100,unit: "ml" }
   - { item: "Thai red curry paste", amount: 1, unit: "tsp" }

@@ -23,7 +23,7 @@ works:
 use:
   - "Cutting Phase Fix: All the pizza satisfaction, barely any of the carbs."
   - "Emergency Refeed: Ready in 15 minutes when the cravings hit."
-  - "Light Lunch: Pair with a rocket salad."
+  - "Light Lunch: Pair with a rocket (arugula) salad."
 image: "air-fryer-pizza-tortilla-wrap_ko6ckn"
 alt: "Air fryer tortilla pizza with pesto and cherry tomatoes"
 pintrest: ""
@@ -36,7 +36,7 @@ variations:
   - "Hot Honey: Hit it with jalapeños and a drizzle of chilli honey."
 rating: 
 reviews: 
-servingSuggestions: "Serve this alongside a massive rocket and parmesan salad. Drizzle with chilli oil if you need an extra kick. Serve it immediately."
+servingSuggestions: "Serve this alongside a massive rocket (arugula) and parmesan salad. Drizzle with chilli oil if you need an extra kick. Serve it immediately."
 storageInstructions: "Eat it fresh. Do not try and fridge this or it'll turn into a soggy frisbee."
 prepTimeMins: 5
 cookTimeMins: 10

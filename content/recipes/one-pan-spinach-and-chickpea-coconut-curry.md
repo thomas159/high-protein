@@ -26,7 +26,7 @@ tips:
   - "Frozen Over Fresh: Skip the fresh spinach. Frozen pellets are cheaper and you can toss them straight into the bubbling pan."
   - "Fat is Flavour: Use full-fat coconut milk. 'Lite' versions will just give you a watery, depressing broth."
 works:
-  - "Lipid-Soluble Extraction: The flavour compounds in cumin, coriander, and turmeric are fat-soluble. Toasting them in hot coconut oil violently extracts and disperses these compounds into the fat, creating a massively amplified flavour base that water or stock simply cannot achieve."
+  - "Lipid-Soluble Extraction: The flavour compounds in cumin, coriander (cilantro), and turmeric are fat-soluble. Toasting them in hot coconut oil violently extracts and disperses these compounds into the fat, creating a massively amplified flavour base that water or stock simply cannot achieve."
   - "Natural Thickening: Chickpea starches leach into the coconut milk, naturally thickening the curry without any flour."
 use:
   - "Macro Prep: Batch cook a large pan on Sunday to fuel your week."
@@ -50,7 +50,7 @@ ingredients:
   - { item: "Fresh Ginger", type: "grated", amount: 7, unit: "g" }
   - { item: "Cumin Powder", amount: 0.5, unit: "tsp" }
   - { item: "Turmeric", amount: 0.5, unit: "tsp" }
-  - { item: "Coriander Powder", amount: 0.5, unit: "tsp" }
+  - { item: "Coriander (cilantro) Powder", amount: 0.5, unit: "tsp" }
   - { item: "Chickpeas", type: "canned, drained", amount: 200, unit: "g" }
   - { item: "Fresh Spinach", amount: 100, unit: "g" }
   - { item: "Tomatoes", type: "chopped", amount: 75, unit: "g" }
@@ -66,7 +66,7 @@ faq:
 
 steps:
   - "Heat coconut oil in a large pan. Sauté the onion for 5-10 minutes until soft."
-  - "Stir in the turmeric, coriander, and cumin. Toast for 2 minutes to aggressively release their oils."
+  - "Stir in the turmeric, coriander (cilantro), and cumin. Toast for 2 minutes to aggressively release their oils."
   - "Add the garlic and ginger. Cook for 1-2 minutes until fragrant."
   - "Add the chopped tomatoes and cook for 3-4 minutes until they break down into a jammy paste."
   - "Pour in the chickpeas, spinach, vegetable stock, and coconut milk. Bring to a violent boil, then drop the heat."

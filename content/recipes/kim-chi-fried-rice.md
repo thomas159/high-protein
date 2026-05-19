@@ -49,7 +49,7 @@ ingredients:
   - { item: "Egg", amount: 1 }  
   - { item: "Carrot", amount: 25 } 
   - { item: "Red pepper", amount: 25 , unit: 'g'} 
-  - { item: "Spring onion", amount: 10, unit: 'g' } 
+  - { item: "Spring onion (scallion)", amount: 10, unit: 'g' } 
   - { item: "Kim chi", type: 'chopped', amount: 50 }
   - { item: "Garlic clove", type: 'minced', amount: 1 }
   - { item: "Soy sauce", amount: 1, unit: 'tbsp'}
@@ -67,5 +67,5 @@ steps:
   - "Get your oil smoking in a large wok. Toss in the garlic, veg, and kimchi. Stir-fry for 3-4 minutes to caramelise the kimchi."
   - "Push everything to the edges. Crack the egg into the centre and scramble aggressively. Fold the veg back in when the egg is mostly cooked."
   - "Drop the rice in. Hit it with sesame oil, soy sauce, and gochujang. Blast the heat. Press the rice firmly into the pan for 30 seconds to force a deep, caramelised crust to form, then toss. Repeat to build those elite crispy edges. If you constantly stir, it will steam into a soggy mess instead of crisping."
-  - "Pull it off the heat. Garnish it with toasted sesame seeds and spring onions."
+  - "Pull it off the heat. Garnish it with toasted sesame seeds and spring onions (scallions)."
 ---

@@ -62,7 +62,7 @@ ingredients:
   - { item: "Sugar", amount: 0.5, unit: "tsp" }
   - { item: "Garlic", type: "minced", amount: 0.5, unit: "clove" }
   - { item: "Water", amount: 2, unit: "tbsp" }
-  - { item: "Spring Onion", type: "sliced", amount: 1 }
+  - { item: "Spring onion (scallion)", type: "sliced", amount: 1 }
   - { item: "Sesame Seeds", amount: 1, unit: "tbsp" }
 
 faq:
@@ -76,5 +76,5 @@ steps:
   - "Heat the grapeseed oil in a pan over medium-high heat. Add the tofu and pan-fry for 5 minutes, turning occasionally, until a shatter-crisp, golden crust forms. If the pan isn't hot enough, the tofu will just absorb the oil."
   - "While the tofu fries, vigorously whisk the soy sauce, sugar, gochujang, sesame oil, rice vinegar, ketchup, minced garlic, and water in a small bowl until completely smooth."
   - "Once the tofu is rigid and crispy, pour the sauce directly into the pan. Let it bubble and vigorously simmer for 1-2 minutes. The sugars will violently caramelise and thicken into a glossy lacquer. Toss constantly so every piece is coated."
-  - "Kill the heat immediately before the sugar burns to ash. Garnish heavily with sliced spring onions and toasted sesame seeds, then serve."
+  - "Kill the heat immediately before the sugar burns to ash. Garnish heavily with sliced spring onions (scallions) and toasted sesame seeds, then serve."
 ---
