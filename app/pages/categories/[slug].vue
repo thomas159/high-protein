@@ -29,7 +29,7 @@ useSeoMeta({
 })
 
 useSchemaOrg([
-  defineCollectionPage({
+  defineWebPage({
     name: titleText,
     description: descText
   })
