@@ -41,6 +41,22 @@ useSeoMeta({
   ogType: 'website',
   twitterCard: 'summary_large_image',
 })
+
+useSchemaOrg([
+  // 1. Defines the site structure
+  defineWebSite({
+    name: 'Hot Recipes',
+    description: 'Build Muscle, Not Dishes',
+  }),
+  // 2. Defines the WebPage as the default for all routes
+  defineWebPage(),
+  // 3. Establishes Author Trust (E-E-A-T)
+  definePerson({
+    name: 'Tom',
+    description: 'Software developer, avid gym goer and vegetarian home cook.',
+    image: '/images/tom-gym.avif',
+  })
+])
 </script>
 
 <template>

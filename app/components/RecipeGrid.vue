@@ -18,7 +18,7 @@ const { formatText } = useFormatText()
       class="group block bg-white rounded-xl overflow-hidden shadow-md hover:shadow-xl transition-shadow"
     >
       <div class="h-48 bg-gray-200 overflow-hidden">
-        <img :src="recipe.image" class="w-full h-full object-cover group-hover:scale-105 transition-transform" />
+        <Img :src="recipe.image" :alt="recipe.title" class="w-full h-full object-cover group-hover:scale-105 transition-transform" />
       </div>
       <div class="p-4">
         <h3 class="font-bold text-lg text-gray-900">{{ recipe.title }}</h3>

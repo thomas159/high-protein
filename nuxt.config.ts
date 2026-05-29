@@ -41,6 +41,7 @@ export default defineNuxtConfig({
   },
   sitemap: {
     includeAppSources: true,
+    exclude: ['/api/**'],
     sources: [
       '/api/__sitemap__/urls', // Internal route for content discovery
     ]
@@ -48,9 +49,12 @@ export default defineNuxtConfig({
   schemaOrg: {
     identity: {
       type: 'Organization',
-      name: 'My Recipe Site',
-      logo: '/logo.png'
+      name: 'Hot Recipes',
+      logo: '/logo.svg'
     }
+  },
+  robots: {
+    disallow: ['/api', '/admin']
   },
   // Content
   content: {
@@ -154,11 +158,6 @@ export default defineNuxtConfig({
       weights: [400, 500, 600, 700, 800, 900],
       styles: ['normal', 'italic'],
       subsets: [
-        'cyrillic-ext',
-        'cyrillic',
-        'greek-ext',
-        'greek',
-        'vietnamese',
         'latin-ext',
         'latin',
       ]

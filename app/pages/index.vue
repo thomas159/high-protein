@@ -77,7 +77,7 @@ useSeoMeta({
         <NuxtLink v-for="cat in categories" :key="cat.name" :to="cat.link" class="flex flex-col items-center group">
           <!-- <span class="text-3xl mb-2 group-hover:scale-110 transition-transform">{{ cat.icon }}</span> -->
           <div class="w-[150px] h-[100px]">
-            <Img :src="cat.img" class="rounded-full" />
+            <Img :src="cat.img" :alt="cat.name" class="rounded-full" />
           </div>
           <span class="text-[12px] font-bold mt-1 uppercase tracking-tighter text-muted-foreground group-hover:text-emerald-500">{{ cat.name }}</span>
         </NuxtLink>

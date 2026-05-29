@@ -31,7 +31,7 @@ const stats = [
       <div class="rounded-2xl overflow-hidden bg-muted aspect-square">
        <img 
           src="/images/tom-gym.avif" 
-          alt="photo of Tom at the gym" 
+          alt="Tom, creator of Hot Recipes, at the gym" 
           class="w-full h-full object-cover"
         />
       </div>
