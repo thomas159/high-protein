@@ -52,6 +52,16 @@ const backLink = computed(() => {
 })
 
 const recipeName = computed(() => props.recipe?.title || 'Recipe')
+
+useSchemaOrg([
+  defineBreadcrumb({
+    itemListElement: [
+      { name: 'Home', item: '/' },
+      { name: backLink.value.label, item: backLink.value.to },
+      { name: recipeName.value }
+    ]
+  })
+])
 </script>
 
 <template> 
