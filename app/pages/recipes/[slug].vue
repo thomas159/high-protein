@@ -24,20 +24,6 @@ const accordionItems = computed(() => {
 if (recipe.value) {
   const schema = []
 
-  // Add the basic recipe schema
-  schema.push(
-    defineRecipe({
-      name: recipe.value.title,
-      image: recipe.value.image,
-      description: recipe.value.description,
-      prepTime: recipe.value.prepTimeMins ? `PT${recipe.value.prepTimeMins}M` : undefined,
-      cookTime: recipe.value.cookTimeMins ? `PT${recipe.value.cookTimeMins}M` : undefined,
-      recipeYield: recipe.value.servings,
-      recipeCategory: recipe.value.categories?.[0] || 'Dinner',
-      recipeCuisine: recipe.value.cuisine,
-    })
-  )
-
   // If FAQs exist, add the FAQPage type and map the questions into schema
   if (recipe.value.faq && recipe.value.faq.length > 0) {
     // Add FAQPage as an additional type to the WebPage
@@ -69,6 +55,8 @@ useSeoMeta({
   ogDescription: recipe.value?.meta?.seoMetaDescription || recipe.value?.description,
   ogImage: recipe.value?.image ? `https://res.cloudinary.com/mealse-co-uk/image/upload/f_auto,q_auto/${recipe.value?.image}` : undefined,
   ogType: 'article',
+  articleAuthor: 'Hot Recipes',
+  articlePublishedTime: recipe.value?.date || undefined,
   ogUrl: `https://www.hotrecipes.co.uk${route.path}`,
   twitterCard: 'summary_large_image',
   twitterTitle: recipe.value?.title,
@@ -94,6 +82,11 @@ if (recipe.value?.categories?.includes('vegan')) {
       name: recipe.value?.title,
       description: recipe.value?.meta?.seoMetaDescription || recipe.value?.description,
       image: [`https://res.cloudinary.com/mealse-co-uk/image/upload/f_auto,q_auto/${recipe.value?.image}`], // Must be absolute URL
+      aggregateRating: recipe.value?.rating ? {
+        '@type': 'AggregateRating',
+        ratingValue: recipe.value.rating,
+        reviewCount: recipe.value.reviews || 1
+      } : undefined,
       author: {
         '@type': 'Organization',
         name: 'Hot Recipes',
@@ -182,6 +175,9 @@ const { formatText } = useFormatText()
 
 useHead({
   titleTemplate: (title) => title ? `${title} | ${siteName}` : siteName,
+  link: [
+    { rel: 'canonical', href: `https://www.hotrecipes.co.uk${route.path}` }
+  ],
   meta: [
     ...(recipe.value?.keywords?.length ? [{ name: 'keywords', content: recipe.value.keywords.join(', ') }] : [])
   ]
@@ -207,7 +203,7 @@ useHead({
           <p v-for="(blurb, index) in recipe.blurb" :key="index" class="text-muted-foreground" v-html="formatText(blurb)" />
         </div>
 
-        <h2 v-if="recipe.works?.length" id="works" class="mt-8">Why this recipe works</h2>
+        <h2 v-if="recipe.works?.length" id="works" class="mt-8">Why this {{ recipe.title }} recipe works</h2>
         <div v-if="recipe.works?.length" class="mt-4 space-y-4">
           <p v-for="(work, index) in recipe.works" :key="index" class="text-muted-foreground" v-html="formatText(work)" />
         </div>
@@ -273,7 +269,7 @@ useHead({
                   <Img 
                     v-if="step.image" 
                     :src="step.image" 
-                    :alt="`Step ${index + 1}`" 
+                    :alt="`Step ${index + 1} for making ${recipe.title}`" 
                     class="w-full max-w-[400px] !h-auto aspect-video rounded-lg object-cover"
                   />
                 </template>
@@ -288,7 +284,7 @@ useHead({
           </ol>
         </div>
 
-        <h2 v-if="recipe.storageInstructions" id="storage" class="mt-8 ">Storage and Freezing</h2>
+        <h2 v-if="recipe.storageInstructions" id="storage" class="mt-8 ">Storage and Freezing for {{ recipe.title }}</h2>
         <p class=" text-muted-foreground" v-html="formatText(recipe.storageInstructions)" />
 
            <!-- New FAQ Section -->
