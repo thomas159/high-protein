@@ -22,7 +22,10 @@ useSeoMeta({
   description: descText,
   ogTitle: titleText,
   ogDescription: descText,
-  ogUrl: `https://www.hotrecipes.co.uk${route.path}`
+  ogUrl: `https://www.hotrecipes.co.uk${route.path}`,
+  twitterTitle: titleText,
+  twitterDescription: descText,
+  twitterCard: 'summary_large_image'
 })
 
 useSchemaOrg([

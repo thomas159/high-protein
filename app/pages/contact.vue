@@ -30,14 +30,17 @@ const handleSubmit = async () => {
   }
 }
 useHead({
-  title: `Contact Us - ${appConfig.siteName}`, 
-  link: [{ rel: 'canonical', href: 'https://www.hotrecipes.co.uk/contact' }],
-  meta: [
-    { 
-      name: 'description', 
-      content: `Have a question or a recipe suggestion? Reach out to the ${appConfig.siteName} team.` 
-    }
-  ]
+  link: [{ rel: 'canonical', href: 'https://www.hotrecipes.co.uk/contact' }]
+})
+
+useSeoMeta({
+  title: `Contact Us - ${appConfig.siteName}`,
+  description: `Have a question or a recipe suggestion? Reach out to the ${appConfig.siteName} team.`,
+  ogTitle: `Contact Us - ${appConfig.siteName}`,
+  ogDescription: `Have a question or a recipe suggestion? Reach out to the ${appConfig.siteName} team.`,
+  twitterTitle: `Contact Us - ${appConfig.siteName}`,
+  twitterDescription: `Have a question or a recipe suggestion? Reach out to the ${appConfig.siteName} team.`,
+  twitterCard: 'summary_large_image'
 })
 </script>
 

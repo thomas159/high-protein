@@ -39,7 +39,10 @@ useSeoMeta({
   description: page.value?.description,
   ogTitle: page.value?.title ? `${page.value.title} - ${appConfig.siteName}` : appConfig.siteName,
   ogDescription: page.value?.description,
-  ogUrl: `https://www.hotrecipes.co.uk${route.path}`
+  ogUrl: `https://www.hotrecipes.co.uk${route.path}`,
+  twitterTitle: page.value?.title ? `${page.value.title} - ${appConfig.siteName}` : appConfig.siteName,
+  twitterDescription: page.value?.description,
+  twitterCard: 'summary_large_image'
 })
 
 const { formatText } = useFormatText()

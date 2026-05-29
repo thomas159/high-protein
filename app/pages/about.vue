@@ -2,11 +2,17 @@
 const appConfig = useAppConfig()
 // SEO Metadata
 useHead({
+  link: [{ rel: 'canonical', href: 'https://www.hotrecipes.co.uk/about' }]
+})
+
+useSeoMeta({
   title: `About ${appConfig.siteName} - My Story & Mission`,
-  link: [{ rel: 'canonical', href: 'https://www.hotrecipes.co.uk/about' }],
-  meta: [
-    { name: 'description', content: `Learn more about the passion behind ${appConfig.siteName } and how we create our recipes.` }
-  ]
+  description: `Learn more about the passion behind ${appConfig.siteName} and how we create our recipes.`,
+  ogTitle: `About ${appConfig.siteName} - My Story & Mission`,
+  ogDescription: `Learn more about the passion behind ${appConfig.siteName} and how we create our recipes.`,
+  twitterTitle: `About ${appConfig.siteName} - My Story & Mission`,
+  twitterDescription: `Learn more about the passion behind ${appConfig.siteName} and how we create our recipes.`,
+  twitterCard: 'summary_large_image'
 })
 
 const stats = [
