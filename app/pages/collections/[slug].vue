@@ -30,9 +30,16 @@ const collectionItems = computed(() => {
 })
 
 // SEO Metadata
+useHead({
+  link: [{ rel: 'canonical', href: `https://www.hotrecipes.co.uk${route.path}` }]
+})
+
 useSeoMeta({
   title: page.value?.title ? `${page.value.title} - ${appConfig.siteName}` : appConfig.siteName,
-  description: page.value?.description
+  description: page.value?.description,
+  ogTitle: page.value?.title ? `${page.value.title} - ${appConfig.siteName}` : appConfig.siteName,
+  ogDescription: page.value?.description,
+  ogUrl: `https://www.hotrecipes.co.uk${route.path}`
 })
 
 const { formatText } = useFormatText()

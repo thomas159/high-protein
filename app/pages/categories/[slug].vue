@@ -8,6 +8,30 @@ const router = useRouter()
 const categorySlug = route.params.slug as string
 const showFilters = ref(false)
 
+const titleText = categorySlug === 'all-recipes' ? 'All Recipes' : `${categorySlug.replace(/-/g, ' ')} Recipes`
+const descText = categorySlug === 'all-recipes' 
+  ? 'Browse our complete collection of delicious, macro-friendly, and high-protein recipes designed to help you hit your fitness goals without sacrificing flavor.' 
+  : `Explore our delicious collection of ${categorySlug.replace(/-/g, ' ')} recipes. Perfect for hitting your protein goals while enjoying satisfying, guilt-free meals.`
+
+useHead({
+  link: [{ rel: 'canonical', href: `https://www.hotrecipes.co.uk${route.path}` }]
+})
+
+useSeoMeta({
+  title: titleText,
+  description: descText,
+  ogTitle: titleText,
+  ogDescription: descText,
+  ogUrl: `https://www.hotrecipes.co.uk${route.path}`
+})
+
+useSchemaOrg([
+  defineCollectionPage({
+    name: titleText,
+    description: descText
+  })
+])
+
 // 1. Fetch recipes for this specific category
 const { data: recipes } = await useAsyncData(`category-${categorySlug}`, () => {
   if (categorySlug === 'all-recipes') {

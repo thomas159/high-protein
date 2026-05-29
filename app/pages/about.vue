@@ -3,6 +3,7 @@ const appConfig = useAppConfig()
 // SEO Metadata
 useHead({
   title: `About ${appConfig.siteName} - My Story & Mission`,
+  link: [{ rel: 'canonical', href: 'https://www.hotrecipes.co.uk/about' }],
   meta: [
     { name: 'description', content: `Learn more about the passion behind ${appConfig.siteName } and how we create our recipes.` }
   ]

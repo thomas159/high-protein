@@ -31,6 +31,7 @@ const handleSubmit = async () => {
 }
 useHead({
   title: `Contact Us - ${appConfig.siteName}`, 
+  link: [{ rel: 'canonical', href: 'https://www.hotrecipes.co.uk/contact' }],
   meta: [
     { 
       name: 'description', 

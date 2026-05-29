@@ -37,6 +37,10 @@ const categories = [
   { name: 'Air fryer', img: 'air-fryer_too3q1', link: '/categories/air-fryer' }
 ]
 
+useHead({
+  link: [{ rel: 'canonical', href: 'https://www.hotrecipes.co.uk/' }]
+})
+
 useSeoMeta({
   title: 'Build Muscle, Not Dishes | High-Protein Vegetarian and Vegan Recipes',
   description: 'Quick, high-protein vegetarian and vegan meals for people who love to eat but hate to wait.',
