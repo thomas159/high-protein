@@ -21,4 +21,6 @@ recipes:
     text: "The perfect pre-workout carb load. Ripe bananas provide natural starches to bind the ice cream and deliver a massive hit of fast-digesting sweet fuel. Wait until the skins are heavily speckled for maximum natural sweetness and a smoother freeze."
   - slug: "ninja-creami-chocolate-ice-cream"
     text: "The definitive high-protein chocolate base. It's the foundational recipe you need in your freezer at all times. Rich, dark, and highly satiating to kill those late-night cravings. The cocoa powder acts as a natural thickener for a denser scoop."
+  - slug: "ninja-creami-matcha-ice-cream"
+    text: "A massive hit of protein disguised as a premium, earthy matcha ice cream. Using a matcha paste technique ensures zero powdery lumps, while a touch of honey perfectly balances the earthy notes for an ultra-creamy structure."
 ---
