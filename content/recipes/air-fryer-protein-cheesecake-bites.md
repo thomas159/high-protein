@@ -7,7 +7,7 @@ meta: {
 description: |
   A high-protein, macro-friendly dessert with a pre-baked buttery digestive crust, baked to creamy perfection in the air fryer.
 
-image: "air-fryer-protein-cheesecake-bites-1_pxo3hq"
+image: "air-fryer-protein-cheesecake-bites-2_bsig6f"
 alt: "Air fryer protein cheesecake bites"
 categories: ["air-fryer", "dessert"]
 tags: ["high protein"]
@@ -27,23 +27,24 @@ use:
 servingSuggestions: "Serve chilled, optionally topped with fresh berries or a sugar-free fruit compote."
 storageInstructions: "Store in an airtight container in the fridge for up to 4 days."
 prepTimeMins: 15
-cookTimeMins: 23
-servings: 4
+cookTimeMins: 16
+servings: 5
 macros:
-  calories: 350
-  carbs: 25
-  protein: 8
-  fat: 22
+  calories: 224
+  carbs: 18
+  protein: 12
+  fat: 12
 ingredients:
-  - { item: "Digestive biscuits", amount: 150, unit: "g" }
-  - { item: "Butter, melted", amount: 75, unit: "g" }
-  - { item: "Cream cheese (full or low fat)", amount: 200, unit: "g" }
-  - { item: "Greek yoghurt (full or low fat)", amount: 150, unit: "ml" }
-  - { item: "Xylitol", amount: 50, unit: "g" }
+  - { item: "Digestive biscuits", amount: 75, unit: "g" }
+  - { item: "Butter, melted", amount: 30, unit: "g" }
+  - { item: "Cream cheese", type: "low fat", amount: 100, unit: "g" }
+  - { item: "Greek yoghurt", type: "low fat", amount: 76, unit: "ml" }
+  - { item: "Xylitol", amount: 25, unit: "g" }
+  - { item: "Vanilla whey protein powder", amount: 40, unit: "g"}
   - { item: "Egg", amount: 1 }
   - { item: "Vanilla extract", amount: 1, unit: "tsp" }
   - { item: "Lemon juice", amount: 2, unit: "tsp" }
-  - { item: "Cornstarch", amount: 1, unit: "tbsp" }
+  - { item: "Cornstarch", amount: 1, unit: "tsp" }
 
 steps:
   - "Crush the digestive biscuits into fine crumbs. Melt the butter and mix thoroughly with the crumbs until the mixture resembles wet sand."
