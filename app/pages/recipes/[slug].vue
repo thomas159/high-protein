@@ -171,6 +171,19 @@ const { data: randomizedRecipes } = await useAsyncData(`${route.path}-random`, a
   default: () => []
 })
 
+// Fetch collections that feature this recipe
+const { data: relatedCollections } = await useAsyncData(`${route.path}-collections`, async () => {
+  if (!recipe.value?.slug) return []
+  
+  const allCollections = await queryCollection('collections').all()
+  return allCollections.filter(c => 
+    c.recipes?.some((r: any) => r.slug === recipe.value?.slug)
+  )
+}, {
+  watch: [recipe],
+  default: () => []
+})
+
 const { formatText } = useFormatText()
 
 useHead({
@@ -199,6 +212,21 @@ useHead({
               <svg class="w-5 h-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><line x1="8.59" x2="15.42" y1="13.51" y2="17.49"/><line x1="15.41" x2="8.59" y1="6.51" y2="10.49"/></svg>
             </button>
           </div> -->
+          
+        <div v-if="relatedCollections?.length" class="mt-4 mb-8">
+          <h3 class="text-sm font-bold uppercase tracking-wider text-gray-500 dark:text-gray-400 mb-4 flex items-center gap-2">
+            <Icon name="ph:folder-open-duotone" class="w-5 h-5 text-green-500" />
+            Featured In
+          </h3>
+          <div class="grid grid-cols-1 gap-4">
+            <CollectionCard 
+              v-for="collection in relatedCollections" 
+              :key="collection.path"
+              :collection="collection"
+            />
+          </div>
+        </div>
+
         <div v-if="recipe.blurb?.length" class="mt-4 space-y-4">
           <p v-for="(blurb, index) in recipe.blurb" :key="index" class="text-muted-foreground" v-html="formatText(blurb)" />
         </div>
