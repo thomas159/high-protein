@@ -184,6 +184,13 @@ const { data: relatedCollections } = await useAsyncData(`${route.path}-collectio
   default: () => []
 })
 
+// Helper to clean up collection titles for the SEO hook
+const getCollectionHook = (title?: string) => {
+  if (!title) return 'Craving more? Check out these related recipes'
+  let clean = title.replace(/^(The\s+Ultimate\s+|The\s+Quickest,\s+Crispiest\s+|The\s+|A\s+|An\s+)/i, '')
+  return `Craving more? Check out other ${clean.toLowerCase()}`
+}
+
 const { formatText } = useFormatText()
 
 useHead({
@@ -213,17 +220,13 @@ useHead({
             </button>
           </div> -->
           
-        <div v-if="relatedCollections?.length" class="mt-4 mb-8">
-          <h3 class="text-sm font-bold uppercase tracking-wider text-gray-500 dark:text-gray-400 mb-4 flex items-center gap-2">
-            <Icon name="ph:folder-open-duotone" class="w-5 h-5 text-green-500" />
-            Featured In
-          </h3>
-          <div class="grid grid-cols-1 gap-4">
-            <CollectionCard 
-              v-for="collection in relatedCollections" 
-              :key="collection.path"
-              :collection="collection"
-            />
+        <div v-if="relatedCollections?.length" class="mt-4 mb-8 space-y-6">
+          <div v-for="collection in relatedCollections" :key="collection.path">
+            <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 flex items-center gap-2">
+              <Icon name="ph:sparkle-duotone" class="w-6 h-6 text-green-500" />
+              {{ getCollectionHook(collection.title) }}
+            </h3>
+            <CollectionCard :collection="collection" />
           </div>
         </div>
 
