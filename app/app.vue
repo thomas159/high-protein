@@ -25,6 +25,14 @@ useHead({
 
   link: [
     { rel: 'icon', type: 'image/png', href: '/favicon.png' }
+  ],
+
+  script: [
+    { src: 'https://cmp.gatekeeperconsent.com/min.js', 'data-cfasync': 'false' },
+    { src: 'https://the.gatekeeperconsent.com/cmp.min.js', 'data-cfasync': 'false' },
+    { src: '//www.ezojs.com/ezoic/sa.min.js', async: true },
+    { innerHTML: 'window.ezstandalone = window.ezstandalone || {};\n    ezstandalone.cmd = ezstandalone.cmd || [];' },
+    { src: '//ezoicanalytics.com/analytics.js' }
   ]
 })
 
