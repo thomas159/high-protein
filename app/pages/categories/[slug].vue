@@ -4,45 +4,64 @@ import { useRoute, useRouter } from 'vue-router'
 import Button from '@/components/common/Button.vue'
 
 const route = useRoute()
+const { t, locale } = useI18n()
 const router = useRouter()
 const categorySlug = route.params.slug as string
 const showFilters = ref(false)
 
-const titleText = categorySlug === 'all-recipes' ? 'All Recipes' : `${categorySlug.replace(/-/g, ' ')} Recipes`
-const descText = categorySlug === 'all-recipes' 
-  ? 'Browse our complete collection of delicious, macro-friendly, and high-protein recipes designed to help you hit your fitness goals without sacrificing flavor.' 
-  : `Explore our delicious collection of ${categorySlug.replace(/-/g, ' ')} recipes. Perfect for hitting your protein goals while enjoying satisfying, guilt-free meals.`
+const getCategoryName = (slug: string) => {
+  const key = `categories.${slug.replace(/-/g, '')}`
+  const translated = t(key)
+  if (translated === key) {
+    return slug.replace(/-/g, ' ')
+  }
+  return translated
+}
+
+const categoryName = computed(() => getCategoryName(categorySlug))
+
+const titleText = computed(() => {
+  return categorySlug === 'all-recipes' 
+    ? t('categoryPage.allRecipesTitle')
+    : t('categoryPage.categoryTitle', { category: categoryName.value })
+})
+
+const descText = computed(() => {
+  return categorySlug === 'all-recipes'
+    ? t('categoryPage.allRecipesDesc')
+    : t('categoryPage.categoryDesc', { category: categoryName.value })
+})
 
 useHead({
   link: [{ rel: 'canonical', href: `https://www.hotrecipes.co.uk${route.path}` }]
 })
 
 useSeoMeta({
-  title: titleText,
-  description: descText,
-  ogTitle: titleText,
-  ogDescription: descText,
+  title: () => titleText.value,
+  description: () => descText.value,
+  ogTitle: () => titleText.value,
+  ogDescription: () => descText.value,
   ogUrl: `https://www.hotrecipes.co.uk${route.path}`,
-  twitterTitle: titleText,
-  twitterDescription: descText,
+  twitterTitle: () => titleText.value,
+  twitterDescription: () => descText.value,
   twitterCard: 'summary_large_image'
 })
 
 useSchemaOrg([
   defineWebPage({
-    name: titleText,
-    description: descText
+    name: titleText.value,
+    description: descText.value
   })
 ])
 
 // 1. Fetch recipes for this specific category
-const { data: recipes } = await useAsyncData(`category-${categorySlug}`, () => {
-  if (categorySlug === 'all-recipes') {
-    return queryCollection('recipes').all()
+const { data: recipes } = await useAsyncData(`category-${categorySlug}-${locale.value}`, () => {
+  let query = queryCollection('recipes')
+    .where('path', locale.value === 'es' ? 'LIKE' : 'NOT LIKE', '%.es')
+  if (categorySlug !== 'all-recipes') {
+    query = query.where('categories', 'LIKE', `%${categorySlug}%`)
   }
-  return queryCollection('recipes')
-    .where('categories', 'LIKE', `%${categorySlug}%`)
-    .all()
+  return query.all()
 })
 
 // 2. Extract unique tags from the fetched recipes
@@ -114,19 +133,15 @@ const filteredRecipes = computed(() => {
   <div class="container mx-auto">
     <div class="text-center">
     <h1 class="text-3xl font-bold mb-4 capitalize">
-      {{ categorySlug === 'all-recipes' ? 'All Recipes' : `${categorySlug.replace(/-/g, ' ')} Recipes` }}
+      {{ titleText }}
     </h1>
     <p class="text-muted-foreground text-lg max-w-2xl mx-auto mb-8">
-      {{ categorySlug === 'all-recipes' 
-        ? 'Browse our complete collection of delicious, macro-friendly, and high-protein recipes designed to help you hit your fitness goals without sacrificing flavor.' 
-        : `Explore our delicious collection of ${categorySlug.replace(/-/g, ' ')} recipes. Perfect for hitting your protein goals while enjoying satisfying, guilt-free meals.` 
-      }}
+      {{ descText }}
     </p>
     </div>
 
     <!-- Filters section -->
-    <div v-if="availableTags.length > 0" class="mb-8 text-left">
-      <!-- Mobile Filter Toggle -->
+    <!-- <div v-if="availableTags.length > 0" class="mb-8 text-left">
       <div class="md:hidden mb-4">
         <Button 
           color="white" 
@@ -163,7 +178,7 @@ const filteredRecipes = computed(() => {
           Clear Filters
         </Button>
       </div>
-    </div>
+    </div> -->
 
     <!-- Recipe Grid -->
     <TransitionGroup 
@@ -181,10 +196,7 @@ const filteredRecipes = computed(() => {
     
     <!-- Empty State -->
     <div v-else class="text-center py-12 text-gray-500 bg-gray-50 rounded-xl border border-dashed border-gray-200">
-      <p class="text-lg mb-2">No recipes found matching the selected tags.</p>
-      <Button color="clear" size="small" @click="clearFilters">
-        Clear filters
-      </Button>
+      <p class="text-lg mb-2">{{ t('categoryPage.empty') }}</p>
     </div>
   </div>
 </template>

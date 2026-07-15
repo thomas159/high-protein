@@ -22,16 +22,19 @@ const previousPath = computed(() => {
   return typeof back === 'string' ? back : null
 })
 
+const { t } = useI18n()
+const localePath = useLocalePath()
+
 // 2. Determine the "Back" Label and Link
 const backLink = computed(() => {
   const path = previousPath.value
 
   // If coming from a specific category page
-  if (path && path.startsWith('/categories/')) {
+  if (path && path.includes('/categories/')) {
     const slug = path.split('/').pop()
     const matched = RECIPE_CATEGORIES.find(c => c.slug === slug)
     return {
-      label: matched ? matched.name : 'Back to Category',
+      label: matched ? t(`categories.${matched.slug.replace(/-/g, '')}`) : t('recipes.all'),
       to: path
     }
   }
@@ -42,13 +45,13 @@ const backLink = computed(() => {
     const primarySlug = props.recipe.categories[0]
     const matched = RECIPE_CATEGORIES.find(c => c.slug === primarySlug)
     return {
-      label: matched ? matched.name : 'Recipes',
-      to: `/categories/${primarySlug}`
+      label: matched ? t(`categories.${matched.slug.replace(/-/g, '')}`) : t('recipes.all'),
+      to: localePath(`/categories/${primarySlug}`)
     }
   }
 
   // Final Fallback
-  return { label: 'All Recipes', to: '/categories/all-recipes' }
+  return { label: t('recipes.all'), to: localePath('/categories/all-recipes') }
 })
 
 const recipeName = computed(() => props.recipe?.title || 'Recipe')
@@ -56,7 +59,7 @@ const recipeName = computed(() => props.recipe?.title || 'Recipe')
 useSchemaOrg([
   defineBreadcrumb({
     itemListElement: [
-      { name: 'Home', item: '/' },
+      { name: t('nav.home'), item: localePath('/') },
       { name: backLink.value.label, item: backLink.value.to },
       { name: recipeName.value }
     ]

@@ -3,15 +3,16 @@ import type { NuxtError } from '#app'
 const { app } = useAppConfig()
 
 const props = defineProps<{ error: NuxtError }>()
+const { t } = useI18n()
 
 const handleError = () => clearError({ redirect: '/' })
 
 useHead({
-  title: 'Error - ' + (props.error?.statusCode || 'Unknown'),
+  title: 'Error - ' + (props.error?.statusCode || t('error.unknown')),
   meta: [
     {
       name: 'description',
-      content: 'An error occurred while processing your request.'
+      content: t('error.message')
     }
   ]
 })
@@ -21,8 +22,8 @@ useHead({
   <div class="error-page w-full">
     <div class="flex flex-col items-center justify-center">
       <h1 class="italic">{{ error?.statusCode }}</h1>
-      <span class="text-lg -mt-10 mb-4">{{ error?.message }}</span>
-      <UButton role="button" aria-label="Back to Home" icon="material-symbols:arrow-insert" @click="handleError">Back to Home</UButton>
+      <span class="text-lg -mt-10 mb-4">{{ error?.statusCode === 404 ? t('error.pageNotFound') : (error?.message || t('error.message')) }}</span>
+      <UButton role="button" aria-label="Back to Home" icon="material-symbols:arrow-insert" @click="handleError">{{ t('error.back') }}</UButton>
     </div>
     <USeparator orientation="vertical" />
     <div class="relative flex flex-col items-center justify-center">

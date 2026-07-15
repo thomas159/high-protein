@@ -1,6 +1,7 @@
 <script setup lang="ts">
 const appConfig = useAppConfig()
 const { initializeScripts, checkConsent } = useAnalytics()
+const { t } = useI18n()
 
 const showBanner = ref(false)
 
@@ -46,9 +47,9 @@ const declineCookies = () => {
             </svg>
           </div>
           <div>
-            <h3 class="font-bold text-foreground">Cookie Policy</h3>
+            <h3 class="font-bold text-foreground">{{ t('cookieBanner.title') }}</h3>
             <p class="text-sm text-muted-foreground mt-1 leading-relaxed">
-              We use cookies to enhance your "{{ appConfig.siteName }}" experience and analyze our traffic.
+              {{ t('cookieBanner.description', { siteName: appConfig.siteName }) }}
             </p>
           </div>
         </div>
@@ -57,20 +58,20 @@ const declineCookies = () => {
           <button 
             id="cookieDecline"
             type="button"
-            aria-label="Decline cookies"
+            :aria-label="t('cookieBanner.decline')"
             @click="declineCookies"
             class="px-4 py-2 text-sm font-medium border border-border rounded-lg hover:bg-muted transition-colors cursor-pointer"
           >
-            Decline
+            {{ t('cookieBanner.decline') }}
           </button>
           <button 
             id="cookieAccept"
             type="button"
-            aria-label="Accept all cookies"
+            :aria-label="t('cookieBanner.accept')"
             @click="acceptCookies"
             class="px-4 py-2 text-sm font-medium bg-emerald-500 text-white rounded-lg hover:bg-emerald-600 transition-colors cursor-pointer"
           >
-            Accept all
+            {{ t('cookieBanner.accept') }}
           </button>
         </div>
       </div>

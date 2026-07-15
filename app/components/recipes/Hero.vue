@@ -35,6 +35,7 @@ const props = defineProps<{
 }>();
 
 const { formatText } = useFormatText()
+const { t } = useI18n()
 
 const scrollToRecipe = () => {
   const element = document.getElementById('howToMake')
@@ -62,7 +63,7 @@ const scrollToRecipe = () => {
              <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 14l-7 7m0 0l-7-7m7 7V3"></path>
           </svg>
-          Jump to Recipe
+          {{ t('recipes.jump') }}
         </Button>
       </div>
 
@@ -76,20 +77,20 @@ const scrollToRecipe = () => {
             props.recipe.macros.protein }}g</div>
           <div
             class="text-[10px] md:text-xs font-semibold text-green-600/80 dark:text-green-400/80 tracking-wider uppercase">
-            Protein</div>
+            {{ t('recipes.protein') }}</div>
         </div>
 
         <div class="bg-card rounded-xl p-3 md:p-4 text-center border border-border">
           <div class="text-2xl md:text-3xl font-bold text-foreground mb-1">{{ props.recipe.macros.calories }}</div>
-          <div class="text-[10px] md:text-xs font-semibold text-muted-foreground tracking-wider uppercase">Kcal</div>
+          <div class="text-[10px] md:text-xs font-semibold text-muted-foreground tracking-wider uppercase">{{ t('recipes.kcal') }}</div>
         </div>
         <div class="bg-card rounded-xl p-3 md:p-4 text-center border border-border">
           <div class="text-2xl md:text-3xl font-bold text-foreground mb-1">{{ props.recipe.macros.carbs }}g</div>
-          <div class="text-[10px] md:text-xs font-semibold text-muted-foreground tracking-wider uppercase">Carbs</div>
+          <div class="text-[10px] md:text-xs font-semibold text-muted-foreground tracking-wider uppercase">{{ t('recipes.carbs') }}</div>
         </div>
         <div class="bg-card rounded-xl p-3 md:p-4 text-center border border-border">
           <div class="text-2xl md:text-3xl font-bold text-foreground mb-1">{{ props.recipe.macros.fat }}g</div>
-          <div class="text-[10px] md:text-xs font-semibold text-muted-foreground tracking-wider uppercase">Fat</div>
+          <div class="text-[10px] md:text-xs font-semibold text-muted-foreground tracking-wider uppercase">{{ t('recipes.fat') }}</div>
         </div>
       </div>
     </div>

@@ -1,23 +1,242 @@
 {
- "nav": {
-   "home": "Home",
-   "docs": "Docs",
-   "about": "About",
-   "services": "Services",
-   "contact": "Contact",
-   "blog": "Blog",
-   "login": "Login",
-   "register": "Register",
-   "dashboard": "Dashboard",
-   "logout": "Logout",
-   "blank": "Blank",
-   "components": "Components",
-   "contents": "Contents"
- },
- "welcome": {
-   "title": "Welcome to the",
-   "subTitle": "Kickstart Your Nuxt Project – Preconfigured, Optimized, Ready to Code!",
-   "getStarted": "Get started",
-   "description": "Ready-to-use framework for Nuxt projects, pre-configured framework with essential libraries and tools, streamlining development and ensuring a clean, structured codebase. 🚀"
- }
+  "nav": {
+    "home": "Home",
+    "docs": "Docs",
+    "about": "About",
+    "services": "Services",
+    "contact": "Contact",
+    "blog": "Blog",
+    "login": "Login",
+    "register": "Register",
+    "dashboard": "Dashboard",
+    "logout": "Logout",
+    "blank": "Blank",
+    "components": "Components",
+    "contents": "Contents"
+  },
+  "home": {
+    "hero": {
+      "title": "Build Muscle,",
+      "highlight": "Not Dishes.",
+      "subtitle": "Quick, high-protein vegetarian and vegan meals for people who love to eat but hate to wait."
+    },
+    "about": {
+      "hi": "Hi, I'm {author}! 👋",
+      "description": "I share fast, macro-friendly, and high-protein recipes on {siteName} to help you hit your fitness goals without spending hours in the kitchen.",
+      "readMore": "Read My Story"
+    }
+  },
+  "about": {
+    "title": "Code, Lift, and {span}",
+    "span": "Cook",
+    "description": "I'm a software developer with a serious passion for the gym, sports, and cooking. As a vegetarian, I know firsthand that getting enough protein to fuel an active lifestyle isn't always easy. I created {siteName} to solve that problem, sharing the absolute best high-protein vegetarian and vegan recipes I've crafted to hit my macros without sacrificing flavor.",
+    "story": {
+      "title": "The Story Behind {siteName}",
+      "p1": "My journey started in the gym. I was lifting heavy and trying to build muscle, but as a vegetarian, I was constantly struggling to hit my daily protein goals. Chicken and rice wasn't an option, and I was tired of relying on protein shakes. I needed real, delicious food that actually fueled my workouts.",
+      "p2": "I started experimenting in the kitchen, turning classic comfort foods into macro-friendly, high-protein meals. Friends at the gym started asking for my recipes, and I realized there was a huge gap for plant-based athletes.",
+      "p3": "But as a software developer, I was frustrated by the recipe sites out there. They were slow, bloated with ads, and forced you to scroll past a life story just to find the ingredients. I wanted a lightning-fast, seamless platform focused entirely on what matters: the food.",
+      "expect": "So, I put my engineering skills to use and built the exact recipe site I wanted to use. Here's what you can expect from {siteName}:",
+      "list1": "High-protein vegetarian & vegan meals that actually taste good",
+      "list2": "Lightning-fast, modern user experience",
+      "list3": "Clear, macro-friendly recipes without the fluff",
+      "list4": "All recipes are personally tested by me in my own kitchen"
+    },
+    "cta": {
+      "title": "Ready to start cooking?",
+      "description": "Dive into the latest collection of recipes from {siteName} and find your next favorite meal.",
+      "button": "Browse All Recipes"
+    }
+  },
+  "recipes": {
+    "latest": "Latest Recipes",
+    "trending": "Trending This Week",
+    "airFryer": "Air Fryer Recipes",
+    "collections": "Recipe Collections",
+    "all": "Browse All Recipes",
+    "getRecipe": "Get Recipe",
+    "jump": "Jump to Recipe",
+    "protein": "Protein",
+    "carbs": "Carbs",
+    "fat": "Fat",
+    "kcal": "Kcal",
+    "more": "Craving more? Check out other",
+    "whyWorks": "Why this {title} recipe works",
+    "flavourProfile": "Flavour profile",
+    "variations": "Variations and combinations of ingredients",
+    "howToServe": "How to serve",
+    "youMightLike": "You Might Also Like",
+    "tips": "Tips",
+    "muscleTips": "Muscle building tips",
+    "servingSuggestions": "Serving Suggestions and Pairings",
+    "howToMake": "How to make {title}",
+    "storage": "Storage and Freezing for {title}",
+    "faq": "Frequently Asked Questions",
+    "loading": "Loading Recipe...",
+    "similar": "You might also like these similar recipes",
+    "mins": "{count} MINS",
+    "kcalCount": "{count} KCAL",
+    "ingredientsFor": "Ingredients for {title}",
+    "servings": "Servings"
+  },
+  "categories": {
+    "highProtein": "High Protein",
+    "vegan": "Vegan",
+    "dessert": "Dessert",
+    "dinner": "Dinner",
+    "15min": "15 Minute Meals",
+    "airFryer": "Air Fryer",
+    "allrecipes": "All Recipes",
+    "snacks": "Snacks",
+    "15minutemeals": "15 Minute Meals",
+    "highprotein": "High Protein",
+    "airfryer": "Air Fryer"
+  },
+  "footer": {
+    "description": "Quick, high-protein vegetarian and vegan meals for people who love to eat but hate to wait.",
+    "sections": {
+      "recipes": "Recipes",
+      "company": "Company",
+      "legal": "Legal"
+    },
+    "links": {
+      "aboutMe": "About Me",
+      "contact": "Contact",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service"
+    },
+    "rights": "All rights reserved."
+  },
+  "seo": {
+    "home": {
+      "title": "Build Muscle, Not Dishes | High-Protein Vegetarian and Vegan Recipes",
+      "description": "Quick, high-protein vegetarian and vegan meals for people who love to eat but hate to wait.",
+      "ogTitle": "Build Muscle, Not Dishes | Plant-Based Fitness Recipes",
+      "ogDescription": "Stop washing dishes and start hitting your macros with our 5-minute vegan recipes."
+    },
+    "about": {
+      "title": "About {siteName} - My Story & Mission",
+      "description": "Learn more about the passion behind {siteName} and how we create our recipes."
+    },
+    "contact": {
+      "title": "Contact Us - {siteName}",
+      "description": "Have a question or a recipe suggestion? Reach out to the {siteName} team."
+    },
+    "privacy": {
+      "title": "Privacy Policy - {siteName}",
+      "description": "Privacy Policy for {siteName}"
+    },
+    "terms": {
+      "title": "Terms of Service - {siteName}",
+      "description": "Terms of Service for {siteName}"
+    }
+  },
+  "privacyPolicy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last Updated:",
+    "intro1": "At {siteName}, accessible from your-domain.com, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by {siteName} and how we use it.",
+    "s1": {
+      "title": "1. Log Files",
+      "p": "{siteName} follows a standard procedure of using log files. These files log visitors when they visit websites. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks."
+    },
+    "s2": {
+      "title": "2. Google DoubleClick DART Cookie",
+      "p": "Google is one of a third-party vendor on our site. It also uses cookies, known as DART cookies, to serve ads to our site visitors based upon their visit to our site and other sites on the internet. However, visitors may choose to decline the use of DART cookies by visiting the Google ad and content network Privacy Policy at the following URL:"
+    },
+    "s3": {
+      "title": "3. Our Advertising Partners",
+      "p": "Some of advertisers on our site may use cookies and web beacons. Our advertising partners include:"
+    },
+    "s4": {
+      "title": "4. Privacy Policies",
+      "p": "Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on {siteName}, which are sent directly to users' browser. They automatically receive your IP address when this occurs."
+    },
+    "s5": {
+      "title": "5. Third Party Privacy Policies",
+      "p": "{siteName}'s Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information."
+    },
+    "s6": {
+      "title": "6. Consent",
+      "p": "By using our website, you hereby consent to our Privacy Policy and agree to its Terms and Conditions."
+    },
+    "questions": {
+      "title": "Questions?",
+      "p": "If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us through our contact page."
+    }
+  },
+  "termsOfService": {
+    "title": "Terms of Service",
+    "welcome": "Welcome to {siteName}.",
+    "p1": "By accessing this website, we assume you accept these terms and conditions. Do not continue to use {siteName} if you do not agree to take all of the terms and conditions stated on this page.",
+    "s1": {
+      "title": "1. Recipe & Health Disclaimer",
+      "notice": "Important Safety Notice:",
+      "p": "All content on {siteName} is provided for informational purposes only. We are not nutritionists or medical professionals. You are responsible for your own safety in the kitchen. We are not liable for any adverse reactions to food (allergies), injuries sustained during cooking, or errors in recipe outcomes. Use your best judgment when handling raw ingredients and kitchen equipment."
+    },
+    "s2": {
+      "title": "2. Intellectual Property Rights",
+      "p": "Unless otherwise stated, {siteName} and/or its licensors own the intellectual property rights for all material on this website. All intellectual property rights are reserved. You may access this from {siteName} for your own personal use subjected to restrictions set in these terms and conditions.",
+      "mustNot": "You must not:",
+      "li1": "Republish our recipes or photos without direct written credit and a backlink.",
+      "li2": "Sell, rent, or sub-license material from {siteName}.",
+      "li3": "Reproduce, duplicate, or copy material for commercial purposes."
+    },
+    "s3": {
+      "title": "3. Cookies",
+      "p": "We employ the use of cookies. By accessing {siteName}, you agreed to use cookies in agreement with our Privacy Policy. As noted in our policy, our advertising partners (such as Google AdSense) may also use cookies to track user behavior."
+    },
+    "s4": {
+      "title": "4. User Comments",
+      "p": "Users may be allowed to post comments on recipes. {siteName} does not filter or edit comments prior to their presence on the website. Comments reflect the views of the person who posts them. We reserve the right to monitor and remove any comments that are deemed inappropriate or offensive."
+    },
+    "s5": {
+      "title": "5. Governing Law",
+      "p": "These terms and conditions are governed by and construed in accordance with the laws of your jurisdiction, and you irrevocably submit to the exclusive jurisdiction of the courts in that State or location."
+    },
+    "contact": {
+      "p": "If you have any questions regarding these Terms, please contact us via our ",
+      "link": "Contact Page"
+    }
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "description": "Have a question about a recipe? Interested in a partnership? We'd love to hear from you.",
+    "success": {
+      "title": "Message Sent!",
+      "description": "Thank you for reaching out. We'll get back to you as soon as possible.",
+      "button": "Send another message"
+    },
+    "form": {
+      "name": "Name",
+      "namePlaceholder": "Your name",
+      "email": "Email",
+      "emailPlaceholder": "your{'@'}email.com",
+      "message": "Message",
+      "messagePlaceholder": "How can we help?",
+      "sending": "Sending...",
+      "send": "Send Message",
+      "error": "Something went wrong. Please try again."
+    }
+  },
+  "categoryPage": {
+    "allRecipesTitle": "All Recipes",
+    "allRecipesDesc": "Browse our complete collection of delicious, macro-friendly, and high-protein recipes designed to help you hit your fitness goals without sacrificing flavor.",
+    "categoryTitle": "{category} Recipes",
+    "categoryDesc": "Explore our delicious collection of {category} recipes. Perfect for hitting your protein goals while enjoying satisfying, guilt-free meals.",
+    "empty": "No recipes found."
+  },
+  "cookieBanner": {
+    "title": "Cookie Policy",
+    "description": "We use cookies to enhance your \"{siteName}\" experience and analyze our traffic.",
+    "decline": "Decline",
+    "accept": "Accept all",
+    "appMessage": "We use cookies to see if our high-protein recipes are actually helping people gain muscle. Cool?",
+    "appAccept": "Accept & Cook",
+    "appDecline": "No thanks"
+  },
+  "error": {
+    "message": "An error occurred while processing your request.",
+    "back": "Back to Home",
+    "pageNotFound": "Page Not Found",
+    "unknown": "Unknown"
+  }
 }

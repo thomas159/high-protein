@@ -1,65 +1,55 @@
 <script setup lang="ts">
 const appConfig = useAppConfig()
+const { t } = useI18n()
 
 useHead({
-  title: `Terms of Service - ${appConfig.siteName}`,
-  meta: [{ name: 'robots', content: 'noindex' }]
+  title: t('seo.terms.title', { siteName: appConfig.siteName }),
+  meta: [
+    { name: 'robots', content: 'noindex' },
+    { name: 'description', content: t('seo.terms.description', { siteName: appConfig.siteName }) }
+  ]
 })
+const localePath = useLocalePath()
 </script>
 
 <template>
   <div class="max-w-4xl mx-auto px-4 py-12 prose dark:prose-invert">
-    <h1 class="text-4xl font-bold mb-6">Terms of Service</h1>
+    <h1 class="text-4xl font-bold mb-6">{{ $t('termsOfService.title') }}</h1>
     
     <section class="mb-8">
-      <p>Welcome to <strong>{{ appConfig.siteName }}</strong>.</p>
-      <p>
-        By accessing this website, we assume you accept these terms and conditions. Do not continue to use {{ appConfig.siteName }} if you do not agree to take all of the terms and conditions stated on this page.
-      </p>
+      <p><strong>{{ $t('termsOfService.welcome', { siteName: appConfig.siteName }) }}</strong></p>
+      <p>{{ $t('termsOfService.p1', { siteName: appConfig.siteName }) }}</p>
     </section>
 
-    <h2 class="text-2xl font-semibold mt-8 text-emerald-500">1. Recipe & Health Disclaimer</h2>
+    <h2 class="text-2xl font-semibold mt-8 text-emerald-500">{{ $t('termsOfService.s1.title') }}</h2>
     <div class="bg-muted p-4 rounded-lg border-l-4 border-emerald-500 my-4 text-sm">
-      <p class="font-bold mb-2 uppercase">Important Safety Notice:</p>
-      <p>
-        All content on {{ appConfig.siteName }} is provided for informational purposes only. We are not nutritionists or medical professionals. 
-        You are responsible for your own safety in the kitchen. We are not liable for any adverse reactions to food (allergies), 
-        injuries sustained during cooking, or errors in recipe outcomes. Use your best judgment when handling raw ingredients and kitchen equipment.
-      </p>
+      <p class="font-bold mb-2 uppercase">{{ $t('termsOfService.s1.notice') }}</p>
+      <p>{{ $t('termsOfService.s1.p', { siteName: appConfig.siteName }) }}</p>
     </div>
 
-    <h2 class="text-2xl font-semibold mt-8">2. Intellectual Property Rights</h2>
-    <p>
-      Unless otherwise stated, {{ appConfig.siteName }} and/or its licensors own the intellectual property rights for all material on this website. 
-      All intellectual property rights are reserved. You may access this from {{ appConfig.siteName }} for your own personal use subjected to restrictions set in these terms and conditions.
-    </p>
-    <p class="mt-2 font-medium">You must not:</p>
+    <h2 class="text-2xl font-semibold mt-8">{{ $t('termsOfService.s2.title') }}</h2>
+    <p>{{ $t('termsOfService.s2.p', { siteName: appConfig.siteName }) }}</p>
+    <p class="mt-2 font-medium">{{ $t('termsOfService.s2.mustNot') }}</p>
     <ul class="list-disc pl-6 space-y-2">
-      <li>Republish our recipes or photos without direct written credit and a backlink.</li>
-      <li>Sell, rent, or sub-license material from {{ appConfig.siteName }}.</li>
-      <li>Reproduce, duplicate, or copy material for commercial purposes.</li>
+      <li>{{ $t('termsOfService.s2.li1') }}</li>
+      <li>{{ $t('termsOfService.s2.li2', { siteName: appConfig.siteName }) }}</li>
+      <li>{{ $t('termsOfService.s2.li3') }}</li>
     </ul>
 
-    <h2 class="text-2xl font-semibold mt-8">3. Cookies</h2>
-    <p>
-      We employ the use of cookies. By accessing {{ appConfig.siteName }}, you agreed to use cookies in agreement with our Privacy Policy. 
-      As noted in our policy, our advertising partners (such as Google AdSense) may also use cookies to track user behavior.
-    </p>
+    <h2 class="text-2xl font-semibold mt-8">{{ $t('termsOfService.s3.title') }}</h2>
+    <p>{{ $t('termsOfService.s3.p', { siteName: appConfig.siteName }) }}</p>
 
-    <h2 class="text-2xl font-semibold mt-8">4. User Comments</h2>
-    <p>
-      Users may be allowed to post comments on recipes. {{ appConfig.siteName }} does not filter or edit comments prior to their presence on the website. 
-      Comments reflect the views of the person who posts them. We reserve the right to monitor and remove any comments that are deemed inappropriate or offensive.
-    </p>
+    <h2 class="text-2xl font-semibold mt-8">{{ $t('termsOfService.s4.title') }}</h2>
+    <p>{{ $t('termsOfService.s4.p', { siteName: appConfig.siteName }) }}</p>
 
-    <h2 class="text-2xl font-semibold mt-8">5. Governing Law</h2>
-    <p>
-      These terms and conditions are governed by and construed in accordance with the laws of your jurisdiction, 
-      and you irrevocably submit to the exclusive jurisdiction of the courts in that State or location.
-    </p>
+    <h2 class="text-2xl font-semibold mt-8">{{ $t('termsOfService.s5.title') }}</h2>
+    <p>{{ $t('termsOfService.s5.p') }}</p>
 
     <div class="mt-12 text-sm text-muted-foreground border-t border-border pt-8">
-      <p>If you have any questions regarding these Terms, please contact us via our <NuxtLink to="/contact" class="text-emerald-500 underline">Contact Page</NuxtLink>.</p>
+      <p>
+        {{ $t('termsOfService.contact.p') }}
+        <NuxtLink :to="localePath('/contact')" class="text-emerald-500 underline">{{ $t('termsOfService.contact.link') }}</NuxtLink>.
+      </p>
     </div>
   </div>
 </template>

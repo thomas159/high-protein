@@ -1,5 +1,7 @@
 <script setup lang="ts">
 const appConfig = useAppConfig()
+const localePath = useLocalePath()
+const { t } = useI18n()
 </script>
 
 <template>
@@ -9,12 +11,12 @@ const appConfig = useAppConfig()
     </div>
     
     <div class="max-w-xl text-center md:text-left">
-      <h2 class="text-2xl font-bold text-foreground mb-2">Hi, I'm {{ appConfig.author }}! 👋</h2>
+      <h2 class="text-2xl font-bold text-foreground mb-2">{{ t('home.about.hi', { author: appConfig.author }) }}</h2>
       <p class="text-muted-foreground mb-4 leading-relaxed">
-        I share fast, macro-friendly, and high-protein recipes on {{ appConfig.siteName }} to help you hit your fitness goals without spending hours in the kitchen.
+        {{ t('home.about.description', { siteName: appConfig.siteName }) }}
       </p>
-      <NuxtLink to="/about" class="inline-flex items-center text-sm font-semibold text-emerald-500 hover:text-emerald-600 transition-colors">
-        Read My Story <span class="ml-1">&rarr;</span>
+      <NuxtLink :to="localePath('/about')" class="inline-flex items-center text-sm font-semibold text-emerald-500 hover:text-emerald-600 transition-colors">
+        {{ t('home.about.readMore') }} <span class="ml-1">&rarr;</span>
       </NuxtLink>
     </div>
   </section>

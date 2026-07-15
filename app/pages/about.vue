@@ -1,17 +1,14 @@
 <script setup lang="ts">
 const appConfig = useAppConfig()
-// SEO Metadata
-useHead({
-  link: [{ rel: 'canonical', href: 'https://www.hotrecipes.co.uk/about' }]
-})
+const { t } = useI18n()
 
 useSeoMeta({
-  title: `About ${appConfig.siteName} - My Story & Mission`,
-  description: `Learn more about the passion behind ${appConfig.siteName} and how we create our recipes.`,
-  ogTitle: `About ${appConfig.siteName} - My Story & Mission`,
-  ogDescription: `Learn more about the passion behind ${appConfig.siteName} and how we create our recipes.`,
-  twitterTitle: `About ${appConfig.siteName} - My Story & Mission`,
-  twitterDescription: `Learn more about the passion behind ${appConfig.siteName} and how we create our recipes.`,
+  title: () => t('seo.about.title', { siteName: appConfig.siteName }),
+  description: () => t('seo.about.description', { siteName: appConfig.siteName }),
+  ogTitle: () => t('seo.about.title', { siteName: appConfig.siteName }),
+  ogDescription: () => t('seo.about.description', { siteName: appConfig.siteName }),
+  twitterTitle: () => t('seo.about.title', { siteName: appConfig.siteName }),
+  twitterDescription: () => t('seo.about.description', { siteName: appConfig.siteName }),
   twitterCard: 'summary_large_image'
 })
 
@@ -20,16 +17,17 @@ const stats = [
   { label: 'Home Cooks', value: '10k+' },
   { label: 'Kitchen Tips', value: '100+' },
 ]
+const localePath = useLocalePath()
 </script>
 
 <template>
   <div class="max-w-4xl mx-auto px-4 py-12">
     <section class="text-center mb-16">
       <h1 class="text-4xl md:text-5xl font-bold mb-6 text-foreground">
-        Code, Lift, and <span class="text-emerald-500">Cook</span>
+        {{ t('about.title', { span: '' }).split('{span}')[0] }}<span class="text-emerald-500">{{ t('about.span') }}</span>{{ t('about.title', { span: '' }).split('{span}')[1] }}
       </h1>
       <p class="text-lg text-muted-foreground leading-relaxed">
-        I'm a software developer with a serious passion for the gym, sports, and cooking. As a vegetarian, I know firsthand that getting enough protein to fuel an active lifestyle isn't always easy. I created {{ appConfig.siteName }} to solve that problem, sharing the absolute best high-protein vegetarian and vegan recipes I've crafted to hit my macros without sacrificing flavor.
+        {{ t('about.description', { siteName: appConfig.siteName }) }}
       </p>
     </section>
 
@@ -52,35 +50,35 @@ const stats = [
       </div>
       
       <div class="space-y-6">
-        <h2 class="text-3xl font-semibold text-foreground">The Story Behind {{ appConfig.siteName }}</h2>
+        <h2 class="text-3xl font-semibold text-foreground">{{ t('about.story.title', { siteName: appConfig.siteName }) }}</h2>
         <p class="text-muted-foreground">
-          My journey started in the gym. I was lifting heavy and trying to build muscle, but as a vegetarian, I was constantly struggling to hit my daily protein goals. Chicken and rice wasn't an option, and I was tired of relying on protein shakes. I needed real, delicious food that actually fueled my workouts.
+          {{ t('about.story.p1') }}
         </p>
         <p class="text-muted-foreground">
-          I started experimenting in the kitchen, turning classic comfort foods into macro-friendly, high-protein meals. Friends at the gym started asking for my recipes, and I realized there was a huge gap for plant-based athletes.
+          {{ t('about.story.p2') }}
         </p>
         <p class="text-muted-foreground">
-          But as a software developer, I was frustrated by the recipe sites out there. They were slow, bloated with ads, and forced you to scroll past a life story just to find the ingredients. I wanted a lightning-fast, seamless platform focused entirely on what matters: the food.
+          {{ t('about.story.p3') }}
         </p>
         <p class="text-muted-foreground font-medium">
-          So, I put my engineering skills to use and built the exact recipe site I wanted to use. Here's what you can expect from {{ appConfig.siteName }}:
+          {{ t('about.story.expect', { siteName: appConfig.siteName }) }}
         </p>
         <ul class="space-y-3">
           <li class="flex items-center gap-3">
             <span class="w-2 h-2 rounded-full bg-emerald-500"></span>
-            <span>High-protein vegetarian & vegan meals that actually taste good</span>
+            <span>{{ t('about.story.list1') }}</span>
           </li>
           <li class="flex items-center gap-3">
             <span class="w-2 h-2 rounded-full bg-emerald-500"></span>
-            <span>Lightning-fast, modern user experience</span>
+            <span>{{ t('about.story.list2') }}</span>
           </li>
           <li class="flex items-center gap-3">
             <span class="w-2 h-2 rounded-full bg-emerald-500"></span>
-            <span>Clear, macro-friendly recipes without the fluff</span>
+            <span>{{ t('about.story.list3') }}</span>
           </li>
-            <li class="flex items-center gap-3">
+          <li class="flex items-center gap-3">
             <span class="w-2 h-2 rounded-full bg-emerald-500"></span>
-            <span>All recipes are personally tested by me in my own kitchen</span>
+            <span>{{ t('about.story.list4') }}</span>
           </li>
         </ul>
       </div>
@@ -94,15 +92,15 @@ const stats = [
     </section> -->
 
     <section class="bg-muted rounded-3xl p-8 md:p-12 text-center">
-      <h2 class="text-2xl font-bold mb-4">Ready to start cooking?</h2>
+      <h2 class="text-2xl font-bold mb-4">{{ t('about.cta.title') }}</h2>
       <p class="text-muted-foreground mb-8">
-        Dive into the latest collection of recipes from {{ appConfig.siteName }} and find your next favorite meal.
+        {{ t('about.cta.description', { siteName: appConfig.siteName }) }}
       </p>
       <NuxtLink 
-        to="/categories/all-recipes" 
+        :to="localePath('/categories/all-recipes')" 
         class="inline-block bg-emerald-500 hover:bg-emerald-600 text-white font-semibold px-8 py-3 rounded-lg transition-colors"
       >
-        Browse All Recipes
+        {{ t('about.cta.button') }}
       </NuxtLink>
     </section>
   </div>

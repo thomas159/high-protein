@@ -32,11 +32,13 @@ const props = defineProps<{
 }>();
 
 const { formatText } = useFormatText()
+const localePath = useLocalePath()
+const { t } = useI18n()
 </script>
 
 <template>
   <NuxtLink 
-    :to="`/recipes/${props.recipe.slug}`" 
+    :to="localePath(`/recipes/${props.recipe.slug}`)" 
     class="group bg-card rounded-2xl shadow-sm border border-border overflow-hidden hover:shadow-xl transition-all duration-500 flex flex-col hover:-translate-y-2"
   >
     <div class="h-52 w-full overflow-hidden relative">
@@ -65,11 +67,11 @@ const { formatText } = useFormatText()
       <div class="mt-auto pt-4 flex items-center justify-between text-[11px] font-bold uppercase tracking-wider text-muted-foreground border-t border-border/50">
         <div class="flex items-center gap-1.5">
           <span class="opacity-70">⏱</span>
-          <span>{{ props.recipe.prepTimeMins + props.recipe.cookTimeMins }} MINS</span>
+          <span>{{ t('recipes.mins', { count: props.recipe.prepTimeMins + props.recipe.cookTimeMins }) }}</span>
         </div>
         <div class="flex items-center gap-1.5">
           <span class="opacity-70">🔥</span>
-          <span>{{ props.recipe.macros.calories }} KCAL</span>
+          <span>{{ t('recipes.kcalCount', { count: props.recipe.macros.calories }) }}</span>
         </div>
       </div>
     </div>

@@ -61,6 +61,8 @@ const adjustedIngredients = computed(() => {
     return { ...ing, adjustedAmount }
   })
 })
+const { t } = useI18n()
+
 </script>
 
 <template>
@@ -68,13 +70,13 @@ const adjustedIngredients = computed(() => {
     <div class="bg-card rounded-3xl p-6 md:p-8 border border-border sticky top-24 shadow-sm transition-colors duration-300">
       <div class="flex justify-between items-center">
         
-        <h2 class="text-xl font-bold text-foreground">Ingredients for {{ props.recipe?.title }}</h2>
+        <h2 class="text-xl font-bold text-foreground">{{ t('recipes.ingredientsFor', { title: props.recipe?.title }) }}</h2>
         
         </div>
         
       <!-- Servings Control -->
       <div class="flex items-center justify-between bg-background border border-border px-4 py-3 rounded-xl mb-6">
-        <span class="text-sm font-semibold text-muted-foreground">Servings</span>
+        <span class="text-sm font-semibold text-muted-foreground">{{ t('recipes.servings') }}</span>
         <div class="flex items-center gap-4">
           <button 
             @click="decreaseServings"

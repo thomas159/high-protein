@@ -134,20 +134,30 @@ export default defineNuxtConfig({
   },
   i18n: {
     defaultLocale: 'en',
+    strategy: 'prefix_except_default',
+    langDir: 'locales',
+    lazy: true,
     locales: [
       {
         code: 'en',
+        iso: 'en-GB',
         name: 'English',
         flag: 'twemoji:flag-united-kingdom',
         file: 'en.json',
       },
-      // {
-      //   code: 'vi',
-      //   name: 'Tiếng Việt',
-      //   flag: 'twemoji:flag-vietnam',
-      //   file: 'vi.json',
-      // },
+      {
+        code: 'es',
+        iso: 'es-ES',
+        name: 'Español',
+        flag: 'twemoji:flag-spain',
+        file: 'es.json',
+      },
     ],
+    detectBrowserLanguage: {
+      useCookie: true,
+      cookieKey: 'i18n_redirected',
+      redirectOn: 'root',
+    },
   },
   fonts: {
     families: [

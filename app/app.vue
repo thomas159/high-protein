@@ -6,10 +6,16 @@ import { SpeedInsights } from '@vercel/speed-insights/vue';
 const { siteName, siteDescription } = useAppConfig()
 // grantConsent is now pulled in to be used in the template
 const { checkConsent, grantConsent, status } = useAnalytics()
-
+const { t } = useI18n()
 // 1. Check if they already accepted in a previous session
 onMounted(() => {
   checkConsent()
+})
+
+const head = useLocaleHead({
+  addDirAttribute: true,
+  identifierAttribute: 'id',
+  addSeoAttributes: true
 })
 
 /**
@@ -17,14 +23,20 @@ onMounted(() => {
  */
 useHead({
   titleTemplate: (title) => title ? `${title} | ${siteName}` : siteName,
+  htmlAttrs: {
+    lang: head.value.htmlAttrs?.lang,
+    dir: head.value.htmlAttrs?.dir
+  },
   meta: [
     { name: 'p:domain_verify', content: 'e4bd68dbe0b0482e0504097aa8617742' },
-    { name: 'description', content: siteDescription },
-    { name: 'google-adsense-account', content: 'ca-pub-9057939602568225' }
+    { name: 'description', content: () => t('seo.home.description') },
+    { name: 'google-adsense-account', content: 'ca-pub-9057939602568225' },
+    ...(head.value.meta || [])
   ],
 
   link: [
-    { rel: 'icon', type: 'image/png', href: '/favicon.png' }
+    { rel: 'icon', type: 'image/png', href: '/favicon.png' },
+    ...(head.value.link || [])
   ],
 
   script: [
@@ -40,10 +52,10 @@ useHead({
  * SEO & SOCIAL MEDIA
  */
 useSeoMeta({
-  title: 'Build Muscle, Not Dishes | High-Protein Vegetarian and vegan Recipes',
-  description: 'Quick, high-protein vegetarian and vegan meals for people who love to eat but hate to wait.',
-  ogTitle: 'Build Muscle, Not Dishes | Plant-Based Fitness Recipes',
-  ogDescription: 'Stop washing dishes and start hitting your macros with our 5-minute vegan recipes.',
+  title: () => t('seo.home.title'),
+  description: () => t('seo.home.description'),
+  ogTitle: () => t('seo.home.ogTitle'),
+  ogDescription: () => t('seo.home.ogDescription'),
   ogImage: 'https://www.hotrecipes.co.uk/social-share-cover.png',
   ogUrl: 'https://www.hotrecipes.co.uk',
   ogType: 'website',
@@ -78,17 +90,17 @@ useSchemaOrg([
           class="fixed bottom-4 right-4 z-50 p-4 bg-white dark:bg-gray-900 shadow-xl border border-gray-200 dark:border-gray-800 rounded-lg max-w-sm"
         >
           <p class="text-sm mb-3">
-            We use cookies to see if our high-protein recipes are actually helping people gain muscle. Cool?
+            {{ $t('cookieBanner.appMessage') }}
           </p>
           <div class="flex gap-2">
             <UButton 
-              label="Accept & Cook" 
+              :label="$t('cookieBanner.appAccept')" 
               color="primary" 
               size="sm" 
               @click="grantConsent" 
             />
             <UButton 
-              label="No thanks" 
+              :label="$t('cookieBanner.appDecline')" 
               variant="ghost" 
               size="sm" 
               @click="status = 'skipped'" 

@@ -1,0 +1,242 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "docs": "Docs",
+    "about": "Acerca de",
+    "services": "Servicios",
+    "contact": "Contacto",
+    "blog": "Blog",
+    "login": "Iniciar sesión",
+    "register": "Registrarse",
+    "dashboard": "Panel de control",
+    "logout": "Cerrar sesión",
+    "blank": "En blanco",
+    "components": "Componentes",
+    "contents": "Contenidos"
+  },
+  "home": {
+    "hero": {
+      "title": "Crea músculo,",
+      "highlight": "no platos.",
+      "subtitle": "Comidas vegetarianas y veganas rápidas y ricas en proteínas para personas que aman comer pero odian esperar."
+    },
+    "about": {
+      "hi": "¡Hola, soy {author}! 👋",
+      "description": "Comparto recetas rápidas y ricas en proteínas en {siteName} para ayudarte a alcanzar tus objetivos de fitness sin pasar horas en la cocina.",
+      "readMore": "Leer mi historia"
+    }
+  },
+  "about": {
+    "title": "Código, pesas y {span}",
+    "span": "cocina",
+    "description": "Soy un desarrollador de software con una gran pasión por el gimnasio, los deportes y la cocina. Como vegetariano, sé de primera mano que obtener suficientes proteínas para alimentar un estilo de vida activo no siempre es fácil. Creé {siteName} para resolver ese problema, compartiendo las mejores recetas vegetarianas y veganas ricas en proteínas que he creado para alcanzar mis macros sin sacrificar el sabor.",
+    "story": {
+      "title": "La historia detrás de {siteName}",
+      "p1": "Mi viaje comenzó en el gimnasio. Levantaba pesas e intentaba ganar músculo, pero como vegetariano, me costaba alcanzar mis objetivos diarios de proteínas. El pollo con arroz no era una opción y estaba cansado de depender de los batidos de proteínas. Necesitaba comida real y deliciosa que realmente alimentara mis entrenamientos.",
+      "p2": "Empecé a experimentar en la cocina, convirtiendo platos clásicos en comidas ricas en proteínas. Mis amigos en el gimnasio empezaron a pedirme mis recetas y me di cuenta de que había un gran vacío para los atletas que siguen una dieta basada en plantas.",
+      "p3": "Pero como desarrollador de software, me frustraban los sitios de recetas que existían. Eran lentos, estaban llenos de anuncios y te obligaban a leer una historia de vida antes de encontrar los ingredientes. Quería una plataforma ultrarrápida y fluida centrada enteramente en lo que importa: la comida.",
+      "expect": "Así que puse mis habilidades de ingeniería a trabajar y construí el sitio de recetas que yo mismo quería usar. Esto es lo que puedes esperar de {siteName}:",
+      "list1": "Comidas vegetarianas y veganas ricas en proteínas que realmente saben bien",
+      "list2": "Una experiencia de usuario moderna y ultrarrápida",
+      "list3": "Recetas claras, centradas en los macros y sin rodeos",
+      "list4": "Todas las recetas han sido probadas personalmente por mí en mi propia cocina"
+    },
+    "cta": {
+      "title": "¿Listo para empezar a cocinar?",
+      "description": "Sumérgete en la última colección de recetas de {siteName} y encuentra tu próxima comida favorita.",
+      "button": "Ver todas las recetas"
+    }
+  },
+  "recipes": {
+    "latest": "Últimas Recetas",
+    "trending": "Tendencias de esta semana",
+    "airFryer": "Recetas en Air Fryer",
+    "collections": "Colecciones de Recetas",
+    "all": "Ver todas las recetas",
+    "getRecipe": "Ver Receta",
+    "jump": "Saltar a la Receta",
+    "protein": "Proteína",
+    "carbs": "Carbohidratos",
+    "fat": "Grasas",
+    "kcal": "Kcal",
+    "more": "Ver más",
+    "whyWorks": "Por qué funciona esta receta de {title}",
+    "flavourProfile": "Perfil de sabor",
+    "variations": "Variaciones y combinaciones de ingredientes",
+    "howToServe": "Cómo servir",
+    "youMightLike": "También te puede interesar",
+    "tips": "Consejos",
+    "muscleTips": "Consejos para ganar músculo",
+    "servingSuggestions": "Sugerencias de servicio y maridajes",
+    "howToMake": "Cómo hacer {title}",
+    "storage": "Almacenamiento y congelación de {title}",
+    "faq": "Preguntas frecuentes",
+    "loading": "Cargando receta...",
+    "similar": "También te pueden gustar estas recetas similares",
+    "mins": "{count} MINS",
+    "kcalCount": "{count} KCAL",
+    "ingredientsFor": "Ingredientes para {title}",
+    "servings": "Porciones"
+  },
+  "categories": {
+    "highProtein": "Alto en Proteína",
+    "vegan": "Vegano",
+    "dessert": "Postre",
+    "dinner": "Cena",
+    "15min": "Comidas de 15 minutos",
+    "airFryer": "Air Fryer",
+    "allrecipes": "Todas las recetas",
+    "snacks": "Aperitivos",
+    "15minutemeals": "Comidas de 15 minutos",
+    "highprotein": "Alto en Proteína",
+    "airfryer": "Air Fryer"
+  },
+  "footer": {
+    "description": "Comidas vegetarianas y veganas rápidas y ricas en proteínas para personas que aman comer pero odian esperar.",
+    "sections": {
+      "recipes": "Recetas",
+      "company": "Compañía",
+      "legal": "Legal"
+    },
+    "links": {
+      "aboutMe": "Acerca de mí",
+      "contact": "Contacto",
+      "privacy": "Política de privacidad",
+      "terms": "Términos de servicio"
+    },
+    "rights": "Todos los derechos reservados."
+  },
+  "seo": {
+    "home": {
+      "title": "Crea músculo, no platos | Recetas vegetarianas y veganas ricas en proteínas",
+      "description": "Comidas vegetarianas y veganas rápidas y ricas en proteínas para personas que aman comer pero odian esperar.",
+      "ogTitle": "Crea músculo, no platos | Recetas fitness a base de plantas",
+      "ogDescription": "Deja de lavar platos y comienza a alcanzar tus macros con nuestras recetas veganas de 5 minutos."
+    },
+    "about": {
+      "title": "Acerca de {siteName} - Mi historia y misión",
+      "description": "Obtén más información sobre la pasión detrás de {siteName} y cómo creamos nuestras recetas."
+    },
+    "contact": {
+      "title": "Contáctanos - {siteName}",
+      "description": "¿Tienes alguna pregunta o sugerencia de receta? Comunícate con el equipo de {siteName}."
+    },
+    "privacy": {
+      "title": "Política de Privacidad - {siteName}",
+      "description": "Política de Privacidad de {siteName}"
+    },
+    "terms": {
+      "title": "Términos de Servicio - {siteName}",
+      "description": "Términos de Servicio de {siteName}"
+    }
+  },
+  "privacyPolicy": {
+    "title": "Política de Privacidad",
+    "lastUpdated": "Última actualización:",
+    "intro1": "En {siteName}, accesible desde your-domain.com, una de nuestras principales prioridades es la privacidad de nuestros visitantes. Este documento de Política de Privacidad describe los tipos de información que es recopilada y registrada por {siteName} y cómo la utilizamos.",
+    "s1": {
+      "title": "1. Archivos de registro",
+      "p": "{siteName} sigue un procedimiento estándar para el uso de archivos de registro. Estos archivos registran a los visitantes cuando entran a sitios web. La información que recopilan incluye direcciones de protocolo de Internet (IP), tipo de navegador, Proveedor de Servicios de Internet (ISP), marca de fecha y hora, páginas de referencia/salida y, posiblemente, el número de clics."
+    },
+    "s2": {
+      "title": "2. Cookie DART de Google DoubleClick",
+      "p": "Google es uno de los proveedores externos en nuestro sitio. También utiliza cookies, conocidas como cookies DART, para publicar anuncios a nuestros visitantes según sus visitas a nuestro sitio y otros sitios en Internet. Sin embargo, los visitantes pueden optar por rechazar el uso de cookies DART visitando la Política de Privacidad de la red de anuncios y contenido de Google en la siguiente URL:"
+    },
+    "s3": {
+      "title": "3. Nuestros socios publicitarios",
+      "p": "Algunos de los anunciantes en nuestro sitio pueden utilizar cookies y balizas web. Nuestros socios publicitarios incluyen:"
+    },
+    "s4": {
+      "title": "4. Políticas de privacidad",
+      "p": "Los servidores de anuncios y redes publicitarias de terceros utilizan tecnologías como cookies, JavaScript o balizas web (Web Beacons) en sus respectivos anuncios y enlaces que aparecen en {siteName}, y los envían directamente al navegador del usuario. Reciben automáticamente tu dirección IP cuando esto ocurre."
+    },
+    "s5": {
+      "title": "5. Políticas de privacidad de terceros",
+      "p": "La Política de Privacidad de {siteName} no se aplica a otros anunciantes ni sitios web. Por lo tanto, te recomendamos consultar las respectivas Políticas de Privacidad de estos servidores de anuncios de terceros para obtener información más detallada."
+    },
+    "s6": {
+      "title": "6. Consentimiento",
+      "p": "Al utilizar nuestro sitio web, consientes nuestra Política de Privacidad y aceptas sus Términos y Condiciones."
+    },
+    "questions": {
+      "title": "¿Preguntas?",
+      "p": "Si tienes preguntas adicionales o requieres más información sobre nuestra Política de Privacidad, no dudes en contactarnos a través de nuestra página de contacto."
+    }
+  },
+  "termsOfService": {
+    "title": "Términos de Servicio",
+    "welcome": "Bienvenido a {siteName}.",
+    "p1": "Al acceder a este sitio web, asumimos que aceptas estos términos y condiciones. No continúes usando {siteName} si no estás de acuerdo en aceptar todos los términos y condiciones indicados en esta página.",
+    "s1": {
+      "title": "1. Descargo de Responsabilidad de Recetas y Salud",
+      "notice": "Aviso de Seguridad Importante:",
+      "p": "Todo el contenido en {siteName} se proporciona únicamente con fines informativos. No somos nutricionistas ni profesionales médicos. Eres responsable de tu propia seguridad en la cocina. No somos responsables de reacciones adversas a los alimentos (alergias), lesiones sufridas al cocinar o errores en los resultados de las recetas. Usa tu propio juicio al manipular ingredientes crudos y equipos de cocina."
+    },
+    "s2": {
+      "title": "2. Derechos de Propiedad Intelectual",
+      "p": "Salvo que se indique lo contrario, {siteName} y/o sus licenciantes poseen los derechos de propiedad intelectual de todo el material en este sitio web. Todos los derechos de propiedad intelectual están reservados. Puedes acceder a esto desde {siteName} para tu propio uso personal, sujeto a las restricciones establecidas en estos términos y condiciones.",
+      "mustNot": "No debes:",
+      "li1": "Volver a publicar nuestras recetas o fotos sin crédito por escrito y un enlace.",
+      "li2": "Vender, alquilar o sublicenciar material de {siteName}.",
+      "li3": "Reproducir, duplicar o copiar material con fines comerciales."
+    },
+    "s3": {
+      "title": "3. Cookies",
+      "p": "Hacemos uso de cookies. Al acceder a {siteName}, aceptaste usar cookies de acuerdo con nuestra Política de Privacidad. Como se señala en nuestra política, nuestros socios publicitarios (como Google AdSense) también pueden usar cookies para rastrear el comportamiento del usuario."
+    },
+    "s4": {
+      "title": "4. Comentarios de Usuarios",
+      "p": "A los usuarios se les puede permitir publicar comentarios en las recetas. {siteName} no filtra ni edita los comentarios antes de que aparezcan en el sitio web. Los comentarios reflejan los puntos de vista de la persona que los publica. Nos reservamos el derecho de monitorear y eliminar cualquier comentario que se considere inapropiado u ofensivo."
+    },
+    "s5": {
+      "title": "5. Ley Aplicable",
+      "p": "Estos términos y condiciones se rigen e interpretan de acuerdo con las leyes de tu jurisdicción, y te sometes irrevocablemente a la jurisdicción exclusiva de los tribunales en ese Estado o ubicación."
+    },
+    "contact": {
+      "p": "Si tienes alguna pregunta respecto a estos Términos, por favor contáctanos a través de nuestra ",
+      "link": "Página de Contacto"
+    }
+  },
+  "contact": {
+    "title": "Ponte en contacto",
+    "description": "¿Tienes alguna pregunta sobre una receta? ¿Te interesa una asociación? Nos encantaría saber de ti.",
+    "success": {
+      "title": "¡Mensaje enviado!",
+      "description": "Gracias por comunicarte con nosotros. Nos pondremos en contacto contigo lo antes posible.",
+      "button": "Enviar otro mensaje"
+    },
+    "form": {
+      "name": "Nombre",
+      "namePlaceholder": "Tu nombre",
+      "email": "Correo electrónico",
+      "emailPlaceholder": "tu{'@'}email.com",
+      "message": "Mensaje",
+      "messagePlaceholder": "¿En qué te podemos ayudar?",
+      "sending": "Enviando...",
+      "send": "Enviar mensaje",
+      "error": "Algo salió mal. Por favor, inténtalo de nuevo."
+    }
+  },
+  "categoryPage": {
+    "allRecipesTitle": "Todas las recetas",
+    "allRecipesDesc": "Explora nuestra colección completa de recetas deliciosas, adaptadas a tus macros y ricas en proteínas, diseñadas para ayudarte a alcanzar tus objetivos de fitness sin sacrificar el sabor.",
+    "categoryTitle": "Recetas de {category}",
+    "categoryDesc": "Explora nuestra deliciosa colección de recetas de {category}. Perfectas para alcanzar tus objetivos de proteínas mientras disfrutas de comidas satisfactorias y sin culpa.",
+    "empty": "No se encontraron recetas."
+  },
+  "cookieBanner": {
+    "title": "Política de Cookies",
+    "description": "Utilizamos cookies para mejorar tu experiencia en \"{siteName}\" y analizar nuestro tráfico.",
+    "decline": "Rechazar",
+    "accept": "Aceptar todas",
+    "appMessage": "Usamos cookies para ver si nuestras recetas ricas en proteínas realmente están ayudando a las personas a ganar músculo. ¿Genial?",
+    "appAccept": "Aceptar y Cocinar",
+    "appDecline": "No, gracias"
+  },
+  "error": {
+    "message": "Ocurrió un error al procesar tu solicitud.",
+    "back": "Volver al inicio",
+    "pageNotFound": "Página no encontrada",
+    "unknown": "Desconocido"
+  }
+}
