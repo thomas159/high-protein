@@ -23,6 +23,8 @@ const getStaticValue = (val: any): string => {
   if (typeof val === 'string') return val
   if (val && typeof val === 'object') {
     if ('static' in val) return val.static
+    if ('s' in val) return val.s
+    if (val.b && typeof val.b === 'object' && 's' in val.b) return val.b.s // Support unplugin-vue-i18n AST
     if (val.body && typeof val.body === 'object' && 'static' in val.body) return val.body.static
   }
   return String(val || '')
