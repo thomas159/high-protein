@@ -2,35 +2,53 @@
 const { t, locale } = useI18n()
 
 // Query all recipes in your collection
-const { data: recipes } = await useAsyncData(`home-recipes-${locale.value}`, () => {
-  return queryCollection('recipes')
-    .where('path', locale.value === 'es' ? 'LIKE' : 'NOT LIKE', '%.es')
-    .limit(4).all()
+const { data: homeData, error: recipesError } = await useAsyncData(`home-data-${locale.value}`, async () => {
+  try {
+    const all = await queryCollection('recipes').all()
+    const latest = await queryCollection('recipes')
+      .where('path', locale.value === 'es' ? 'LIKE' : 'NOT LIKE', '%.es')
+      .limit(4).all()
+    
+    // Determine the category strings based on locale
+    const trendingSlug = locale.value === 'es' ? 'tendencia' : 'trending'
+    const airFryerSlug = locale.value === 'es' ? 'air-fryer' : 'air-fryer'
+
+    const trending = await queryCollection('recipes')
+      .where('path', locale.value === 'es' ? 'LIKE' : 'NOT LIKE', '%.es')
+      .where('categories', 'LIKE', `%${trendingSlug}%`)
+      .limit(4).all()
+
+    const airFryer = await queryCollection('recipes')
+      .where('path', locale.value === 'es' ? 'LIKE' : 'NOT LIKE', '%.es')
+      .where('categories', 'LIKE', `%${airFryerSlug}%`)
+      .limit(4).all()
+
+    const topCollections = await queryCollection('collections')
+      .where('path', locale.value === 'es' ? 'LIKE' : 'NOT LIKE', '%.es')
+      .all()
+
+    return {
+      total: all.length,
+      recipes: latest,
+      trendingRecipes: trending,
+      airFryerRecipes: airFryer,
+      topCollections: topCollections
+    }
+  } catch (e) {
+    console.error('Error fetching home data:', e)
+    throw e
+  }
 }, {
-  // This ensures 'recipes' is [] initially and if the promise returns null/undefined
-  default: () => [] 
+  default: () => ({ total: 0, recipes: [], trendingRecipes: [], airFryerRecipes: [], topCollections: [] }) 
 })
 
-const { data: trendingRecipes } = await useAsyncData(`trending-${locale.value}`, () => {
-  return queryCollection('recipes')
-    .where('path', locale.value === 'es' ? 'LIKE' : 'NOT LIKE', '%.es')
-    .where('categories', 'LIKE', '%trending%').all()
-}, { default: () => [] });
-
-const { data: airFryerRecipes } = await useAsyncData(`airFryer-${locale.value}`, () => {
-  return queryCollection('recipes')
-    .where('path', locale.value === 'es' ? 'LIKE' : 'NOT LIKE', '%.es')
-    .where('categories', 'LIKE', '%air-fryer%').limit(4).all()
-}, { default: () => [] });
-
-const { data: topCollections } = await useAsyncData(`top-collections-${locale.value}`, () => {
-  return queryCollection('collections')
-    .where('path', locale.value === 'es' ? 'LIKE' : 'NOT LIKE', '%.es')
-    .all()
-}, { default: () => [] });
+const recipes = computed(() => homeData.value.recipes)
+const trendingRecipes = computed(() => homeData.value.trendingRecipes)
+const airFryerRecipes = computed(() => homeData.value.airFryerRecipes)
+const totalInDb = computed(() => homeData.value.total)
 
 const collections = computed(() => {
-  return topCollections.value.map(collection => ({
+  return homeData.value.topCollections.map(collection => ({
     ...collection,
     slug: collection.slug || collection.path?.split('/').pop()
   }))

@@ -1,17 +1,60 @@
 <script setup lang="ts">
 import { ref, computed, watch } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
+import { useSetI18nParams } from '#imports'
 import Button from '@/components/common/Button.vue'
+import enLocales from '../../../i18n/locales/en.json'
+import esLocales from '../../../i18n/locales/es.json'
 
 const route = useRoute()
 const { t, locale } = useI18n()
+const localePath = useLocalePath()
 const router = useRouter()
-const categorySlug = route.params.slug as string
-const categoryKey = computed(() => {
-  // Find which key this slug belongs to
-  const slugs = t('categorySlugs', { returnObjects: true })
-  if (typeof slugs !== 'object' || slugs === null) return categorySlug || ''
-  return Object.keys(slugs).find(k => slugs[k] === categorySlug) || categorySlug || ''
+const setI18nParams = useSetI18nParams()
+
+const categorySlug = computed(() => route.params.slug as string)
+
+// Explicitly resolve the static slugs so we can pair English <-> Spanish
+const enSlugs = enLocales.categorySlugs as Record<string, string>
+const esSlugs = esLocales.categorySlugs as Record<string, string>
+
+// Map the provided slug back to the internal key (e.g. "cena" -> "dinner", or "dinner" -> "dinner")
+const getStaticValue = (val: any): string => {
+  if (typeof val === 'string') return val
+  if (val && typeof val === 'object') {
+    if ('static' in val) return val.static
+    if (val.body && typeof val.body === 'object' && 'static' in val.body) return val.body.static
+  }
+  return String(val || '')
+}
+
+const resolveKey = computed(() => {
+  const currentSlug = categorySlug.value
+  const findKey = (slugs: Record<string, any>) => 
+    Object.keys(slugs).find(k => getStaticValue(slugs[k]) === currentSlug)
+
+  if (locale.value === 'es') {
+    return findKey(esSlugs) || findKey(enSlugs) || currentSlug
+  } else {
+    return findKey(enSlugs) || findKey(esSlugs) || currentSlug
+  }
+})
+
+const categoryKey = resolveKey
+
+// 1. Tell the Nuxt i18n router what the counterparts are for this dynamically generated page
+// Now the language switch button will link to /es/categorias/cena when on /categories/dinner
+watch([resolveKey, locale], () => {
+  setI18nParams({
+    en: { slug: getStaticValue(enSlugs[resolveKey.value]) || resolveKey.value },
+    es: { slug: getStaticValue(esSlugs[resolveKey.value]) || resolveKey.value }
+  })
+}, { immediate: true })
+
+// 2. Identify the accurate slug for the CURRENT language's database query 
+const resolvedDbSlug = computed(() => {
+  const val = locale.value === 'es' ? (esSlugs[resolveKey.value] || resolveKey.value) : (enSlugs[resolveKey.value] || resolveKey.value)
+  return getStaticValue(val)
 })
 
 const showFilters = ref(false)
@@ -28,15 +71,13 @@ const getCategoryName = (key: string) => {
 const categoryName = computed(() => getCategoryName(categoryKey.value))
 
 const titleText = computed(() => {
-  const allRecipesSlug = t('categorySlugs.allrecipes')
-  return categorySlug === allRecipesSlug
+  return resolveKey.value === 'allrecipes'
     ? t('categoryPage.allRecipesTitle')
     : t('categoryPage.categoryTitle', { category: categoryName.value })
 })
 
 const descText = computed(() => {
-  const allRecipesSlug = t('categorySlugs.allrecipes')
-  return categorySlug === allRecipesSlug
+  return resolveKey.value === 'allrecipes'
     ? t('categoryPage.allRecipesDesc')
     : t('categoryPage.categoryDesc', { category: categoryName.value })
 })
@@ -64,15 +105,25 @@ useSchemaOrg([
 ])
 
 // 1. Fetch recipes for this specific category
-const { data: recipes } = await useAsyncData(`category-${categorySlug}-${locale.value}`, () => {
-  const allRecipesSlug = t('categorySlugs.allrecipes')
-  let query = queryCollection('recipes')
-    .where('path', locale.value === 'es' ? 'LIKE' : 'NOT LIKE', '%.es')
-  if (categorySlug !== allRecipesSlug) {
-    query = query.where('categories', 'LIKE', `%${categorySlug}%`)
+const { data: recipes, refresh: refreshRecipes } = await useAsyncData(
+  () => `category-${resolveKey.value}-${locale.value}`, 
+  async () => {
+    let query = queryCollection('recipes')
+      .where('path', locale.value === 'es' ? 'LIKE' : 'NOT LIKE', '%.es')
+    
+    if (resolveKey.value !== 'allrecipes') {
+      // Use a more relaxed LIKE query to avoid JSON quote issues
+      // instead of %"postre"% we use %postre% which is safer for various SQLite JSON formats
+      query = query.where('categories', 'LIKE', `%${resolvedDbSlug.value}%`)
+    }
+    
+    const result = await query.all()
+    return result
+  },
+  {
+    watch: [() => route.params.slug, locale]
   }
-  return query.all()
-})
+)
 
 // 2. Extract unique tags from the fetched recipes
 const availableTags = computed(() => {
@@ -140,76 +191,46 @@ const filteredRecipes = computed(() => {
 </script>
 
 <template>
-  <div class="container mx-auto">
-    <div class="text-center">
-    <h1 class="text-3xl font-bold mb-4 capitalize">
-      {{ titleText }}
-    </h1>
-    <p class="text-muted-foreground text-lg max-w-2xl mx-auto mb-8">
-      {{ descText }}
-    </p>
+  <div class="container mx-auto py-8">
+    <div class="text-center mb-10">
+      <h1 class="text-4xl font-extrabold mb-4 capitalize tracking-tight">
+        {{ titleText }}
+      </h1>
+      <p class="text-muted-foreground text-lg max-w-2xl mx-auto mb-6">
+        {{ descText }}
+      </p>
+      
     </div>
 
-    <!-- Filters section -->
-    <!-- <div v-if="availableTags.length > 0" class="mb-8 text-left">
-      <div class="md:hidden mb-4">
-        <Button 
-          color="white" 
-          class="w-full justify-center"
-          @click="showFilters = !showFilters"
-        >
-          <svg class="w-5 h-5 mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 4a1 1 0 011-1h16a1 1 0 011 1v2.586a1 1 0 01-.293.707l-6.414 6.414a1 1 0 00-.293.707V17l-4 4v-6.586a1 1 0 00-.293-.707L3.293 7.293A1 1 0 013 6.586V4z"></path>
-          </svg>
-          {{ showFilters ? 'Hide Filters' : 'Filter Recipes' }}
-          <span v-if="selectedTags.length > 0" class="ml-1 bg-emerald-500 border border-emerald-600 text-white px-2 py-0.5 rounded-full text-[10px] font-bold shadow-sm">
-            {{ selectedTags.length }}
-          </span>
-        </Button>
-      </div>
-
-      <h3 class="text-lg font-semibold mb-3 hidden md:block text-left">Filter by Tags:</h3>
-      <div :class="[showFilters ? 'flex' : 'hidden', 'md:flex flex-wrap gap-2']">
-        <Button
-          v-for="tag in availableTags"
-          :key="tag"
-          :color="selectedTags.includes(tag) ? 'green' : 'white'"
-          size="small"
-          @click="toggleTag(tag)">
-          {{ tag }}
-        </Button>
-        
-        <Button 
-          v-if="selectedTags.length > 0"
-          color="clear"
-          size="small"
-          @click="clearFilters"
-        >
-          Clear Filters
-        </Button>
-      </div>
-    </div> -->
 
     <!-- Recipe Grid -->
-    <TransitionGroup 
+    <div 
       v-if="filteredRecipes.length > 0" 
-      name="list" 
-      tag="div" 
-      class="grid grid-cols-2 lg:grid-cols-4 gap-main -mx-4 lg:-mx-0"
+      class="grid grid-cols-2 lg:grid-cols-4 gap-6"
     >
       <RecipeCard
         v-for="recipe in filteredRecipes" 
         :key="recipe.path" 
         :recipe="recipe"
+        class="h-full"
       />
-    </TransitionGroup>
+    </div>
     
     <!-- Empty State -->
-    <div v-else class="text-center py-12 text-gray-500 bg-gray-50 rounded-xl border border-dashed border-gray-200">
-      <p class="text-lg mb-2">{{ t('categoryPage.empty') }}</p>
+    <div v-else class="text-center py-20 bg-slate-50 dark:bg-slate-900/50 rounded-2xl border-2 border-dashed border-slate-200 dark:border-slate-800">
+      <div class="text-4xl mb-4">🥣</div>
+      <h3 class="text-xl font-bold mb-2">{{ t('categoryPage.empty') }}</h3>
+      <p class="text-slate-500 max-w-xs mx-auto text-sm">
+        We couldn't find any recipes for "{{ categoryName }}" right now. 
+      </p>
+      <Button v-if="selectedTags.length > 0" @click="clearFilters" class="mt-6">Clear All Filters</Button>
+      <NuxtLink v-else :to="localePath('/')" class="mt-6 inline-block text-blue-500 hover:underline text-sm font-medium">
+        Back to Home
+      </NuxtLink>
     </div>
   </div>
 </template>
+
 
 <style scoped>
 /* Vue TransitionGroup Animations */
