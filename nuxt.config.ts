@@ -133,6 +133,7 @@ export default defineNuxtConfig({
     },
   },
   i18n: {
+    baseUrl: 'https://www.hotrecipes.co.uk',
     defaultLocale: 'en',
     strategy: 'prefix_except_default',
     langDir: 'locales',
