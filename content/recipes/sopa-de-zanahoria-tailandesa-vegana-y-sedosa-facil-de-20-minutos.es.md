@@ -16,21 +16,21 @@ pintrest: ''
 categories:
 - vegano
 - cena
-- 30-minute-meals
-cuisine: Thai
+- comidas-de-30-minutos
+cuisine: Tailandesa
 keywords:
 - carrot soup
-- thai
-- coconut milk
-- vegan
+- tailandés
+- leche de coco
+- vegano
 - red curry
-- creamy
-- soup
-- vegan carrot soup
+- cremoso
+- sopa
+- sopa de zanahoria vegana
 tags:
-- vegan
-- soup
-- thai
+- vegano
+- sopa
+- tailandés
 rating: null
 reviews: null
 tipsTitle: Mecánica de sopa

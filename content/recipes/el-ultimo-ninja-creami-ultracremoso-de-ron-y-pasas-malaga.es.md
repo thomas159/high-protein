@@ -21,17 +21,17 @@ categories:
 - alto-en-proteina
 - aperitivos
 tags:
-- easy
-- high protein
-cuisine: British
+- fácil
+- alto en proteínas
+cuisine: Británica
 keywords:
 - ninja creami
-- rum and raisin
-- protein ice cream
-- healthy dessert
-- easy
+- ron con pasas
+- helado proteico
+- postre saludable
+- fácil
 - boozy
-- malaga
+- málaga
 tipsTitle: Mecanica Creami
 tips:
 - 'La paciencia es obligatoria: congele la pinta completamente nivelada durante 24

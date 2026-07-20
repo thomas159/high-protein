@@ -17,18 +17,18 @@ categories:
 - vegetariano
 - cena
 - desayuno
-- trending
+- tendencia
 - postre
 tags:
-- high protein
-cuisine: British
+- alto en proteínas
+cuisine: Británica
 keywords:
 - apple crumble
-- air fryer
-- high-protein
-- dessert
-- british
-- vegetarian
+- freidora de aire
+- alto-en-proteina
+- postre
+- británico
+- vegetariano
 tipsTitle: Mecánica de desmoronamiento
 tips:
 - 'Selección de manzana: Utilice una manzana ácida y picante como Granny Smith. La

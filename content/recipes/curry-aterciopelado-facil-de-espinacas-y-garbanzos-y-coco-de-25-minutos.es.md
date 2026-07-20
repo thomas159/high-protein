@@ -13,23 +13,23 @@ image: one-pan-spinach-and-chickpea-coconut-curry_ffy601
 alt: Curry de coco y espinacas en una sartén en un tazón
 categories:
 - vegano
-- one-pan-meals
-- 30-minute-meals
+- comidas-en-una-sola-olla
+- comidas-de-30-minutos
 - alto-en-proteina
 tags:
-- vegan
-- high protein
-- one-pan
-cuisine: Indian
+- vegano
+- alto en proteínas
+- una sola olla
+cuisine: India
 keywords:
 - curry
-- chickpea
-- spinach
-- coconut milk
-- one-pan
-- indian
-- vegan
-- high-protein
+- garbanzo
+- espinacas
+- leche de coco
+- una sartén
+- indio
+- vegano
+- alto-en-proteina
 servingSuggestions: El principal de alto volumen definitivo. Aplaste esto sobre una
   porción enorme de arroz integral o quinua. Utilice un naan tostado para absorber
   hasta la última gota de caldo de coco.

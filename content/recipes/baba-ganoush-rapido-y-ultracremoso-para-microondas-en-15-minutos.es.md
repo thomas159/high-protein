@@ -15,23 +15,23 @@ description: '¿Te apetece un mezze del Medio Oriente pero no quieres esperar 45
 image: quick-microwave-baba-ganoush_douf9l
 alt: Baba ganoush rápido para microondas rociado con aceite de oliva
 categories:
-- dips
+- salsas
 - vegano
 - comidas-de-15-minutos
 tags:
-- vegan
-- dip
-- mediterranean
+- vegano
+- salsa para mojar
+- mediterráneo
 - keto
-cuisine: Middle Eastern
+cuisine: Medio Oriente
 keywords:
 - baba ganoush
-- aubergine
-- eggplant
-- microwave
-- middle eastern
-- vegan
-- dip
+- berenjena
+- berenjena
+- microondas
+- medio oriente
+- vegano
+- salsa para mojar
 tipsTitle: Perfección ahumada
 tips:
 - 'La seguridad es lo primero: Pinchar agresivamente la berenjena (berenjena) con

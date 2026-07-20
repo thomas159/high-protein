@@ -13,14 +13,14 @@ categories:
 - air-fryer
 - postre
 tags:
-- high protein
-cuisine: American
+- alto en proteínas
+cuisine: Americana
 keywords:
-- cheesecake
-- air fryer
-- protein
-- dessert
-- bites
+- tarta de queso
+- freidora de aire
+- proteína
+- postre
+- bocaditos
 rating: null
 reviews: null
 tipsTitle: Trucos para morder tarta de queso

@@ -20,18 +20,18 @@ categories:
 - cena
 - comidas-de-15-minutos
 tags:
-- high protein
-cuisine: Czech
+- alto en proteínas
+cuisine: Checa
 keywords:
 - fried cheese
-- smazeny syr
-- czech
-- air fryer
-- high-protein
-- dinner
-- vegetarian
-- healthy fried cheese
-- air fryer smazeny syr
+- queso frito
+- checo
+- freidora de aire
+- alto-en-proteina
+- cena
+- vegetariano
+- queso frito saludable
+- queso frito en freidora de aire
 rating: null
 reviews: null
 tipsTitle: Queso sin fugas

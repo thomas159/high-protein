@@ -22,20 +22,20 @@ image: chimichurri-sauce_2_usinnj
 alt: Salsa chimichurri verde fresca y vibrante en un tazón pequeño
 categories:
 - vegano
-- sauces
-- 5-minute-meals
+- salsas
+- comidas-de-5-minutos
 tags:
-- vegan
+- vegano
 - keto
-cuisine: Argentinian
+cuisine: Argentina
 keywords:
 - chimichurri
-- sauce
-- argentinian
-- vegan
-- 5-minute
-- condiment
-- herbs
+- salsa
+- argentino
+- vegano
+- 5 minutos
+- condimento
+- hierbas
 tipsTitle: Mecánica del sabor
 tips:
 - 'Maridaje de proteínas: La acidez del vinagre en realidad ayuda a descomponer las

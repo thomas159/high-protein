@@ -19,14 +19,14 @@ categories:
 - postre
 - aperitivos
 tags:
-- easy
-cuisine: British
+- fácil
+cuisine: Británica
 keywords:
 - ninja creami
 - banana vanilla
-- ice cream
-- healthy dessert
-- easy
+- helado
+- postre saludable
+- fácil
 tipsTitle: Mecanica Creami
 tips:
 - 'La paciencia es obligatoria: congele la pinta completamente nivelada durante 24

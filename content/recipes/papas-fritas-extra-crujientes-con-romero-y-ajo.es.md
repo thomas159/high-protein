@@ -21,7 +21,7 @@ alt: Patatas fritas crujientes con romero y ajo
 pintrest: ''
 categories:
 - air-fryer
-- 30-minute-meals
+- comidas-de-30-minutos
 - aperitivos
 tipsTitle: Secretos de patatas fritas crujientes
 tips:
@@ -47,17 +47,17 @@ use:
 - 'Maridaje de bistec: El mejor compañero para un filete espeso de coliflor o seitán.'
 - 'Snack Bowl: Perfecto para mojar en mayonesa de trufa o alioli de ajo.'
 tags:
-- vegan
-- gluten-free
-cuisine: American
+- vegano
+- sin gluten
+cuisine: Americana
 keywords:
-- fries
-- air fryer
-- rosemary
-- garlic
-- american
-- vegan
-- gluten-free
+- papas fritas
+- freidora de aire
+- romero
+- ajo
+- americano
+- vegano
+- sin gluten
 - snack
 whyTitle: Why use an air fryer?
 why:

@@ -47,17 +47,17 @@ use:
 - 'Macro Almuerzo: Sabe increíble recalentado al día siguiente.'
 - 'Cheat Meal Illusion: apariencia y sabor lo suficientemente premium como para servir
   a los invitados.'
-cuisine: Italian
+cuisine: Italiana
 tags:
 - pasta
-- quick-dinner
+- cena rápida
 keywords:
 - feta pasta
-- cherry tomato
-- italian
-- 15-minute
-- creamy
-- vegetarian
+- tomate cherry
+- italiano
+- 15 minutos
+- cremoso
+- vegetariano
 rating: null
 reviews: null
 variations:

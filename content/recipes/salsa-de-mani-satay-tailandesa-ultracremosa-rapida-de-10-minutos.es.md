@@ -40,21 +40,21 @@ image: peanut-satay-sauce_rngtry
 alt: Rica y cremosa salsa de maní satay en un bol
 pintrest: ''
 categories:
-- sauces
+- salsas
 - comidas-de-15-minutos
-cuisine: Thai
+cuisine: Tailandesa
 tags:
-- vegan
-- sauce
-- thai
+- vegano
+- salsa
+- tailandés
 keywords:
 - satay sauce
-- peanut sauce
-- thai
-- condiment
-- dip
-- creamy
-- spicy
+- salsa de maní
+- tailandés
+- condimento
+- salsa para mojar
+- cremoso
+- picante
 variations:
 - 'Almond Satay: Cambia por mantequilla de almendras si lo prefieres.'
 - 'Extra picante: duplique la pasta de curry o agregue chiles frescos.'

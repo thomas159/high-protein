@@ -18,15 +18,15 @@ pintrest: ''
 categories:
 - air-fryer
 - aperitivos
-- 30-minute-meals
+- comidas-de-30-minutos
 - vegetariano
-cuisine: American
+cuisine: Americana
 keywords:
 - carrot fries
-- air fryer
-- garlic parmesan
-- healthy fries
-- vegetarian snack
+- freidora de aire
+- ajo y parmesano
+- papas fritas saludables
+- aperitivo vegetariano
 tags: []
 rating: null
 reviews: null

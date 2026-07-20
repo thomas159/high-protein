@@ -22,18 +22,18 @@ categories:
 - microondas
 - comidas-de-15-minutos
 tags:
-- microwave-meals
-- italian
-cuisine: Italian
+- comidas al microondas
+- italiano
+cuisine: Italiana
 keywords:
 - risotto
-- cherry tomato
-- courgette
-- zucchini
-- microwave
-- italian
-- vegetarian
-- 15-minute
+- tomate cherry
+- calabacín
+- calabacín
+- microondas
+- italiano
+- vegetariano
+- 15 minutos
 tipsTitle: Magia de microondas
 tips:
 - 'Cuidado con el tamaño del tazón: el arroz Arborio se expande agresivamente y burbujea.

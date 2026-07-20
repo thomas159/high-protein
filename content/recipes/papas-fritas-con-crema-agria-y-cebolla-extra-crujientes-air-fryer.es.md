@@ -21,9 +21,9 @@ alt: Papas fritas para freidora rociadas con salsa de crema agria con ajo
 pintrest: ''
 categories:
 - air-fryer
-- 30-minute-meals
+- comidas-de-30-minutos
 - aperitivos
-cuisine: American
+cuisine: Americana
 tipsTitle: Mecánica de crujido
 tips:
 - 'The Golden Shake: Agite la canasta agresivamente cada 5 minutos. Esto asegura que
@@ -48,12 +48,12 @@ use:
 tags: []
 keywords:
 - sour cream
-- fries
-- air fryer
-- american
+- papas fritas
+- freidora de aire
+- americano
 - snack
-- garlic
-- crispy
+- ajo
+- crujiente
 whyTitle: Air Fryer Advantages
 why:
 - 'Superior Crunch: Circulating heat delivers a deep-fried snap with barely any oil.

@@ -14,20 +14,20 @@ alt: Cubitos de tofu marinados con tikka ricos en proteínas
 pintrest: ''
 categories:
 - cena
-- 30-minute-meals
-- marinade
+- comidas-de-30-minutos
+- marinada
 tags:
-- high protein
+- alto en proteínas
 - indian
-cuisine: Indian
+cuisine: India
 keywords:
 - tofu marinade
 - tikka
-- indian
-- vegetarian
-- high-protein
+- indio
+- vegetariano
+- alto-en-proteina
 - air-fryer
-- grilled
+- a la parrilla
 tipsTitle: Dominio del adobo
 tips:
 - 'Preparación de tofu: consulte nuestros [Ultimate Quick Tofu Prep Hacks](/collections/easy-quick-tofu-prep-hacks)

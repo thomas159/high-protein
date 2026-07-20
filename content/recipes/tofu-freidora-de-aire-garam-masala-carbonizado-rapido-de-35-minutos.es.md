@@ -21,20 +21,20 @@ pintrest: ''
 categories:
 - vegano
 - cena
-- 30-minute-meals
-- marinade
+- comidas-de-30-minutos
+- marinada
 tags:
-- vegan
-- high protein
+- vegano
+- alto en proteínas
 - indian
-cuisine: Indian
+cuisine: India
 keywords:
 - tofu marinade
 - garam masala
-- indian
-- vegan
-- high-protein
-- spicy
+- indio
+- vegano
+- alto-en-proteina
+- picante
 - air-fryer
 tipsTitle: Especias y carbón
 tips:

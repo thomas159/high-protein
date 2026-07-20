@@ -46,17 +46,17 @@ categories:
 - air-fryer
 - cena
 - comidas-de-15-minutos
-cuisine: Italian
+cuisine: Italiana
 keywords:
 - tortilla pizza
-- air fryer
-- italian
+- freidora de aire
+- italiano
 - quick dinner
-- thin-crust
+- masa fina
 - pesto
 tags:
-- low-calorie
-- quick-dinner
+- bajo en calorías
+- cena rápida
 variations:
 - 'Aumento de volumen: apílelo con champiñones y pimientos.'
 - 'Miel picante: añádelo con jalapeños y un chorrito de miel de chile.'

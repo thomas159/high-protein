@@ -42,17 +42,17 @@ use:
 - 'Compañero de inmersión: Lo suficientemente resistente como para soportar hummus
   pesado.'
 - 'Adición a la lonchera: Crujido sin esfuerzo para tu preparación del mediodía.'
-cuisine: American
+cuisine: Americana
 tags:
-- vegan
-- snack
+- vegano
+- aperitivo
 keywords:
 - microwave crisps
 - potato chips
-- american
-- vegan
+- americano
+- vegano
 - snack
-- healthy
+- saludable
 variations:
 - 'Sal y Vinagre: Remojar en vinagre antes de cocinar.'
 - 'BBQ picante: Espolvoree con pimentón ahumado y chile en polvo.'

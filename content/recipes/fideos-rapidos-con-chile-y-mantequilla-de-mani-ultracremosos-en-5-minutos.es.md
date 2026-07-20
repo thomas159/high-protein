@@ -15,22 +15,22 @@ description: 'Un equilibrio brillante entre las grasas pesadas de la mantequilla
 image: 5-minute-peanut-butter-chilli-noodle_getziq
 alt: Fideos con chile y mantequilla de maní en 5 minutos en un tazón
 categories:
-- 5-minute-meals
+- comidas-de-5-minutos
 - vegano
 - alto-en-proteina
 tags:
-- vegan
-- high-protein
-- spicy
-cuisine: Asian
+- vegano
+- alto en proteínas
+- picante
+cuisine: Asiática
 keywords:
 - peanut butter noodles
-- chilli
-- asian
-- vegan
-- high-protein
-- 5-minute
-- spicy
+- chile
+- asiático
+- vegano
+- alto-en-proteina
+- 5 minutos
+- picante
 tipsTitle: Salsa y chisporroteo
 tips:
 - 'Control de consistencia: La mantequilla de maní se convierte en concreto cuando

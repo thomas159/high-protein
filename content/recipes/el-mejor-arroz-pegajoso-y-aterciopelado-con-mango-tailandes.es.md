@@ -19,20 +19,20 @@ alt: Auténtico arroz pegajoso tailandés con mango servido con salsa de coco
 categories:
 - postre
 tags:
-- vegan
-cuisine: Thai
+- vegano
+cuisine: Tailandesa
 keywords:
 - mango sticky rice
-- thai
-- dessert
-- coconut
-- sweet
-- sticky rice
-- macro-friendly
-- vegan dessert
-- healthy
-- high-carb
-- post-workout
+- tailandés
+- postre
+- coco
+- dulce
+- arroz pegajoso
+- macroamigable
+- postre vegano
+- saludable
+- alto en carbohidratos
+- post-entrenamiento
 tipsTitle: Mecánica del arroz pegajoso
 tips:
 - 'No te saltes el remojo: el arroz glutinoso debe remojarse durante 6 horas (o 1

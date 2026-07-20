@@ -23,16 +23,16 @@ categories:
 - postre
 - comidas-de-15-minutos
 tags:
-- high protein
-- baking
-cuisine: American
+- alto en proteínas
+- horneado
+cuisine: Americana
 keywords:
 - banana muffins
 - oats
-- healthy baking
-- american
-- dessert
-- high-protein
+- repostería saludable
+- americano
+- postre
+- alto-en-proteina
 - chocolate
 tipsTitle: Alternativa vegana
 tips:

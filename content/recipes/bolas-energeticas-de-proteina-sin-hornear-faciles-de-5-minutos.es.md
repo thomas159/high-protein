@@ -18,20 +18,20 @@ alt: Bolas de proteína de 5 ingredientes sin hornear apiladas juntas
 pintrest: ''
 categories:
 - alto-en-proteina
-- 5-minute-meals
+- comidas-de-5-minutos
 - aperitivos
 - postre
-cuisine: American
+cuisine: Americana
 tags:
-- snack
-- high protein
+- aperitivo
+- alto en proteínas
 keywords:
 - protein balls
-- no-bake
+- sin horno
 - snack
-- high-protein
-- american
-- meal prep
+- alto-en-proteina
+- americano
+- preparación de comida
 tipsTitle: Dominio de la masa
 tips:
 - 'Control de textura: ¿Demasiado seco? Añade un chorrito de leche. ¿Demasiado pegajoso?

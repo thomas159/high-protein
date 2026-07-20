@@ -16,20 +16,20 @@ pintrest: ''
 categories:
 - vegano
 - cena
-- 30-minute-meals
-- trending
-cuisine: Thai
+- comidas-de-30-minutos
+- tendencia
+cuisine: Tailandesa
 keywords:
-- stir fry
-- sweet and sour
-- vegetables
-- thai
-- vegan
-- healthy
-- vegan sweet and sour
+- salteado
+- agridulce
+- verduras
+- tailandés
+- vegano
+- saludable
+- agridulce vegano
 tags:
-- vegan
-- thai
+- vegano
+- tailandés
 rating: null
 reviews: null
 tipsTitle: Habilidades de wok

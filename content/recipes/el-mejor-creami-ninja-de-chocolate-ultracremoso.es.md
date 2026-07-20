@@ -20,15 +20,15 @@ categories:
 - alto-en-proteina
 - aperitivos
 tags:
-- high protein
-cuisine: American
+- alto en proteínas
+cuisine: Americana
 keywords:
 - ninja creami
 - chocolate
-- protein ice cream
-- healthy dessert
-- high-protein
-- ice cream
+- helado proteico
+- postre saludable
+- alto-en-proteina
+- helado
 tipsTitle: Mecanica Creami
 tips:
 - 'La paciencia es obligatoria: congele la pinta completamente nivelada durante 24

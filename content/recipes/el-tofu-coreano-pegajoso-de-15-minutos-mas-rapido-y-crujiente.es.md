@@ -22,18 +22,18 @@ categories:
 - cena
 - comidas-de-15-minutos
 tags:
-- vegan
-- high-protein
+- vegano
+- alto en proteínas
 - korean
-cuisine: Korean
+cuisine: Coreana
 keywords:
 - korean tofu
 - gochujang
-- sticky tofu
-- vegan
-- high-protein
-- 15-minute
-- crispy
+- tofu pegajoso
+- vegano
+- alto-en-proteina
+- 15 minutos
+- crujiente
 tipsTitle: Mecánica crujiente
 tips:
 - 'Preparación de tofu: consulte nuestros [Ultimate Quick Tofu Prep Hacks](/collections/easy-quick-tofu-prep-hacks)

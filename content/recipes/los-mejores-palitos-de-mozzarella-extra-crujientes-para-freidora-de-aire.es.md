@@ -22,7 +22,7 @@ pintrest: ''
 categories:
 - air-fryer
 - aperitivos
-- trending
+- tendencia
 tipsTitle: Consejo del chef
 tips:
 - 'La salsa doble: Nunca te saltes el doble empanizado. Construye una armadura estructural
@@ -48,18 +48,18 @@ use:
   el fútbol.'
 - 'Snack Attack: comida reconfortante, pegajosa y rica en proteínas, sin la culpa
   de la freidora.'
-cuisine: American
+cuisine: Americana
 tags:
-- party snack
+- aperitivo de fiesta
 keywords:
 - mozzarella sticks
-- air fryer
+- freidora de aire
 - cheese
 - snack
-- crispy
-- american
-- appetizer
-- homemade mozzarella sticks
+- crujiente
+- americano
+- aperitivo
+- palitos de mozzarella caseros
 whyTitle: Why use an air fryer?
 why:
 - 'Superior Crunch: The circulating air delivers a deep-fried texture without swimming

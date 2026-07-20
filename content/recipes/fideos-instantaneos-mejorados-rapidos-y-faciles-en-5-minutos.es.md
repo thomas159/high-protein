@@ -17,19 +17,19 @@ pintrest: ''
 categories:
 - vegano
 - cena
-- 5-minute-meals
-cuisine: Asian
+- comidas-de-5-minutos
+cuisine: Asiática
 keywords:
 - instant noodles upgrade
-- asian
-- vegan
+- asiático
+- vegano
 - quick meal
-- 5-minute
+- 5 minutos
 - ramen hack
-- soy sesame noodles
+- fideos de soja y sésamo
 tags:
-- vegan
-- quick-meals
+- vegano
+- comidas rápidas
 tipsTitle: Elevar el cuenco
 tips:
 - 'Control de textura: sáquelos 30 segundos antes. Seguirán cocinándose con el calor

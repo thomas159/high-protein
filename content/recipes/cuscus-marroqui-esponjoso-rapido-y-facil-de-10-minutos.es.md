@@ -18,16 +18,16 @@ categories:
 - cena
 - comidas-de-15-minutos
 tags:
-- mediterranean
-- healthy-side
-cuisine: Moroccan
+- mediterráneo
+- guarnición saludable
+cuisine: Marroquí
 keywords:
 - couscous
-- moroccan
-- vegetarian
-- 15-minute
-- mediterranean
-- healthy side
+- marroquí
+- vegetariano
+- 15 minutos
+- mediterráneo
+- guarnición saludable
 tipsTitle: Cuscús impecable
 tips:
 - 'La regla del tenedor: siempre esponja con un tenedor. Una cuchara triturará los

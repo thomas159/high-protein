@@ -18,20 +18,20 @@ pintrest: ''
 categories:
 - vegano
 - cena
-- 30-minute-meals
-- marinade
+- comidas-de-30-minutos
+- marinada
 tags:
-- vegan
-- high protein
+- vegano
+- alto en proteínas
 - korean
-cuisine: Korean
+cuisine: Coreana
 keywords:
 - tofu marinade
-- korean
-- spicy
+- coreano
+- picante
 - gochujang
-- vegan
-- high-protein
+- vegano
+- alto-en-proteina
 tipsTitle: Mecánica de Gochujang
 tips:
 - 'Preparación de tofu: omita la tediosa prensa de 15 minutos. Echa un vistazo a nuestros

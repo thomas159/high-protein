@@ -19,7 +19,7 @@ alt: Papas fritas con kimchi en freidora cubiertas con queso derretido y semilla
 pintrest: ''
 categories:
 - air-fryer
-- 30-minute-meals
+- comidas-de-30-minutos
 - aperitivos
 tipsTitle: Trucos para freír
 tips:
@@ -46,17 +46,17 @@ use:
 - 'Guarnición: Combina perfectamente con una hamburguesa vegetariana espesa y jugosa.'
 - 'Delicia nocturna: satisface todos los antojos de sabor salado, picante y con queso.'
 tags:
-- spicy
-- fusion
-- gluten-free
-cuisine: Korean
+- picante
+- fusión
+- sin gluten
+cuisine: Coreana
 keywords:
 - kimchi fries
-- air fryer
-- korean
+- freidora de aire
+- coreano
 - fusion
 - cheese
-- spicy
+- picante
 - snack
 whyTitle: Why use an air fryer?
 why:

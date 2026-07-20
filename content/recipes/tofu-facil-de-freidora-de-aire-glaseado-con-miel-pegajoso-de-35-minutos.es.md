@@ -16,19 +16,19 @@ pintrest: ''
 categories:
 - vegetariano
 - cena
-- 30-minute-meals
-- marinade
-cuisine: Asian
+- comidas-de-30-minutos
+- marinada
+cuisine: Asiática
 keywords:
 - tofu marinade
-- honey glaze
-- asian
-- vegetarian
-- sweet
-- savory
+- glaseado de miel
+- asiático
+- vegetariano
+- dulce
+- salado
 - air-fryer
 tags:
-- high protein
+- alto en proteínas
 - air-fryer
 tipsTitle: Dominio del adobo
 tips:

@@ -22,23 +22,23 @@ pintrest: ''
 categories:
 - vegano
 - cena
-- 30-minute-meals
-- marinade
-- trending
+- comidas-de-30-minutos
+- marinada
+- tendencia
 tags:
-- vegan
-- high protein
+- vegano
+- alto en proteínas
 - mexican
-cuisine: Mexican
+cuisine: Mexicana
 keywords:
 - tofu marinade
 - chipotle
-- lime
-- mexican
-- vegan
-- high-protein
+- lima
+- mexicano
+- vegano
+- alto-en-proteina
 - air-fryer
-- spicy
+- picante
 tipsTitle: Sabor Máximo
 tips:
 - 'Preparación de tofu: omita la tediosa prensa de 15 minutos. Echa un vistazo a nuestros

@@ -20,15 +20,15 @@ categories:
 - alto-en-proteina
 - aperitivos
 tags:
-- easy
-- high protein
-cuisine: British
+- fácil
+- alto en proteínas
+cuisine: Británica
 keywords:
 - ninja creami
-- coconut
-- protein ice cream
-- healthy dessert
-- easy
+- coco
+- helado proteico
+- postre saludable
+- fácil
 - tropical
 tipsTitle: Mecanica Creami
 tips:

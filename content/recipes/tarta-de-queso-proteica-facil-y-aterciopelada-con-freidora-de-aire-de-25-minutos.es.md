@@ -20,16 +20,16 @@ categories:
 - postre
 tags:
 - keto
-- high protein
-cuisine: American
+- alto en proteínas
+cuisine: Americana
 keywords:
-- cheesecake
-- air fryer
-- low calorie
+- tarta de queso
+- freidora de aire
+- bajo en calorías
 - keto
-- american
-- dessert
-- high-protein
+- americano
+- postre
+- alto-en-proteina
 rating: null
 reviews: null
 tipsTitle: Trucos de tarta de queso

@@ -16,14 +16,14 @@ pintrest: ''
 categories:
 - vegano
 - aperitivos
-cuisine: American
+cuisine: Americana
 keywords:
 - sweet potato fries
-- thick cut
-- vegan
-- american
+- corte grueso
+- vegano
+- americano
 - snack
-- air fryer
+- freidora de aire
 tipsTitle: Secretos de patatas fritas crujientes
 tips:
 - 'El espacio es obligatorio: abarrotar la cesta equivale a cocinar al vapor. Déles
@@ -48,8 +48,8 @@ use:
   antojos.'
 - 'Base cargada: Corónalas con frijoles negros y aguacate para una comida completa.'
 tags:
-- vegan
-- snack
+- vegano
+- aperitivo
 variations:
 - 'Azúcar de canela: mezcle con una pizca de canela para obtener un dulce sabor.'
 - 'Cajún picante: espolvoréelos con pimentón ahumado y cayena.'

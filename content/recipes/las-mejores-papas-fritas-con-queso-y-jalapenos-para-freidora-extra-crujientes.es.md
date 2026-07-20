@@ -14,7 +14,7 @@ alt: Freidora crujiente con queso jalapeño y papas fritas cargadas en un plato
 pintrest: ''
 categories:
 - air-fryer
-- 30-minute-meals
+- comidas-de-30-minutos
 - aperitivos
 tipsTitle: Cargado y crujiente
 tips:
@@ -37,15 +37,15 @@ use:
 - 'Lado Superset: Combínalo con una enorme hamburguesa vegetariana.'
 - 'Solución nocturna: satisface absolutamente todos los antojos de sal, grasa y calor.'
 tags: []
-cuisine: American
+cuisine: Americana
 keywords:
-- loaded fries
+- papas fritas cargadas
 - jalapeno
 - cheese
-- air fryer
-- american
+- freidora de aire
+- americano
 - snack
-- spicy
+- picante
 whyTitle: Why use an air fryer?
 why:
 - 'Superior Crunch: The circulating air delivers deep-fryer crunch with barely any

@@ -18,17 +18,17 @@ categories:
 - alto-en-proteina
 - aperitivos
 tags:
-- high protein
-cuisine: Japanese-Inspired
+- alto en proteínas
+cuisine: Inspirada en Japón
 keywords:
 - ninja creami
 - matcha
-- green tea
-- protein ice cream
-- healthy dessert
-- high-protein
-- ice cream
-- honey
+- té verde
+- helado proteico
+- postre saludable
+- alto-en-proteina
+- helado
+- miel
 tipsTitle: Mecanica Creami
 tips:
 - 'La regla de la pasta de Matcha: no verter el matcha directamente en el líquido

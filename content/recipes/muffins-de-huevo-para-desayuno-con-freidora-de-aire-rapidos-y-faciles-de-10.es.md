@@ -24,18 +24,18 @@ categories:
 - comidas-de-15-minutos
 - vegetariano
 - keto
-cuisine: American
+cuisine: Americana
 keywords:
 - egg muffins
-- air fryer breakfast
-- feta cheese
-- sun-dried tomatoes
-- keto breakfast
-- high-protein
-- air fryer egg bites
+- desayuno en freidora de aire
+- queso feta
+- tomates secos
+- desayuno keto
+- alto-en-proteina
+- bocaditos de huevo en freidora de aire
 tags:
 - keto
-- high protein
+- alto en proteínas
 rating: null
 reviews: null
 tipsTitle: Dominio de los muffins

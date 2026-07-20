@@ -23,14 +23,14 @@ categories:
 - vegetariano
 - pasta
 tags: []
-cuisine: Italian
+cuisine: Italiana
 keywords:
 - mushroom pasta
-- creamy
-- italian
-- vegetarian
-- comfort food
-- white wine
+- cremoso
+- italiano
+- vegetariano
+- comida reconfortante
+- vino blanco
 tipsTitle: Dominio de la salsa
 tips:
 - 'Paciencia con los champiñones: Deje los champiñones completamente tranquilos en

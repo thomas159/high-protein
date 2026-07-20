@@ -42,17 +42,17 @@ use:
 - 'Rescate sobrante: la forma más eficaz de eliminar el kimchi añejo.'
 - 'Refeed Bowl: un tazón picante y reconfortante cuando necesitas carbohidratos pesados.'
 - 'Lightning Main: Pan al plato en menos de 15 minutos.'
-cuisine: Korean
+cuisine: Coreana
 tags:
 - korean
 keywords:
 - kimchi
-- fried rice
-- korean
-- vegetarian
-- 15-minute
-- spicy
-- comfort food
+- arroz frito
+- coreano
+- vegetariano
+- 15 minutos
+- picante
+- comida reconfortante
 rating: null
 variations:
 - 'Revuelto de tofu: Cambie el huevo por tofu desmenuzado y sazonado.'

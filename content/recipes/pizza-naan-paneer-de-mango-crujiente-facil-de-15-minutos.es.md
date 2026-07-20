@@ -40,16 +40,16 @@ use:
   noche de pizza.'
 - 'Almuerzo Rápido: Montado y listo en menos de 15 minutos.'
 - 'Personalizable: Muy fácil de modificar para diferentes macros.'
-cuisine: Indian
+cuisine: India
 tags:
-- indian-fusion
-- quick-dinner
+- fusión india
+- cena rápida
 keywords:
 - naan pizza
-- indian
+- indio
 - fusion
 - paneer
-- mango chutney
+- chutney de mango
 - quick dinner
 variations:
 - 'Intercambio vegano: use pan naan sin lácteos y una alternativa de queso vegano.'

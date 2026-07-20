@@ -20,8 +20,8 @@ blurb: []
 image: garlic-sauce_dz8yhf
 alt: Salsa cremosa de ajo baja en calorías en un tazón pequeño
 categories:
-- sauces
-- 5-minute-meals
+- salsas
+- comidas-de-5-minutos
 tags:
 - keto
 tipsTitle: Variaciones para probar
@@ -46,15 +46,15 @@ variations:
 - 'Ajo asado: Cambie el ajo crudo por asado para obtener un perfil más dulce y profundo.'
 rating: null
 reviews: null
-cuisine: Mediterranean
+cuisine: Mediterránea
 keywords:
 - garlic sauce
-- dip
-- mediterranean
+- salsa para mojar
+- mediterráneo
 - keto
-- quick
-- appetizer
-- condiment
+- rápido
+- aperitivo
+- condimento
 servingSuggestions: El mejor acompañante para acompañar palitos de zanahoria o pita
   caliente. Genial para enfriar platos principales agresivamente picantes.
 storageInstructions: Refrigerar por 4 días en un recipiente hermético. No congelar,

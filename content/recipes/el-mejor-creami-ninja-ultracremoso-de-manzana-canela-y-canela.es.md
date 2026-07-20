@@ -20,16 +20,16 @@ categories:
 - alto-en-proteina
 - aperitivos
 tags:
-- high protein
-cuisine: British
+- alto en proteínas
+cuisine: Británica
 keywords:
 - ninja creami
 - apple cinnamon
-- protein ice cream
-- apple pie
-- healthy dessert
-- high-protein
-- ice cream
+- helado proteico
+- tarta de manzana
+- postre saludable
+- alto-en-proteina
+- helado
 tipsTitle: Mecanica Creami
 tips:
 - 'La paciencia es obligatoria: congele la pinta completamente nivelada durante 24

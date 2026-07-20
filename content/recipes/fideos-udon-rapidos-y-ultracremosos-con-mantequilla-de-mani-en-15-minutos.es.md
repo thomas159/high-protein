@@ -18,19 +18,19 @@ categories:
 - vegano
 - cena
 - comidas-de-15-minutos
-cuisine: Thai
+cuisine: Tailandesa
 keywords:
 - udon
-- peanut butter
-- noodles
-- thai
-- vegan
+- mantequilla de maní
+- fideos
+- tailandés
+- vegano
 - tofu
-- stir fry
+- salteado
 tags:
-- vegan
-- high protein
-- asian-fusion
+- vegano
+- alto en proteínas
+- fusión asiática
 tipsTitle: Mecánica del wok
 tips:
 - 'Enjuague el udon: enjuague el udon envasado al vacío con agua caliente para aflojar

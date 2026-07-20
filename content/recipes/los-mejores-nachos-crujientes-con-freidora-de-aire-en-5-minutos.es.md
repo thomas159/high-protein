@@ -23,7 +23,7 @@ alt: Nachos freidora de 5 minutos con queso derretido y tomates
 pintrest: ''
 categories:
 - air-fryer
-- 5-minute-meals
+- comidas-de-5-minutos
 - aperitivos
 tipsTitle: Consejo profesional
 tips:
@@ -48,18 +48,18 @@ use:
 - 'Almuerzo macro: cárguelo con frijoles negros y más verduras para una comida de
   gran volumen.'
 tags:
-- vegetarian
-- snack
+- vegetariano
+- aperitivo
 - mexican
-cuisine: Mexican
+cuisine: Mexicana
 keywords:
 - nachos
-- air fryer
-- mexican
+- freidora de aire
+- mexicano
 - cheese
 - snack
-- 5-minute
-- quick
+- 5 minutos
+- rápido
 whyTitle: Why use an air fryer?
 why:
 - 'Preserved crunch: the air fryer keeps the chips perfectly crisp. The microwave

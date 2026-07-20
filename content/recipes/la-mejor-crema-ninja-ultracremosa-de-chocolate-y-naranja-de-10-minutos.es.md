@@ -22,16 +22,16 @@ categories:
 - alto-en-proteina
 - aperitivos
 tags:
-- high protein
-cuisine: American
+- alto en proteínas
+cuisine: Americana
 keywords:
 - ninja creami
-- chocolate orange
-- protein ice cream
+- chocolate y naranja
+- helado proteico
 - chocolate
-- healthy dessert
-- high-protein
-- ice cream
+- postre saludable
+- alto-en-proteina
+- helado
 tipsTitle: Mecanica Creami
 tips:
 - '**Es obligatoria la paciencia:** Congela la pinta completamente nivelada durante

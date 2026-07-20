@@ -15,22 +15,22 @@ description: 'La comida de emergencia definitiva en 5 minutos. Con una gran cant
 image: 5-minute-miso-peanut-butter-noodles_eo9aef
 alt: Fideos con miso y mantequilla de maní en 5 minutos, adornados con cebolletas
 categories:
-- 5-minute-meals
+- comidas-de-5-minutos
 - vegano
 - alto-en-proteina
 tags:
-- vegan
-- high protein
-- quick-meals
-cuisine: Japanese
+- vegano
+- alto en proteínas
+- comidas rápidas
+cuisine: Japonesa
 keywords:
 - miso
-- peanut butter
-- noodles
-- japanese
-- vegan
-- high-protein
-- 5-minute
+- mantequilla de maní
+- fideos
+- japonés
+- vegano
+- alto-en-proteina
+- 5 minutos
 tipsTitle: Trucos de fideos cremosos
 tips:
 - 'Cuidado del miso: Nunca hiervas la pasta de miso de forma agresiva a menos que
