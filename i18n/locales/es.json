@@ -91,6 +91,16 @@
     "highprotein": "Alto en Proteína",
     "airfryer": "Air Fryer"
   },
+  "categorySlugs": {
+    "allrecipes": "todas-las-recetas",
+    "dinner": "cena",
+    "snacks": "aperitivos",
+    "dessert": "postre",
+    "highprotein": "alto-en-proteina",
+    "vegan": "vegano",
+    "15min": "comidas-de-15-minutos",
+    "airfryer": "air-fryer"
+  },
   "footer": {
     "description": "Comidas vegetarianas y veganas rápidas y ricas en proteínas para personas que aman comer pero odian esperar.",
     "sections": {

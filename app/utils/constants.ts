@@ -1,6 +1,10 @@
 export const RECIPE_CATEGORIES = [
-  { name: 'All recipes', slug: 'all-recipes', link: '/categories/all-recipes' },
-  { name: 'Dinner', slug: 'dinner', link: '/categories/dinner' },
-  { name: 'Snacks', slug: 'snacks', link: '/categories/snacks' },
-  { name: 'Dessert', slug: 'dessert', link: '/categories/dessert' }
+  { key: 'allrecipes', slug: 'all-recipes', link: '/categories/all-recipes' },
+  { key: 'dinner', slug: 'dinner', link: '/categories/dinner' },
+  { key: 'snacks', slug: 'snacks', link: '/categories/snacks' },
+  { key: 'dessert', slug: 'dessert', link: '/categories/dessert' },
+  { key: 'highprotein', slug: 'high-protein', link: '/categories/high-protein' },
+  { key: 'vegan', slug: 'vegan', link: '/categories/vegan' },
+  { key: 'airfryer', slug: 'air-fryer', link: '/categories/air-fryer' }
 ]
+

@@ -7,27 +7,36 @@ const route = useRoute()
 const { t, locale } = useI18n()
 const router = useRouter()
 const categorySlug = route.params.slug as string
+const categoryKey = computed(() => {
+  // Find which key this slug belongs to
+  const slugs = t('categorySlugs', { returnObjects: true })
+  if (typeof slugs !== 'object' || slugs === null) return categorySlug || ''
+  return Object.keys(slugs).find(k => slugs[k] === categorySlug) || categorySlug || ''
+})
+
 const showFilters = ref(false)
 
-const getCategoryName = (slug: string) => {
-  const key = `categories.${slug.replace(/-/g, '')}`
-  const translated = t(key)
-  if (translated === key) {
-    return slug.replace(/-/g, ' ')
+const getCategoryName = (key: string) => {
+  if (!key) return ''
+  const translated = t(`categories.${key}`)
+  if (translated === `categories.${key}`) {
+    return key.replace(/-/g, ' ')
   }
   return translated
 }
 
-const categoryName = computed(() => getCategoryName(categorySlug))
+const categoryName = computed(() => getCategoryName(categoryKey.value))
 
 const titleText = computed(() => {
-  return categorySlug === 'all-recipes' 
+  const allRecipesSlug = t('categorySlugs.allrecipes')
+  return categorySlug === allRecipesSlug
     ? t('categoryPage.allRecipesTitle')
     : t('categoryPage.categoryTitle', { category: categoryName.value })
 })
 
 const descText = computed(() => {
-  return categorySlug === 'all-recipes'
+  const allRecipesSlug = t('categorySlugs.allrecipes')
+  return categorySlug === allRecipesSlug
     ? t('categoryPage.allRecipesDesc')
     : t('categoryPage.categoryDesc', { category: categoryName.value })
 })
@@ -56,9 +65,10 @@ useSchemaOrg([
 
 // 1. Fetch recipes for this specific category
 const { data: recipes } = await useAsyncData(`category-${categorySlug}-${locale.value}`, () => {
+  const allRecipesSlug = t('categorySlugs.allrecipes')
   let query = queryCollection('recipes')
     .where('path', locale.value === 'es' ? 'LIKE' : 'NOT LIKE', '%.es')
-  if (categorySlug !== 'all-recipes') {
+  if (categorySlug !== allRecipesSlug) {
     query = query.where('categories', 'LIKE', `%${categorySlug}%`)
   }
   return query.all()

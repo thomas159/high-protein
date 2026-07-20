@@ -16,6 +16,7 @@ const initShiki = async () => {
 export const convertMarkdownWithShiki = async (markdown: string): Promise<string> => {
     const shiki = await initShiki()
 
+    if (!markdown) return ''
     // Regex to match bash code blocks
     const bashCodeBlockRegex = /```(?:bash|shell|sh)\n([\s\S]*?)```/g
 
@@ -35,6 +36,7 @@ export const convertMarkdownWithShiki = async (markdown: string): Promise<string
 export const convertFullMarkdownWithShiki = async (markdown: string): Promise<string> => {
     const shiki = await initShiki()
 
+    if (!markdown) return ''
     let result = markdown
 
     // Convert bash code blocks with Shiki
@@ -72,6 +74,7 @@ export const convertFullMarkdownWithShiki = async (markdown: string): Promise<st
 
 // Simple function - only converts bash code blocks
 export const highlightBashInMarkdown = async (markdown: string): Promise<string> => {
+    if (!markdown) return ''
     const shiki = await initShiki()
 
     return markdown.replace(/```(?:bash|shell|sh)\n([\s\S]*?)```/g, (match, code) => {

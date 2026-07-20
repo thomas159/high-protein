@@ -28,13 +28,16 @@ const localePath = useLocalePath()
 // 2. Determine the "Back" Label and Link
 const backLink = computed(() => {
   const path = previousPath.value
+  const categorySlugs = t('categorySlugs', { returnObjects: true })
 
   // If coming from a specific category page
-  if (path && path.includes('/categories/')) {
+  if (path && path.includes('/categories/') || (path && path.includes('/categorias/'))) {
     const slug = path.split('/').pop()
-    const matched = RECIPE_CATEGORIES.find(c => c.slug === slug)
+    const key = Object.keys(categorySlugs).find(k => categorySlugs[k] === slug)
+    const matched = key ? RECIPE_CATEGORIES.find(c => c.key === key) : null
+
     return {
-      label: matched ? t(`categories.${matched.slug.replace(/-/g, '')}`) : t('recipes.all'),
+      label: matched ? t(`categories.${matched.key}`) : t('recipes.all'),
       to: path
     }
   }
@@ -42,11 +45,14 @@ const backLink = computed(() => {
   // Fallback: If no history or history wasn't a category, 
   // use the recipe's first primary category
   if (props.recipe?.categories?.length) {
-    const primarySlug = props.recipe.categories[0]
-    const matched = RECIPE_CATEGORIES.find(c => c.slug === primarySlug)
+    const primarySlug = props.recipe.categories[0] // This is usually the key or English slug
+    const matched = RECIPE_CATEGORIES.find(c => c.key === primarySlug || c.slug === primarySlug)
+    const key = matched?.key || primarySlug
+    const translatedSlug = t(`categorySlugs.${key}`)
+
     return {
-      label: matched ? t(`categories.${matched.slug.replace(/-/g, '')}`) : t('recipes.all'),
-      to: localePath(`/categories/${primarySlug}`)
+      label: matched ? t(`categories.${matched.key}`) : t('recipes.all'),
+      to: localePath(`/categories/${translatedSlug}`)
     }
   }
 

@@ -1,7 +1,9 @@
 <script setup>
 const props = defineProps(['category', 'tags'])
-const { data: recipes } = await useAsyncData(`fries-list`, () => 
+const { locale } = useI18n()
+const { data: recipes } = await useAsyncData(`fries-list-${locale.value}`, () => 
   queryCollection('recipes')
+    .where('path', locale.value === 'es' ? 'LIKE' : 'NOT LIKE', '%.es')
     .where('tags', 'contains', props.tags)
     .all()
 )

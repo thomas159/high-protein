@@ -158,6 +158,44 @@ export default defineNuxtConfig({
       cookieKey: 'i18n_redirected',
       redirectOn: 'root',
     },
+    pages: {
+      'recipes/index': {
+        en: '/recipes',
+        es: '/recetas'
+      },
+      'recipes/[slug]': {
+        en: '/recipes/:slug',
+        es: '/recetas/:slug'
+      },
+      'collections/index': {
+        en: '/collections',
+        es: '/colecciones'
+      },
+      'collections/[slug]': {
+        en: '/collections/:slug',
+        es: '/colecciones/:slug'
+      },
+      'categories/[slug]': {
+        en: '/categories/:slug',
+        es: '/categorias/:slug'
+      },
+      'about': {
+        en: '/about',
+        es: '/sobre-nosotros'
+      },
+      'contact': {
+        en: '/contact',
+        es: '/contacto'
+      },
+      'privacy-policy': {
+        en: '/privacy-policy',
+        es: '/politica-de-privacidad'
+      },
+      'terms-of-service': {
+        en: '/terms-of-service',
+        es: '/terminos-de-servicio'
+      }
+    }
   },
   fonts: {
     families: [

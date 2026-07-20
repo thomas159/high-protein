@@ -6,10 +6,13 @@ const currentYear = new Date().getFullYear()
 
 const footerLinks = computed(() => ({
   content: [
-   ...RECIPE_CATEGORIES.map(cat => ({
-      name: t(`categories.${cat.slug.replace('-', '')}`),
-      path: cat.link // Mapping your 'link' property to 'path' for consistency
-    }))
+    ...RECIPE_CATEGORIES.map(cat => {
+      const translatedSlug = t(`categorySlugs.${cat.key}`)
+      return {
+        name: t(`categories.${cat.key}`),
+        path: localePath(`/categories/${translatedSlug}`)
+      }
+    })
   ],
   company: [
     { name: t('footer.links.aboutMe'), path: '/about' },

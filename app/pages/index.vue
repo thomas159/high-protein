@@ -38,12 +38,12 @@ const collections = computed(() => {
 
 
 const categories = computed(() => [
-  { name: t('categories.highProtein'), img: 'high-protein_ozub93', link: '/categories/high-protein' },
-  { name: t('categories.vegan'), img: 'vegan_byepar', link: '/categories/vegan' },
-  { name: t('categories.dessert'), img: 'dessert_ciz4vp', link: '/categories/dessert' },
-  { name: t('categories.dinner'), img: 'dinner_jltkrm' , link: '/categories/dinner'},
-  { name: t('categories.15min'), img: '15-minute-meals_wkmurj', link: '/categories/15-minute-meals' },
-  { name: t('categories.airFryer'), img: 'air-fryer_too3q1', link: '/categories/air-fryer' }
+  { name: t('categories.highProtein'), img: 'high-protein_ozub93', link: `/categories/${t('categorySlugs.highprotein')}` },
+  { name: t('categories.vegan'), img: 'vegan_byepar', link: `/categories/${t('categorySlugs.vegan')}` },
+  { name: t('categories.dessert'), img: 'dessert_ciz4vp', link: `/categories/${t('categorySlugs.dessert')}` },
+  { name: t('categories.dinner'), img: 'dinner_jltkrm' , link: `/categories/${t('categorySlugs.dinner')}`},
+  { name: t('categories.15min'), img: '15-minute-meals_wkmurj', link: `/categories/${t('categorySlugs.15min')}` },
+  { name: t('categories.airFryer'), img: 'air-fryer_too3q1', link: `/categories/${t('categorySlugs.airfryer')}` }
 ])
 
 // SEO handled by app.vue and useSeoMeta below
