@@ -2,8 +2,6 @@
 const route = useRoute()
 const { t, locale } = useI18n()
 const appConfig = useAppConfig()
-
-// Fetch the specific markdown document for this collection
 const { data: page } = await useAsyncData(`${route.path}-${locale.value}`, async () => {
   const slugParam = route.params.slug as string
   const contentPath = locale.value === 'es' ? `/collections/${slugParam}.es` : `/collections/${slugParam}`
@@ -19,6 +17,23 @@ const { data: page } = await useAsyncData(`${route.path}-${locale.value}`, async
   return queryCollection('collections').path(contentPath).first()
 })
 
+if (page.value?.image) {
+  const { data: siblings } = await useAsyncData(`${route.path}-siblings`, async () => {
+    const all = await queryCollection('collections').select('slug', 'path', 'image').all()
+    return all.filter((r: any) => r.image === page.value?.image)
+  })
+
+  if (siblings.value?.length) {
+    const enSibling = siblings.value.find(s => !s.path.endsWith('.es'))
+    const esSibling = siblings.value.find(s => s.path.endsWith('.es'))
+    const i18nParams: Record<string, { slug: string }> = {}
+    // The queryCollection might return file-based slug or frontmatter slug.
+    if (enSibling?.slug) i18nParams.en = { slug: enSibling.slug }
+    if (esSibling?.slug) i18nParams.es = { slug: esSibling.slug }
+    
+    useSetI18nParams()(i18nParams)
+  }
+}
 // Fetch all recipes that match the slugs listed in the collection's frontmatter
 const { data: recipes } = await useAsyncData(`${route.path}-recipes-${locale.value}`, async () => {
   if (!page.value?.recipes?.length) return []

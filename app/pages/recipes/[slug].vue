@@ -3,12 +3,27 @@ import Img from '@/components/Img.vue'
 const { siteName, siteDescription } = useAppConfig()
 const route = useRoute()
 const { t, locale } = useI18n()
-
 const { data: recipe } = await useAsyncData(`${route.path}-${locale.value}`, () => {
   const contentPath = locale.value === 'es' ? `/recipes/${route.params.slug}.es` : `/recipes/${route.params.slug}`
   return queryCollection('recipes').path(contentPath).first()
 })
 
+if (recipe.value?.image) {
+  const { data: siblings } = await useAsyncData(`${route.path}-siblings`, async () => {
+    const all = await queryCollection('recipes').select('slug', 'path', 'image').all()
+    return all.filter((r: any) => r.image === recipe.value?.image)
+  })
+
+  if (siblings.value?.length) {
+    const enSibling = siblings.value.find(s => !s.path.endsWith('.es'))
+    const esSibling = siblings.value.find(s => s.path.endsWith('.es'))
+    const i18nParams: Record<string, { slug: string }> = {}
+    if (enSibling) i18nParams.en = { slug: enSibling.slug }
+    if (esSibling) i18nParams.es = { slug: esSibling.slug }
+    
+    useSetI18nParams()(i18nParams)
+  }
+}
 // Helper to format minutes into ISO8601 (Schema requirement)
 const formatIso = (mins: number) => `PT${mins}M`
 

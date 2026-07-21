@@ -136,6 +136,7 @@ export default defineNuxtConfig({
     baseUrl: 'https://www.hotrecipes.co.uk',
     defaultLocale: 'en',
     strategy: 'prefix_except_default',
+    customRoutes: 'config',
     langDir: 'locales',
     lazy: true,
     locales: [
@@ -160,25 +161,25 @@ export default defineNuxtConfig({
       redirectOn: 'root',
     },
     pages: {
-      'recipes/index': {
+      'recipes': {
         en: '/recipes',
         es: '/recetas'
       },
-      'recipes/[slug]': {
-        en: '/recipes/:slug',
-        es: '/recetas/:slug'
+      'recipes-slug': {
+        en: '/recipes/[slug]',
+        es: '/recetas/[slug]'
       },
-      'collections/index': {
+      'collections': {
         en: '/collections',
         es: '/colecciones'
       },
-      'collections/[slug]': {
-        en: '/collections/:slug',
-        es: '/colecciones/:slug'
+      'collections-slug': {
+        en: '/collections/[slug]',
+        es: '/colecciones/[slug]'
       },
-      'categories/[slug]': {
-        en: '/categories/:slug',
-        es: '/categorias/:slug'
+      'categories-slug': {
+        en: '/categories/[slug]',
+        es: '/categorias/[slug]'
       },
       'about': {
         en: '/about',
