@@ -111,7 +111,7 @@ const localePath = useLocalePath()
     <!-- Categories Circle Nav -->
     <section class="mb-16">
       <div class="flex items-center justify-between mb-8">
-        <h2 class="text-3xl md:text-5xl font-black uppercase tracking-tighter italic text-white">{{ t('nav.categories') }}</h2>
+        <h2 class="text-3xl md:text-5xl font-black uppercase tracking-tighter italic text-white mb-0">{{ t('nav.categories') }}</h2>
         <NuxtLink :to="localePath('/categories/all-recipes')" class="text-[10px] font-black uppercase tracking-widest text-emerald-500 hover:text-emerald-400 transition-colors">
           {{ t('recipes.all') }} &rarr;
         </NuxtLink>
@@ -141,7 +141,7 @@ const localePath = useLocalePath()
     <!-- Latest Recipes Grid (Desktop) -->
     <section class="mb-16 hidden md:block">
       <div class="flex items-center justify-between mb-8">
-        <h2 class="text-3xl md:text-5xl font-black uppercase tracking-tighter italic text-white">
+        <h2 class="text-3xl md:text-5xl font-black uppercase tracking-tighter italic text-white mb-0">
           {{ t('recipes.latest') }}
         </h2>
         <NuxtLink :to="localePath('/categories/all-recipes')" class="text-[10px] font-black uppercase tracking-widest text-emerald-500 hover:text-emerald-400 transition-colors">
@@ -170,7 +170,7 @@ const localePath = useLocalePath()
     <!-- Trending Recipes Grid (Desktop) -->
     <section class="mb-16 hidden md:block">
       <div class="flex items-center justify-between mb-8">
-        <h2 class="text-3xl md:text-5xl font-black uppercase tracking-tighter italic text-white">
+        <h2 class="text-3xl md:text-5xl font-black uppercase tracking-tighter italic text-white mb-0">
           {{ t('recipes.trending') }}
         </h2>
       </div>

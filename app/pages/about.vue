@@ -50,7 +50,7 @@ const localePath = useLocalePath()
       </div>
       
       <div class="space-y-6">
-        <h2 class="text-3xl font-black uppercase tracking-tighter italic text-white mb-6">{{ t('about.story.title', { siteName: appConfig.siteName }) }}</h2>
+        <h2 class="text-3xl md:text-5xl font-black uppercase tracking-tighter italic text-white mb-6">{{ t('about.story.title', { siteName: appConfig.siteName }) }}</h2>
         <p class="text-muted-foreground">
           {{ t('about.story.p1') }}
         </p>
@@ -92,7 +92,7 @@ const localePath = useLocalePath()
     </section> -->
 
     <section class="bg-muted rounded-3xl p-8 md:p-12 text-center">
-      <h2 class="text-2xl font-black uppercase tracking-tighter italic text-white mb-4">{{ t('about.cta.title') }}</h2>
+      <h2 class="text-2xl md:text-3xl font-black uppercase tracking-tighter italic text-white mb-4">{{ t('about.cta.title') }}</h2>
       <p class="text-muted-foreground mb-8">
         {{ t('about.cta.description', { siteName: appConfig.siteName }) }}
       </p>

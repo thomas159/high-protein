@@ -46,7 +46,7 @@ useSeoMeta({
 <template>
   <div class="max-w-2xl mx-auto px-4 py-16">
     <div class="text-center mb-10">
-      <h1 class="text-4xl font-bold mb-4">{{ $t('contact.title') }}</h1>
+      <h1 class="text-4xl md:text-6xl font-black uppercase tracking-tighter italic text-white mb-6">{{ $t('contact.title') }}</h1>
       <p class="text-muted-foreground">
         {{ $t('contact.description') }}
       </p>

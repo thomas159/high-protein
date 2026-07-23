@@ -32,7 +32,7 @@ const { formatText } = useFormatText()
 <template>
   <section>
     <div class="flex items-center justify-between mb-8">
-      <h2 class="text-3xl md:text-5xl font-black uppercase tracking-tighter italic text-white">
+      <h2 class="text-3xl md:text-5xl font-black uppercase tracking-tighter italic text-white mb-0">
         {{ title }}
       </h2>
       <NuxtLink v-if="viewAllLink" :to="viewAllLink" class="text-[10px] font-black uppercase tracking-widest text-emerald-500 hover:text-emerald-400 transition-colors">
@@ -41,7 +41,7 @@ const { formatText } = useFormatText()
     </div>
 
     <div 
-      class="grid gap-6 items-stretch overflow-x-auto no-scrollbar snap-x snap-mandatory
+      class="grid gap-6 md:gap-8 items-stretch overflow-x-auto no-scrollbar snap-x snap-mandatory
              grid-flow-col auto-cols-[80%] pb-6 -mx-4 px-4
              md:mx-0 md:px-0 md:pb-0 md:grid-flow-row md:grid-cols-2"
       :class="collections ? 'lg:grid-cols-2' : 'lg:grid-cols-4'"
