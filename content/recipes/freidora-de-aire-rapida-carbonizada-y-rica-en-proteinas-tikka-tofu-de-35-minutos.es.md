@@ -1,17 +1,13 @@
---- 
+---
 categories:
 - airfryer
 - dinner
 title: Freidora de aire rápida carbonizada y rica en proteínas Tikka Tofu de 35 minutos
 slug: freidora-de-aire-rapida-carbonizada-y-rica-en-proteinas-tikka-tofu-de-35-minutos
 meta:
-  seoMetaDescription: ¡Sáltate la casa del curry! Este rápido tofu tikka para freidora
-    carbonizado y rico en proteínas de 35 minutos ofrece auténticas especias indias
-    rápidamente.
-description: Infunde a tu tofu los sabores atrevidos y aromáticos de la India con
-  esta rápida marinada tikka de 35 minutos. Una mezcla vibrante de garam masala, cúrcuma
-  y cilantro (cilantro) mezclados con una base picante de yogur griego crea una corteza
-  perfectamente carbonizada. Proteína vegana con calidad de restaurante en minutos.
+  seoMetaDescription: ¡Olvídate de pedir comida india a domicilio! Prepara este tofu tikka marinado súper sabroso y crujiente en solo 35 minutos con tu freidora de aire.
+description: |
+  Consigue un tofu espectacular con todo el sabor y aroma de las especias de la India gracias a este marinado rápido estilo tikka de 35 minutos. Mezclamos yogur griego con curry, garam masala, cúrcuma y cilantro fresco para crear una capa cremosa que, al dorarse, conseguirá una costra increíble que te recordará a los mejores platos de restaurante.
 image: tikka-tofu-marinade_if4ab4
 alt: Cubitos de tofu marinados con tikka ricos en proteínas
 pintrest: ''
@@ -28,44 +24,30 @@ keywords:
 - tofu marinade
 tipsTitle: Dominio del adobo
 tips:
-- 'Preparación de tofu: consulte nuestros [Ultimate Quick Tofu Prep Hacks](/collections/easy-quick-tofu-prep-hacks)
-  para lograr la textura perfecta antes de cocinar.'
-- 'Aromáticos frescos: si no tiene pasta en frasco, pique violentamente 1 diente de
-  ajo grande y una cantidad igual de jengibre fresco.'
-- 'La regla del yogur: use yogur griego con toda la grasa (o un substrato vegano espeso).
-  Las versiones acuosas y bajas en grasa simplemente se deslizarán y se quemarán.'
-- 'No escatimes en sal: el tofu es notoriamente suave por dentro. Es obligatoria una
-  pizca fuerte de sal en la marinada.'
+- 'Preparar el tofu: echa un vistazo a nuestros [Ultimate Quick Tofu Prep Hacks](/collections/easy-quick-tofu-prep-hacks) para lograr la textura perfecta antes de cocinarlo.'
+- 'Aromas frescos: si no tienes pasta de ajo y jengibre ya lista, pica muy fino un diente de ajo grande con un trozo igual de jengibre fresco.'
+- 'La regla del yogur: busca un yogur griego espeso (o una alternativa vegana bien cremosa). Si usas uno muy desnatado o líquido, se resbalará del tofu antes de poder dorarse y acabará quemándose.'
+- 'No te quedes corto con la sal: el tofu es bastante soso por naturaleza. Es fundamental que la marinada tenga una buena pizca de sal para levantar el sabor.'
 works:
-- 'The Perfect Char: El yogur griego ablanda suavemente el tofu para que las especias
-  pesadas puedan penetrar. El yogur espeso también actúa como un escudo, atrapando
-  y carbonizando perfectamente a fuego alto.'
-- 'Tandoori Char: El yogur espeso actúa como un escudo térmico, burbujeando y carbonizándose
-  perfectamente a fuego alto.'
+- 'La magia del marinado: el yogur griego ablanda ligeramente el tofu y ayuda a que las especias entren en las capas exteriores. Además, forma una cremosa cobertura que protege el tofu, haciendo que quede dorado por fuera pero tierno por dentro.'
+- 'Toque de calor: el yogur espeso funciona como un escudo contra el calor directo de la freidora, burbujeando y logrando ese característico borde tostadito y delicioso.'
 use:
-- 'Compañero de curry: Charlo y colóquelo en un masala de tomate hirviendo a fuego
-  lento.'
-- 'Brochetas de kebab: alterne con cebollas y pimientos para una macro barbacoa de
-  élite.'
-- 'Preparación en frío: corte las sobras frías sobre una enorme ensalada verde.'
+- 'Potencia tus curris: dóralo primero y luego añádelo a una salsa de tomate especiada bien reconfortante.'
+- 'Brochetas ricas en nutrientes: monta brochetas alternando el tofu con trozos de cebolla y pimientos para una parrillada espectacular.'
+- 'Ensaladas con chispa: corta los cubos que te sobren y añádelos fríos sobre una ensalada variada.'
 rating: null
 variations:
 - 'Intercambio de paneer: cambia el tofu por paneer si comes lácteos.'
-- 'Toque tropical: use yogur de coco para obtener una corteza vegana y sutilmente
-  dulce.'
+- 'Toque tropical: use yogur de coco para obtener una corteza vegana y sutilmente dulce.'
 reviews: null
-servingSuggestions: Sirva esto sobre una montaña de arroz basmati o rellénelo en un
-  pan pita caliente con lechuga rallada y chutney de menta.
+servingSuggestions: Sirva esto sobre una montaña de arroz basmati o rellénelo en un pan pita caliente con lechuga rallada y chutney de menta.
 shelf_life: Stored in airtight container in the fridge for 5 days
-storageInstructions: Refrigere el bloque marinado crudo durante cinco días. Se congela
-  brillantemente durante 3 meses. Descongelar durante la noche antes de cocinar.
+storageInstructions: Refrigere el bloque marinado crudo durante cinco días. Se congela brillantemente durante 3 meses. Descongelar durante la noche antes de cocinar.
 whyTitle: The Flavour Science
 why:
-- 'Deeper Flavour: Sitting in the spices drags the aromatics past the surface layer.'
-- 'The Perfect Char: Garlic and ginger sugars caramelise rapidly under heat to build
-  authentic crispy edges.'
-- 'Lean Macros: A massive, restaurant-quality punch without touching heavy creams
-  or excessive oils.'
+- 'Sabor intenso: dejar reposar el tofu en la marinada permite que los aromas atraviesen la superficie y cubran perfectamente el bloque.'
+- 'Dorado perfecto: los azúcares naturales del ajo y el jengibre se caramelizan de maravilla para crear esos bordes tostados estilo tandoori.'
+- 'Bajo en grasa: todo el sabor de tu restaurante favorito sin necesidad de usar natas pesadas ni un exceso de aceite.'
 prepTimeMins: 30
 cookTimeMins: 5
 servings: 1
@@ -108,22 +90,13 @@ ingredients:
   unit: tsp
 faq:
 - question: ¿Necesito presionar el tofu primero?
-  answer: Siempre. Al presionar se elimina el exceso de agua para que el bloque pueda
-    absorber la marinada espesa de yogur.
+  answer: Siempre. Al presionar se elimina el exceso de agua para que el bloque pueda absorber la marinada espesa de yogur.
 - question: ¿Puedo usar una proteína diferente en lugar de tofu?
   answer: Absolutamente. Es de élite con paneer, tempeh o coliflor asada.
 steps:
-- Prepare el tofu calentándolo en el microondas en ráfagas de 30 segundos hasta que
-  esté seco, pero no cocido (aproximadamente 4 minutos) o hirviéndolo durante 5 a
-  10 minutos para expulsar el agua y que el bloque pueda absorber la marinada. Consulte
-  nuestros [Ultimate Quick Tofu Prep Hacks](/collections/easy-quick-tofu-prep-hacks)
-  para conocer los métodos exactos.
-- Batir el yogur griego, la pasta de ajo y jengibre, el jugo de limón, el aceite,
-  el cilantro, el garam masala, la cúrcuma y una pizca de sal.
-- Corta el tofu en cubos y revuélvelo agresivamente a través de la marinada. Déjalo
-  reposar durante 30 minutos para que se absorba.
-- Freír al aire a 180°C durante 6-10 minutos, agitando hasta la mitad. O freír hasta
-  que se queme.
-- Golpéelo con cilantro fresco (cilantro) y un chorrito de lima.
+- Prepara el tofu aplicando unos minutos en el microondas o hirviéndolo unos 10 minutos para escurrir bien su agua. Esto facilita que absorba de forma maravillosa la marinada de yogur. Puedes ver los detalles en nuestros trucos de [Ultimate Quick Tofu Prep Hacks](/collections/easy-quick-tofu-prep-hacks).
+- Mezcla bien el yogur griego con la pasta de ajo y jengibre, el zumo de limón, el aceite, el cilantro, el garam masala y la cúrcuma con una generosa pizca de sal.
+- Corta el tofu en cubos y mézclalo con cuidado pero asegurándote de que la marinada los cubra todos. Deja reposar durante 30 minutos para que coja todo el sabor.
+- Cocina en la freidora de aire a 180°C durante 6-10 minutos, agitando la cesta a la mitad del tiempo, hasta obtener ese apetitoso color tostado.
+- Sácalo y acompáñalo con cilantro fresco picado por encima y un toque de lima exprimida.
 ---
-

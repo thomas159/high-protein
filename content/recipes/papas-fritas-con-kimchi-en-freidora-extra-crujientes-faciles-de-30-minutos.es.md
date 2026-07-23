@@ -35,7 +35,7 @@ works:
   elimina violentamente la humedad de la superficie, creando una corteza rígida de
   almidón que no colapsa bajo el kimchi pesado y húmedo. Es como un PB para sus papilas
   gustativas, que impulsa su recuperación sin la preparación pesada. Busque una textura
-  espesa y brillante; si es acuosa, le ha fallado la emulsión y necesita reducirla
+  espesa y brillante, si es acuosa, le ha fallado la emulsión y necesita reducirla
   aún más.'
 - 'Equilibrio de sabor: El sabor fuerte y ácido del kimchi atraviesa perfectamente
   la rica pesadez del queso cheddar y las patatas con almidón.'

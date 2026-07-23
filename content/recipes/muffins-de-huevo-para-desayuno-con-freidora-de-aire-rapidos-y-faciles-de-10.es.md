@@ -46,7 +46,7 @@ tips:
 works:
 - 'Perfect Puff: El intenso calor circulante convierte rápidamente el agua dentro
   de los huevos batidos en vapor, inflándolos mientras los huevos adquieren un bocado
-  ligero y esponjoso. Busque una textura espesa y brillante; si es acuosa, necesita
+  ligero y esponjoso. Busque una textura espesa y brillante, si es acuosa, necesita
   más tiempo.'
 - 'Eficiencia del sabor: los tomates secados al sol y el queso feta brindan un gran
   éxito de umami sin preparación adicional.'

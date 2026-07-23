@@ -32,7 +32,7 @@ tipsTitle: Elevar el cuenco
 tips:
 - 'Control de textura: sáquelos 30 segundos antes. Seguirán cocinándose con el calor
   residual.'
-- 'Emulsión de salsa: Mantenga un poco de agua con almidón para mezclar con el glaseado;
+- 'Emulsión de salsa: Mantenga un poco de agua con almidón para mezclar con el glaseado,
   ayuda a que la salsa se adhiera violentamente a los fideos.'
 - 'Aumento de volumen: agregue un puñado de espinacas tiernas o pak choi al final
   para obtener una dosis de micronutrientes sin esfuerzo.'
@@ -40,7 +40,7 @@ works:
 - 'Glaseado osmótico: Al hervir el caldo en lugar de escurrirlo, el agua con almidón
   se reduce a un almíbar concentrado. Los fideos porosos actúan como esponjas, absorbiendo
   los compuestos pesados ​​de sodio y soja a través de ósmosis, mientras que el almidón
-  residual forma un glaseado espeso y adherente. Busque una textura espesa y brillante;
+  residual forma un glaseado espeso y adherente. Busque una textura espesa y brillante,
   si es acuosa, le falló la emulsión y necesita reducirla aún más.'
 - 'Equilibrio ácido: un pequeño chorrito de vinagre de arroz corta el pesado aceite
   de sésamo y despierta el paladar.'

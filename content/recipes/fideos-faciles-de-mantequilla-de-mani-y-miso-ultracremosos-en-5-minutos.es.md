@@ -43,7 +43,7 @@ works:
 - 'Emulsión mecánica: Batir la mantequilla de maní rica en grasas en el agua tibia
   de los fideos con almidón obliga a las moléculas dispares de grasa y agua a unirse.
   El almidón actúa como estabilizador físico, produciendo una salsa brillante e intacta
-  que se adhiere fuertemente a los fideos. Busque una textura espesa y brillante;
+  que se adhiere fuertemente a los fideos. Busque una textura espesa y brillante,
   si es acuosa, la emulsión falló y necesita reducirla aún más.'
 - 'Sinergia Umami: El miso y la salsa de soja brindan un enorme toque de profundidad
   sabrosa. Cero necesidad de caldos de carne cocidos a fuego lento.'

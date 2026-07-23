@@ -1,4 +1,4 @@
---- 
+---
 categories:
 - 15minutemeals
 - airfryer
@@ -6,43 +6,25 @@ categories:
 title: La pizza de tortilla con freidora de aire más rápida y crujiente en 15 minutos
 slug: la-pizza-de-tortilla-con-freidora-de-aire-mas-rapida-y-crujiente-en-15-minutos
 meta:
-  seoMetaDescription: ¡Comienza ese antojo de pizza rápido! La pizza de tortilla con
-    freidora de 15 minutos más rápida y crujiente le brinda un crujido bajo en calorías.
-description: 'Una tortilla de harina es una estructura fantástica y liviana para los
-  aderezos de tu pizza. Queda maravillosamente crujiente bajo el intenso calor de
-  la freidora, lo que brinda una pizza rápida y crujiente.
+  seoMetaDescription: Sacia tu antojo de pizza en un momento. Esta pizza de tortilla en freidora de aire es la opción más rápida, súper crujiente y baja en calorías que vas a encontrar.
+description: |
+  Una tortilla de trigo es una base ligera y estupenda para montar una pizza rápida. Se tuesta a las mil maravillas con el calor de la freidora de aire, dándote ese toque ultra crujiente que tanto apetece.
 
-
-  Le ahorra una gran cantidad de calorías en comparación con la masa espesa. Probado
-  varias veces para equilibrar la humedad del pesto y los tomates, asegurando que
-  la base delgada se mantenga rígida en lugar de colapsar y convertirse en un desastre
-  empapado.
-
-
-  Piense en ello como un truco macro sencillo y eficaz para su fase de corte.'
+  Al sustituir la masa de pizza tradicional y pesada, te ahorras un montón de carbohidratos y calorías. Hicimos varias pruebas para ajustar la cantidad justa de pesto y tomates para que la tortilla quede bien firme y tostada, en lugar de ablandarse o romperse. Es un recurso espectacular y rápido para darte un gustazo de forma ligera.
 blurb: []
-tipsTitle: Consejo profesional
+tipsTitle: Consejos útiles
 tips:
-- 'Intercambio de salsa: Passata también funciona. Simplemente condimente con orégano
-  seco y ajo en polvo para que no sepa a tomate triturado.'
-- 'Base crujiente: Una rápida pulverización de aceite de oliva en la parte inferior
-  de la tortilla garantiza una base rígida y crujiente.'
-- 'No lo sobrecargues: este no es un plato hondo. Mantenga los ingredientes livianos
-  o la base se doblará bajo el peso.'
+- 'Alternativa de salsa: puedes usar puré de tomate natural (passata) en su lugar. Sazónala con un toque de orégano seco y ajo en polvo para darle ese sabor auténtico a pizza.'
+- 'Base súper crujiente: un toque rápido de aceite de oliva en spray por la parte trasera de la tortilla asegurará que quede bien tostada y crujiente al morderla.'
+- 'No te pases con los ingredientes: recuerda que la base es muy fina. Pon cantidades moderadas de toppings para que la tortilla no se doble ni se hunda con el peso al sacarla.'
 works:
-- 'Macro Hack: cambiar la masa pesada por una tortilla te ahorra una gran cantidad
-  de calorías para gastar en otra parte.'
-- 'Eficiencia del pesto: El pesto aporta aceite, ajo, nueces y hierbas en una sola
-  cucharada. Máxima eficiencia de sabor.'
-- 'Mecánica de deshidratación: la intensa circulación de aire de la freidora evapora
-  rápidamente la humedad de la superficie de la fina tortilla de harina. Esto altera
-  fundamentalmente su estructura de almidón para que quede crujiente antes de que
-  los aderezos tengan la oportunidad de empaparlo. Si la base se siente blanda, necesitará
-  otro minuto para deshidratarse por completo.'
+- 'Ahorro de calorías: cambiar la masa tradicional de pizza por una simple tortilla te ahorra un montón de carbohidratos, ideal si buscas comer más ligero.'
+- 'Mucho sabor en poco espacio: el pesto concentra aceite de oliva, ajo, hierbas y frutos secos en cada cucharada. Una explosión de sabor instantánea.'
+- 'Toque crujiente al instante: el aire caliente de la freidora evapora rápidamente la humedad de la superficie de la tortilla de trigo. Esto hace que se tueste y endurezca enseguida, creando una barrera crujiente antes de que los ingredientes puedan ablandarla. Si notas que queda algo blanda, déjala un minuto más para que se dore del todo.'
 use:
-- 'Arreglo de la fase de corte: toda la satisfacción de la pizza, casi nada de carbohidratos.'
-- 'Realimentación de emergencia: lista en 15 minutos cuando llegan los antojos.'
-- 'Almuerzo ligero: Acompáñelo con una ensalada de rúcula (rúcula).'
+- 'Cena ligera excelente: todo el disfrute de una buena pizza pero de forma muy ligera.'
+- 'Solución rápida: perfecta para cuando el hambre aprieta y tienes poco tiempo.'
+- 'Plato completo: combínala con una ensalada fresca para tener una comida estupenda.'
 image: air-fryer-pizza-tortilla-wrap_ko6ckn
 alt: Pizza de tortilla freidora con pesto y tomates cherry
 pintrest: ''
@@ -58,14 +40,12 @@ tags:
 - low-calorie
 - quick-meals
 variations:
-- 'Aumento de volumen: apílelo con champiñones y pimientos.'
-- 'Miel picante: añádelo con jalapeños y un chorrito de miel de chile.'
+- 'Ponle verduras: añádele unos champiñones laminados y tiras de pimiento rojo.'
+- 'Toque picante: ponle unas rodajas de jalapeño y un hilito de miel picante por encima.'
 rating: null
 reviews: null
-servingSuggestions: Sirva esto junto con una enorme ensalada de rúcula (rúcula) y
-  parmesano. Rocíe con aceite de chile si necesita un toque extra. Sírvelo inmediatamente.
-storageInstructions: Cómelo fresco. No intentes refrigerarlo o se convertirá en un
-  frisbee empapado.
+servingSuggestions: Sírvela al momento junto a una ensalada fresca de rúcula y lascas de parmesano. Si te gusta el picante, dale un toque final con unas gotas de aceite picante.
+storageInstructions: Consúmela recién hecha. Si la guardas para el día siguiente o la refrigeras, perderá todo el crujiente y se pondrá muy blanda debido a la humedad.
 prepTimeMins: 5
 cookTimeMins: 10
 servings: 1
@@ -89,31 +69,16 @@ ingredients:
   amount: 0.5
 faq:
 - question: ¿Se quemará la tortilla en la freidora?
-  answer: ¡Los bordes se doran muy rápido! Si empiezan a dorarse demasiado antes de
-    que el queso se derrita por completo, baje la temperatura a 180°C.
+  answer: ¡Los bordes se doran muy rápido! Si empiezan a dorarse demasiado antes de que el queso se derrita por completo, baje la temperatura a 180°C.
 - question: ¿Puedo usar una tortilla de maíz en su lugar?
-  answer: Las tortillas de harina funcionan mejor como base de pizza porque resisten
-    mejor los aderezos húmedos, mientras que las tortillas de maíz pueden partirse
-    o quedar demasiado empapadas.
+  answer: Las tortillas de harina funcionan mejor como base de pizza porque resisten mejor los aderezos húmedos, mientras que las tortillas de maíz pueden partirse o quedar demasiado empapadas.
 steps:
-- text: Precalienta tu freidora u horno a 200°C. Coloque la tortilla en la bandeja
-    de la freidora o en el horno sobre una bandeja para hornear plana o una piedra
-    para pizza. Utilice el dorso de una cuchara para esparcir el pesto uniformemente
-    por toda la superficie. Deja un borde de 1 cm alrededor del borde. Esto permite
-    que la tortilla se "hinche" ligeramente y se convierta en una corteza dorada y
-    crujiente.
+- text: Precalienta la freidora de aire u horno a 200°C. Coloca la tortilla en la cesta o en una bandeja plana para horno. Con el dorso de una cuchara, extiende el pesto de manera uniforme por la superficie, dejando un borde libre de 1 cm para que se dore y se infle ligeramente al cocinarse.
   image: air-fryer-pizza-tortilla-wrap-step-1_obvimo
-- text: Coloque los ingredientes frescos en capas con cuidado para garantizar una
-    cocción uniforme. Distribuya las rodajas de mozzarella de manera uniforme. Esparza
-    los tomates cherry cortados por la mitad (con el lado cortado hacia arriba para
-    evitar que se empapen) y las cebollas en rodajas finas.
+- text: Reparte las rodajas de mozzarella por encima de forma uniforme. Añade los tomates cherry cortados por la mitad (con la parte cortada hacia arriba para que no suelten líquido sobre la tortilla) y la cebolla morada en tiras finas.
   image: air-fryer-pizza-tortilla-wrap-step-2_ibfuma
-- text: Cocine durante unos 6 a 8 minutos. Los bordes de la tortilla deben tener un
-    color dorado intenso y romperse ligeramente al golpearla, mientras que la mozzarella
-    debe burbujear con pequeñas manchas doradas.
+- text: Cocina durante unos 6 a 8 minutos, vigilando de cerca. Los bordes de la tortilla deben verse bien dorados y crujientes al tacto, y el queso debe estar fundido y burbujeante.
   image: air-fryer-pizza-tortilla-wrap-step-4_djmleg
-- text: Retirar de la freidora o del horno y dejar reposar en la bandeja durante 1
-    minuto. Este breve descanso permite que la tortilla esté completamente crujiente
-    para poder cortarla sin doblarla.
+- text: Sácala con cuidado de la freidora o del horno y déjala reposar un minuto antes de cortarla. Esto asentará los ingredientes y hará que la base quede súper crujiente y fácil de porcionar.
+  image: air-fryer-pizza-tortilla-wrap-step-4_djmleg
 ---
-

@@ -41,7 +41,7 @@ tips:
 works:
 - 'La reacción de Maillard: El chamuscado a alta temperatura carameliza los champiñones,
   dando un enorme golpe de umami. Déjelos en reposo hasta que se forme una costra
-  de color marrón oscuro; si los revuelve demasiado pronto, se vaporizarán y se volverán
+  de color marrón oscuro, si los revuelve demasiado pronto, se vaporizarán y se volverán
   gomosos.'
 - 'Emulsión de almidón: Los almidones de amilosa lixiviados en el agua de la pasta
   interceptan físicamente las grasas de la crema espesa, uniéndolas en una emulsión
@@ -124,7 +124,7 @@ steps:
   de la sartén. Cocine a fuego lento hasta que el vino reduzca su volumen a la mitad.
 - Baja el calor. Agregue el caldo, la crema doble y el parmesano. Sazone abundantemente
   con pimienta negra. Cocine a fuego lento durante 3 minutos hasta que espese visiblemente.
-  Si se ve aguado, sigue cocinando a fuego lento; es necesario que cubra bien el dorso
+  Si se ve aguado, sigue cocinando a fuego lento, es necesario que cubra bien el dorso
   de una cuchara. Si la salsa se divide en aceite, bata enérgicamente con un chorrito
   extra de agua con almidón.
 - Coloca la pasta directamente en la salsa. Mezcle vigorosamente y agregue un chorrito

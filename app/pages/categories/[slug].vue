@@ -134,7 +134,11 @@ const availableTags = computed(() => {
   const tags = new Set<string>()
   recipes.value.forEach(recipe => {
     if (recipe.tags && Array.isArray(recipe.tags)) {
-      recipe.tags.forEach((tag: string) => tags.add(tag.toLowerCase()))
+      recipe.tags.forEach((tag: any) => {
+        if (tag) {
+          tags.add(String(tag).toLowerCase())
+        }
+      })
     }
   })
   return Array.from(tags).sort()
@@ -183,9 +187,9 @@ const filteredRecipes = computed(() => {
   if (selectedTags.value.length === 0) return recipes.value
 
   return recipes.value.filter(recipe => {
-    if (!recipe.tags) return false
+    if (!recipe.tags || !Array.isArray(recipe.tags)) return false
     
-    const lowerRecipeTags = recipe.tags.map((t: string) => t.toLowerCase())
+    const lowerRecipeTags = recipe.tags.map((t: any) => String(t || '').toLowerCase())
     // AND logic: recipe must have every selected tag
     return selectedTags.value.every(tag => lowerRecipeTags.includes(tag))
   })

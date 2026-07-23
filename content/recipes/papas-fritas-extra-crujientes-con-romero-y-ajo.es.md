@@ -121,7 +121,7 @@ steps:
   Usar un tazón asegura un condimento uniforme sin que las papas fritas se empapen.
 - Coloca las patatas en la cesta, intenta no abarrotarlas para asegurar el máximo
   flujo de aire. Freír al aire durante 18 a 24 minutos a 190 °C, agitando vigorosamente
-  la canasta a la mitad; esto redistribuye las agujas de romero y garantiza que el
+  la canasta a la mitad, esto redistribuye las agujas de romero y garantiza que el
   aceite de ajo se dore uniformemente por todos los lados de la papa.
 - Una vez que las patatas fritas estén doradas y fragantes, retíralas inmediatamente.
   Para darle un toque extra de sabor, decore con una pizca final de romero fresco.

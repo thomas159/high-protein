@@ -45,7 +45,7 @@ works:
   el líquido. Esto espesa naturalmente el caldo hasta convertirlo en una emulsión
   cremosa y estable sin agregar una gota de crema doble. Es como un PB para sus papilas
   gustativas, que impulsa su recuperación sin una preparación pesada. Busque una textura
-  espesa y brillante; si es acuosa, le falló la emulsión y necesita reducirla aún
+  espesa y brillante, si es acuosa, le falló la emulsión y necesita reducirla aún
   más.'
 - 'Vapor controlado: El microondas proporciona un ambiente cerrado de alta temperatura,
   eliminando por completo la necesidad de permanecer sobre una estufa revolviendo

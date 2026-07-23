@@ -1,8 +1,9 @@
 export const useFormatText = () => {
-  const formatText = (text: string | undefined | null, highlightColon: boolean = true) => {
+  const formatText = (text: any, highlightColon: boolean = true) => {
     if (!text) return ''
 
-    let formatted = text
+    // Ensure we are working with a string
+    let formatted = typeof text === 'string' ? text : String(text)
     
     if (highlightColon) {
       // Regex: ^ matches start of string, [\w\s]+ matches words/spaces, : matches colon

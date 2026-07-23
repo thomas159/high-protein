@@ -41,7 +41,7 @@ works:
   acuosa se repelen naturalmente entre sí. Los almidones de amilosa lixiviados en
   el agua de fideos reservada actúan como un emulsionante mecánico, uniendo físicamente
   las moléculas de grasa y agua en un glaseado espeso, brillante e irrompible. Busque
-  una textura brillante y espesa; si es acuosa, le falló la emulsión y necesita reducirla
+  una textura brillante y espesa, si es acuosa, le falló la emulsión y necesita reducirla
   aún más.'
 - 'Aromáticos crudos: el jengibre rallado y el ajo crudo brindan un bocado contundente
   que resiste las grasas pesadas.'

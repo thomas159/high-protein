@@ -1,17 +1,14 @@
---- 
+---
 categories:
 - airfryer
 title: Las batatas fritas extra crujientes definitivas para freidora de aire
 slug: las-batatas-fritas-extra-crujientes-definitivas-para-freidora-de-aire
 meta:
-  seoMetaDescription: ¿Quieres el acompañamiento perfecto? Estas batatas fritas extra
-    crujientes para freidora son un refrigerio vegano de 60 minutos macro-amigable.
-description: 'Disfrute del equilibrio perfecto entre dulce y salado con las mejores
-  batatas fritas extra crujientes. **Una guarnición de gran volumen con solo macros
-  sólidos**, ofrece un crujido saludable y satisfactorio con una fracción del aceite.
+  seoMetaDescription: Prepara unas batatas fritas en la freidora de aire súper crujientes. Un plato vegano y ligero, ideal para acompañar tus platos o comer como picoteo saludable.
+description: |
+  Disfruta de ese equilibrio perfecto entre lo dulce y lo salado con estas batatas fritas ultra crujientes. Una guarnición abundante, ligera y deliciosa que te da todo el gusto de unas patatas de bolsa pero con apenas grasa, hechas de forma saludable en la freidora de aire.
 
-  Cocinado a la perfección en la freidora. Probado varias veces para determinar el
-  tiempo de remojo exacto necesario para extraer el almidón.'
+  Tras varias pruebas, dimos con el truco definitivo del remojo previo para eliminar el exceso de almidón y conseguir esa textura crujiente insuperable.
 image: thick-cut-sweet-potato-fries_zip294
 alt: Batatas fritas de corte grueso apiladas en un plato
 pintrest: ''
@@ -23,42 +20,28 @@ keywords:
 - snack
 - sweet potato fries
 - vegan
-tipsTitle: Secretos de patatas fritas crujientes
+tipsTitle: Secretos crujientes
 tips:
-- 'El espacio es obligatorio: abarrotar la cesta equivale a cocinar al vapor. Déles
-  espacio para respirar para lograr el máximo crujido.'
-- 'El remojo con almidón: Remojar en agua fría durante 30 minutos elimina el almidón
-  de la superficie. Crucial para un exterior crujiente.'
-- 'Momento de sal: Solo sal *después* de cocinar. Salar las patatas crudas extrae
-  la humedad y arruina el crujido.'
+- 'Espacio suficiente: si llenas demasiado la cesta de la freidora, la batata se cocerá al vapor en lugar de freírse. Dales espacio para que corra el aire caliente y queden súper crujientes.'
+- 'El truco del remojo: poner la batata cortada en agua fría durante 30 minutos ayuda a retirar el almidón sobrante de la superficie. Esto es clave para que queden muy tostadas y crujientes por fuera.'
+- 'Sálalas al final: añade la sal justo después de cocinarlas. Echar de más antes de tiempo hace que la batata suelte agua en la freidora y pierda todo el crujiente.'
 works:
-- 'Extracción y deshidratación de almidón: Remojar las batatas lixivia los almidones
-  de amilosa de la superficie que normalmente hacen que las patatas fritas se quemen
-  y se peguen. Luego, la freidora deshidrata violentamente el exterior, lo que obliga
-  a los complejos azúcares naturales a caramelizarse hasta formar una cáscara rígida
-  y crujiente.'
-- 'Evaporación de la humedad: la freidora elimina violentamente el alto contenido
-  de agua, logrando un crujido que los hornos estándar simplemente no pueden tocar
-  sin freír con aceite.'
+- 'Adiós al exceso de almidón: al remojar la batata, retiramos los almidones superficiales que suelen hacer que se quemen rápido y se queden pegajosas. Después, el calor seco de la freidora de aire evapora el agua exterior y carameliza los azúcares de la batata de forma suave, creando una fina corteza súper tostada y crujiente.'
+- 'Poder crujiente: el aire circulante de la freidora evapora rápidamente la humedad de los bastones de batata. Así logras un punto crujiente único que un horno normal no puede igualar sin usar un exceso de aceite.'
 use:
-- 'Burger Sidekick: la combinación de élite para una hamburguesa pesada a base de
-  plantas.'
-- 'Bocadillo de volumen: una porción enorme y rica en nutrientes cuando llegan los
-  antojos.'
-- 'Base cargada: Corónalas con frijoles negros y aguacate para una comida completa.'
+- 'Acompañamiento clásico: la guarnición perfecta para acompañar una buena hamburguesa casera.'
+- 'Snack saciante: una opción súper nutritiva y abundante para calmar el picoteo de las tardes de forma saludable.'
+- 'Batatas cargadas: añádeles unos frijoles negros y un poco de aguacate troceado por encima para montarte un platazo completo.'
 tags:
 - snack
 - vegan
 variations:
-- 'Azúcar de canela: mezcle con una pizca de canela para obtener un dulce sabor.'
-- 'Cajún picante: espolvoréelos con pimentón ahumado y cayena.'
+- 'Toque dulce: remuévelas con una pizca de canela y una pizca ligera de azúcar de coco para un toque goloso.'
+- 'Estilo cajún: espolvorea un poco de pimentón de la Vera, ajo en polvo y un toque de cayena para un sabor ahumado y picante.'
 rating: null
 reviews: null
-servingSuggestions: Disfrútelos inmediatamente con un alioli de ajo picante o mayonesa
-  de chipotle ahumado. El acompañamiento perfecto para una hamburguesa vegetariana
-  apilada.
-storageInstructions: Nevera por 3 días. Mételo en la freidora para resucitar el crujido.
-  No los congeles.
+servingSuggestions: Disfrútalas calientes al momento junto con una salsa suave de ajo o mayonesa con chipotle. Son el complemento ideal para una hamburguesa vegetal recién hecha.
+storageInstructions: Se conservan en la nevera hasta 3 días. Para que vuelvan a estar bien crujientes, dales un toque rápido en la freidora de aire antes de comerlas. No las congeles.
 prepTimeMins: 30
 cookTimeMins: 30
 servings: 1
@@ -76,19 +59,12 @@ ingredients:
   amount: 1
 faq:
 - question: ¿Necesito pelar las batatas?
-  answer: No. La piel aporta fibra extra y una textura brillante. Simplemente frótelos
-    y límpielos.
+  answer: No. La piel aporta fibra extra y una textura brillante. Simplemente frótelas y límpielas.
 - question: ¿Por qué mis batatas fritas están empapadas?
-  answer: Abarrotó la canasta o se saltó el remojo de 30 minutos. Errores de novato
-    que provocan que se cocine al vapor en lugar de quedar crujiente.
+  answer: Abarrotó la canasta o se saltó el remojo de 30 minutos. Errores que provocan que se cocine al vapor en lugar de quedar crujiente.
 steps:
-- Cortar en palitos de 1 cm. Sumérgelo en agua fría durante 30 minutos para eliminar
-  el almidón y luego sécalo con palmaditas suaves.
-- Mezcle agresivamente en un bol con aceite.
-- Sepárelos en la canasta. Calentar a 190°C durante 20-30 minutos. Cocine en tandas
-  si es necesario. Agite la cesta violentamente cada 5 minutos.
-- Sácalos cuando estén carbonizados. Déjelos reposar en la canasta durante 60 segundos
-  para que queden crujientes. Si te saltas la fase de descanso, se volverán flácidos
-  en el momento en que lleguen al plato.
+- Corta la batata en palitos de aproximadamente 1 cm de grosor. Ponlos a remojo en agua fría durante 30 minutos para quitarles el exceso de almidón y sécalos muy bien con un paño limpio o papel absorbente.
+- Pon las batatas en un bol grande, añade el chorrito de aceite de oliva y remueve bien para que queden impregnadas por igual.
+- Repártelas en la cesta de la freidora, procurando no amontonarlas (hazlo en un par de tandas si es necesario). Cocina a 190°C durante unos 20-30 minutos, agitando la cesta con energía cada 5-10 minutos de forma que se doren uniformemente.
+- Sácalas cuando veas los bordes dorados. Déjalas reposar en la cesta unos 60 segundos fuera del calor. Este pequeño descanso es fundamental para que la batata se asiente y quede bien crujiente antes de servir.
 ---
-

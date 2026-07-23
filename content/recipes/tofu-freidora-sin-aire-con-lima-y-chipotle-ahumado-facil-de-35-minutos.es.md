@@ -52,7 +52,7 @@ works:
   el ácido no podrá penetrar.'
 - 'Caramelización del azúcar: Los azúcares naturales de la salsa de adobo se carbonizan
   rápidamente bajo el calor de la freidora, formando una corteza estilo barbacoa adecuada.
-  Esté atento a una corteza oscura y pegajosa; si está pálida, necesita más calor.'
+  Esté atento a una corteza oscura y pegajosa, si está pálida, necesita más calor.'
 use:
 - 'Taco Fuel: La proteína ahumada definitiva para la noche mexicana.'
 - 'Aderezo para ensalada: Mézclelo frío en un tazón de frijoles negros y maíz.'

@@ -46,7 +46,7 @@ works:
   térmico. Garantiza que el exterior se deshidrate y quede crujiente por completo
   antes de que la temperatura central aumente lo suficiente como para licuar el queso
   y provocar una explosión. Es como un PB para sus papilas gustativas, que impulsa
-  su recuperación sin una preparación pesada. Busque una textura espesa y brillante;
+  su recuperación sin una preparación pesada. Busque una textura espesa y brillante,
   si es acuosa, le falló la emulsión y necesita reducirla aún más.'
 - 'Convección rápida: el intenso calor circulante imita la fritura al evaporar rápidamente
   la humedad de la superficie, brindándole ese auténtico chasquido sin absorción de

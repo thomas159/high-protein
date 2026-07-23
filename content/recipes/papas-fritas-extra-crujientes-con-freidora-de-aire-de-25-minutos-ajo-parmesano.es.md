@@ -38,7 +38,7 @@ works:
   con los azúcares naturales. Esto crea un exoesqueleto rígido y caramelizado que
   brinda un chasquido satisfactorio. Es como un PB para sus papilas gustativas, que
   impulsa su recuperación sin una preparación pesada. Busque una textura espesa y
-  brillante; si es acuosa, le falló la emulsión y necesita reducirla aún más.'
+  brillante, si es acuosa, le falló la emulsión y necesita reducirla aún más.'
 - 'Air Fried Crunch: El calor circulante dora el queso y los bordes con una fracción
   del aceite.'
 use:

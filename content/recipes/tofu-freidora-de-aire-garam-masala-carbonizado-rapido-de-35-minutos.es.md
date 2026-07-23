@@ -62,7 +62,7 @@ servingSuggestions: Sirva esto junto con una montaña de arroz basmati o pan naa
   Combina perfectamente con una refrescante raita de pepino y menta.
 shelf_life: Airtight tub in the fridge for 5 days.
 storageInstructions: Refrigere el tofu marinado crudo durante 5 días. Se congela brillantemente
-  durante 3 meses; descongelarlo mejora la textura masticable.
+  durante 3 meses, descongelarlo mejora la textura masticable.
 whyTitle: Why marinate tofu?
 why:
 - 'Deeper Flavour: Letting it sit drags the aromatics past the surface layer. It''s

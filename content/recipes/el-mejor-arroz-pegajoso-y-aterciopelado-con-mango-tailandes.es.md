@@ -66,7 +66,7 @@ servingSuggestions: Sirva ligeramente tibio para que el glaseado de coco se acum
   alrededor del mango fresco. Cubra con semillas de sésamo tostadas para obtener un
   crujido crucial.
 storageInstructions: Cómelo fresco. Las sobras del refrigerador sobreviven 2 días,
-  pero se vuelven duras como piedras; caliéntelas en el microondas con una toalla
+  pero se vuelven duras como piedras, caliéntelas en el microondas con una toalla
   de papel húmeda para resucitarlas. No congelar.
 prepTimeMins: 5
 cookTimeMins: 10

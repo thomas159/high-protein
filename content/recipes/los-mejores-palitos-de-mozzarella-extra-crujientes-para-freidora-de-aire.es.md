@@ -38,7 +38,7 @@ works:
   la cubierta antes de que la corteza se endurezca.'
 - 'La corteza perfecta: La harina y el huevo forman una cáscara sólida bajo el calor
   intenso, encerrando el queso derretido en su interior. Esté atento a una corteza
-  de color marrón dorado intenso; si se ve pálida, necesita más tiempo.'
+  de color marrón dorado intenso, si se ve pálida, necesita más tiempo.'
 use:
 - 'Cheat Day Starter: el pistoletazo de salida definitivo para una retroalimentación
   italiana.'
