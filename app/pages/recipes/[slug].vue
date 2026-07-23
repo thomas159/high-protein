@@ -227,7 +227,7 @@ useHead({
 </script>
 
 <template>
-  <main v-if="recipe">
+  <article v-if="recipe">
 
     <RecipesHero :recipe="recipe" />
 
@@ -244,9 +244,9 @@ useHead({
           
         <div v-if="relatedCollections?.length" class="mt-4 mb-8 space-y-6">
           <div v-for="collection in relatedCollections" :key="collection.path">
-            <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 flex items-center gap-2">
-              <Icon name="ph:sparkle-duotone" class="w-6 h-6 text-green-500" />
-              {{ t('recipes.whyWorks', { title: recipe.title }) }}
+            <h3 class="text-sm font-bold uppercase tracking-widest text-slate-500 mb-4 flex items-center gap-2">
+              <Icon name="ph:sparkle-duotone" class="w-4 h-4 text-emerald-500" />
+              {{ t('recipes.featuredIn') }}
             </h3>
             <CollectionCard :collection="collection" />
           </div>
@@ -257,9 +257,44 @@ useHead({
         </div>
 
         <h2 v-if="recipe.works?.length" id="works" class="mt-8">{{ t('recipes.whyWorks', { title: recipe.title }) }}</h2>
-        <div v-if="recipe.works?.length" class="mt-4 space-y-4">
+        <div v-if="recipe.works?.length" class="mt-4 space-y-4 border-b border-border pb-8">
           <p v-for="(work, index) in recipe.works" :key="index" class="text-muted-foreground" v-html="formatText(work)" />
         </div>
+
+        <div class="lg:hidden mt-12">
+          <RecipesIngredients :recipe="recipe" />
+        </div>
+
+        <h2 id="howToMake" class="scroll-mt-20 mt-12">{{ t('recipes.howToMake', { title: recipe.title }) }}</h2>
+        <div class="markdown-recipe-body mt-6 border-b border-border pb-12">
+          <ol>
+            <li v-for="(step, index) in recipe.steps" :key="index">
+              <div class="step-content flex flex-col gap-4">
+                <template v-if="step.text">
+                  <p v-html="formatText(step.text)"></p>
+                  <Img 
+                    v-if="step.image" 
+                    :src="step.image" 
+                    :alt="`Step ${index + 1} for making ${recipe.title}`" 
+                    class="w-full max-w-[400px] !h-auto aspect-video rounded-lg object-cover"
+                  />
+                </template>
+                <template v-else>
+                  <p v-html="formatText(step)"></p>
+                </template>
+              </div>
+            </li>
+          </ol>
+        </div>
+
+        <div v-if="recipe.muscleBuildingTip" id="muscleBuildingTip" class="my-12 bg-emerald-500/5 dark:bg-emerald-500/10 border-l-4 border-emerald-500 p-6 rounded-r-xl shadow-sm">
+          <h2 class="mt-0 text-emerald-700 dark:text-emerald-400 flex items-center gap-2 pb-2">
+            <Icon name="ph:muscle-bold" class="w-6 h-6" />
+            {{ t('recipes.muscleTips') }}
+          </h2>
+          <p class="text-muted-foreground" v-html="formatText(recipe.muscleBuildingTip)" />
+        </div>
+
 
         <h2 v-if="recipe.flavour?.length" id="flavour" class="mt-8">{{ t('recipes.flavourProfile') }}</h2>
         <div v-if="recipe.flavour?.length" class="mt-4 space-y-4">
@@ -276,14 +311,7 @@ useHead({
           <p v-for="(u, index) in recipe.use" :key="index" class="text-muted-foreground" v-html="formatText(u)" />
         </div>
 
-        <div v-if="randomizedRecipes?.length" id="youMightAlsoLike">
-          <MobileScroll 
-            :recipes="randomizedRecipes" 
-            :title="t('recipes.youMightLike')"
-            class="pt-6"
-          />
-        </div>
-        
+
         <h2 v-if="recipe.whyTitle && recipe.why?.length" id="why" class="mt-8">{{ recipe.whyTitle }}</h2>
         <div v-if="recipe.why?.length" class="mt-4 space-y-4">
           <p v-for="(reason, index) in recipe.why" :key="index" class="text-muted-foreground" v-html="formatText(reason)" />
@@ -294,50 +322,13 @@ useHead({
           <p v-for="(tip, index) in recipe.tips" :key="index" class="text-muted-foreground" v-html="formatText(tip)" />
         </div>
 
-        <h2 v-if="recipe.muscleBuildingTip" id="muscleBuildingTip" class="mt-8">{{ t('recipes.muscleTips') }}</h2>
-        <p class=" text-muted-foreground mb-12" v-html="formatText(recipe.muscleBuildingTip)" />
+
 
         <h2 v-if="recipe.servingSuggestions" id="servingSuggestions" class="mt-8">{{ t('recipes.servingSuggestions') }}</h2>
         <p class=" text-muted-foreground" v-html="formatText(recipe.servingSuggestions)" />
 
 
-        <div class="lg:hidden mt-8">
-          <RecipesIngredients :recipe="recipe" />
-        </div>
-
-        <h2 id="howToMake" class="scroll-mt-20 mt-8">{{ t('recipes.howToMake', { title: recipe.title }) }}</h2>
-        <div class="markdown-recipe-body mt-6">
-          <ol>
-            <li v-for="(step, index) in recipe.steps" :key="index">
-            <!-- Your step number column usually goes here -->
-            <!-- <div class="step-number">Step {{ index + 1 }}</div> -->
-              
-              <!-- Wrap the content in a div so it stays in ONE column -->
-              <div class="step-content flex flex-col gap-4">
-                
-                <!-- Check if it is the new object format -->
-                <template v-if="step.text">
-                  <p v-html="formatText(step.text)"></p>
-                  <!-- The image will now render directly underneath the text -->
-                  <Img 
-                    v-if="step.image" 
-                    :src="step.image" 
-                    :alt="`Step ${index + 1} for making ${recipe.title}`" 
-                    class="w-full max-w-[400px] !h-auto aspect-video rounded-lg object-cover"
-                  />
-                </template>
-                
-                <!-- Fallback for older recipes that use strings -->
-                <template v-else>
-                  <p v-html="formatText(step)"></p>
-                </template>
-                
-              </div>
-            </li>
-          </ol>
-        </div>
-
-        <h2 v-if="recipe.storageInstructions" id="storage" class="mt-8 ">{{ t('recipes.storage', { title: recipe.title }) }}</h2>
+<h2 v-if="recipe.storageInstructions" id="storage" class="mt-8 ">{{ t('recipes.storage', { title: recipe.title }) }}</h2>
         <p class=" text-muted-foreground" v-html="formatText(recipe.storageInstructions)" />
 
            <!-- New FAQ Section -->
@@ -354,6 +345,14 @@ useHead({
             class="max-w-3xl"
           />
         </section>
+
+        <div v-if="randomizedRecipes?.length" id="youMightAlsoLike" class="mt-12 border-t border-border pt-12">
+          <MobileScroll 
+            :recipes="randomizedRecipes" 
+            :title="t('recipes.youMightLike')"
+            class="pt-6"
+          />
+        </div>
 
         <!-- <div v-if="recipe.dontTitle && recipe.dont" class="bg-blue-50 border-l-4 border-blue-400 p-4 my-4">
             <div class="flex">
@@ -393,10 +392,10 @@ useHead({
       <RecipeCard v-for="relatedRecipe in relatedRecipes" :key="relatedRecipe.slug" :recipe="relatedRecipe" />
     </div>
 
-  </main>
-  <main v-else>
+  </article>
+  <div v-else>
     <p>{{ t('recipes.loading') }}</p>
-  </main>
+  </div>
 </template>
 
 <style scoped>
