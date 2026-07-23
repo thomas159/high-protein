@@ -5,16 +5,8 @@ categories:
 title: Easy 30-Minute Extra Crispy Air Fryer Kimchi Fries
 slug: air-fryer-kim-chi-fries
 meta:
-  seoMetaDescription: Ultimate weekend refeed? These easy 30-minute extra crispy air
-    fryer kimchi fries are packed with umami and melted cheese.
-description: 'A brilliant fusion of spicy, fermented kimchi and melted cheddar over
-  easy 30-minute extra crispy fries. The air fryer blasts away the moisture, giving
-  you a deep-fried crunch without being weighed down by oil.
-
-
-  The ultimate weekend cheat meal. Tested multiple times to balance the sharp, acidic
-  kimchi against the rich cheddar, ensuring the flavour profile hits perfectly without
-  becoming overly salty.
+  seoMetaDescription: Looking for a proper umami hit? These extra crispy air fryer kimchi fries demand minimal prep for maximum flavour, fully loaded and ready in 30 minutes.
+description: 'A brilliant fusion of spicy, fermented kimchi and melted cheddar over extra crispy chips (fries). The air fryer blasts away moisture to give you a deep-fried crunch without needing a vat of boiling oil. It is a fantastic option when you want a fast, fiery recovery meal after hitting a heavy workout.
 
   '
 image: air-fryer-kim-chi-fries_u7kuzj
@@ -22,25 +14,16 @@ alt: Air fryer kimchi fries topped with melted cheese and sesame seeds
 pintrest: ''
 tipsTitle: Fry Hacks
 tips:
-- 'Crispy Secret: Soaking the cut potatoes in cold water for 30 minutes removes excess
-  starch, guaranteeing an extra crispy exterior instead of a soggy fry.'
-- 'Cheese Layering: Add half the cheese halfway through the kimchi mixing, and sprinkle
-  the rest on top so it melts through every layer.'
-- 'Sauce Consistency: If your Gochujang glaze gets too thick while sautéing, loosen
-  it with a teaspoon of water or sesame oil to ensure it coats the fries evenly.'
+- 'Crispy Secret: Soaking the cut potatoes in cold water removes excess starch, guaranteeing an extra crispy shell rather than a sad, floppy chip.'
+- 'Cheese Layering: Add half your cheese halfway through the kimchi mixing, and scatter the remaining cheddar on top for complete gooey coverage.'
+- 'Sauce Consistency: If your hot glaze gets too thick in the pan, loosen it with a tiny splash of water or sesame oil so it coats the chips evenly.'
 works:
-- 'Starch Dehydration: Soaking the potatoes removes surface amylose, preventing the
-  fries from gluing together. The air fryer''s rapid convection then violently strips
-  surface moisture, creating a rigid starch crust that doesn''t collapse under the
-  heavy, wet kimchi.. It’s like a PB for your tastebuds, fuelling your recovery without
-  the heavy prep.. Look for a glossy, thick texture—if it’s watery, you’ve failed
-  the emulsion and need to reduce it further.'
-- 'Flavour Balancing: The sharp, acidic tang of the kimchi perfectly cuts through
-  the rich heaviness of the cheddar cheese and starchy potatoes.'
+- 'The Dry Spud Trick: Soaking the spuds gets rid of surface starch, preventing the chips from gluing together. Air frying then quickly seals the surface, forming a rigid crust that survives the wet kimchi layer.'
+- 'High Umami Contrast: The sharp, acidic tang of fermented kimchi cuts through the rich cheddar cheese and starchy potato base, keeping every bite clean rather than heavy.'
 use:
-- 'Party Snack: The ultimate crowd-pleasing sharing platter.'
-- 'Side Dish: Pairs perfectly with a thick, juicy veggie burger.'
-- 'Late Night Treat: Hits every craving for salty, spicy, and cheesy.'
+- 'Sharing Platter: A stellar sharing plate when you have mates round.'
+- 'Burger Partner: Pairs beautifully next to a thick, high-protein veggie burger.'
+- 'Late Night Fix: Knocks out any craving for salty, spicy, and cheesy food.'
 tags:
 - fusion
 - gluten-free
@@ -54,21 +37,15 @@ keywords:
 - snack
 whyTitle: Why use an air fryer?
 why:
-- 'Reduced Fat: Achieve that signature crunch with just a splash of heart-healthy
-  olive oil.'
-- 'Consistent Heat: No hot spots—the air fryer ensures every fry is evenly browned.'
+- 'Reduced Fat: Achieve a legendary deep-fried crunch with just a single splash of olive oil.'
+- 'Even Browning: No hot spots—the circulating air ensures every single chip is evenly golden.'
 variations:
-- 'Protein Packed: Top with crispy tofu cubes or a fried egg.'
-- 'Extra Cheesy: Mix mozzarella with the cheddar for a great cheese pull.'
+- 'Protein Power-Up: Top with quick crispy tofu cubes or a fried egg.'
+- 'Stretchy Upgrade: Mix in a pinch of vegetarian mozzarella with the cheddar for a superior cheese pull.'
 rating: null
 reviews: null
-servingSuggestions: These bold, fusion-style fries are incredibly satisfying on their
-  own, but pairing them with a cooling element can elevate the dish. A drizzle of
-  sriracha mayo or a side of creamy avocado slices helps to tame the spicy heat of
-  the kimchi. Serve them as a hearty appetizer or alongside a plant-based Korean-style
-  BBQ burger for an unforgettable weekend feast.
-storageInstructions: Best served fresh. Leftovers will lose their crispness but can
-  be stored in the fridge for up to 2 days and reheated in the air fryer. Do not freeze.
+servingSuggestions: These bold, fusion-style fries are incredibly satisfying on their own, but pairing them with a cooling element can elevate the dish. A drizzle of sriracha mayo or a side of creamy avocado slices helps to tarnish the spicy heat of the kimchi. Serve them as a hearty appetizer or alongside a plant-based Korean-style BBQ burger for an unforgettable weekend feast.
+storageInstructions: Best served fresh. Leftovers will lose their crispness but can be stored in the fridge for up to 2 days and reheated in the air fryer. Do not freeze.
 prepTimeMins: 5
 cookTimeMins: 25
 servings: 1
@@ -111,24 +88,13 @@ ingredients:
   unit: tsp
 faq:
 - question: What can I use if I don't have Gochujang?
-  answer: You can mix a little sriracha with a pinch of sugar and miso paste as a
-    quick substitute, though it won't have the exact same fermented depth.
+  answer: You can mix a little sriracha with a pinch of sugar and miso paste as a quick substitute, though it won't have the exact same fermented depth.
 - question: Are kimchi fries overly spicy?
-  answer: They have a moderate, savory heat. The cheese helps cool down the spice
-    from the kimchi and gochujang significantly!
+  answer: They have a moderate, savory heat. The cheese helps cool down the spice from the kimchi and gochujang significantly!
 steps:
-- Scrub the potatoes and slice them into uniform sticks. Toss aggressively in a bowl
-  with olive oil and seasonings. Using a bowl ensures even coverage without drenching
-  them.
-- Arrange the potatoes in the basket. Overcrowding kills the crunch. Air fry for 18-24
-  minutes at 190°C, shaking the basket violently halfway through.
-- Sauté the kimchi in a pan for 2-3 minutes to cook off the raw edge. Stir in the
-  soy sauce, sugar, and Gochujang. Cook until the sauce turns thick, glossy, and heavily
-  coats the kimchi. If it dries out into a paste, add a tiny splash of water.
-- Once the fries are golden-brown and fragrant, remove them and toss immediately with
-  the hot, saucy kimchi
-- Plate the fries while steaming hot. Immediately top with grated cheddar so it melts
-  into the kimchi, then garnish with sesame seeds and fresh spring onions (scallions)
-  for crunch.
+- Scrub the potatoes and slice them into uniform sticks. Toss thoroughly in a large bowl with olive oil and salt until every piece is lightly coated. Using a bowl gets everything seasoned evenly without making the spuds soggy.
+- Arrange the potatoes in the basket, keeping them spaced out to let the air circulate. Air fry for 18-24 minutes at 190c, giving the basket a good shake halfway through.
+- Fry the kimchi in a small pan for a couple of minutes to cook off the raw edge. Stir in the soy sauce, sugar, and Gochujang, cooking until the glaze turns glossy and heavily coats the kimchi. If it dries out too much, toss in a tiny splash of water.
+- Once the fries are golden-brown and properly crispy, tip them out and toss immediately with the hot, saucy kimchi.
+- Plate up while steaming hot. Immediately scatter the grated cheddar over the top so it melts into the warm kimchi, then garnish with sesame seeds and fresh spring onions (scallions) for crunch.
 ---
-

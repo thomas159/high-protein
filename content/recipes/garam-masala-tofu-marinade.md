@@ -7,18 +7,14 @@ categories:
 title: Quick 35-Minute Charred Garam Masala Air Fryer Tofu
 slug: garam-masala-tofu-marinade
 meta:
-  seoMetaDescription: Upgrade your meal prep! This quick 35-minute charred Garam Masala
-    air fryer tofu is a high-protein vegan powerhouse.
-description: 'This quick Garam Masala marinade is a flavour powerhouse. The lime juice
-  tenderises the tofu, letting the earthy ginger and Indian spices penetrate right
-  to the core.
+  seoMetaDescription: Upgrade your meal prep! This quick 35-minute charred Garam Masala air fryer tofu is a high-protein vegan powerhouse.
+description: 'This quick Garam Masala marinade is an absolute flavour powerhouse. Squeezing fresh lime juice tenderises the tofu surface, helping the warm, earthy ginger and aromatics sink right to the core.
 
 
-  It builds a phenomenal charred crust in the air fryer. High-protein, totally vegan,
-  and zero BS—the perfect fuel for your gains.
+  It builds a brilliant charred crust in the air fryer. Think of it as a low-fat, high-protein weapon to keep in your meal-prep arsenal when you are sick of bland food.
 
 
-  Tested to ensure the spices bloom perfectly without burning under the intense heat.
+  No endless marinading lists—just a quick, tactical mix that transforms plain tofu cubes into elite post-workout fuel.
 
   '
 image: garam-masala-tofu-marinade_yfdnmb
@@ -38,20 +34,13 @@ keywords:
 - vegan
 tipsTitle: Spice & Char
 tips:
-- 'Tofu Prep: Check out our [Ultimate Quick Tofu Prep Hacks](/collections/easy-quick-tofu-prep-hacks)
-  to nail the perfect texture before cooking.'
-- 'Yoghurt Base: For a proper ''tandoori'' coating, mix the spices into 2 tablespoons
-  of dairy-free yoghurt.'
-- 'Spice Blooming: Toast the garam masala in a dry pan for 30 seconds first to violently
-  awaken the aromatics.'
-- 'Patience Pays Off: 30 minutes works, but overnight in the fridge delivers restaurant-quality
-  depth.'
+- 'Tofu Prep: Check out our [Ultimate Quick Tofu Prep Hacks](/collections/easy-quick-tofu-prep-hacks) to nail the perfect texture before cooking.'
+- 'Yoghurt Base: For a proper cooked-on coating, mix the spices into a dollop of dairy-free yoghurt.'
+- 'Spice Blooming: Toast the garam masala in a dry pan for thirty seconds first to wake up those rich aromatics.'
+- 'Patience Pays Off: Thirty minutes works, but overnight in the fridge delivers proper restaurant-quality depth.'
 works:
-- 'Flavour Absorption: The lime juice breaks down the tofu''s surface just enough
-  to let those heavy Indian spices sink right to the core. If the tofu isn''t pressed
-  properly, the water will block the marinade.'
-- 'Char Factor: High heat caramelises the ginger and garlic paste into an elite crust.
-  Look for dark, crispy edges that signal the perfect Maillard reaction.'
+- 'The Lime Trick: The acid in the citrus juice tenderises the dense outer surface of the tofu. This lets the warm Indian spices get deep into the core rather than just sliding off and burning.'
+- 'Ginger Garlic Crust: High heat cooks the sugars in the ginger and garlic paste, forming a golden, charred crust. Look for darkened, crispy edges—that is where the flavour lives.'
 use:
 - 'Curry Protein: Blast in the air fryer and drop into a simmering masala.'
 - 'Wrap Filling: Serve in a flatbread with mint yoghurt.'
@@ -63,12 +52,10 @@ servingSuggestions: Serve this alongside a mountain of basmati rice or fluffy na
 shelf_life: Airtight tub in the fridge for 5 days.
 storageInstructions: Fridge the uncooked marinated tofu for 5 days. Freezes brilliantly
   for 3 months, thawing actually improves the chewy texture.
-whyTitle: Why marinate tofu?
+whyTitle: Why Marinate?
 why:
-- 'Deeper Flavour: Letting it sit drags the aromatics past the surface layer. It''s
-  all about time under tension for maximum results.'
-- 'The Perfect Char: Garlic and ginger sugars caramelise under high heat for elite
-  ''tandoori-style'' crispy edges.'
+- 'Deeper Flavour: Letting it sit drags the aromatics past the surface layer. It is all about time under tension for maximum results.'
+- 'The Perfect Char: Garlic and ginger sugars caramelise under high heat for proper crispy edges.'
 - 'Lean Macros: A massive flavour punch without touching heavy creams or oils.'
 variations:
 - 'Veggie Skewers: Thread peppers and onions onto skewers alongside the tofu.'

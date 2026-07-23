@@ -41,12 +41,13 @@ tips:
 - 'Silicone is Mandatory: Paper liners or bare metal will fuse to the egg like concrete.
   Use silicone.'
 - 'Fridge Clearance: Add in whatever leftover veg you have—spinach, peppers, mushrooms.'
-- 'Volume Control: Eggs expand aggressively. Only fill 3/4 full or you''ll be scraping
+- 'Volume Control: Eggs swell up dramatically. Only fill 3/4 full or you''ll be scraping
   burnt egg off your air fryer element.'
 works:
-- 'Perfect Puff: The intense circulating heat rapidly turns the water inside the beaten
-  eggs into steam, puffing them up while the eggs set into a light, fluffy bite. Look
-  for a glossy, thick texture—if it’s watery, it needs more time.'
+- 'Steam Loft Trick: The intense circulating heat rapidly turns the moisture inside the beaten
+  eggs into steam, puffing them up while the eggs set into a light, fluffy bite. The eggs
+  should be fully set with a slight golden browning on top—if they wiggle in the center,
+  they need extra time.'
 - 'Flavour Efficiency: Sun-dried tomatoes and feta deliver a massive umami hit with
   zero extra prep.'
 whyTitle: Why This Combination Works
@@ -96,7 +97,7 @@ faq:
   answer: Egg muffins naturally puff up in the air fryer and deflate slightly as they
     cool. This is completely normal and doesn't affect the taste!
 steps:
-- Crack the eggs, beat them aggressively with a fork until completely uniform and
+- Crack the eggs, beat them thoroughly with a fork until completely uniform and
   frothy, and pour the mixture straight into a silicone muffin case. If you don't
   beat it enough, you'll get rubbery white streaks.
 - Drop the chopped sun-dried tomatoes, spring onion (scallion) and crumbled feta cheese

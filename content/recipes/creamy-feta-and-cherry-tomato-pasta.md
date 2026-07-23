@@ -5,42 +5,28 @@ categories:
 title: Easy 15-Minute Ultra-Creamy Feta & Cherry Tomato Pasta
 slug: creamy-feta-and-cherry-tomato-pasta
 meta:
-  seoMetaDescription: Weeknight savior! This easy 15-minute ultra-creamy feta & cherry
-    tomato pasta is a satisfying Italian vegetarian dinner.
-description: 'This easy pasta is a delicious, low-effort dish perfect for busy weeknights
-  or when you''re craving a comforting carb refeed. The combination of sweet cherry
-  tomatoes, pasta, and an ultra-creamy feta sauce creates a brilliant meal.
+  seoMetaDescription: Weeknight saviour! This easy 15-minute ultra-creamy feta & cherry tomato pasta is a satisfying Italian vegetarian dinner.
+description: 'The absolute weeknight saviour when you need a proper carb refeed. Juicy cherry tomatoes and salty feta melt together in a single pan, delivering a rich, velvety sauce with zero fuss.
 
 
-  Guaranteed to hit the spot and fuel your recovery. It''s a heavy-lifting meal that
-  takes minimal prep.
+  It is the ultimate post-training meal that looks like you spent hours in the kitchen, but actually takes less time than a quick trip to the shop.
 
 
-  Tested to ensure the feta melts into a smooth sauce without turning grainy.
+  No complicated techniques—just simple ingredients combined beautifully to help you hit your goals.
 
   '
 blurb: []
 image: feta-and-cherry-tomato-pasta_k93wad
 alt: Creamy feta and cherry tomato pasta in a bowl
-tipsTitle: Pasta Mechanics
+tipsTitle: Pasta Strategy
 tips:
-- 'Vegan Swap: Easily plant-based. Use soy or oat cream and sub the dairy feta for
-  a high-quality vegan block.'
-- 'Jammy Tomatoes: Halve the cherry tomatoes before sautéing. They release their juices
-  faster and build a sweet, rustic jam base.'
-- 'Feta Selection: Always buy block feta suspended in brine. Pre-crumbled tubs are
-  coated in dust and melt like gravel.'
-- 'Wine Pairing: A dry, crisp white wine like Pinot Grigio slices straight through
-  the heavy richness.'
+- 'Vegan Swap: Easily plant-based. Use soy or oat cream and sub the dairy feta for a high-quality vegan block.'
+- 'Jammy Tomatoes: Halve the cherry tomatoes before cooking. They release their juices faster and build a sweet, rustic sauce base.'
+- 'Feta Selection: Always buy block feta suspended in brine. Pre-crumbled tubs are coated in starch to stop them sticking, meaning they melt like gravel.'
+- 'Wine Pairing: A dry, crisp white wine like Pinot Grigio slices straight through the heavy richness.'
 works:
-- 'Acid and Fat Synergy: The sharp acidity of the wine and tomatoes violently cuts
-  the heavy cream and salty feta. Look for the tomatoes to blister and burst, releasing
-  their sweet juices.'
-- 'Starch-Stabilised Emulsion: Feta is prone to splitting into a grainy, oily mess
-  when heated. By aggressively tossing the melting cheese with starchy pasta water,
-  the starch molecules physically intercept the fat and water, binding them into a
-  thick, unbreakable, ultra-creamy sauce. If it splits, add more pasta water and whisk
-  vigorously.'
+- 'Acidity Cuts Cream: The sharp, juicy tomatoes and a splash of wine cut right through the rich, heavy cream and salty feta. Look for the tomatoes to blister and burst open, turning into a sweet, rich glaze.'
+- 'Creamy Noodle Trick: Feta can easily split into an oily, granular mess when heated. The trick is tossing the melting cheese with starchy pasta water. The starch holds the oil and water together, binding everything into a thick, unbreakable, glossy sauce. If it starts to look dry or split, just ladle in a splash more pasta water.'
 use:
 - 'Weeknight Saviour: A luxurious, heavy carb refeed in exactly 15 minutes.'
 - 'Macro Lunch: Tastes incredible reheated the next day.'
@@ -59,7 +45,7 @@ rating: null
 reviews: null
 variations:
 - 'Volume Boost: Fold in massive handfuls of baby spinach until wilted.'
-- 'Protein Spike: Toss in cooked white beans or crispy tofu cubes.'
+- 'Protein Spike: Toss in cooked white grains or bean mix, or crispy tofu cubes.'
 servingSuggestions: Serve this immediately while the feta is warm and creamy. Superset
   with roasted asparagus and a crisp white wine.
 storageInstructions: Fridge for 3 days. Reheat gently with a splash of boiling water.
@@ -85,7 +71,6 @@ ingredients:
 - item: Garlic clove
   type: minced
   amount: 1
-  unit: g
 - item: white wine
   amount: 30
   unit: ml
@@ -105,16 +90,10 @@ faq:
   answer: Block feta in brine, always. Pre-crumbled has anti-caking agents that make
     it gritty.
 steps:
-- Boil the pasta in heavily salted water until al dente. Reserve a mug of starchy
-  cooking water before draining.
-- Heat olive oil in a pan over medium. Sauté the tomatoes and garlic for 2 minutes.
-  Pour in the wine and simmer until reduced by half.
-- Stir in the veg stock and cream. Simmer for 3 minutes until thick. Crumble in the
-  feta. Don't over-stir if you like chunky cheese pockets, or whisk aggressively for
-  a smooth sauce.
-- Drop the pasta straight into the sauce. Toss vigorously, adding a splash of pasta
-  water to build that glossy finish.
-- Pull it off the heat immediately. Garnish with fresh basil and a heavy crack of
-  black pepper.
+- Boil the pasta in heavily salted water until al dente. Reserve a mug of starchy cooking water before draining.
+- Heat olive oil in a pan over medium. Sauté the tomatoes and garlic for 2 minutes. Pour in the wine and simmer until reduced by half.
+- Stir in the veg stock and cream. Simmer for 3 minutes until thick. Crumble in the feta. Don't over-stir if you like chunky cheese pockets, or whisk thoroughly for a smooth sauce.
+- Drop the pasta straight into the sauce. Toss well, adding a splash of pasta water to build that glossy finish.
+- Pull it off the heat immediately. Garnish with fresh basil and a heavy crack of black pepper.
 ---
 

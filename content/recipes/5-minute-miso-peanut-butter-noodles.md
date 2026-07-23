@@ -8,15 +8,7 @@ meta:
   seoMetaDescription: Need an emergency dinner? These easy 5-minute ultra-creamy miso
     peanut butter noodles are packed with vegan protein. Minimal prep, maximum umami
     flavour!
-description: 'The ultimate 5-minute emergency meal. Packing a massive hit of plant-based
-  protein, whisking peanut butter into warm miso creates an easy, ultra-creamy emulsion
-  that coats every single noodle perfectly.
-
-
-  A massive hit of umami and healthy fats. I’ve made this post-gym cheat code at least
-  50 times to dial in the exact sauce ratio.
-
-  '
+description: 'The ultimate 5-minute emergency meal. Packing a massive hit of plant-based protein, whisking peanut butter into warm miso creates an easy, ultra-creamy sauce that coats every single noodle perfectly. This took me a few attempts to dial in the exact ratio, but we''ve got the balance of rich peanut butter and savoury miso down to a science.'
 image: 5-minute-miso-peanut-butter-noodles_eo9aef
 alt: 5-Minute Miso Peanut Butter Noodles garnished with spring onions
 tags:
@@ -34,18 +26,17 @@ keywords:
 - vegan
 tipsTitle: Creamy Noodle Hacks
 tips:
-- 'Miso Care: Never aggressively boil miso paste unless you want to murder the beneficial
+- 'Miso Care: Never strongly boil miso paste unless you want to kill off the beneficial
   probiotics. Keep it to a gentle simmer.'
-- 'Starchy Water Secret: If your sauce turns to concrete or splits, vigorously stir
-  in a splash of starchy noodle water to resurrect it into a silky glaze.'
+- 'Starchy Water Secret: If your sauce turns to concrete or splits, quickly whisk
+  in a splash of starchy noodle water to revive it into a silky glaze.'
 - 'Soy Milk Temp: Add the soy milk gradually over low heat. Adding cold milk into
-  a hot pan is a rookie error and will cause it to split.'
+  a hot pan is a rookie mistake and will cause it to split.'
 works:
-- 'Mechanical Emulsion: Whisking the high-fat peanut butter into the warm, starchy
-  noodle water forces the disparate fat and water molecules to bind. The starch acts
-  as a physical stabilizer, yielding a glossy, unbroken sauce that clings heavily
-  to the noodles.. Look for a glossy, thick texture—if it’s watery, you’ve failed
-  the emulsion and need to reduce it further.'
+- 'Nut Butter Magic: Whisking high-fat peanut butter into warm, starchy noodle water
+  binds them together. The starch acts as a natural bridge, yielding a glossy, unbroken
+  sauce that clings beautifully to the noodles. Look for a glossy, thick coating—if
+  it’s runny, you need to simmer and reduce it for a bit longer.'
 - 'Umami Synergy: Miso and soy sauce deliver a massive punch of savoury depth. Zero
   need for long-simmered meat broths.'
 use:
@@ -57,7 +48,7 @@ servingSuggestions: These noodles are heavy hitters on their own, but pair them 
   snap peas work perfectly. Squeeze a wedge of lime over the top right before eating.
 shelf_life: Eat it fresh. The sauce goes claggy as it cools.
 storageInstructions: Fridge for up to 3 days. The sauce will thicken like concrete,
-  so add a splash of warm water when reheating. Don't even think about freezing it.
+  so add a splash of warm water when reheating. Don''t even think about freezing it.
 whyTitle: Why this works for your gains
 why:
 - 'Soy Milk Base: Using soy milk instead of water adds a creamy texture and sneaks
@@ -123,7 +114,7 @@ steps:
   noodles, you can skip straight to the pan.
 - While the noodles are cooking, place a small pan over low heat. Add the water, miso,
   and peanut butter.
-- Whisk aggressively until the peanut butter and miso dissolve. If it looks lumpy,
+- Whisk thoroughly until the peanut butter and miso dissolve. If it looks lumpy,
   keep whisking, lumps here will not dissolve later.
 - Pour in the soy milk and chilli oil. Once the sauce begins to simmer gently, toss
   in the cooked noodles.

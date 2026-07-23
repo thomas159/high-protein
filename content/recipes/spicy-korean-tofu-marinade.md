@@ -8,13 +8,13 @@ slug: spicy-korean-tofu-marinade
 meta:
   seoMetaDescription: Bold heat fast! This easy 35-minute sticky & spicy Korean gochujang
     tofu marinade is fiery vegan protein.
-description: 'A fiery, fermented Korean marinade featuring Gochujang, soy sauce, and
-  sesame. Perfect for sticky, charred air-fryer tofu. This easy 35-minute marinade
-  hits your tastebuds like a one-rep max.
+description: 'A fiery, fermented Korean marinade featuring aromatic Gochujang, soy sauce, and
+  rich sesame oil. It is perfect for baking or air-frying into sticky, charred crispy tofu.
+  This easy 35-minute marinade recharges your system like a massive one-rep max.
 
-  It makes hitting your daily plant-based targets like a new PB an absolute breeze.
-  Tested repeatedly to perfectly balance the fiery gochujang heat with the sweet sugar
-  and sharp vinegar, acting like a spotter for your diet.
+  It makes hitting your daily plant-based targets like hitting a new PB an absolute breeze.
+  It took me a few attempts to dial this in, but we have got the balance down to a science now—just
+  enough sweetness to hold back the fire and act as a spotter for your diet.
 
   '
 image: spicy-korean-tofu-marinade_dbsui8
@@ -31,22 +31,21 @@ keywords:
 - korean
 - tofu marinade
 - vegan
-tipsTitle: Gochujang Mechanics
+tipsTitle: Gochujang Secrets
 tips:
 - 'Tofu Prep: Skip the tedious 15-minute press. Check out our [Ultimate Quick Tofu
   Prep Hacks](/collections/easy-quick-tofu-prep-hacks) to nail the perfect texture
   before cooking.'
-- 'Sugar for the Glaze: The sugar isn''t just for sweetness—it caramelises violently
+- 'Sugar for the Glaze: The sugar isn''t just for sweetness—it bubbles and caramelises
   under heat to build a sticky lacquer.'
 - 'Heat Management: Gochujang heat varies. Taste the raw marinade and balance with
   extra ketchup if it''s going to blow your head off.'
 works:
-- 'Fermented Power: Gochujang acts as a massive flavour foundation, delivering depth
-  that usually takes hours of braising.'
-- 'Viscous Maillard Glaze: The heavy starch and sugar content in the gochujang paste
-  acts as a natural thickener. When hit with the air fryer''s intense heat, these
-  sugars violently caramelise (the Maillard reaction), forming a tight, sticky lacquer
-  that chemically adheres to the tofu''s surface.'
+- 'Fermentation Cheat Code: Real Korean chilli paste gives you a deeply savoury, mature
+  flavour base in seconds, mimicking depth that usually takes hours of slow simmering.'
+- 'The Sticky Glaze Trick: The sugar and starch in the chilli paste act as a natural
+  thickener. When exposed to hot air or pan frying, these sugars bubble and caramelise
+  rapidly, forming a glossy finish that holds tight to the tofu.'
 use:
 - 'Sticky Protein: Perfect for air-frying into a crispy, high-protein main.'
 - 'Noodle Topper: Smash this over spicy ramen or udon.'
@@ -56,12 +55,12 @@ variations:
 - 'Mushroom Steak: Use this to marinate whole portobello mushrooms.'
 - 'Sesame Armour: Roll the tofu in sesame seeds before frying.'
 reviews: null
-servingSuggestions: Balance the aggressive heat with a cooling side like steamed veg
+servingSuggestions: Balance the intense heat with a cooling side like steamed veg
   or miso soup. Wrap it in crisp lettuce leaves for a traditional BBQ bite.
 shelf_life: Stored in airtight container in the fridge for 5 days
 storageInstructions: Fridge the uncooked block in the marinade for 5 days. Freezes
   brilliantly for 3 months, the ice turns the tofu firmer and meatier.
-whyTitle: The Flavour Science
+whyTitle: Why It Works
 why:
 - 'Fermented Depth: Fermented gochujang delivers a savoury, meaty backbone that standard
   hot sauce lacks.'
@@ -116,17 +115,18 @@ faq:
     deep flavour.
 steps:
 - Prep the tofu by either microwaving it in 30-second bursts until dry, but not cooked
-  (approx 4 minutes) or boiling it for 5-10 minutes to force the water out so the
+  (about 4 minutes) or boiling it for 5-10 minutes to force the water out so the
   marinade can penetrate. See our [Ultimate Quick Tofu Prep Hacks](/collections/easy-quick-tofu-prep-hacks)
   for the exact methods.
-- Whisk the ketchup, sugar, gochujang, soy sauce, vinegar, garlic, ginger, sesame
-  oil, and a pinch of salt.
-- Cube the tofu into 2cm blocks and aggressively toss in the marinade. Let it sit
-  for 30 minutes.
-- Air Fry at 180°C for 6-10 minutes, shaking halfway. Or pan-fry until you hit a charred,
-  sticky crust. Watch it closely in the final minutes—the high sugar content will
-  turn it from a glossy lacquer to burnt ash very quickly.
-- Top it with toasted sesame seeds and fresh spring onions (scallions) to cut the
-  heat.
+- Whisk together the ketchup, sugar, gochujang, soy sauce, vinegar, garlic, ginger,
+  sesame oil, and a pinch of salt in a medium bowl.
+- Cut your tofu into even bite-sized cubes and thoroughly toss in the marinade. Let
+  it sit for 30 minutes so the flavours sink in.
+- Air fry at 180°C for 6-10 minutes, giving the basket a good shake halfway through.
+  Alternatively, pan-fry until you hit a charred, sticky crust. Watch it like a hawk
+  in the final minutes—the sugar will turn from a perfect sticky glaze to burnt charcoal
+  very quickly.
+- Top with toasted sesame seeds and fresh spring onions (scallions) to cut through
+  the heat.
 ---
 

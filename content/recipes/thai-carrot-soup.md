@@ -6,10 +6,12 @@ slug: thai-carrot-soup
 meta:
   seoMetaDescription: Want a vibrant starter? This easy 20-minute silky vegan Thai
     carrot soup is infused with coconut milk and red curry.
-description: 'Dig into the rich and aromatic flavours of Thailand with this easy 20-minute
-  silky Thai carrot soup. Infused with fragrant red curry paste and creamy coconut
-  milk, this vegan-friendly soup perfectly blends sweet and spicy notes. A brilliant
-  hit of vitamin A to transport your senses.
+description: 'Warm up and fuel your recovery with this easy 20-minute silky Thai carrot soup.
+  An absolute gold-medal winner of a winter warmer, marrying sweet carrots with a gentle curry kick
+  and rich, velvety coconut milk.
+
+  It is creamy, satisfying, and perfect when you want a rich, nutritious bowl that doesn''t
+  require hours over a simmering pan.
 
   '
 image: thai-carrot-soup_e6uask
@@ -31,34 +33,36 @@ tags:
 - vegan
 rating: null
 reviews: null
-tipsTitle: Soup Mechanics
+tipsTitle: Silky Soup Secrets
 tips:
-- 'Spice Blooming: Frying the red curry paste in coconut fat is mandatory. It blooms
-  the spices and kills the raw, metallic taste.'
-- 'Roast for Depth: Got extra time? Roast the carrots until caramelised before blending
-  for a massive smoky sweetness.'
-- 'Consistency Control: If it''s too thick, aggressively whisk in extra veg stock
-  until you hit the perfect silky texture.'
+- 'Spice Blooming: Always fry the curry paste in a bit of coconut fat first. It wakes
+  up all the dormant spices and gets rid of that cold, metallic paste taste.'
+- 'Roast for Depth: If you have an extra 20 minutes, roast the carrots in the oven
+  until they are sweet and blistered before blending. The level of sweetness you get
+  is unbelievable.'
+- 'Texture Tweak: If the soup feels a bit too thick after blending, splash in some
+  extra vegetable stock and whisk it in until it reaches your ideal creaminess.'
 works:
-- 'Fat-Soluble Extraction: The volatile flavour compounds in the chillies and aromatics
-  of the red curry paste are fat-soluble. Frying the paste in coconut cream extracts
-  and dramatically amplifies these oils, building a massive depth of flavour that
-  boiling in water could never achieve.'
-- 'Sweet & Spicy Synergy: Pureed carrots provide the earthy sweetness needed to offset
-  the intense chilli heat.'
+- 'The Fat-Blooming Trick: The spicy flavour in red curry paste is carried by fats.
+  Frying the paste in rich coconut cream releases those deep aromatics into the oil,
+  giving your soup hours of slow-cooked depth in just a few minutes.'
+- 'Perfect Balance: Sweet, earthy puréed carrots are the perfect teammate to offset
+  the intense, fiery kick of the red curry.'
 use:
-- 'Starter: A vibrant, warming starter for a dinner party.'
-- 'Cutting Phase Lunch: Pair with crusty bread for a deeply satisfying but low-calorie
-  meal.'
-- 'Freezer Stash: Batch cook and freeze in portions for emergency comfort food.'
+- 'Warm Starter: A gorgeous, aromatic way to start any dinner.'
+- 'Low-Calorie Fuel: Pair with some high-protein flatbread for a filling, macro-friendly
+  lunch.'
+- 'Freezer Saviour: Easy to portion out and freeze so you have comfort food ready
+  to go at a moment''s notice.'
 variations:
-- 'Ginger Kick: Add a tablespoon of fresh grated ginger.'
-- 'Sweet Potato Swap: Swap half the carrots for sweet potato to bump the carbs.'
+- 'Ginger Kick: Grate in some fresh ginger before blending for a fiery zing.'
+- 'Sweet Potato Swap: Swap out half the carrots for sweet potato to add some extra
+  solid carbs.'
 servingSuggestions: Serve this alongside warm sourdough or garlic naan for dipping.
   Top heavily with roasted peanuts for a crucial textural crunch.
 shelf_life: 4 Days (Refrigerated)
 storageInstructions: Fridge for 4 days. Freezes brilliantly for up to 3 months. Thaw
-  overnight and reheat gently, stirring to resurrect the emulsion.
+  overnight and reheat gently, stirring well to bring the silky texture back together.
 prepTimeMins: 5
 cookTimeMins: 15
 servings: 1

@@ -7,19 +7,14 @@ categories:
 title: Easy 35-Minute Smoky Chipotle Lime Air Fryer Tofu
 slug: chipotle-lime-tofu-marinade
 meta:
-  seoMetaDescription: Mexican night prep? This easy 35-minute smoky chipotle lime
-    air fryer tofu brings zesty high-protein fire to your tacos.
-description: 'Give your meal prep a serious Mexican-inspired kick. The lime juice
-  breaks down the dense outer layer of the tofu, letting the deep, smoky chipotle
-  oils penetrate right to the core.
+  seoMetaDescription: Mexican night prep? This easy 35-minute smoky chipotle lime air fryer tofu brings zesty high-protein fire to your tacos.
+description: 'Give your meal-prep a proper kick of smoke and citrus. The lime juice tenderises the dense outer layers of the tofu block, letting those rich, smoky chipotle spices sink deep inside.
 
 
-  This easy marinade caramelises beautifully in the air fryer for your post-workout
-  tacos. It''s a high-protein powerhouse that hits all your targets.
+  This is the ultimate quick high-protein upgrade for your post-workout tacos. It chars beautifully in the air fryer, helping you hit your macro targets without chewing on cardboard.
 
 
-  Tested to ensure the marinade sticks and chars perfectly, delivering maximum flavour
-  efficiency.
+  A few quick prep hacks mean we skip the boring pressing routine entirely, getting you from zero to elite protein in record time.
 
   '
 image: chipotle-lime-tofu-marinade_ymiqee
@@ -38,23 +33,14 @@ keywords:
 - mexican
 - tofu marinade
 - vegan
-tipsTitle: Maximum Flavor
+tipsTitle: Flavour Strategy
 tips:
-- 'Tofu Prep: Skip the tedious 15-minute press. Check out our [Ultimate Quick Tofu
-  Prep Hacks](/collections/easy-quick-tofu-prep-hacks) to nail the perfect texture
-  before cooking.'
-- 'Adobo Power: Don''t just use the chilli. Spoon in the smoky adobo sauce from the
-  tin for a massive, concentrated flavour hit.'
-- 'The Citrus Finish: Heat destroys fresh citrus notes. Hit it with a fresh squeeze
-  of lime right before you eat it.'
+- 'Tofu Prep: Skip the tedious fifteen-minute press. Check out our [Ultimate Quick Tofu Prep Hacks](/collections/easy-quick-tofu-prep-hacks) to nail the perfect texture before cooking.'
+- 'Adobo Power: Don''t just use the chilli. Spoon in the smoky adobo sauce from the tin for a massive, concentrated flavour hit.'
+- 'The Citrus Finish: Heat destroys fresh citrus notes. Hit it with a fresh squeeze of lime right before you eat it.'
 works:
-- 'Acidic Permeation: The low pH of the lime juice attacks the rigid soy protein structure
-  of the tofu. This slight surface breakdown allows the heavy, fat-soluble smoky oils
-  from the chipotle adobo to infiltrate the block rather than just washing off in
-  the pan. If the tofu is too wet, the acid can''t penetrate.'
-- 'Sugar Caramelisation: The natural sugars in the adobo sauce char rapidly under
-  the air fryer''s heat, building a proper BBQ-style bark. Watch for a dark, sticky
-  crust, if it''s pale, it needs more heat.'
+- "The Lime Tenderiser: The citrus juice softens the outer surface of the tofu. This lets the smoky adobo oils sink in properly instead of sliding off and burning on the bottom of the tray."
+- "The Sweet Char: Natural sugars in the chipotle sauce cook down quickly under the air fryer's heat, forming a sticky, dark bark. Look for deeply browned edges—that is where the flavour lives."
 use:
 - 'Taco Fuel: The ultimate smoky protein for Mexican night.'
 - 'Salad Topper: Toss it cold into a black bean and corn bowl.'
@@ -66,14 +52,11 @@ servingSuggestions: The absolute star of a Mexican macro bowl. Serve over lime q
 shelf_life: Stored in airtight container in the fridge for 5 days
 storageInstructions: Fridge the uncooked block in the marinade for 5 days. Freezes
   well for 3 months, the ice crystals actually improve the chewy texture.
-whyTitle: Why marinate tofu?
+whyTitle: Why Marinate?
 why:
-- 'The Acid Factor: High citric acid breaks down the tofu''s defence mechanisms, pulling
-  the marinade to the core. Just like breaking down muscle fibres to build them back
-  stronger.'
-- 'Smoky Char: Chipotle sugars caramelise brutally fast, mimicking a traditional BBQ
-  sear.'
-- 'Versatile Umami: A heavy-hitting protein base for everything from wraps to salads.'
+- "The Acid Trick: Lime juice softens the dense outer surface, letting all those smoky spices sink in. Think of it like pre-workout for your protein."
+- "The Hot Seat: Chipotle sugars caramelise quickly, giving you a proper charred crust without drying out the tofu."
+- "The Gym Bag Staple: A genuine high-protein powerhouse that stands up to anything from taco night to rapid deskside salads."
 variations:
 - 'Pineapple Sweetness: Splash in some pineapple juice.'
 - 'Extra Smoky: A tiny drop of liquid smoke goes a long way.'

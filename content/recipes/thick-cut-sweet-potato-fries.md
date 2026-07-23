@@ -7,12 +7,14 @@ slug: thick-cut-sweet-potato-fries
 meta:
   seoMetaDescription: Want the perfect side dish? These ultimate extra crispy air
     fryer sweet potato fries are a macro-friendly 60-minute vegan snack.
-description: 'Enjoy the perfect balance of sweet and savory with the ultimate extra
-  crispy sweet potato fries. **A high-volume side dish clocking in at just solid macros**,
-  they offer a healthy, satisfying crunch with a fraction of the oil.
+description: 'Hit your craving for that perfect combination of sweet and savoury with
+  the ultimate extra crispy sweet potato fries. **A high-volume side dish delivering a massive
+  hit of solid carbs and clean energy**, they offer a deeply satisfying crunch with
+  only a tiny fraction of the oil of deep frying.
 
-  Cooked to perfection in the air fryer. Tested multiple times to nail the exact soaking
-  time required to pull out the starch.
+  Cooked to crisp perfection in your air fryer. It took me a few attempts to dial this in,
+  but soaking them in cold water first is the ultimate cheat code to strip the starch and
+  guarantee a glassy, crunchy crust.
 
   '
 image: thick-cut-sweet-potato-fries_zip294
@@ -28,23 +30,23 @@ keywords:
 - vegan
 tipsTitle: Crispy Fry Secrets
 tips:
-- 'Space is Mandatory: Overcrowding the basket equals steaming. Give them room to
-  breathe for maximum crunch.'
-- 'The Starch Soak: Soaking in cold water for 30 minutes bins the surface starch.
-  Crucial for a crispy exterior.'
-- 'Salt Timing: Only salt *after* cooking. Salting raw potatoes draws out moisture
-  and ruins the crunch.'
+- 'Space is Mandatory: Overcrowding your air fryer basket means you steam your potatoes.
+  Give them room to breathe so they can actually crisp up.'
+- 'The Starch Soak: Swimming in cold water for 30 minutes gets rid of any excess surface
+  starch, which is absolutely crucial for a glassy, crisp exterior.'
+- 'Post-Cook Salting: Only add salt after they are done cooking. Salting raw sweet potatoes
+  draws out moisture and makes them sad and floppy.'
 works:
-- 'Starch Extraction & Dehydration: Soaking the sweet potatoes leaches out the surface
-  amylose starches that typically cause fries to burn and glue together. The air fryer
-  then violently dehydrates the exterior, forcing the complex natural sugars to caramelise
-  into a rigid, crispy shell.'
-- 'Moisture Evaporation: The air fryer violently strips the high water content, achieving
-  a crunch that standard ovens simply cannot touch without oil frying.'
+- 'The Surface Starch Wash: Soaking gets rid of the sticky starches on the skin that usually
+  cause fries to clump together and burn. Once dry, the hot air fryer rapidly roasts the
+  outside, turning the natural sugars into a rigid, crispy shell.'
+- 'Dry Heat Air Circulation: The air fryer circulates dry heat rapidly to strip away surface
+  moisture. This gives you a serious crunch that standard ovens simply can''t manage without
+  litres of oil.'
 use:
-- 'Burger Sidekick: The elite pairing for a heavy plant-based burger.'
-- 'Volume Snack: A massive, nutrient-dense serving when the cravings hit.'
-- 'Loaded Base: Crown them with black beans and avocado for a full meal.'
+- 'Burger Sidekick: The elite pairing for a heavy, high-protein plant-based burger.'
+- 'Volume Snack: A massive, nutrient-dense serving when the mid-afternoon crispy cravings hit.'
+- 'Loaded Fries Base: Pile them high with black beans, avocado, and a dollop of vegan sour cream.'
 tags:
 - snack
 - vegan
@@ -79,13 +81,13 @@ faq:
   answer: You overcrowded the basket or skipped the 30-minute soak. Rookie errors
     that cause steaming instead of crisping.
 steps:
-- Slice into 1cm matchsticks. Submerge in cold water for 30 minutes to remove the
-  starch, then pat ruthlessly dry.
-- Toss aggressively in a bowl with oil.
-- Space them out in the basket. Blast at 190°C for 20-30 minutes. Cook in batches
-  if needed. Shake the basket violently every 5 minutes.
-- Pull them when charred. Let them rest in the basket for 60 seconds to lock in the
-  crunch. If you skip the resting phase, they'll go floppy the second they hit the
-  plate.
+- Cut your potatoes into even 1cm matchsticks. Soak them in a bowl of cold water
+  for 30 minutes to wash away the starch, then dry them thoroughly with a clean tea towel.
+- Toss them in a bowl with your oil until every fry is evenly coated.
+- Arrange them in your air fryer basket with plenty of breathing room. Bake at 190°C
+  for 20-30 minutes (cook in batches if your basket is small). Give them a good shake
+  every 5 minutes.
+- Pull them out once they are beautifully charred at the edges. Let them rest in the
+  basket for a full minute to let the crust set before plating, otherwise they will go soft instantly.
 ---
 

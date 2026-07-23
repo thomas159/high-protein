@@ -6,12 +6,12 @@ slug: quick-moroccan-couscous
 meta:
   seoMetaDescription: Need a side dish fast? This quick & easy 10-minute fluffy Moroccan
     couscous is the perfect vibrant Mediterranean base.
-description: 'The ultimate versatile carb base that requires absolutely zero simmering.
-  **Packing heavy protein and carbs for solid macros**, pouring boiling vegetable
-  stock over the couscous instantly rehydrates it.
+description: 'The ultimate lazy-day carb base that requires absolutely zero actual cooking.
+  By simply pouring boiling vegetable stock over the grains, you instantly rehydrate them
+  for a heavy hit of solid carbs to fuel your next training session.
 
-  This quick & easy 10-minute side delivers minimal prep and maximum flavour. Tested
-  relentlessly to ensure the grain stays fluffy and never turns to mush.
+  This quick and easy 10-minute side delivers minimal prep and maximum flavour with virtually
+  no effort. Perfect when you need to hit your daily targets without standing over a stove.
 
   '
 blurb: []
@@ -27,20 +27,20 @@ keywords:
 - healthy side
 - mediterranean
 - moroccan
-tipsTitle: Flawless Couscous
+tipsTitle: Foolproof Fluff
 tips:
-- 'The Fork Rule: Always fluff with a fork. A spoon will mash the grains into a dense,
-  miserable clump.'
-- 'Stock Matters: Couscous absorbs everything. Use a quality vegetable stock instead
-  of water for a massive flavour spike.'
-- 'Fresh Finish: Aggressively stir through fresh mint or parsley at the end for an
-  authentic Mediterranean lift.'
+- 'The Fork Rule: Always fluff your grains with a fork. If you use a spoon, you will
+  mash them into a dense, miserable brick.'
+- 'Stock Upgrade: Dry couscous is like a sponge. Use a rich vegetable stock instead
+  of plain boiling water for a massive flavour boost.'
+- 'Herb Blast: Stir through an absolute load of fresh mint or parsley right at the
+  end to lift the whole dish.'
 works:
-- 'Instant Hydration: Couscous is actually tiny granules of semolina dough that have
-  already been steamed and dried. Because of this, pouring boiling stock over them
-  rehydrates them instantly, completely skipping the need to boil them.'
-- 'Sweet & Salty: Sautéed red onions perfectly offset the sharp, salty hit of the
-  feta.'
+- 'Instant Steam Trick: Couscous is actually tiny granules of semolina dough that
+  have already been steamed and dried. Pouring boiling stock over them rehydrates
+  them in seconds, completely bypassing the need to let them simmer on the hob.'
+- 'Sweet & Salty Upgrade: Sweating down the red onions unlocks their natural sweetness,
+  which beautifully offsets the sharp, salty punch of crumbled feta.'
 use:
 - 'Carb Base: The ultimate bed for grilled tofu or roasted veg.'
 - 'Meal Prep: Tastes brilliant cold in your lunchbox.'

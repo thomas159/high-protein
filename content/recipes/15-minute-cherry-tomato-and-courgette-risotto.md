@@ -7,16 +7,7 @@ slug: 15-minute-cherry-tomato-and-courgette-risotto
 meta:
   seoMetaDescription: Want risotto fast? This easy 15-minute ultra-creamy microwave
     courgette (zucchini) risotto is the ultimate high-carb recovery meal.
-description: 'A proper Italian risotto usually requires standing over a hot stove
-  stirring for 40 minutes. We intentionally choose this microwave hack because saving
-  time and hitting macros is our ultimate priority over culinary tradition.
-
-
-  Loaded with fresh courgette (zucchini). Tested multiple times to nail the exact
-  liquid absorption ratio and balance the acidic tomatoes against the rich parmesan,
-  preventing it from turning into a bland, watery soup.
-
-  '
+description: 'Standing over a stove stirring rice for 40 minutes is an absolute bin-fire when you are hungry. We intentionally chose this microwave hack because saving time and hitting your macros is the ultimate priority. This took me a few attempts to dial in, but the liquid absorption is down to a science now, balancing the acidic tomatoes against rich parmesan to keep it creamy rather than a watery soup.'
 blurb: []
 image: 15-minute-cherry-tomato-and-courgette-risotto_1_lsbbrh
 alt: 15-minute cherry tomato and courgette risotto in a bowl
@@ -34,21 +25,12 @@ keywords:
 - zucchini
 tipsTitle: Microwave Magic
 tips:
-- 'Mind the Bowl Size: Arborio rice expands aggressively and bubbles up. Use a massive
-  bowl to prevent a microwave disaster.'
-- 'Creamy Finish: Vigorously stirring for 60 seconds at the end forces the starches
-  out, creating a luxurious sauce without touching double cream.'
-- 'Fridge Clearance: Highly forgiving. Stir in leftover spinach, peas, or peppers
-  at the end.'
+- 'Mind the Bowl Size: Arborio rice expands rapidly and bubbles up. Use a massive bowl to prevent a full-blown microwave disaster.'
+- 'Creamy Finish: Stirring with real purpose for a solid minute at the end forces the starches out, creating a luxurious sauce without touching double cream.'
+- 'Fridge Clearance: Highly forgiving. Toss in whatever leftover veg you need to bin—spinach, peas, or peppers work beautifully.'
 works:
-- 'Starch Gelatinization: Aggressive stirring causes the Arborio rice grains to rub
-  against each other, physically shearing off amylopectin starches into the liquid.
-  This naturally thickens the stock into a creamy, stable emulsion without adding
-  a drop of double cream.. It’s like a PB for your tastebuds, fuelling your recovery
-  without the heavy prep.. Look for a glossy, thick texture—if it’s watery, you’ve
-  failed the emulsion and need to reduce it further.'
-- 'Controlled Steam: The microwave provides a high-heat, enclosed environment, completely
-  binning the need to stand over a stove stirring for 40 minutes.'
+- 'Creamy Rice Trick: Stirring the rice with real purpose causes the grains to rub against each other, shearing off starches into the liquid. This naturally thickens the stock into a glossy, thick sauce without adding a single drop of cream. Look for a thick, glossy finish—if it is runny, you just need to stir it a bit longer.'
+- 'Controlled Steam: The microwave provides a highly efficient, high-heat, enclosed environment. This completely scraps the need to stand over a stove stirring for 40 minutes.'
 use:
 - 'Rapid Carb Refeed: A heavy comfort meal with zero active cooking.'
 - 'Macro Lunch: Batch cook and nuke it the next day.'
@@ -104,18 +86,10 @@ faq:
   answer: Yes, but you'll be stirring for 30 minutes. Simmer and add stock ladle by
     ladle.
 steps:
-- Take a large microwave-safe bowl. Mix the rice and wine. Blast for 2 minutes on
-  high until the wine absorbs.
-- Pour in the veg stock. Microwave for 13 minutes, stirring at the halfway point.
-  You want a wet, slightly soupy finish. If it’s a solid block, add a splash of boiling
-  water.
-- While the microwave runs, melt the butter and a splash of oil in a pan. Sauté the
-  garlic and tomatoes for 5 minutes until jammy. Stir in the grated courgette (zucchini)
-  for another 3 minutes.
-- Pull the bowl from the microwave. Fold the veg, remaining butter, and parmesan straight
-  into the rice.
-- Stir aggressively for 60 seconds. This physical agitation forces the starches out,
-  building a thick, glossy sauce that aggressively clings to the grains. If it looks
-  dry, add a splash of boiling water. Let it rest for 1 minute before eating.
+- Take a large microwave-safe bowl. Mix the rice and wine. Blast on high for 2 minutes until the wine absorbs.
+- Pour in the veg stock. Microwave for 13 minutes, stirring at the halfway point. You want a wet, slightly soupy finish. If it is a solid block, add a splash of boiling water.
+- While the microwave runs, melt the butter and a splash of oil in a pan. Sauté the garlic and tomatoes for 5 minutes until jammy. Stir in the grated courgette (zucchini) for another 3 minutes.
+- Pull the bowl from the microwave. Fold the veg, remaining butter, and parmesan straight into the rice.
+- Stir with real purpose for a solid minute. This physical agitation forces the starches out, building a thick, glossy sauce that clings perfectly to the grains. If it looks dry, add a splash of boiling water. Let it rest for 1 minute before loading up.
 ---
 

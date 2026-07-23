@@ -7,16 +7,7 @@ slug: 5-minute-peanut-butter-chilli-noodles
 meta:
   seoMetaDescription: Need dinner in a flash? These quick 5-minute ultra-creamy peanut
     butter chilli noodles deliver spicy vegan protein.
-description: 'A brilliant balance of heavy peanut butter fats and sharp chilli heat.
-  Using the starchy noodle water emulsifies the sauce instantly, giving you quick
-  5-minute ultra-creamy noodles.
-
-
-  Raw ginger provides a punchy, anti-inflammatory kick. My go-to rapid prep meal,
-  tested endlessly to balance the sharp rice wine vinegar against the heavy peanut
-  fats, ensuring a bright, punchy viscosity.
-
-  '
+description: 'A brilliant balance of heavy peanut butter fats and sharp chilli heat. Using starchy noodle water makes the sauce bind instantly, giving you quick 5-minute ultra-creamy noodles. Raw ginger provides a punchy kick. This took me a few tries to get the balance of rice vinegar and peanut butter just right, but the result is a bright, punchy sauce that clings perfectly.'
 image: 5-minute-peanut-butter-chilli-noodle_getziq
 alt: 5-Minute Peanut Butter Chilli Noodles in a bowl
 tags:
@@ -39,11 +30,11 @@ tips:
 - 'Crunch Factor: Hammer the finished dish with crushed peanuts, crispy fried shallots,
   or toasted sesame seeds.'
 works:
-- 'Starch-Bound Emulsion: Peanut butter fats and watery soy sauce naturally repel
-  each other. The amylose starches leached into the reserved noodle water act as a
-  mechanical emulsifier, physically binding the fat and water molecules together into
-  a thick, glossy, unbreakable glaze.. Look for a glossy, thick texture—if it’s watery,
-  you’ve failed the emulsion and need to reduce it further.'
+- 'Sauce Binding Trick: Peanut butter fats and watery soy sauce do not naturally
+  want to mix. The cooking starch in the reserved noodle water acts as a natural
+  bridge, binding them together into a thick, glossy, unbreakable glaze. Look for
+  a glossy, thick coating—if it’s runny, you need to simmer and reduce it for a bit
+  longer.'
 - 'Raw Aromatics: Grated ginger and raw garlic deliver a punchy bite that holds its
   own against the heavy fats.'
 use:
@@ -118,7 +109,7 @@ faq:
 steps:
 - Boil the noodles. Drain, but strictly reserve a splash of the starchy cooking water.
   This is the glue for your sauce.
-- In a bowl, aggressively whisk the peanut butter, soy sauce, agave, garlic, ginger,
+- In a bowl, thoroughly whisk the peanut butter, soy sauce, agave, garlic, ginger,
   and chilli oil. If it looks like concrete, whisk in the hot noodle water a splash
   at a time until it turns into a thick, glossy syrup that pours smoothly.
 - Get the sesame oil in a wok over low heat. Toss in the noodles to coat.

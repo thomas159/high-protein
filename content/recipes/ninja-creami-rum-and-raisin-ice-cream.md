@@ -5,16 +5,8 @@ categories:
 title: The Ultimate Ultra-Creamy Rum and Raisin Ninja Creami (Malaga)
 slug: ninja-creami-rum-and-raisin-ice-cream
 meta:
-  seoMetaDescription: An ultra-creamy rum and raisin Ninja Creami. Minimal prep, a
-    proper British pudding flavour, and a massive protein hit.
-description: 'A velvety, boozy rum and raisin dessert (also known across Europe as
-  Malaga) in freezing cold ice cream form. Using the Ninja Creami turns this macro-friendly
-  mix of low-fat milk, vanilla whey, dark rum, and soaked raisins into an ultra-creamy
-  dream.
-
-  The absolute cheat code for hitting your daily targets like a new PB. Tested endlessly
-  to nail the exact rum ratio so it tastes like a premium old-school British classic,
-  but packed with protein to support your gains.
+  seoMetaDescription: An ultra-creamy, boozy rum and raisin Ninja Creami in freezing cold ice cream form. Minimal prep, classic flavour, and a heavy protein hit.
+description: 'An ultra-creamy, boozy rum and raisin dessert (also known across Europe as Malaga) in freezing cold ice cream form. Using the Ninja Creami turns this high-protein mix of milk, vanilla whey, dark rum, and plump raisins into a rich, velvety treat. It took a few attempts in our test kitchen to balance the spirit and base, but we got it down to a science so it tastes like a premium pub classic rather than a chalky shaker cup supplement.
 
   '
 image: ninja-creami-rum-and-raisin-ice-cream_tku2cj
@@ -34,44 +26,29 @@ keywords:
 - rum and raisin
 tipsTitle: Creami Mechanics
 tips:
-- 'Patience is Mandatory: Freeze the pint completely level for 24 hours. A slanted
-  freeze will destroy your Creami blade (it will violently catch and snap).'
-- 'The Re-Spin Secret: High-protein bases always come out powdery on spin one. Add
-  a splash of milk and hit ''Re-spin'' to force that gelato texture.'
-- 'Alcohol Science: The alcohol in the dark rum lowers the freezing point of the ice
-  cream. This naturally prevents it from turning into a rock-solid block of ice, contributing
-  to a much softer, scoopable texture right out of the machine.'
-- 'Mix-In Magic: Core the centre and use the mix-in function to evenly distribute
-  the rum-soaked raisins.'
+- 'Level Freezing: You must freeze the pint on a completely flat surface. If it freezes at an angle, the blade will carve into the plastic and cause serious damage.'
+- 'The Re-Spin Trick: Low-fat and high-protein bases almost always come out looking like chalky snow on the first spin. Splash a spoonful of extra milk in, run a re-spin, and watch it turn into gelato.'
+- 'Rum Texture Trick: The little splash of dark rum in the base actually lowers the freezing temperature. This naturally stops it from turning into a solid block of ice, making it much softer and easier to scoop.'
+- 'Raisin Fold: Poke a hole down the middle of the pint after spinning, drop in your rum-soaked raisins, and hit the mix-in button to fold them through evenly.'
 works:
-- 'Perfect Texture: Whey protein helps bind it together. When frozen and shaved by
-  the Creami blade, it stabilises the ice crystals in the milk, replicating the dense,
-  velvety mouthfeel of heavy cream.'
-- 'Flavour Enhancement: Soaking the raisins in the dark rum plumps them up and locks
-  the intense boozy flavour deep inside the fruit, releasing it as you chew.'
+- 'Creamy Whey Trick: Whey protein naturally binds the liquid. When the Creami blade shaves through the frozen block, it blocks the ice from clustering, giving you a dense, velvety mouthfeel without needing heavy dairy cream.'
+- 'Plump Fruit Secret: Soaking the raisins in dark rum plumps them up and locks the intense boozy flavour deep inside the fruit, releasing a burst of classic sweetness as you eat'
 use:
 - 'Sweet Fuel: Spot-on macros disguised as a premium dessert.'
-- 'Late-Night Fix: Highly satiating to kill evening cravings while enjoying a classic
-  pub-style flavour.'
+- 'Late-Night Fix: Highly satiating to kill evening cravings while enjoying a classic pub-style flavour.'
 rating: null
 variations:
-- 'Spiced Rum: Swap the dark rum for a heavily spiced rum to add notes of cinnamon,
-  clove, and nutmeg.'
-- 'Nutty Addition: Fold in crushed walnuts alongside the raisins during the mix-in
-  phase for extra crunch.'
+- 'Spiced Rum: Swap the dark rum for a heavily spiced rum to add notes of cinnamon, clove, and nutmeg.'
+- 'Nutty Addition: Fold in crushed walnuts alongside the raisins during the mix-in phase for extra crunch.'
 reviews: null
 servingSuggestions: Enjoy this straight out of the pint. Perfect on a weekend evening.
-shelf_life: Stores in the freezer indefinitely, but best consumed within a month to
-  prevent freezer burn.
-storageInstructions: Smooth the top level, lid it, and put it back in the freezer.
-  Just re-spin it on 'Lite Ice Cream' when you want it again.
-whyTitle: The Macro Science
+shelf_life: Stores in the freezer indefinitely, but best consumed within a month to prevent freezer burn.
+storageInstructions: Smooth the top level, lid it, and put it back in the freezer. Just re-spin it on 'Lite Ice Cream' when you want it again.
+whyTitle: The Easy Macro Win
 why:
-- 'Macro Friendly: Premium ice cream satisfaction for a fraction of the calories and
-  a massive protein spike.'
-- 'Customisable: You control every gram of sugar. Perfect for strict cuts.'
-- 'Natural Softener: The dark rum added to the ice cream base not only adds authentic
-  flavour but chemically improves the freeze structure.'
+- 'Macro-Friendly Classic: Get proper old-school pub dessert satisfaction with a massive protein hit and negligible fat.'
+- 'Full Control: You decide exactly how sweet and rich to make it. Ideal when you are on a strict fat loss phase.'
+- 'Natural Softener: The dark rum behaves like a natural antifreeze, stopping the base from freezing rock solid while delivering authentic flavour.'
 prepTimeMins: 5
 cookTimeMins: 5
 servings: 1
@@ -104,27 +81,18 @@ ingredients:
 - item: Raisins
   amount: 60
   unit: g
-faq:
+- faq:
 - question: Do I have to use Xanthan gum?
-  answer: You can achieve great results without it, as the whey protein provides solid
-    structure. However, adding a pinch can also yield excellent results by further
-    enhancing the velvety texture.
+  answer: You can achieve great results without it, as the whey protein provides solid structure. However, adding a pinch can also yield excellent results by further enhancing the velvety texture.
 - question: Can I skip soaking the raisins?
-  answer: You can, but soaking them in the dark rum is essential for achieving that
-    authentic plump texture and locking in the intense flavour.
+  answer: You can, but soaking them in the dark rum is essential for achieving that authentic plump texture and locking in the intense flavour.
 steps:
-- Place the raisins in a small bowl and pour over the soaking measure of dark rum.
-  Let them soak for at least 30 minutes to plump up.
-- Add the milk, vanilla whey, honey, vanilla extract, and the base measure of dark
-  rum into a blender. Blitz aggressively until completely smooth with no lumps.
-- Pour the blended mix into the Creami pint. Do not cross the 'Max Fill' line.
-- Freeze on a perfectly flat surface for 24 hours. A slanted freeze will wreck the
-  machine (the blade will catch and snap).
-- Lock the frozen pint into the Creami outer bowl.
-- Hit the 'Lite Ice Cream' button and let it run.
-- If it looks powdery (standard for macro ice creams), add a splash of milk and hit
-  'Re-spin' to force the creamy texture.
-- Hollow out the centre, drop in your rum-soaked raisins (draining any excess liquid
-  if preferred), and run the 'Mix-In' program. Demolish immediately.
+- Place the raisins in a small bowl and pour over a splash of dark rum. Let them soak for about half an hour to plump up.
+- Pour the milk, vanilla whey, sweetener, vanilla extract, and a small splash of dark rum for the base into a blender. Whisk or shake thoroughly until completely smooth with no lumps.
+- Pour the blended mix into your pint, making sure you stay below the max fill line.
+- Slide it onto a flat shelf in your freezer and leave it for a full day. If it freezes at an angle, it can wreck your machine.
+- Lock your frozen pint into the outer bowl and attach the lid.
+- Run the lite ice cream program.
+- If the top looks a bit powdery or crumbly, do not panic. Splash a tablespoon of milk in, pop it back in, and run a re-spin to get that ultra-smooth finish.
+- If you want a bit of texture, poke a hole down the middle, toss in your rum-soaked raisins (draining any excess liquid first), and run the mix-in cycle. Grab a spoon and eat it straight away.
 ---
-

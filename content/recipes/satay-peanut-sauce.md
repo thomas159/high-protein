@@ -7,34 +7,24 @@ slug: satay-peanut-sauce
 meta:
   seoMetaDescription: Need a premium dip? This quick 10-minute ultra-creamy Thai satay
     peanut sauce delivers bold, spicy healthy fats.
-description: 'A top-tier multi-tasker for your kitchen. **Packing healthy fats and
-  a heavy hit of protein for solid macros**, ''blooming'' the red curry paste in coconut
-  milk unlocks a quick 10-minute flavour bomb.
+description: 'A top-tier player for your meal prep. **Packing serious healthy fats and a respectable punch of protein with solid macros**, frying off the red curry paste in coconut milk gives you an instant 10-minute flavour injection.
 
-  Loaded with crushed peanuts and tangy tamarind. Developed to rival authentic Thai
-  street food without the hours of simmering.
+  It is packed with proper crushed peanuts and tangy tamarind. I designed this to rival the deep flavour of authentic Thai street food without having to stand over a simmering pot for hours.
 
   '
 blurb: []
-tipsTitle: Sauce Mastery
+tipsTitle: Sauce Secrets
 tips:
-- 'Blooming the Paste: Slowly frying the red curry paste in thick coconut cream until
-  the oils separate is mandatory for restaurant-quality depth.'
-- 'Tamarind Timing: Stir in the tamarind and sugar entirely off the heat. Boiling
-  them turns the delicate sour notes bitterly disappointing.'
-- 'Consistency Fix: If it sets like concrete as it cools, aggressively whisk in a
-  splash of warm water.'
+- 'Fry the Paste: Slowly frying your red curry paste in coconut cream until the oil starts separating is non-negotiable if you want real restaurant-quality depth.'
+- 'Tamarind Timing: Stir your tamarind and sugar in only after pulling the pan off the heat. Boiling them makes those bright, sour notes turn a bit bitter.'
+- 'Consistency Fix: If the sauce sets like a brick as it cools down, simply whisk in a splash of warm water until it is creamy again.'
 works:
-- 'The Tamarind Factor: Tamarind adds a fermented depth that standard lime juice just
-  can''t touch.'
-- 'Textural Contrast: Crushed peanuts provide a premium, rustic texture that clings
-  perfectly to your protein.'
-- 'Fat-Soluble Blooming: The intense, aromatic oils in the red curry paste are fat-soluble.
-  Frying them gently in the thick coconut cream extracts and disperses these compounds
-  violently, building hours of slow-cooked flavour depth in under 2 minutes.'
+- 'The Tamarind Factor: Real tamarind adds a deep, fruity, fermented sourness that standard lime juice simply cannot match.'
+- 'Noodle-Clinging Texture: Finely chopped peanuts provide a beautiful, chunky consistency that clings to your noodles or tofu like a dream.'
+- 'Spice Frying Trick: The spice oils in red curry paste are fat-soluble. Frying them in coconut cream releases all their deep aromatics into the fat, letting you cheat your way to hours of simmered depth in just a couple of minutes.'
 use:
-- 'As a Dip: Unbeatable for halloumi skewers or raw veg prep.'
-- 'As a Dressing: Thin it out with water and lime for a high-fat salad dressing.'
+- 'As a Dip: Unbeatable for grilled halloumi skewers or raw veg prep.'
+- 'As a Dressing: Thin it out with water and lime juice for a high-fat salad dressing.'
 - 'As a Stir-fry Sauce: Toss straight into rice noodles for a quick carb reload.'
 image: peanut-satay-sauce_rngtry
 alt: Rich and creamy satay peanut sauce in a bowl
@@ -60,7 +50,7 @@ servingSuggestions: This is a heavy hitter for grilled tempeh or tofu skewers. A
   use it to dress a massive volume bowl of shredded cabbage and cold noodles.
 shelf_life: Stored in airtight container in the fridge for 5 days
 storageInstructions: Fridge in an airtight container for 5 days. It freezes fine for
-  3 months, just thaw and whisk aggressively with warm water.
+  3 months, just thaw and give it a solid whisk with warm water.
 prepTimeMins: 5
 cookTimeMins: 5
 servings: 1

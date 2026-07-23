@@ -6,10 +6,11 @@ slug: stir-fried-sweet-and-sour-vegetables
 meta:
   seoMetaDescription: Hit your micronutrient targets fast! This easy 30-minute crunchy
     Thai sweet & sour stir-fry is a vibrant vegan dinner.
-description: 'Hit your daily micronutrient targets with this easy 30-minute crunchy
-  Thai stir-fry. Searing the veg over blazing heat locks in the crunch, while the
-  cornflour slurry binds the vinegar and stock into a glossy, sweet and sour glaze.
-  Clean, efficient fuel on the table fast.
+description: 'Get some serious, fresh micronutrients into your system with this easy
+  30-minute crunchy Thai stir-fry. Searing the vegetables over high heat locks in
+  their satisfying crunch, while a simple cornstarch trick turns the tangy vinegar
+  and stock into a beautifully glossy glaze. Clean, efficient fuel on the table in
+  no time.
 
   '
 image: sweet-and-sour-vegetables_covgep
@@ -29,25 +30,27 @@ tags:
 - vegan
 rating: null
 reviews: null
-tipsTitle: Wok Skills
+tipsTitle: Wok Wisdom
 tips:
-- 'Prep is Mandatory: Stir-frying is violent and fast. Chop the veg and mix the sauce
-  before you even touch the stove.'
-- 'High Heat Hitting: The pan must be smoking hot. You want to sear the veg to lock
-  in the crunch, not steam it into mush.'
-- 'Pineapple Power: Fresh pineapple is elite. The enzymes tenderise the veg and the
-  fresh juice obliterates the canned stuff.'
+- 'Speed Prep: Stir-frying is incredibly fast-paced once you start. Chop all your vegetables
+  (like cauliflower and carrot) and mix the sauce before you even think about turning
+  on the stove.'
+- 'High Heat is Law: The pan must be smoking hot. You want to sear the vegetables
+  quickly to lock in that fresh bite, not steam them into a sad, soggy mess.'
+- 'Pineapple Power: Fresh pineapple is a total game-changer here. The natural sugars
+  and juices elevate this dish miles beyond the tinned stuff.'
 works:
-- 'Flash Cooking: High-heat searing seals the exterior, preventing the veg from turning
-  to soggy rubbish.'
-- 'Starch Gelatinisation: When the cold cornflour slurry hits the boiling liquid,
-  the starch granules instantly swell and burst. This releases long amylose chains
-  that entangle the water molecules, immediately transforming the thin vinegar and
-  stock into a thick, viscous glaze.'
+- 'High-Heat Flash Sear: Blasting the vegetables in a screaming hot pan locks in
+  their natural moisture and keeps them crisp, avoiding soggy rubbish.'
+- 'The Thickening Magic: When a cold starch and water mixture hits the boiling liquids,
+  it quickly binds them together. This immediately transforms thin stock and vinegar
+  into a glossy coating that clings perfectly to every vegetable.'
 use:
-- 'Weeknight Fuel: A brutally efficient 15-minute meal over jasmine rice.'
-- 'Fridge Clearance: An elite way to use up leftover veg.'
-- 'Meal Prep: Retains its crunch perfectly for the next day.'
+- 'Weeknight Fuel: A brilliantly efficient 30-minute meal served over a heap of fluffy jasmine rice.'
+- 'Fridge Clearance: Use up whatever leftover vegetables you have lying around—peppers,
+  broccoli, or baby corn work beautifully.'
+- 'Meal Prep: Holds its bite exceptionally well, making it a great option for the
+  next day.'
 variations:
 - 'Protein Addition: Toss in some crispy air-fried tofu cubes.'
 - 'Cashew Crunch: Top it with roasted cashews before serving.'
@@ -117,12 +120,15 @@ faq:
   answer: Tinned works in an emergency. Use a splash of the juice in the sauce for
     extra sweetness.
 steps:
-- Get oil smoking hot in a pan. Add in the garlic, onion, cauliflower, and carrot.
-  Sear for 5 minutes until the onion softens.
-- Toss in the cucumber, tomato, pineapple, and pepper. Sauté for another 5 minutes.
-- Pour in the veg stock. Blast the heat to max and boil for 2 minutes.
-- Stir in the soy sauce, vinegar, sugar, and tomato sauce.
-- Whisk the corn flour with the water. Pour it into the boiling pan and stir aggressively
-  until the sauce thickens into a glaze.
+- Get your oil smoking hot in a large pan or wok. Throw in the garlic, onions, cauliflower,
+  and carrots, searing for about 5 minutes until the onion starts to soften.
+- Toss in the cucumber, tomatoes, sweet pineapple, and peppers, cooking for another
+  5 minutes.
+- Pour in the vegetable stock, blast the heat to maximum, and bring to a boil for
+  2 minutes.
+- Stir in the soy sauce, vinegar, sugar, and tomato sauce until completely combined.
+- Whisk the corn starch with the water in a small cup. Pour it straight into the
+  bubbling pan and stir quickly and constantly until the sauce thickens into a gorgeous,
+  glossy glaze.
 ---
 

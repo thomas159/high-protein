@@ -29,18 +29,17 @@ rating: null
 reviews: null
 tipsTitle: Crispy Carrot Tips
 tips:
-- 'Uniform Cuts: Slice them consistently. Thick ones stay raw while thin ones turn
-  to ash.'
+- 'Uniform Cuts: Slice them consistently. Thick ones stay raw while thin ones quickly
+  scorch and burn.'
 - 'Don''t Overcrowd: Give them space in the basket. Overcrowding equals steaming,
   not crisping.'
 works:
-- 'Protein-Starch Crisp: As the air fryer evaporates moisture from the carrot''s surface,
-  the high-protein parmesan melts and fuses with the natural sugars. This creates
-  a rigid, caramelised exoskeleton that delivers a satisfying snap.. It’s like a PB
-  for your tastebuds, fuelling your recovery without the heavy prep.. Look for a glossy,
-  thick texture—if it’s watery, you’ve failed the emulsion and need to reduce it further.'
-- 'Air Fried Crunch: The circulating heat crisps the cheese and edges with a fraction
-  of the oil.'
+- 'Crispy Parmesan Trick: As the air fryer draws out the surface moisture, the grated
+  cheese melts and merges with the roasted edges of the carrot. This creates a beautifully
+  crisp, golden crust that delivers a major satisfying crunch, keeping the fries
+  from going soggy.'
+- 'Air Fried Crunch: The circulating heat quickly crisps the cheese and edges with a
+  fraction of the oil.'
 use:
 - 'Volume Eating: An elite, low-calorie alternative to smash your chip cravings.'
 - 'Superset Side: Perfect alongside a heavy protein main.'
@@ -87,7 +86,7 @@ faq:
     snacking.
 steps:
 - Cut the carrots into uniform strips so they cook evenly.
-- In a bowl, aggressively coat the strips with olive oil, salt, minced garlic, and
+- In a bowl, thoroughly coat the strips with olive oil, salt, minced garlic, and
   parmesan.
 - Space them out in a single layer in the air fryer basket. Blast at 180°C for 16-20
   minutes. Shake halfway through so the cheese crisps evenly.

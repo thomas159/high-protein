@@ -34,16 +34,16 @@ tipsTitle: Elevate the Bowl
 tips:
 - 'Texture Control: Pull them 30 seconds early. They''ll keep cooking in the residual
   heat.'
-- 'Sauce Emulsion: Keep some starchy water to mix into your glaze—it helps the sauce
-  violently cling to the noodles.'
+- 'Silky Sauce Trick: Keep some starchy water to mix into your glaze—it helps the sauce
+  cling beautifully to the noodles.'
 - 'Volume Boost: Toss in a handful of baby spinach or pak choi at the end for an effortless
   micronutrient hit.'
 works:
-- 'Osmotic Glazing: By boiling off the stock rather than draining it, the starchy
+- 'Stock Absorption Magic: By boiling off the stock rather than draining it, the starchy
   water reduces into a concentrated syrup. The porous noodles act like sponges, absorbing
-  the heavy sodium and soy compounds through osmosis while the residual starch forms
-  a thick, clinging glaze.. Look for a glossy, thick texture—if it’s watery, you’ve
-  failed the emulsion and need to reduce it further.'
+  all that savoury soy flavour directly into their core while the starch forms a glossy
+  glaze. Look for a glossy, thick coating—if it is runny, you just need to simmer and reduce
+  it for a bit longer.'
 - 'Acid Balance: A tiny splash of rice vinegar cuts the heavy sesame oil and wakes
   up the palate.'
 use:
@@ -51,7 +51,7 @@ use:
 - 'Midnight Fuel: Quick, savoury, and zero cleanup.'
 - 'Base Builder: Toss in a soft-boiled egg or leftover veg for a complete meal.'
 variations:
-- 'Peanut Twist: Aggressively stir in some peanut butter.'
+- 'Peanut Twist: Give it a solid stir with some peanut butter.'
 - 'Volume Prep: Toss in shredded carrots and edamame.'
 rating: null
 reviews: null
@@ -98,7 +98,7 @@ steps:
 - Boil the stock in a wide pan. Drop in the noodles. Cook for 2–3 minutes, teasing
   the block apart. Let the stock reduce by half to build a glaze.
 - Drop the heat. Stir in the soy sauce, sesame oil, rice vinegar, and sriracha. Toss
-  vigorously for 30 seconds to coat.
+  thoroughly for 30 seconds to coat.
 - Plate up. Top it with spring onions (scallions) and crispy fried onions. Squeeze
   a lime over the top and enjoy.
 ---

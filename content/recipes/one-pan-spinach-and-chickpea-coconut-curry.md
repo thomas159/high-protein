@@ -5,12 +5,8 @@ categories:
 title: Easy 25-Minute Velvety Spinach & Chickpea Coconut Curry
 slug: one-pan-spinach-and-chickpea-coconut-curry
 meta:
-  seoMetaDescription: Want a comforting curry fast? This easy 25-minute velvety spinach
-    & chickpea coconut curry is high-protein vegan fuel.
-description: 'A brilliantly efficient easy 25-minute one-pan curry loaded with plant-based
-  iron from the spinach and solid protein from the chickpeas. Toasting the dry spices
-  in coconut oil releases massive flavour, creating a velvety broth. Perfectly anti-inflammatory
-  for post-workout recovery.
+  seoMetaDescription: Want a comforting curry fast? This easy 25-minute velvety spinach & chickpea coconut curry is high-protein vegan fuel.
+description: 'Looking for a fast, comforting meal after a heavy training block? This brilliantly straightforward one-pan curry is packed with iron from fresh spinach and solid plant-based protein from chickpeas. Toasting your spices in a touch of coconut oil releases a warm, rich aroma that builds into a velvety, satisfying broth.
 
   '
 image: one-pan-spinach-and-chickpea-coconut-curry_ffy601
@@ -29,34 +25,22 @@ keywords:
 - one-pan
 - spinach
 - vegan
-servingSuggestions: The ultimate high-volume main. Smash this over a massive portion
-  of brown rice or quinoa. Use a toasted naan to mop up every last drop of the coconut
-  broth.
+servingSuggestions: The ultimate high-volume main. Smash this over a massive portion of brown rice or quinoa. Use a toasted naan to mop up every last drop of the coconut broth.
 shelf_life: Lasts 4 days in the fridge. The flavours actually deepen overnight.
-storageInstructions: Fridge for up to 4 days. Freezes incredibly well for up to 3
-  months. Thaw overnight and reheat gently.
-whyTitle: Nutrient Spotlight
+storageInstructions: Fridge for up to 4 days. Freezes incredibly well for up to 3 months. Thaw overnight and reheat gently.
+whyTitle: The Easy Macro Win
 why:
-- 'Plant-Based Iron: Spinach and chickpeas deliver a massive iron hit, crucial for
-  maintaining energy during a heavy training block.'
-- 'Heavy Fuel: Coconut milk provides dense, healthy fats for sustained energy.'
-- 'Anti-Inflammatory: Turmeric and ginger actively help reduce muscle soreness after
-  a brutal session.'
+- 'Plant-Bound Iron: Spinach and chickpeas deliver a solid hit of iron, which is brilliant for keeping your energy levels high during a heavy training block.'
+- 'Energy-Rich Fat: Coconut milk provides dense, clean fats to keep you fueled and satisfied for hours.'
+- 'Spice-Driven Recovery: Including turmeric and ginger in your meals is a traditional, warming way to help soothe sore muscles after a tough session.'
 tipsTitle: Time-saving Tips
 tips:
-- 'The 10-Minute Shortcut: Swap the individual spices for a high-quality pre-made
-  curry paste if you''re in a rush.'
-- 'Frozen Over Fresh: Skip the fresh spinach. Frozen pellets are cheaper and you can
-  toss them straight into the bubbling pan.'
-- 'Fat is Flavour: Use full-fat coconut milk. ''Lite'' versions will just give you
-  a watery, depressing broth.'
+- 'Curry Paste Shortcut: Swap the dry spices for a couple of spoons of high-quality, store-bought curry paste if you are tight on time.'
+- 'Frozen Over Fresh: Keep it simple and use frozen spinach pellets instead of fresh leaves. They are cheaper, require zero washing, and you can toss them straight into the bubbling pan.'
+- 'Rich Coconut Rule: Do not ruin this with watery ''light'' coconut milk. Go for the full-fat stuff to ensure you get a properly rich, satisfying sauce.'
 works:
-- 'Lipid-Soluble Extraction: The flavour compounds in cumin, coriander (cilantro),
-  and turmeric are fat-soluble. Toasting them in hot coconut oil violently extracts
-  and disperses these compounds into the fat, creating a massively amplified flavour
-  base that water or stock simply cannot achieve.'
-- 'Natural Thickening: Chickpea starches leach into the coconut milk, naturally thickening
-  the curry without any flour.'
+- 'Searing Oil Trick: Toasting your dry spices in warm coconut oil draws out their natural oils. It builds a deeply aromatic, rich base that water or stock alone simply cannot replicate.'
+- 'Chickpea Thickening: As the chickpeas simmer, they release natural starches into the liquid. This naturally thickens your curry into a rich, spoonable sauce without needing cornflour (cornstarch) or flour.'
 use:
 - 'Macro Prep: Batch cook a large pan on Sunday to fuel your week.'
 - 'Warming Dinner: Elite comfort food over basmati rice.'
@@ -118,20 +102,14 @@ ingredients:
   unit: tsp
 faq:
 - question: Can I use light coconut milk?
-  answer: You can, but the broth will be pathetic and thin. Full-fat provides the
-    elite, velvety texture.
+  answer: You can, but the broth will be pathetic and thin. Full-fat provides the elite, velvety texture.
 - question: Do I have to use fresh spinach?
   answer: Frozen works perfectly. Just lob it in during the last 5 minutes of simmering.
 steps:
-- Heat coconut oil in a large pan. Sauté the onion for 5-10 minutes until soft.
-- Stir in the turmeric, coriander (cilantro), and cumin. Toast for 2 minutes to aggressively
-  release their oils.
-- Add the garlic and ginger. Cook for 1-2 minutes until fragrant.
-- Add the chopped tomatoes and cook for 3-4 minutes until they break down into a jammy
-  paste.
-- Pour in the chickpeas, spinach, vegetable stock, and coconut milk. Bring to a violent
-  boil, then drop the heat.
-- Simmer for 5-10 minutes until the sauce thickens. Stir in Kasuri Methi at the very
-  end if you have it.
+- Heat a splash of coconut oil in a large pan over medium heat. Sauté your chopped onion for a few minutes until it softens and turns translucent.
+- Stir in the turmeric, coriander (cilantro), and cumin. Toast them for a minute or two to let the heat draw out their natural oils.
+- Slide in the minced garlic and grated ginger, cooking for another minute until you can smell the aromas.
+- Toss in your chopped tomatoes and let them cook down for a few minutes until they soften into a thick, jammy paste.
+- Pour in the drained chickpeas, spinach, vegetable stock, and coconut milk. Bring the mixture to a boil, then drop the heat right down.
+- Let it simmer gently for about ten minutes until the spinach has wilted and the sauce has thickened nicely. Stir in some dried fenugreek leaves at the end if you have them, and serve.
 ---
-

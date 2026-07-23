@@ -5,19 +5,14 @@ categories:
 title: Quick 5-Minute Ultra-Creamy Low-Calorie Garlic Sauce
 slug: creamy-low-calorie-garlic-sauce
 meta:
-  seoMetaDescription: Need a macro-friendly dip? This quick 5-minute ultra-creamy
-    low-calorie garlic sauce uses Greek yoghurt for a rich punch.
-description: 'A brilliant low-calorie swap that doesn''t taste like diet food. Using
-  a heavy ratio of Greek yoghurt to mayonnaise slashes the fat while delivering a
-  massive protein spike.
+  seoMetaDescription: Need a macro-friendly dip? This quick 5-minute ultra-creamy low-calorie garlic sauce uses Greek yoghurt for a rich punch.
+description: 'The ultimate macro swap that actually tastes like a proper restaurant tableside treat. By swapping out heavy oil for thick Greek yoghurt, you get a massive protein boost with a fraction of the fat.
 
 
-  A quick ultra-creamy texture that acts as the perfect dip for your meal prep. It''s
-  lean, efficient, and hits all the right macros.
+  It is a thick, spoonable garlic fix that pairs with almost any meal-prep container in your fridge. No watery, sad diet dressing here—just rich, punchy satisfaction.
 
 
-  Tested multiple times to perfectly balance the sharp raw garlic bite against the
-  tangy Greek yoghurt, so it tastes like a genuine, premium aioli.
+  I spent some time fine-tuning the garlic ratio so it delivers a proper kick without burning your tastebuds off.
 
   '
 blurb: []
@@ -25,18 +20,14 @@ image: garlic-sauce_dz8yhf
 alt: Creamy low calorie garlic sauce in a small dipping bowl
 tags:
 - keto
-tipsTitle: Variations to Try
+tipsTitle: Dip Upgrades
 tips:
 - 'Acid Hit: A fresh squeeze of lemon instantly brightens the heavy garlic profile.'
 - 'Herb Infusion: Stir in a heavy pinch of dried dill or fresh chives.'
 - 'Fire Starter: A dash of cayenne or hot sauce gives it a lingering kick.'
 works:
-- 'Fat Balance: Greek yoghurt aggressively slashes the calories while maintaining
-  a thick, premium texture. It''s the ultimate macro hack.'
-- 'Enzymatic Mellowing: Resting the sauce allows the sharp allicin enzymes in the
-  raw garlic to oxidise and mellow out in the fat of the mayo and yoghurt. This prevents
-  the garlic from chemically burning your palate. If you eat it immediately, the raw
-  garlic will be overpowering.'
+- 'The Greek Yoghurt Trick: Thick Greek yoghurt cuts down the calories while keeping that rich, satisfying thickness. It is the ultimate shortcut to heavy-hitting volume without the fat.'
+- 'Garlic Bath: Mincing the garlic and letting it rest in the cool yoghurt-mayo mix softens its raw heat. The fat coats the garlic, taking away that harsh, chemical sting on your tongue and leaving you with pure, savoury flavour. Try to give it ten minutes before serving if you can control yourself.'
 use:
 - 'As a Dip: Elite for sweet potato fries or raw veg.'
 - 'As a Spread: Slather it inside a high-protein wrap.'
@@ -56,7 +47,7 @@ keywords:
 - quick
 - sauce
 servingSuggestions: The ultimate dipping companion for carrot sticks or warm pita.
-  Brilliant for cooling down aggressively spicy mains.
+  Brilliant for cooling down particularly spicy mains.
 storageInstructions: Fridge for 4 days in an airtight tub. Do not freeze, the yoghurt
   will separate entirely.
 prepTimeMins: 5
@@ -93,11 +84,8 @@ faq:
 - question: How long does this sauce last in the fridge?
   answer: 4 days. The garlic actually gets punchier after 24 hours.
 steps:
-- Whisk the mayo and Greek yoghurt in a bowl for 1-2 minutes until completely smooth,
-  thick, and glossy. If it's lumpy, keep whisking, lumps here will ruin the final
-  velvety texture.
+- Whisk the mayo and Greek yoghurt in a bowl for 1-2 minutes until completely smooth, thick, and glossy. Lumps here will ruin the final velvety texture.
 - Fold in the minced garlic, salt, and pepper.
-- Stir in half the spring onions (scallions). Leave it in the fridge for 15 minutes
-  to let the flavours marry. Top with the remaining onions when serving.
+- Stir in half the spring onions (scallions). Leave it in the fridge for 15 minutes to let the flavours marry. Top with the remaining onions when serving.
 ---
 

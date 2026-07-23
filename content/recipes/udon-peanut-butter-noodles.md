@@ -8,11 +8,12 @@ meta:
   seoMetaDescription: Want creamy noodles fast? These quick 15-minute ultra-creamy
     peanut butter udon noodles are a high-protein vegan powerhouse.
 description: 'Thick, chewy udon noodles tossed in a quick 15-minute ultra-creamy Thai
-  peanut sauce. Crafted with roasted peanuts, aromatic red curry paste, and rich coconut
+  peanut sauce. Crafted with rich peanut butter, aromatic red curry paste, and silky coconut
   milk.
 
-  Dialled in to fuel your recovery. Developed over a brutal bulking phase to cram
-  in massive, clean calories without the hassle.
+  This meal is dialed in to power your post-workout recovery. I developed this during a heavy
+  training block when I needed massive, clean carbs and a solid hit of plant-based protein
+  on the table in a hurry.
 
   '
 image: udon-peanut-butter-noodles_qufch8
@@ -31,25 +32,24 @@ tags:
 - fusion
 - high-protein
 - vegan
-tipsTitle: Wok Mechanics
+tipsTitle: Noodle Secrets
 tips:
-- 'Rinse the Udon: Blast vacuum-packed udon under hot water to loosen the strands.
-  Adding them cold will just snap them.'
-- 'Tofu Texture: Press the tofu ruthlessly dry. Let it sear completely undisturbed
-  to build a crust before you start tossing it.'
-- 'Sauce Consistency: Peanut butter seizes up as it cools. If meal prepping, aggressively
-  stir in a splash of warm water when reheating to resurrect the glaze.'
+- 'Rinse the Udon: Give vacuum-packed udon noodles a quick rinse under hot water to loosen the strands.
+  If you throw them into the pan cold, they will snap instantly.'
+- 'Tofu Crisping: Make sure your tofu is pressed completely dry. Let it sear in the hot oil
+  completely undisturbed to build a beautiful crust before you start tossing.'
+- 'Smooth Reheat: Peanut butter thickens up rapidly as it cools. If you are meal prepping,
+  simply stir in a small cup of warm water when you microwave it to make it velvety again.'
 works:
-- 'Noodle Geometry: Thick, chewy udon provides massive surface area to hold the heavy
-  peanut sauce.'
-- 'Emulsification & Starch Adhesion: The heavy fats from the peanut butter and coconut
-  milk are naturally unstable. Vigorously tossing them with the residual starchy udon
-  water forces a stable emulsion, creating a thick, high-viscosity glaze that chemically
-  clings to the dense surface area of the noodles.'
+- 'The Heavy Noodle Trick: Thick, chewy udon noodles provide a perfect wide surface
+  that holds onto a heavy peanut sauce much better than thin spaghetti.'
+- 'Creamy Noodle Trick: Combining starchy noodle water with thick fats like peanut butter
+  and coconut milk forms a rich, velvety glaze. Giving it a rapid toss forces them
+  to fuse together instead of separating, letting the sauce coat every noodle in a thick layer.'
 use:
-- 'Heavy Refeed: Massive carbs and plant-based protein to restock glycogen.'
-- 'Rapid Lunch: 15 minutes from raw ingredients to fully plated.'
-- 'Macro Prep: Eating it cold straight from the fridge the next day is elite.'
+- 'Post-Workout Reload: Massive carbs and quality plant-based protein to restock your glycogen reserves.'
+- 'Rapid Lunch: Exactly 15 minutes from raw ingredients to a fully loaded plate.'
+- 'Elite Meal Prep: Eating these noodles cold straight from the fridge the next day is an absolute dream.'
 rating: null
 variations:
 - 'Volume Fix: Bulk it out with steamed broccoli florets.'
@@ -110,17 +110,17 @@ faq:
   answer: Yes, but boil them first. Fresh vacuum-packed udon are the ultimate cheat
     code for speed.
 - question: Why is my peanut sauce clumpy?
-  answer: Peanut butter seizes up. Whisk vigorously with a splash of warm water over
-    low heat to force it back into an emulsion.
+  answer: Peanut butter can seize up when it hits heat. Simply whisk in a splash of
+    warm water over low heat to bring it back to a creamy, smooth texture.
 steps:
-- Boil the udon noodles according to the packet. Drain, but strictly reserve a splash
-  of the starchy cooking water. You will need this later.
-- Heat coconut oil in a large wok. Sauté the sliced carrots, peppers, and tofu for
-  5 minutes until the veg softens and the tofu catches a crust.
-- Add the curry paste, coconut milk, soy sauce, and sugar. Cook for 2 minutes to build
-  a silky sauce. If the peanut butter seizes and goes claggy, violently whisk in that
-  reserved noodle water.
-- Drop the heat. Fold the udon into the pan and hit it with a squeeze of lime. Toss
-  aggressively to coat every strand.
+- Boil your udon noodles according to the packet instructions. Drain them, but make
+  sure to reserve a splash of the starchy cooking water.
+- Heat coconut oil in a large wok or deep pan. Sauté the sliced carrots, bell peppers,
+  and cubed tofu for 5 minutes until the vegetables soften and the tofu gets a light crust.
+- Add the curry paste, coconut milk, peanut butter, soy sauce, and sugar, cooking for
+  2 minutes to melt everything together. If the sauce becomes claggy, quickly whisk in
+  your reserved cooking water to build a glossy, smooth coat.
+- Drop the heat right down. Fold the udon noodles into the pan, hit them with a squeeze
+  of fresh lime, and toss everything thoroughly until every single strand is coated in sauce.
 ---
 

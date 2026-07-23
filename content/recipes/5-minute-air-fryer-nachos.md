@@ -7,20 +7,7 @@ slug: 5-minute-air-fryer-nachos
 meta:
   seoMetaDescription: Need a snack fast? These 5-minute air fryer nachos deliver instant,
     cheesy gratification with zero prep time.
-description: 'Waiting 20 minutes for an oven to preheat after a brutal leg session
-  is ridiculous. You shouldn''t spend more time cooking a snack than eating it. These
-  air-fryer nachos take exactly five minutes and deliver instant, cheesy gratification.
-
-
-  **Proper layering matters.** I tested this multiple times to perfectly balance the
-  sharp cheddar flavour with the acidity of fresh lime juice. Build distinct layers.
-  This ensures the top melts completely without turning the base chips to ash.
-
-
-  Packing **~14g of protein** per serving, this quick fix hits your daily targets.
-  Plus, cleanup is minimal.
-
-  '
+description: 'Waiting 20 minutes for an oven to preheat after a brutal leg session is ridiculous. You shouldn''t spend more time cooking a snack than eating it. These air-fryer nachos take exactly five minutes and deliver instant, cheesy gratification. **Proper layering matters.** This took me a few attempts to dial in, balancing the sharp cheddar flavour with raw lime juice. Building distinct layers ensures the top melts completely without burning the base chips. Packing a serious hit of protein per serving, this quick fix hits your daily targets with minimal cleanup.'
 image: 5-minute-air-fryer-nachos_gf3zzd
 alt: 5 minute air fryer nachos with melted cheese and tomatoes
 pintrest: ''
@@ -33,12 +20,12 @@ tips:
 - 'The parchment sling: build your nachos on a sheet of parchment paper inside the
   basket. When they finish cooking, just lift the whole thing out.'
 works:
-- 'Dry heat vs. microwave: microwaves steam chips and produce soggy, limp results.
-  Air fryers keep chips crisp.'
-- 'Instant heat: the small chamber reaches temperature quickly, so you avoid a lengthy
+- 'Dry Heat Crunch: Microwaves steam chips and produce soggy, limp results, whereas
+  air fryers keep chips crisp.'
+- 'Instant Heat: The small chamber reaches temperature quickly, so you avoid a lengthy
   oven preheat.'
-- 'Thermal mechanics: the circulating hot air rapidly melts the fats in the cheese,
-  ensuring an even, golden melt.'
+- 'Hot Air Magic: The circulating hot air rapidly melts the cheese, ensuring an even,
+  golden melt.'
 use:
 - 'Emergency refeed: a hot, cheesy hit that''s ready faster than your oven can even
   turn on.'
@@ -119,7 +106,7 @@ steps:
 - '**Build it in two tiers** so every single chip pulls its weight. Layer on the grated
   cheese, followed by the chopped tomatoes and red onions.'
 - Blast them at 160°C for 3 to 5 minutes. Do not walk away from this. The line between
-  perfectly bubbling golden cheese and burnt ash is exactly 15 seconds.
+  perfectly bubbling golden cheese and a burnt disaster is a matter of seconds.
 - The cheese should be fully melted and starting to bubble at the edges. If the tortilla
   chips start turning dark brown, pull them immediately or they will taste bitter.
 - Carefully lift the parchment paper to slide the nachos out. Finish it off with fresh
