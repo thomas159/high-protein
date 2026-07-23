@@ -12,7 +12,7 @@ description: Una gran dosis de proteína disfrazada de helado de matcha terroso 
   terrosas para lograr una estructura ultracremosa. Ninja Creami convierte esta mezcla
   macro en una obra maestra absoluta. Un código de trucos de postre total para los
   amantes del té verde.
-image: inja-creami-matcha-ice-cream_cf4gjc
+image: ninja-creami-matcha-ice-cream_cf4gjc
 alt: Helado de proteína Matcha en pinta de Ninja Creami
 pintrest: ''
 tags:
