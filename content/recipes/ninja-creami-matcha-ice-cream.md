@@ -66,7 +66,7 @@ ingredients:
   amount: 60
   unit: g
 - item: Matcha powder
-  amount: 30
+  amount: 20
   unit: g
 - item: Honey
   amount: 25

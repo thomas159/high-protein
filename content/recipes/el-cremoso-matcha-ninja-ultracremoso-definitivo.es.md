@@ -86,7 +86,7 @@ ingredients:
   amount: 60
   unit: g
 - item: polvo de matcha
-  amount: 30
+  amount: 20
   unit: g
 - item: Miel
   amount: 25
