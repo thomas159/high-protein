@@ -53,7 +53,7 @@ const scrollToRecipe = () => {
         <RecipesBreadcrumbs :recipe="props.recipe" />
       </div>
        <RecipesTags :recipe="props.recipe" />
-      <h1 class="mb-">
+      <h1 class="text-5xl md:text-7xl font-black uppercase tracking-tighter italic text-white leading-tight mb-6">
         {{ props.recipe.title }}
       </h1>
 

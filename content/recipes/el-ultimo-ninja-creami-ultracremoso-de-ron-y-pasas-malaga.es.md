@@ -1,4 +1,7 @@
----
+--- 
+categories:
+- dessert
+- ninjacreami
 title: El último Ninja Creami ultracremoso de ron y pasas (Málaga)
 slug: el-ultimo-ninja-creami-ultracremoso-de-ron-y-pasas-malaga
 meta:
@@ -16,22 +19,18 @@ description: 'Un postre aterciopelado y alcohólico de ron y pasas (también con
 image: ninja-creami-rum-and-raisin-ice-cream_tku2cj
 alt: Helado proteico de ron y pasas en una pinta de Ninja Creami
 pintrest: ''
-categories:
-- postre
-- alto-en-proteina
-- aperitivos
 tags:
-- fácil
-- alto en proteínas
+- easy
+- high-protein
 cuisine: Británica
 keywords:
-- ninja creami
-- ron con pasas
-- helado proteico
-- postre saludable
-- fácil
 - boozy
+- easy
+- helado proteico
 - málaga
+- ninja creami
+- postre saludable
+- ron con pasas
 tipsTitle: Mecanica Creami
 tips:
 - 'La paciencia es obligatoria: congele la pinta completamente nivelada durante 24
@@ -132,3 +131,4 @@ steps:
 - Ahueca el centro, agrega las pasas empapadas en ron (drenando el exceso de líquido
   si lo prefieres) y ejecuta el programa 'Mix-In'. Demoler inmediatamente.
 ---
+

@@ -1,4 +1,7 @@
----
+--- 
+categories:
+- 15minutemeals
+- airfryer
 title: Los mejores nachos crujientes con freidora de aire en 5 minutos
 slug: los-mejores-nachos-crujientes-con-freidora-de-aire-en-5-minutos
 meta:
@@ -21,10 +24,6 @@ description: 'Esperar 20 minutos a que se precaliente un horno después de una b
 image: 5-minute-air-fryer-nachos_gf3zzd
 alt: Nachos freidora de 5 minutos con queso derretido y tomates
 pintrest: ''
-categories:
-- air-fryer
-- comidas-de-5-minutos
-- aperitivos
 tipsTitle: Consejo profesional
 tips:
 - 'Ralla tu propio queso: ralla siempre en bloque. Esas bolsas previamente trituradas
@@ -48,18 +47,17 @@ use:
 - 'Almuerzo macro: cárguelo con frijoles negros y más verduras para una comida de
   gran volumen.'
 tags:
-- vegetariano
-- aperitivo
 - mexican
+- snack
 cuisine: Mexicana
 keywords:
-- nachos
+- 5 minutos
+- cheese
 - freidora de aire
 - mexicano
-- cheese
-- snack
-- 5 minutos
+- nachos
 - rápido
+- snack
 whyTitle: Why use an air fryer?
 why:
 - 'Preserved crunch: the air fryer keeps the chips perfectly crisp. The microwave
@@ -132,3 +130,4 @@ steps:
 - Levante con cuidado el papel pergamino para sacar los nachos. Termine con cebolletas
   frescas (cebolletas), crema agria y un chorrito de jugo de lima.
 ---
+

@@ -1,4 +1,7 @@
----
+--- 
+categories:
+- airfryer
+- dessert
 title: Tarta de queso proteica fácil y aterciopelada con freidora de aire de 25 minutos
 slug: tarta-de-queso-proteica-facil-y-aterciopelada-con-freidora-de-aire-de-25-minutos
 meta:
@@ -14,22 +17,18 @@ description: 'Satisface tu antojo de tarta de queso sin destruir tus macros. Al 
   Puro confort, reconstruido para tus macros.'
 image: air-fryer-low-calorie-cheesecake_ekn9ky
 alt: Tarta de queso baja en calorías con freidora en un molde
-categories:
-- air-fryer
-- keto
-- postre
 tags:
+- high-protein
 - keto
-- alto en proteínas
 cuisine: Americana
 keywords:
-- tarta de queso
-- freidora de aire
-- bajo en calorías
-- keto
-- americano
-- postre
 - alto-en-proteina
+- americano
+- freidora de aire
+- keto
+- low-calorie
+- postre
+- tarta de queso
 rating: null
 reviews: null
 tipsTitle: Trucos de tarta de queso
@@ -96,3 +95,4 @@ steps:
 - Sácalo y déjalo enfriar a temperatura ambiente. Mételo en el frigorífico durante
   al menos dos horas para que cuaje por completo.
 ---
+

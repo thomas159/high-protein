@@ -1,4 +1,6 @@
----
+--- 
+categories:
+- airfryer
 title: Los mejores palitos de mozzarella extra crujientes para freidora de aire
 slug: los-mejores-palitos-de-mozzarella-extra-crujientes-para-freidora-de-aire
 meta:
@@ -19,10 +21,6 @@ description: 'Sáltate las opciones congeladas. El doble pan de estos palitos de
 image: air-fryer-mozarella-sticks_oiud1f
 alt: Palitos de mozzarella crujientes para freidora con tira de queso
 pintrest: ''
-categories:
-- air-fryer
-- aperitivos
-- tendencia
 tipsTitle: Consejo del chef
 tips:
 - 'La salsa doble: Nunca te saltes el doble empanizado. Construye una armadura estructural
@@ -50,16 +48,15 @@ use:
   de la freidora.'
 cuisine: Americana
 tags:
-- aperitivo de fiesta
-keywords:
-- mozzarella sticks
-- freidora de aire
-- cheese
 - snack
-- crujiente
+keywords:
 - americano
-- aperitivo
+- cheese
+- crujiente
+- freidora de aire
+- mozzarella sticks
 - palitos de mozzarella caseros
+- snack
 whyTitle: Why use an air fryer?
 why:
 - 'Superior Crunch: The circulating air delivers a deep-fried texture without swimming
@@ -144,3 +141,4 @@ steps:
     escapar. Si permanecen sentados demasiado tiempo, colapsarán.
   image: air-fryer-mozarella-sticks-step-4-1_lpj3gg
 ---
+

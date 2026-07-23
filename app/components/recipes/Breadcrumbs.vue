@@ -46,7 +46,7 @@ const backLink = computed(() => {
   // use the recipe's first primary category
   if (props.recipe?.categories?.length) {
     const primarySlug = props.recipe.categories[0] // This is usually the key or English slug
-    const matched = RECIPE_CATEGORIES.find(c => c.key === primarySlug || c.slug === primarySlug)
+    const matched = RECIPE_CATEGORIES.find(c => c.key === primarySlug)
     const key = matched?.key || 'allrecipes'
     const translatedSlug = t(`categorySlugs.${key}`)
 

@@ -1,4 +1,6 @@
----
+--- 
+categories:
+- snacks
 title: El cremoso Matcha Ninja ultracremoso definitivo
 slug: el-cremoso-matcha-ninja-ultracremoso-definitivo
 meta:
@@ -13,22 +15,18 @@ description: Una gran dosis de proteína disfrazada de helado de matcha terroso 
 image: inja-creami-matcha-ice-cream_cf4gjc
 alt: Helado de proteína Matcha en pinta de Ninja Creami
 pintrest: ''
-categories:
-- postre
-- alto-en-proteina
-- aperitivos
 tags:
-- alto en proteínas
+- high-protein
 cuisine: Inspirada en Japón
 keywords:
-- ninja creami
-- matcha
-- té verde
-- helado proteico
-- postre saludable
 - alto-en-proteina
 - helado
+- helado proteico
+- matcha
 - miel
+- ninja creami
+- postre saludable
+- té verde
 tipsTitle: Mecanica Creami
 tips:
 - 'La regla de la pasta de Matcha: no verter el matcha directamente en el líquido
@@ -130,3 +128,4 @@ steps:
 - 'Disfruta de inmediato. Opcional: ejecute el programa ''Mix-In'' con chispas de
   chocolate blanco.'
 ---
+

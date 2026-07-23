@@ -1,4 +1,6 @@
----
+--- 
+categories:
+- 15minutemeals
 title: Baba Ganoush rápido y ultracremoso para microondas en 15 minutos
 slug: baba-ganoush-rapido-y-ultracremoso-para-microondas-en-15-minutos
 meta:
@@ -14,24 +16,19 @@ description: '¿Te apetece un mezze del Medio Oriente pero no quieres esperar 45
   a fuego abierto.'
 image: quick-microwave-baba-ganoush_douf9l
 alt: Baba ganoush rápido para microondas rociado con aceite de oliva
-categories:
-- salsas
-- vegano
-- comidas-de-15-minutos
 tags:
-- vegano
-- salsa para mojar
-- mediterráneo
 - keto
+- mediterranean
+- sauce
+- vegan
 cuisine: Medio Oriente
 keywords:
 - baba ganoush
 - berenjena
-- berenjena
-- microondas
 - medio oriente
-- vegano
-- salsa para mojar
+- microondas
+- sauce
+- vegan
 tipsTitle: Perfección ahumada
 tips:
 - 'La seguridad es lo primero: Pinchar agresivamente la berenjena (berenjena) con
@@ -117,3 +114,4 @@ steps:
   durante 1 a 2 minutos hasta que se forme una emulsión cremosa y cohesiva.
 - Sazone con sal. Sumérgelo en aceite de oliva y una pizca extra de pimentón.
 ---
+

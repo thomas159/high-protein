@@ -11,7 +11,7 @@ const { t } = useI18n()
     </div>
     
     <div class="max-w-xl text-center md:text-left">
-      <h2 class="text-2xl font-bold text-foreground mb-2">{{ t('home.about.hi', { author: appConfig.author }) }}</h2>
+      <h2 class="text-2xl font-black uppercase tracking-tighter italic text-white mb-2">{{ t('home.about.hi', { author: appConfig.author }) }}</h2>
       <p class="text-muted-foreground mb-4 leading-relaxed">
         {{ t('home.about.description', { siteName: appConfig.siteName }) }}
       </p>

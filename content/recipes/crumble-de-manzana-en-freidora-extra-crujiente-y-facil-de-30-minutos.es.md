@@ -1,4 +1,7 @@
----
+--- 
+categories:
+- airfryer
+- dessert
 title: Crumble de manzana en freidora extra crujiente y fácil de 30 minutos
 slug: crumble-de-manzana-en-freidora-extra-crujiente-y-facil-de-30-minutos
 meta:
@@ -11,24 +14,15 @@ description: Un postre post-entrenamiento que no arruina tu dieta. Las manzanas 
 image: high-protein-air-fryer-apple-crumble_plgb9p
 alt: Crumble de manzana para freidora con alto contenido de proteínas en un molde
 pintrest: ''
-categories:
-- alto-en-proteina
-- air-fryer
-- vegetariano
-- cena
-- desayuno
-- tendencia
-- postre
 tags:
-- alto en proteínas
+- high-protein
 cuisine: Británica
 keywords:
-- apple crumble
-- freidora de aire
 - alto-en-proteina
-- postre
+- apple crumble
 - británico
-- vegetariano
+- freidora de aire
+- postre
 tipsTitle: Mecánica de desmoronamiento
 tips:
 - 'Selección de manzana: Utilice una manzana ácida y picante como Granny Smith. La
@@ -133,3 +127,4 @@ steps:
 - text: Sáquelo (estará muy caliente). Déjalo reposar durante 3 minutos para que el
     jugo de manzana se espese y forme un almíbar, luego disfrútalo.
 ---
+

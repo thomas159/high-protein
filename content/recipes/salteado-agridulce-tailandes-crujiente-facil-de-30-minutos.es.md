@@ -1,4 +1,6 @@
----
+--- 
+categories:
+- snacks
 title: Salteado agridulce tailandés crujiente fácil de 30 minutos
 slug: salteado-agridulce-tailandes-crujiente-facil-de-30-minutos
 meta:
@@ -13,23 +15,18 @@ description: Alcance sus objetivos diarios de micronutrientes con este sencillo 
 image: sweet-and-sour-vegetables_covgep
 alt: Revuelva las verduras agridulces fritas en un bol
 pintrest: ''
-categories:
-- vegano
-- cena
-- comidas-de-30-minutos
-- tendencia
 cuisine: Tailandesa
 keywords:
-- salteado
 - agridulce
-- verduras
-- tailandés
-- vegano
-- saludable
 - agridulce vegano
+- salteado
+- saludable
+- thai
+- vegan
+- verduras
 tags:
-- vegano
-- tailandés
+- thai
+- vegan
 rating: null
 reviews: null
 tipsTitle: Habilidades de wok
@@ -131,3 +128,4 @@ steps:
 - Batir la harina de maíz con el agua. Viértalo en la olla hirviendo y revuelva agresivamente
   hasta que la salsa se espese y se convierta en un glaseado.
 ---
+

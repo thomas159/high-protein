@@ -1,40 +1,66 @@
----
-title: "Extra Crispy 15-Minute Air Fryer Czech Fried Cheese"
-slug: "air-fryer-fried-cheese-czech-style"
-meta: {
-  seoMetaDescription: "Craving comfort food? This extra crispy 15-minute air fryer Czech fried cheese gives you a massive gooey block without the oil."
-}
-description: |
-  Authentic Czech Smažený Sýr, completely rebuilt for the air fryer. A thick, gooey block of cheese with an extra crispy 15-minute shell. The double breading acts as structural armour so the cheese doesn't leak.
+--- 
+categories:
+- 15minutemeals
+- airfryer
+title: Extra Crispy 15-Minute Air Fryer Czech Fried Cheese
+slug: air-fryer-fried-cheese-czech-style
+meta:
+  seoMetaDescription: Craving comfort food? This extra crispy 15-minute air fryer
+    Czech fried cheese gives you a massive gooey block without the oil.
+description: 'Authentic Czech Smažený Sýr, completely rebuilt for the air fryer. A
+  thick, gooey block of cheese with an extra crispy 15-minute shell. The double breading
+  acts as structural armour so the cheese doesn''t leak.
 
-  massive protein, and zero deep-frying mess. Tested repeatedly to perfect the double-breading ratio, ensuring a rigid structural crust that holds the molten cheese without leaking.
 
+  massive protein, and zero deep-frying mess. Tested repeatedly to perfect the double-breading
+  ratio, ensuring a rigid structural crust that holds the molten cheese without leaking.
+
+  '
 blurb: []
-image: "fried-cheese-czech-style_im1uqu"
-alt: "Crispy Air Fryer Czech Fried Cheese (Smažený Sýr) on a plate"
-categories: ["air-fryer", "dinner", "15-minute-meals"]
-tags: ["high protein"]
-cuisine: "Czech"
-keywords: ["fried cheese", "smazeny syr", "czech", "air fryer", "high-protein", "dinner", "vegetarian", "healthy fried cheese", "air fryer smazeny syr"]
-rating: 
-reviews: 
-tipsTitle: "No-Leak Cheese"
+image: fried-cheese-czech-style_im1uqu
+alt: Crispy Air Fryer Czech Fried Cheese (Smažený Sýr) on a plate
+tags:
+- high-protein
+cuisine: Czech
+keywords:
+- air fryer
+- air fryer smazeny syr
+- czech
+- dinner
+- fried cheese
+- healthy fried cheese
+- high-protein
+- smazeny syr
+rating: null
+reviews: null
+tipsTitle: No-Leak Cheese
 tips:
-  - "Double Breading is Mandatory: Do it twice. This is your structural armour to stop the cheese blowing out."
-  - "The Freezer Hack: Freeze the breaded blocks for 30 minutes. This drops the core temp so the crust crisps before the centre liquefies."
-  - "Parchment Sling: Put a small square of parchment under it so the breading doesn't fuse to the basket."
+- 'Double Breading is Mandatory: Do it twice. This is your structural armour to stop
+  the cheese blowing out.'
+- 'The Freezer Hack: Freeze the breaded blocks for 30 minutes. This drops the core
+  temp so the crust crisps before the centre liquefies.'
+- 'Parchment Sling: Put a small square of parchment under it so the breading doesn''t
+  fuse to the basket.'
 works:
-  - "Thermal Shielding: The double layer of flour, egg, and breadcrumbs acts as a thermal insulator. It ensures the exterior dehydrates and crisps completely before the core temperature rises enough to liquefy the cheese and cause a blowout.. It’s like a PB for your tastebuds, fuelling your recovery without the heavy prep.. Look for a glossy, thick texture—if it’s watery, you’ve failed the emulsion and need to reduce it further."
-  - "Rapid Convection: The intense circulating heat mimics deep-frying by rapidly evaporating surface moisture, giving you that authentic snap with zero oil absorption."
+- 'Thermal Shielding: The double layer of flour, egg, and breadcrumbs acts as a thermal
+  insulator. It ensures the exterior dehydrates and crisps completely before the core
+  temperature rises enough to liquefy the cheese and cause a blowout.. It’s like a
+  PB for your tastebuds, fuelling your recovery without the heavy prep.. Look for
+  a glossy, thick texture—if it’s watery, you’ve failed the emulsion and need to reduce
+  it further.'
+- 'Rapid Convection: The intense circulating heat mimics deep-frying by rapidly evaporating
+  surface moisture, giving you that authentic snap with zero oil absorption.'
 use:
-  - "Refeed Main: Serve with chips and tartar sauce."
-  - "Burger Patty: Sandwich the block in a brioche bun for an elite macro cheat meal."
-  - "High-Protein Snack: Cut into bite-sized nuggets before breading."
+- 'Refeed Main: Serve with chips and tartar sauce.'
+- 'Burger Patty: Sandwich the block in a brioche bun for an elite macro cheat meal.'
+- 'High-Protein Snack: Cut into bite-sized nuggets before breading.'
 variations:
-  - "Different Cheese: Gouda or provolone work brilliantly."
-  - "Herb Coating: Mix dried thyme straight into the breadcrumbs."
-servingSuggestions: "For the authentic Czech experience, enjoy this with a massive side of crispy fries and tangy tartar sauce. Wash it down with a cold, crisp pilsner."
-storageInstructions: "Freeze the uncooked, breaded block for up to 2 months. Air fry straight from frozen. Eat cooked cheese immediately."
+- 'Different Cheese: Gouda or provolone work brilliantly.'
+- 'Herb Coating: Mix dried thyme straight into the breadcrumbs.'
+servingSuggestions: For the authentic Czech experience, enjoy this with a massive
+  side of crispy fries and tangy tartar sauce. Wash it down with a cold, crisp pilsner.
+storageInstructions: Freeze the uncooked, breaded block for up to 2 months. Air fry
+  straight from frozen. Eat cooked cheese immediately.
 prepTimeMins: 5
 cookTimeMins: 10
 servings: 1
@@ -44,21 +70,33 @@ macros:
   protein: 33
   fat: 30
 ingredients:
-  - { item: "Edam cheese", amount: 100, unit: "g" }
-  - { item: "Breadcrumbs", amount: 25, unit: "g" }
-  - { item: "Flour", amount: 10, unit: "g" } 
-  - { item: "Small egg", amount: 10, unit: "g" }   
-  - { item: "Olive oil spray" }   
-
+- item: Edam cheese
+  amount: 100
+  unit: g
+- item: Breadcrumbs
+  amount: 25
+  unit: g
+- item: Flour
+  amount: 10
+  unit: g
+- item: Small egg
+  amount: 10
+  unit: g
+- item: Olive oil spray
 faq:
-  - question: "What kind of cheese is best for Smažený Sýr?"
-    answer: "Edam is traditional, but a firm Mozzarella or Gouda block works perfectly."
-  - question: "Why did my cheese leak in the air fryer?"
-    answer: "Rookie error. The breading wasn't thick enough. Double-bread and freeze for 30 minutes. No exceptions."
-
+- question: What kind of cheese is best for Smažený Sýr?
+  answer: Edam is traditional, but a firm Mozzarella or Gouda block works perfectly.
+- question: Why did my cheese leak in the air fryer?
+  answer: Rookie error. The breading wasn't thick enough. Double-bread and freeze
+    for 30 minutes. No exceptions.
 steps:
-  - "Set up three bowls. Bowl 1: Flour. Bowl 2: Beaten egg. Bowl 3: Breadcrumbs."
-  - "Moisten the cheese slightly. Dredge in the flour, aggressively shaking off the excess."
-  - "Dunk it in the egg wash, then roll in breadcrumbs. Repeat: back into the egg, back into the crumbs. This double-wall armour is mandatory. If you leave gaps, the cheese will explode into a puddle."
-  - "Place in the air fryer basket. Hit it with olive oil spray. Blast at 200°C for 4-6 minutes. Pull them the exact second the crust is golden and you see a tiny hint of cheese trying to escape."
+- 'Set up three bowls. Bowl 1: Flour. Bowl 2: Beaten egg. Bowl 3: Breadcrumbs.'
+- Moisten the cheese slightly. Dredge in the flour, aggressively shaking off the excess.
+- 'Dunk it in the egg wash, then roll in breadcrumbs. Repeat: back into the egg, back
+  into the crumbs. This double-wall armour is mandatory. If you leave gaps, the cheese
+  will explode into a puddle.'
+- Place in the air fryer basket. Hit it with olive oil spray. Blast at 200°C for 4-6
+  minutes. Pull them the exact second the crust is golden and you see a tiny hint
+  of cheese trying to escape.
 ---
+

@@ -1,4 +1,7 @@
----
+--- 
+categories:
+- 15minutemeals
+- snacks
 title: Salsa rápida de ajo ultracremosa y baja en calorías en 5 minutos
 slug: salsa-rapida-de-ajo-ultracremosa-y-baja-en-calorias-en-5-minutos
 meta:
@@ -19,9 +22,6 @@ description: 'Un brillante sustituto bajo en calorías que no sabe a comida diet
 blurb: []
 image: garlic-sauce_dz8yhf
 alt: Salsa cremosa de ajo baja en calorías en un tazón pequeño
-categories:
-- salsas
-- comidas-de-5-minutos
 tags:
 - keto
 tipsTitle: Variaciones para probar
@@ -48,13 +48,13 @@ rating: null
 reviews: null
 cuisine: Mediterránea
 keywords:
-- garlic sauce
-- salsa para mojar
-- mediterráneo
-- keto
-- rápido
-- aperitivo
 - condimento
+- garlic sauce
+- keto
+- mediterranean
+- rápido
+- sauce
+- snack
 servingSuggestions: El mejor acompañante para acompañar palitos de zanahoria o pita
   caliente. Genial para enfriar platos principales agresivamente picantes.
 storageInstructions: Refrigerar por 4 días en un recipiente hermético. No congelar,
@@ -101,3 +101,4 @@ steps:
   15 minutos para que se combinen los sabores. Cubra con las cebollas restantes al
   servir.
 ---
+

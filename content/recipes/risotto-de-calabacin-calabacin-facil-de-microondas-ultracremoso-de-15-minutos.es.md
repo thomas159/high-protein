@@ -1,4 +1,7 @@
----
+--- 
+categories:
+- 15minutemeals
+- dinner
 title: Risotto de calabacín (calabacín) fácil de microondas ultracremoso de 15 minutos
 slug: risotto-de-calabacin-calabacin-facil-de-microondas-ultracremoso-de-15-minutos
 meta:
@@ -17,23 +20,17 @@ description: 'Un risotto italiano adecuado generalmente requiere revolver durant
 blurb: []
 image: 15-minute-cherry-tomato-and-courgette-risotto_1_lsbbrh
 alt: Risotto de tomate cherry y calabacín 15 minutos en un bol
-categories:
-- cena
-- microondas
-- comidas-de-15-minutos
 tags:
-- comidas al microondas
-- italiano
+- italian
+- microwave
 cuisine: Italiana
 keywords:
+- 15 minutos
+- calabacín
+- italian
+- microondas
 - risotto
 - tomate cherry
-- calabacín
-- calabacín
-- microondas
-- italiano
-- vegetariano
-- 15 minutos
 tipsTitle: Magia de microondas
 tips:
 - 'Cuidado con el tamaño del tazón: el arroz Arborio se expande agresivamente y burbujea.
@@ -125,3 +122,4 @@ steps:
   Si se ve seco, añade un chorrito de agua hirviendo. Déjalo reposar 1 minuto antes
   de comer.
 ---
+

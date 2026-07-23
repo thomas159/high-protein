@@ -76,7 +76,7 @@ const localePath = useLocalePath()
 <template>
   <div v-if="page" class="max-w-5xl mx-auto px-4 py-12">
     <header class="text-center mb-16">
-      <h1 class="text-4xl md:text-5xl font-bold mb-6 text-foreground">
+      <h1 class="text-4xl md:text-5xl font-black mb-6 text-white uppercase tracking-tighter italic">
         {{ page.title }}
       </h1>
       <p v-if="page.description" class="text-lg text-muted-foreground leading-relaxed max-w-3xl mx-auto" v-html="formatText(page.description)">
@@ -103,7 +103,7 @@ const localePath = useLocalePath()
 
         <!-- Content -->
         <div class="flex flex-col justify-center flex-1 py-2 pr-2">
-          <h2 class="text-2xl md:text-3xl font-bold font-display mb-3 leading-tight group">
+          <h2 class="text-2xl md:text-3xl font-black uppercase tracking-tighter italic mb-3 leading-tight group text-white">
             <NuxtLink :to="localePath(`/recipes/${item.recipe.slug}`)" class="hover:text-emerald-500 transition-colors">
               {{ item.recipe.title }}
             </NuxtLink>
@@ -126,7 +126,7 @@ const localePath = useLocalePath()
     </div>
   </div>
   <div v-else class="text-center py-16">
-    <h2 class="text-2xl font-semibold mb-2">{{ t('nav.blank') }}</h2>
+    <h2 class="text-2xl font-black uppercase tracking-tighter italic mb-2 text-white">{{ t('nav.blank') }}</h2>
     <NuxtLink :to="localePath('/')" class="text-emerald-500 hover:underline">{{ t('nav.home') }}</NuxtLink>
   </div>
 </template>

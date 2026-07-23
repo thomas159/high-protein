@@ -1,4 +1,6 @@
----
+--- 
+categories:
+- airfryer
 title: Papas fritas con kimchi en freidora extra crujientes fáciles de 30 minutos
 slug: papas-fritas-con-kimchi-en-freidora-extra-crujientes-faciles-de-30-minutos
 meta:
@@ -17,10 +19,6 @@ image: air-fryer-kim-chi-fries_u7kuzj
 alt: Papas fritas con kimchi en freidora cubiertas con queso derretido y semillas
   de sésamo
 pintrest: ''
-categories:
-- air-fryer
-- comidas-de-30-minutos
-- aperitivos
 tipsTitle: Trucos para freír
 tips:
 - 'Secreto crujiente: Remojar las patatas cortadas en agua fría durante 30 minutos
@@ -46,17 +44,15 @@ use:
 - 'Guarnición: Combina perfectamente con una hamburguesa vegetariana espesa y jugosa.'
 - 'Delicia nocturna: satisface todos los antojos de sabor salado, picante y con queso.'
 tags:
-- picante
-- fusión
-- sin gluten
+- fusion
+- gluten-free
 cuisine: Coreana
 keywords:
-- kimchi fries
-- freidora de aire
-- coreano
-- fusion
 - cheese
-- picante
+- coreano
+- freidora de aire
+- fusion
+- kimchi fries
 - snack
 whyTitle: Why use an air fryer?
 why:
@@ -141,3 +137,4 @@ steps:
   con queso cheddar rallado para que se derrita en el kimchi, luego decore con semillas
   de sésamo y cebolletas frescas para que queden crujientes.
 ---
+

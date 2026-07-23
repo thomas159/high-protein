@@ -1,4 +1,6 @@
----
+--- 
+categories:
+- airfryer
 title: Papas fritas con crema agria y cebolla extra crujientes Air Fryer
 slug: papas-fritas-con-crema-agria-y-cebolla-extra-crujientes-air-fryer
 meta:
@@ -19,10 +21,6 @@ description: 'Estas irresistibles patatas fritas con crema agria son extra cruji
 image: air-fryer-sour-cream-fries_k2lvbn
 alt: Papas fritas para freidora rociadas con salsa de crema agria con ajo
 pintrest: ''
-categories:
-- air-fryer
-- comidas-de-30-minutos
-- aperitivos
 cuisine: Americana
 tipsTitle: Mecánica de crujido
 tips:
@@ -47,13 +45,13 @@ use:
 - 'Solución de sabor: la salsa picante actúa como una increíble salsa incorporada.'
 tags: []
 keywords:
-- sour cream
-- papas fritas
-- freidora de aire
-- americano
-- snack
 - ajo
+- americano
 - crujiente
+- freidora de aire
+- papas fritas
+- snack
+- sour cream
 whyTitle: Air Fryer Advantages
 why:
 - 'Superior Crunch: Circulating heat delivers a deep-fried snap with barely any oil.
@@ -112,3 +110,4 @@ steps:
 - Disfrútelo inmediatamente mientras las papas fritas estén calientes y la salsa fría.
   Cubra con cebolletas adicionales (cebolletas).
 ---
+

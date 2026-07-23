@@ -1,4 +1,7 @@
----
+--- 
+categories:
+- 15minutemeals
+- airfryer
 title: Queso frito checo extra crujiente con freidora de aire de 15 minutos
 slug: queso-frito-checo-extra-crujiente-con-freidora-de-aire-de-15-minutos
 meta:
@@ -15,23 +18,18 @@ description: 'Auténtico Smažený Sýr checo, completamente reconstruido para l
 blurb: []
 image: fried-cheese-czech-style_im1uqu
 alt: Crispy Air Fryer Queso frito checo (Smažený Sýr) en un plato
-categories:
-- air-fryer
-- cena
-- comidas-de-15-minutos
 tags:
-- alto en proteínas
+- high-protein
 cuisine: Checa
 keywords:
-- fried cheese
-- queso frito
-- checo
-- freidora de aire
 - alto-en-proteina
 - cena
-- vegetariano
-- queso frito saludable
+- checo
+- freidora de aire
+- fried cheese
+- queso frito
 - queso frito en freidora de aire
+- queso frito saludable
 rating: null
 reviews: null
 tipsTitle: Queso sin fugas
@@ -106,3 +104,4 @@ steps:
   a 200°C durante 4-6 minutos. Sácalos en el momento exacto en que la corteza esté
   dorada y verás una pequeña pizca de queso tratando de escapar.
 ---
+

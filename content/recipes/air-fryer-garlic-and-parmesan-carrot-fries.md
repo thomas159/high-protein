@@ -1,37 +1,56 @@
----
-title: "Extra Crispy 25-Minute Air Fryer Garlic Parmesan Carrot Fries"
-slug: "air-fryer-garlic-and-parmesan-carrot-fries"
-meta: {
-  seoMetaDescription: "Craving savory crunch? These extra crispy 25-minute air fryer garlic parmesan carrot fries hit the spot. Totally macro-friendly."
-}
-description: |
-  A brilliant low-calorie swap for standard chips. The circulating heat of the air fryer roasts the carrots and crisps up the parmesan to deliver extra crispy 25-minute fries. A fantastic side dish to bulk up the volume of your meal without blowing your daily calorie budget.
+--- 
+categories:
+- 15minutemeals
+- airfryer
+- snacks
+title: Extra Crispy 25-Minute Air Fryer Garlic Parmesan Carrot Fries
+slug: air-fryer-garlic-and-parmesan-carrot-fries
+meta:
+  seoMetaDescription: Craving savory crunch? These extra crispy 25-minute air fryer
+    garlic parmesan carrot fries hit the spot. Totally macro-friendly.
+description: 'A brilliant low-calorie swap for standard chips. The circulating heat
+  of the air fryer roasts the carrots and crisps up the parmesan to deliver extra
+  crispy 25-minute fries. A fantastic side dish to bulk up the volume of your meal
+  without blowing your daily calorie budget.
 
+  '
 blurb: []
-image: "air-fryer-garlic-and-parmesan-carrot-fries_fumihc"
-alt: "Air fryer garlic and parmesan carrot fries on a plate"
-pintrest: ""
-categories: ["air-fryer", "snacks", "30-minute-meals", "vegetarian"]
-cuisine: "American"
-keywords: ["carrot fries", "air fryer", "garlic parmesan", "healthy fries", "vegetarian snack"]
+image: air-fryer-garlic-and-parmesan-carrot-fries_fumihc
+alt: Air fryer garlic and parmesan carrot fries on a plate
+pintrest: ''
+cuisine: American
+keywords:
+- air fryer
+- carrot fries
+- garlic parmesan
+- healthy fries
 tags: []
-rating: 
-reviews: 
-tipsTitle: "Crispy Carrot Tips"
+rating: null
+reviews: null
+tipsTitle: Crispy Carrot Tips
 tips:
-  - "Uniform Cuts: Slice them consistently. Thick ones stay raw while thin ones turn to ash."
-  - "Don't Overcrowd: Give them space in the basket. Overcrowding equals steaming, not crisping."
+- 'Uniform Cuts: Slice them consistently. Thick ones stay raw while thin ones turn
+  to ash.'
+- 'Don''t Overcrowd: Give them space in the basket. Overcrowding equals steaming,
+  not crisping.'
 works:
-  - "Protein-Starch Crisp: As the air fryer evaporates moisture from the carrot's surface, the high-protein parmesan melts and fuses with the natural sugars. This creates a rigid, caramelised exoskeleton that delivers a satisfying snap.. It’s like a PB for your tastebuds, fuelling your recovery without the heavy prep.. Look for a glossy, thick texture—if it’s watery, you’ve failed the emulsion and need to reduce it further."
-  - "Air Fried Crunch: The circulating heat crisps the cheese and edges with a fraction of the oil."
+- 'Protein-Starch Crisp: As the air fryer evaporates moisture from the carrot''s surface,
+  the high-protein parmesan melts and fuses with the natural sugars. This creates
+  a rigid, caramelised exoskeleton that delivers a satisfying snap.. It’s like a PB
+  for your tastebuds, fuelling your recovery without the heavy prep.. Look for a glossy,
+  thick texture—if it’s watery, you’ve failed the emulsion and need to reduce it further.'
+- 'Air Fried Crunch: The circulating heat crisps the cheese and edges with a fraction
+  of the oil.'
 use:
-  - "Volume Eating: An elite, low-calorie alternative to smash your chip cravings."
-  - "Superset Side: Perfect alongside a heavy protein main."
+- 'Volume Eating: An elite, low-calorie alternative to smash your chip cravings.'
+- 'Superset Side: Perfect alongside a heavy protein main.'
 variations:
-  - "Spicy Kick: Dust it with cayenne pepper."
-  - "Vegan Option: Swap the parmesan for nutritional yeast."
-servingSuggestions: "Enjoy these immediately while they're hot and rigid. Pair with a low-cal garlic yoghurt dip."
-storageInstructions: "Eat them fresh. Fridge leftovers survive 3 days but go limp. Re-crisp in the air fryer. Don't freeze."
+- 'Spicy Kick: Dust it with cayenne pepper.'
+- 'Vegan Option: Swap the parmesan for nutritional yeast.'
+servingSuggestions: Enjoy these immediately while they're hot and rigid. Pair with
+  a low-cal garlic yoghurt dip.
+storageInstructions: Eat them fresh. Fridge leftovers survive 3 days but go limp.
+  Re-crisp in the air fryer. Don't freeze.
 prepTimeMins: 5
 cookTimeMins: 20
 servings: 1
@@ -41,22 +60,37 @@ macros:
   protein: 6
   fat: 17
 ingredients:
-  - { item: "Carrots", amount: 200, unit: "g" }
-  - { item: "Olive oil", amount: 1, unit: "tbsp" }
-  - { item: "Salt", amount: 0.25, unit: "tsp" }
-  - { item: "Parmesan cheese", type: "grated", amount: 2, unit: "tbsp" }
-  - { item: "Garlic cloves", type: "minced", amount: 2 }
-  - { item: "Fresh parsley", type: "chopped, for garnish" }
-
+- item: Carrots
+  amount: 200
+  unit: g
+- item: Olive oil
+  amount: 1
+  unit: tbsp
+- item: Salt
+  amount: 0.25
+  unit: tsp
+- item: Parmesan cheese
+  type: grated
+  amount: 2
+  unit: tbsp
+- item: Garlic cloves
+  type: minced
+  amount: 2
+- item: Fresh parsley
+  type: chopped, for garnish
 faq:
-  - question: "Why did my carrot fries burn?"
-    answer: "Carrots have high natural sugar that caramelises fast. Shake the basket often and don't skip the oil."
-  - question: "Can I use regular potatoes instead?"
-    answer: "Yes, but carrots are the ultimate cheat code for high-volume, low-calorie snacking."
-
+- question: Why did my carrot fries burn?
+  answer: Carrots have high natural sugar that caramelises fast. Shake the basket
+    often and don't skip the oil.
+- question: Can I use regular potatoes instead?
+  answer: Yes, but carrots are the ultimate cheat code for high-volume, low-calorie
+    snacking.
 steps:
-  - "Cut the carrots into uniform strips so they cook evenly."
-  - "In a bowl, aggressively coat the strips with olive oil, salt, minced garlic, and parmesan."
-  - "Space them out in a single layer in the air fryer basket. Blast at 180°C for 16-20 minutes. Shake halfway through so the cheese crisps evenly."
-  - "Pull them out when golden. Serve immediately with extra parmesan and a hit of parsley."
+- Cut the carrots into uniform strips so they cook evenly.
+- In a bowl, aggressively coat the strips with olive oil, salt, minced garlic, and
+  parmesan.
+- Space them out in a single layer in the air fryer basket. Blast at 180°C for 16-20
+  minutes. Shake halfway through so the cheese crisps evenly.
+- Pull them out when golden. Serve immediately with extra parmesan and a hit of parsley.
 ---
+

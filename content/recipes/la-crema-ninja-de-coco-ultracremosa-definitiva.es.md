@@ -1,4 +1,6 @@
----
+--- 
+categories:
+- snacks
 title: La crema ninja de coco ultracremosa definitiva
 slug: la-crema-ninja-de-coco-ultracremosa-definitiva
 meta:
@@ -15,20 +17,16 @@ description: 'Un postre de coco tropical aterciopelado en forma de helado helado
 image: ninja-creami-coconut-ice-cream_a6jsa1
 alt: Helado de proteína de coco en pinta Ninja Creami
 pintrest: ''
-categories:
-- postre
-- alto-en-proteina
-- aperitivos
 tags:
-- fácil
-- alto en proteínas
+- easy
+- high-protein
 cuisine: Británica
 keywords:
-- ninja creami
 - coco
+- easy
 - helado proteico
+- ninja creami
 - postre saludable
-- fácil
 - tropical
 tipsTitle: Mecanica Creami
 tips:
@@ -118,3 +116,4 @@ steps:
 - Ahueca el centro, agrega tus mezclas favoritas, como chispas de chocolate o coco
   tostado, y ejecuta el programa 'Mix-In'. Demoler inmediatamente.
 ---
+

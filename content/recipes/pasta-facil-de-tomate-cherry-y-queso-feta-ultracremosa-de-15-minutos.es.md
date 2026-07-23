@@ -1,4 +1,7 @@
----
+--- 
+categories:
+- 15minutemeals
+- dinner
 title: Pasta fácil de tomate cherry y queso feta ultracremosa de 15 minutos
 slug: pasta-facil-de-tomate-cherry-y-queso-feta-ultracremosa-de-15-minutos
 meta:
@@ -19,9 +22,6 @@ description: 'Esta pasta fácil es un plato delicioso y de bajo esfuerzo, perfec
 blurb: []
 image: feta-and-cherry-tomato-pasta_k93wad
 alt: Pasta cremosa de queso feta y tomate cherry en un bol
-categories:
-- cena
-- comidas-de-15-minutos
 tipsTitle: Mecánica de pastas
 tips:
 - 'Intercambio vegano: Fácilmente de origen vegetal. Use crema de soja o avena y reemplace
@@ -50,14 +50,13 @@ use:
 cuisine: Italiana
 tags:
 - pasta
-- cena rápida
+- quick-meals
 keywords:
-- feta pasta
-- tomate cherry
-- italiano
 - 15 minutos
 - cremoso
-- vegetariano
+- feta pasta
+- italian
+- tomate cherry
 rating: null
 reviews: null
 variations:
@@ -122,3 +121,4 @@ steps:
 - Retírelo del fuego inmediatamente. Adorne con albahaca fresca y una pizca de pimienta
   negra.
 ---
+

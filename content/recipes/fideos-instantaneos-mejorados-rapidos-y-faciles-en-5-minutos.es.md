@@ -1,4 +1,6 @@
----
+--- 
+categories:
+- 15minutemeals
 title: Fideos instantáneos mejorados, rápidos y fáciles en 5 minutos
 slug: fideos-instantaneos-mejorados-rapidos-y-faciles-en-5-minutos
 meta:
@@ -14,22 +16,18 @@ description: 'Sáltate el ramen aguado. Mejorarlos con un sabroso glaseado de so
 image: 5-minute-instant-noodles_ywvyin
 alt: Fideos instantáneos de 5 minutos adornados con cebolletas
 pintrest: ''
-categories:
-- vegano
-- cena
-- comidas-de-5-minutos
 cuisine: Asiática
 keywords:
-- instant noodles upgrade
-- asiático
-- vegano
-- quick meal
 - 5 minutos
-- ramen hack
+- asiático
 - fideos de soja y sésamo
+- instant noodles upgrade
+- quick meal
+- ramen hack
+- vegan
 tags:
-- vegano
-- comidas rápidas
+- quick-meals
+- vegan
 tipsTitle: Elevar el cuenco
 tips:
 - 'Control de textura: sáquelos 30 segundos antes. Seguirán cocinándose con el calor
@@ -105,3 +103,4 @@ steps:
 - Emplatar. Cúbralo con cebolletas (cebolletas) y cebollas fritas crujientes. Exprime
   una lima por encima y disfruta.
 ---
+

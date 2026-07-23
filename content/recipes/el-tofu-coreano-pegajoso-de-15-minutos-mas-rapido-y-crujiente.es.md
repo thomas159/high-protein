@@ -1,4 +1,7 @@
----
+--- 
+categories:
+- 15minutemeals
+- dinner
 title: El tofu coreano pegajoso de 15 minutos más rápido y crujiente
 slug: el-tofu-coreano-pegajoso-de-15-minutos-mas-rapido-y-crujiente
 meta:
@@ -17,23 +20,19 @@ description: 'Con una gran cantidad de proteína de origen vegetal, este tofu cr
 image: 15-minute-crispy-sticky-korean-tofu_vu0qlh
 alt: Tofu coreano crujiente y pegajoso de 15 minutos adornado con semillas de sésamo
 pintrest: sticky-korean-tofu-pintrest_qh2wsc
-categories:
-- vegano
-- cena
-- comidas-de-15-minutos
 tags:
-- vegano
-- alto en proteínas
+- high-protein
 - korean
+- vegan
 cuisine: Coreana
 keywords:
-- korean tofu
-- gochujang
-- tofu pegajoso
-- vegano
-- alto-en-proteina
 - 15 minutos
+- alto-en-proteina
 - crujiente
+- gochujang
+- korean tofu
+- tofu pegajoso
+- vegan
 tipsTitle: Mecánica crujiente
 tips:
 - 'Preparación de tofu: consulte nuestros [Ultimate Quick Tofu Prep Hacks](/collections/easy-quick-tofu-prep-hacks)
@@ -160,3 +159,4 @@ steps:
 - Apague el fuego inmediatamente antes de que el azúcar se convierta en cenizas. Adorne
   abundantemente con cebolletas en rodajas y semillas de sésamo tostadas, luego sirva.
 ---
+

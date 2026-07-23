@@ -1,4 +1,7 @@
----
+--- 
+categories:
+- dessert
+- ninjacreami
 title: El mejor creami ninja ultracremoso de manzana, canela y canela
 slug: el-mejor-creami-ninja-ultracremoso-de-manzana-canela-y-canela
 meta:
@@ -15,21 +18,17 @@ description: 'Un gran golpe proteico disfrazado de un postre de tarta de manzana
 image: ninja-creami-apple-cinnamon-ice-cream_prnjdx
 alt: Helado de proteína de manzana y canela en una pinta de Ninja Creami
 pintrest: ''
-categories:
-- postre
-- alto-en-proteina
-- aperitivos
 tags:
-- alto en proteínas
+- high-protein
 cuisine: Británica
 keywords:
-- ninja creami
-- apple cinnamon
-- helado proteico
-- tarta de manzana
-- postre saludable
 - alto-en-proteina
+- apple cinnamon
 - helado
+- helado proteico
+- ninja creami
+- postre saludable
+- tarta de manzana
 tipsTitle: Mecanica Creami
 tips:
 - 'La paciencia es obligatoria: congele la pinta completamente nivelada durante 24
@@ -137,3 +136,4 @@ steps:
 - Ahueca el centro, agrega algunas galletas trituradas o manzana extra cortada en
   cubitos y ejecuta el programa 'Mix-In'. Demoler inmediatamente.
 ---
+

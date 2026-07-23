@@ -1,4 +1,7 @@
----
+--- 
+categories:
+- 15minutemeals
+- snacks
 title: Salsa de maní satay tailandesa ultracremosa rápida de 10 minutos
 slug: salsa-de-mani-satay-tailandesa-ultracremosa-rapida-de-10-minutos
 meta:
@@ -39,22 +42,18 @@ use:
 image: peanut-satay-sauce_rngtry
 alt: Rica y cremosa salsa de maní satay en un bol
 pintrest: ''
-categories:
-- salsas
-- comidas-de-15-minutos
 cuisine: Tailandesa
 tags:
-- vegano
-- salsa
-- tailandés
+- sauce
+- thai
+- vegan
 keywords:
-- satay sauce
-- salsa de maní
-- tailandés
 - condimento
-- salsa para mojar
 - cremoso
-- picante
+- salsa de maní
+- satay sauce
+- sauce
+- thai
 variations:
 - 'Almond Satay: Cambia por mantequilla de almendras si lo prefieres.'
 - 'Extra picante: duplique la pasta de curry o agregue chiles frescos.'
@@ -107,3 +106,4 @@ steps:
   tamarindo destruye las notas brillantes y picantes y vuelve la salsa amarga, así
   que mantenla estrictamente fuera del fuego.
 ---
+

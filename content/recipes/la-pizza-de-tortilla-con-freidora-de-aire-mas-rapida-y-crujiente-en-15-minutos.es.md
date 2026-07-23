@@ -1,4 +1,8 @@
----
+--- 
+categories:
+- 15minutemeals
+- airfryer
+- dinner
 title: La pizza de tortilla con freidora de aire más rápida y crujiente en 15 minutos
 slug: la-pizza-de-tortilla-con-freidora-de-aire-mas-rapida-y-crujiente-en-15-minutos
 meta:
@@ -42,21 +46,17 @@ use:
 image: air-fryer-pizza-tortilla-wrap_ko6ckn
 alt: Pizza de tortilla freidora con pesto y tomates cherry
 pintrest: ''
-categories:
-- air-fryer
-- cena
-- comidas-de-15-minutos
 cuisine: Italiana
 keywords:
-- tortilla pizza
 - freidora de aire
-- italiano
-- quick dinner
+- italian
 - masa fina
 - pesto
+- quick dinner
+- tortilla pizza
 tags:
-- bajo en calorías
-- cena rápida
+- low-calorie
+- quick-meals
 variations:
 - 'Aumento de volumen: apílelo con champiñones y pimientos.'
 - 'Miel picante: añádelo con jalapeños y un chorrito de miel de chile.'
@@ -116,3 +116,4 @@ steps:
     minuto. Este breve descanso permite que la tortilla esté completamente crujiente
     para poder cortarla sin doblarla.
 ---
+

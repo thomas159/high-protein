@@ -1,4 +1,7 @@
----
+--- 
+categories:
+- airfryer
+- dinner
 title: Tofu freidora sin aire con lima y chipotle ahumado fácil de 35 minutos
 slug: tofu-freidora-sin-aire-con-lima-y-chipotle-ahumado-facil-de-35-minutos
 meta:
@@ -19,26 +22,19 @@ description: 'Dale a tu preparación de comida un toque serio de inspiración me
 image: chipotle-lime-tofu-marinade_ymiqee
 alt: Trozos de tofu marinados con lima chipotle
 pintrest: ''
-categories:
-- vegano
-- cena
-- comidas-de-30-minutos
-- marinada
-- tendencia
 tags:
-- vegano
-- alto en proteínas
+- high-protein
 - mexican
+- vegan
 cuisine: Mexicana
 keywords:
-- tofu marinade
+- air-fryer
+- alto-en-proteina
 - chipotle
 - lima
 - mexicano
-- vegano
-- alto-en-proteina
-- air-fryer
-- picante
+- tofu marinade
+- vegan
 tipsTitle: Sabor Máximo
 tips:
 - 'Preparación de tofu: omita la tediosa prensa de 15 minutos. Echa un vistazo a nuestros
@@ -135,3 +131,4 @@ steps:
   que se queme.
 - Sirva con cilantro fresco (cilantro) y un chorrito extra de lima.
 ---
+

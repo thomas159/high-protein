@@ -1,4 +1,7 @@
----
+--- 
+categories:
+- 15minutemeals
+- dessert
 title: La mejor crema ninja ultracremosa de chocolate y naranja de 10 minutos
 slug: la-mejor-crema-ninja-ultracremosa-de-chocolate-y-naranja-de-10-minutos
 meta:
@@ -17,21 +20,17 @@ description: 'Una gran dosis de proteínas disfrazada de un delicioso postre de 
 image: chocolate-orange-ninja-creami-ice-cream_buvbv2
 alt: Helado proteico de chocolate y naranja en una pinta de Ninja Creami
 pintrest: ''
-categories:
-- postre
-- alto-en-proteina
-- aperitivos
 tags:
-- alto en proteínas
+- high-protein
 cuisine: Americana
 keywords:
-- ninja creami
-- chocolate y naranja
-- helado proteico
-- chocolate
-- postre saludable
 - alto-en-proteina
+- chocolate
+- chocolate y naranja
 - helado
+- helado proteico
+- ninja creami
+- postre saludable
 tipsTitle: Mecanica Creami
 tips:
 - '**Es obligatoria la paciencia:** Congela la pinta completamente nivelada durante
@@ -135,3 +134,4 @@ steps:
 - Ahueca el centro, agrega las chispas de chocolate y ejecuta el programa 'Mix-In'.
   Disfruta de inmediato.
 ---
+

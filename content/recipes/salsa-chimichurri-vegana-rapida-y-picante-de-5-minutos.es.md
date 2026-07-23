@@ -1,4 +1,7 @@
----
+--- 
+categories:
+- 15minutemeals
+- snacks
 title: Salsa chimichurri vegana rápida y picante de 5 minutos
 slug: salsa-chimichurri-vegana-rapida-y-picante-de-5-minutos
 meta:
@@ -20,22 +23,18 @@ description: 'El último truco de sabor rápido. Macerar el ajo crudo en vinagre
 blurb: []
 image: chimichurri-sauce_2_usinnj
 alt: Salsa chimichurri verde fresca y vibrante en un tazón pequeño
-categories:
-- vegano
-- salsas
-- comidas-de-5-minutos
 tags:
-- vegano
 - keto
+- vegan
 cuisine: Argentina
 keywords:
-- chimichurri
-- salsa
-- argentino
-- vegano
 - 5 minutos
+- argentino
+- chimichurri
 - condimento
 - hierbas
+- sauce
+- vegan
 tipsTitle: Mecánica del sabor
 tips:
 - 'Maridaje de proteínas: La acidez del vinagre en realidad ayuda a descomponer las
@@ -110,3 +109,4 @@ steps:
   macerar el ajo y matar el bocado crudo.
 - Incorpora las hierbas, la guindilla y finalmente el aceite de oliva.
 ---
+

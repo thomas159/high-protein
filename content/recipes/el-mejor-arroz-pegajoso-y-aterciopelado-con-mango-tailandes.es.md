@@ -1,4 +1,6 @@
----
+--- 
+categories:
+- snacks
 title: El mejor arroz pegajoso y aterciopelado con mango tailandés
 slug: el-mejor-arroz-pegajoso-y-aterciopelado-con-mango-tailandes
 meta:
@@ -16,23 +18,21 @@ description: 'La mejor alimentación con carbohidratos limpios. **Este auténtic
 blurb: []
 image: mango-sticky-rice_vzh6ec
 alt: Auténtico arroz pegajoso tailandés con mango servido con salsa de coco
-categories:
-- postre
 tags:
-- vegano
+- vegan
 cuisine: Tailandesa
 keywords:
-- mango sticky rice
-- tailandés
-- postre
+- alto en carbohidratos
+- arroz pegajoso
 - coco
 - dulce
-- arroz pegajoso
 - macroamigable
+- mango sticky rice
+- post-entrenamiento
+- postre
 - postre vegano
 - saludable
-- alto en carbohidratos
-- post-entrenamiento
+- thai
 tipsTitle: Mecánica del arroz pegajoso
 tips:
 - 'No te saltes el remojo: el arroz glutinoso debe remojarse durante 6 horas (o 1
@@ -108,3 +108,4 @@ steps:
 - Cortar el mango. Coloque el arroz pegajoso en un plato, coloque la fruta y rocíe
   abundantemente el glaseado tibio por encima.
 ---
+

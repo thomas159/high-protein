@@ -1,4 +1,6 @@
----
+--- 
+categories:
+- 15minutemeals
 title: Cuscús marroquí esponjoso, rápido y fácil de 10 minutos
 slug: cuscus-marroqui-esponjoso-rapido-y-facil-de-10-minutos
 meta:
@@ -14,20 +16,16 @@ description: 'La base de carbohidratos más versátil que no requiere cocción a
 blurb: []
 image: quick-moroccan-couscous-1_i53dmp
 alt: Cuscús marroquí rápido con pimientos rojos y queso feta
-categories:
-- cena
-- comidas-de-15-minutos
 tags:
-- mediterráneo
-- guarnición saludable
+- healthy-side
+- mediterranean
 cuisine: Marroquí
 keywords:
-- couscous
-- marroquí
-- vegetariano
 - 15 minutos
-- mediterráneo
-- guarnición saludable
+- couscous
+- healthy-side
+- marroquí
+- mediterranean
 tipsTitle: Cuscús impecable
 tips:
 - 'La regla del tenedor: siempre esponja con un tenedor. Una cuchara triturará los
@@ -103,3 +101,4 @@ steps:
   de oliva a los granos. Mezcle suavemente para que el queso feta no se convierta
   en papilla.
 ---
+

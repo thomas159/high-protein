@@ -1,4 +1,6 @@
----
+--- 
+categories:
+- dinner
 title: Pasta fácil de champiñones y ajo ultracremosa de 25 minutos
 slug: pasta-facil-de-champinones-y-ajo-ultracremosa-de-25-minutos
 meta:
@@ -18,18 +20,13 @@ description: 'Un plato de pura comodidad para cuando necesitas una recarga seria
   sin partirse.'
 image: creamy-mushroom-pasta_m6794q
 alt: Pasta cremosa de champiñones aderezada con hierbas frescas
-categories:
-- cena
-- vegetariano
-- pasta
 tags: []
 cuisine: Italiana
 keywords:
-- mushroom pasta
-- cremoso
-- italiano
-- vegetariano
 - comida reconfortante
+- cremoso
+- italian
+- mushroom pasta
 - vino blanco
 tipsTitle: Dominio de la salsa
 tips:
@@ -133,3 +130,4 @@ steps:
 - Coloca la pasta directamente en la salsa. Mezcle vigorosamente y agregue un chorrito
   de agua de pasta para lograr ese acabado brillante. Servir inmediatamente.
 ---
+

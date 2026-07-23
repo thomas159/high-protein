@@ -1,4 +1,7 @@
----
+--- 
+categories:
+- 15minutemeals
+- dinner
 title: Pizza Naan Paneer de mango crujiente fácil de 15 minutos
 slug: pizza-naan-paneer-de-mango-crujiente-facil-de-15-minutos
 meta:
@@ -15,10 +18,6 @@ description: 'Un pan naan esponjoso es la base perfecta para pizza que requiere 
 blurb: []
 image: naan-bread-pizza_m9ikl5
 alt: Pizza de pan naan con chutney de mango y paneer
-categories:
-- air-fryer
-- cena
-- comidas-de-15-minutos
 tipsTitle: Trucos de macros
 tips:
 - 'Manejo del calor: Una pizca fuerte de hojuelas de chile o Sriracha corta directamente
@@ -42,14 +41,14 @@ use:
 - 'Personalizable: Muy fácil de modificar para diferentes macros.'
 cuisine: India
 tags:
-- fusión india
-- cena rápida
+- indian
+- quick-meals
 keywords:
-- naan pizza
-- indio
-- fusion
-- paneer
 - chutney de mango
+- fusion
+- indio
+- naan pizza
+- paneer
 - quick dinner
 variations:
 - 'Intercambio vegano: use pan naan sin lácteos y una alternativa de queso vegano.'
@@ -106,3 +105,4 @@ steps:
 - Retíralo cuando los bordes estén crujientes. Báñese abundantemente con cilantro
   fresco (cilantro) mientras aún esté humeante y disfrútelo.
 ---
+

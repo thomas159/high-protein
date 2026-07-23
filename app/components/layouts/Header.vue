@@ -63,9 +63,10 @@ const toggleTheme = () => {
             v-for="cat in RECIPE_CATEGORIES" 
             :key="cat.key"
             :to="localePath(`/categories/${$t(`categorySlugs.${cat.key}`)}`)" 
-            class="hover:text-foreground transition-colors pb-1 border-b-2 border-transparent"
+            class="flex items-center gap-1.5 hover:text-foreground transition-all pb-1 border-b-2 border-transparent hover:border-border"
             active-class="!text-foreground !border-emerald-500"
           >
+            <Icon :name="cat.icon" class="w-4 h-4 opacity-70" />
             {{ $t(`categories.${cat.key}`) }}
           </NuxtLink>
         </div>
@@ -124,18 +125,43 @@ const toggleTheme = () => {
     </div>
 
     <Transition name="fade">
-      <div v-if="isMenuOpen" class="md:hidden absolute top-full left-0 w-full bg-background border-b border-border z-50 shadow-xl">
-        <div class="flex flex-col p-6 gap-4 text-base font-medium">
-          <NuxtLink 
-            v-for="cat in RECIPE_CATEGORIES" 
-            :key="cat.key"
-            :to="localePath(`/categories/${$t(`categorySlugs.${cat.key}`)}`)" 
-            @click.stop="isMenuOpen = false"
-            class="text-muted-foreground border-l-4 border-transparent pl-2"
-            active-class="!text-emerald-500 !border-emerald-500"
-          >
-            {{ $t(`categories.${cat.key}`) }}
-          </NuxtLink>
+      <div v-if="isMenuOpen" class="md:hidden fixed inset-0 top-[60px] bg-background/95 backdrop-blur-xl z-[60] overflow-y-auto">
+        <div class="flex flex-col p-6 gap-8">
+          
+          <!-- Category Grid -->
+          <div class="grid grid-cols-2 gap-4">
+            <NuxtLink 
+              v-for="cat in RECIPE_CATEGORIES" 
+              :key="cat.key"
+              :to="localePath(`/categories/${$t(`categorySlugs.${cat.key}`)}`)" 
+              @click.stop="isMenuOpen = false"
+              class="flex flex-col items-center justify-center p-4 bg-muted/50 rounded-2xl border border-border/50 hover:bg-accent hover:border-emerald-500/50 transition-all duration-300 group"
+              active-class="!bg-emerald-500/10 !border-emerald-500"
+            >
+              <Icon :name="cat.icon" class="w-8 h-8 mb-2 text-muted-foreground group-hover:text-emerald-500 transition-colors" />
+              <span class="text-xs font-bold uppercase tracking-widest text-foreground">{{ $t(`categories.${cat.key}`) }}</span>
+            </NuxtLink>
+          </div>
+
+          <!-- Quick Navigation -->
+          <div class="flex flex-col gap-4 pt-6 border-t border-border">
+            <NuxtLink :to="localePath('/')" @click="isMenuOpen = false" class="flex items-center gap-3 text-lg font-bold">
+              <Icon name="ph:house-duotone" class="w-6 h-6 text-emerald-500" />
+              {{ $t('nav.home') }}
+            </NuxtLink>
+             <NuxtLink to="/about" @click="isMenuOpen = false" class="flex items-center gap-3 text-lg font-bold">
+              <Icon name="ph:user-duotone" class="w-6 h-6 text-emerald-500" />
+              {{ $t('nav.about') }}
+            </NuxtLink>
+          </div>
+
+          <!-- Social/Brand Presence -->
+          <div class="mt-auto pt-10 flex flex-col items-center gap-4">
+            <a href="https://pinterest.com/hotRecipesUk" target="_blank" class="flex items-center gap-2 px-6 py-3 bg-red-600/10 text-red-600 rounded-full font-bold text-sm border border-red-600/20 hover:bg-red-600 hover:text-white transition-all">
+              <Icon name="ph:pinterest-logo-bold" class="w-5 h-5" />
+              Follow on Pinterest
+            </a>
+          </div>
         </div>
       </div>
     </Transition>

@@ -12,7 +12,8 @@
     "logout": "Cerrar sesión",
     "blank": "En blanco",
     "components": "Componentes",
-    "contents": "Contenidos"
+    "contents": "Contenidos",
+    "categories": "Categorías"
   },
   "home": {
     "hero": {
@@ -53,6 +54,7 @@
     "trending": "Tendencias de esta semana",
     "ninjaCreami": "Creaciones Ninja Creami",
     "airFryer": "Recetas en Air Fryer",
+    "15minutemeals": "Comidas de 15 Minutos",
     "collections": "Colecciones de Recetas",
     "all": "Ver todas las recetas",
     "getRecipe": "Ver Receta",
@@ -82,29 +84,47 @@
     "servings": "Porciones"
   },
   "categories": {
-    "highProtein": "Alto en Proteína",
-    "vegan": "Vegano",
-    "dessert": "Postre",
-    "dinner": "Cena",
-    "15min": "Comidas de 15 minutos",
-    "airFryer": "Air Fryer",
     "allrecipes": "Todas las recetas",
+    "dinner": "Cena",
     "snacks": "Aperitivos",
-    "15minutemeals": "Comidas de 15 minutos",
-    "highprotein": "Alto en Proteína",
+    "dessert": "Postre",
     "airfryer": "Air Fryer",
-    "5-minute-meals": "Comidas de 5 minutos"
+    "15minutemeals": "Comidas de 15 minutos",
+    "ninjacreami": "Ninja Creami"
+  },
+  "tags": {
+    "high-protein": "Alto en Proteínas",
+    "vegan": "Vegano",
+    "quick-meals": "Comidas Rápidas",
+    "snack": "Aperitivo",
+    "keto": "Keto",
+    "easy": "Fácil",
+    "indian": "Indio",
+    "korean": "Coreano",
+    "thai": "Tailandés",
+    "gluten-free": "Sin Gluten",
+    "fusion": "Fusión",
+    "mediterranean": "Mediterráneo",
+    "sauce": "Salsa",
+    "mexican": "Mexicano",
+    "italian": "Italiano",
+    "microwave": "Microondas",
+    "baking": "Horneado",
+    "low-calorie": "Bajo en Calorías",
+    "healthy-side": "Guarnición Saludable",
+    "pasta": "Pasta",
+    "one-pan": "Una Sola Olla",
+    "air-fryer": "Air Fryer",
+    "soup": "Sopa"
   },
   "categorySlugs": {
     "allrecipes": "todas-las-recetas",
     "dinner": "cena",
     "snacks": "aperitivos",
     "dessert": "postre",
-    "highprotein": "alto-en-proteina",
-    "vegan": "vegano",
-    "15min": "comidas-de-15-minutos",
     "airfryer": "air-fryer",
-    "5-minute-meals": "comidas-de-5-minutos"
+    "15minutemeals": "comidas-de-15-minutos",
+    "ninjacreami": "ninja-creami"
   },
   "footer": {
     "description": "Comidas vegetarianas y veganas rápidas y ricas en proteínas para personas que aman comer pero odian esperar.",

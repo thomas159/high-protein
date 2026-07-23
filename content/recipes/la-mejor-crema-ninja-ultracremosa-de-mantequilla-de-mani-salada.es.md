@@ -1,4 +1,6 @@
----
+--- 
+categories:
+- snacks
 title: La mejor crema ninja ultracremosa de mantequilla de maní salada
 slug: la-mejor-crema-ninja-ultracremosa-de-mantequilla-de-mani-salada
 meta:
@@ -11,21 +13,17 @@ description: Una gran dosis de proteína disfrazada de helado premium, dulce y s
 image: ninja-creami-salted-peanut-butter-ice-cream_ct82q9
 alt: Helado de proteína de mantequilla de maní salada en una pinta de Ninja Creami
 pintrest: ''
-categories:
-- postre
-- alto-en-proteina
-- aperitivos
 tags:
-- alto en proteínas
+- high-protein
 cuisine: Americana
 keywords:
-- ninja creami
-- mantequilla de maní
-- helado proteico
-- salado
-- postre saludable
 - alto-en-proteina
 - helado
+- helado proteico
+- mantequilla de maní
+- ninja creami
+- postre saludable
+- salado
 tipsTitle: Mecanica Creami
 tips:
 - 'La paciencia es obligatoria: congele la pinta completamente nivelada durante 24
@@ -119,3 +117,4 @@ steps:
 - Ahueca el centro, agrega el maní triturado y ejecuta el programa 'Mix-In'. Disfruta
   de inmediato.
 ---
+

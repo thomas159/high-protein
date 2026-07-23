@@ -1,4 +1,6 @@
----
+--- 
+categories:
+- 15minutemeals
 title: El arroz frito con kimchi picante de 15 minutos más rápido y crujiente
 slug: el-arroz-frito-con-kimchi-picante-de-15-minutos-mas-rapido-y-crujiente
 meta:
@@ -16,10 +18,6 @@ description: 'La comida de recuperación definitiva cuando necesitas mucho sabor
 blurb: []
 image: kim-chi-fried-rice_a4xo6n
 alt: Arroz frito con kimchi y huevo frito
-categories:
-- cena
-- vegetariano
-- comidas-de-15-minutos
 tipsTitle: Consejos de cocina
 tips:
 - 'Bomba de sabor: ¡No deseches el líquido! Echa un chorrito de jugo de kimchi en
@@ -46,13 +44,11 @@ cuisine: Coreana
 tags:
 - korean
 keywords:
-- kimchi
-- arroz frito
-- coreano
-- vegetariano
 - 15 minutos
-- picante
+- arroz frito
 - comida reconfortante
+- coreano
+- kimchi
 rating: null
 variations:
 - 'Revuelto de tofu: Cambie el huevo por tofu desmenuzado y sazonado.'
@@ -126,3 +122,4 @@ steps:
   quedar empapado en lugar de quedar crujiente.
 - Retíralo del fuego. Adorne con semillas de sésamo tostadas y cebolletas (cebolletas).
 ---
+

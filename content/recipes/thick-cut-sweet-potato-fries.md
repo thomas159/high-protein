@@ -1,38 +1,62 @@
----
-title: "The Ultimate Extra Crispy Air Fryer Sweet Potato Fries"
-slug: "thick-cut-sweet-potato-fries"
-meta: {
-  seoMetaDescription: "Want the perfect side dish? These ultimate extra crispy air fryer sweet potato fries are a macro-friendly 60-minute vegan snack."
-}
-description: |
-  Enjoy the perfect balance of sweet and savory with the ultimate extra crispy sweet potato fries. **A high-volume side dish clocking in at just solid macros**, they offer a healthy, satisfying crunch with a fraction of the oil.
-  Cooked to perfection in the air fryer. Tested multiple times to nail the exact soaking time required to pull out the starch.
-image: "thick-cut-sweet-potato-fries_zip294"
-alt: "Thick cut sweet potato fries stacked on a plate"
-pintrest: ""
-categories: ["vegan", "snacks"]
-cuisine: "American"
-keywords: ["sweet potato fries", "thick cut", "vegan", "american", "snack", "air fryer"]
-tipsTitle: "Crispy Fry Secrets"
-tips: 
-  - "Space is Mandatory: Overcrowding the basket equals steaming. Give them room to breathe for maximum crunch."
-  - "The Starch Soak: Soaking in cold water for 30 minutes bins the surface starch. Crucial for a crispy exterior."
-  - "Salt Timing: Only salt *after* cooking. Salting raw potatoes draws out moisture and ruins the crunch."
+--- 
+categories:
+- airfryer
+- snacks
+title: The Ultimate Extra Crispy Air Fryer Sweet Potato Fries
+slug: thick-cut-sweet-potato-fries
+meta:
+  seoMetaDescription: Want the perfect side dish? These ultimate extra crispy air
+    fryer sweet potato fries are a macro-friendly 60-minute vegan snack.
+description: 'Enjoy the perfect balance of sweet and savory with the ultimate extra
+  crispy sweet potato fries. **A high-volume side dish clocking in at just solid macros**,
+  they offer a healthy, satisfying crunch with a fraction of the oil.
+
+  Cooked to perfection in the air fryer. Tested multiple times to nail the exact soaking
+  time required to pull out the starch.
+
+  '
+image: thick-cut-sweet-potato-fries_zip294
+alt: Thick cut sweet potato fries stacked on a plate
+pintrest: ''
+cuisine: American
+keywords:
+- air fryer
+- american
+- snack
+- sweet potato fries
+- thick cut
+- vegan
+tipsTitle: Crispy Fry Secrets
+tips:
+- 'Space is Mandatory: Overcrowding the basket equals steaming. Give them room to
+  breathe for maximum crunch.'
+- 'The Starch Soak: Soaking in cold water for 30 minutes bins the surface starch.
+  Crucial for a crispy exterior.'
+- 'Salt Timing: Only salt *after* cooking. Salting raw potatoes draws out moisture
+  and ruins the crunch.'
 works:
-  - "Starch Extraction & Dehydration: Soaking the sweet potatoes leaches out the surface amylose starches that typically cause fries to burn and glue together. The air fryer then violently dehydrates the exterior, forcing the complex natural sugars to caramelise into a rigid, crispy shell."
-  - "Moisture Evaporation: The air fryer violently strips the high water content, achieving a crunch that standard ovens simply cannot touch without oil frying."
+- 'Starch Extraction & Dehydration: Soaking the sweet potatoes leaches out the surface
+  amylose starches that typically cause fries to burn and glue together. The air fryer
+  then violently dehydrates the exterior, forcing the complex natural sugars to caramelise
+  into a rigid, crispy shell.'
+- 'Moisture Evaporation: The air fryer violently strips the high water content, achieving
+  a crunch that standard ovens simply cannot touch without oil frying.'
 use:
-  - "Burger Sidekick: The elite pairing for a heavy plant-based burger."
-  - "Volume Snack: A massive, nutrient-dense serving when the cravings hit."
-  - "Loaded Base: Crown them with black beans and avocado for a full meal."
-tags: ["vegan", "snack"]
+- 'Burger Sidekick: The elite pairing for a heavy plant-based burger.'
+- 'Volume Snack: A massive, nutrient-dense serving when the cravings hit.'
+- 'Loaded Base: Crown them with black beans and avocado for a full meal.'
+tags:
+- snack
+- vegan
 variations:
-  - "Cinnamon Sugar: Toss with a pinch of cinnamon for a sweet treat."
-  - "Spicy Cajun: Dust them with smoked paprika and cayenne."
-rating: 
-reviews: 
-servingSuggestions: "Enjoy these immediately with a sharp garlic aioli or smoky chipotle mayo. The ultimate side dish for a stacked veggie burger."
-storageInstructions: "Fridge for 3 days. Blast in the air fryer to resurrect the crunch. Don't freeze them."
+- 'Cinnamon Sugar: Toss with a pinch of cinnamon for a sweet treat.'
+- 'Spicy Cajun: Dust them with smoked paprika and cayenne.'
+rating: null
+reviews: null
+servingSuggestions: Enjoy these immediately with a sharp garlic aioli or smoky chipotle
+  mayo. The ultimate side dish for a stacked veggie burger.
+storageInstructions: Fridge for 3 days. Blast in the air fryer to resurrect the crunch.
+  Don't freeze them.
 prepTimeMins: 30
 cookTimeMins: 30
 servings: 1
@@ -42,18 +66,26 @@ macros:
   protein: 2
   fat: 14
 ingredients:
-  - { item: "Olive oil", amount: 1, unit: "tbsp" }
-  - { item: "Sweet Potato", type: 'thickly cut', amount: 1 }
-
+- item: Olive oil
+  amount: 1
+  unit: tbsp
+- item: Sweet Potato
+  type: thickly cut
+  amount: 1
 faq:
-  - question: "Do I need to peel the sweet potatoes?"
-    answer: "No. The skin adds extra fibre and brilliant texture. Just scrub them clean."
-  - question: "Why are my sweet potato fries soggy?"
-    answer: "You overcrowded the basket or skipped the 30-minute soak. Rookie errors that cause steaming instead of crisping."
-
+- question: Do I need to peel the sweet potatoes?
+  answer: No. The skin adds extra fibre and brilliant texture. Just scrub them clean.
+- question: Why are my sweet potato fries soggy?
+  answer: You overcrowded the basket or skipped the 30-minute soak. Rookie errors
+    that cause steaming instead of crisping.
 steps:
-  - "Slice into 1cm matchsticks. Submerge in cold water for 30 minutes to remove the starch, then pat ruthlessly dry."
-  - "Toss aggressively in a bowl with oil."
-  - "Space them out in the basket. Blast at 190°C for 20-30 minutes. Cook in batches if needed. Shake the basket violently every 5 minutes."
-  - "Pull them when charred. Let them rest in the basket for 60 seconds to lock in the crunch. If you skip the resting phase, they'll go floppy the second they hit the plate."
+- Slice into 1cm matchsticks. Submerge in cold water for 30 minutes to remove the
+  starch, then pat ruthlessly dry.
+- Toss aggressively in a bowl with oil.
+- Space them out in the basket. Blast at 190°C for 20-30 minutes. Cook in batches
+  if needed. Shake the basket violently every 5 minutes.
+- Pull them when charred. Let them rest in the basket for 60 seconds to lock in the
+  crunch. If you skip the resting phase, they'll go floppy the second they hit the
+  plate.
 ---
+

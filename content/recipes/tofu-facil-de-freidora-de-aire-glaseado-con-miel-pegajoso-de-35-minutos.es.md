@@ -1,4 +1,7 @@
----
+--- 
+categories:
+- airfryer
+- dinner
 title: Tofu fácil de freidora de aire glaseado con miel pegajoso de 35 minutos
 slug: tofu-facil-de-freidora-de-aire-glaseado-con-miel-pegajoso-de-35-minutos
 meta:
@@ -13,23 +16,17 @@ description: Transforme el tofu natural en una delicia dorada y caramelizada. Lo
 image: honey-glaze-tofu-marinade_1_rykscd
 alt: Cubitos de tofu marinados con glaseado de miel
 pintrest: ''
-categories:
-- vegetariano
-- cena
-- comidas-de-30-minutos
-- marinada
 cuisine: Asiática
 keywords:
-- tofu marinade
-- glaseado de miel
+- air-fryer
 - asiático
-- vegetariano
 - dulce
+- glaseado de miel
 - salado
-- air-fryer
+- tofu marinade
 tags:
-- alto en proteínas
 - air-fryer
+- high-protein
 tipsTitle: Dominio del adobo
 tips:
 - 'Preparación de tofu: consulte nuestros [Ultimate Quick Tofu Prep Hacks](/collections/easy-quick-tofu-prep-hacks)
@@ -132,3 +129,4 @@ steps:
 - Golpéelo con una ramita fresca de cilantro (cilantro) y una rodaja de limón antes
   de servir.
 ---
+

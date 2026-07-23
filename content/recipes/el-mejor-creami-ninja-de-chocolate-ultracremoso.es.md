@@ -1,4 +1,7 @@
----
+--- 
+categories:
+- dessert
+- ninjacreami
 title: El mejor creami ninja de chocolate ultracremoso
 slug: el-mejor-creami-ninja-de-chocolate-ultracremoso
 meta:
@@ -15,20 +18,16 @@ description: 'Un gran golpe proteico disfrazado de un rico y decadente postre de
 image: ninja-creami-chocolate-ice-cream_bnolyt
 alt: Helado de proteína de chocolate en pinta Ninja Creami
 pintrest: ''
-categories:
-- postre
-- alto-en-proteina
-- aperitivos
 tags:
-- alto en proteínas
+- high-protein
 cuisine: Americana
 keywords:
-- ninja creami
-- chocolate
-- helado proteico
-- postre saludable
 - alto-en-proteina
+- chocolate
 - helado
+- helado proteico
+- ninja creami
+- postre saludable
 tipsTitle: Mecanica Creami
 tips:
 - 'La paciencia es obligatoria: congele la pinta completamente nivelada durante 24
@@ -125,3 +124,4 @@ steps:
 - Ahueca el centro, agrega algunas chispas de chocolate amargo si tienes calorías
   de sobra y ejecuta el programa 'Mix-In'. Demoler inmediatamente.
 ---
+

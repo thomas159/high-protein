@@ -23,7 +23,7 @@ const localePath = useLocalePath()
 <template>
   <div class="max-w-4xl mx-auto px-4 py-12">
     <section class="text-center mb-16">
-      <h1 class="text-4xl md:text-5xl font-bold mb-6 text-foreground">
+      <h1 class="text-4xl md:text-6xl font-black uppercase tracking-tighter italic text-white mb-6">
         {{ t('about.title', { span: '' }).split('{span}')[0] }}<span class="text-emerald-500">{{ t('about.span') }}</span>{{ t('about.title', { span: '' }).split('{span}')[1] }}
       </h1>
       <p class="text-lg text-muted-foreground leading-relaxed">
@@ -50,7 +50,7 @@ const localePath = useLocalePath()
       </div>
       
       <div class="space-y-6">
-        <h2 class="text-3xl font-semibold text-foreground">{{ t('about.story.title', { siteName: appConfig.siteName }) }}</h2>
+        <h2 class="text-3xl font-black uppercase tracking-tighter italic text-white mb-6">{{ t('about.story.title', { siteName: appConfig.siteName }) }}</h2>
         <p class="text-muted-foreground">
           {{ t('about.story.p1') }}
         </p>
@@ -92,7 +92,7 @@ const localePath = useLocalePath()
     </section> -->
 
     <section class="bg-muted rounded-3xl p-8 md:p-12 text-center">
-      <h2 class="text-2xl font-bold mb-4">{{ t('about.cta.title') }}</h2>
+      <h2 class="text-2xl font-black uppercase tracking-tighter italic text-white mb-4">{{ t('about.cta.title') }}</h2>
       <p class="text-muted-foreground mb-8">
         {{ t('about.cta.description', { siteName: appConfig.siteName }) }}
       </p>

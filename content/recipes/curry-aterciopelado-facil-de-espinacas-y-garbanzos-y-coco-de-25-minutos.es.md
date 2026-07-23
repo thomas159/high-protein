@@ -1,4 +1,6 @@
----
+--- 
+categories:
+- dinner
 title: Curry aterciopelado fácil de espinacas y garbanzos y coco de 25 minutos
 slug: curry-aterciopelado-facil-de-espinacas-y-garbanzos-y-coco-de-25-minutos
 meta:
@@ -11,25 +13,20 @@ description: Un curry en una sartén fácil y brillantemente eficiente de 25 min
   aterciopelado. Perfectamente antiinflamatorio para la recuperación post-entrenamiento.
 image: one-pan-spinach-and-chickpea-coconut-curry_ffy601
 alt: Curry de coco y espinacas en una sartén en un tazón
-categories:
-- vegano
-- comidas-en-una-sola-olla
-- comidas-de-30-minutos
-- alto-en-proteina
 tags:
-- vegano
-- alto en proteínas
-- una sola olla
+- high-protein
+- one-pan
+- vegan
 cuisine: India
 keywords:
+- alto-en-proteina
 - curry
-- garbanzo
 - espinacas
+- garbanzo
+- indio
 - leche de coco
 - una sartén
-- indio
-- vegano
-- alto-en-proteina
+- vegan
 servingSuggestions: El principal de alto volumen definitivo. Aplaste esto sobre una
   porción enorme de arroz integral o quinua. Utilice un naan tostado para absorber
   hasta la última gota de caldo de coco.
@@ -139,3 +136,4 @@ steps:
 - Cocine a fuego lento durante 5-10 minutos hasta que la salsa espese. Agregue Kasuri
   Methi al final si lo tiene.
 ---
+

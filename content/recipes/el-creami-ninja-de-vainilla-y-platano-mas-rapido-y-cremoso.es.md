@@ -1,4 +1,7 @@
----
+--- 
+categories:
+- dessert
+- ninjacreami
 title: El creami ninja de vainilla y plátano más rápido y cremoso
 slug: el-creami-ninja-de-vainilla-y-platano-mas-rapido-y-cremoso
 meta:
@@ -15,18 +18,15 @@ description: 'Un postre dulce y aterciopelado de plátano y vainilla en forma de
 image: ninja-creami-banana-vanilla-ice-cream_qmcu31
 alt: Helado de plátano y vainilla en pinta de Ninja Creami
 pintrest: ''
-categories:
-- postre
-- aperitivos
 tags:
-- fácil
+- easy
 cuisine: Británica
 keywords:
-- ninja creami
 - banana vanilla
+- easy
 - helado
+- ninja creami
 - postre saludable
-- fácil
 tipsTitle: Mecanica Creami
 tips:
 - 'La paciencia es obligatoria: congele la pinta completamente nivelada durante 24
@@ -123,3 +123,4 @@ steps:
 - Ahueca el centro, introduce tus mezclas favoritas y ejecuta el programa 'Mix-In'.
   Demoler inmediatamente.
 ---
+

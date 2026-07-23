@@ -22,6 +22,8 @@ const props = defineProps<{
   collections?: Collection[];
   title?: string; // Optional custom title
   description?: string; // Optional custom description
+  viewAllLink?: string;
+  viewAllText?: string;
 }>();
 
 const { formatText } = useFormatText()
@@ -29,14 +31,13 @@ const { formatText } = useFormatText()
 
 <template>
   <section>
-    <div class="text-center md:text-left flex flex-col md:flex-row justify-between items-start">
-      <div>
-        <h2 class="font-display text-3xl md:text-5xl font-bold">
-          {{ title }}
-        </h2>
-        <p v-if="description" class="text-slate-500 text-lg" v-html="formatText(description)">
-        </p>
-      </div>
+    <div class="flex items-center justify-between mb-8">
+      <h2 class="text-3xl md:text-5xl font-black uppercase tracking-tighter italic text-white">
+        {{ title }}
+      </h2>
+      <NuxtLink v-if="viewAllLink" :to="viewAllLink" class="text-[10px] font-black uppercase tracking-widest text-emerald-500 hover:text-emerald-400 transition-colors">
+        {{ viewAllText || 'View All' }} &rarr;
+      </NuxtLink>
     </div>
 
     <div 

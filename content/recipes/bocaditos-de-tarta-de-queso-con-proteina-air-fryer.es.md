@@ -1,4 +1,7 @@
----
+--- 
+categories:
+- airfryer
+- dessert
 title: Bocaditos de tarta de queso con proteína Air Fryer
 slug: bocaditos-de-tarta-de-queso-con-proteina-air-fryer
 meta:
@@ -9,18 +12,15 @@ description: Un postre rico en proteínas y macrocompatible con una corteza dige
   mantecosa precocida, horneado hasta obtener una perfección cremosa en la freidora.
 image: air-fryer-protein-cheesecake-bites-2_bsig6f
 alt: Bocaditos de tarta de queso con proteínas y freidora
-categories:
-- air-fryer
-- postre
 tags:
-- alto en proteínas
+- high-protein
 cuisine: Americana
 keywords:
-- tarta de queso
-- freidora de aire
-- proteína
-- postre
 - bocaditos
+- freidora de aire
+- postre
+- proteína
+- tarta de queso
 rating: null
 reviews: null
 tipsTitle: Trucos para morder tarta de queso
@@ -98,3 +98,4 @@ steps:
 - Retirar de la freidora y dejar enfriar a temperatura ambiente. Transfiera al refrigerador
   y enfríe durante al menos 2 horas para que cuaje por completo antes de servir.
 ---
+

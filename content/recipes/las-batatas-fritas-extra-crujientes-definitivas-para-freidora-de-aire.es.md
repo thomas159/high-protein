@@ -1,4 +1,6 @@
----
+--- 
+categories:
+- airfryer
 title: Las batatas fritas extra crujientes definitivas para freidora de aire
 slug: las-batatas-fritas-extra-crujientes-definitivas-para-freidora-de-aire
 meta:
@@ -13,17 +15,14 @@ description: 'Disfrute del equilibrio perfecto entre dulce y salado con las mejo
 image: thick-cut-sweet-potato-fries_zip294
 alt: Batatas fritas de corte grueso apiladas en un plato
 pintrest: ''
-categories:
-- vegano
-- aperitivos
 cuisine: Americana
 keywords:
-- sweet potato fries
-- corte grueso
-- vegano
 - americano
-- snack
+- corte grueso
 - freidora de aire
+- snack
+- sweet potato fries
+- vegan
 tipsTitle: Secretos de patatas fritas crujientes
 tips:
 - 'El espacio es obligatorio: abarrotar la cesta equivale a cocinar al vapor. Déles
@@ -48,8 +47,8 @@ use:
   antojos.'
 - 'Base cargada: Corónalas con frijoles negros y aguacate para una comida completa.'
 tags:
-- vegano
-- aperitivo
+- snack
+- vegan
 variations:
 - 'Azúcar de canela: mezcle con una pizca de canela para obtener un dulce sabor.'
 - 'Cajún picante: espolvoréelos con pimentón ahumado y cayena.'
@@ -92,3 +91,4 @@ steps:
   para que queden crujientes. Si te saltas la fase de descanso, se volverán flácidos
   en el momento en que lleguen al plato.
 ---
+

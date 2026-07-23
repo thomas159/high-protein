@@ -116,7 +116,7 @@ const { data: recipes, refresh: refreshRecipes, status } = await useAsyncData(
     if (resolveKey.value !== 'allrecipes') {
       // Use a more relaxed LIKE query to avoid JSON quote issues
       // instead of %"postre"% we use %postre% which is safer for various SQLite JSON formats
-      query = query.where('categories', 'LIKE', `%${resolvedDbSlug.value}%`)
+      query = query.where('categories', 'LIKE', `%${resolveKey.value}%`)
     }
     
     const result = await query.all()
@@ -203,7 +203,7 @@ const filteredRecipes = computed(() => {
         {{ recipes.length }} {{ t('recipes.latest') }}
       </div>
       
-      <h1 class="text-4xl md:text-6xl font-black mb-6 capitalize tracking-tighter text-foreground">
+      <h1 class="text-5xl md:text-7xl font-black uppercase tracking-tighter italic text-white mb-6">
         {{ titleText }}
       </h1>
       <p class="text-muted-foreground text-lg max-w-2xl mx-auto leading-relaxed mb-8">
@@ -223,7 +223,7 @@ const filteredRecipes = computed(() => {
             'px-4 py-1.5 rounded-full text-xs font-bold whitespace-nowrap border transition-all active:scale-95 cursor-pointer capitalize'
           ]"
         >
-          {{ tag }}
+          {{ t('tags.' + tag) }}
         </button>
       </div>
     </div>
@@ -249,7 +249,7 @@ const filteredRecipes = computed(() => {
     <!-- Empty State -->
     <div v-else class="text-center py-20 bg-slate-900/40 rounded-3xl border border-slate-800 shadow-inner">
       <div class="text-5xl mb-6">🥣</div>
-      <h3 class="text-2xl font-black mb-2 text-white">{{ t('categoryPage.empty') }}</h3>
+      <h3 class="text-3xl md:text-5xl font-black uppercase tracking-tighter italic text-white mb-2">{{ t('categoryPage.empty') }}</h3>
       <p class="text-slate-500 max-w-sm mx-auto text-sm leading-relaxed mb-8">
         We couldn't find any recipes for "{{ categoryName }}" that match your fitness goals right now. 
       </p>

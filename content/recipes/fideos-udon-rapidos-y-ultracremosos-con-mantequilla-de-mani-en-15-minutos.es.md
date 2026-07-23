@@ -1,4 +1,6 @@
----
+--- 
+categories:
+- 15minutemeals
 title: Fideos udon rápidos y ultracremosos con mantequilla de maní en 15 minutos
 slug: fideos-udon-rapidos-y-ultracremosos-con-mantequilla-de-mani-en-15-minutos
 meta:
@@ -14,23 +16,19 @@ description: 'Fideos udon gruesos y masticables mezclados con una rápida salsa 
 image: udon-peanut-butter-noodles_qufch8
 alt: Fideos udon de mantequilla de maní con verduras y tofu
 pintrest: ''
-categories:
-- vegano
-- cena
-- comidas-de-15-minutos
 cuisine: Tailandesa
 keywords:
-- udon
-- mantequilla de maní
 - fideos
-- tailandés
-- vegano
-- tofu
+- mantequilla de maní
 - salteado
+- thai
+- tofu
+- udon
+- vegan
 tags:
-- vegano
-- alto en proteínas
-- fusión asiática
+- fusion
+- high-protein
+- vegan
 tipsTitle: Mecánica del wok
 tips:
 - 'Enjuague el udon: enjuague el udon envasado al vacío con agua caliente para aflojar
@@ -128,3 +126,4 @@ steps:
 - Baja el calor. Dobla el udon en la sartén y golpéalo con un chorrito de lima. Mezcle
   agresivamente para cubrir cada mechón.
 ---
+

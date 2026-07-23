@@ -13,7 +13,6 @@ export default defineNuxtConfig({
     '@nuxtjs/i18n',
     '@pinia/nuxt',
     '@nuxt/fonts',
-    '@nuxtjs/eslint-module',
     '@nuxt/content', // Ensure this is @nuxt/content v3 if using the 'build' property
     '@nuxt/test-utils/module',
     '@nuxtjs/seo',

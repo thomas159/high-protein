@@ -1,4 +1,6 @@
----
+--- 
+categories:
+- 15minutemeals
 title: Fideos fáciles de mantequilla de maní y miso ultracremosos en 5 minutos
 slug: fideos-faciles-de-mantequilla-de-mani-y-miso-ultracremosos-en-5-minutos
 meta:
@@ -14,23 +16,19 @@ description: 'La comida de emergencia definitiva en 5 minutos. Con una gran cant
   al menos 50 veces para marcar la proporción exacta de salsa.'
 image: 5-minute-miso-peanut-butter-noodles_eo9aef
 alt: Fideos con miso y mantequilla de maní en 5 minutos, adornados con cebolletas
-categories:
-- comidas-de-5-minutos
-- vegano
-- alto-en-proteina
 tags:
-- vegano
-- alto en proteínas
-- comidas rápidas
+- high-protein
+- quick-meals
+- vegan
 cuisine: Japonesa
 keywords:
-- miso
-- mantequilla de maní
+- 5 minutos
+- alto-en-proteina
 - fideos
 - japonés
-- vegano
-- alto-en-proteina
-- 5 minutos
+- mantequilla de maní
+- miso
+- vegan
 tipsTitle: Trucos de fideos cremosos
 tips:
 - 'Cuidado del miso: Nunca hiervas la pasta de miso de forma agresiva a menos que
@@ -138,3 +136,4 @@ steps:
 - Adorne con cebolletas en rodajas (cebolletas), maní y hojuelas adicionales de pimiento
   rojo si desea más picante.
 ---
+

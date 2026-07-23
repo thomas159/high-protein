@@ -1,4 +1,6 @@
----
+--- 
+categories:
+- snacks
 title: Sopa de zanahoria tailandesa vegana y sedosa fácil de 20 minutos
 slug: sopa-de-zanahoria-tailandesa-vegana-y-sedosa-facil-de-20-minutos
 meta:
@@ -13,24 +15,20 @@ description: Sumérgete en los ricos y aromáticos sabores de Tailandia con esta
 image: thai-carrot-soup_e6uask
 alt: Sopa cremosa de zanahoria tailandesa cubierta con cilantro fresco
 pintrest: ''
-categories:
-- vegano
-- cena
-- comidas-de-30-minutos
 cuisine: Tailandesa
 keywords:
 - carrot soup
-- tailandés
-- leche de coco
-- vegano
-- red curry
 - cremoso
-- sopa
+- leche de coco
+- red curry
 - sopa de zanahoria vegana
+- soup
+- thai
+- vegan
 tags:
-- vegano
-- sopa
-- tailandés
+- soup
+- thai
+- vegan
 rating: null
 reviews: null
 tipsTitle: Mecánica de sopa
@@ -111,3 +109,4 @@ steps:
 - Sirva en tazones calientes. Termine con cilantro fresco (cilantro) y un chorrito
   de lima para despertarlo.
 ---
+

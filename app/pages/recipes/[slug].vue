@@ -256,7 +256,7 @@ useHead({
           <p v-for="(blurb, index) in recipe.blurb" :key="index" class="text-muted-foreground" v-html="formatText(blurb)" />
         </div>
 
-        <h2 v-if="recipe.works?.length" id="works" class="mt-8">{{ t('recipes.whyWorks', { title: recipe.title }) }}</h2>
+        <h2 v-if="recipe.works?.length" id="works" class="text-3xl md:text-5xl font-black uppercase tracking-tighter italic text-white mt-8 mb-6">{{ t('recipes.whyWorks', { title: recipe.title }) }}</h2>
         <div v-if="recipe.works?.length" class="mt-4 space-y-4 border-b border-border pb-8">
           <p v-for="(work, index) in recipe.works" :key="index" class="text-muted-foreground" v-html="formatText(work)" />
         </div>
@@ -265,7 +265,7 @@ useHead({
           <RecipesIngredients :recipe="recipe" />
         </div>
 
-        <h2 id="howToMake" class="scroll-mt-20 mt-12">{{ t('recipes.howToMake', { title: recipe.title }) }}</h2>
+        <h2 id="howToMake" class="scroll-mt-20 text-3xl md:text-5xl font-black uppercase tracking-tighter italic text-white mt-12 mb-6">{{ t('recipes.howToMake', { title: recipe.title }) }}</h2>
         <div class="markdown-recipe-body mt-6 border-b border-border pb-12">
           <ol>
             <li v-for="(step, index) in recipe.steps" :key="index">
@@ -288,7 +288,7 @@ useHead({
         </div>
 
         <div v-if="recipe.muscleBuildingTip" id="muscleBuildingTip" class="my-12 bg-emerald-500/5 dark:bg-emerald-500/10 border-l-4 border-emerald-500 p-6 rounded-r-xl shadow-sm">
-          <h2 class="mt-0 text-emerald-700 dark:text-emerald-400 flex items-center gap-2 pb-2">
+          <h2 class="text-2xl md:text-3xl font-black uppercase tracking-tighter italic text-emerald-700 dark:text-emerald-400 mt-0 flex items-center gap-2 pb-2">
             <Icon name="ph:muscle-bold" class="w-6 h-6" />
             {{ t('recipes.muscleTips') }}
           </h2>
@@ -296,44 +296,44 @@ useHead({
         </div>
 
 
-        <h2 v-if="recipe.flavour?.length" id="flavour" class="mt-8">{{ t('recipes.flavourProfile') }}</h2>
+        <h2 v-if="recipe.flavour?.length" id="flavour" class="text-3xl md:text-5xl font-black uppercase tracking-tighter italic text-white mt-8 mb-6">{{ t('recipes.flavourProfile') }}</h2>
         <div v-if="recipe.flavour?.length" class="mt-4 space-y-4">
           <p v-for="(flav, index) in recipe.flavour" :key="index" class="text-muted-foreground" v-html="formatText(flav)" />
         </div>
 
-        <h2 v-if="recipe.variations?.length" id="variations" class="mt-8">{{ t('recipes.variations') }}</h2>
+        <h2 v-if="recipe.variations?.length" id="variations" class="text-3xl md:text-5xl font-black uppercase tracking-tighter italic text-white mt-8 mb-6">{{ t('recipes.variations') }}</h2>
         <div v-if="recipe.variations?.length" class="mt-4 space-y-4">
           <p v-for="(variation, index) in recipe.variations" :key="index" class="text-muted-foreground" v-html="formatText(variation)" />
         </div>
 
-        <h2 v-if="recipe.use?.length" id="use" class="mt-8">{{ t('recipes.howToServe') }}</h2>
+        <h2 v-if="recipe.use?.length" id="use" class="text-3xl md:text-5xl font-black uppercase tracking-tighter italic text-white mt-8 mb-6">{{ t('recipes.howToServe') }}</h2>
         <div v-if="recipe.use?.length" class="mt-4 space-y-4">
           <p v-for="(u, index) in recipe.use" :key="index" class="text-muted-foreground" v-html="formatText(u)" />
         </div>
 
 
-        <h2 v-if="recipe.whyTitle && recipe.why?.length" id="why" class="mt-8">{{ recipe.whyTitle }}</h2>
+        <h2 v-if="recipe.whyTitle && recipe.why?.length" id="why" class="text-3xl md:text-5xl font-black uppercase tracking-tighter italic text-white mt-8 mb-6">{{ recipe.whyTitle }}</h2>
         <div v-if="recipe.why?.length" class="mt-4 space-y-4">
           <p v-for="(reason, index) in recipe.why" :key="index" class="text-muted-foreground" v-html="formatText(reason)" />
         </div>
 
-        <h2 v-if="recipe.tips?.length" id="tips" class="mt-8">{{ recipe.tipsTitle || t('recipes.tips') }}</h2>
+        <h2 v-if="recipe.tips?.length" id="tips" class="text-3xl md:text-5xl font-black uppercase tracking-tighter italic text-white mt-8 mb-6">{{ recipe.tipsTitle || t('recipes.tips') }}</h2>
         <div v-if="recipe.tips?.length" class="mt-4 space-y-4">
           <p v-for="(tip, index) in recipe.tips" :key="index" class="text-muted-foreground" v-html="formatText(tip)" />
         </div>
 
 
 
-        <h2 v-if="recipe.servingSuggestions" id="servingSuggestions" class="mt-8">{{ t('recipes.servingSuggestions') }}</h2>
+        <h2 v-if="recipe.servingSuggestions" id="servingSuggestions" class="text-3xl md:text-5xl font-black uppercase tracking-tighter italic text-white mt-8 mb-6">{{ t('recipes.servingSuggestions') }}</h2>
         <p class=" text-muted-foreground" v-html="formatText(recipe.servingSuggestions)" />
 
 
-<h2 v-if="recipe.storageInstructions" id="storage" class="mt-8 ">{{ t('recipes.storage', { title: recipe.title }) }}</h2>
+<h2 v-if="recipe.storageInstructions" id="storage" class="text-3xl md:text-5xl font-black uppercase tracking-tighter italic text-white mt-8 mb-6">{{ t('recipes.storage', { title: recipe.title }) }}</h2>
         <p class=" text-muted-foreground" v-html="formatText(recipe.storageInstructions)" />
 
            <!-- New FAQ Section -->
         <section v-if="recipe?.faq?.length" class="mt-8">
-          <h2 id="faq" class="mt-8">
+          <h2 id="faq" class="text-3xl md:text-5xl font-black uppercase tracking-tighter italic text-white mt-8 mb-6">
             {{ t('recipes.faq') }}
           </h2>
           
@@ -387,7 +387,7 @@ useHead({
       </div>
     </div>
 
-    <h2 id="relatedRecipes" class="mt-8">{{ t('recipes.similar') }}</h2>
+    <h2 id="relatedRecipes" class="text-3xl md:text-5xl font-black uppercase tracking-tighter italic text-white mt-16 mb-8">{{ t('recipes.similar') }}</h2>
     <div class="grid grid-cols-2 lg:grid-cols-4 gap-main -mx-4 lg:-mx-0">
       <RecipeCard v-for="relatedRecipe in relatedRecipes" :key="relatedRecipe.slug" :recipe="relatedRecipe" />
     </div>

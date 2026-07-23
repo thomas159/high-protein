@@ -1,4 +1,7 @@
----
+--- 
+categories:
+- airfryer
+- dinner
 title: Freidora de aire rápida carbonizada y rica en proteínas Tikka Tofu de 35 minutos
 slug: freidora-de-aire-rapida-carbonizada-y-rica-en-proteinas-tikka-tofu-de-35-minutos
 meta:
@@ -12,22 +15,17 @@ description: Infunde a tu tofu los sabores atrevidos y aromáticos de la India c
 image: tikka-tofu-marinade_if4ab4
 alt: Cubitos de tofu marinados con tikka ricos en proteínas
 pintrest: ''
-categories:
-- cena
-- comidas-de-30-minutos
-- marinada
 tags:
-- alto en proteínas
+- high-protein
 - indian
 cuisine: India
 keywords:
-- tofu marinade
-- tikka
-- indio
-- vegetariano
-- alto-en-proteina
-- air-fryer
 - a la parrilla
+- air-fryer
+- alto-en-proteina
+- indio
+- tikka
+- tofu marinade
 tipsTitle: Dominio del adobo
 tips:
 - 'Preparación de tofu: consulte nuestros [Ultimate Quick Tofu Prep Hacks](/collections/easy-quick-tofu-prep-hacks)
@@ -128,3 +126,4 @@ steps:
   que se queme.
 - Golpéelo con cilantro fresco (cilantro) y un chorrito de lima.
 ---
+

@@ -1,4 +1,6 @@
----
+--- 
+categories:
+- 15minutemeals
 title: Las patatas fritas para microondas en 15 minutos más rápidas y crujientes
 slug: las-patatas-fritas-para-microondas-en-15-minutos-mas-rapidas-y-crujientes
 meta:
@@ -15,10 +17,6 @@ description: 'Las patatas fritas no tienen por qué arruinar tu dieta. **Al ofre
 image: microwave-crisps_loaj1f
 alt: Patatas fritas crujientes para microondas en un bol
 pintrest: ''
-categories:
-- vegano
-- aperitivos
-- comidas-de-15-minutos
 tipsTitle: Variación de sabor
 tips:
 - 'Truco de sal y vinagre: Remoje las rodajas en vinagre blanco durante 10 minutos
@@ -44,15 +42,15 @@ use:
 - 'Adición a la lonchera: Crujido sin esfuerzo para tu preparación del mediodía.'
 cuisine: Americana
 tags:
-- vegano
-- aperitivo
+- snack
+- vegan
 keywords:
+- americano
 - microwave crisps
 - potato chips
-- americano
-- vegano
-- snack
 - saludable
+- snack
+- vegan
 variations:
 - 'Sal y Vinagre: Remojar en vinagre antes de cocinar.'
 - 'BBQ picante: Espolvoree con pimentón ahumado y chile en polvo.'
@@ -97,3 +95,4 @@ steps:
 - Sáquelos y déjelos reposar durante 2 minutos para que se solidifiquen y obtengan
   ese crujiente perfecto.
 ---
+

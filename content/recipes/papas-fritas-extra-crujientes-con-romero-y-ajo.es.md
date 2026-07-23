@@ -1,4 +1,7 @@
----
+--- 
+categories:
+- snacks
+- trending
 title: Papas fritas extra crujientes con romero y ajo
 slug: papas-fritas-extra-crujientes-con-romero-y-ajo
 meta:
@@ -19,10 +22,6 @@ description: 'Mejora tu guarnición con estas fragantes papas fritas con infusi�
 image: air-fryer-rosemary-garlic-fries_ab8wu4
 alt: Patatas fritas crujientes con romero y ajo
 pintrest: ''
-categories:
-- air-fryer
-- comidas-de-30-minutos
-- aperitivos
 tipsTitle: Secretos de patatas fritas crujientes
 tips:
 - 'Sécalas bien: Después de cortar las patatas, sécalas intensamente con un paño de
@@ -47,18 +46,18 @@ use:
 - 'Maridaje de bistec: El mejor compañero para un filete espeso de coliflor o seitán.'
 - 'Snack Bowl: Perfecto para mojar en mayonesa de trufa o alioli de ajo.'
 tags:
-- vegano
-- sin gluten
+- gluten-free
+- vegan
 cuisine: Americana
 keywords:
-- papas fritas
-- freidora de aire
-- romero
 - ajo
 - americano
-- vegano
-- sin gluten
+- freidora de aire
+- gluten-free
+- papas fritas
+- romero
 - snack
+- vegan
 whyTitle: Why use an air fryer?
 why:
 - 'Herb Infusion: The rapid air circulation "toasts" the rosemary needles, releasing
@@ -127,3 +126,4 @@ steps:
 - Una vez que las patatas fritas estén doradas y fragantes, retíralas inmediatamente.
   Para darle un toque extra de sabor, decore con una pizca final de romero fresco.
 ---
+

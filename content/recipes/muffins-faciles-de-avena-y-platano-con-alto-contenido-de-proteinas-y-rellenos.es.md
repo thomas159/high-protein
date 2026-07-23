@@ -1,4 +1,7 @@
----
+--- 
+categories:
+- dessert
+- snacks
 title: Muffins fáciles de avena y plátano con alto contenido de proteínas y rellenos
   de 15 minutos
 slug: muffins-faciles-de-avena-y-platano-con-alto-contenido-de-proteinas-y-rellenos
@@ -18,22 +21,18 @@ description: 'Una potencia macroequilibrada que realmente sabe a postre. Con pro
 blurb: []
 image: healthy-banana-oat-muffins_n0f9xa
 alt: Muffins saludables de avena y plátano recién salidos de la freidora
-categories:
-- air-fryer
-- postre
-- comidas-de-15-minutos
 tags:
-- alto en proteínas
-- horneado
+- baking
+- high-protein
 cuisine: Americana
 keywords:
-- banana muffins
-- oats
-- repostería saludable
-- americano
-- postre
 - alto-en-proteina
+- americano
+- banana muffins
 - chocolate
+- oats
+- postre
+- repostería saludable
 tipsTitle: Alternativa vegana
 tips:
 - 'Intercambio vegano: Cambia el huevo por un huevo de lino (1 cucharada de lino molido
@@ -117,3 +116,4 @@ steps:
 - Caliente a 180 ° C durante 6-8 minutos en la freidora. Introduce un tenedor, si
   sale limpio, ya están listas. Si está mojado con masa, dales otros 2 minutos.
 ---
+

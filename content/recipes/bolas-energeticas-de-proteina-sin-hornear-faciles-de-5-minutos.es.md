@@ -1,4 +1,7 @@
----
+--- 
+categories:
+- 15minutemeals
+- snacks
 title: Bolas energéticas de proteína sin hornear fáciles de 5 minutos
 slug: bolas-energeticas-de-proteina-sin-hornear-faciles-de-5-minutos
 meta:
@@ -16,22 +19,17 @@ description: 'Alimente su bloque de entrenamiento con estas sencillas bolitas de
 image: no-bake-5-ingredient-protein-balls_kvwhmm
 alt: Bolas de proteína de 5 ingredientes sin hornear apiladas juntas
 pintrest: ''
-categories:
-- alto-en-proteina
-- comidas-de-5-minutos
-- aperitivos
-- postre
 cuisine: Americana
 tags:
-- aperitivo
-- alto en proteínas
-keywords:
-- protein balls
-- sin horno
+- high-protein
 - snack
+keywords:
 - alto-en-proteina
 - americano
 - preparación de comida
+- protein balls
+- sin horno
+- snack
 tipsTitle: Dominio de la masa
 tips:
 - 'Control de textura: ¿Demasiado seco? Añade un chorrito de leche. ¿Demasiado pegajoso?
@@ -112,3 +110,4 @@ steps:
 - Si está demasiado pegajoso para manipular, refrigere el recipiente durante 10 minutos
   para solidificar las grasas.
 ---
+

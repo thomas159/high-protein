@@ -1,4 +1,7 @@
----
+--- 
+categories:
+- airfryer
+- snacks
 title: Muffins de huevo para desayuno con freidora de aire rápidos y fáciles de 10
   minutos
 slug: muffins-de-huevo-para-desayuno-con-freidora-de-aire-rapidos-y-faciles-de-10
@@ -18,24 +21,18 @@ image: air-fryer-breakfast-egg-muffins_thu9o8
 alt: Muffins de huevo para el desayuno con freidora con queso feta y tomates secados
   al sol
 pintrest: ''
-categories:
-- air-fryer
-- desayuno
-- comidas-de-15-minutos
-- vegetariano
-- keto
 cuisine: Americana
 keywords:
-- egg muffins
-- desayuno en freidora de aire
-- queso feta
-- tomates secos
-- desayuno keto
 - alto-en-proteina
 - bocaditos de huevo en freidora de aire
+- desayuno en freidora de aire
+- desayuno keto
+- egg muffins
+- queso feta
+- tomates secos
 tags:
+- high-protein
 - keto
-- alto en proteínas
 rating: null
 reviews: null
 tipsTitle: Dominio de los muffins
@@ -115,3 +112,4 @@ steps:
   de comprobarlo, necesitaron otros 60 segundos.
 - Sácalos, déjalos reposar un minuto para no quemarte la boca y sírvelos inmediatamente.
 ---
+

@@ -115,6 +115,13 @@ const { t } = useI18n()
         <svg class="w-5 h-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
         Add to Shopping List
       </button> -->
+      <!-- Nutrition Label -->
+      <div v-if="props.recipe?.macros" class="mt-8 pt-8 border-t border-border flex justify-center">
+        <RecipesNutritionLabel 
+          :macros="props.recipe.macros" 
+          :servings="props.recipe.servings || 1" 
+        />
+      </div>
     </div>
   </div>
 </template>

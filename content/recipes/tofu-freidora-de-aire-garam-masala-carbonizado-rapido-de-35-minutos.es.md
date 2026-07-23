@@ -1,4 +1,7 @@
----
+--- 
+categories:
+- airfryer
+- dinner
 title: Tofu freidora de aire Garam Masala carbonizado rápido de 35 minutos
 slug: tofu-freidora-de-aire-garam-masala-carbonizado-rapido-de-35-minutos
 meta:
@@ -18,24 +21,18 @@ description: 'Esta marinada rápida de Garam Masala es una potencia de sabor. El
 image: garam-masala-tofu-marinade_yfdnmb
 alt: Cubos de tofu marinados con garam masala listos para cocinar
 pintrest: ''
-categories:
-- vegano
-- cena
-- comidas-de-30-minutos
-- marinada
 tags:
-- vegano
-- alto en proteínas
+- high-protein
 - indian
+- vegan
 cuisine: India
 keywords:
-- tofu marinade
+- air-fryer
+- alto-en-proteina
 - garam masala
 - indio
-- vegano
-- alto-en-proteina
-- picante
-- air-fryer
+- tofu marinade
+- vegan
 tipsTitle: Especias y carbón
 tips:
 - 'Preparación de tofu: consulte nuestros [Ultimate Quick Tofu Prep Hacks](/collections/easy-quick-tofu-prep-hacks)
@@ -123,3 +120,4 @@ steps:
   que se queme.
 - Termine con cilantro fresco (cilantro) y un chorrito de lima.
 ---
+

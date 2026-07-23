@@ -1,4 +1,6 @@
----
+--- 
+categories:
+- airfryer
 title: Papas fritas extra crujientes con freidora de aire de 25 minutos, ajo, parmesano
   y zanahoria
 slug: papas-fritas-extra-crujientes-con-freidora-de-aire-de-25-minutos-ajo-parmesano
@@ -15,18 +17,12 @@ blurb: []
 image: air-fryer-garlic-and-parmesan-carrot-fries_fumihc
 alt: Freidora de aire con ajo y zanahorias fritas con parmesano en un plato
 pintrest: ''
-categories:
-- air-fryer
-- aperitivos
-- comidas-de-30-minutos
-- vegetariano
 cuisine: Americana
 keywords:
+- ajo y parmesano
 - carrot fries
 - freidora de aire
-- ajo y parmesano
 - papas fritas saludables
-- aperitivo vegetariano
 tags: []
 rating: null
 reviews: null
@@ -99,3 +95,4 @@ steps:
 - Sácalos cuando estén dorados. Sirva inmediatamente con parmesano extra y un poco
   de perejil.
 ---
+

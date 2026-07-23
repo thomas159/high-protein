@@ -1,4 +1,6 @@
----
+--- 
+categories:
+- airfryer
 title: Las mejores papas fritas con queso y jalapeños para freidora extra crujientes
 slug: las-mejores-papas-fritas-con-queso-y-jalapenos-para-freidora-extra-crujientes
 meta:
@@ -12,10 +14,6 @@ description: Queso cheddar derretido, jalapeños picantes y lo último en chips 
 image: air-fryer-jalapeno-cheese-loaded-fries_twwfu7
 alt: Freidora crujiente con queso jalapeño y papas fritas cargadas en un plato
 pintrest: ''
-categories:
-- air-fryer
-- comidas-de-30-minutos
-- aperitivos
 tipsTitle: Cargado y crujiente
 tips:
 - 'Solo queso en bloque: Ralle siempre desde un bloque sólido. Las bolsas previamente
@@ -39,13 +37,12 @@ use:
 tags: []
 cuisine: Americana
 keywords:
-- papas fritas cargadas
-- jalapeno
+- americano
 - cheese
 - freidora de aire
-- americano
+- jalapeno
+- papas fritas cargadas
 - snack
-- picante
 whyTitle: Why use an air fryer?
 why:
 - 'Superior Crunch: The circulating air delivers deep-fryer crunch with barely any
@@ -115,3 +112,4 @@ steps:
 - Saque con cuidado las papas fritas (una espátula ayuda a mantener el queso intacto)
   y sirva inmediatamente.
 ---
+

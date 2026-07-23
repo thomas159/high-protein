@@ -1,4 +1,6 @@
----
+--- 
+categories:
+- 15minutemeals
 title: Fideos rápidos con chile y mantequilla de maní ultracremosos en 5 minutos
 slug: fideos-rapidos-con-chile-y-mantequilla-de-mani-ultracremosos-en-5-minutos
 meta:
@@ -14,23 +16,17 @@ description: 'Un equilibrio brillante entre las grasas pesadas de la mantequilla
   de arroz con las pesadas grasas de maní, asegurando una viscosidad brillante y contundente.'
 image: 5-minute-peanut-butter-chilli-noodle_getziq
 alt: Fideos con chile y mantequilla de maní en 5 minutos en un tazón
-categories:
-- comidas-de-5-minutos
-- vegano
-- alto-en-proteina
 tags:
-- vegano
-- alto en proteínas
-- picante
+- high-protein
+- vegan
 cuisine: Asiática
 keywords:
-- peanut butter noodles
-- chile
-- asiático
-- vegano
-- alto-en-proteina
 - 5 minutos
-- picante
+- alto-en-proteina
+- asiático
+- chile
+- peanut butter noodles
+- vegan
 tipsTitle: Salsa y chisporroteo
 tips:
 - 'Control de consistencia: La mantequilla de maní se convierte en concreto cuando
@@ -136,3 +132,4 @@ steps:
 - Servir inmediatamente. Adorne abundantemente con cebolletas, semillas de sésamo
   y un chorrito de lima.
 ---
+
