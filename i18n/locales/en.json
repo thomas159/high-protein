@@ -253,5 +253,14 @@
     "back": "Back to Home",
     "pageNotFound": "Page Not Found",
     "unknown": "Unknown"
+  },
+  "search": {
+    "placeholder": "Search protein, ingredients, or recipes...",
+    "noResults": "No recipes found for \"{query}\"",
+    "trySearching": "Try searching for \"Tofu\", \"Creami\", or \"Dinner\"",
+    "searching": "Searching...",
+    "poweredBy": "Powered by Nuxt Content",
+    "select": "Select",
+    "shortcut": "ESC"
   }
 }

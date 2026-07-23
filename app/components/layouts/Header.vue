@@ -17,6 +17,18 @@ const { locales, locale } = useI18n()
 const switchLocalePath = useSwitchLocalePath()
 const localePath = useLocalePath()
 
+// Modernized search state
+const isSearchOpen = ref(false)
+const keys = useMagicKeys()
+const cmdK = keys['Meta+K']
+const ctrlK = keys['Control+K']
+
+watch([cmdK, ctrlK], (v) => {
+  if (v[0] || v[1]) {
+    isSearchOpen.value = true
+  }
+})
+
 const toggleTheme = () => {
   isDark.value = !isDark.value
 }
@@ -60,6 +72,18 @@ const toggleTheme = () => {
 
         <ClientOnly>
           <div class="flex items-center gap-2 border-l border-border pl-4">
+            <!-- Search Button -->
+            <button 
+              class="p-2 rounded-lg bg-muted hover:bg-accent text-muted-foreground transition-all flex items-center justify-center border border-border cursor-pointer group relative"
+              @click="isSearchOpen = true"
+              aria-label="Search Recipes"
+            >
+              <svg class="w-5 h-5 group-hover:text-sky-500 transition-colors" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+              </svg>
+              <span class="hidden lg:block ml-2 text-[10px] font-bold text-slate-500 uppercase">Search</span>
+            </button>
+
             <NuxtLink
               :to="switchLocalePath(locale === 'en' ? 'es' : 'en')"
               class="p-2 rounded-lg bg-muted hover:bg-accent text-muted-foreground transition-all flex items-center justify-center border border-border cursor-pointer group"
@@ -115,5 +139,10 @@ const toggleTheme = () => {
         </div>
       </div>
     </Transition>
+
+    <SearchModal 
+      :is-open="isSearchOpen" 
+      @close="isSearchOpen = false" 
+    />
   </nav>
 </template>

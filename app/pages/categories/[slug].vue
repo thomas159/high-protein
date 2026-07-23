@@ -107,7 +107,7 @@ useSchemaOrg([
 ])
 
 // 1. Fetch recipes for this specific category
-const { data: recipes, refresh: refreshRecipes } = await useAsyncData(
+const { data: recipes, refresh: refreshRecipes, status } = await useAsyncData(
   () => `category-${resolveKey.value}-${locale.value}`, 
   async () => {
     let query = queryCollection('recipes')
@@ -193,21 +193,49 @@ const filteredRecipes = computed(() => {
 </script>
 
 <template>
-  <div class="container mx-auto py-8">
-    <div class="text-center mb-10">
-      <h1 class="text-4xl font-extrabold mb-4 capitalize tracking-tight">
+  <div class="container mx-auto py-12 px-4">
+    <div class="text-center mb-12">
+      <div v-if="recipes?.length" class="inline-flex items-center gap-2 bg-emerald-500/10 text-emerald-500 px-3 py-1 rounded-full text-[10px] font-bold uppercase tracking-widest mb-4 border border-emerald-500/20">
+        <span class="relative flex h-2 w-2">
+          <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-emerald-400 opacity-75"></span>
+          <span class="relative inline-flex rounded-full h-2 w-2 bg-emerald-500"></span>
+        </span>
+        {{ recipes.length }} {{ t('recipes.latest') }}
+      </div>
+      
+      <h1 class="text-4xl md:text-6xl font-black mb-6 capitalize tracking-tighter text-foreground">
         {{ titleText }}
       </h1>
-      <p class="text-muted-foreground text-lg max-w-2xl mx-auto mb-6">
+      <p class="text-muted-foreground text-lg max-w-2xl mx-auto leading-relaxed mb-8">
         {{ descText }}
       </p>
-      
+
+      <!-- Horizontal Tag Filters -->
+      <div v-if="availableTags.length > 0" class="flex items-center gap-2 overflow-x-auto pb-4 no-scrollbar -mx-4 px-4 mask-fade-edges">
+        <button 
+          v-for="tag in availableTags" 
+          :key="tag"
+          @click="toggleTag(tag)"
+          :class="[
+            selectedTags.includes(tag) 
+              ? 'bg-emerald-500 text-white border-emerald-400' 
+              : 'bg-slate-900/50 text-slate-400 border-slate-800 hover:border-slate-700',
+            'px-4 py-1.5 rounded-full text-xs font-bold whitespace-nowrap border transition-all active:scale-95 cursor-pointer capitalize'
+          ]"
+        >
+          {{ tag }}
+        </button>
+      </div>
     </div>
 
+    <!-- Loading State -->
+    <div v-if="status === 'pending'" class="grid grid-cols-2 lg:grid-cols-4 gap-6">
+      <SkeletonCard v-for="i in 8" :key="i" />
+    </div>
 
     <!-- Recipe Grid -->
     <div 
-      v-if="filteredRecipes.length > 0" 
+      v-else-if="filteredRecipes.length > 0" 
       class="grid grid-cols-2 lg:grid-cols-4 gap-6"
     >
       <RecipeCard
@@ -219,15 +247,15 @@ const filteredRecipes = computed(() => {
     </div>
     
     <!-- Empty State -->
-    <div v-else class="text-center py-20 bg-slate-50 dark:bg-slate-900/50 rounded-2xl border-2 border-dashed border-slate-200 dark:border-slate-800">
-      <div class="text-4xl mb-4">🥣</div>
-      <h3 class="text-xl font-bold mb-2">{{ t('categoryPage.empty') }}</h3>
-      <p class="text-slate-500 max-w-xs mx-auto text-sm">
-        We couldn't find any recipes for "{{ categoryName }}" right now. 
+    <div v-else class="text-center py-20 bg-slate-900/40 rounded-3xl border border-slate-800 shadow-inner">
+      <div class="text-5xl mb-6">🥣</div>
+      <h3 class="text-2xl font-black mb-2 text-white">{{ t('categoryPage.empty') }}</h3>
+      <p class="text-slate-500 max-w-sm mx-auto text-sm leading-relaxed mb-8">
+        We couldn't find any recipes for "{{ categoryName }}" that match your fitness goals right now. 
       </p>
-      <Button v-if="selectedTags.length > 0" @click="clearFilters" class="mt-6">Clear All Filters</Button>
-      <NuxtLink v-else :to="localePath('/')" class="mt-6 inline-block text-blue-500 hover:underline text-sm font-medium">
-        Back to Home
+      <Button v-if="selectedTags.length > 0" @click="clearFilters" variant="outline" class="rounded-full px-8">Clear All Filters</Button>
+      <NuxtLink v-else :to="localePath('/')" class="inline-flex items-center gap-2 text-emerald-500 hover:text-emerald-400 font-bold text-sm transition-colors">
+        <span>&larr;</span> Back to Home
       </NuxtLink>
     </div>
   </div>

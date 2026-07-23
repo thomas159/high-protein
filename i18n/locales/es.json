@@ -253,5 +253,14 @@
     "back": "Volver al inicio",
     "pageNotFound": "Página no encontrada",
     "unknown": "Desconocido"
+  },
+  "search": {
+    "placeholder": "Buscar proteína, ingredientes o recetas...",
+    "noResults": "No se encontraron recetas para \"{query}\"",
+    "trySearching": "Intente buscar \"Tofu\", \"Creami\" o \"Cena\"",
+    "searching": "Buscando...",
+    "poweredBy": "Con tecnología de Nuxt Content",
+    "select": "Seleccionar",
+    "shortcut": "ESC"
   }
 }
