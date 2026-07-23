@@ -4,7 +4,9 @@ const { t, locale } = useI18n()
 // Query all recipes in your collection
 const { data: homeData, error: recipesError } = await useAsyncData(`home-data-${locale.value}`, async () => {
   try {
-    const all = await queryCollection('recipes').all()
+    const all = await queryCollection('recipes')
+      .where('path', locale.value === 'es' ? 'LIKE' : 'NOT LIKE', '%.es')
+      .all()
     const latest = await queryCollection('recipes')
       .where('path', locale.value === 'es' ? 'LIKE' : 'NOT LIKE', '%.es')
       .limit(4).all()
@@ -12,6 +14,11 @@ const { data: homeData, error: recipesError } = await useAsyncData(`home-data-${
     // Determine the category strings based on locale
     const trendingSlug = locale.value === 'es' ? 'tendencia' : 'trending'
     const airFryerSlug = locale.value === 'es' ? 'air-fryer' : 'air-fryer'
+
+    const ninjaCreami = await queryCollection('recipes')
+      .where('path', locale.value === 'es' ? 'LIKE' : 'NOT LIKE', '%.es')
+      .where('path', 'LIKE', '%ninja%')
+      .limit(4).all()
 
     const trending = await queryCollection('recipes')
       .where('path', locale.value === 'es' ? 'LIKE' : 'NOT LIKE', '%.es')
@@ -32,6 +39,7 @@ const { data: homeData, error: recipesError } = await useAsyncData(`home-data-${
       recipes: latest,
       trendingRecipes: trending,
       airFryerRecipes: airFryer,
+      ninjaCreamiRecipes: ninjaCreami,
       topCollections: topCollections
     }
   } catch (e) {
@@ -39,12 +47,13 @@ const { data: homeData, error: recipesError } = await useAsyncData(`home-data-${
     throw e
   }
 }, {
-  default: () => ({ total: 0, recipes: [], trendingRecipes: [], airFryerRecipes: [], topCollections: [] }) 
+  default: () => ({ total: 0, recipes: [], trendingRecipes: [], airFryerRecipes: [], ninjaCreamiRecipes: [], topCollections: [] }) 
 })
 
 const recipes = computed(() => homeData.value.recipes)
 const trendingRecipes = computed(() => homeData.value.trendingRecipes)
 const airFryerRecipes = computed(() => homeData.value.airFryerRecipes)
+const ninjaCreamiRecipes = computed(() => homeData.value.ninjaCreamiRecipes)
 const totalInDb = computed(() => homeData.value.total)
 
 const collections = computed(() => {
@@ -85,44 +94,95 @@ const localePath = useLocalePath()
 
 <template>
   <div class="min-h-screen">
-    <main class="">
-
-      <h1 class="text-4xl md:text-6xl font-extrabold tracking-tight mb-4">
-      {{ t('home.hero.title') }} <span class="text-green-500">{{ t('home.hero.highlight') }}</span>
-    </h1>
+    <div class="flex flex-col gap-4 mb-12">
+      <h1 class="text-4xl md:text-6xl font-extrabold tracking-tight">
+        {{ t('home.hero.title') }} <span class="text-green-500">{{ t('home.hero.highlight') }}</span>
+      </h1>
+      <p class="text-lg md:text-xl text-muted-foreground max-w-2xl">
+        {{ t('home.hero.subtitle') }}
+      </p>
+      <div v-if="totalInDb > 0" class="inline-flex items-center gap-2 bg-emerald-500/10 text-emerald-500 px-3 py-1.5 rounded-full text-xs font-bold uppercase tracking-wider w-fit border border-emerald-500/20 shadow-sm">
+        <span class="flex h-2 w-2 rounded-full bg-emerald-500 animate-pulse"></span>
+        {{ t('home.hero.stats', { count: totalInDb }) }}
+      </div>
+    </div>
     
-    <p class="text-lg md:text-xl text-muted-foreground max-w-2xl mb-12">
-      {{ t('home.hero.subtitle') }}
-    </p>
+    <!-- Latest Recipes Grid (Desktop) -->
+    <section class="mb-12 hidden md:block">
+      <h2 class="font-display text-3xl md:text-5xl font-bold mb-6">
+        {{ t('recipes.latest') }}
+      </h2>
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+        <RecipeCard 
+          v-for="recipe in recipes" 
+          :key="recipe.path" 
+          :recipe="recipe" 
+        />
+      </div>
+    </section>
+
+    <!-- Latest Recipes Scroll (Mobile) -->
+    <section class="mb-12 md:hidden">
+      <MobileScroll 
+        :recipes="recipes" 
+        :title="t('recipes.latest')"
+      />
+    </section>
+
     <MobileScroll 
-      :recipes="recipes" 
-      :title="t('recipes.latest')"
+      v-if="ninjaCreamiRecipes.length > 0"
+      :recipes="ninjaCreamiRecipes" 
+      :title="t('recipes.ninjaCreami')"
+      class="pt-6"
     />
 
-      <section class="border-y border-border py-6 my-12">
+    <!-- Categories -->
+    <section class="border-y border-border py-6 my-12">
       <div class="container mx-auto flex flex-wrap justify-center gap-4 md:gap-16">
         <NuxtLink v-for="cat in categories" :key="cat.name" :to="localePath(cat.link)" class="flex flex-col items-center group">
-          <!-- <span class="text-3xl mb-2 group-hover:scale-110 transition-transform">{{ cat.icon }}</span> -->
           <div class="w-[150px] h-[100px]">
             <Img :src="cat.img" :alt="cat.name" class="rounded-full" />
           </div>
-          <span class="text-[12px] font-bold mt-1 uppercase tracking-tighter text-muted-foreground group-hover:text-emerald-500">{{ cat.name }}</span>
+          <span class="text-sm font-bold mt-1 uppercase tracking-tighter text-muted-foreground group-hover:text-emerald-500">{{ cat.name }}</span>
         </NuxtLink>
       </div>
-
     </section>
-    <!-- top 5 collections -->
+
+    <!-- Collections -->
     <MobileScroll 
       :collections="collections" 
       :title="t('recipes.collections')"
       class="pt-6"
     />
 
-   <MobileScroll 
-      :recipes="trendingRecipes" 
-      :title="t('recipes.trending')"
-      class="pt-6"
-    />
+    <!-- Trending Spotlight -->
+    <section class="mb-12 pt-6 md:hidden">
+      <MobileScroll 
+        :recipes="trendingRecipes" 
+        :title="t('recipes.trending')"
+      />
+    </section>
+
+    <section class="mb-12 pt-6 hidden md:block">
+      <h2 class="font-display text-3xl md:text-5xl font-bold mb-6">
+        {{ t('recipes.trending') }}
+      </h2>
+      <div class="grid grid-cols-3 gap-6">
+        <RecipeCard 
+          v-if="trendingRecipes[0]"
+          :recipe="trendingRecipes[0]" 
+          :high="true"
+          class="col-span-1"
+        />
+        <div class="col-span-2 grid grid-cols-2 gap-6">
+          <RecipeCard 
+            v-for="recipe in trendingRecipes.slice(1, 4)" 
+            :key="recipe.path" 
+            :recipe="recipe" 
+          />
+        </div>
+      </div>
+    </section>
   
     <MobileScroll 
       :recipes="airFryerRecipes" 
@@ -131,6 +191,6 @@ const localePath = useLocalePath()
     />
 
     <HomeAboutMe />
-    </main>
+
   </div>
 </template>

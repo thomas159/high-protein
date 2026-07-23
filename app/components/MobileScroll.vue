@@ -50,7 +50,7 @@ const { formatText } = useFormatText()
           v-for="(recipe, index) in recipes" 
           :key="recipe.slug" 
           class="flex flex-col snap-center h-full">
-          <RecipeCard :recipe="recipe" :high="index === 0" class="h-full" />
+          <RecipeCard :recipe="recipe" class="h-full" />
         </div>
       </template>
 

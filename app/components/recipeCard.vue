@@ -41,7 +41,7 @@ const { t } = useI18n()
     :to="localePath(`/recipes/${props.recipe.slug}`)" 
     class="group bg-card rounded-2xl shadow-sm border border-border overflow-hidden hover:shadow-xl transition-all duration-500 flex flex-col hover:-translate-y-2"
   >
-    <div class="h-52 w-full overflow-hidden relative">
+    <div :class="[high ? 'flex-grow min-h-[300px]' : 'h-52', 'w-full overflow-hidden relative']">
       <Img 
         :src="props.recipe.image"   
         :high="props.high"

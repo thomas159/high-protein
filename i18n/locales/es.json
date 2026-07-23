@@ -18,7 +18,8 @@
     "hero": {
       "title": "Crea músculo,",
       "highlight": "no platos.",
-      "subtitle": "Comidas vegetarianas y veganas rápidas y ricas en proteínas para personas que aman comer pero odian esperar."
+      "subtitle": "Comidas vegetarianas y veganas rápidas y ricas en proteínas para personas que aman comer pero odian esperar.",
+      "stats": "Explora más de {count} recetas ricas en proteínas"
     },
     "about": {
       "hi": "¡Hola, soy {author}! 👋",
@@ -50,6 +51,7 @@
   "recipes": {
     "latest": "Últimas Recetas",
     "trending": "Tendencias de esta semana",
+    "ninjaCreami": "Creaciones Ninja Creami",
     "airFryer": "Recetas en Air Fryer",
     "collections": "Colecciones de Recetas",
     "all": "Ver todas las recetas",
