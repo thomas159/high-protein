@@ -49,7 +49,7 @@ const { t } = useI18n()
       <div class="absolute top-3 left-3 flex flex-wrap gap-2">
         <span 
           v-if="props.recipe.categories?.length" 
-          class="font-body text-[9px] font-black uppercase tracking-widest bg-slate-950/80 text-white px-2 py-1 rounded-sm backdrop-blur-md border border-white/10 shadow-lg"
+          class="font-body text-[9px] font-black uppercase tracking-widest bg-background/80 text-foreground px-2 py-1 rounded-sm backdrop-blur-md border border-border/50 shadow-lg"
         >
           {{ t(`categories.${props.recipe.categories[0]}`) }}
         </span>
