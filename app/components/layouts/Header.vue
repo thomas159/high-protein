@@ -46,7 +46,7 @@ const toggleTheme = () => {
     width="200"
     height="50"
     class="w-full h-auto dark:hidden block" 
-  />
+  >
     
   <img
     src="/images/logo-dark.avif"
@@ -54,7 +54,7 @@ const toggleTheme = () => {
     width="200"
     height="50"
     class="w-full h-auto hidden dark:block" 
-  />
+  >
 </NuxtLink>
 
       <div class="flex items-center gap-4">
@@ -76,8 +76,8 @@ const toggleTheme = () => {
             <!-- Search Button -->
             <button 
               class="p-2 rounded-lg bg-muted hover:bg-accent text-muted-foreground transition-all flex items-center justify-center border border-border cursor-pointer group relative"
-              @click="isSearchOpen = true"
               aria-label="Search Recipes"
+              @click="isSearchOpen = true"
             >
               <svg class="w-5 h-5 group-hover:text-sky-500 transition-colors" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
@@ -134,9 +134,9 @@ const toggleTheme = () => {
               v-for="cat in RECIPE_CATEGORIES" 
               :key="cat.key"
               :to="localePath(`/categories/${$t(`categorySlugs.${cat.key}`)}`)" 
-              @click.stop="isMenuOpen = false"
               class="flex flex-col items-center justify-center p-4 bg-muted/50 rounded-2xl border border-border/50 hover:bg-accent hover:border-emerald-500/50 transition-all duration-300 group"
               active-class="!bg-emerald-500/10 !border-emerald-500"
+              @click.stop="isMenuOpen = false"
             >
               <Icon :name="cat.icon" class="w-8 h-8 mb-2 text-muted-foreground group-hover:text-emerald-500 transition-colors" />
               <span class="text-xs font-bold uppercase tracking-widest text-foreground">{{ $t(`categories.${cat.key}`) }}</span>
@@ -145,11 +145,11 @@ const toggleTheme = () => {
 
           <!-- Quick Navigation -->
           <div class="flex flex-col gap-4 pt-6 border-t border-border">
-            <NuxtLink :to="localePath('/')" @click="isMenuOpen = false" class="flex items-center gap-3 text-lg font-bold">
+            <NuxtLink :to="localePath('/')" class="flex items-center gap-3 text-lg font-bold" @click="isMenuOpen = false">
               <Icon name="ph:house-duotone" class="w-6 h-6 text-emerald-500" />
               {{ $t('nav.home') }}
             </NuxtLink>
-             <NuxtLink to="/about" @click="isMenuOpen = false" class="flex items-center gap-3 text-lg font-bold">
+             <NuxtLink to="/about" class="flex items-center gap-3 text-lg font-bold" @click="isMenuOpen = false">
               <Icon name="ph:user-duotone" class="w-6 h-6 text-emerald-500" />
               {{ $t('nav.about') }}
             </NuxtLink>

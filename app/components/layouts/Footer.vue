@@ -78,8 +78,7 @@ const localePath = useLocalePath()
         <p class="text-xs text-muted-foreground">
           © {{ currentYear }} {{ appConfig.siteName }}. {{ $t('footer.rights') }}
         </p>
-        <div class="flex gap-6 grayscale opacity-60 hover:opacity-100 transition-opacity">
-          </div>
+        <div class="flex gap-6 grayscale opacity-60 hover:opacity-100 transition-opacity"/>
       </div>
     </div>
   </footer>

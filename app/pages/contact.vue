@@ -46,7 +46,7 @@ useSeoMeta({
 <template>
   <div class="max-w-2xl mx-auto px-4 py-16">
     <div class="text-center mb-10">
-      <h1 class="text-4xl md:text-6xl font-black uppercase tracking-tighter italic text-white mb-6">{{ $t('contact.title') }}</h1>
+      <h1 class="text-4xl md:text-6xl font-black uppercase tracking-tighter italic text-foreground mb-6">{{ $t('contact.title') }}</h1>
       <p class="text-muted-foreground">
         {{ $t('contact.description') }}
       </p>
@@ -58,10 +58,10 @@ useSeoMeta({
       <button 
         role="button"
         :aria-label="$t('contact.success.button')"
-        @click="submitted = false" class="mt-4 text-sm underline">{{ $t('contact.success.button') }}</button>
+        class="mt-4 text-sm underline" @click="submitted = false">{{ $t('contact.success.button') }}</button>
     </div>
 
-    <form v-else @submit.prevent="handleSubmit" class="space-y-6">
+    <form v-else class="space-y-6" @submit.prevent="handleSubmit">
       <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
         <div>
           <label class="block text-sm font-medium mb-2">{{ $t('contact.form.name') }}</label>
@@ -93,7 +93,7 @@ useSeoMeta({
           required
           :placeholder="$t('contact.form.messagePlaceholder')"
           class="w-full px-4 py-3 rounded-lg border border-border bg-background focus:ring-2 focus:ring-emerald-500 outline-none transition-all resize-none"
-        ></textarea>
+        />
       </div>
 
       <button 
@@ -103,7 +103,7 @@ useSeoMeta({
         :disabled="loading"
         class="w-full bg-emerald-500 hover:bg-emerald-600 text-white font-bold py-4 rounded-lg transition-colors disabled:opacity-50 flex justify-center items-center gap-2"
       >
-        <span v-if="loading" class="w-5 h-5 border-2 border-white/30 border-t-white rounded-full animate-spin"></span>
+        <span v-if="loading" class="w-5 h-5 border-2 border-white/30 border-t-white rounded-full animate-spin"/>
         {{ loading ? $t('contact.form.sending') : $t('contact.form.send') }}
       </button>
     </form>

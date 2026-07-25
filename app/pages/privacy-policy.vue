@@ -17,7 +17,7 @@ useHead({
     <p class="text-muted-foreground mb-8">{{ $t('privacyPolicy.lastUpdated') }} {{ appConfig.lastUpdated }}</p>
 
     <section class="mb-8">
-      <p v-html="$t('privacyPolicy.intro1', { siteName: appConfig.siteName })"></p>
+      <p v-html="$t('privacyPolicy.intro1', { siteName: appConfig.siteName })"/>
     </section>
 
     <h2 class="text-2xl font-semibold mt-8">{{ $t('privacyPolicy.s1.title') }}</h2>

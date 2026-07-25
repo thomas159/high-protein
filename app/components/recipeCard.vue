@@ -62,8 +62,7 @@ const { t } = useI18n()
         {{ props.recipe.title }}
       </h2>
       
-      <p class="font-body text-xs text-muted-foreground line-clamp-2 mb-4 leading-relaxed" v-html="formatText(props.recipe.description)">
-      </p>
+      <p class="font-body text-xs text-muted-foreground line-clamp-2 mb-4 leading-relaxed" v-html="formatText(props.recipe.description)"/>
       
       <div class="mt-auto pt-3 flex items-center justify-between text-[10px] font-bold uppercase tracking-wider text-muted-foreground border-t border-border/50">
         <div class="flex items-center gap-1.5">

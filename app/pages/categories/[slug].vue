@@ -134,9 +134,21 @@ const availableTags = computed(() => {
   const tags = new Set<string>()
   recipes.value.forEach(recipe => {
     if (recipe.tags && Array.isArray(recipe.tags)) {
-      recipe.tags.forEach((tag: any) => {
-        if (tag) {
-          tags.add(String(tag).toLowerCase())
+      recipe.tags.forEach((rawTag: any) => {
+        if (!rawTag) return
+        
+        let tagStr = ''
+        if (typeof rawTag === 'string') {
+          tagStr = rawTag
+        } else if (typeof rawTag === 'object') {
+          tagStr = rawTag.value || rawTag.static || rawTag.s || ''
+        } else {
+          tagStr = String(rawTag)
+        }
+        
+        tagStr = tagStr.trim().toLowerCase()
+        if (tagStr && tagStr !== '[object object]') {
+          tags.add(tagStr)
         }
       })
     }
@@ -189,7 +201,18 @@ const filteredRecipes = computed(() => {
   return recipes.value.filter(recipe => {
     if (!recipe.tags || !Array.isArray(recipe.tags)) return false
     
-    const lowerRecipeTags = recipe.tags.map((t: any) => String(t || '').toLowerCase())
+    const lowerRecipeTags = recipe.tags.map((rawTag: any) => {
+      let tagStr = ''
+      if (typeof rawTag === 'string') {
+        tagStr = rawTag
+      } else if (typeof rawTag === 'object' && rawTag) {
+        tagStr = rawTag.value || rawTag.static || rawTag.s || ''
+      } else {
+        tagStr = String(rawTag || '')
+      }
+      return tagStr.trim().toLowerCase()
+    }).filter(t => t && t !== '[object object]')
+
     // AND logic: recipe must have every selected tag
     return selectedTags.value.every(tag => lowerRecipeTags.includes(tag))
   })
@@ -197,17 +220,17 @@ const filteredRecipes = computed(() => {
 </script>
 
 <template>
-  <div class="container mx-auto py-12 px-4">
-    <div class="text-center mb-12">
+  <div class="-mx-5 px-[1px] md:mx-0 md:px-0 py-12">
+    <div class="text-center mb-12 md:px-0 px-4">
       <div v-if="recipes?.length" class="inline-flex items-center gap-2 bg-emerald-500/10 text-emerald-500 px-3 py-1 rounded-full text-[10px] font-bold uppercase tracking-widest mb-4 border border-emerald-500/20">
         <span class="relative flex h-2 w-2">
-          <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-emerald-400 opacity-75"></span>
-          <span class="relative inline-flex rounded-full h-2 w-2 bg-emerald-500"></span>
+          <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-emerald-400 opacity-75"/>
+          <span class="relative inline-flex rounded-full h-2 w-2 bg-emerald-500"/>
         </span>
         {{ recipes.length }} {{ t('recipes.latest') }}
       </div>
       
-      <h1 class="text-5xl md:text-7xl font-black uppercase tracking-tighter italic text-white mb-6">
+      <h1 class="text-5xl md:text-7xl font-black uppercase tracking-tighter italic text-foreground mb-6">
         {{ titleText }}
       </h1>
       <p class="text-muted-foreground text-lg max-w-2xl mx-auto leading-relaxed mb-8">
@@ -215,17 +238,17 @@ const filteredRecipes = computed(() => {
       </p>
 
       <!-- Horizontal Tag Filters -->
-      <div v-if="availableTags.length > 0" class="flex items-center gap-2 overflow-x-auto pb-4 no-scrollbar -mx-4 px-4 mask-fade-edges">
+      <div v-if="availableTags.length > 0" class="flex items-center gap-[1px] md:gap-2 overflow-x-auto pb-4 no-scrollbar -mx-[1px] px-[1px] md:mx-0 md:px-0 mask-fade-edges">
         <button 
           v-for="tag in availableTags" 
           :key="tag"
-          @click="toggleTag(tag)"
           :class="[
             selectedTags.includes(tag) 
               ? 'bg-emerald-500 text-white border-emerald-400' 
               : 'bg-slate-900/50 text-slate-400 border-slate-800 hover:border-slate-700',
             'px-4 py-1.5 rounded-full text-xs font-bold whitespace-nowrap border transition-all active:scale-95 cursor-pointer capitalize'
           ]"
+          @click="toggleTag(tag)"
         >
           {{ t('tags.' + tag) }}
         </button>
@@ -233,14 +256,14 @@ const filteredRecipes = computed(() => {
     </div>
 
     <!-- Loading State -->
-    <div v-if="status === 'pending'" class="grid grid-cols-2 lg:grid-cols-4 gap-6">
+    <div v-if="status === 'pending'" class="grid grid-cols-2 lg:grid-cols-4 gap-[1px] md:gap-6">
       <SkeletonCard v-for="i in 8" :key="i" />
     </div>
 
     <!-- Recipe Grid -->
     <div 
       v-else-if="filteredRecipes.length > 0" 
-      class="grid grid-cols-2 lg:grid-cols-4 gap-6"
+      class="grid grid-cols-2 lg:grid-cols-4 gap-[1px] md:gap-6"
     >
       <RecipeCard
         v-for="recipe in filteredRecipes" 
@@ -253,11 +276,11 @@ const filteredRecipes = computed(() => {
     <!-- Empty State -->
     <div v-else class="text-center py-20 bg-slate-900/40 rounded-3xl border border-slate-800 shadow-inner">
       <div class="text-5xl mb-6">🥣</div>
-      <h3 class="text-3xl md:text-5xl font-black uppercase tracking-tighter italic text-white mb-2">{{ t('categoryPage.empty') }}</h3>
+      <h3 class="text-3xl md:text-5xl font-black uppercase tracking-tighter italic text-foreground mb-2">{{ t('categoryPage.empty') }}</h3>
       <p class="text-slate-500 max-w-sm mx-auto text-sm leading-relaxed mb-8">
         We couldn't find any recipes for "{{ categoryName }}" that match your fitness goals right now. 
       </p>
-      <Button v-if="selectedTags.length > 0" @click="clearFilters" variant="outline" class="rounded-full px-8">Clear All Filters</Button>
+      <Button v-if="selectedTags.length > 0" variant="outline" class="rounded-full px-8" @click="clearFilters">Clear All Filters</Button>
       <NuxtLink v-else :to="localePath('/')" class="inline-flex items-center gap-2 text-emerald-500 hover:text-emerald-400 font-bold text-sm transition-colors">
         <span>&larr;</span> Back to Home
       </NuxtLink>

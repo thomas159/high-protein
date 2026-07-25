@@ -20,5 +20,5 @@ if (recipe.value) {
 </script>
 
 <template>
-  <div></div>
+  <div/>
 </template>

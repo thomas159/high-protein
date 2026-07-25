@@ -75,14 +75,14 @@ onUnmounted(() => window.removeEventListener('keydown', onKeydown))
 
 <template>
   <Transition name="fade">
-    <div v-if="isOpen" class="fixed inset-0 z-[100] flex items-start justify-center pt-20 p-4 bg-slate-950/80 backdrop-blur-sm" @click.self="handleClose">
+    <div v-if="isOpen" class="fixed inset-0 z-[100] flex items-start justify-center pt-20 p-4 bg-background/80 backdrop-blur-sm" @click.self="handleClose">
       <div 
-        class="w-full max-w-2xl bg-slate-900 border border-slate-800 rounded-2xl shadow-2xl overflow-hidden flex flex-col"
+        class="w-full max-w-2xl bg-card border border-border rounded-2xl shadow-2xl overflow-hidden flex flex-col"
         @click.stop
       >
         <!-- Search Input -->
-        <div class="p-4 border-b border-slate-800 flex items-center gap-4">
-          <svg class="w-5 h-5 text-slate-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <div class="p-4 border-b border-border flex items-center gap-4">
+          <svg class="w-5 h-5 text-muted-foreground" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
           </svg>
           <input 
@@ -90,16 +90,16 @@ onUnmounted(() => window.removeEventListener('keydown', onKeydown))
             v-model="query"
             type="text" 
             :placeholder="t('search.placeholder')"
-            class="flex-grow bg-transparent border-none text-slate-200 focus:ring-0 text-lg placeholder:text-slate-600 outline-none"
-          />
-          <div class="flex items-center gap-1 text-[10px] font-bold text-slate-500 uppercase bg-slate-800 px-2 py-1 rounded">
+            class="flex-grow bg-transparent border-none text-foreground focus:ring-0 text-lg placeholder:text-muted-foreground outline-none"
+          >
+          <div class="flex items-center gap-1 text-[10px] font-bold text-muted-foreground uppercase bg-muted px-2 py-1 rounded">
             <span>{{ t('search.shortcut') }}</span>
           </div>
         </div>
 
         <!-- Results Tray -->
-        <div class="max-h-[60vh] overflow-y-auto p-2 scrollbar-thin scrollbar-thumb-slate-800 scrollbar-track-transparent">
-          <div v-if="isSearching" class="p-8 text-center text-slate-500 italic text-sm">
+        <div class="max-h-[60vh] overflow-y-auto p-2 scrollbar-thin scrollbar-thumb-border scrollbar-track-transparent">
+          <div v-if="isSearching" class="p-8 text-center text-muted-foreground italic text-sm">
             {{ t('search.searching') }}
           </div>
           
@@ -108,10 +108,10 @@ onUnmounted(() => window.removeEventListener('keydown', onKeydown))
               v-for="recipe in results" 
               :key="recipe.path"
               :to="localePath(`/recipes/${recipe.slug}`)"
+              class="flex items-center gap-4 p-3 rounded-xl hover:bg-muted/50 transition-colors group"
               @click="handleClose"
-              class="flex items-center gap-4 p-3 rounded-xl hover:bg-slate-800/50 transition-colors group"
             >
-              <div class="w-12 h-12 rounded-lg overflow-hidden bg-slate-800 shrink-0">
+              <div class="w-12 h-12 rounded-lg overflow-hidden bg-muted shrink-0">
                 <NuxtImg 
                   provider="cloudinary"
                   :src="recipe.image" 
@@ -123,35 +123,35 @@ onUnmounted(() => window.removeEventListener('keydown', onKeydown))
                 />
               </div>
               <div class="flex-grow">
-                <h4 class="text-sm font-bold text-slate-200 leading-tight">{{ recipe.title }}</h4>
+                <h4 class="text-sm font-bold text-foreground leading-tight">{{ recipe.title }}</h4>
                 <div class="flex items-center gap-2 mt-1">
                   <span class="text-[10px] font-bold text-emerald-500 uppercase">{{ recipe.macros?.protein || 0 }}g Protein</span>
-                  <span class="text-[10px] text-slate-500">•</span>
-                  <span class="text-[10px] text-slate-500 uppercase">{{ (recipe.prepTimeMins || 0) + (recipe.cookTimeMins || 0) }}m</span>
+                  <span class="text-[10px] text-muted-foreground">•</span>
+                  <span class="text-[10px] text-muted-foreground uppercase">{{ (recipe.prepTimeMins || 0) + (recipe.cookTimeMins || 0) }}m</span>
                 </div>
               </div>
-              <svg class="w-4 h-4 text-slate-600 group-hover:text-emerald-500 transition-colors" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <svg class="w-4 h-4 text-muted-foreground group-hover:text-emerald-500 transition-colors" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
               </svg>
             </NuxtLink>
           </div>
 
-          <div v-else-if="query.length >= 2" class="p-12 text-center text-slate-500">
-            <div class="text-3xl mb-2 text-slate-700">🔭</div>
+          <div v-else-if="query.length >= 2" class="p-12 text-center text-muted-foreground">
+            <div class="text-3xl mb-2 text-muted-foreground">🔭</div>
             <p class="text-sm">{{ t('search.noResults', { query }) }}</p>
           </div>
 
           <div v-else class="p-8 text-center">
-             <p class="text-[10px] font-bold text-slate-600 uppercase tracking-widest">{{ t('search.trySearching') }}</p>
+             <p class="text-[10px] font-bold text-muted-foreground uppercase tracking-widest">{{ t('search.trySearching') }}</p>
           </div>
         </div>
 
         <!-- Footer -->
-        <div class="p-3 bg-slate-950/50 border-t border-slate-800 flex justify-between items-center text-[10px] text-slate-600 uppercase font-bold tracking-widest">
+        <div class="p-3 bg-muted/30 border-t border-border flex justify-between items-center text-[10px] text-muted-foreground uppercase font-bold tracking-widest">
           <span>{{ t('search.poweredBy') }}</span>
           <div class="flex items-center gap-4">
             <span class="flex items-center gap-1">
-              <span class="bg-slate-800 px-1 rounded text-slate-400">↵</span> {{ t('search.select') }}
+              <span class="bg-muted px-1 rounded text-muted-foreground">↵</span> {{ t('search.select') }}
             </span>
           </div>
         </div>

@@ -53,7 +53,7 @@ const scrollToRecipe = () => {
         <RecipesBreadcrumbs :recipe="props.recipe" />
       </div>
        <RecipesTags :recipe="props.recipe" />
-      <h1 class="text-5xl md:text-7xl font-black uppercase tracking-tighter italic text-white leading-tight mb-6">
+      <h1 class="text-5xl md:text-7xl font-black uppercase tracking-tighter italic text-foreground leading-tight mb-6">
         {{ props.recipe.title }}
       </h1>
 
@@ -61,14 +61,13 @@ const scrollToRecipe = () => {
         <Button 
           @click="scrollToRecipe">
              <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 14l-7 7m0 0l-7-7m7 7V3"></path>
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 14l-7 7m0 0l-7-7m7 7V3"/>
           </svg>
           {{ t('recipes.jump') }}
         </Button>
       </div>
 
-      <p class="whitespace-pre-line text-muted-foreground text-base md:text-lg leading-relaxed mb-6" v-html="formatText(props.recipe.description, false)">
-      </p>
+      <p class="whitespace-pre-line text-muted-foreground text-base md:text-lg leading-relaxed mb-6" v-html="formatText(props.recipe.description, false)"/>
 
       <div class="grid grid-cols-4 gap-3 md:gap-4 border-t border-b border-border py-6">
 

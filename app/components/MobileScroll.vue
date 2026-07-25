@@ -32,7 +32,7 @@ const { formatText } = useFormatText()
 <template>
   <section>
     <div class="flex items-center justify-between mb-8">
-      <h2 class="text-3xl md:text-5xl font-black uppercase tracking-tighter italic text-white mb-0">
+      <h2 class="text-3xl md:text-5xl font-black uppercase tracking-tighter italic text-foreground mb-0">
         {{ title }}
       </h2>
       <NuxtLink v-if="viewAllLink" :to="viewAllLink" class="text-[10px] font-black uppercase tracking-widest text-emerald-500 hover:text-emerald-400 transition-colors">

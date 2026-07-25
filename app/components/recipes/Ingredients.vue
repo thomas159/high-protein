@@ -79,18 +79,18 @@ const { t } = useI18n()
         <span class="text-sm font-semibold text-muted-foreground">{{ t('recipes.servings') }}</span>
         <div class="flex items-center gap-4">
           <button 
-            @click="decreaseServings"
             :disabled="currentServings <= minServings"
             class="w-8 h-8 flex items-center justify-center rounded-full bg-card shadow-sm border border-border text-muted-foreground disabled:opacity-40 disabled:cursor-not-allowed hover:bg-background transition-colors cursor-pointer"
+            @click="decreaseServings"
           >
-            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 12H4"></path></svg>
+            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 12H4"/></svg>
           </button>
           <span class="font-bold text-foreground min-w-[1.5rem] text-center">{{ currentServings }}</span>
           <button 
-            @click="increaseServings"
             class="w-8 h-8 flex items-center justify-center rounded-full bg-card shadow-sm border border-border text-muted-foreground hover:bg-background transition-colors cursor-pointer"
+            @click="increaseServings"
           >
-            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4v16m8-8H4"></path></svg>
+            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4v16m8-8H4"/></svg>
           </button>
         </div>
       </div>
@@ -99,7 +99,7 @@ const { t } = useI18n()
         <li v-for="(item, index) in adjustedIngredients" :key="index" class="flex items-start gap-3 group">
           <div class="relative flex items-start pt-1">
             
-            <input :id="'ingredient-'+index" type="checkbox" class="peer h-5 w-5 rounded border-border bg-background text-green-500 focus:ring-green-500 focus:ring-offset-background cursor-pointer transition-all" />
+            <input :id="'ingredient-'+index" type="checkbox" class="peer h-5 w-5 rounded border-border bg-background text-green-500 focus:ring-green-500 focus:ring-offset-background cursor-pointer transition-all" >
             
             <label :for="'ingredient-'+index" class="ml-3 text-base text-muted-foreground cursor-pointer peer-checked:text-muted-foreground/50 peer-checked:line-through peer-checked:decoration-4 transition-all leading-tight pt-0.5">
               

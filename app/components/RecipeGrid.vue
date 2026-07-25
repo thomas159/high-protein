@@ -24,7 +24,7 @@ const { formatText } = useFormatText()
       </div>
       <div class="p-4">
         <h3 class="font-bold text-lg text-gray-900">{{ recipe.title }}</h3>
-        <p class="text-sm text-gray-500 line-clamp-2" v-html="formatText(recipe.description)"></p>
+        <p class="text-sm text-gray-500 line-clamp-2" v-html="formatText(recipe.description)"/>
       </div>
     </NuxtLink>
   </div>

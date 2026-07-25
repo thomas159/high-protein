@@ -59,8 +59,8 @@ const declineCookies = () => {
             id="cookieDecline"
             type="button"
             :aria-label="t('cookieBanner.decline')"
-            @click="declineCookies"
             class="px-4 py-2 text-sm font-medium border border-border rounded-lg hover:bg-muted transition-colors cursor-pointer"
+            @click="declineCookies"
           >
             {{ t('cookieBanner.decline') }}
           </button>
@@ -68,8 +68,8 @@ const declineCookies = () => {
             id="cookieAccept"
             type="button"
             :aria-label="t('cookieBanner.accept')"
-            @click="acceptCookies"
             class="px-4 py-2 text-sm font-medium bg-emerald-500 text-white rounded-lg hover:bg-emerald-600 transition-colors cursor-pointer"
+            @click="acceptCookies"
           >
             {{ t('cookieBanner.accept') }}
           </button>

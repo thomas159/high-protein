@@ -76,11 +76,10 @@ const localePath = useLocalePath()
 <template>
   <div v-if="page" class="max-w-5xl mx-auto px-4 py-12">
     <header class="text-center mb-16">
-      <h1 class="text-4xl md:text-5xl font-black mb-6 text-white uppercase tracking-tighter italic">
+      <h1 class="text-4xl md:text-5xl font-black mb-6 text-foreground uppercase tracking-tighter italic">
         {{ page.title }}
       </h1>
-      <p v-if="page.description" class="text-lg text-muted-foreground leading-relaxed max-w-3xl mx-auto" v-html="formatText(page.description)">
-      </p>
+      <p v-if="page.description" class="text-lg text-muted-foreground leading-relaxed max-w-3xl mx-auto" v-html="formatText(page.description)"/>
     </header>
 
     <div v-if="page.body" class="collection-body max-w-3xl mx-auto mb-16 text-lg">
@@ -103,19 +102,18 @@ const localePath = useLocalePath()
 
         <!-- Content -->
         <div class="flex flex-col justify-center flex-1 py-2 pr-2">
-          <h2 class="text-2xl md:text-3xl font-black uppercase tracking-tighter italic mb-3 leading-tight group text-white">
+          <h2 class="text-2xl md:text-3xl font-black uppercase tracking-tighter italic mb-3 leading-tight group text-foreground">
             <NuxtLink :to="localePath(`/recipes/${item.recipe.slug}`)" class="hover:text-emerald-500 transition-colors">
               {{ item.recipe.title }}
             </NuxtLink>
           </h2>
           
-          <p class="text-muted-foreground text-lg mb-6 leading-relaxed" v-html="formatText(item.recipe.description)">
-          </p>
+          <p class="text-muted-foreground text-lg mb-6 leading-relaxed" v-html="formatText(item.recipe.description)"/>
           
           <div class="flex flex-wrap gap-4 items-center text-xs md:text-sm font-bold uppercase tracking-wider text-muted-foreground mb-6 border-y border-border/50 py-3">
-            <div class="flex items-center gap-1.5" v-if="item.recipe.prepTimeMins !== undefined"><span class="opacity-70">⏱</span> {{ t('recipes.mins', { count: item.recipe.prepTimeMins + item.recipe.cookTimeMins }) }}</div>
-            <div class="flex items-center gap-1.5" v-if="item.recipe.macros?.calories"><span class="opacity-70">🔥</span> {{ t('recipes.kcalCount', { count: item.recipe.macros?.calories }) }}</div>
-            <div class="flex items-center gap-1.5" v-if="item.recipe.macros?.protein"><span class="opacity-70">💪</span> {{ item.recipe.macros?.protein }}G {{ t('recipes.protein') }}</div>
+            <div v-if="item.recipe.prepTimeMins !== undefined" class="flex items-center gap-1.5"><span class="opacity-70">⏱</span> {{ t('recipes.mins', { count: item.recipe.prepTimeMins + item.recipe.cookTimeMins }) }}</div>
+            <div v-if="item.recipe.macros?.calories" class="flex items-center gap-1.5"><span class="opacity-70">🔥</span> {{ t('recipes.kcalCount', { count: item.recipe.macros?.calories }) }}</div>
+            <div v-if="item.recipe.macros?.protein" class="flex items-center gap-1.5"><span class="opacity-70">💪</span> {{ item.recipe.macros?.protein }}G {{ t('recipes.protein') }}</div>
           </div>
 
           <NuxtLink :to="localePath(`/recipes/${item.recipe.slug}`)" class="mt-auto inline-flex items-center justify-center bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 font-bold px-6 py-3 rounded-xl hover:bg-emerald-500 hover:text-white transition-colors w-full md:w-fit">
@@ -126,7 +124,7 @@ const localePath = useLocalePath()
     </div>
   </div>
   <div v-else class="text-center py-16">
-    <h2 class="text-2xl font-black uppercase tracking-tighter italic mb-2 text-white">{{ t('nav.blank') }}</h2>
+    <h2 class="text-2xl font-black uppercase tracking-tighter italic mb-2 text-foreground">{{ t('nav.blank') }}</h2>
     <NuxtLink :to="localePath('/')" class="text-emerald-500 hover:underline">{{ t('nav.home') }}</NuxtLink>
   </div>
 </template>
