@@ -4,13 +4,16 @@ const { t, locale } = useI18n()
 const appConfig = useAppConfig()
 const { data: page } = await useAsyncData(`${route.path}-${locale.value}`, async () => {
   const slugParam = route.params.slug as string
-  const contentPath = locale.value === 'es' ? `/collections/${slugParam}.es` : `/collections/${slugParam}`
+  const contentPath = locale.value === 'en' ? `/collections/${slugParam}` : `/collections/${slugParam}.${locale.value}`
   
   // First, check if there's a collection matching the custom frontmatter slug (filtering by language)
-  const bySlug = await queryCollection('collections')
-    .where('slug', '=', slugParam)
-    .where('path', locale.value === 'es' ? 'LIKE' : 'NOT LIKE', '%.es')
-    .first()
+  let collBuilder = queryCollection('collections').where('slug', '=', slugParam)
+  if (locale.value === 'en') {
+    collBuilder = collBuilder.where('path', 'NOT LIKE', '%.es').where('path', 'NOT LIKE', '%.de')
+  } else {
+    collBuilder = collBuilder.where('path', 'LIKE', `%.${locale.value}`)
+  }
+  const bySlug = await collBuilder.first()
   if (bySlug) return bySlug
   
   // Fallback to checking the file path directly
@@ -24,12 +27,14 @@ if (page.value?.image) {
   })
 
   if (siblings.value?.length) {
-    const enSibling = siblings.value.find(s => !s.path.endsWith('.es'))
+    const enSibling = siblings.value.find(s => !s.path.endsWith('.es') && !s.path.endsWith('.de'))
     const esSibling = siblings.value.find(s => s.path.endsWith('.es'))
+    const deSibling = siblings.value.find(s => s.path.endsWith('.de'))
     const i18nParams: Record<string, { slug: string }> = {}
     // The queryCollection might return file-based slug or frontmatter slug.
     if (enSibling?.slug) i18nParams.en = { slug: enSibling.slug }
     if (esSibling?.slug) i18nParams.es = { slug: esSibling.slug }
+    if (deSibling?.slug) i18nParams.de = { slug: deSibling.slug }
     
     useSetI18nParams()(i18nParams)
   }
@@ -38,10 +43,13 @@ if (page.value?.image) {
 const { data: recipes } = await useAsyncData(`${route.path}-recipes-${locale.value}`, async () => {
   if (!page.value?.recipes?.length) return []
   const slugs = page.value.recipes.map((r: any) => r.slug)
-  return queryCollection('recipes')
-    .where('slug', 'IN', slugs)
-    .where('path', locale.value === 'es' ? 'LIKE' : 'NOT LIKE', '%.es')
-    .all()
+  let builder = queryCollection('recipes').where('slug', 'IN', slugs)
+  if (locale.value === 'en') {
+     builder = builder.where('path', 'NOT LIKE', '%.es').where('path', 'NOT LIKE', '%.de')
+  } else {
+     builder = builder.where('path', 'LIKE', `%.${locale.value}`)
+  }
+  return builder.all()
 })
 
 // Merge the custom text from the collection with the actual recipe data

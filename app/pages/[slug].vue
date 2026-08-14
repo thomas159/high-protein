@@ -6,7 +6,7 @@ const { locale } = useI18n()
 
 // Check if a recipe exists matching this slug
 const { data: recipe } = await useAsyncData(`redirect-check-${slug}-${locale.value}`, () => {
-  const contentPath = locale.value === 'es' ? `/recipes/${slug}.es` : `/recipes/${slug}`
+  const contentPath = locale.value === 'en' ? `/recipes/${slug}` : `/recipes/${slug}.${locale.value}`
   return queryCollection('recipes').path(contentPath).first()
 })
 

@@ -154,6 +154,13 @@ export default defineNuxtConfig({
         flag: 'twemoji:flag-spain',
         file: 'es.json',
       },
+      {
+        code: 'de',
+        iso: 'de-DE',
+        name: 'Deutsch',
+        flag: 'twemoji:flag-germany',
+        file: 'de.json',
+      },
     ],
     detectBrowserLanguage: {
       useCookie: true,
@@ -163,39 +170,48 @@ export default defineNuxtConfig({
     pages: {
       'recipes': {
         en: '/recipes',
-        es: '/recetas'
+        es: '/recetas',
+        de: '/rezepte'
       },
       'recipes-slug': {
         en: '/recipes/[slug]',
-        es: '/recetas/[slug]'
+        es: '/recetas/[slug]',
+        de: '/rezepte/[slug]'
       },
       'collections': {
         en: '/collections',
-        es: '/colecciones'
+        es: '/colecciones',
+        de: '/sammlungen'
       },
       'collections-slug': {
         en: '/collections/[slug]',
-        es: '/colecciones/[slug]'
+        es: '/colecciones/[slug]',
+        de: '/sammlungen/[slug]'
       },
       'categories-slug': {
         en: '/categories/[slug]',
-        es: '/categorias/[slug]'
+        es: '/categorias/[slug]',
+        de: '/kategorien/[slug]'
       },
       'about': {
         en: '/about',
-        es: '/sobre-nosotros'
+        es: '/sobre-nosotros',
+        de: '/ueber-uns'
       },
       'contact': {
         en: '/contact',
-        es: '/contacto'
+        es: '/contacto',
+        de: '/kontakt'
       },
       'privacy-policy': {
         en: '/privacy-policy',
-        es: '/politica-de-privacidad'
+        es: '/politica-de-privacidad',
+        de: '/datenschutz'
       },
       'terms-of-service': {
         en: '/terms-of-service',
-        es: '/terminos-de-servicio'
+        es: '/terminos-de-servicio',
+        de: '/nutzungsbedingungen'
       }
     }
   },

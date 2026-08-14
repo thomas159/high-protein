@@ -1,0 +1,542 @@
+diff --git a/app/components/RecipeGrid.vue b/app/components/RecipeGrid.vue
+index a2cd0c5..34c5cc7 100644
+--- a/app/components/RecipeGrid.vue
++++ b/app/components/RecipeGrid.vue
+@@ -1,12 +1,15 @@
+ <script setup>
+ const props = defineProps(['category', 'tags'])
+ const { locale } = useI18n()
+-const { data: recipes } = await useAsyncData(`fries-list-${locale.value}`, () => 
+-  queryCollection('recipes')
+-    .where('path', locale.value === 'es' ? 'LIKE' : 'NOT LIKE', '%.es')
+-    .where('tags', 'contains', props.tags)
+-    .all()
+-)
++const { data: recipes } = await useAsyncData(`fries-list-${locale.value}`, () => {
++  let builder = queryCollection('recipes')
++  if (locale.value === 'en') {
++    builder = builder.where('path', 'NOT LIKE', '%.es').where('path', 'NOT LIKE', '%.de')
++  } else {
++    builder = builder.where('path', 'LIKE', `%.${locale.value}`)
++  }
++  return builder.where('tags', 'contains', props.tags).all()
++})
+ 
+ const { formatText } = useFormatText()
+ </script>
+diff --git a/app/components/SearchModal.vue b/app/components/SearchModal.vue
+index ea1edf5..eb19f75 100644
+--- a/app/components/SearchModal.vue
++++ b/app/components/SearchModal.vue
+@@ -33,18 +33,29 @@ watch(query, async (newQuery) => {
+   isSearching.value = true
+   try {
+     // Search in multiple fields: title, description, and keywords
+-    const rawResults = await queryCollection('recipes')
+-      // Language filtering: English recipes don't have .es, Spanish recipes do
+-      .where('path', locale.value === 'es' ? 'LIKE' : 'NOT LIKE', '%.es')
+-      // Main search logic
++    // Language filtering: explicit conditions for languages
++    let searchBuilder = queryCollection('recipes')
++    if (locale.value === 'en') {
++      searchBuilder = searchBuilder.where('path', 'NOT LIKE', '%.es').where('path', 'NOT LIKE', '%.de')
++    } else {
++      searchBuilder = searchBuilder.where('path', 'LIKE', `%.${locale.value}`)
++    }
++
++    // Main search logic
++    const rawResults = await searchBuilder
+       .where('title', 'LIKE', `%${newQuery}%`)
+       .limit(6)
+       .all()
+     
+     // If no title matches, try searching keywords (simplified for this iteration)
+     if (rawResults.length === 0) {
+-       const keywordResults = await queryCollection('recipes')
+-        .where('path', locale.value === 'es' ? 'LIKE' : 'NOT LIKE', '%.es')
++       let kwBuilder = queryCollection('recipes')
++       if (locale.value === 'en') {
++          kwBuilder = kwBuilder.where('path', 'NOT LIKE', '%.es').where('path', 'NOT LIKE', '%.de')
++       } else {
++          kwBuilder = kwBuilder.where('path', 'LIKE', `%.${locale.value}`)
++       }
++       const keywordResults = await kwBuilder
+         .where('keywords', 'LIKE', `%${newQuery}%`)
+         .limit(6)
+         .all()
+diff --git a/app/pages/[slug].vue b/app/pages/[slug].vue
+index 42b3739..3aa77bd 100644
+--- a/app/pages/[slug].vue
++++ b/app/pages/[slug].vue
+@@ -6,7 +6,7 @@ const { locale } = useI18n()
+ 
+ // Check if a recipe exists matching this slug
+ const { data: recipe } = await useAsyncData(`redirect-check-${slug}-${locale.value}`, () => {
+-  const contentPath = locale.value === 'es' ? `/recipes/${slug}.es` : `/recipes/${slug}`
++  const contentPath = locale.value === 'en' ? `/recipes/${slug}` : `/recipes/${slug}.${locale.value}`
+   return queryCollection('recipes').path(contentPath).first()
+ })
+ 
+diff --git a/app/pages/categories/[slug].vue b/app/pages/categories/[slug].vue
+index 6ac5aeb..c92f0e4 100644
+--- a/app/pages/categories/[slug].vue
++++ b/app/pages/categories/[slug].vue
+@@ -5,6 +5,7 @@ import { useSetI18nParams } from "#imports";
+ import Button from "@/components/common/Button.vue";
+ import enLocales from "../../../i18n/locales/en.json";
+ import esLocales from "../../../i18n/locales/es.json";
++import deLocales from "../../../i18n/locales/de.json";
+ 
+ const route = useRoute();
+ const { t, locale } = useI18n();
+@@ -14,9 +15,10 @@ const setI18nParams = useSetI18nParams();
+ 
+ const categorySlug = computed(() => route.params.slug as string);
+ 
+-// Explicitly resolve the static slugs so we can pair English <-> Spanish
++// Explicitly resolve the static slugs so we can pair English <-> Spanish <-> German
+ const enSlugs = enLocales.categorySlugs as Record<string, string>;
+ const esSlugs = esLocales.categorySlugs as Record<string, string>;
++const deSlugs = deLocales.categorySlugs as Record<string, string>;
+ 
+ // Map the provided slug back to the internal key (e.g. "cena" -> "dinner", or "dinner" -> "dinner")
+ const getStaticValue = (val: any): string => {
+@@ -37,9 +39,11 @@ const resolveKey = computed(() => {
+     Object.keys(slugs).find((k) => getStaticValue(slugs[k]) === currentSlug);
+ 
+   if (locale.value === "es") {
+-    return findKey(esSlugs) || findKey(enSlugs) || currentSlug;
++    return findKey(esSlugs) || findKey(enSlugs) || findKey(deSlugs) || currentSlug;
++  } else if (locale.value === "de") {
++    return findKey(deSlugs) || findKey(enSlugs) || findKey(esSlugs) || currentSlug;
+   } else {
+-    return findKey(enSlugs) || findKey(esSlugs) || currentSlug;
++    return findKey(enSlugs) || findKey(esSlugs) || findKey(deSlugs) || currentSlug;
+   }
+ });
+ 
+@@ -57,6 +61,9 @@ watch(
+       es: {
+         slug: getStaticValue(esSlugs[resolveKey.value]) || resolveKey.value,
+       },
++      de: {
++        slug: getStaticValue(deSlugs[resolveKey.value]) || resolveKey.value,
++      },
+     });
+   },
+   { immediate: true },
+@@ -64,10 +71,12 @@ watch(
+ 
+ // 2. Identify the accurate slug for the CURRENT language's database query
+ const resolvedDbSlug = computed(() => {
+-  const val =
+-    locale.value === "es"
+-      ? esSlugs[resolveKey.value] || resolveKey.value
+-      : enSlugs[resolveKey.value] || resolveKey.value;
++  let val = enSlugs[resolveKey.value] || resolveKey.value;
++  if (locale.value === "es") {
++    val = esSlugs[resolveKey.value] || resolveKey.value;
++  } else if (locale.value === "de") {
++    val = deSlugs[resolveKey.value] || resolveKey.value;
++  }
+   return getStaticValue(val);
+ });
+ 
+@@ -128,11 +137,13 @@ const {
+ } = await useAsyncData(
+   () => `category-${resolveKey.value}-${locale.value}`,
+   async () => {
+-    let query = queryCollection("recipes").where(
+-      "path",
+-      locale.value === "es" ? "LIKE" : "NOT LIKE",
+-      "%.es",
+-    );
++    let query = queryCollection("recipes");
++    
++    if (locale.value === "en") {
++      query = query.where("path", "NOT LIKE", "%.es").where("path", "NOT LIKE", "%.de");
++    } else {
++      query = query.where("path", "LIKE", `%.${locale.value}`);
++    }
+ 
+     if (resolveKey.value !== "allrecipes") {
+       // Use a more relaxed LIKE query to avoid JSON quote issues
+diff --git a/app/pages/collections/[slug].vue b/app/pages/collections/[slug].vue
+index 238c849..a133f87 100644
+--- a/app/pages/collections/[slug].vue
++++ b/app/pages/collections/[slug].vue
+@@ -4,13 +4,16 @@ const { t, locale } = useI18n()
+ const appConfig = useAppConfig()
+ const { data: page } = await useAsyncData(`${route.path}-${locale.value}`, async () => {
+   const slugParam = route.params.slug as string
+-  const contentPath = locale.value === 'es' ? `/collections/${slugParam}.es` : `/collections/${slugParam}`
++  const contentPath = locale.value === 'en' ? `/collections/${slugParam}` : `/collections/${slugParam}.${locale.value}`
+   
+   // First, check if there's a collection matching the custom frontmatter slug (filtering by language)
+-  const bySlug = await queryCollection('collections')
+-    .where('slug', '=', slugParam)
+-    .where('path', locale.value === 'es' ? 'LIKE' : 'NOT LIKE', '%.es')
+-    .first()
++  let collBuilder = queryCollection('collections').where('slug', '=', slugParam)
++  if (locale.value === 'en') {
++    collBuilder = collBuilder.where('path', 'NOT LIKE', '%.es').where('path', 'NOT LIKE', '%.de')
++  } else {
++    collBuilder = collBuilder.where('path', 'LIKE', `%.${locale.value}`)
++  }
++  const bySlug = await collBuilder.first()
+   if (bySlug) return bySlug
+   
+   // Fallback to checking the file path directly
+@@ -24,12 +27,14 @@ if (page.value?.image) {
+   })
+ 
+   if (siblings.value?.length) {
+-    const enSibling = siblings.value.find(s => !s.path.endsWith('.es'))
++    const enSibling = siblings.value.find(s => !s.path.endsWith('.es') && !s.path.endsWith('.de'))
+     const esSibling = siblings.value.find(s => s.path.endsWith('.es'))
++    const deSibling = siblings.value.find(s => s.path.endsWith('.de'))
+     const i18nParams: Record<string, { slug: string }> = {}
+     // The queryCollection might return file-based slug or frontmatter slug.
+     if (enSibling?.slug) i18nParams.en = { slug: enSibling.slug }
+     if (esSibling?.slug) i18nParams.es = { slug: esSibling.slug }
++    if (deSibling?.slug) i18nParams.de = { slug: deSibling.slug }
+     
+     useSetI18nParams()(i18nParams)
+   }
+@@ -38,10 +43,13 @@ if (page.value?.image) {
+ const { data: recipes } = await useAsyncData(`${route.path}-recipes-${locale.value}`, async () => {
+   if (!page.value?.recipes?.length) return []
+   const slugs = page.value.recipes.map((r: any) => r.slug)
+-  return queryCollection('recipes')
+-    .where('slug', 'IN', slugs)
+-    .where('path', locale.value === 'es' ? 'LIKE' : 'NOT LIKE', '%.es')
+-    .all()
++  let builder = queryCollection('recipes').where('slug', 'IN', slugs)
++  if (locale.value === 'en') {
++     builder = builder.where('path', 'NOT LIKE', '%.es').where('path', 'NOT LIKE', '%.de')
++  } else {
++     builder = builder.where('path', 'LIKE', `%.${locale.value}`)
++  }
++  return builder.all()
+ })
+ 
+ // Merge the custom text from the collection with the actual recipe data
+diff --git a/app/pages/index.vue b/app/pages/index.vue
+index d996086..9e31ff6 100644
+--- a/app/pages/index.vue
++++ b/app/pages/index.vue
+@@ -6,37 +6,36 @@ const { t, locale } = useI18n()
+ // Query all recipes in your collection
+ const { data: homeData, error: recipesError } = await useAsyncData(`home-data-${locale.value}`, async () => {
+   try {
+-    const all = await queryCollection('recipes')
+-      .where('path', locale.value === 'es' ? 'LIKE' : 'NOT LIKE', '%.es')
+-      .all()
+-    const latest = await queryCollection('recipes')
+-      .where('path', locale.value === 'es' ? 'LIKE' : 'NOT LIKE', '%.es')
+-      .limit(4).all()
+-    
++    const getQueryBuilder = (collectionVal: any) => {
++      let b = queryCollection(collectionVal)
++      if (locale.value === 'en') {
++        b = b.where('path', 'NOT LIKE', '%.es').where('path', 'NOT LIKE', '%.de')
++      } else {
++        b = b.where('path', 'LIKE', `%.${locale.value}`)
++      }
++      return b
++    }
+ 
+-    const ninjaCreami = await queryCollection('recipes')
+-      .where('path', locale.value === 'es' ? 'LIKE' : 'NOT LIKE', '%.es')
++    const all = await getQueryBuilder('recipes').all()
++    const latest = await getQueryBuilder('recipes').limit(4).all()
++    
++    const ninjaCreami = await getQueryBuilder('recipes')
+       .where('categories', 'LIKE', '%ninjacreami%')
+       .limit(4).all()
+ 
+-    const trending = await queryCollection('recipes')
+-      .where('path', locale.value === 'es' ? 'LIKE' : 'NOT LIKE', '%.es')
++    const trending = await getQueryBuilder('recipes')
+       .where('categories', 'LIKE', '%trending%')
+       .limit(4).all()
+ 
+-    const airFryer = await queryCollection('recipes')
+-      .where('path', locale.value === 'es' ? 'LIKE' : 'NOT LIKE', '%.es')
++    const airFryer = await getQueryBuilder('recipes')
+       .where('categories', 'LIKE', '%airfryer%')
+       .limit(4).all()
+ 
+-    const fifteenMin = await queryCollection('recipes')
+-      .where('path', locale.value === 'es' ? 'LIKE' : 'NOT LIKE', '%.es')
++    const fifteenMin = await getQueryBuilder('recipes')
+       .where('categories', 'LIKE', '%15minutemeals%')
+       .limit(4).all()
+ 
+-    const topCollections = await queryCollection('collections')
+-      .where('path', locale.value === 'es' ? 'LIKE' : 'NOT LIKE', '%.es')
+-      .all()
++    const topCollections = await getQueryBuilder('collections').all()
+ 
+     return {
+       total: all.length,
+diff --git a/app/pages/recipes/[slug].vue b/app/pages/recipes/[slug].vue
+index 4f85d27..4f634f7 100644
+--- a/app/pages/recipes/[slug].vue
++++ b/app/pages/recipes/[slug].vue
+@@ -4,7 +4,7 @@ const { siteName, siteDescription } = useAppConfig()
+ const route = useRoute()
+ const { t, locale } = useI18n()
+ const { data: recipe } = await useAsyncData(`${route.path}-${locale.value}`, () => {
+-  const contentPath = locale.value === 'es' ? `/recipes/${route.params.slug}.es` : `/recipes/${route.params.slug}`
++  const contentPath = locale.value === 'en' ? `/recipes/${route.params.slug}` : `/recipes/${route.params.slug}.${locale.value}`
+   return queryCollection('recipes').path(contentPath).first()
+ })
+ 
+@@ -15,11 +15,13 @@ if (recipe.value?.image) {
+   })
+ 
+   if (siblings.value?.length) {
+-    const enSibling = siblings.value.find(s => !s.path.endsWith('.es'))
++    const enSibling = siblings.value.find(s => !s.path.endsWith('.es') && !s.path.endsWith('.de'))
+     const esSibling = siblings.value.find(s => s.path.endsWith('.es'))
++    const deSibling = siblings.value.find(s => s.path.endsWith('.de'))
+     const i18nParams: Record<string, { slug: string }> = {}
+     if (enSibling) i18nParams.en = { slug: enSibling.slug }
+     if (esSibling) i18nParams.es = { slug: esSibling.slug }
++    if (deSibling) i18nParams.de = { slug: deSibling.slug }
+     
+     useSetI18nParams()(i18nParams)
+   }
+@@ -156,12 +158,19 @@ const { data: relatedRecipes } = await useAsyncData(`${route.path}-related`, asy
+   // Get the first category from the current recipe's array
+   const primaryCategory = recipe.value.categories[0]
+ 
+-  return queryCollection('recipes')
++
++  let builder = queryCollection('recipes')
+     .where('categories', 'LIKE', `%${primaryCategory}%`)
+     .where('slug', '<>', recipe.value.slug)
+-    .where('path', locale.value === 'es' ? 'LIKE' : 'NOT LIKE', '%.es')
+-    .limit(4)
+-    .all()
++
++  if (locale.value === 'en') {
++    builder = builder.where('path', 'NOT LIKE', '%.es').where('path', 'NOT LIKE', '%.de')
++  } else {
++    builder = builder.where('path', 'LIKE', `%.${locale.value}`)
++  }
++
++  return builder.limit(4).all()
++
+ }, {
+   watch: [recipe], // Re-run if the main recipe changes
+   default: () => []
+@@ -173,11 +182,16 @@ const { data: randomizedRecipes } = await useAsyncData(`${route.path}-random`, a
+ 
+   const primaryCategory = recipe.value.categories[0]
+ 
+-  const matchingRecipes = await queryCollection('recipes')
++  let builder = queryCollection('recipes')
+     .where('categories', 'LIKE', `%${primaryCategory}%`)
+     .where('slug', '<>', recipe.value.slug)
+-    .where('path', locale.value === 'es' ? 'LIKE' : 'NOT LIKE', '%.es')
+-    .all()
++  
++  if (locale.value === 'en') {
++    builder = builder.where('path', 'NOT LIKE', '%.es').where('path', 'NOT LIKE', '%.de')
++  } else {
++    builder = builder.where('path', 'LIKE', `%.${locale.value}`)
++  }
++  const matchingRecipes = await builder.all()
+ 
+   // Exclude the recipes already shown in the standard "Related Recipes" section
+   const relatedSlugs = relatedRecipes.value?.map(r => r.slug) || []
+@@ -194,9 +208,13 @@ const { data: randomizedRecipes } = await useAsyncData(`${route.path}-random`, a
+ const { data: relatedCollections } = await useAsyncData(`${route.path}-collections`, async () => {
+   if (!recipe.value?.slug) return []
+   
+-  const allCollections = await queryCollection('collections')
+-    .where('path', locale.value === 'es' ? 'LIKE' : 'NOT LIKE', '%.es')
+-    .all()
++  let builder = queryCollection('collections')
++  if (locale.value === 'en') {
++    builder = builder.where('path', 'NOT LIKE', '%.es').where('path', 'NOT LIKE', '%.de')
++  } else {
++    builder = builder.where('path', 'LIKE', `%.${locale.value}`)
++  }
++  const allCollections = await builder.all()
+   return allCollections.filter(c => 
+     c.recipes?.some((r: any) => r.slug === recipe.value?.slug)
+   )
+diff --git a/nuxt.config.ts b/nuxt.config.ts
+index 135cd29..8d30656 100644
+--- a/nuxt.config.ts
++++ b/nuxt.config.ts
+@@ -154,6 +154,13 @@ export default defineNuxtConfig({
+         flag: 'twemoji:flag-spain',
+         file: 'es.json',
+       },
++      {
++        code: 'de',
++        iso: 'de-DE',
++        name: 'Deutsch',
++        flag: 'twemoji:flag-germany',
++        file: 'de.json',
++      },
+     ],
+     detectBrowserLanguage: {
+       useCookie: true,
+@@ -163,39 +170,48 @@ export default defineNuxtConfig({
+     pages: {
+       'recipes': {
+         en: '/recipes',
+-        es: '/recetas'
++        es: '/recetas',
++        de: '/rezepte'
+       },
+       'recipes-slug': {
+         en: '/recipes/[slug]',
+-        es: '/recetas/[slug]'
++        es: '/recetas/[slug]',
++        de: '/rezepte/[slug]'
+       },
+       'collections': {
+         en: '/collections',
+-        es: '/colecciones'
++        es: '/colecciones',
++        de: '/sammlungen'
+       },
+       'collections-slug': {
+         en: '/collections/[slug]',
+-        es: '/colecciones/[slug]'
++        es: '/colecciones/[slug]',
++        de: '/sammlungen/[slug]'
+       },
+       'categories-slug': {
+         en: '/categories/[slug]',
+-        es: '/categorias/[slug]'
++        es: '/categorias/[slug]',
++        de: '/kategorien/[slug]'
+       },
+       'about': {
+         en: '/about',
+-        es: '/sobre-nosotros'
++        es: '/sobre-nosotros',
++        de: '/ueber-uns'
+       },
+       'contact': {
+         en: '/contact',
+-        es: '/contacto'
++        es: '/contacto',
++        de: '/kontakt'
+       },
+       'privacy-policy': {
+         en: '/privacy-policy',
+-        es: '/politica-de-privacidad'
++        es: '/politica-de-privacidad',
++        de: '/datenschutz'
+       },
+       'terms-of-service': {
+         en: '/terms-of-service',
+-        es: '/terminos-de-servicio'
++        es: '/terminos-de-servicio',
++        de: '/nutzungsbedingungen'
+       }
+     }
+   },
+diff --git a/server/api/__sitemap__/urls.ts b/server/api/__sitemap__/urls.ts
+index eb826ba..2b2ca3d 100644
+--- a/server/api/__sitemap__/urls.ts
++++ b/server/api/__sitemap__/urls.ts
+@@ -5,6 +5,8 @@ import { RECIPE_CATEGORIES } from '~/utils/constants'
+ import enLocales from '~~/i18n/locales/en.json'
+ // @ts-ignore
+ import esLocales from '~~/i18n/locales/es.json'
++// @ts-ignore
++import deLocales from '~~/i18n/locales/de.json'
+ 
+ export default defineSitemapEventHandler(async (event) => { 
+   try {
+@@ -14,10 +16,11 @@ export default defineSitemapEventHandler(async (event) => {
+     // 2. Map recipes to localized sitemap URLs
+     const recipeUrls = recipes.map(recipe => {
+       const isSpanish = recipe.path.endsWith('.es')
+-      // Remove /recipes/ prefix and .es suffix if present
+-      const slug = recipe.path.replace('/recipes/', '').replace('.es', '')
++      const isGerman = recipe.path.endsWith('.de')
++      // Remove /recipes/ prefix and suffix if present
++      const slug = recipe.path.replace('/recipes/', '').replace('.es', '').replace('.de', '')
+       
+-      const loc = isSpanish ? `/es/recetas/${slug}` : `/recipes/${slug}`
++      const loc = isSpanish ? `/es/recetas/${slug}` : isGerman ? `/de/rezepte/${slug}` : `/recipes/${slug}`
+       
+       return {
+         loc,
+@@ -30,11 +33,13 @@ export default defineSitemapEventHandler(async (event) => {
+     const categoryUrls: any[] = []
+     const enCategorySlugs = enLocales.categorySlugs as Record<string, string>
+     const esCategorySlugs = esLocales.categorySlugs as Record<string, string>
++    const deCategorySlugs = deLocales.categorySlugs as Record<string, string>
+ 
+     // Get all unique keys from both locale files
+     const allCategoryKeys = new Set([
+       ...Object.keys(enCategorySlugs),
+-      ...Object.keys(esCategorySlugs)
++      ...Object.keys(esCategorySlugs),
++      ...Object.keys(deCategorySlugs)
+     ])
+ 
+     for (const key of allCategoryKeys) {
+@@ -49,6 +54,12 @@ export default defineSitemapEventHandler(async (event) => {
+       if (esSlug) {
+         categoryUrls.push({ loc: `/es/categorias/${esSlug}`, priority: 0.7 })
+       }
++
++      // German category URL
++      const deSlug = deCategorySlugs[key]
++      if (deSlug) {
++        categoryUrls.push({ loc: `/de/kategorien/${deSlug}`, priority: 0.7 })
++      }
+     }
+ 
+ 
+@@ -56,10 +67,11 @@ export default defineSitemapEventHandler(async (event) => {
+     const collections = await queryCollection(event, 'collections').all()
+     const collectionUrls = collections.map(coll => {
+       const isSpanish = coll.path.endsWith('.es')
+-      // Remove /collections/ prefix and .es suffix if present
+-      const slug = coll.path.replace('/collections/', '').replace('.es', '')
++      const isGerman = coll.path.endsWith('.de')
++      // Remove /collections/ prefix and suffix if present
++      const slug = coll.path.replace('/collections/', '').replace('.es', '').replace('.de', '')
+       
+-      const loc = isSpanish ? `/es/colecciones/${slug}` : `/collections/${slug}`
++      const loc = isSpanish ? `/es/colecciones/${slug}` : isGerman ? `/de/sammlungen/${slug}` : `/collections/${slug}`
+       
+       return {
+         loc,
+@@ -70,17 +82,18 @@ export default defineSitemapEventHandler(async (event) => {
+ 
+     // 5. Hardcoded static pages (localized)
+     const staticPages = [
+-      { en: '/', es: '/es', priority: 1.0 },
+-      { en: '/about', es: '/es/sobre-nosotros', priority: 0.5 },
+-      { en: '/contact', es: '/es/contacto', priority: 0.5 },
+-      { en: '/privacy-policy', es: '/es/politica-de-privacidad', priority: 0.3 },
+-      { en: '/terms-of-service', es: '/es/terminos-de-servicio', priority: 0.3 }
++      { en: '/', es: '/es', de: '/de', priority: 1.0 },
++      { en: '/about', es: '/es/sobre-nosotros', de: '/de/ueber-uns', priority: 0.5 },
++      { en: '/contact', es: '/es/contacto', de: '/de/kontakt', priority: 0.5 },
++      { en: '/privacy-policy', es: '/es/politica-de-privacidad', de: '/de/datenschutz', priority: 0.3 },
++      { en: '/terms-of-service', es: '/es/terminos-de-servicio', de: '/de/nutzungsbedingungen', priority: 0.3 }
+     ]
+     
+     const staticUrls: any[] = []
+     for (const page of staticPages) {
+        staticUrls.push({ loc: page.en, priority: page.priority })
+        staticUrls.push({ loc: page.es, priority: page.priority })
++       staticUrls.push({ loc: page.de, priority: page.priority })
+     }
+ 
+     // Merge and return all discoverable URLs

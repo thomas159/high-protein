@@ -9,7 +9,7 @@ meta:
 description: 'A heavy hit of protein disguised as a premium, earthy matcha ice cream. Using a smart matcha paste trick ensures zero powdery lumps, while a touch of honey perfectly balances the earthy notes for a smooth, chilled treat. The Ninja Creami turns this macro-friendly mix into an absolute dessert cheat code for green tea lovers.
 
   '
-image: inja-creami-matcha-ice-cream_cf4gjc
+image: ninja-creami-matcha-ice-cream_cf4gjc
 alt: Matcha protein ice cream in a Ninja Creami pint
 pintrest: ''
 tags:

@@ -5,6 +5,7 @@ import { useSetI18nParams } from "#imports";
 import Button from "@/components/common/Button.vue";
 import enLocales from "../../../i18n/locales/en.json";
 import esLocales from "../../../i18n/locales/es.json";
+import deLocales from "../../../i18n/locales/de.json";
 
 const route = useRoute();
 const { t, locale } = useI18n();
@@ -14,9 +15,10 @@ const setI18nParams = useSetI18nParams();
 
 const categorySlug = computed(() => route.params.slug as string);
 
-// Explicitly resolve the static slugs so we can pair English <-> Spanish
+// Explicitly resolve the static slugs so we can pair English <-> Spanish <-> German
 const enSlugs = enLocales.categorySlugs as Record<string, string>;
 const esSlugs = esLocales.categorySlugs as Record<string, string>;
+const deSlugs = deLocales.categorySlugs as Record<string, string>;
 
 // Map the provided slug back to the internal key (e.g. "cena" -> "dinner", or "dinner" -> "dinner")
 const getStaticValue = (val: any): string => {
@@ -37,9 +39,11 @@ const resolveKey = computed(() => {
     Object.keys(slugs).find((k) => getStaticValue(slugs[k]) === currentSlug);
 
   if (locale.value === "es") {
-    return findKey(esSlugs) || findKey(enSlugs) || currentSlug;
+    return findKey(esSlugs) || findKey(enSlugs) || findKey(deSlugs) || currentSlug;
+  } else if (locale.value === "de") {
+    return findKey(deSlugs) || findKey(enSlugs) || findKey(esSlugs) || currentSlug;
   } else {
-    return findKey(enSlugs) || findKey(esSlugs) || currentSlug;
+    return findKey(enSlugs) || findKey(esSlugs) || findKey(deSlugs) || currentSlug;
   }
 });
 
@@ -57,6 +61,9 @@ watch(
       es: {
         slug: getStaticValue(esSlugs[resolveKey.value]) || resolveKey.value,
       },
+      de: {
+        slug: getStaticValue(deSlugs[resolveKey.value]) || resolveKey.value,
+      },
     });
   },
   { immediate: true },
@@ -64,10 +71,12 @@ watch(
 
 // 2. Identify the accurate slug for the CURRENT language's database query
 const resolvedDbSlug = computed(() => {
-  const val =
-    locale.value === "es"
-      ? esSlugs[resolveKey.value] || resolveKey.value
-      : enSlugs[resolveKey.value] || resolveKey.value;
+  let val = enSlugs[resolveKey.value] || resolveKey.value;
+  if (locale.value === "es") {
+    val = esSlugs[resolveKey.value] || resolveKey.value;
+  } else if (locale.value === "de") {
+    val = deSlugs[resolveKey.value] || resolveKey.value;
+  }
   return getStaticValue(val);
 });
 
@@ -128,11 +137,13 @@ const {
 } = await useAsyncData(
   () => `category-${resolveKey.value}-${locale.value}`,
   async () => {
-    let query = queryCollection("recipes").where(
-      "path",
-      locale.value === "es" ? "LIKE" : "NOT LIKE",
-      "%.es",
-    );
+    let query = queryCollection("recipes");
+    
+    if (locale.value === "en") {
+      query = query.where("path", "NOT LIKE", "%.es").where("path", "NOT LIKE", "%.de");
+    } else {
+      query = query.where("path", "LIKE", `%.${locale.value}`);
+    }
 
     if (resolveKey.value !== "allrecipes") {
       // Use a more relaxed LIKE query to avoid JSON quote issues

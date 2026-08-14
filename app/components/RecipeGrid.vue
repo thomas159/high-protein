@@ -1,12 +1,15 @@
 <script setup>
 const props = defineProps(['category', 'tags'])
 const { locale } = useI18n()
-const { data: recipes } = await useAsyncData(`fries-list-${locale.value}`, () => 
-  queryCollection('recipes')
-    .where('path', locale.value === 'es' ? 'LIKE' : 'NOT LIKE', '%.es')
-    .where('tags', 'contains', props.tags)
-    .all()
-)
+const { data: recipes } = await useAsyncData(`fries-list-${locale.value}`, () => {
+  let builder = queryCollection('recipes')
+  if (locale.value === 'en') {
+    builder = builder.where('path', 'NOT LIKE', '%.es').where('path', 'NOT LIKE', '%.de')
+  } else {
+    builder = builder.where('path', 'LIKE', `%.${locale.value}`)
+  }
+  return builder.where('tags', 'contains', props.tags).all()
+})
 
 const { formatText } = useFormatText()
 </script>

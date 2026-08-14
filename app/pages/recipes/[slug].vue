@@ -4,7 +4,7 @@ const { siteName, siteDescription } = useAppConfig()
 const route = useRoute()
 const { t, locale } = useI18n()
 const { data: recipe } = await useAsyncData(`${route.path}-${locale.value}`, () => {
-  const contentPath = locale.value === 'es' ? `/recipes/${route.params.slug}.es` : `/recipes/${route.params.slug}`
+  const contentPath = locale.value === 'en' ? `/recipes/${route.params.slug}` : `/recipes/${route.params.slug}.${locale.value}`
   return queryCollection('recipes').path(contentPath).first()
 })
 
@@ -15,11 +15,13 @@ if (recipe.value?.image) {
   })
 
   if (siblings.value?.length) {
-    const enSibling = siblings.value.find(s => !s.path.endsWith('.es'))
+    const enSibling = siblings.value.find(s => !s.path.endsWith('.es') && !s.path.endsWith('.de'))
     const esSibling = siblings.value.find(s => s.path.endsWith('.es'))
+    const deSibling = siblings.value.find(s => s.path.endsWith('.de'))
     const i18nParams: Record<string, { slug: string }> = {}
     if (enSibling) i18nParams.en = { slug: enSibling.slug }
     if (esSibling) i18nParams.es = { slug: esSibling.slug }
+    if (deSibling) i18nParams.de = { slug: deSibling.slug }
     
     useSetI18nParams()(i18nParams)
   }
@@ -156,12 +158,19 @@ const { data: relatedRecipes } = await useAsyncData(`${route.path}-related`, asy
   // Get the first category from the current recipe's array
   const primaryCategory = recipe.value.categories[0]
 
-  return queryCollection('recipes')
+
+  let builder = queryCollection('recipes')
     .where('categories', 'LIKE', `%${primaryCategory}%`)
     .where('slug', '<>', recipe.value.slug)
-    .where('path', locale.value === 'es' ? 'LIKE' : 'NOT LIKE', '%.es')
-    .limit(4)
-    .all()
+
+  if (locale.value === 'en') {
+    builder = builder.where('path', 'NOT LIKE', '%.es').where('path', 'NOT LIKE', '%.de')
+  } else {
+    builder = builder.where('path', 'LIKE', `%.${locale.value}`)
+  }
+
+  return builder.limit(4).all()
+
 }, {
   watch: [recipe], // Re-run if the main recipe changes
   default: () => []
@@ -173,11 +182,16 @@ const { data: randomizedRecipes } = await useAsyncData(`${route.path}-random`, a
 
   const primaryCategory = recipe.value.categories[0]
 
-  const matchingRecipes = await queryCollection('recipes')
+  let builder = queryCollection('recipes')
     .where('categories', 'LIKE', `%${primaryCategory}%`)
     .where('slug', '<>', recipe.value.slug)
-    .where('path', locale.value === 'es' ? 'LIKE' : 'NOT LIKE', '%.es')
-    .all()
+  
+  if (locale.value === 'en') {
+    builder = builder.where('path', 'NOT LIKE', '%.es').where('path', 'NOT LIKE', '%.de')
+  } else {
+    builder = builder.where('path', 'LIKE', `%.${locale.value}`)
+  }
+  const matchingRecipes = await builder.all()
 
   // Exclude the recipes already shown in the standard "Related Recipes" section
   const relatedSlugs = relatedRecipes.value?.map(r => r.slug) || []
@@ -194,9 +208,13 @@ const { data: randomizedRecipes } = await useAsyncData(`${route.path}-random`, a
 const { data: relatedCollections } = await useAsyncData(`${route.path}-collections`, async () => {
   if (!recipe.value?.slug) return []
   
-  const allCollections = await queryCollection('collections')
-    .where('path', locale.value === 'es' ? 'LIKE' : 'NOT LIKE', '%.es')
-    .all()
+  let builder = queryCollection('collections')
+  if (locale.value === 'en') {
+    builder = builder.where('path', 'NOT LIKE', '%.es').where('path', 'NOT LIKE', '%.de')
+  } else {
+    builder = builder.where('path', 'LIKE', `%.${locale.value}`)
+  }
+  const allCollections = await builder.all()
   return allCollections.filter(c => 
     c.recipes?.some((r: any) => r.slug === recipe.value?.slug)
   )

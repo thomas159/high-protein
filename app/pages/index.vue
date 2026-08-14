@@ -6,37 +6,36 @@ const { t, locale } = useI18n()
 // Query all recipes in your collection
 const { data: homeData, error: recipesError } = await useAsyncData(`home-data-${locale.value}`, async () => {
   try {
-    const all = await queryCollection('recipes')
-      .where('path', locale.value === 'es' ? 'LIKE' : 'NOT LIKE', '%.es')
-      .all()
-    const latest = await queryCollection('recipes')
-      .where('path', locale.value === 'es' ? 'LIKE' : 'NOT LIKE', '%.es')
-      .limit(4).all()
-    
+    const getQueryBuilder = (collectionVal: any) => {
+      let b = queryCollection(collectionVal)
+      if (locale.value === 'en') {
+        b = b.where('path', 'NOT LIKE', '%.es').where('path', 'NOT LIKE', '%.de')
+      } else {
+        b = b.where('path', 'LIKE', `%.${locale.value}`)
+      }
+      return b
+    }
 
-    const ninjaCreami = await queryCollection('recipes')
-      .where('path', locale.value === 'es' ? 'LIKE' : 'NOT LIKE', '%.es')
+    const all = await getQueryBuilder('recipes').all()
+    const latest = await getQueryBuilder('recipes').limit(4).all()
+    
+    const ninjaCreami = await getQueryBuilder('recipes')
       .where('categories', 'LIKE', '%ninjacreami%')
       .limit(4).all()
 
-    const trending = await queryCollection('recipes')
-      .where('path', locale.value === 'es' ? 'LIKE' : 'NOT LIKE', '%.es')
+    const trending = await getQueryBuilder('recipes')
       .where('categories', 'LIKE', '%trending%')
       .limit(4).all()
 
-    const airFryer = await queryCollection('recipes')
-      .where('path', locale.value === 'es' ? 'LIKE' : 'NOT LIKE', '%.es')
+    const airFryer = await getQueryBuilder('recipes')
       .where('categories', 'LIKE', '%airfryer%')
       .limit(4).all()
 
-    const fifteenMin = await queryCollection('recipes')
-      .where('path', locale.value === 'es' ? 'LIKE' : 'NOT LIKE', '%.es')
+    const fifteenMin = await getQueryBuilder('recipes')
       .where('categories', 'LIKE', '%15minutemeals%')
       .limit(4).all()
 
-    const topCollections = await queryCollection('collections')
-      .where('path', locale.value === 'es' ? 'LIKE' : 'NOT LIKE', '%.es')
-      .all()
+    const topCollections = await getQueryBuilder('collections').all()
 
     return {
       total: all.length,

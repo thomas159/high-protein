@@ -33,18 +33,29 @@ watch(query, async (newQuery) => {
   isSearching.value = true
   try {
     // Search in multiple fields: title, description, and keywords
-    const rawResults = await queryCollection('recipes')
-      // Language filtering: English recipes don't have .es, Spanish recipes do
-      .where('path', locale.value === 'es' ? 'LIKE' : 'NOT LIKE', '%.es')
-      // Main search logic
+    // Language filtering: explicit conditions for languages
+    let searchBuilder = queryCollection('recipes')
+    if (locale.value === 'en') {
+      searchBuilder = searchBuilder.where('path', 'NOT LIKE', '%.es').where('path', 'NOT LIKE', '%.de')
+    } else {
+      searchBuilder = searchBuilder.where('path', 'LIKE', `%.${locale.value}`)
+    }
+
+    // Main search logic
+    const rawResults = await searchBuilder
       .where('title', 'LIKE', `%${newQuery}%`)
       .limit(6)
       .all()
     
     // If no title matches, try searching keywords (simplified for this iteration)
     if (rawResults.length === 0) {
-       const keywordResults = await queryCollection('recipes')
-        .where('path', locale.value === 'es' ? 'LIKE' : 'NOT LIKE', '%.es')
+       let kwBuilder = queryCollection('recipes')
+       if (locale.value === 'en') {
+          kwBuilder = kwBuilder.where('path', 'NOT LIKE', '%.es').where('path', 'NOT LIKE', '%.de')
+       } else {
+          kwBuilder = kwBuilder.where('path', 'LIKE', `%.${locale.value}`)
+       }
+       const keywordResults = await kwBuilder
         .where('keywords', 'LIKE', `%${newQuery}%`)
         .limit(6)
         .all()
