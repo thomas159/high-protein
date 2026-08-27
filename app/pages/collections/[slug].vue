@@ -61,21 +61,44 @@ const collectionItems = computed(() => {
   }).filter((item: any) => item.recipe) // ensure the recipe was found
 })
 
-// SEO Metadata
-useHead({
-  link: [{ rel: 'canonical', href: `https://www.hotrecipes.co.uk${route.path}` }]
+// SEO Metadata & Schema
+const ogImg = computed(() => {
+  if (page.value?.image) {
+    return page.value.image.startsWith('http')
+      ? page.value.image
+      : `https://res.cloudinary.com/mealse-co-uk/image/upload/f_auto,q_auto/${page.value.image}`
+  }
+  return 'https://www.hotrecipes.co.uk/cover.png'
 })
 
 useSeoMeta({
-  title: page.value?.title ? `${page.value.title} - ${appConfig.siteName}` : appConfig.siteName,
-  description: page.value?.description,
-  ogTitle: page.value?.title ? `${page.value.title} - ${appConfig.siteName}` : appConfig.siteName,
-  ogDescription: page.value?.description,
+  title: () => page.value?.title ? `${page.value.title} - ${appConfig.siteName}` : appConfig.siteName,
+  description: () => page.value?.description,
+  ogTitle: () => page.value?.title ? `${page.value.title} - ${appConfig.siteName}` : appConfig.siteName,
+  ogDescription: () => page.value?.description,
   ogUrl: `https://www.hotrecipes.co.uk${route.path}`,
-  twitterTitle: page.value?.title ? `${page.value.title} - ${appConfig.siteName}` : appConfig.siteName,
-  twitterDescription: page.value?.description,
+  ogImage: ogImg,
+  twitterTitle: () => page.value?.title ? `${page.value.title} - ${appConfig.siteName}` : appConfig.siteName,
+  twitterDescription: () => page.value?.description,
+  twitterImage: ogImg,
   twitterCard: 'summary_large_image'
 })
+
+if (import.meta.server) {
+  useSchemaOrg([
+    defineItemList({
+      name: () => page.value?.title,
+      description: () => page.value?.description,
+      itemListElement: computed(() => collectionItems.value.map((item: any, idx: number) => ({
+        '@type': 'ListItem',
+        position: idx + 1,
+        url: `https://www.hotrecipes.co.uk${locale.value === 'en' ? '' : `/${locale.value}`}/recipes/${item.recipe.slug}`,
+        name: item.recipe.title,
+        image: item.recipe.image ? `https://res.cloudinary.com/mealse-co-uk/image/upload/f_auto,q_auto/${item.recipe.image}` : undefined,
+      })))
+    })
+  ])
+}
 
 const { formatText } = useFormatText()
 const localePath = useLocalePath()

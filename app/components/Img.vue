@@ -1,5 +1,4 @@
 <script setup lang="ts">
-// 1. Define the interface to match your Recipe data structure
 export interface Src {
   src?: string;
 }
@@ -7,10 +6,28 @@ export interface Src {
 const props = withDefaults(defineProps<{
   src?: string;
   alt?: string;
+  loading?: 'lazy' | 'eager';
+  priority?: boolean;
+  preload?: boolean;
+  high?: boolean;
 }>(), {
   src: 'https://images.unsplash.com/photo-1520072959219-c595dc870360?auto=format&fit=crop&q=80&w=1000',
   alt: 'Recipe Image',
+  loading: undefined,
+  priority: false,
+  preload: false,
+  high: false,
 });
+
+const computedLoading = computed(() => {
+  if (props.loading) return props.loading
+  if (props.priority || props.preload || props.high) return 'eager'
+  return 'lazy'
+})
+
+const isPreload = computed(() => {
+  return props.preload || props.priority || props.high
+})
 </script>
 
 <template>
@@ -18,6 +35,7 @@ const props = withDefaults(defineProps<{
     provider="cloudinary"
     :src="props.src"
     :alt="props.alt"
-    loading="lazy"
+    :loading="computedLoading"
+    :preload="isPreload"
     class="w-full h-full object-cover" />
 </template>

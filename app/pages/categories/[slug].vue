@@ -105,20 +105,16 @@ const descText = computed(() => {
     : t("categoryPage.categoryDesc", { category: categoryName.value });
 });
 
-useHead({
-  link: [
-    { rel: "canonical", href: `https://www.hotrecipes.co.uk${route.path}` },
-  ],
-});
-
 useSeoMeta({
   title: () => titleText.value,
   description: () => descText.value,
   ogTitle: () => titleText.value,
   ogDescription: () => descText.value,
   ogUrl: `https://www.hotrecipes.co.uk${route.path}`,
+  ogImage: 'https://www.hotrecipes.co.uk/cover.png',
   twitterTitle: () => titleText.value,
   twitterDescription: () => descText.value,
+  twitterImage: 'https://www.hotrecipes.co.uk/cover.png',
   twitterCard: "summary_large_image",
 });
 

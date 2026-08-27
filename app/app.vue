@@ -56,10 +56,11 @@ useSeoMeta({
   description: () => t('seo.home.description'),
   ogTitle: () => t('seo.home.ogTitle'),
   ogDescription: () => t('seo.home.ogDescription'),
-  ogImage: 'https://www.hotrecipes.co.uk/social-share-cover.png',
+  ogImage: 'https://www.hotrecipes.co.uk/cover.png',
   ogUrl: 'https://www.hotrecipes.co.uk',
   ogType: 'website',
   twitterCard: 'summary_large_image',
+  twitterImage: 'https://www.hotrecipes.co.uk/cover.png',
 })
 
 useSchemaOrg([

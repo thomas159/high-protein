@@ -53,7 +53,7 @@ export default defineNuxtConfig({
     }
   },
   robots: {
-    disallow: ['/api', '/admin']
+    disallow: ['/admin']
   },
   // Content
   content: {
