@@ -1,121 +1,151 @@
 {
   "nav": {
-    "home": "Home",
-    "docs": "Docs",
-    "about": "About",
-    "services": "Services",
-    "contact": "Contact",
+    "home": "Startseite",
+    "docs": "Dokumentation",
+    "about": "Über mich",
+    "services": "Leistungen",
+    "contact": "Kontakt",
     "blog": "Blog",
-    "login": "Login",
-    "register": "Register",
+    "login": "Anmelden",
+    "register": "Registrieren",
     "dashboard": "Dashboard",
-    "logout": "Logout",
-    "blank": "Blank",
-    "components": "Components",
-    "contents": "Contents",
-    "categories": "Categories"
+    "logout": "Abmelden",
+    "blank": "Leer",
+    "components": "Komponenten",
+    "contents": "Inhalte",
+    "categories": "Kategorien"
   },
   "home": {
     "hero": {
-      "title": "Build Muscle,",
-      "highlight": "Not Dishes.",
-      "subtitle": "Quick, high-protein vegetarian and vegan meals for people who love to eat but hate to wait.",
-      "stats": "Explore {count}+ high-protein recipes"
+      "title": "Muskeln aufbauen,",
+      "highlight": "nicht abwaschen.",
+      "subtitle": "Schnelle, proteinreiche vegetarische und vegane Mahlzeiten für alle, die gerne essen, aber nicht gerne warten.",
+      "stats": "Entdecke über {count} proteinreiche Rezepte"
     },
     "about": {
-      "hi": "Hi, I'm {author}! 👋",
-      "description": "I share fast, macro-friendly, and high-protein recipes on {siteName} to help you hit your fitness goals without spending hours in the kitchen.",
-      "readMore": "Read My Story"
+      "hi": "Hi, ich bin {author}! 👋",
+      "description": "Ich teile schnelle, makrofreundliche und proteinreiche Rezepte auf {siteName}, damit du deine Fitnessziele erreichst, ohne stundenlang in der Küche zu stehen.",
+      "readMore": "Meine Geschichte lesen"
     }
   },
   "about": {
-    "title": "Code, Lift, and {span}",
-    "span": "Cook",
-    "description": "I'm a software developer with a serious passion for the gym, sports, and cooking. As a vegetarian, I know firsthand that getting enough protein to fuel an active lifestyle isn't always easy. I created {siteName} to solve that problem, sharing the absolute best high-protein vegetarian and vegan recipes I've crafted to hit my macros without sacrificing flavor.",
+    "title": "Code, Kraftsport und {span}",
+    "span": "Kochen",
+    "description": "Ich bin Softwareentwickler mit einer großen Leidenschaft für Fitness, Sport und Kochen. Als Vegetarier weiß ich aus eigener Erfahrung, dass es nicht immer leicht ist, genug Protein für einen aktiven Lebensstil zu sich zu nehmen. Ich habe {siteName} ins Leben gerufen, um genau dieses Problem zu lösen – mit den besten proteinreichen vegetarischen und veganen Rezepten, die ohne Verzicht auf Geschmack perfekt in deine Makros passen.",
     "story": {
-      "title": "The Story Behind {siteName}",
-      "p1": "My journey started in the gym. I was lifting heavy and trying to build muscle, but as a vegetarian, I was constantly struggling to hit my daily protein goals. Chicken and rice wasn't an option, and I was tired of relying on protein shakes. I needed real, delicious food that actually fueled my workouts.",
-      "p2": "I started experimenting in the kitchen, turning classic comfort foods into macro-friendly, high-protein meals. Friends at the gym started asking for my recipes, and I realized there was a huge gap for plant-based athletes.",
-      "p3": "But as a software developer, I was frustrated by the recipe sites out there. They were slow, bloated with ads, and forced you to scroll past a life story just to find the ingredients. I wanted a lightning-fast, seamless platform focused entirely on what matters: the food.",
-      "expect": "So, I put my engineering skills to use and built the exact recipe site I wanted to use. Here's what you can expect from {siteName}:",
-      "list1": "High-protein vegetarian & vegan meals that actually taste good",
-      "list2": "Lightning-fast, modern user experience",
-      "list3": "Clear, macro-friendly recipes without the fluff",
-      "list4": "All recipes are personally tested by me in my own kitchen"
+      "title": "Die Geschichte hinter {siteName}",
+      "p1": "Meine Reise begann im Fitnessstudio. Ich trainierte hart und wollte Muskeln aufbauen, doch als Vegetarier fiel es mir schwer, meinen täglichen Proteinbedarf zu decken. Hähnchen mit Reis war keine Option, und Protein-Shakes hingen mir zum Hals heraus. Ich brauchte echtes, leckeres Essen, das mein Training optimal unterstützt.",
+      "p2": "Also fing ich an, in der Küche zu experimentieren und klassische Lieblingsgerichte in makrofreundliche, proteinreiche Mahlzeiten zu verwandeln. Freunde im Gym fragten bald nach meinen Rezepten – und mir wurde klar, wie groß der Bedarf für pflanzliche Fitnessernährung wirklich ist.",
+      "p3": "Als Entwickler haben mich die meisten Rezept-Websites jedoch genervt: Sie waren langsam, überladen mit Werbung und zwangen einen dazu, Romane zu lesen, bevor man die Zutatenliste fand. Ich wollte eine blitzschnelle, moderne Plattform schaffen, die sich voll und ganz auf das Wesentliche konzentriert: das Essen.",
+      "expect": "Also nutzte ich meine Fähigkeiten als Entwickler und baute genau die Rezept-Website, die ich selbst gerne nutzen wollte. Das erwartet dich auf {siteName}:",
+      "list1": "Proteinreiche vegetarische & vegane Mahlzeiten, die wirklich schmecken",
+      "list2": "Ein modernes, blitzschnelles Nutzungserlebnis",
+      "list3": "Klare, makrooptimierte Rezepte ohne überflüssigen Schnickschnack",
+      "list4": "Alle Rezepte von mir persönlich in der eigenen Küche getestet"
     },
     "cta": {
-      "title": "Ready to start cooking?",
-      "description": "Dive into the latest collection of recipes from {siteName} and find your next favorite meal.",
-      "button": "Browse All Recipes"
+      "title": "Bereit loszukochen?",
+      "description": "Tauche ein in die neuesten Rezepte auf {siteName} und finde dein nächstes Lieblingsgericht.",
+      "button": "Alle Rezepte entdecken"
     }
   },
   "recipes": {
-    "latest": "Latest Recipes",
-    "trending": "Trending This Week",
-    "ninjaCreami": "Ninja Creami Creations",
-    "airFryer": "Air Fryer Recipes",
-    "15minutemeals": "15 Minute Meals",
-    "collections": "Recipe Collections",
-    "all": "Browse All Recipes",
-    "getRecipe": "Get Recipe",
-    "jump": "Jump to Recipe",
-    "protein": "Protein",
-    "carbs": "Carbs",
-    "fat": "Fat",
+    "latest": "Neueste Rezepte",
+    "trending": "Beliebt diese Woche",
+    "ninjaCreami": "Ninja Creami Kreationen",
+    "airFryer": "Airfryer Rezepte",
+    "15minutemeals": "15-Minuten-Gerichte",
+    "collections": "Rezept-Sammlungen",
+    "all": "Alle Rezepte entdecken",
+    "getRecipe": "Zum Rezept",
+    "jump": "Direkt zum Rezept",
+    "protein": "Eiweiß",
+    "carbs": "Kohlenhydrate",
+    "fat": "Fett",
     "kcal": "Kcal",
-    "more": "Craving more? Check out other",
-    "whyWorks": "Why this {title} recipe works",
-    "featuredIn": "Featured In",
-    "flavourProfile": "Flavour profile",
-    "variations": "Variations and combinations of ingredients",
-    "howToServe": "How to serve",
-    "youMightLike": "You Might Also Like",
-    "tips": "Tips",
-    "muscleTips": "Muscle building tips",
-    "servingSuggestions": "Serving Suggestions and Pairings",
-    "howToMake": "How to make {title}",
-    "storage": "Storage and Freezing for {title}",
-    "faq": "Frequently Asked Questions",
-    "loading": "Loading Recipe...",
-    "similar": "You might also like these similar recipes",
-    "mins": "{count} MINS",
+    "more": "Lust auf mehr? Entdecke weitere",
+    "whyWorks": "Warum dieses {title}-Rezept funktioniert",
+    "featuredIn": "Enthalten in",
+    "flavourProfile": "Geschmacksprofil",
+    "variations": "Variationen & Kombinationen",
+    "howToServe": "Serviervorschläge",
+    "youMightLike": "Das könnte dir auch gefallen",
+    "tips": "Tipps",
+    "muscleTips": "Tipps für den Muskelaufbau",
+    "servingSuggestions": "Serviervorschläge & Beilagen",
+    "howToMake": "Zubereitung von {title}",
+    "storage": "Aufbewahrung & Einfrieren für {title}",
+    "faq": "Häufig gestellte Fragen",
+    "loading": "Rezept wird geladen...",
+    "similar": "Ähnliche Rezepte, die dir gefallen könnten",
+    "mins": "{count} MIN.",
     "kcalCount": "{count} KCAL",
-    "ingredientsFor": "Ingredients for {title}",
-    "servings": "Servings"
+    "ingredientsFor": "Zutaten für {title}",
+    "servings": "Portionen"
   },
   "categories": {
-    "allrecipes": "All Recipes",
-    "dinner": "Dinner",
+    "allrecipes": "Alle Rezepte",
+    "dinner": "Abendessen",
     "snacks": "Snacks",
     "dessert": "Dessert",
-    "airfryer": "Air Fryer",
-    "15minutemeals": "15 Minute Meals",
+    "airfryer": "Airfryer",
+    "15minutemeals": "15-Minuten-Gerichte",
     "ninjacreami": "Ninja Creami"
   },
   "tags": {
-    "high-protein": "High Protein",
-    "vegan": "Vegan",
-    "quick-meals": "Quick Meals",
-    "snack": "Snack",
-    "keto": "Keto",
-    "easy": "Easy",
-    "indian": "Indian",
-    "korean": "Korean",
-    "thai": "Thai",
-    "gluten-free": "Gluten Free",
+    "air-fryer": "Heißluftfritteuse",
+    "argentinian": "Argentinisch",
+    "asian": "Asiatisch",
+    "baking": "Backen",
+    "comfort-food": "Soulfood",
+    "condiment": "Würzmittel",
+    "crispy": "Knusprig",
+    "curry": "Curry",
+    "dessert": "Dessert",
+    "dip": "Dip",
+    "easy": "Einfach",
     "fusion": "Fusion",
-    "mediterranean": "Mediterranean",
-    "sauce": "Sauce",
-    "mexican": "Mexican",
-    "italian": "Italian",
-    "microwave": "Microwave",
-    "baking": "Baking",
-    "low-calorie": "Low Calorie",
-    "healthy-side": "Healthy Side",
+    "gluten-free": "Glutenfrei",
+    "healthy": "Gesund",
+    "healthy-baking": "Gesundes Backen",
+    "healthy-breakfast": "Gesundes Frühstück",
+    "healthy-ice-cream": "Gesundes Eis",
+    "healthy-side": "Gesunde Beilage",
+    "high-fiber": "Ballaststoffreich",
+    "high-protein": "High Protein",
+    "indian": "Indisch",
+    "italian": "Italienisch",
+    "japanese": "Japanisch",
+    "keto": "Keto",
+    "korean": "Koreanisch",
+    "low-calorie": "Kalorienarm",
+    "meal-prep": "Meal Prep",
+    "mediterranean": "Mediterran",
+    "mexican": "Mexikanisch",
+    "microwave": "Mikrowelle",
+    "mushrooms": "Pilze",
+    "ninja-creami": "Ninja Creami",
+    "no-bake": "Ohne Backen",
+    "noodles": "Nudeln",
+    "one-pan": "One-Pot",
     "pasta": "Pasta",
-    "one-pan": "One Pan",
-    "air-fryer": "Air Fryer",
-    "soup": "Soup"
+    "peanut-butter": "Erdnussbutter",
+    "pizza": "Pizza",
+    "quick-meals": "Schnelle Gerichte",
+    "raw": "Rohkost",
+    "rice": "Reis",
+    "sauce": "Sauce",
+    "sauces": "Saucen",
+    "side-dish": "Beilage",
+    "snack": "Snack",
+    "soup": "Suppe",
+    "spicy": "Scharf",
+    "stir-fry": "Pfannengericht",
+    "sweet": "Süß",
+    "thai": "Thailändisch",
+    "tofu": "Tofu",
+    "vegan": "Vegan",
+    "vegetarian": "Vegetarisch"
   },
   "categorySlugs": {
     "allrecipes": "all-recipes",
@@ -127,160 +157,160 @@
     "ninjacreami": "ninja-creami"
   },
   "footer": {
-    "description": "Quick, high-protein vegetarian and vegan meals for people who love to eat but hate to wait.",
+    "description": "Schnelle, proteinreiche vegetarische und vegane Mahlzeiten für alle, die gerne essen, aber nicht gerne warten.",
     "sections": {
-      "recipes": "Recipes",
-      "company": "Company",
-      "legal": "Legal"
+      "recipes": "Rezepte",
+      "company": "Unternehmen",
+      "legal": "Rechtliches"
     },
     "links": {
-      "aboutMe": "About Me",
-      "contact": "Contact",
-      "privacy": "Privacy Policy",
-      "terms": "Terms of Service"
+      "aboutMe": "Über mich",
+      "contact": "Kontakt",
+      "privacy": "Datenschutzerklärung",
+      "terms": "Nutzungsbedingungen"
     },
-    "rights": "All rights reserved."
+    "rights": "Alle Rechte vorbehalten."
   },
   "seo": {
     "home": {
-      "title": "Build Muscle, Not Dishes | High-Protein Vegetarian and Vegan Recipes",
-      "description": "Quick, high-protein vegetarian and vegan meals for people who love to eat but hate to wait.",
-      "ogTitle": "Build Muscle, Not Dishes | Plant-Based Fitness Recipes",
-      "ogDescription": "Stop washing dishes and start hitting your macros with our 5-minute vegan recipes."
+      "title": "Muskeln aufbauen, nicht abwaschen | Proteinreiche vegetarische & vegane Rezepte",
+      "description": "Schnelle, proteinreiche vegetarische und vegane Mahlzeiten für alle, die gerne essen, aber nicht gerne warten.",
+      "ogTitle": "Muskeln aufbauen, nicht abwaschen | Pflanzliche Fitnessrezepte",
+      "ogDescription": "Schluss mit endlosem Abwasch – erreiche deine Makros mit schnellen pflanzlichen Rezepten."
     },
     "about": {
-      "title": "About {siteName} - My Story & Mission",
-      "description": "Learn more about the passion behind {siteName} and how we create our recipes."
+      "title": "Über {siteName} - Meine Geschichte & Mission",
+      "description": "Erfahre mehr über die Leidenschaft hinter {siteName} und wie unsere Rezepte entstehen."
     },
     "contact": {
-      "title": "Contact Us - {siteName}",
-      "description": "Have a question or a recipe suggestion? Reach out to the {siteName} team."
+      "title": "Kontakt - {siteName}",
+      "description": "Hast du eine Frage oder einen Rezeptvorschlag? Kontaktiere das {siteName}-Team."
     },
     "privacy": {
-      "title": "Privacy Policy - {siteName}",
-      "description": "Privacy Policy for {siteName}"
+      "title": "Datenschutzerklärung - {siteName}",
+      "description": "Datenschutzerklärung für {siteName}"
     },
     "terms": {
-      "title": "Terms of Service - {siteName}",
-      "description": "Terms of Service for {siteName}"
+      "title": "Nutzungsbedingungen - {siteName}",
+      "description": "Nutzungsbedingungen für {siteName}"
     }
   },
   "privacyPolicy": {
-    "title": "Privacy Policy",
-    "lastUpdated": "Last Updated:",
-    "intro1": "At {siteName}, accessible from your-domain.com, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by {siteName} and how we use it.",
+    "title": "Datenschutzerklärung",
+    "lastUpdated": "Zuletzt aktualisiert:",
+    "intro1": "Auf {siteName}, erreichbar über your-domain.com, ist der Schutz der Privatsphäre unserer Besucher eines unserer wichtigsten Anliegen. Diese Datenschutzerklärung beschreibt die Arten von Informationen, die von {siteName} gesammelt und protokolliert werden, sowie deren Verwendung.",
     "s1": {
-      "title": "1. Log Files",
-      "p": "{siteName} follows a standard procedure of using log files. These files log visitors when they visit websites. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks."
+      "title": "1. Protokolldateien",
+      "p": "{siteName} folgt dem Standardverfahren zur Verwendung von Server-Protokolldateien. Diese Dateien protokollieren Besucher, wenn sie Websites aufrufen. Zu den erfassten Daten gehören IP-Adressen, Browsertyp, Internetanbieter (ISP), Datums- und Zeitstempel, Verweis-/Ausstiegsseiten und gegebenenfalls die Anzahl der Klicks."
     },
     "s2": {
-      "title": "2. Google DoubleClick DART Cookie",
-      "p": "Google is one of a third-party vendor on our site. It also uses cookies, known as DART cookies, to serve ads to our site visitors based upon their visit to our site and other sites on the internet. However, visitors may choose to decline the use of DART cookies by visiting the Google ad and content network Privacy Policy at the following URL:"
+      "title": "2. Google DoubleClick DART-Cookie",
+      "p": "Google ist ein Drittanbieter auf unserer Website. Google verwendet Cookies (DART-Cookies), um Besuchern basierend auf deren Besuch auf unserer und anderen Websites im Internet Werbung anzuzeigen. Besucher können die Verwendung von DART-Cookies ablehnen, indem sie die Datenschutzerklärung des Google-Werbenetzwerks aufrufen."
     },
     "s3": {
-      "title": "3. Our Advertising Partners",
-      "p": "Some of advertisers on our site may use cookies and web beacons. Our advertising partners include:"
+      "title": "3. Unsere Werbepartner",
+      "p": "Einige Werbepartner auf unserer Website können Cookies und Web Beacons verwenden. Zu unseren Werbepartnern gehört unter anderem Google."
     },
     "s4": {
-      "title": "4. Privacy Policies",
-      "p": "Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on {siteName}, which are sent directly to users' browser. They automatically receive your IP address when this occurs."
+      "title": "4. Datenschutzrichtlinien Dritter",
+      "p": "Werbeserver oder Werbenetzwerke von Drittanbietern verwenden Technologien wie Cookies, JavaScript oder Web Beacons in ihren jeweiligen Anzeigen und Links auf {siteName}. Diese werden direkt an den Browser der Nutzer übermittelt, wobei automatisch die IP-Adresse übertragen wird."
     },
     "s5": {
-      "title": "5. Third Party Privacy Policies",
-      "p": "{siteName}'s Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information."
+      "title": "5. Geltungsbereich",
+      "p": "Die Datenschutzerklärung von {siteName} gilt nicht für andere Werbetreibende oder Websites. Wir empfehlen Ihnen daher, die jeweiligen Datenschutzerklärungen dieser Drittanbieter zu konsultieren."
     },
     "s6": {
-      "title": "6. Consent",
-      "p": "By using our website, you hereby consent to our Privacy Policy and agree to its Terms and Conditions."
+      "title": "6. Einwilligung",
+      "p": "Durch die Nutzung unserer Website erklären Sie sich mit unserer Datenschutzerklärung einverstanden und stimmen deren Bedingungen zu."
     },
     "questions": {
-      "title": "Questions?",
-      "p": "If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us through our contact page."
+      "title": "Fragen?",
+      "p": "Wenn Sie weitere Fragen haben oder zusätzliche Informationen zu unserer Datenschutzerklärung benötigen, zögern Sie nicht, uns über unsere Kontaktseite zu kontaktieren."
     }
   },
   "termsOfService": {
-    "title": "Terms of Service",
-    "welcome": "Welcome to {siteName}.",
-    "p1": "By accessing this website, we assume you accept these terms and conditions. Do not continue to use {siteName} if you do not agree to take all of the terms and conditions stated on this page.",
+    "title": "Nutzungsbedingungen",
+    "welcome": "Willkommen bei {siteName}.",
+    "p1": "Durch den Zugriff auf diese Website gehen wir davon aus, dass Sie diese Bedingungen akzeptieren. Nutzen Sie {siteName} nicht weiter, wenn Sie nicht mit allen auf dieser Seite aufgeführten Bedingungen einverstanden sind.",
     "s1": {
-      "title": "1. Recipe & Health Disclaimer",
-      "notice": "Important Safety Notice:",
-      "p": "All content on {siteName} is provided for informational purposes only. We are not nutritionists or medical professionals. You are responsible for your own safety in the kitchen. We are not liable for any adverse reactions to food (allergies), injuries sustained during cooking, or errors in recipe outcomes. Use your best judgment when handling raw ingredients and kitchen equipment."
+      "title": "1. Haftungsausschluss für Rezepte & Gesundheit",
+      "notice": "Wichtiger Sicherheitshinweis:",
+      "p": "Alle Inhalte auf {siteName} dienen ausschließlich Informationszwecken. Wir sind keine Ernährungsberater oder Mediziner. Sie sind selbst für Ihre Sicherheit in der Küche verantwortlich. Wir haften nicht für Unverträglichkeiten (Allergien), Verletzungen beim Kochen oder unerwartete Rezeptresultate."
     },
     "s2": {
-      "title": "2. Intellectual Property Rights",
-      "p": "Unless otherwise stated, {siteName} and/or its licensors own the intellectual property rights for all material on this website. All intellectual property rights are reserved. You may access this from {siteName} for your own personal use subjected to restrictions set in these terms and conditions.",
-      "mustNot": "You must not:",
-      "li1": "Republish our recipes or photos without direct written credit and a backlink.",
-      "li2": "Sell, rent, or sub-license material from {siteName}.",
-      "li3": "Reproduce, duplicate, or copy material for commercial purposes."
+      "title": "2. Geistiges Eigentum",
+      "p": "Sofern nicht anders angegeben, besitzen {siteName} und/oder die Lizenzgeber die geistigen Eigentumsrechte für alle Materialien auf dieser Website. Alle Rechte sind vorbehalten. Sie dürfen diese für Ihren persönlichen Gebrauch nutzen, vorbehaltlich der in diesen Bedingungen festgelegten Einschränkungen.",
+      "mustNot": "Folgendes ist untersagt:",
+      "li1": "Unsere Rezepte oder Fotos ohne ausdrückliche schriftliche Nennung und Backlink weiterzuveröffentlichen.",
+      "li2": "Material von {siteName} zu verkaufen, zu vermieten oder unterzulizenzieren.",
+      "li3": "Inhalte für kommerzielle Zwecke zu vervielfältigen oder zu kopieren."
     },
     "s3": {
       "title": "3. Cookies",
-      "p": "We employ the use of cookies. By accessing {siteName}, you agreed to use cookies in agreement with our Privacy Policy. As noted in our policy, our advertising partners (such as Google AdSense) may also use cookies to track user behavior."
+      "p": "Wir setzen Cookies ein. Durch die Nutzung von {siteName} stimmen Sie der Verwendung von Cookies gemäß unserer Datenschutzerklärung zu."
     },
     "s4": {
-      "title": "4. User Comments",
-      "p": "Users may be allowed to post comments on recipes. {siteName} does not filter or edit comments prior to their presence on the website. Comments reflect the views of the person who posts them. We reserve the right to monitor and remove any comments that are deemed inappropriate or offensive."
+      "title": "4. Nutzerkommentare",
+      "p": "Nutzer haben möglicherweise die Möglichkeit, Kommentare zu hinterlassen. Kommentare spiegeln die Ansichten der jeweiligen Autoren wider. Wir behalten uns das Recht vor, unangemessene Kommentare zu prüfen und zu entfernen."
     },
     "s5": {
-      "title": "5. Governing Law",
-      "p": "These terms and conditions are governed by and construed in accordance with the laws of your jurisdiction, and you irrevocably submit to the exclusive jurisdiction of the courts in that State or location."
+      "title": "5. Anwendbares Recht",
+      "p": "Diese Bedingungen unterliegen den Gesetzen Ihres zuständigen Gerichtsstandes und werden in Übereinstimmung mit diesen ausgelegt."
     },
     "contact": {
-      "p": "If you have any questions regarding these Terms, please contact us via our ",
-      "link": "Contact Page"
+      "p": "Wenn Sie Fragen zu diesen Bedingungen haben, kontaktieren Sie uns bitte über unsere ",
+      "link": "Kontaktseite"
     }
   },
   "contact": {
-    "title": "Get in Touch",
-    "description": "Have a question about a recipe? Interested in a partnership? We'd love to hear from you.",
+    "title": "Kontakt aufnehmen",
+    "description": "Hast du eine Frage zu einem Rezept oder Interesse an einer Zusammenarbeit? Ich freue mich auf deine Nachricht.",
     "success": {
-      "title": "Message Sent!",
-      "description": "Thank you for reaching out. We'll get back to you as soon as possible.",
-      "button": "Send another message"
+      "title": "Nachricht gesendet!",
+      "description": "Vielen Dank für deine Nachricht. Wir melden uns so schnell wie möglich bei dir.",
+      "button": "Weitere Nachricht senden"
     },
     "form": {
       "name": "Name",
-      "namePlaceholder": "Your name",
-      "email": "Email",
-      "emailPlaceholder": "your{'@'}email.com",
-      "message": "Message",
-      "messagePlaceholder": "How can we help?",
-      "sending": "Sending...",
-      "send": "Send Message",
-      "error": "Something went wrong. Please try again."
+      "namePlaceholder": "Dein Name",
+      "email": "E-Mail",
+      "emailPlaceholder": "deine{'@'}email.de",
+      "message": "Nachricht",
+      "messagePlaceholder": "Wie können wir dir helfen?",
+      "sending": "Wird gesendet...",
+      "send": "Nachricht senden",
+      "error": "Etwas ist schiefgelaufen. Bitte versuche es erneut."
     }
   },
   "categoryPage": {
-    "allRecipesTitle": "All Recipes",
-    "allRecipesDesc": "Browse our complete collection of delicious, macro-friendly, and high-protein recipes designed to help you hit your fitness goals without sacrificing flavor.",
-    "categoryTitle": "{category} Recipes",
-    "categoryDesc": "Explore our delicious collection of {category} recipes. Perfect for hitting your protein goals while enjoying satisfying, guilt-free meals.",
-    "empty": "No recipes found."
+    "allRecipesTitle": "Alle Rezepte",
+    "allRecipesDesc": "Entdecke unsere vollständige Kollektion köstlicher, makrofreundlicher und proteinreicher Rezepte, mit denen du deine Fitnessziele erreichst, ohne auf Geschmack zu verzichten.",
+    "categoryTitle": "{category} Rezepte",
+    "categoryDesc": "Entdecke unsere leckeren Rezepte in der Kategorie {category}. Perfekt, um deinen Proteinbedarf genussvoll zu decken.",
+    "empty": "Keine Rezepte gefunden."
   },
   "cookieBanner": {
-    "title": "Cookie Policy",
-    "description": "We use cookies to enhance your \"{siteName}\" experience and analyze our traffic.",
-    "decline": "Decline",
-    "accept": "Accept all",
-    "appMessage": "We use cookies to see if our high-protein recipes are actually helping people gain muscle. Cool?",
-    "appAccept": "Accept & Cook",
-    "appDecline": "No thanks"
+    "title": "Cookie-Richtlinie",
+    "description": "Wir verwenden Cookies, um dein Erlebnis auf {siteName} zu verbessern und unseren Datenverkehr zu analysieren.",
+    "decline": "Ablehnen",
+    "accept": "Alle akzeptieren",
+    "appMessage": "Wir nutzen Cookies, um zu sehen, ob unsere proteinreichen Rezepte tatsächlich beim Muskelaufbau helfen. Einverstanden?",
+    "appAccept": "Akzeptieren & Kochen",
+    "appDecline": "Nein danke"
   },
   "error": {
-    "message": "An error occurred while processing your request.",
-    "back": "Back to Home",
-    "pageNotFound": "Page Not Found",
-    "unknown": "Unknown"
+    "message": "Bei der Bearbeitung Ihrer Anfrage ist ein Fehler aufgetreten.",
+    "back": "Zurück zur Startseite",
+    "pageNotFound": "Seite nicht gefunden",
+    "unknown": "Unbekannt"
   },
   "search": {
-    "placeholder": "Search protein, ingredients, or recipes...",
-    "noResults": "No recipes found for \"{query}\"",
-    "trySearching": "Try searching for \"Tofu\", \"Creami\", or \"Dinner\"",
-    "searching": "Searching...",
-    "poweredBy": "Powered by Nuxt Content",
-    "select": "Select",
+    "placeholder": "Protein, Zutaten oder Rezepte suchen...",
+    "noResults": "Keine Rezepte für „{query}“ gefunden",
+    "trySearching": "Versuche es mit „Tofu“, „Creami“ oder „Abendessen“",
+    "searching": "Suche läuft...",
+    "poweredBy": "Bereitgestellt von Nuxt Content",
+    "select": "Auswählen",
     "shortcut": "ESC"
   }
 }

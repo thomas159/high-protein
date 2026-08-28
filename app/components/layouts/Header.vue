@@ -13,9 +13,22 @@ const isDark = computed({
   }
 })
 
-const { locales, locale } = useI18n()
+const { locale } = useI18n()
 const switchLocalePath = useSwitchLocalePath()
 const localePath = useLocalePath()
+
+const isLangOpen = ref(false)
+const langDropdownRef = ref(null)
+
+onClickOutside(langDropdownRef, () => {
+  isLangOpen.value = false
+})
+
+const languageOptions = [
+  { code: 'en', name: 'English', short: 'EN', flag: '🇬🇧' },
+  { code: 'es', name: 'Español', short: 'ES', flag: '🇪🇸' },
+  { code: 'de', name: 'Deutsch', short: 'DE', flag: '🇩🇪' }
+]
 
 // Modernized search state
 const isSearchOpen = ref(false)
@@ -32,7 +45,6 @@ watch([cmdK, ctrlK], (v) => {
 const toggleTheme = () => {
   isDark.value = !isDark.value
 }
-
 </script>
 
 <template>
@@ -85,15 +97,44 @@ const toggleTheme = () => {
               <span class="hidden lg:block ml-2 text-[10px] font-bold text-slate-500 uppercase">Search</span>
             </button>
 
-            <NuxtLink
-              :to="switchLocalePath(locale === 'en' ? 'es' : 'en')"
-              class="p-2 rounded-lg bg-muted hover:bg-accent text-muted-foreground transition-all flex items-center justify-center border border-border cursor-pointer group"
-              :aria-label="`Switch to ${locale === 'en' ? 'Español' : 'English'}`"
-            >
-              <span class="text-[10px] font-extrabold uppercase group-hover:text-emerald-500 transition-colors w-5 h-5 flex items-center justify-center">
-                {{ locale === 'en' ? 'es' : 'en' }}
-              </span>
-            </NuxtLink>
+            <!-- Multi-Language Dropdown -->
+            <div ref="langDropdownRef" class="relative">
+              <button
+                class="p-2 rounded-lg bg-muted hover:bg-accent text-muted-foreground hover:text-foreground transition-all flex items-center gap-1 border border-border cursor-pointer group"
+                aria-label="Select language"
+                :aria-expanded="isLangOpen"
+                @click="isLangOpen = !isLangOpen"
+              >
+                <span class="text-[11px] font-extrabold uppercase group-hover:text-emerald-500 transition-colors">
+                  {{ locale }}
+                </span>
+                <svg class="w-3 h-3 transition-transform duration-200" :class="{ 'rotate-180': isLangOpen }" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M19 9l-7 7-7-7" />
+                </svg>
+              </button>
+
+              <Transition name="fade">
+                <div 
+                  v-if="isLangOpen" 
+                  class="absolute right-0 mt-2 w-36 bg-card border border-border rounded-xl shadow-xl py-1.5 z-50 overflow-hidden"
+                >
+                  <NuxtLink
+                    v-for="l in languageOptions"
+                    :key="l.code"
+                    :to="switchLocalePath(l.code)"
+                    class="flex items-center justify-between px-3 py-2 text-xs font-semibold hover:bg-muted/80 transition-colors"
+                    :class="locale === l.code ? 'text-emerald-500 font-bold bg-emerald-500/10' : 'text-foreground'"
+                    @click="isLangOpen = false"
+                  >
+                    <div class="flex items-center gap-2">
+                      <span>{{ l.flag }}</span>
+                      <span>{{ l.name }}</span>
+                    </div>
+                    <span class="text-[10px] font-mono uppercase opacity-60">{{ l.short }}</span>
+                  </NuxtLink>
+                </div>
+              </Transition>
+            </div>
 
             <button 
               class="p-2 rounded-lg bg-muted hover:bg-accent text-muted-foreground transition-all flex items-center justify-center border border-border cursor-pointer"
@@ -149,14 +190,32 @@ const toggleTheme = () => {
               <Icon name="ph:house-duotone" class="w-6 h-6 text-emerald-500" />
               {{ $t('nav.home') }}
             </NuxtLink>
-             <NuxtLink to="/about" class="flex items-center gap-3 text-lg font-bold" @click="isMenuOpen = false">
+            <NuxtLink :to="localePath('/about')" class="flex items-center gap-3 text-lg font-bold" @click="isMenuOpen = false">
               <Icon name="ph:user-duotone" class="w-6 h-6 text-emerald-500" />
               {{ $t('nav.about') }}
             </NuxtLink>
           </div>
 
+          <!-- Language Selector for Mobile -->
+          <div class="flex flex-col gap-3 pt-6 border-t border-border">
+            <span class="text-xs font-extrabold uppercase tracking-wider text-muted-foreground">Language / Sprache / Idioma</span>
+            <div class="grid grid-cols-3 gap-2">
+              <NuxtLink
+                v-for="l in languageOptions"
+                :key="l.code"
+                :to="switchLocalePath(l.code)"
+                class="flex items-center justify-center gap-1.5 py-2.5 px-2 rounded-xl border text-xs font-bold transition-all"
+                :class="locale === l.code ? 'bg-emerald-500 text-white border-emerald-500 shadow-sm' : 'bg-muted/60 text-muted-foreground hover:text-foreground border-border'"
+                @click="isMenuOpen = false"
+              >
+                <span>{{ l.flag }}</span>
+                <span>{{ l.short }}</span>
+              </NuxtLink>
+            </div>
+          </div>
+
           <!-- Social/Brand Presence -->
-          <div class="mt-auto pt-10 flex flex-col items-center gap-4">
+          <div class="mt-auto pt-6 flex flex-col items-center gap-4">
             <a href="https://pinterest.com/hotRecipesUk" target="_blank" class="flex items-center gap-2 px-6 py-3 bg-red-600/10 text-red-600 rounded-full font-bold text-sm border border-red-600/20 hover:bg-red-600 hover:text-white transition-all">
               <Icon name="ph:pinterest-logo-bold" class="w-5 h-5" />
               Follow on Pinterest

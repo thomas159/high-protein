@@ -8,10 +8,17 @@ import esLocales from "../../../i18n/locales/es.json";
 import deLocales from "../../../i18n/locales/de.json";
 
 const route = useRoute();
-const { t, locale } = useI18n();
+const { t, te, locale } = useI18n();
 const localePath = useLocalePath();
 const router = useRouter();
 const setI18nParams = useSetI18nParams();
+
+const formatTag = (tag: string) => {
+  if (te("tags." + tag)) {
+    return t("tags." + tag);
+  }
+  return tag.replace(/-/g, " ").replace(/\b\w/g, (c) => c.toUpperCase());
+};
 
 const categorySlug = computed(() => route.params.slug as string);
 
@@ -83,12 +90,13 @@ const resolvedDbSlug = computed(() => {
 const showFilters = ref(false);
 
 const getCategoryName = (key: string) => {
-  if (!key) return "";
-  const translated = t(`categories.${key}`);
-  if (translated === `categories.${key}`) {
-    return key.replace(/-/g, " ");
+  const staticKey = getStaticValue(key);
+  if (locale.value === "es") {
+    return (esLocales.categories as Record<string, string>)[staticKey] || staticKey;
+  } else if (locale.value === "de") {
+    return (deLocales.categories as Record<string, string>)[staticKey] || staticKey;
   }
-  return translated;
+  return (enLocales.categories as Record<string, string>)[staticKey] || staticKey;
 };
 
 const categoryName = computed(() => getCategoryName(categoryKey.value));
@@ -175,7 +183,7 @@ const availableTags = computed(() => {
         }
 
         tagStr = tagStr.trim().toLowerCase();
-        if (tagStr && tagStr !== "[object object]") {
+        if (tagStr && tagStr !== "[object object]" && tagStr !== "vegetarian") {
           tags.add(tagStr);
         }
       });
@@ -193,7 +201,7 @@ const getTagsFromQuery = () => {
 const selectedTags = ref<string[]>(getTagsFromQuery());
 
 // 4. Toggle tag selection and update the URL silently
-const updateUrl = () => {
+const updateQuery = () => {
   router.replace({
     query: {
       ...route.query,
@@ -210,15 +218,16 @@ const toggleTag = (tag: string) => {
   } else {
     selectedTags.value.push(tag);
   }
-  updateUrl();
+  updateQuery();
 };
 
-const clearFilters = () => {
+const clearTags = () => {
   selectedTags.value = [];
-  updateUrl();
+  updateQuery();
 };
+const clearFilters = clearTags;
 
-// Listen for browser back/forward buttons to sync URL state back to the UI
+// Sync tags if query parameter changes externally
 watch(
   () => route.query.tags,
   () => {
@@ -239,46 +248,55 @@ const filteredRecipes = computed(() => {
         let tagStr = "";
         if (typeof rawTag === "string") {
           tagStr = rawTag;
-        } else if (typeof rawTag === "object" && rawTag) {
+        } else if (typeof rawTag === "object") {
           tagStr = rawTag.value || rawTag.static || rawTag.s || "";
         } else {
           tagStr = String(rawTag || "");
         }
         return tagStr.trim().toLowerCase();
       })
-      .filter((t) => t && t !== "[object object]");
+      .filter(Boolean);
 
-    // AND logic: recipe must have every selected tag
     return selectedTags.value.every((tag) => lowerRecipeTags.includes(tag));
   });
 });
 </script>
 
 <template>
-  <div class="-mx-5 px-[1px] md:mx-0 md:px-0">
-    <div class="text-center mb-6 md:px-0 px-4">
+  <div class="space-y-6">
+    <!-- Category Header -->
+    <div
+      class="bg-gradient-to-br from-card/80 to-card/40 border border-border/60 rounded-3xl p-6 md:p-8 backdrop-blur-sm relative overflow-hidden"
+    >
       <div
-        v-if="recipes?.length"
-        class="inline-flex items-center gap-2 bg-emerald-500/10 text-emerald-500 px-3 py-1 rounded-full text-[10px] font-bold uppercase tracking-widest mb-4 border border-emerald-500/20"
-      >
-        <span class="relative flex h-2 w-2">
-          <span
-            class="animate-ping absolute inline-flex h-full w-full rounded-full bg-emerald-400 opacity-75"
-          />
-          <span
-            class="relative inline-flex rounded-full h-2 w-2 bg-emerald-500"
-          />
+        class="absolute -right-10 -bottom-10 w-48 h-48 bg-primary/5 rounded-full blur-3xl pointer-events-none"
+      />
+      <div class="flex items-center gap-2 mb-2">
+        <span class="text-xs font-bold tracking-widest uppercase text-primary">
+          Category
         </span>
-        {{ recipes.length }} {{ t("recipes.latest") }}
       </div>
 
-      <h1
-        class="text-5xl md:text-7xl font-black uppercase tracking-tighter italic text-foreground mb-6"
-      >
-        {{ titleText }}
-      </h1>
+      <div class="flex flex-col md:flex-row md:items-end justify-between gap-4">
+        <div>
+          <h1
+            class="text-3xl md:text-5xl font-black text-foreground tracking-tight capitalize"
+          >
+            {{ categoryName }}
+          </h1>
+          <p
+            v-if="recipes"
+            class="text-xs font-semibold text-muted-foreground mt-1"
+          >
+            {{ recipes.length }}
+            {{ recipes.length === 1 ? "recipe" : "recipes" }} available
+          </p>
+        </div>
+      </div>
+
       <p
-        class="text-muted-foreground text-lg max-w-2xl mx-auto leading-relaxed mb-8"
+        v-if="descText"
+        class="text-sm md:text-base text-muted-foreground/90 max-w-2xl mt-4 leading-relaxed font-medium"
       >
         {{ descText }}
       </p>
@@ -299,7 +317,7 @@ const filteredRecipes = computed(() => {
           ]"
           @click="toggleTag(tag)"
         >
-          {{ t("tags." + tag) }}
+          {{ formatTag(tag) }}
         </button>
       </div>
     </div>

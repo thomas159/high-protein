@@ -21,7 +21,7 @@ alt: Fresh and vibrant green chimichurri sauce in a small bowl
 tags:
 - keto
 - vegan
-- cuisine: Argentinian
+- argentinian
 keywords:
 - 5-minute
 - argentinian

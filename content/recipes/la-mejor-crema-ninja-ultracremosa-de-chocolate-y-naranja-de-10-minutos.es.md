@@ -5,7 +5,7 @@ categories:
 title: La mejor crema ninja ultracremosa de chocolate y naranja de 10 minutos
 slug: la-mejor-crema-ninja-ultracremosa-de-chocolate-y-naranja-de-10-minutos
 meta:
-  seoMetaDescription: Disfruta de una combinación perfecta: helado de chocolate y naranja súper cremoso hecho con tu Ninja Creami en 10 minutos de preparación. Riquísimo y con un aporte proteico espectacular.
+  seoMetaDescription: "Disfruta de una combinación perfecta: helado de chocolate y naranja súper cremoso hecho con tu Ninja Creami en 10 minutos de preparación. Riquísimo y con un aporte proteico espectacular."
 description: |
   Todo el sabor intenso de un postre de chocolate y naranja con una excelente dosis de proteínas para tu día a día. La Ninja Creami procesa esta combinación de ingredientes ligeros hasta transformarla en un helado de ensueño ultra cremoso.
 
