@@ -173,32 +173,32 @@
   },
   "seo": {
     "home": {
-      "title": "Crea músculo, no platos | Recetas vegetarianas y veganas ricas en proteínas",
+      "title": "Recetas vegetarianas y veganas ricas en proteínas",
       "description": "Comidas vegetarianas y veganas rápidas y ricas en proteínas para personas que aman comer pero odian esperar.",
       "ogTitle": "Crea músculo, no platos | Recetas fitness a base de plantas",
       "ogDescription": "Deja de lavar platos y comienza a alcanzar tus macros con nuestras recetas veganas de 5 minutos."
     },
     "about": {
-      "title": "Acerca de {siteName} - Mi historia y misión",
+      "title": "Acerca de nosotros - Mi historia y misión",
       "description": "Obtén más información sobre la pasión detrás de {siteName} y cómo creamos nuestras recetas."
     },
     "contact": {
-      "title": "Contáctanos - {siteName}",
+      "title": "Contáctanos",
       "description": "¿Tienes alguna pregunta o sugerencia de receta? Comunícate con el equipo de {siteName}."
     },
     "privacy": {
-      "title": "Política de Privacidad - {siteName}",
+      "title": "Política de Privacidad",
       "description": "Política de Privacidad de {siteName}"
     },
     "terms": {
-      "title": "Términos de Servicio - {siteName}",
+      "title": "Términos de Servicio",
       "description": "Términos de Servicio de {siteName}"
     }
   },
   "privacyPolicy": {
     "title": "Política de Privacidad",
     "lastUpdated": "Última actualización:",
-    "intro1": "En {siteName}, accesible desde your-domain.com, una de nuestras principales prioridades es la privacidad de nuestros visitantes. Este documento de Política de Privacidad describe los tipos de información que es recopilada y registrada por {siteName} y cómo la utilizamos.",
+    "intro1": "En {siteName}, accesible desde hotrecipes.co.uk, una de nuestras principales prioridades es la privacidad de nuestros visitantes. Este documento de Política de Privacidad describe los tipos de información que es recopilada y registrada por {siteName} y cómo la utilizamos.",
     "s1": {
       "title": "1. Archivos de registro",
       "p": "{siteName} sigue un procedimiento estándar para el uso de archivos de registro. Estos archivos registran a los visitantes cuando entran a sitios web. La información que recopilan incluye direcciones de protocolo de Internet (IP), tipo de navegador, Proveedor de Servicios de Internet (ISP), marca de fecha y hora, páginas de referencia/salida y, posiblemente, el número de clics."

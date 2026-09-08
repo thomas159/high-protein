@@ -173,32 +173,32 @@
   },
   "seo": {
     "home": {
-      "title": "Build Muscle, Not Dishes | High-Protein Vegetarian and Vegan Recipes",
+      "title": "High-Protein Vegetarian and Vegan Recipes",
       "description": "Quick, high-protein vegetarian and vegan meals for people who love to eat but hate to wait.",
       "ogTitle": "Build Muscle, Not Dishes | Plant-Based Fitness Recipes",
       "ogDescription": "Stop washing dishes and start hitting your macros with our 5-minute vegan recipes."
     },
     "about": {
-      "title": "About {siteName} - My Story & Mission",
+      "title": "About Us - My Story & Mission",
       "description": "Learn more about the passion behind {siteName} and how we create our recipes."
     },
     "contact": {
-      "title": "Contact Us - {siteName}",
+      "title": "Contact Us",
       "description": "Have a question or a recipe suggestion? Reach out to the {siteName} team."
     },
     "privacy": {
-      "title": "Privacy Policy - {siteName}",
+      "title": "Privacy Policy",
       "description": "Privacy Policy for {siteName}"
     },
     "terms": {
-      "title": "Terms of Service - {siteName}",
+      "title": "Terms of Service",
       "description": "Terms of Service for {siteName}"
     }
   },
   "privacyPolicy": {
     "title": "Privacy Policy",
     "lastUpdated": "Last Updated:",
-    "intro1": "At {siteName}, accessible from your-domain.com, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by {siteName} and how we use it.",
+    "intro1": "At {siteName}, accessible from hotrecipes.co.uk, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by {siteName} and how we use it.",
     "s1": {
       "title": "1. Log Files",
       "p": "{siteName} follows a standard procedure of using log files. These files log visitors when they visit websites. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks."

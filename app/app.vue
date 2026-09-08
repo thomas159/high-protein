@@ -21,7 +21,7 @@ const head = useLocaleHead({
 /**
  * HEAD & SCRIPTS
  */
-useHead({
+useHead(() => ({
   titleTemplate: (title) => title ? `${title} | ${siteName}` : siteName,
   htmlAttrs: {
     lang: head.value.htmlAttrs?.lang,
@@ -29,7 +29,7 @@ useHead({
   },
   meta: [
     { name: 'p:domain_verify', content: 'e4bd68dbe0b0482e0504097aa8617742' },
-    { name: 'description', content: () => t('seo.home.description') },
+    { name: 'description', content: t('seo.home.description') },
     { name: 'google-adsense-account', content: 'ca-pub-9057939602568225' },
     ...(head.value.meta || [])
   ],
@@ -40,13 +40,13 @@ useHead({
   ],
 
   script: [
-    { src: 'https://cmp.gatekeeperconsent.com/min.js', 'data-cfasync': 'false' },
-    { src: 'https://the.gatekeeperconsent.com/cmp.min.js', 'data-cfasync': 'false' },
-    { src: '//www.ezojs.com/ezoic/sa.min.js', async: true },
+    { src: 'https://cmp.gatekeeperconsent.com/min.js', 'data-cfasync': 'false', defer: true },
+    { src: 'https://the.gatekeeperconsent.com/cmp.min.js', 'data-cfasync': 'false', defer: true },
+    { src: 'https://www.ezojs.com/ezoic/sa.min.js', async: true, defer: true },
     { innerHTML: 'window.ezstandalone = window.ezstandalone || {};\n    ezstandalone.cmd = ezstandalone.cmd || [];' },
-    { src: '//ezoicanalytics.com/analytics.js' }
+    { src: 'https://ezoicanalytics.com/analytics.js', async: true, defer: true }
   ]
-})
+}))
 
 /**
  * SEO & SOCIAL MEDIA

@@ -30,8 +30,8 @@ const backLink = computed(() => {
   const path = previousPath.value
   const categorySlugs = t('categorySlugs', { returnObjects: true })
 
-  // If coming from a specific category page
-  if (path && path.includes('/categories/') || (path && path.includes('/categorias/'))) {
+  // If coming from a specific category page (English, Spanish, or German)
+  if (path && (path.includes('/categories/') || path.includes('/categorias/') || path.includes('/kategorien/'))) {
     const slug = path.split('/').pop()
     const key = Object.keys(categorySlugs).find(k => categorySlugs[k] === slug)
     const matched = key ? RECIPE_CATEGORIES.find(c => c.key === key) : null
@@ -61,14 +61,15 @@ const backLink = computed(() => {
 })
 
 const recipeName = computed(() => props.recipe?.title || 'Recipe')
+const toAbsoluteUrl = (pathStr: string) => `https://www.hotrecipes.co.uk${pathStr.startsWith('/') ? pathStr : `/${pathStr}`}`
 
 useSchemaOrg([
   defineBreadcrumb({
-    itemListElement: [
-      { name: t('nav.home'), item: localePath('/') },
-      { name: backLink.value.label, item: backLink.value.to },
+    itemListElement: computed(() => [
+      { name: t('nav.home'), item: toAbsoluteUrl(localePath('/')) },
+      { name: backLink.value.label, item: toAbsoluteUrl(backLink.value.to) },
       { name: recipeName.value }
-    ]
+    ])
   })
 ])
 </script>

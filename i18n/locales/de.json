@@ -173,32 +173,32 @@
   },
   "seo": {
     "home": {
-      "title": "Muskeln aufbauen, nicht abwaschen | Proteinreiche vegetarische & vegane Rezepte",
+      "title": "Proteinreiche vegetarische und vegane Rezepte",
       "description": "Schnelle, proteinreiche vegetarische und vegane Mahlzeiten für alle, die gerne essen, aber nicht gerne warten.",
       "ogTitle": "Muskeln aufbauen, nicht abwaschen | Pflanzliche Fitnessrezepte",
       "ogDescription": "Schluss mit endlosem Abwasch – erreiche deine Makros mit schnellen pflanzlichen Rezepten."
     },
     "about": {
-      "title": "Über {siteName} - Meine Geschichte & Mission",
+      "title": "Über uns - Meine Geschichte & Mission",
       "description": "Erfahre mehr über die Leidenschaft hinter {siteName} und wie unsere Rezepte entstehen."
     },
     "contact": {
-      "title": "Kontakt - {siteName}",
+      "title": "Kontakt",
       "description": "Hast du eine Frage oder einen Rezeptvorschlag? Kontaktiere das {siteName}-Team."
     },
     "privacy": {
-      "title": "Datenschutzerklärung - {siteName}",
+      "title": "Datenschutzerklärung",
       "description": "Datenschutzerklärung für {siteName}"
     },
     "terms": {
-      "title": "Nutzungsbedingungen - {siteName}",
+      "title": "Nutzungsbedingungen",
       "description": "Nutzungsbedingungen für {siteName}"
     }
   },
   "privacyPolicy": {
     "title": "Datenschutzerklärung",
     "lastUpdated": "Zuletzt aktualisiert:",
-    "intro1": "Auf {siteName}, erreichbar über your-domain.com, ist der Schutz der Privatsphäre unserer Besucher eines unserer wichtigsten Anliegen. Diese Datenschutzerklärung beschreibt die Arten von Informationen, die von {siteName} gesammelt und protokolliert werden, sowie deren Verwendung.",
+    "intro1": "Auf {siteName}, erreichbar über hotrecipes.co.uk, ist der Schutz der Privatsphäre unserer Besucher eines unserer wichtigsten Anliegen. Diese Datenschutzerklärung beschreibt die Arten von Informationen, die von {siteName} gesammelt und protokolliert werden, sowie deren Verwendung.",
     "s1": {
       "title": "1. Protokolldateien",
       "p": "{siteName} folgt dem Standardverfahren zur Verwendung von Server-Protokolldateien. Diese Dateien protokollieren Besucher, wenn sie Websites aufrufen. Zu den erfassten Daten gehören IP-Adressen, Browsertyp, Internetanbieter (ISP), Datums- und Zeitstempel, Verweis-/Ausstiegsseiten und gegebenenfalls die Anzahl der Klicks."

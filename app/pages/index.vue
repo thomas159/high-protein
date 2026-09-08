@@ -79,14 +79,14 @@ const categories = computed(() => RECIPE_CATEGORIES.map(cat => ({
 useSeoMeta({
   title: t('seo.home.title'),
   description: t('seo.home.description'),
-  ogTitle: t('seo.home.title'),
-  ogDescription: t('seo.home.description'),
+  ogTitle: t('seo.home.ogTitle') || t('seo.home.title'),
+  ogDescription: t('seo.home.ogDescription') || t('seo.home.description'),
   ogImage: 'https://www.hotrecipes.co.uk/cover.png',
   ogUrl: 'https://www.hotrecipes.co.uk',
   ogType: 'website',
   twitterCard: 'summary_large_image',
-  twitterTitle: t('seo.home.title'),
-  twitterDescription: t('seo.home.description'),
+  twitterTitle: t('seo.home.ogTitle') || t('seo.home.title'),
+  twitterDescription: t('seo.home.ogDescription') || t('seo.home.description'),
   twitterImage: 'https://www.hotrecipes.co.uk/cover.png'
 })
 const localePath = useLocalePath()

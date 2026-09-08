@@ -83,11 +83,9 @@ useSeoMeta({
   twitterImage: recipe.value?.image ? `https://res.cloudinary.com/mealse-co-uk/image/upload/f_auto,q_auto/${recipe.value?.image}` : undefined,
 })
 
-// 2. Schema (Server-only injection)
-if (import.meta.server) {
- type RecipeDiet = "LowCalorieDiet" | "VeganDiet" | "VegetarianDiet";
+// 2. Schema
+type RecipeDiet = "LowCalorieDiet" | "VeganDiet" | "VegetarianDiet";
 
-// 2. Apply that type to the array, and use the shorthand strings
 const dietArray: RecipeDiet[] = ["LowCalorieDiet"];
 
 if (recipe.value?.categories?.includes('vegan')) {
@@ -96,71 +94,83 @@ if (recipe.value?.categories?.includes('vegan')) {
   dietArray.push("VegetarianDiet");
 }
 
-  useSchemaOrg([
-    defineRecipe({
-      name: recipe.value?.title,
-      description: recipe.value?.meta?.seoMetaDescription || recipe.value?.description,
-      image: [`https://res.cloudinary.com/mealse-co-uk/image/upload/f_auto,q_auto/${recipe.value?.image}`], // Must be absolute URL
-      datePublished: (recipe.value as any)?.date || (recipe.value as any)?.updatedAt || '2025-01-01',
-      dateModified: (recipe.value as any)?.updatedAt || (recipe.value as any)?.date || '2025-01-01',
-      aggregateRating: recipe.value?.rating ? {
-        '@type': 'AggregateRating',
-        ratingValue: recipe.value.rating,
-        reviewCount: recipe.value.reviews || 1
-      } : undefined,
-      author: {
-        '@type': 'Person',
-        name: 'Tom',
-        url: 'https://www.hotrecipes.co.uk/about'
-      },
-      // Time mapping
-      prepTime: formatIso(recipe.value?.prepTimeMins || 0),
-      cookTime: formatIso(recipe.value?.cookTimeMins || 0),
-      totalTime: formatIso((recipe.value?.prepTimeMins || 0) + (recipe.value?.cookTimeMins || 0)),
+const baseImg = 'https://res.cloudinary.com/mealse-co-uk/image/upload/f_auto,q_auto'
+const schemaImages = recipe.value?.image ? [
+  `${baseImg},c_fill,ar_16:9,w_1200/${recipe.value.image}.jpg`,
+  `${baseImg},c_fill,ar_4:3,w_1200/${recipe.value.image}.jpg`,
+  `${baseImg},c_fill,ar_1:1,w_1200/${recipe.value.image}.jpg`,
+  `${baseImg}/${recipe.value.image}`
+] : []
 
-      // Yield and Category
-      recipeYield: `${recipe.value?.servings} serving(s)`,
-      recipeCategory: recipe.value?.categories?.[0] || 'Main Course',
-      recipeCuisine: recipe.value?.cuisine || '',
+useSchemaOrg([
+  defineRecipe({
+    name: recipe.value?.title,
+    description: recipe.value?.meta?.seoMetaDescription || recipe.value?.description,
+    image: schemaImages,
+    datePublished: (recipe.value as any)?.date || (recipe.value as any)?.updatedAt || '2025-01-01',
+    dateModified: (recipe.value as any)?.updatedAt || (recipe.value as any)?.date || '2025-01-01',
+    aggregateRating: recipe.value?.rating ? {
+      '@type': 'AggregateRating',
+      ratingValue: recipe.value.rating,
+      reviewCount: recipe.value.reviews || 1
+    } : undefined,
+    author: {
+      '@type': 'Person',
+      name: 'Tom',
+      url: 'https://www.hotrecipes.co.uk/about'
+    },
+    // Time mapping (only passed when > 0 to prevent PT0M warnings in Google Search Console)
+    prepTime: recipe.value?.prepTimeMins ? formatIso(recipe.value.prepTimeMins) : undefined,
+    cookTime: recipe.value?.cookTimeMins ? formatIso(recipe.value.cookTimeMins) : undefined,
+    totalTime: ((recipe.value?.prepTimeMins || 0) + (recipe.value?.cookTimeMins || 0)) > 0
+      ? formatIso((recipe.value?.prepTimeMins || 0) + (recipe.value?.cookTimeMins || 0))
+      : undefined,
 
-      // Keywords and Diet
-      keywords: recipe.value?.keywords?.length ? recipe.value.keywords : (recipe.value?.flavor_profile ? recipe.value.flavor_profile.split(', ') : []),
-      suitableForDiet: dietArray,
+    // Yield and Category
+    recipeYield: `${recipe.value?.servings} serving(s)`,
+    recipeCategory: recipe.value?.categories?.[0] || 'Main Course',
+    recipeCuisine: recipe.value?.cuisine || '',
 
-      // Nutrition mapping (Using your nested macros)
-      nutrition: {
-        '@type': 'NutritionInformation',
-        servingSize: '1 serving',
-        calories: `${recipe.value?.macros?.calories || 0} calories`,
-        proteinContent: `${recipe.value?.macros?.protein || 0}g`,
-        fatContent: `${recipe.value?.macros?.fat || 0}g`,
-        carbohydrateContent: `${recipe.value?.macros?.carbs || 0}g`,
-      },
+    // Keywords and Diet
+    keywords: recipe.value?.keywords?.length ? recipe.value.keywords : (recipe.value?.flavor_profile ? recipe.value.flavor_profile.split(', ') : []),
+    suitableForDiet: dietArray,
 
-      // Ingredients mapping
-      recipeIngredient: recipe.value?.ingredients?.map(i => {
-        const amount = i.amount ? `${i.amount}${i.unit || ''} ` : ''
-        const type = i.type ? ` (${i.type})` : ''
-        return `${amount}${i.item}${type}`.trim()
-      }) || [],
-      // Directions mapping
-      recipeInstructions: recipe.value?.steps?.map((step: any) => {
-        const text = typeof step === 'string' ? step : (step?.text || '')
-        const stepObj: any = {
-          '@type': 'HowToStep',
-          text
-        }
-        if (typeof step === 'object' && step?.image) {
-          stepObj.image = step.image.startsWith('http')
-            ? step.image
-            : `https://res.cloudinary.com/mealse-co-uk/image/upload/f_auto,q_auto/${step.image}`
-        }
-        return stepObj
-      }) || [],
+    // Nutrition mapping (Using your nested macros)
+    nutrition: {
+      '@type': 'NutritionInformation',
+      servingSize: '1 serving',
+      calories: `${recipe.value?.macros?.calories || 0} calories`,
+      proteinContent: `${recipe.value?.macros?.protein || 0}g`,
+      fatContent: `${recipe.value?.macros?.fat || 0}g`,
+      carbohydrateContent: `${recipe.value?.macros?.carbs || 0}g`,
+    },
 
-    })
-  ])
-}
+    // Ingredients mapping
+    recipeIngredient: recipe.value?.ingredients?.map(i => {
+      const amount = i.amount ? `${i.amount}${i.unit || ''} ` : ''
+      const type = i.type ? ` (${i.type})` : ''
+      return `${amount}${i.item}${type}`.trim()
+    }) || [],
+    // Directions mapping
+    recipeInstructions: recipe.value?.steps?.map((step: any, index: number) => {
+      const text = typeof step === 'string' ? step : (step?.text || '')
+      const stepObj: any = {
+        '@type': 'HowToStep',
+        name: `Step ${index + 1}`,
+        position: index + 1,
+        text,
+        url: `https://www.hotrecipes.co.uk${route.path}#step-${index + 1}`
+      }
+      if (typeof step === 'object' && step?.image) {
+        stepObj.image = step.image.startsWith('http')
+          ? step.image
+          : `https://res.cloudinary.com/mealse-co-uk/image/upload/f_auto,q_auto/${step.image}`
+      }
+      return stepObj
+    }) || [],
+
+  })
+])
 
 const { data: relatedRecipes } = await useAsyncData(`${route.path}-related`, async () => {
   // Guard: if no recipe found, return empty array

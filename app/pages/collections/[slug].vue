@@ -71,14 +71,16 @@ const ogImg = computed(() => {
   return 'https://www.hotrecipes.co.uk/cover.png'
 })
 
+const localePath = useLocalePath()
+
 useSeoMeta({
-  title: () => page.value?.title ? `${page.value.title} - ${appConfig.siteName}` : appConfig.siteName,
+  title: () => page.value?.title || appConfig.siteName,
   description: () => page.value?.description,
-  ogTitle: () => page.value?.title ? `${page.value.title} - ${appConfig.siteName}` : appConfig.siteName,
+  ogTitle: () => page.value?.title || appConfig.siteName,
   ogDescription: () => page.value?.description,
   ogUrl: `https://www.hotrecipes.co.uk${route.path}`,
   ogImage: ogImg,
-  twitterTitle: () => page.value?.title ? `${page.value.title} - ${appConfig.siteName}` : appConfig.siteName,
+  twitterTitle: () => page.value?.title || appConfig.siteName,
   twitterDescription: () => page.value?.description,
   twitterImage: ogImg,
   twitterCard: 'summary_large_image'
@@ -92,7 +94,7 @@ if (import.meta.server) {
       itemListElement: computed(() => collectionItems.value.map((item: any, idx: number) => ({
         '@type': 'ListItem',
         position: idx + 1,
-        url: `https://www.hotrecipes.co.uk${locale.value === 'en' ? '' : `/${locale.value}`}/recipes/${item.recipe.slug}`,
+        url: `https://www.hotrecipes.co.uk${localePath(`/recipes/${item.recipe.slug}`)}`,
         name: item.recipe.title,
         image: item.recipe.image ? `https://res.cloudinary.com/mealse-co-uk/image/upload/f_auto,q_auto/${item.recipe.image}` : undefined,
       })))
@@ -101,7 +103,6 @@ if (import.meta.server) {
 }
 
 const { formatText } = useFormatText()
-const localePath = useLocalePath()
 </script>
 
 <template>

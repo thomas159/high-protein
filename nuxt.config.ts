@@ -162,11 +162,7 @@ export default defineNuxtConfig({
         file: 'de.json',
       },
     ],
-    detectBrowserLanguage: {
-      useCookie: true,
-      cookieKey: 'i18n_redirected',
-      redirectOn: 'root',
-    },
+    detectBrowserLanguage: false,
     pages: {
       'recipes': {
         en: '/recipes',

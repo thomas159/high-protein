@@ -1,6 +1,5 @@
 // server/api/__sitemap__/urls.ts
-import { defineSitemapEventHandler } from '#imports'
-import { RECIPE_CATEGORIES } from '~/utils/constants'
+import { defineEventHandler } from 'h3'
 // @ts-ignore
 import enLocales from '~~/i18n/locales/en.json'
 // @ts-ignore
@@ -8,7 +7,7 @@ import esLocales from '~~/i18n/locales/es.json'
 // @ts-ignore
 import deLocales from '~~/i18n/locales/de.json'
 
-export default defineSitemapEventHandler(async (event) => { 
+export default defineEventHandler(async (event) => { 
   try {
     // 1. Fetch recipes from Nuxt Content
     const recipes = await queryCollection(event, 'recipes').all()
@@ -84,9 +83,7 @@ export default defineSitemapEventHandler(async (event) => {
     const staticPages = [
       { en: '/', es: '/es', de: '/de', priority: 1.0 },
       { en: '/about', es: '/es/sobre-nosotros', de: '/de/ueber-uns', priority: 0.5 },
-      { en: '/contact', es: '/es/contacto', de: '/de/kontakt', priority: 0.5 },
-      { en: '/privacy-policy', es: '/es/politica-de-privacidad', de: '/de/datenschutz', priority: 0.3 },
-      { en: '/terms-of-service', es: '/es/terminos-de-servicio', de: '/de/nutzungsbedingungen', priority: 0.3 }
+      { en: '/contact', es: '/es/contacto', de: '/de/kontakt', priority: 0.5 }
     ]
     
     const staticUrls: any[] = []
