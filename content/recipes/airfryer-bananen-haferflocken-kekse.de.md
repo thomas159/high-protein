@@ -10,7 +10,7 @@ meta:
   seoMetaDescription: Lust auf einen warmen Keks-Genuss unter 100 kcal? Diese 10-Minuten Airfryer Bananen-Haferflocken-Kekse mit Zartbitterschokolade gelingen ganz ohne Mehl und Zucker.
 description: 'Zwei einfache, vollwertige Grundzutaten genügen für den perfekten Snack mit stabilem Blutzuckerspiegel. Der Airfryer vollbringt in nur acht Minuten echte Wunder: Aus zerdrückter reifer Banane und zarten Haferflocken werden ofenwarme, saftige Kekse mit knusprigen Rändern. Verfeinert mit edlen 85% Schokodrops und etwas Zimt – kaum zu glauben, dass die gesamte Dreier-Portion unter 100 Kalorien hat.'
 blurb: []
-image: air-fryer-banana-oat-cookies_k8j3nx
+image: air-fryer-banana-oat-cookies_1_y6nwl5
 alt: Goldbraun gebackene Airfryer Bananen-Haferflocken-Kekse mit zartbitteren Schokodrops
 pintrest: ''
 cuisine: Amerikanisch

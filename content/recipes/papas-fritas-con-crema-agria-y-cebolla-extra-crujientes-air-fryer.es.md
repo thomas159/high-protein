@@ -18,7 +18,7 @@ description: 'Estas irresistibles patatas fritas con crema agria son extra cruji
 
   Probado para garantizar que la salsa cubra perfectamente las papas fritas sin convertirlas
   en un desastre empapado.'
-image: air-fryer-banana-oat-cookies_1_y6nwl5
+image: air-fryer-sour-cream-fries_k2lvbn
 alt: Papas fritas para freidora rociadas con salsa de crema agria con ajo
 pintrest: ''
 cuisine: Americana

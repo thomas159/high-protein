@@ -10,7 +10,7 @@ meta:
   seoMetaDescription: Craving a sweet bakery fix under 100 kcal? These 10-minute air fryer banana oat cookies with dark chocolate deliver a warm, chewy bite without sugar or flour.
 description: 'Two humble whole-food ingredients at the base create the ultimate blood-sugar-stabilising sweet treat. The air fryer works its magic in eight minutes flat, turning mashed spotty banana and rolled oats into warm, jammy-centred cookies with crisp golden edges. Dotted with rich 85% dark chocolate chips and scented with cinnamon, nobody will believe this entire three-cookie batch clocks in at under 100 calories.'
 blurb: []
-image: air-fryer-banana-oat-cookies_k8j3nx
+image: air-fryer-banana-oat-cookies_1_y6nwl5
 alt: Warm golden air fryer banana oat cookies studded with melted dark chocolate chips
 pintrest: ''
 cuisine: American
