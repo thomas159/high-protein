@@ -19,5 +19,7 @@ recipes:
     text: "Craving a classic British dessert but need to hit your protein target before bed? Throwing some diced apple and a protein-oat crumble mix into a ramekin is a game-changer. The air fryer creates a golden, crunchy lid in minutes. If the oats look pale, give it another blast until properly toasted."
   - slug: "air-fryer-crispy-spiced-chickpeas"
     text: "Skip the store-bought packets. A quick blast in the air fryer turns a handful of canned chickpeas into shatteringly crisp, smoky, paprika-dusted savoury bites for under 80 kcal."
+  - slug: "crispy-air-fryer-halloumi-bites"
+    text: "Squeaky, salty halloumi turns blistered and deeply golden in just eight minutes. A quick ribbon of runny honey and crushed chilli flakes creates a sticky restaurant-grade starter that delivers 7g of protein for under 100 calories."
 ---
 

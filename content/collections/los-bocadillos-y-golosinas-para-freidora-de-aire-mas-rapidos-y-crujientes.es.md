@@ -42,4 +42,8 @@ recipes:
   text: Olvídate de los aperitivos empaquetados. Un golpe rápido en la freidora de aire
     convierte garbanzos de bote en bocados crujientes, especiados y ahumados con menos
     de 80 kcal.
+- slug: bocaditos-crujientes-halloumi-freidora-aire
+  text: El halloumi salado queda dorado y crujiente por fuera en solo ocho minutos.
+    Un toque de miel y copos de guindilla crea un aperitivo irresistible con 7 g de
+    proteína por menos de 100 calorías.
 ---

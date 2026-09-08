@@ -19,5 +19,7 @@ recipes:
     text: "Lust auf ein warmes Fruchtdessert vor dem Schlafen? Gewürfelte Äpfel mit knusprigen Protein-Haferflocken im Ramekin backen im Airfryer zu einer goldbraunen Kruste."
   - slug: "knusprig-wuerzige-airfryer-kichererbsen"
     text: "Vergiss gekaufte Knabberpackungen: Im Airfryer verwandeln sich einfache Kichererbsen in nur 15 Minuten in herrlich krosse, rauchig gewürzte Protein-Happen unter 80 Kalorien."
+  - slug: "knusprige-10-minuten-airfryer-halloumi-happen"
+    text: "Salziger Halloumi wird in nur acht Minuten außen herrlich goldbraun und kross. Ein feiner Faden flüssiger Honig und Chiliflocken sorgen für einen echten Restaurant-Vorspeisen-Hit mit 7 g Protein bei unter 100 Kalorien."
 ---
 
