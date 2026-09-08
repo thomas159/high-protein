@@ -56,6 +56,7 @@
     "airFryer": "Recetas en Air Fryer",
     "15minutemeals": "Comidas de 15 Minutos",
     "collections": "Colecciones de Recetas",
+    "allCollections": "Ver todas las colecciones",
     "all": "Ver todas las recetas",
     "getRecipe": "Ver Receta",
     "jump": "Saltar a la Receta",
@@ -178,6 +179,12 @@
       "ogTitle": "Crea músculo, no platos | Recetas fitness a base de plantas",
       "ogDescription": "Deja de lavar platos y comienza a alcanzar tus macros con nuestras recetas veganas de 5 minutos."
     },
+    "collections": {
+      "title": "Colecciones de recetas y guías ricas en proteínas",
+      "description": "Explora nuestras colecciones seleccionadas de recetas ricas en proteínas, guías de cocina y trucos para alcanzar tus macros con mínima preparación.",
+      "ogTitle": "Colecciones de recetas seleccionadas | Hot Recipes",
+      "ogDescription": "Explora nuestras colecciones seleccionadas de recetas ricas en proteínas, guías de cocina y trucos para alcanzar tus macros con mínima preparación."
+    },
     "about": {
       "title": "Acerca de nosotros - Mi historia y misión",
       "description": "Obtén más información sobre la pasión detrás de {siteName} y cómo creamos nuestras recetas."
@@ -288,6 +295,15 @@
     "categoryTitle": "Recetas de {category}",
     "categoryDesc": "Explora nuestra deliciosa colección de recetas de {category}. Perfectas para alcanzar tus objetivos de proteínas mientras disfrutas de comidas satisfactorias y sin culpa.",
     "empty": "No se encontraron recetas."
+  },
+  "collectionsPage": {
+    "title": "Colecciones de Recetas",
+    "subtitle": "Recopilaciones seleccionadas a mano, guías para ajustar tus macros y trucos de cocina para alcanzar tus objetivos de proteína con mínima preparación y máximo sabor.",
+    "badge": "Recopilaciones Curadas",
+    "count": "{count} Colecciones",
+    "recipesCount": "{count} Recetas",
+    "viewCollection": "Ver Colección",
+    "empty": "No se encontraron colecciones."
   },
   "cookieBanner": {
     "title": "Política de Cookies",

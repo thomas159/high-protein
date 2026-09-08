@@ -6,12 +6,14 @@ export interface Collection {
   slug: string;
   description: string;
   image?: string;
+  recipes?: any[];
 }
 
 const props = defineProps<{
   collection: Collection;
 }>();
 
+const { t } = useI18n()
 const { formatText } = useFormatText()
 const localePath = useLocalePath()
 </script>
@@ -23,6 +25,10 @@ const localePath = useLocalePath()
   >
     <!-- Text on the left -->
     <div class="p-6 flex-grow flex flex-col justify-center order-2 md:order-1 md:w-1/2">
+      <div v-if="props.collection.recipes?.length" class="inline-flex items-center gap-1.5 text-xs font-bold text-emerald-500 mb-2 uppercase tracking-wider">
+        <span>📖</span>
+        <span>{{ t('collectionsPage.recipesCount', { count: props.collection.recipes.length }) }}</span>
+      </div>
       <h2 class="font-display text-2xl font-extrabold text-foreground mb-3 group-hover:text-green-600 dark:group-hover:text-green-400 leading-tight">
         {{ props.collection.title }}
       </h2>

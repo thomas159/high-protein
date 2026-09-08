@@ -10,9 +10,13 @@ const footerLinks = computed(() => ({
       const translatedSlug = t(`categorySlugs.${cat.key}`)
       return {
         name: t(`categories.${cat.key}`),
-        path: localePath(`/categories/${translatedSlug}`)
+        path: `/categories/${translatedSlug}`
       }
-    })
+    }),
+    {
+      name: t('recipes.collections'),
+      path: '/collections'
+    }
   ],
   company: [
     { name: t('footer.links.aboutMe'), path: '/about' },

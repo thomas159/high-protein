@@ -56,6 +56,7 @@
     "airFryer": "Airfryer Rezepte",
     "15minutemeals": "15-Minuten-Gerichte",
     "collections": "Rezept-Sammlungen",
+    "allCollections": "Alle Sammlungen anzeigen",
     "all": "Alle Rezepte entdecken",
     "getRecipe": "Zum Rezept",
     "jump": "Direkt zum Rezept",
@@ -178,6 +179,12 @@
       "ogTitle": "Muskeln aufbauen, nicht abwaschen | Pflanzliche Fitnessrezepte",
       "ogDescription": "Schluss mit endlosem Abwasch – erreiche deine Makros mit schnellen pflanzlichen Rezepten."
     },
+    "collections": {
+      "title": "Kuratierte Rezept-Sammlungen & proteinreiche Guides",
+      "description": "Entdecke handverlesene Rezept-Sammlungen, makrofreundliche Guides und Küchen-Hacks, mit denen du deine Proteinziele mühelos erreichst.",
+      "ogTitle": "Kuratierte Rezept-Sammlungen | Hot Recipes",
+      "ogDescription": "Entdecke handverlesene Rezept-Sammlungen, makrofreundliche Guides und Küchen-Hacks, mit denen du deine Proteinziele mühelos erreichst."
+    },
     "about": {
       "title": "Über uns - Meine Geschichte & Mission",
       "description": "Erfahre mehr über die Leidenschaft hinter {siteName} und wie unsere Rezepte entstehen."
@@ -288,6 +295,15 @@
     "categoryTitle": "{category} Rezepte",
     "categoryDesc": "Entdecke unsere leckeren Rezepte in der Kategorie {category}. Perfekt, um deinen Proteinbedarf genussvoll zu decken.",
     "empty": "Keine Rezepte gefunden."
+  },
+  "collectionsPage": {
+    "title": "Rezept-Sammlungen",
+    "subtitle": "Handverlesene Zusammenstellungen, makrofreundliche Guides und Küchen-Tipps, um deine täglichen Proteinziele mit minimalem Aufwand und maximalem Geschmack zu erreichen.",
+    "badge": "Kuratierte Sammlungen",
+    "count": "{count} Sammlungen",
+    "recipesCount": "{count} Rezepte",
+    "viewCollection": "Sammlung ansehen",
+    "empty": "Keine Sammlungen gefunden."
   },
   "cookieBanner": {
     "title": "Cookie-Richtlinie",

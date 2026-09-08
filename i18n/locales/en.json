@@ -56,6 +56,7 @@
     "airFryer": "Air Fryer Recipes",
     "15minutemeals": "15 Minute Meals",
     "collections": "Recipe Collections",
+    "allCollections": "Browse All Collections",
     "all": "Browse All Recipes",
     "getRecipe": "Get Recipe",
     "jump": "Jump to Recipe",
@@ -178,6 +179,12 @@
       "ogTitle": "Build Muscle, Not Dishes | Plant-Based Fitness Recipes",
       "ogDescription": "Stop washing dishes and start hitting your macros with our 5-minute vegan recipes."
     },
+    "collections": {
+      "title": "Curated Recipe Collections & High-Protein Guides",
+      "description": "Explore our hand-picked recipe collections, macro-friendly guides, and kitchen hacks to help you hit your protein goals with minimal prep.",
+      "ogTitle": "Curated Recipe Collections | Hot Recipes",
+      "ogDescription": "Explore our hand-picked recipe collections, macro-friendly guides, and kitchen hacks to help you hit your protein goals with minimal prep."
+    },
     "about": {
       "title": "About Us - My Story & Mission",
       "description": "Learn more about the passion behind {siteName} and how we create our recipes."
@@ -288,6 +295,15 @@
     "categoryTitle": "{category} Recipes",
     "categoryDesc": "Explore our delicious collection of {category} recipes. Perfect for hitting your protein goals while enjoying satisfying, guilt-free meals.",
     "empty": "No recipes found."
+  },
+  "collectionsPage": {
+    "title": "Recipe Collections",
+    "subtitle": "Curated recipe roundups, macro-friendly guides, and kitchen hacks designed to help you hit your daily protein targets with minimal prep and maximum flavour.",
+    "badge": "Curated Roundups",
+    "count": "{count} Collections",
+    "recipesCount": "{count} Recipes",
+    "viewCollection": "View Collection",
+    "empty": "No collections found."
   },
   "cookieBanner": {
     "title": "Cookie Policy",

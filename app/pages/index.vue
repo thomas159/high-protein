@@ -224,6 +224,8 @@ const localePath = useLocalePath()
       v-if="collections.length > 0"
       :collections="collections" 
       :title="t('recipes.collections')"
+      :view-all-link="localePath('/collections')"
+      :view-all-text="t('recipes.allCollections')"
       class="mt-16"
     />
 

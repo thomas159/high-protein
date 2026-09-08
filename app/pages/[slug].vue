@@ -2,7 +2,7 @@
 const localePath = useLocalePath()
 const route = useRoute()
 const slug = route.params.slug as string
-const { locale } = useI18n()
+const { t, locale } = useI18n()
 
 // Check if a recipe exists matching this slug
 const { data: recipe } = await useAsyncData(`redirect-check-${slug}-${locale.value}`, () => {
