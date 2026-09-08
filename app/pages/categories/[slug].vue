@@ -58,6 +58,20 @@ const resolveKey = computed(() => {
   }
 });
 
+// Canonical redirect: If a user accesses an English or alternative slug under another locale (e.g. /es/categorias/all-recipes or /es/categorias/dinner),
+// 301 redirect to the current locale's canonical translated slug (e.g. /es/categorias/todas-las-recetas or /es/categorias/cena).
+const canonicalSlug = computed(() => {
+  const key = resolveKey.value;
+  if (!key) return null;
+  if (locale.value === "es") return getStaticValue(esSlugs[key]);
+  if (locale.value === "de") return getStaticValue(deSlugs[key]);
+  return getStaticValue(enSlugs[key]);
+});
+
+if (canonicalSlug.value && canonicalSlug.value !== categorySlug.value) {
+  await navigateTo(localePath(`/categories/${canonicalSlug.value}`), { redirectCode: 301 });
+}
+
 const categoryKey = resolveKey;
 
 // 1. Tell the Nuxt i18n router what the counterparts are for this dynamically generated page

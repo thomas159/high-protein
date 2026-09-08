@@ -57,7 +57,7 @@ const backLink = computed(() => {
   }
 
   // Final Fallback
-  return { label: t('recipes.all'), to: localePath('/categories/all-recipes') }
+  return { label: t('recipes.all'), to: localePath(`/categories/${t('categorySlugs.allrecipes')}`) }
 })
 
 const recipeName = computed(() => props.recipe?.title || 'Recipe')

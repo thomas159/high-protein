@@ -111,7 +111,7 @@ const localePath = useLocalePath()
     <section class="mb-16">
       <div class="flex items-center justify-between mb-8">
         <h2 class="text-3xl md:text-5xl font-black uppercase tracking-tighter italic text-foreground mb-0">{{ t('nav.categories') }}</h2>
-        <NuxtLink :to="localePath('/categories/all-recipes')" class="text-[10px] font-black uppercase tracking-widest text-emerald-500 hover:text-emerald-400 transition-colors">
+        <NuxtLink :to="localePath(`/categories/${t('categorySlugs.allrecipes')}`)" class="text-[10px] font-black uppercase tracking-widest text-emerald-500 hover:text-emerald-400 transition-colors">
           {{ t('recipes.all') }} &rarr;
         </NuxtLink>
       </div>
@@ -144,7 +144,7 @@ const localePath = useLocalePath()
         <h2 class="text-3xl md:text-5xl font-black uppercase tracking-tighter italic text-foreground mb-0">
           {{ t('recipes.latest') }}
         </h2>
-        <NuxtLink :to="localePath('/categories/all-recipes')" class="text-[10px] font-black uppercase tracking-widest text-emerald-500 hover:text-emerald-400 transition-colors">
+        <NuxtLink :to="localePath(`/categories/${t('categorySlugs.allrecipes')}`)" class="text-[10px] font-black uppercase tracking-widest text-emerald-500 hover:text-emerald-400 transition-colors">
           {{ t('recipes.all') }} &rarr;
         </NuxtLink>
       </div>
@@ -162,7 +162,7 @@ const localePath = useLocalePath()
       <MobileScroll 
         :recipes="recipes" 
         :title="t('recipes.latest')"
-        :view-all-link="localePath('/categories/all-recipes')"
+        :view-all-link="localePath(`/categories/${t('categorySlugs.allrecipes')}`)"
         :view-all-text="t('recipes.all')"
       />
     </section>
