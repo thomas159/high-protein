@@ -184,6 +184,11 @@ export default defineNuxtConfig({
         es: '/colecciones/[slug]',
         de: '/sammlungen/[slug]'
       },
+      'categories': {
+        en: '/categories',
+        es: '/categorias',
+        de: '/kategorien'
+      },
       'categories-slug': {
         en: '/categories/[slug]',
         es: '/categorias/[slug]',
