@@ -17,4 +17,7 @@ recipes:
     text: "Air fryers aren't just for chips. You can knock out a batch of these dense, chocolatey muffins rapidly. The rapid heat circulation creates a perfectly domed, crusty top while keeping the inside moist. Packed with complex carbs and protein, they are my absolute go-to fuel before a heavy lifting session."
   - slug: "high-protein-air-fryer-apple-crumble"
     text: "Craving a classic British dessert but need to hit your protein target before bed? Throwing some diced apple and a protein-oat crumble mix into a ramekin is a game-changer. The air fryer creates a golden, crunchy lid in minutes. If the oats look pale, give it another blast until properly toasted."
+  - slug: "air-fryer-crispy-spiced-chickpeas"
+    text: "Skip the store-bought packets. A quick blast in the air fryer turns a handful of canned chickpeas into shatteringly crisp, smoky, paprika-dusted savoury bites for under 80 kcal."
 ---
+

@@ -38,4 +38,8 @@ recipes:
     una mezcla de proteína y avena crumble en un molde cambia las reglas del juego.
     La freidora crea una tapa dorada y crujiente en minutos. Si la avena se ve pálida,
     dale otro golpe hasta que esté bien tostada.
+- slug: garbanzos-especiados-extra-crujientes-en-freidora-de-aire
+  text: Olvídate de los aperitivos empaquetados. Un golpe rápido en la freidora de aire
+    convierte garbanzos de bote en bocados crujientes, especiados y ahumados con menos
+    de 80 kcal.
 ---

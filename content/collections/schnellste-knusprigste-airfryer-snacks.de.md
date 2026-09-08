@@ -17,4 +17,7 @@ recipes:
     text: "Heißluftfritteusen eignen sich auch hervorragend zum Backen. Diese saftigen Muffins mit komplexen Kohlenhydraten und Proteinen sind der ideale Snack vor dem Training."
   - slug: "high-protein-15-minuten-airfryer-apfel-crumble"
     text: "Lust auf ein warmes Fruchtdessert vor dem Schlafen? Gewürfelte Äpfel mit knusprigen Protein-Haferflocken im Ramekin backen im Airfryer zu einer goldbraunen Kruste."
+  - slug: "knusprig-wuerzige-airfryer-kichererbsen"
+    text: "Vergiss gekaufte Knabberpackungen: Im Airfryer verwandeln sich einfache Kichererbsen in nur 15 Minuten in herrlich krosse, rauchig gewürzte Protein-Happen unter 80 Kalorien."
 ---
+
