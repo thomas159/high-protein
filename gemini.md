@@ -47,3 +47,7 @@ To rank as an elite authority, recipes must go beyond basic instructions. Always
   * **DO NOT REMOVE** the `-mx-5 px-[1px] md:mx-0 md:px-0` classes on the categories page root container (`<div class="-mx-5 px-[1px] md:mx-0 md:px-0 space-y-6">`).
   * On mobile screens, the default layout container applies `px-5`. The categories page intentionally negates this with `-mx-5` and applies a `1px` side padding (`px-[1px]`) instead of standard container padding. This produces a consistent 1px border/gutter on the mobile edges matching the 2-column recipe grid's internal `gap-[1px]`. On desktop (`md:`), it resets via `md:mx-0 md:px-0`.
   * Preserving this is mandatory—never revert, simplify, or strip these classes during refactoring, styling, or cleanup passes.
+
+## Git & Workflow Rules
+
+* **No Automatic Pushing (Check First):** Strictly do NOT automatically push commits to remote (`git push`) without the user checking and explicitly approving first. Always keep changes local, test/verify locally, and ask the user before pushing.
