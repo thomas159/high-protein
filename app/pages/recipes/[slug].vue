@@ -20,9 +20,12 @@ if (!recipe.value) {
     })
     if (targetSibling?.slug) {
       await navigateTo(localePath(`/recipes/${targetSibling.slug}`), { redirectCode: 301 })
+    } else {
+      throw createError({ statusCode: 404, statusMessage: t('error.pageNotFound'), fatal: true })
     }
+  } else {
+    throw createError({ statusCode: 404, statusMessage: t('error.pageNotFound'), fatal: true })
   }
-  throw createError({ statusCode: 404, statusMessage: t('error.pageNotFound'), fatal: true })
 }
 
 if (recipe.value?.image) {

@@ -33,9 +33,12 @@ if (!page.value) {
     })
     if (targetSibling?.slug) {
       await navigateTo(localePath(`/collections/${targetSibling.slug}`), { redirectCode: 301 })
+    } else {
+      throw createError({ statusCode: 404, statusMessage: t('error.pageNotFound'), fatal: true })
     }
+  } else {
+    throw createError({ statusCode: 404, statusMessage: t('error.pageNotFound'), fatal: true })
   }
-  throw createError({ statusCode: 404, statusMessage: t('error.pageNotFound'), fatal: true })
 }
 
 if (page.value?.image) {
