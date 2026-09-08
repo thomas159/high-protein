@@ -42,4 +42,6 @@ recipes:
     por completo en una salsa de crema agria aterciopelada con infusión de ajo. El
     contraste de temperatura entre las patatas fritas bien calientes y la salsa fría
     es de primer nivel.
+- slug: bastoncitos-de-calabacin-con-parmesano-en-freidora-de-aire
+  text: El truco definitivo para comer en gran volumen. Cortar el calabacín en bastones y rebozarlos en una costra de parmesano y especias da como resultado un snack ultracrujiente de solo 77 calorías con sabor a palitos de queso sin nada de aceite.
 ---

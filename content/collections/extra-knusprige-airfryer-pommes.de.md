@@ -19,4 +19,6 @@ recipes:
     text: "Eine geniale Kombination aus würzig-fermentiertem Kimchi und geschmolzenem Cheddar über goldgelben Pommes. Knusprig wie frittiert, aber ohne schweres Öl."
   - slug: "einfache-30-minuten-extra-knusprige-airfryer-sour-cream-zwiebel-pommes"
     text: "Wenn du Lust auf reichhaltige Saucen hast, aber bei deinen Kalorien bleiben willst. Die heißen, knusprigen Pommes harmonieren perfekt mit dem kühlen, cremigen Sour-Cream-Dip."
+  - slug: "knusprige-airfryer-parmesan-zucchini-pommes"
+    text: "Der beste Trick für maximales Volumen bei minimalen Kalorien. Zucchinistifte in einer würzigen Parmesankruste gebacken ergeben einen herrlich krossen Snack für nur 77 Kalorien – ganz ohne Öl und mit dem Geschmack von Mozzarella-Sticks."
 ---
