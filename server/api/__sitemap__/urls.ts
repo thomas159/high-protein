@@ -82,8 +82,11 @@ export default defineEventHandler(async (event) => {
     // 5. Hardcoded static pages (localized)
     const staticPages = [
       { en: '/', es: '/es', de: '/de', priority: 1.0 },
+      { en: '/collections', es: '/es/colecciones', de: '/de/sammlungen', priority: 0.8 },
       { en: '/about', es: '/es/sobre-nosotros', de: '/de/ueber-uns', priority: 0.5 },
-      { en: '/contact', es: '/es/contacto', de: '/de/kontakt', priority: 0.5 }
+      { en: '/contact', es: '/es/contacto', de: '/de/kontakt', priority: 0.5 },
+      { en: '/privacy-policy', es: '/es/politica-de-privacidad', de: '/de/datenschutz', priority: 0.3 },
+      { en: '/terms-of-service', es: '/es/terminos-de-servicio', de: '/de/nutzungsbedingungen', priority: 0.3 }
     ]
     
     const staticUrls: any[] = []

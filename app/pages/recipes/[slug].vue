@@ -3,10 +3,27 @@ import Img from '@/components/Img.vue'
 const { siteName, siteDescription } = useAppConfig()
 const route = useRoute()
 const { t, locale } = useI18n()
+const localePath = useLocalePath()
 const { data: recipe } = await useAsyncData(`${route.path}-${locale.value}`, () => {
   const contentPath = locale.value === 'en' ? `/recipes/${route.params.slug}` : `/recipes/${route.params.slug}.${locale.value}`
   return queryCollection('recipes').path(contentPath).first()
 })
+
+if (!recipe.value) {
+  const slugParam = route.params.slug as string
+  const otherLocaleRecipe = await queryCollection('recipes').where('slug', '=', slugParam).first()
+  if (otherLocaleRecipe?.image) {
+    const allMatching = await queryCollection('recipes').where('image', '=', otherLocaleRecipe.image).all()
+    const targetSibling = allMatching.find((s: any) => {
+      if (locale.value === 'en') return !s.path.endsWith('.es') && !s.path.endsWith('.de')
+      return s.path.endsWith(`.${locale.value}`)
+    })
+    if (targetSibling?.slug) {
+      await navigateTo(localePath(`/recipes/${targetSibling.slug}`), { redirectCode: 301 })
+    }
+  }
+  throw createError({ statusCode: 404, statusMessage: t('error.pageNotFound'), fatal: true })
+}
 
 if (recipe.value?.image) {
   const { data: siblings } = await useAsyncData(`${route.path}-siblings`, async () => {

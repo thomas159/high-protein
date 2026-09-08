@@ -5,7 +5,7 @@ description: |
   Wenn nach dem Training der Hunger kommt, brauchst du schnelle Lösungen statt stundenlanger Kochprojekte. Der Airfryer ist unschlagbar für unkomplizierte, makrofreundliche Snacks.
 
   Er sorgt für maximale Knusprigkeit ganz ohne Frittierfett. Von proteinreichen Desserts bis hin zu herzhaften Blitz-Snacks – hier sind meine Favoriten, um deine Regeneration zu unterstützen.
-image: "10-minute-airfryer-breakfast-egg-muffins_z8ev9o"
+image: "high-protein-air-fryer-apple-crumble_plgb9p"
 recipes:
   - slug: "die-besten-knusprigen-5-minuten-airfryer-nachos"
     text: "Vergiss die Mikrowelle: Im Airfryer schmilzt der Käse über den Tortilla-Chips gleichmäßig in Minuten, ohne die Chips aufzuweichen. Der perfekte Snack für den Fernsehabend."

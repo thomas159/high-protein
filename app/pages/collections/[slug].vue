@@ -1,6 +1,7 @@
 <script setup lang="ts">
 const route = useRoute()
 const { t, locale } = useI18n()
+const localePath = useLocalePath()
 const appConfig = useAppConfig()
 const { data: page } = await useAsyncData(`${route.path}-${locale.value}`, async () => {
   const slugParam = route.params.slug as string
@@ -19,6 +20,23 @@ const { data: page } = await useAsyncData(`${route.path}-${locale.value}`, async
   // Fallback to checking the file path directly
   return queryCollection('collections').path(contentPath).first()
 })
+
+if (!page.value) {
+  const slugParam = route.params.slug as string
+  // Check if this collection exists under another language
+  const otherLocaleCol = await queryCollection('collections').where('slug', '=', slugParam).first()
+  if (otherLocaleCol?.image) {
+    const allMatching = await queryCollection('collections').where('image', '=', otherLocaleCol.image).all()
+    const targetSibling = allMatching.find((s: any) => {
+      if (locale.value === 'en') return !s.path.endsWith('.es') && !s.path.endsWith('.de')
+      return s.path.endsWith(`.${locale.value}`)
+    })
+    if (targetSibling?.slug) {
+      await navigateTo(localePath(`/collections/${targetSibling.slug}`), { redirectCode: 301 })
+    }
+  }
+  throw createError({ statusCode: 404, statusMessage: t('error.pageNotFound'), fatal: true })
+}
 
 if (page.value?.image) {
   const { data: siblings } = await useAsyncData(`${route.path}-siblings`, async () => {
@@ -70,8 +88,6 @@ const ogImg = computed(() => {
   }
   return 'https://www.hotrecipes.co.uk/cover.png'
 })
-
-const localePath = useLocalePath()
 
 useSeoMeta({
   title: () => page.value?.title || appConfig.siteName,
