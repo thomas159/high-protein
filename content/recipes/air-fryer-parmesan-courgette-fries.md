@@ -7,7 +7,7 @@ title: Crispy 15-Minute Air Fryer Parmesan Courgette (Zucchini) Fries
 slug: air-fryer-parmesan-courgette-fries
 meta:
   seoMetaDescription: Craving crispy fries with virtually zero calories? These 15-minute air fryer parmesan courgette fries deliver a salty, mozzarella-stick crunch under 80 kcal.
-description: 'The ultimate high-volume snack cheat code. Slicing fresh courgette into sturdy batons and tossing them in a savory parmesan, herb, and garlic crust creates a blistered, golden shell in the air fryer without a single drop of cooking oil. Clocking in at just 77 calories with 6g of protein, these satisfy serious crunch cravings while keeping your macros locked in.
+description: 'The ultimate high-volume snack cheat code. Slicing fresh courgette into sturdy batons and tossing them in a savoury parmesan, herb, and garlic crust creates a blistered, golden shell in the air fryer without a single drop of cooking oil. Clocking in at just 77 calories with 6g of protein, these satisfy serious crunch cravings while keeping your macros locked in.
   '
 blurb: []
 image: air-fryer-parmesan-courgette-fries_k618ij
@@ -55,7 +55,7 @@ variations:
 - 'Spicy Paprika Crunch: Add 1/2 tsp smoked paprika or cayenne pepper to the parmesan seasoning dust for a fiery kick.'
 - 'Zesty Lemon Pepper: Finish the hot fries with fresh lemon zest and cracked black pepper.'
 - 'Herb Swap: Substitute dried oregano or rosemary for the Italian herb blend.'
-servingSuggestions: Plate immediately while piping hot and rigid. Serve with a creamy 2-ingredient garlic Greek yogurt dip and an editorial scatter of red chilli flakes for heat and color.
+servingSuggestions: Plate immediately while piping hot and rigid. Serve with a creamy 2-ingredient garlic Greek yogurt dip and an editorial scatter of red chilli flakes for heat and colour.
 storageInstructions: Best enjoyed fresh and hot straight out of the air fryer. Leftovers can be kept in the fridge for up to 2 days; pop them back in the air fryer at 190°C for 3-4 minutes to restore their crispiness. Do not freeze.
 prepTimeMins: 5
 cookTimeMins: 12
@@ -67,7 +67,7 @@ macros:
   fat: 4
 ingredients:
 - item: Courgette (zucchini)
-  type: medium, cut into 3-inch fries
+  type: medium, cut into 7-8 cm batons
   amount: 1
 - item: Parmesan cheese
   type: finely grated
@@ -95,10 +95,10 @@ faq:
 - question: Do they really taste like mozzarella sticks?
   answer: Yes! The blistered parmesan forms a salty, savoury outer shell that closely mimics the crust and flavour of a mozzarella stick without flour, eggs, or deep frying.
 - question: Can I make these in a standard oven?
-  answer: Yes. Bake on a parchment-lined wire rack at 220°C (425°F) for 15-18 minutes until the cheese is blistered and golden. An air fryer will still yield the crispiest result due to rapid air circulation.
+  answer: Yes. Bake on a parchment-lined wire rack at 220°C for 15-18 minutes until the cheese is blistered and golden. An air fryer will still yield the crispiest result due to rapid air circulation.
 steps:
-- Slice your courgette into uniform "fries", aiming for about 3 inches long so they have a sturdy "mozzarella stick" feel. Pat them thoroughly bone-dry with paper towels.
-- In a small bowl, mix your parmesan, Italian herbs, and garlic powder until the seasoning forms a fine, savory dust.
+- Slice your courgette into uniform fries, aiming for about 7-8 cm long so they have a sturdy mozzarella-stick feel. Pat them thoroughly bone-dry with paper towels.
+- In a small bowl, mix your parmesan, Italian herbs, and garlic powder until the seasoning forms a fine, savoury dust.
 - Toss the courgette fries in the parmesan mixture, pressing the cheese into the surface so it forms a thick, textured crust.
 - Arrange them in the air fryer basket in a single layer with plenty of space between each fry for the air to circulate.
 - Air fry at 200°C for 12 minutes until the parmesan is blistering and a deep, vivid golden-brown.

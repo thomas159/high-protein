@@ -13,11 +13,28 @@ const localePath = useLocalePath();
 const router = useRouter();
 const setI18nParams = useSetI18nParams();
 
-const formatTag = (tag: string) => {
-  if (te("tags." + tag)) {
-    return t("tags." + tag);
+// Map raw or unplugin-vue-i18n compiled AST objects back to a clean string
+const getStaticValue = (val: any): string => {
+  if (typeof val === "string") return val;
+  if (val && typeof val === "object") {
+    if ("static" in val && typeof val.static === "string") return val.static;
+    if ("s" in val && typeof val.s === "string") return val.s;
+    if (val.b && typeof val.b === "object" && "s" in val.b && typeof val.b.s === "string") return val.b.s;
+    if (val.body && typeof val.body === "object" && "static" in val.body && typeof val.body.static === "string")
+      return val.body.static;
+    if (val.loc && typeof val.loc === "object" && "source" in val.loc && typeof val.loc.source === "string")
+      return val.loc.source;
   }
-  return tag.replace(/-/g, " ").replace(/\b\w/g, (c) => c.toUpperCase());
+  return typeof val === "object" ? "" : String(val || "");
+};
+
+const formatTag = (tag: any) => {
+  const cleanTag = getStaticValue(tag);
+  if (!cleanTag) return "";
+  if (te("tags." + cleanTag)) {
+    return t("tags." + cleanTag);
+  }
+  return cleanTag.replace(/-/g, " ").replace(/\b\w/g, (c) => c.toUpperCase());
 };
 
 const categorySlug = computed(() => route.params.slug as string);
@@ -26,19 +43,6 @@ const categorySlug = computed(() => route.params.slug as string);
 const enSlugs = enLocales.categorySlugs as Record<string, string>;
 const esSlugs = esLocales.categorySlugs as Record<string, string>;
 const deSlugs = deLocales.categorySlugs as Record<string, string>;
-
-// Map the provided slug back to the internal key (e.g. "cena" -> "dinner", or "dinner" -> "dinner")
-const getStaticValue = (val: any): string => {
-  if (typeof val === "string") return val;
-  if (val && typeof val === "object") {
-    if ("static" in val) return val.static;
-    if ("s" in val) return val.s;
-    if (val.b && typeof val.b === "object" && "s" in val.b) return val.b.s; // Support unplugin-vue-i18n AST
-    if (val.body && typeof val.body === "object" && "static" in val.body)
-      return val.body.static;
-  }
-  return String(val || "");
-};
 
 const resolveKey = computed(() => {
   const currentSlug = categorySlug.value;
@@ -76,27 +80,24 @@ watch(
   { immediate: true },
 );
 
-// 2. Identify the accurate slug for the CURRENT language's database query
-const resolvedDbSlug = computed(() => {
-  let val = enSlugs[resolveKey.value] || resolveKey.value;
-  if (locale.value === "es") {
-    val = esSlugs[resolveKey.value] || resolveKey.value;
-  } else if (locale.value === "de") {
-    val = deSlugs[resolveKey.value] || resolveKey.value;
-  }
-  return getStaticValue(val);
-});
 
-const showFilters = ref(false);
-
-const getCategoryName = (key: string) => {
+const getCategoryName = (key: string): string => {
   const staticKey = getStaticValue(key);
-  if (locale.value === "es") {
-    return (esLocales.categories as Record<string, string>)[staticKey] || staticKey;
-  } else if (locale.value === "de") {
-    return (deLocales.categories as Record<string, string>)[staticKey] || staticKey;
+  if (!staticKey) return "";
+  if (te("categories." + staticKey)) {
+    return t("categories." + staticKey);
   }
-  return (enLocales.categories as Record<string, string>)[staticKey] || staticKey;
+  let raw: any = "";
+  if (locale.value === "es") {
+    raw = (esLocales.categories as Record<string, any>)?.[staticKey];
+  } else if (locale.value === "de") {
+    raw = (deLocales.categories as Record<string, any>)?.[staticKey];
+  } else {
+    raw = (enLocales.categories as Record<string, any>)?.[staticKey];
+  }
+  const resolved = getStaticValue(raw);
+  if (resolved) return resolved;
+  return staticKey.replace(/-/g, " ").replace(/\b\w/g, (c) => c.toUpperCase());
 };
 
 const categoryName = computed(() => getCategoryName(categoryKey.value));
@@ -136,7 +137,6 @@ useSchemaOrg([
 // 1. Fetch recipes for this specific category
 const {
   data: recipes,
-  refresh: refreshRecipes,
   status,
 } = await useAsyncData(
   () => `category-${resolveKey.value}-${locale.value}`,
@@ -173,16 +173,7 @@ const availableTags = computed(() => {
       recipe.tags.forEach((rawTag: any) => {
         if (!rawTag) return;
 
-        let tagStr = "";
-        if (typeof rawTag === "string") {
-          tagStr = rawTag;
-        } else if (typeof rawTag === "object") {
-          tagStr = rawTag.value || rawTag.static || rawTag.s || "";
-        } else {
-          tagStr = String(rawTag);
-        }
-
-        tagStr = tagStr.trim().toLowerCase();
+        const tagStr = getStaticValue(rawTag).trim().toLowerCase();
         if (tagStr && tagStr !== "[object object]" && tagStr !== "vegetarian") {
           tags.add(tagStr);
         }
@@ -244,17 +235,7 @@ const filteredRecipes = computed(() => {
     if (!recipe.tags || !Array.isArray(recipe.tags)) return false;
 
     const lowerRecipeTags = recipe.tags
-      .map((rawTag: any) => {
-        let tagStr = "";
-        if (typeof rawTag === "string") {
-          tagStr = rawTag;
-        } else if (typeof rawTag === "object") {
-          tagStr = rawTag.value || rawTag.static || rawTag.s || "";
-        } else {
-          tagStr = String(rawTag || "");
-        }
-        return tagStr.trim().toLowerCase();
-      })
+      .map((rawTag: any) => getStaticValue(rawTag).trim().toLowerCase())
       .filter(Boolean);
 
     return selectedTags.value.every((tag) => lowerRecipeTags.includes(tag));
@@ -304,7 +285,7 @@ const filteredRecipes = computed(() => {
       <!-- Horizontal Tag Filters -->
       <div
         v-if="availableTags.length > 0"
-        class="flex items-center gap-[1px] md:gap-2 overflow-x-auto pb-4 no-scrollbar -mx-[1px] px-[1px] md:mx-0 md:px-0 mask-fade-edges"
+        class="mt-6 flex items-center gap-[1px] md:gap-2 overflow-x-auto pb-1 no-scrollbar -mx-[1px] px-[1px] md:mx-0 md:px-0 mask-fade-edges"
       >
         <button
           v-for="tag in availableTags"

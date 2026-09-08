@@ -20,5 +20,5 @@ recipes:
   - slug: "air-fryer-sour-cream-fries"
     text: "When you need something rich but refuse to blow your calorie budget. These hit the air fryer for a deep crunch before being absolutely drenched in a velvety, garlic-infused sour cream sauce. The temperature contrast between the piping hot fries and the cool sauce is top-tier."
   - slug: "air-fryer-parmesan-courgette-fries"
-    text: "The ultimate volume-eating cheat code. Slicing courgette into sturdy batons and tossing them in a savory parmesan crust yields an impossibly crunchy snack for just 77 calories. They capture deep-fried mozzarella stick vibes with zero oil and zero guilt."
+    text: "The ultimate volume-eating cheat code. Slicing courgette into sturdy batons and tossing them in a savoury parmesan crust yields an impossibly crunchy snack for just 77 calories. They capture deep-fried mozzarella stick vibes with zero oil and zero guilt."
 ---
