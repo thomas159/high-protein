@@ -40,3 +40,10 @@ To rank as an elite authority, recipes must go beyond basic instructions. Always
 * **Substance over Style (Hard Data Over Fluff):** Build trust by replacing vague fitness buzzwords with concrete data comparisons (e.g., "packing ~10g of protein per serving, this is significantly higher than standard cheesecake").
 * **Food Science as Simple Trickery (The "Why"):** Keep food science explanations strictly practical, easy to grasp, and linked to visual household cues. Avoid textbook terms like 'coagulation' or 'Maillard caramelisation' inside the description. Explain physical mechanics using everyday household words (e.g., how starch absorbs moisture on the surface of tofu to create a thin, crispy, glassy barrier).
 * **Dynamic Quantities (No Hardcoded Amounts):** Never write specific ingredient amounts in the recipe descriptions, tips, or steps. Users can scale recipe servings, so hardcoded text amounts will become incorrect. Always refer to ingredients generally (e.g., "Boil the noodles"). When defining the actual `ingredients` array data, strictly use metric weights (g, ml).
+
+## Frontend & UI Layout Guidelines
+
+* **Categories Page Mobile Edge Padding (`app/pages/categories/[slug].vue`):**
+  * **DO NOT REMOVE** the `-mx-5 px-[1px] md:mx-0 md:px-0` classes on the categories page root container (`<div class="-mx-5 px-[1px] md:mx-0 md:px-0 space-y-6">`).
+  * On mobile screens, the default layout container applies `px-5`. The categories page intentionally negates this with `-mx-5` and applies a `1px` side padding (`px-[1px]`) instead of standard container padding. This produces a consistent 1px border/gutter on the mobile edges matching the 2-column recipe grid's internal `gap-[1px]`. On desktop (`md:`), it resets via `md:mx-0 md:px-0`.
+  * Preserving this is mandatory—never revert, simplify, or strip these classes during refactoring, styling, or cleanup passes.

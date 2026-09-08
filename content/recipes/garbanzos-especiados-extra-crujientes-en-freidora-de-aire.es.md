@@ -3,11 +3,11 @@ categories:
 - 15minutemeals
 - airfryer
 - snacks
-title: Garbanzos especiados extra crujientes en freidora de aire
+title: Los definitivos garbanzos especiados extra crujientes en freidora de aire en 20 minutos
 slug: garbanzos-especiados-extra-crujientes-en-freidora-de-aire
 meta:
-  seoMetaDescription: ¿Buscas un snack salado y crujiente sin calorías de más? Estos garbanzos especiados en freidora de aire tienen solo 77 kcal y quedan ultra crujientes en 15 min.
-description: 'La solución definitiva al picoteo descontrolado. Escurrir y secar a fondo los garbanzos cocidos antes de cocinarlos a 200 °C crea una textura crujiente insuperable que supera a cualquier snack de bolsa. Aderezados con pimentón ahumado, comino y sal de ajo, este snack rico en fibra y proteína vegetal aporta solo 77 calorías por ración.
+  seoMetaDescription: ¿Buscas un crujido salado sin calorías de más? Estos garbanzos especiados en freidora de aire ofrecen mínima preparación, máximo sabor y solo 77 kcal en 20 minutos.
+description: 'La solución definitiva al picoteo descontrolado. Escurrir y secar a fondo los garbanzos cocidos antes de cocinarlos a 200 °C crea una textura crujiente insuperable que supera a cualquier snack de bolsa. Aderezados con pimentón ahumado, comino y sal de ajo, este snack rico en fibra y proteína vegetal está listo en veinte minutos y aporta solo 77 calorías por ración.
   '
 blurb: []
 image: air-fryer-crispy-spiced-chickpeas_fwkzlo
@@ -49,11 +49,11 @@ why:
 - 'Frena el picoteo sin sentido: Satisface el antojo de patatas fritas y aperitivos salados con ingredientes limpios y saciantes.'
 - 'Saciedad prolongada: Su contenido en fibra y almidón resistente estabiliza la glucosa y silencia las señales de hambre durante horas.'
 - 'Mucho mejor que los de bolsa: Infinitamente más frescos, aromáticos y crujientes por dentro que cualquier snack empaquetado del supermercado.'
-muscleBuildingTip: Los garbanzos son una excelente fuente de carbohidratos complejos, fibra y proteína vegetal. Aunque una porción individual de 50 g aporta 4 g de proteína para solo 77 kcal, puedes multiplicar fácilmente la receta usando un bote entero (240 g escurridos) para obtener casi 20 g de proteína vegetal post-entrenamiento.
+muscleBuildingTip: Los garbanzos son una excelente fuente de carbohidratos complejos, fibra y proteína vegetal. Aunque una porción individual aporta 4 g de proteína para solo 77 kcal, puedes multiplicar fácilmente la receta usando un bote entero escurrido para obtener casi 20 g de proteína vegetal post-entrenamiento.
 variations:
-- 'Toque picante con cayena: Añade 1/4 cucharadita de pimienta de cayena o chile en polvo para un extra de picante.'
+- 'Toque picante con cayena: Añade una pizca de pimienta de cayena o chile en polvo para un extra de picante.'
 - 'Aroma a curry: Cambia el pimentón y el comino por curry madrás suave y una pizca de cúrcuma.'
-- 'Lote completo semanal: Usa un bote entero de 400 g (240 g escurridos) y cuadruplica las especias para tener snacks listos toda la semana.'
+- 'Lote completo semanal: Usa un bote entero escurrido y multiplica las especias para tener snacks listos toda la semana.'
 servingSuggestions: Espolvorea con una pizca extra de sal en escamas y un toque de pimentón ahumado recién salidos de la freidora. Sirve calientes como aperitivo o añádelos a ensaladas y boles para un toque crujiente.
 storageInstructions: Consumir preferiblemente recién hechos. Para guardar, deja enfriar por completo y almacena en un recipiente hermético a temperatura ambiente hasta 3 días. Si pierden crujiente por la humedad, caliéntalos en la freidora de aire a 180 °C durante 2-3 minutos.
 prepTimeMins: 5
@@ -94,7 +94,7 @@ steps:
 - Escurre bien los garbanzos en un colador. Colócalos entre dos capas de papel de cocina y sécalos a fondo con suaves frotaciones hasta que la piel quede mate y sin nada de humedad.
 - Pásalos a un cuenco pequeño, dales un toque ligero con aceite de oliva en spray y añade el pimentón ahumado, el comino molido y la sal de ajo, removiendo hasta que queden bien cubiertos.
 - Vierte los garbanzos en la cesta de la freidora de aire y repártelos en una sola capa para que no queden unos encima de otros.
-- Cocina en la freidora de aire a 200 °C durante 15 minutos, agitando enérgicamente la cesta cada 5 minutos para que se doren de forma uniforme por todos los lados.
+- Cocina en la freidora de aire a 200 °C durante 15 minutos, dando un buen meneo a la cesta cada 5 minutos para que se doren de forma uniforme por todos los lados.
 - Comprueba el punto al llegar a los 15 minutos: sabrás que están listos cuando suenen como pequeñas piedrecitas duras al chocar contra la cesta.
 - Pásalos a un cuenco y espolvorea con un poco más de sal en escamas y una pizca de pimentón mientras aún están calientes para un acabado perfecto.
 ---

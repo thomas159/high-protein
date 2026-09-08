@@ -244,7 +244,7 @@ const filteredRecipes = computed(() => {
 </script>
 
 <template>
-  <div class="space-y-6">
+  <div class="-mx-5 px-[1px] md:mx-0 md:px-0 space-y-6">
     <!-- Category Header -->
     <div
       class="bg-gradient-to-br from-card/80 to-card/40 border border-border/60 rounded-3xl p-6 md:p-8 backdrop-blur-sm relative overflow-hidden"

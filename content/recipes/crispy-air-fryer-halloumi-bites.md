@@ -7,7 +7,7 @@ title: The Ultimate Crispy 10-Minute Air Fryer Halloumi Bites
 slug: crispy-air-fryer-halloumi-bites
 meta:
   seoMetaDescription: Craving a salty, savoury crunch fast? These ultimate crispy 10-minute air fryer halloumi bites deliver maximum flavour with minimal prep for just 95 kcal.
-description: 'Crispy on the outside, warm and squeaky on the inside, and blistered to perfection in eight minutes flat. Ditching the frying pan for the air fryer gives you an incredible golden crust using the cheese''s natural fats—zero extra oil required. Drizzled with warm runny honey, crushed chilli flakes, and fresh thyme, this quick bite delivers a high-contrast salty-sweet hit while keeping your macros well in check.'
+description: 'Crispy on the outside, warm and squeaky on the inside, and blistered to perfection in ten minutes flat. Ditching the frying pan for the air fryer gives you an incredible golden crust using the cheese''s natural fats—zero extra oil required. Drizzled with warm runny honey, crushed chilli flakes, and fresh thyme, this quick bite delivers a high-contrast salty-sweet hit while keeping your macros well in check.'
 blurb: []
 image: crispy-air-fryer-halloumi-bites_wfu9mt
 alt: Crispy air fryer halloumi bites drizzled with runny honey, chilli flakes, and fresh thyme
@@ -94,5 +94,5 @@ steps:
 - Air fry at 200°C for 8 minutes, checking around the 6-minute mark until the cubes turn a vivid, deep golden-amber.
 - Transfer the sizzling halloumi bites to a small serving plate and immediately drizzle the runny honey in thin ribbons across the hot surface.
 - Shower the bites with red chilli flakes and picked fresh thyme leaves for a high-contrast sweet, spicy, and herbal punch.
-- Finish with a delicate pinch of flaky sea salt and serve immediately while the center is warm and squeaky.
+- Finish with a delicate pinch of flaky sea salt and serve immediately while the centre is warm and squeaky.
 ---
