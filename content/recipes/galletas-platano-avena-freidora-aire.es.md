@@ -10,7 +10,7 @@ meta:
   seoMetaDescription: ¿Buscas un capricho dulce y saludable con menos de 100 kcal? Estas galletas de plátano y avena en freidora de aire con chocolate negro se hacen en 10 minutos sin harina ni azúcar.
 description: 'Solo dos ingredientes integrales de base bastan para crear el bocado dulce definitivo para estabilizar tus niveles de glucosa. La freidora de aire obra su magia en solo ocho minutos, transformando medio plátano maduro y copos de avena en galletas tibias, jugosas por dentro y con los bordes dorados y crujientes. Coronadas con pepitas de chocolate negro al 85% y un toque de canela, nadie creerá que la tanda completa tiene menos de 100 calorías.'
 blurb: []
-image: air-fryer-banana-oat-cookies_k8j3nx
+image: air-fryer-banana-oat-cookies_1_y6nwl5
 alt: Galletas doradas de plátano y avena en freidora de aire con pepitas de chocolate negro fundidas
 pintrest: ''
 cuisine: Americana
