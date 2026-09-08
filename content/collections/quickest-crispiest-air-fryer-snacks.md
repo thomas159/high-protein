@@ -21,5 +21,7 @@ recipes:
     text: "Skip the store-bought packets. A quick blast in the air fryer turns a handful of canned chickpeas into shatteringly crisp, smoky, paprika-dusted savoury bites for under 80 kcal."
   - slug: "crispy-air-fryer-halloumi-bites"
     text: "Squeaky, salty halloumi turns blistered and deeply golden in just eight minutes. A quick ribbon of runny honey and crushed chilli flakes creates a sticky restaurant-grade starter that delivers 7g of protein for under 100 calories."
+  - slug: "air-fryer-banana-oat-cookies"
+    text: "Just two base ingredients and eight minutes in the air fryer turn ripe banana and rolled oats into warm, chewy, jammy cookies with crisp golden edges and dark chocolate for under 100 calories."
 ---
 

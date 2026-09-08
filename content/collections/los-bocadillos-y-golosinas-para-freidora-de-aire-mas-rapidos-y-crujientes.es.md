@@ -46,4 +46,7 @@ recipes:
   text: El halloumi salado queda dorado y crujiente por fuera en solo ocho minutos.
     Un toque de miel y copos de guindilla crea un aperitivo irresistible con 7 g de
     proteína por menos de 100 calorías.
+- slug: galletas-platano-avena-freidora-aire
+  text: Con solo dos ingredientes base y ocho minutos de freidora de aire, el plátano
+    maduro y la avena se transforman en galletas tiernas y aromáticas con pepitas de chocolate por menos de 100 calorías.
 ---
