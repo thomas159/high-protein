@@ -43,7 +43,7 @@ const { t } = useI18n()
     <div class="h-52 w-full overflow-hidden relative">
       <Img 
         :src="props.recipe.image"   
-        :alt="props.recipe.alt"
+        :alt="props.recipe.alt || props.recipe.title"
         class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110" 
       />
       <div class="absolute top-3 left-3 flex flex-wrap gap-2">

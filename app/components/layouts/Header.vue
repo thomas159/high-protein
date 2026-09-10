@@ -51,10 +51,10 @@ const toggleTheme = () => {
   <nav class="relative container border-b border-border">
     <div class="mx-auto px-4 py-2 flex items-center justify-between">
       
- <NuxtLink :to="localePath('/')" class="block w-[200px]" aria-label="Homepage">
+ <NuxtLink :to="localePath('/')" class="block w-[200px]" aria-label="Hot Recipes Homepage">
   <img
     src="/images/logo.avif"
-    alt="Logo"
+    alt="Hot Recipes - High-Protein Vegetarian & Vegan Recipes"
     width="200"
     height="50"
     class="w-full h-auto dark:hidden block" 
@@ -62,7 +62,7 @@ const toggleTheme = () => {
     
   <img
     src="/images/logo-dark.avif"
-    alt="Logo"
+    alt="Hot Recipes - High-Protein Vegetarian & Vegan Recipes"
     width="200"
     height="50"
     class="w-full h-auto hidden dark:block" 

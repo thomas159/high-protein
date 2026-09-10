@@ -40,7 +40,32 @@ export default defineNuxtConfig({
   },
   sitemap: {
     includeAppSources: true,
-    exclude: ['/api/**'],
+    autoLastmod: true,
+    exclude: [
+      '/api/**',
+      // Redirect stubs (301 redirects to /categories/all-recipes)
+      '/recipes',
+      '/recetas',
+      '/rezepte',
+      '/es/recetas',
+      '/de/rezepte',
+      '/categories',
+      '/categorias',
+      '/kategorien',
+      '/es/categorias',
+      '/de/kategorien',
+      // Noindex legal pages
+      '/privacy-policy',
+      '/politica-de-privacidad',
+      '/datenschutz',
+      '/es/politica-de-privacidad',
+      '/de/datenschutz',
+      '/terms-of-service',
+      '/terminos-de-servicio',
+      '/nutzungsbedingungen',
+      '/es/terminos-de-servicio',
+      '/de/nutzungsbedingungen',
+    ],
     sources: [
       '/api/__sitemap__/urls', // Internal route for content discovery
     ]

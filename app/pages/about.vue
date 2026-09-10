@@ -1,14 +1,20 @@
 <script setup lang="ts">
 const appConfig = useAppConfig()
 const { t } = useI18n()
+const localePath = useLocalePath()
+const siteUrl = 'https://www.hotrecipes.co.uk'
+const pageUrl = computed(() => `${siteUrl}${localePath('/about')}`)
 
 useSeoMeta({
   title: () => t('seo.about.title', { siteName: appConfig.siteName }),
   description: () => t('seo.about.description', { siteName: appConfig.siteName }),
   ogTitle: () => t('seo.about.title', { siteName: appConfig.siteName }),
   ogDescription: () => t('seo.about.description', { siteName: appConfig.siteName }),
+  ogUrl: () => pageUrl.value,
+  ogImage: 'https://www.hotrecipes.co.uk/images/tom-gym.avif',
   twitterTitle: () => t('seo.about.title', { siteName: appConfig.siteName }),
   twitterDescription: () => t('seo.about.description', { siteName: appConfig.siteName }),
+  twitterImage: 'https://www.hotrecipes.co.uk/images/tom-gym.avif',
   twitterCard: 'summary_large_image'
 })
 
@@ -17,7 +23,6 @@ const stats = [
   { label: 'Home Cooks', value: '10k+' },
   { label: 'Kitchen Tips', value: '100+' },
 ]
-const localePath = useLocalePath()
 </script>
 
 <template>

@@ -129,10 +129,10 @@ useSchemaOrg([
     image: schemaImages,
     datePublished: (recipe.value as any)?.date || (recipe.value as any)?.updatedAt || '2025-01-01',
     dateModified: (recipe.value as any)?.updatedAt || (recipe.value as any)?.date || '2025-01-01',
-    aggregateRating: recipe.value?.rating ? {
+    aggregateRating: (recipe.value?.rating && recipe.value?.reviews && recipe.value.reviews > 0) ? {
       '@type': 'AggregateRating',
       ratingValue: recipe.value.rating,
-      reviewCount: recipe.value.reviews || 1
+      reviewCount: recipe.value.reviews
     } : undefined,
     author: {
       '@type': 'Person',
@@ -324,7 +324,7 @@ useHead({
         <h2 id="howToMake" class="scroll-mt-20 text-3xl md:text-5xl font-black uppercase tracking-tighter italic text-foreground mt-12 mb-6">{{ t('recipes.howToMake', { title: recipe.title }) }}</h2>
         <div class="markdown-recipe-body mt-6 border-b border-border pb-12">
           <ol>
-            <li v-for="(step, index) in recipe.steps" :key="index">
+            <li v-for="(step, index) in recipe.steps" :id="`step-${index + 1}`" :key="index" class="scroll-mt-24">
               <div class="step-content flex flex-col gap-4">
                 <template v-if="step.text">
                   <p v-html="formatText(step.text)"/>

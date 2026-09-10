@@ -2,7 +2,6 @@
 const route = useRoute()
 const { t, locale } = useI18n()
 const localePath = useLocalePath()
-const appConfig = useAppConfig()
 
 // Query all collections for the active locale
 const { data: collections } = await useAsyncData(`collections-index-${locale.value}`, async () => {
@@ -35,13 +34,15 @@ useSeoMeta({
   twitterCard: 'summary_large_image'
 })
 
+const toAbsoluteUrl = (pathStr: string) => `https://www.hotrecipes.co.uk${pathStr.startsWith('/') ? pathStr : `/${pathStr}`}`
+
 // Schema.org Structured Data
 if (import.meta.server) {
   useSchemaOrg([
     defineBreadcrumb({
       itemListElement: [
-        { name: () => t('nav.home'), item: localePath('/') },
-        { name: () => t('recipes.collections'), item: localePath('/collections') }
+        { name: () => t('nav.home'), item: toAbsoluteUrl(localePath('/')) },
+        { name: () => t('recipes.collections'), item: toAbsoluteUrl(localePath('/collections')) }
       ]
     }),
     defineItemList({

@@ -29,7 +29,6 @@ useHead(() => ({
   },
   meta: [
     { name: 'p:domain_verify', content: 'e4bd68dbe0b0482e0504097aa8617742' },
-    { name: 'description', content: t('seo.home.description') },
     { name: 'google-adsense-account', content: 'ca-pub-9057939602568225' },
     ...(head.value.meta || [])
   ],
@@ -75,7 +74,10 @@ useSchemaOrg([
   definePerson({
     name: 'Tom',
     description: 'Software developer, avid gym goer and vegetarian home cook.',
-    image: '/images/tom-gym.avif',
+    image: 'https://www.hotrecipes.co.uk/images/tom-gym.avif',
+    sameAs: [
+      'https://www.pinterest.com/hotRecipesUk'
+    ]
   })
 ])
 </script>

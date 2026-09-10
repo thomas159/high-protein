@@ -12,7 +12,7 @@ const props = withDefaults(defineProps<{
   high?: boolean;
 }>(), {
   src: 'https://images.unsplash.com/photo-1520072959219-c595dc870360?auto=format&fit=crop&q=80&w=1000',
-  alt: 'Recipe Image',
+  alt: 'High-Protein Recipe Meal',
   loading: undefined,
   priority: false,
   preload: false,

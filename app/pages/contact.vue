@@ -32,13 +32,20 @@ const handleSubmit = async () => {
   }
 }
 
+const localePath = useLocalePath()
+const siteUrl = 'https://www.hotrecipes.co.uk'
+const pageUrl = computed(() => `${siteUrl}${localePath('/contact')}`)
+
 useSeoMeta({
   title: () => t('seo.contact.title', { siteName: appConfig.siteName }),
   description: () => t('seo.contact.description', { siteName: appConfig.siteName }),
   ogTitle: () => t('seo.contact.title', { siteName: appConfig.siteName }),
   ogDescription: () => t('seo.contact.description', { siteName: appConfig.siteName }),
+  ogUrl: () => pageUrl.value,
+  ogImage: 'https://www.hotrecipes.co.uk/cover.png',
   twitterTitle: () => t('seo.contact.title', { siteName: appConfig.siteName }),
   twitterDescription: () => t('seo.contact.description', { siteName: appConfig.siteName }),
+  twitterImage: 'https://www.hotrecipes.co.uk/cover.png',
   twitterCard: 'summary_large_image'
 })
 </script>

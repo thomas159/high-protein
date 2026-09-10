@@ -3,6 +3,7 @@ import { ref, computed, watch } from "vue";
 import { useRoute, useRouter } from "vue-router";
 import { useSetI18nParams } from "#imports";
 import Button from "@/components/common/Button.vue";
+import { RECIPE_CATEGORIES } from "@/utils/constants";
 import enLocales from "../../../i18n/locales/en.json";
 import esLocales from "../../../i18n/locales/es.json";
 import deLocales from "../../../i18n/locales/de.json";
@@ -128,24 +129,42 @@ const descText = computed(() => {
     : t("categoryPage.categoryDesc", { category: categoryName.value });
 });
 
+const ogImg = computed(() => {
+  const cat = RECIPE_CATEGORIES.find((c) => c.key === resolveKey.value);
+  if (cat?.image) {
+    return cat.image.startsWith("http")
+      ? cat.image
+      : `https://res.cloudinary.com/mealse-co-uk/image/upload/f_auto,q_auto/${cat.image}`;
+  }
+  return "https://www.hotrecipes.co.uk/cover.png";
+});
+
 useSeoMeta({
   title: () => titleText.value,
   description: () => descText.value,
   ogTitle: () => titleText.value,
   ogDescription: () => descText.value,
   ogUrl: `https://www.hotrecipes.co.uk${route.path}`,
-  ogImage: 'https://www.hotrecipes.co.uk/cover.png',
+  ogImage: ogImg,
   twitterTitle: () => titleText.value,
   twitterDescription: () => descText.value,
-  twitterImage: 'https://www.hotrecipes.co.uk/cover.png',
+  twitterImage: ogImg,
   twitterCard: "summary_large_image",
 });
 
+const toAbsoluteUrl = (pathStr: string) => `https://www.hotrecipes.co.uk${pathStr.startsWith('/') ? pathStr : `/${pathStr}`}`
+
 useSchemaOrg([
   defineWebPage({
-    name: titleText.value,
-    description: descText.value,
+    name: () => titleText.value,
+    description: () => descText.value,
   }),
+  defineBreadcrumb({
+    itemListElement: computed(() => [
+      { name: t('nav.home'), item: toAbsoluteUrl(localePath('/')) },
+      { name: categoryName.value, item: toAbsoluteUrl(route.path) }
+    ])
+  })
 ]);
 
 // 1. Fetch recipes for this specific category
@@ -266,11 +285,15 @@ const filteredRecipes = computed(() => {
       <div
         class="absolute -right-10 -bottom-10 w-48 h-48 bg-primary/5 rounded-full blur-3xl pointer-events-none"
       />
-      <div class="flex items-center gap-2 mb-2">
-        <span class="text-xs font-bold tracking-widest uppercase text-primary">
-          Category
-        </span>
-      </div>
+      <!-- Breadcrumb -->
+      <nav aria-label="Breadcrumb" class="flex items-center gap-2 text-xs font-semibold text-muted-foreground mb-3">
+        <NuxtLink :to="localePath('/')" class="hover:text-foreground transition-colors flex items-center gap-1">
+          <UIcon name="i-lucide-home" class="w-3.5 h-3.5" />
+          {{ t('nav.home') }}
+        </NuxtLink>
+        <UIcon name="i-lucide-chevron-right" class="w-3.5 h-3.5 text-muted-foreground/50" />
+        <span class="text-primary font-bold uppercase tracking-wider text-[11px]">{{ categoryName }}</span>
+      </nav>
 
       <div class="flex flex-col md:flex-row md:items-end justify-between gap-4">
         <div>

@@ -105,8 +105,17 @@ useSeoMeta({
   twitterCard: 'summary_large_image'
 })
 
+const toAbsoluteUrl = (pathStr: string) => `https://www.hotrecipes.co.uk${pathStr.startsWith('/') ? pathStr : `/${pathStr}`}`
+
 if (import.meta.server) {
   useSchemaOrg([
+    defineBreadcrumb({
+      itemListElement: computed(() => [
+        { name: t('nav.home'), item: toAbsoluteUrl(localePath('/')) },
+        { name: t('recipes.collections'), item: toAbsoluteUrl(localePath('/collections')) },
+        { name: page.value?.title || 'Collection', item: toAbsoluteUrl(route.path) }
+      ])
+    }),
     defineItemList({
       name: () => page.value?.title,
       description: () => page.value?.description,
@@ -126,6 +135,20 @@ const { formatText } = useFormatText()
 
 <template>
   <div v-if="page" class="max-w-5xl mx-auto px-4 py-12">
+    <!-- Breadcrumb -->
+    <nav aria-label="Breadcrumb" class="flex items-center gap-2 text-xs font-semibold text-muted-foreground mb-8">
+      <NuxtLink :to="localePath('/')" class="hover:text-foreground transition-colors flex items-center gap-1">
+        <UIcon name="i-lucide-home" class="w-3.5 h-3.5" />
+        {{ t('nav.home') }}
+      </NuxtLink>
+      <UIcon name="i-lucide-chevron-right" class="w-3.5 h-3.5 text-muted-foreground/50" />
+      <NuxtLink :to="localePath('/collections')" class="hover:text-foreground transition-colors">
+        {{ t('recipes.collections') }}
+      </NuxtLink>
+      <UIcon name="i-lucide-chevron-right" class="w-3.5 h-3.5 text-muted-foreground/50" />
+      <span class="text-foreground truncate max-w-xs sm:max-w-md">{{ page.title }}</span>
+    </nav>
+
     <header class="text-center mb-16">
       <h1 class="text-4xl md:text-5xl font-black mb-6 text-foreground uppercase tracking-tighter italic">
         {{ page.title }}
@@ -148,7 +171,7 @@ const { formatText } = useFormatText()
 
         <!-- Image -->
         <NuxtLink :to="localePath(`/recipes/${item.recipe.slug}`)" :aria-label="item.recipe.title" class="w-full md:w-2/5 shrink-0 h-64 md:h-auto rounded-2xl overflow-hidden relative block">
-          <Img :src="item.recipe.image" :alt="item.recipe.alt" class="w-full h-full object-cover transition-transform duration-700 hover:scale-105" />
+          <Img :src="item.recipe.image" :alt="item.recipe.alt || item.recipe.title" class="w-full h-full object-cover transition-transform duration-700 hover:scale-105" />
         </NuxtLink>
 
         <!-- Content -->
