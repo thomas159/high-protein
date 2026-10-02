@@ -31,6 +31,7 @@ When generating recipe titles and slugs, never use flat, generic ingredient list
 * **Slug Rule (Pro-Tip):** Keep slugs to a strict 3-5 words, stripped to the bare essentials. Put power words at the front. Remove specific minor ingredients for broader search appeal (e.g., `easy-air-fryer-loaded-fries`). **Crucially, do not edit or change the slug if it already exists in the frontmatter to prevent breaking existing links.**
 * **Meta Description Rule:** The SEO meta description must support the title's claim. Reiterate "minimal prep, maximum flavor" and the exact time frame.
 * **Natural Keywords:** Keep keywords natural. Avoid awkward keyword stuffing at all costs.
+* **Internal Linking & Language Consistency:** Whenever adding internal links inside a recipe (to other recipes, collections, or guides), always ensure the link points to the same language version of that recipe or page. Never point a translated recipe to the default English URL or cross-link across different languages (e.g., English links to `/recipes/...` or `/collections/...`, Spanish links to `/es/recetas/...` or `/es/colecciones/...`, German links to `/de/rezepte/...` or `/de/sammlungen/...`).
 
 ## E-E-A-T & Technical Depth (Authority)
 
