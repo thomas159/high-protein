@@ -96,6 +96,6 @@ steps:
 - Die getrockneten Kichererbsen in eine kleine Schüssel geben, leicht mit Olivenöl-Spray benetzen und geräuchertes Paprikapulver, Kreuzkümmel sowie Knoblauchsalz gleichmäßig unterrühren.
 - Die gewürzten Kichererbsen in den Korb der Heißluftfritteuse geben und einlagig verteilen, damit jede Kichererbse genug Hitze abbekommt.
 - Bei 200 °C für 15 Minuten garen. Den Korb alle 5 Minuten gut durchschütteln, um eine gleichmäßige Bräunung und Knusprigkeit zu erzielen.
-- Nach 15 Minuten die Garprobe machen: Wenn sie wie kleine Kieselsteinchen im Korb rasseln und fest sind, sind sie perfekt kross.
+- "Nach 15 Minuten die Garprobe machen: Wenn sie wie kleine Kieselsteinchen im Korb rasseln und fest sind, sind sie perfekt kross."
 - In eine Schale füllen und noch heiß mit Meersalzflocken sowie etwas zusätzlichem Paprikapulver bestreuen.
 ---

@@ -17,10 +17,44 @@ export default {
   },
   "home": {
     "hero": {
+      "badge": "Más de 100 recetas probadas",
       "title": "Crea músculo,",
       "highlight": "no platos.",
       "subtitle": "Comidas vegetarianas y veganas rápidas y ricas en proteínas para personas que aman comer pero odian esperar.",
-      "stats": "Explora más de {count} recetas ricas en proteínas"
+      "stats": "Explora más de {count} recetas ricas en proteínas",
+      "spotlightBadge": "Receta destacada",
+      "viewRecipe": "Ver receta y macros",
+      "quickFilterLabel": "Filtros rápidos:"
+    },
+    "valueBanner": {
+      "speed": "Menos de 20 min de media",
+      "speedSub": "Preparación exprés",
+      "protein": "Meta de 25g+ de proteína",
+      "proteinSub": "Energía 100% vegetal",
+      "quality": "Macros reales probados",
+      "qualitySub": "Sin rodeos, ciencia exacta",
+      "plant": "100% Sin carne",
+      "plantSub": "Vegetariano y vegano"
+    },
+    "applianceBento": {
+      "title": "Especialistas en cocina rápida",
+      "airFryerTitle": "Crujiente en Air Fryer",
+      "airFryerDesc": "El máximo crujiente con el mínimo de grasa y sin tofu blando.",
+      "airFryerCta": "Explorar recetas para Air Fryer",
+      "ninjaCreamiTitle": "Laboratorio Ninja Creami",
+      "ninjaCreamiDesc": "Tarrinas de helado ricas en proteínas para calmar los antojos dulces.",
+      "ninjaCreamiCta": "Explorar recetas para Creami"
+    },
+    "editorialFeature": {
+      "badge": "Receta de la semana",
+      "kicker": "La elección de Tom • Alta en proteína",
+      "cta": "Ver receta completa y macros",
+      "author": "Tom Harrison"
+    },
+    "instagramStrip": {
+      "title": "Recién salido de la cocina",
+      "handle": "hotrecipes",
+      "subtitle": "Comida real, macros exactos y sin complicaciones."
     },
     "about": {
       "hi": "¡Hola, soy {author}! 👋",
@@ -75,6 +109,8 @@ export default {
     "muscleTips": "Consejos para ganar músculo",
     "servingSuggestions": "Sugerencias de servicio y maridajes",
     "howToMake": "Cómo hacer {title}",
+    "stepByStep": "Método paso a paso",
+    "step": "Paso {index}",
     "storage": "Almacenamiento y congelación de {title}",
     "faq": "Preguntas frecuentes",
     "loading": "Cargando receta...",

@@ -17,10 +17,44 @@ export default {
   },
   "home": {
     "hero": {
+      "badge": "100+ getestete Rezepte",
       "title": "Muskeln aufbauen,",
       "highlight": "nicht abwaschen.",
       "subtitle": "Schnelle, proteinreiche vegetarische und vegane Mahlzeiten für alle, die gerne essen, aber nicht gerne warten.",
-      "stats": "Entdecke über {count} proteinreiche Rezepte"
+      "stats": "Entdecke über {count} proteinreiche Rezepte",
+      "spotlightBadge": "Rezept-Highlight",
+      "viewRecipe": "Rezept & Makros ansehen",
+      "quickFilterLabel": "Schnellfilter:"
+    },
+    "valueBanner": {
+      "speed": "Ø unter 20 Min",
+      "speedSub": "Schnelle Feierabendküche",
+      "protein": "Ziel: 25g+ Protein",
+      "proteinSub": "Pflanzliche Power",
+      "quality": "Echt getestete Makros",
+      "qualitySub": "Kein Gelaber, pure Praxis",
+      "plant": "100% Fleischfrei",
+      "plantSub": "Vegetarisch & vegan"
+    },
+    "applianceBento": {
+      "title": "Küchengeräte-Spezialisten",
+      "airFryerTitle": "Airfryer Knusper-Hits",
+      "airFryerDesc": "Maximal knusprig bei minimalem Fett – garantiert kein matschiger Tofu.",
+      "airFryerCta": "Airfryer-Rezepte entdecken",
+      "ninjaCreamiTitle": "Ninja Creami Labor",
+      "ninjaCreamiDesc": "Proteinreiche Eis-Pints für den süßen Zahn nach dem Training.",
+      "ninjaCreamiCta": "Creami-Rezepte entdecken"
+    },
+    "editorialFeature": {
+      "badge": "Rezept der Woche",
+      "kicker": "Toms Top-Tipp • Proteinreich",
+      "cta": "Zum Rezept & Makros",
+      "author": "Tom Harrison"
+    },
+    "instagramStrip": {
+      "title": "Frisch aus der Küche",
+      "handle": "hotrecipes",
+      "subtitle": "Echtes Essen, getestete Makros, null Firlefanz."
     },
     "about": {
       "hi": "Hi, ich bin {author}! 👋",
@@ -75,6 +109,8 @@ export default {
     "muscleTips": "Tipps für den Muskelaufbau",
     "servingSuggestions": "Serviervorschläge & Beilagen",
     "howToMake": "Zubereitung von {title}",
+    "stepByStep": "Schritt-für-Schritt-Anleitung",
+    "step": "Schritt {index}",
     "storage": "Aufbewahrung & Einfrieren für {title}",
     "faq": "Häufig gestellte Fragen",
     "loading": "Rezept wird geladen...",

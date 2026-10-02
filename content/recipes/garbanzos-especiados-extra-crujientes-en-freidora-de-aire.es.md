@@ -95,6 +95,6 @@ steps:
 - Pásalos a un cuenco pequeño, dales un toque ligero con aceite de oliva en spray y añade el pimentón ahumado, el comino molido y la sal de ajo, removiendo hasta que queden bien cubiertos.
 - Vierte los garbanzos en la cesta de la freidora de aire y repártelos en una sola capa para que no queden unos encima de otros.
 - Cocina en la freidora de aire a 200 °C durante 15 minutos, dando un buen meneo a la cesta cada 5 minutos para que se doren de forma uniforme por todos los lados.
-- Comprueba el punto al llegar a los 15 minutos: sabrás que están listos cuando suenen como pequeñas piedrecitas duras al chocar contra la cesta.
+- "Comprueba el punto al llegar a los 15 minutos: sabrás que están listos cuando suenen como pequeñas piedrecitas duras al chocar contra la cesta."
 - Pásalos a un cuenco y espolvorea con un poco más de sal en escamas y una pizca de pimentón mientras aún están calientes para un acabado perfecto.
 ---

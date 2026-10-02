@@ -5,7 +5,7 @@ const { t } = useI18n()
 </script>
 
 <template>
-  <section class="container mx-auto py-8 px-6 my-12 rounded-3xl flex flex-col md:flex-row items-center gap-8 justify-center">
+  <section class="py-8 px-6 sm:px-10 my-16 rounded-3xl bg-card/60 border border-border/80 shadow-sm flex flex-col md:flex-row items-center gap-8 justify-center">
     <div class="w-32 h-32 rounded-full overflow-hidden shrink-0 ring-4 ring-emerald-500/20">
       <img src="/images/tom.avif" class="w-full h-full object-cover" :alt="appConfig.author" >
     </div>

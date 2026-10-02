@@ -17,10 +17,44 @@ export default {
   },
   "home": {
     "hero": {
+      "badge": "100+ Tested Recipes",
       "title": "Build Muscle,",
       "highlight": "Not Dishes.",
       "subtitle": "Quick, high-protein vegetarian and vegan meals for people who love to eat but hate to wait.",
-      "stats": "Explore {count}+ high-protein recipes"
+      "stats": "Explore {count}+ high-protein recipes",
+      "spotlightBadge": "Spotlight Recipe",
+      "viewRecipe": "View Recipe & Macros",
+      "quickFilterLabel": "Quick fuel filters:"
+    },
+    "valueBanner": {
+      "speed": "Under 20m Avg",
+      "speedSub": "Fast weeknight prep",
+      "protein": "25g+ Protein Target",
+      "proteinSub": "Plant-powered fuel",
+      "quality": "Real Tested Macros",
+      "qualitySub": "Zero fluff, exact science",
+      "plant": "100% Meat-Free",
+      "plantSub": "Vegetarian & vegan"
+    },
+    "applianceBento": {
+      "title": "Appliance Specialists",
+      "airFryerTitle": "Air Fryer Crunch",
+      "airFryerDesc": "Maximum crisp with minimal fat and zero soggy tofu.",
+      "airFryerCta": "Explore Air Fryer Recipes",
+      "ninjaCreamiTitle": "Ninja Creami Lab",
+      "ninjaCreamiDesc": "High-protein dessert pints that crush post-workout sweet cravings.",
+      "ninjaCreamiCta": "Explore Creami Recipes"
+    },
+    "editorialFeature": {
+      "badge": "Recipe of the Week",
+      "kicker": "Tom's Top Pick • High Protein",
+      "cta": "View Full Recipe & Macros",
+      "author": "Tom Harrison"
+    },
+    "instagramStrip": {
+      "title": "Fresh from the Kitchen",
+      "handle": "hotrecipes",
+      "subtitle": "Real food, tested macros, and zero culinary fuss."
     },
     "about": {
       "hi": "Hi, I'm {author}! 👋",
@@ -75,6 +109,8 @@ export default {
     "muscleTips": "Muscle building tips",
     "servingSuggestions": "Serving Suggestions and Pairings",
     "howToMake": "How to make {title}",
+    "stepByStep": "Step-by-Step Method",
+    "step": "Step {index}",
     "storage": "Storage and Freezing for {title}",
     "faq": "Frequently Asked Questions",
     "loading": "Loading Recipe...",

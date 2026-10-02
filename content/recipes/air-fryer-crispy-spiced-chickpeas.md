@@ -95,6 +95,6 @@ steps:
 - Toss the dry chickpeas into a small bowl. Mist lightly with olive oil spray, then sprinkle over the smoked paprika, ground cumin, and garlic salt, tossing until evenly coated.
 - Pour the seasoned chickpeas into the air fryer basket and spread them out into a single layer so every chickpea has its own personal space to roast.
 - Air fry at 200°C for 15 minutes, giving the basket a good shake every 5 minutes to ensure an even, all-over golden crunch.
-- Check for doneness around the 15-minute mark: they are ready when they sound like hard little pebbles hitting the side of the basket—firm, golden, and completely crispy.
+- "Check for doneness around the 15-minute mark: they are ready when they sound like hard little pebbles hitting the side of the basket—firm, golden, and completely crispy."
 - Transfer to a small bowl and scatter with extra flaky sea salt and a delicate dust of smoked paprika while still hot for maximum flavour.
 ---

@@ -129,6 +129,30 @@ const schemaImages = recipe.value?.image ? [
   `${baseImg}/${recipe.value.image}`
 ] : []
 
+const getStepText = (step: unknown): string => {
+  if (!step) return ''
+  if (typeof step === 'string') return step
+  if (typeof step === 'object') {
+    const record = step as Record<string, unknown>
+    if (typeof record.text === 'string') return record.text
+    const entries = Object.entries(record)
+    if (entries.length > 0) {
+      return entries.map(([k, v]) => `${k}: ${v}`).join(' ')
+    }
+  }
+  return String(step)
+}
+
+const getStepImage = (step: unknown): string | undefined => {
+  if (typeof step === 'object' && step !== null) {
+    const record = step as Record<string, unknown>
+    if (typeof record.image === 'string') {
+      return record.image
+    }
+  }
+  return undefined
+}
+
 useSchemaOrg([
   defineRecipe({
     name: recipe.value?.title,
@@ -179,19 +203,20 @@ useSchemaOrg([
       return `${amount}${i.item}${type}`.trim()
     }) || [],
     // Directions mapping
-    recipeInstructions: recipe.value?.steps?.map((step: any, index: number) => {
-      const text = typeof step === 'string' ? step : (step?.text || '')
-      const stepObj: any = {
+    recipeInstructions: recipe.value?.steps?.map((step: unknown, index: number) => {
+      const text = getStepText(step)
+      const stepObj: Record<string, unknown> = {
         '@type': 'HowToStep',
         name: `Step ${index + 1}`,
         position: index + 1,
         text,
         url: `https://www.hotrecipes.co.uk${route.path}#step-${index + 1}`
       }
-      if (typeof step === 'object' && step?.image) {
-        stepObj.image = step.image.startsWith('http')
-          ? step.image
-          : `https://res.cloudinary.com/mealse-co-uk/image/upload/f_auto,q_auto/${step.image}`
+      const stepImg = getStepImage(step)
+      if (stepImg) {
+        stepObj.image = stepImg.startsWith('http')
+          ? stepImg
+          : `https://res.cloudinary.com/mealse-co-uk/image/upload/f_auto,q_auto/${stepImg}`
       }
       return stepObj
     }) || [],
@@ -328,27 +353,64 @@ useHead({
           <RecipesIngredients :recipe="recipe" />
         </div>
 
-        <h2 id="howToMake" class="scroll-mt-20 text-3xl md:text-5xl font-black uppercase tracking-tighter italic text-foreground mt-12 mb-6">{{ t('recipes.howToMake', { title: recipe.title }) }}</h2>
-        <div class="markdown-recipe-body mt-6 border-b border-border pb-12">
-          <ol>
-            <li v-for="(step, index) in recipe.steps" :id="`step-${index + 1}`" :key="index" class="scroll-mt-24">
-              <div class="step-content flex flex-col gap-4">
-                <template v-if="step.text">
-                  <p v-html="formatText(step.text)"/>
-                  <Img 
-                    v-if="step.image" 
-                    :src="step.image" 
-                    :alt="`Step ${index + 1} for making ${recipe.title}`" 
-                    class="w-full max-w-[400px] !h-auto aspect-video rounded-lg object-cover"
-                  />
-                </template>
-                <template v-else>
-                  <p v-html="formatText(step)"/>
-                </template>
-              </div>
-            </li>
-          </ol>
-        </div>
+        <!-- How To Make / Steps Section -->
+        <section class="mt-12 mb-12">
+          <!-- Section Kicker / Badge -->
+          <div class="flex items-center gap-2 mb-2">
+            <span class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-black uppercase tracking-wider bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 border border-emerald-500/20">
+              <Icon name="ph:fire-simple-bold" class="w-4 h-4 text-emerald-500" />
+              {{ t('recipes.stepByStep') }}
+            </span>
+          </div>
+
+          <h2 id="howToMake" class="scroll-mt-24 text-3xl md:text-5xl font-black uppercase tracking-tighter italic text-foreground mb-6">
+            {{ t('recipes.howToMake', { title: recipe.title }) }}
+          </h2>
+
+          <!-- Steps Container with background and border -->
+          <div class="bg-card/70 dark:bg-card/40 border border-border/80 rounded-3xl p-4 sm:p-7 shadow-xs">
+            <ol class="space-y-4 list-none p-0 m-0">
+              <li
+                v-for="(step, index) in recipe.steps"
+                :id="`step-${index + 1}`"
+                :key="index"
+                class="scroll-mt-24 rounded-2xl border border-border bg-background/95 dark:bg-muted/20 hover:border-emerald-500/40 p-5 sm:p-6 transition-all duration-200 group"
+              >
+                <div class="flex items-start gap-4">
+                  <!-- Step Number Badge -->
+                  <div class="shrink-0 w-9 h-9 sm:w-10 sm:h-10 rounded-xl bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 border border-emerald-500/25 font-black text-sm sm:text-base flex items-center justify-center group-hover:bg-emerald-500 group-hover:text-white transition-all duration-200 shadow-xs">
+                    {{ index + 1 }}
+                  </div>
+
+                  <!-- Step Content Body -->
+                  <div class="flex-grow min-w-0 space-y-2.5">
+                    <div class="flex items-center justify-between">
+                      <span class="text-xs font-black uppercase tracking-wider text-muted-foreground group-hover:text-emerald-600 dark:group-hover:text-emerald-400 transition-colors">
+                        {{ t('recipes.step', { index: index + 1 }) }}
+                      </span>
+                    </div>
+
+                    <!-- eslint-disable vue/no-v-html -->
+                    <p
+                      class="text-base sm:text-lg text-foreground/90 leading-relaxed m-0"
+                      v-html="formatText(getStepText(step))"
+                    />
+                    <!-- eslint-enable vue/no-v-html -->
+
+                    <!-- Step Image if available -->
+                    <div v-if="getStepImage(step)" class="pt-3">
+                      <Img
+                        :src="getStepImage(step)!"
+                        :alt="`Step ${index + 1} for ${recipe.title}`"
+                        class="w-full max-w-[440px] !h-auto aspect-video rounded-xl object-cover shadow-sm border border-border/70"
+                      />
+                    </div>
+                  </div>
+                </div>
+              </li>
+            </ol>
+          </div>
+        </section>
 
         <div v-if="recipe.muscleBuildingTip" id="muscleBuildingTip" class="my-12 bg-emerald-500/5 dark:bg-emerald-500/10 border-l-4 border-emerald-500 p-6 rounded-r-xl shadow-sm">
           <h2 class="text-2xl md:text-3xl font-black uppercase tracking-tighter italic text-emerald-700 dark:text-emerald-400 mt-0 flex items-center gap-2 pb-2">
@@ -460,114 +522,3 @@ useHead({
     <p>{{ t('recipes.loading') }}</p>
   </div>
 </template>
-
-<style scoped>
-/* 1. Style the Markdown ## Method (H2) */
-.markdown-recipe-body :deep(h2) {
-  font-size: 1.5rem;
-  line-height: 2rem;
-  font-weight: 700;
-  color: var(--color-foreground);
-  margin-bottom: 2rem;
-  border-bottom: 1px solid var(--color-border);
-  padding-bottom: 1rem;
-}
-
-/* 2. Reset the CSS counter for the ordered list */
-.markdown-recipe-body :deep(ol) {
-  padding-left: 0;
-  list-style: none;
-  counter-reset: recipe-step;
-  display: flex;
-  flex-direction: column;
-  gap: 2.5rem;
-  /* Space between each numbered step */
-}
-
-/* 3. Style the main list item container */
-.markdown-recipe-body :deep(ol > li) {
-  display: flex;
-  flex-direction: row;
-  /* Number and Content stay side-by-side */
-  gap: 1.5rem;
-  color: var(--color-foreground);
-  opacity: 0.9;
-  line-height: 1.7;
-  font-size: 1.125rem;
-  counter-increment: recipe-step;
-  align-items: flex-start;
-}
-
-/* 4. The Content Wrapper Fix */
-/* This forces all paragraphs and elements inside the li to stack vertically */
-.markdown-recipe-body :deep(ol > li > div),
-.markdown-recipe-body :deep(ol > li > p),
-.markdown-recipe-body :deep(ol > li > span) {
-  flex: 1;
-  display: flex;
-  flex-direction: column;
-  gap: 1rem;
-  /* Space between paragraphs within a single step */
-}
-
-/* 5. Custom Numbered Circle */
-.markdown-recipe-body :deep(ol > li::before) {
-  content: counter(recipe-step);
-  flex-shrink: 0;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 2.25rem;
-  height: 2.25rem;
-  border-radius: 9999px;
-  background-color: var(--color-secondary);
-  color: var(--color-foreground);
-  font-weight: 700;
-  font-size: 0.875rem;
-  border: 1px solid var(--color-border);
-  transition: all 0.2s ease-in-out;
-  margin-top: 0.125rem;
-}
-
-/* 6. Sub-list (Unordered) Reset */
-/* This ensures that bullets inside a step don't get the big green circles */
-.markdown-recipe-body :deep(li ul) {
-  list-style: disc;
-  padding-left: 1.5rem;
-  margin-top: 0.5rem;
-  display: flex;
-  flex-direction: column;
-  gap: 0.5rem;
-}
-
-.markdown-recipe-body :deep(li ul li) {
-  display: list-item;
-  /* Reset to standard bullet behavior */
-  counter-increment: none;
-  /* Stop the numbers from counting here */
-  font-size: 1rem;
-}
-
-.markdown-recipe-body :deep(li ul li::before) {
-  content: none;
-  /* Hide the custom circle number for sub-items */
-}
-
-/* 7. Hover states and Accents */
-.markdown-recipe-body :deep(ol > li:hover::before) {
-  background-color: rgba(66, 185, 131, 0.1);
-  color: #10b981;
-  /* Tailwind green-500 equivalent */
-  border-color: rgba(66, 185, 131, 0.3);
-}
-
-.markdown-recipe-body :deep(strong) {
-  font-weight: 700;
-  color: var(--color-foreground);
-}
-
-/* 8. Fix for ContentRenderer wrapping everything in a single paragraph */
-.markdown-recipe-body :deep(li p) {
-  margin: 0;
-}
-</style>

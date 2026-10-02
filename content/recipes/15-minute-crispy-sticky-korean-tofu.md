@@ -109,7 +109,7 @@ faq:
 steps:
 - Prep the tofu by pressing it dry with a clean towel (or use our quick microwave method to draw out the moisture). Cut into bite-sized cubes, then toss gently in a bowl with the cornflour (cornstarch) and a pinch of salt until each piece is fully and evenly coated.
 - Heat the oil in a large skillet or non-stick pan over medium-high heat. Once hot, add the tofu cubes and pan-fry for about 5-6 minutes, turning occasionally, until a golden-brown, crispy crust forms on all sides. (Keep the pan hot—if the heat is too low, the tofu will absorb the oil and lose its crispiness!)
-- While the tofu is frying, whisk together the ingredients for the glaze in a small bowl: gochujang, soy sauce, ketchup, sesame oil, rice vinegar, sugar, minced garlic, and water. Stir until smooth and unified.
+- "While the tofu is frying, whisk together the ingredients for the glaze in a small bowl: gochujang, soy sauce, ketchup, sesame oil, rice vinegar, sugar, minced garlic, and water. Stir until smooth and unified."
 - Once the tofu pieces are crispy and golden, pour the sauce mixture directly into the pan over the tofu. It will begin to bubble immediately. Toss or stir the tofu constantly for 1-2 minutes so that the glaze reduces, caramelizes, and clings beautifully to every piece.
 - Remove the pan from the heat just as the sauce turns thick and glossy so the glaze doesn't burn. Garnish with a shower of sliced spring onions and toasted sesame seeds. Serve immediately over hot rice or noodles!
 ---

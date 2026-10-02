@@ -93,5 +93,5 @@ steps:
 - Lock the frozen pint into the Creami outer bowl.
 - Hit the 'Lite Ice Cream' button and let it run.
 - If it looks powdery (standard for macro ice creams), add a splash of milk and hit 'Re-spin' to force the creamy texture.
-- Enjoy immediately. Optional: run the 'mix-in' program with white chocolate chips.
+- "Enjoy immediately. Optional: run the 'mix-in' program with white chocolate chips."
 ---

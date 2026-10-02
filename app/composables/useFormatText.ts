@@ -1,9 +1,22 @@
 export const useFormatText = () => {
-  const formatText = (text: any, highlightColon: boolean = true) => {
+  const formatText = (text: unknown, highlightColon: boolean = true): string => {
     if (!text) return ''
 
-    // Ensure we are working with a string
-    let formatted = typeof text === 'string' ? text : String(text)
+    // Ensure we are working with a string, handling objects defensively
+    let formatted: string
+    if (typeof text === 'string') {
+      formatted = text
+    } else if (typeof text === 'object' && text !== null) {
+      const record = text as Record<string, unknown>
+      if (typeof record.text === 'string') {
+        formatted = record.text
+      } else {
+        const entries = Object.entries(record)
+        formatted = entries.length > 0 ? entries.map(([k, v]) => `${k}: ${v}`).join(' ') : ''
+      }
+    } else {
+      formatted = String(text)
+    }
     
     if (highlightColon) {
       // Regex: ^ matches start of string, [\w\s]+ matches words/spaces, : matches colon
