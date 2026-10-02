@@ -36,7 +36,7 @@ export default defineNuxtConfig({
     trailingSlash: false,
   },
   ogImage: {
-    enabled: true,
+    enabled: false,
   },
   sitemap: {
     includeAppSources: true,

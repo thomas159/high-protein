@@ -5245,7 +5245,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@unhead/vue@npm:^2.0.19, @unhead/vue@npm:^2.1.12":
+"@unhead/vue@npm:2.1.12":
   version: 2.1.12
   resolution: "@unhead/vue@npm:2.1.12"
   dependencies:
