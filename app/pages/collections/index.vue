@@ -42,7 +42,7 @@ if (import.meta.server) {
     defineBreadcrumb({
       itemListElement: [
         { name: () => t('nav.home'), item: toAbsoluteUrl(localePath('/')) },
-        { name: () => t('recipes.collections'), item: toAbsoluteUrl(localePath('/collections')) }
+        { name: () => t('recipes.collections'), item: toAbsoluteUrl(localePath({ name: 'collections' })) }
       ]
     }),
     defineItemList({
@@ -51,7 +51,7 @@ if (import.meta.server) {
       itemListElement: computed(() => collections.value?.map((col: any, idx: number) => ({
         '@type': 'ListItem',
         position: idx + 1,
-        url: `https://www.hotrecipes.co.uk${localePath(`/collections/${col.slug}`)}`,
+        url: `https://www.hotrecipes.co.uk${localePath({ name: 'collections-slug', params: { slug: col.slug } })}`,
         name: col.title,
         image: col.image ? (col.image.startsWith('http') ? col.image : `https://res.cloudinary.com/mealse-co-uk/image/upload/f_auto,q_auto/${col.image}`) : undefined,
       })) || [])

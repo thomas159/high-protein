@@ -25,7 +25,7 @@ keywords:
 - vegan
 tipsTitle: Consejos y trucos para el tofu
 tips:
-- 'Preparación del tofu: Echa un vistazo a nuestros [Trucos definitivos para preparar tofu rápido](/collections/easy-quick-tofu-prep-hacks) para lograr la textura perfecta antes de cocinar.'
+- 'Preparación del tofu: Echa un vistazo a nuestros [Trucos definitivos para preparar tofu rápido](/es/colecciones/los-mejores-trucos-rapidos-para-preparar-tofu-microondas-versus-hervir) para lograr la textura perfecta antes de cocinar.'
 - 'El truco de la maicena: Cubrir el tofu con maicena es fundamental. Es el arma secreta definitiva para conseguir ese toque frito y crujiente en la sartén usando solo una cucharada de aceite.'
 - 'Consistencia de la salsa: Si el glaseado se reduce demasiado rápido y queda muy espeso o seco en la sartén, simplemente añade un chorrito de agua para recuperar esa textura fluida.'
 - 'Control del picante: El picante del Gochujang varía mucho según la marca. Prueba la salsa antes de verterla en la sartén y añade una pizca extra de azúcar si te parece demasiado picante.'

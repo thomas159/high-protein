@@ -74,7 +74,7 @@ const toggleTheme = () => {
           <NuxtLink 
             v-for="cat in RECIPE_CATEGORIES" 
             :key="cat.key"
-            :to="localePath(`/categories/${$t(`categorySlugs.${cat.key}`)}`)" 
+            :to="localePath({ name: 'categories-slug', params: { slug: $t(`categorySlugs.${cat.key}`) } })" 
             class="flex items-center gap-1.5 hover:text-foreground transition-all pb-1 border-b-2 border-transparent hover:border-border"
             active-class="!text-foreground !border-emerald-500"
           >
@@ -174,7 +174,7 @@ const toggleTheme = () => {
             <NuxtLink 
               v-for="cat in RECIPE_CATEGORIES" 
               :key="cat.key"
-              :to="localePath(`/categories/${$t(`categorySlugs.${cat.key}`)}`)" 
+              :to="localePath({ name: 'categories-slug', params: { slug: $t(`categorySlugs.${cat.key}`) } })" 
               class="flex flex-col items-center justify-center p-4 bg-muted/50 rounded-2xl border border-border/50 hover:bg-accent hover:border-emerald-500/50 transition-all duration-300 group"
               active-class="!bg-emerald-500/10 !border-emerald-500"
               @click.stop="isMenuOpen = false"

@@ -47,30 +47,35 @@ const deSlugs = deLocales.categorySlugs as Record<string, string>;
 
 const resolveKey = computed(() => {
   const currentSlug = categorySlug.value;
+  if (currentSlug === 'high-protein' || currentSlug === 'vegan') {
+    return 'allrecipes';
+  }
   const findKey = (slugs: Record<string, any>) =>
     Object.keys(slugs).find((k) => getStaticValue(slugs[k]) === currentSlug);
 
   if (locale.value === "es") {
-    return findKey(esSlugs) || findKey(enSlugs) || findKey(deSlugs) || currentSlug;
+    return findKey(esSlugs) || findKey(enSlugs) || findKey(deSlugs) || "allrecipes";
   } else if (locale.value === "de") {
-    return findKey(deSlugs) || findKey(enSlugs) || findKey(esSlugs) || currentSlug;
+    return findKey(deSlugs) || findKey(enSlugs) || findKey(esSlugs) || "allrecipes";
   } else {
-    return findKey(enSlugs) || findKey(esSlugs) || findKey(deSlugs) || currentSlug;
+    return findKey(enSlugs) || findKey(esSlugs) || findKey(deSlugs) || "allrecipes";
   }
 });
 
 // Canonical redirect: If a user accesses an English or alternative slug under another locale (e.g. /es/categorias/all-recipes or /es/categorias/dinner),
+// or a legacy/unrecognized slug like high-protein or vegan,
 // 301 redirect to the current locale's canonical translated slug (e.g. /es/categorias/todas-las-recetas or /es/categorias/cena).
 const canonicalSlug = computed(() => {
   const key = resolveKey.value;
   if (!key) return null;
-  if (locale.value === "es") return getStaticValue(esSlugs[key]);
-  if (locale.value === "de") return getStaticValue(deSlugs[key]);
-  return getStaticValue(enSlugs[key]);
+  if (locale.value === "es") return getStaticValue(esSlugs[key]) || getStaticValue(esSlugs['allrecipes']);
+  if (locale.value === "de") return getStaticValue(deSlugs[key]) || getStaticValue(deSlugs['allrecipes']);
+  return getStaticValue(enSlugs[key]) || getStaticValue(enSlugs['allrecipes']);
 });
 
 if (canonicalSlug.value && canonicalSlug.value !== categorySlug.value) {
-  await navigateTo(localePath(`/categories/${canonicalSlug.value}`), { redirectCode: 301 });
+  const targetPrefix = locale.value === 'es' ? '/es/categorias' : locale.value === 'de' ? '/de/kategorien' : '/categories';
+  await navigateTo(`${targetPrefix}/${canonicalSlug.value}`, { redirectCode: 301 });
 }
 
 const categoryKey = resolveKey;

@@ -118,7 +118,7 @@ onUnmounted(() => window.removeEventListener('keydown', onKeydown))
             <NuxtLink 
               v-for="recipe in results" 
               :key="recipe.path"
-              :to="localePath(`/recipes/${recipe.slug}`)"
+              :to="localePath({ name: 'recipes-slug', params: { slug: recipe.slug } })"
               class="flex items-center gap-4 p-3 rounded-xl hover:bg-muted/50 transition-colors group"
               @click="handleClose"
             >

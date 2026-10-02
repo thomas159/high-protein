@@ -38,7 +38,7 @@ keywords:
 tipsTitle: Sabor Máximo
 tips:
 - 'Preparación de tofu: omita la tediosa prensa de 15 minutos. Echa un vistazo a nuestros
-  [Ultimate Quick Tofu Prep Hacks](/collections/easy-quick-tofu-prep-hacks) para conseguir
+  [Trucos definitivos para preparar tofu rápido](/es/colecciones/los-mejores-trucos-rapidos-para-preparar-tofu-microondas-versus-hervir) para conseguir
   la textura perfecta antes de cocinar.'
 - 'Adobo Power: No uses solo el chile. Vierta la salsa de adobo ahumado de la lata
   para obtener un sabor intenso y concentrado.'
@@ -121,7 +121,7 @@ steps:
 - Prepare el tofu calentándolo en el microondas en ráfagas de 30 segundos hasta que
   esté seco, pero no cocido (aproximadamente 4 minutos) o hirviéndolo durante 5 a
   10 minutos para expulsar el agua y que pueda absorber la marinada. Consulte nuestros
-  [Ultimate Quick Tofu Prep Hacks](/collections/easy-quick-tofu-prep-hacks) para conocer
+  [Trucos definitivos para preparar tofu rápido](/es/colecciones/los-mejores-trucos-rapidos-para-preparar-tofu-microondas-versus-hervir) para conocer
   los métodos exactos.
 - Batir en un bol el jugo de lima, el chipotle picado, las especias, una pizca de
   sal y un chorrito de aceite.

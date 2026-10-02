@@ -11,7 +11,7 @@ if (slug === 'recipes' || slug === 'recetas' || slug === 'rezepte') {
   } else if (slug === 'rezepte' && locale.value === 'en') {
     await navigateTo('/de/kategorien/all-recipes', { redirectCode: 301 })
   } else {
-    await navigateTo(localePath(`/categories/${t('categorySlugs.allrecipes')}`), { redirectCode: 301 })
+    await navigateTo(localePath({ name: 'categories-slug', params: { slug: t('categorySlugs.allrecipes') } }), { redirectCode: 301 })
   }
 } else if (slug === 'collections' || slug === 'colecciones' || slug === 'sammlungen') {
   if (slug === 'colecciones' && locale.value === 'en') {
@@ -19,15 +19,19 @@ if (slug === 'recipes' || slug === 'recetas' || slug === 'rezepte') {
   } else if (slug === 'sammlungen' && locale.value === 'en') {
     await navigateTo('/de/sammlungen', { redirectCode: 301 })
   } else {
-    await navigateTo(localePath('/collections'), { redirectCode: 301 })
+    await navigateTo(localePath({ name: 'collections' }), { redirectCode: 301 })
   }
-} else if (slug === 'categories' || slug === 'categorias' || slug === 'kategorien') {
-  if (slug === 'categorias' && locale.value === 'en') {
+} else if (slug === 'categories' || slug === 'categorias' || slug === 'kategorien' || slug === 'high-protein' || slug === 'vegan') {
+  if ((slug === 'categorias' || slug === 'high-protein' || slug === 'vegan') && locale.value === 'es') {
+    await navigateTo('/es/categorias/todas-las-recetas', { redirectCode: 301 })
+  } else if ((slug === 'kategorien' || slug === 'high-protein' || slug === 'vegan') && locale.value === 'de') {
+    await navigateTo('/de/kategorien/all-recipes', { redirectCode: 301 })
+  } else if (slug === 'categorias' && locale.value === 'en') {
     await navigateTo('/es/categorias/todas-las-recetas', { redirectCode: 301 })
   } else if (slug === 'kategorien' && locale.value === 'en') {
     await navigateTo('/de/kategorien/all-recipes', { redirectCode: 301 })
   } else {
-    await navigateTo(localePath(`/categories/${t('categorySlugs.allrecipes')}`), { redirectCode: 301 })
+    await navigateTo(localePath({ name: 'categories-slug', params: { slug: t('categorySlugs.allrecipes') } }), { redirectCode: 301 })
   }
 }
 
@@ -40,6 +44,16 @@ const { data: match } = await useAsyncData(`redirect-check-${slug}-${locale.valu
   // Check if it's a recipe in another locale
   const anyRecipe = await queryCollection('recipes').where('slug', '=', slug).first()
   if (anyRecipe) {
+    if (anyRecipe.image) {
+      const allMatching = await queryCollection('recipes').where('image', '=', anyRecipe.image).all()
+      const targetSibling = allMatching.find((s: any) => {
+        if (locale.value === 'en') return !s.path.endsWith('.es') && !s.path.endsWith('.de')
+        return s.path.endsWith(`.${locale.value}`)
+      })
+      if (targetSibling?.slug) {
+        return { type: 'recipe' as const, targetLocale: locale.value, slug: targetSibling.slug }
+      }
+    }
     const isEs = anyRecipe.path.endsWith('.es')
     const isDe = anyRecipe.path.endsWith('.de')
     const targetLoc = isEs ? 'es' : isDe ? 'de' : 'en'
@@ -57,6 +71,16 @@ const { data: match } = await useAsyncData(`redirect-check-${slug}-${locale.valu
 
   const anyCol = await queryCollection('collections').where('slug', '=', slug).first()
   if (anyCol) {
+    if (anyCol.image) {
+      const allMatching = await queryCollection('collections').where('image', '=', anyCol.image).all()
+      const targetSibling = allMatching.find((s: any) => {
+        if (locale.value === 'en') return !s.path.endsWith('.es') && !s.path.endsWith('.de')
+        return s.path.endsWith(`.${locale.value}`)
+      })
+      if (targetSibling?.slug) {
+        return { type: 'collection' as const, targetLocale: locale.value, slug: targetSibling.slug }
+      }
+    }
     const isEs = anyCol.path.endsWith('.es')
     const isDe = anyCol.path.endsWith('.de')
     const targetLoc = isEs ? 'es' : isDe ? 'de' : 'en'

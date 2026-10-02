@@ -31,7 +31,7 @@ keywords:
 tipsTitle: Mecánica de Gochujang
 tips:
 - 'Preparación de tofu: omita la tediosa prensa de 15 minutos. Echa un vistazo a nuestros
-  [Ultimate Quick Tofu Prep Hacks](/collections/easy-quick-tofu-prep-hacks) para conseguir
+  [Trucos definitivos para preparar tofu rápido](/es/colecciones/los-mejores-trucos-rapidos-para-preparar-tofu-microondas-versus-hervir) para conseguir
   la textura perfecta antes de cocinar.'
 - 'Azúcar para el glaseado: El azúcar no es solo para endulzar: se carameliza violentamente
   con el calor para formar una laca pegajosa.'
@@ -118,7 +118,7 @@ steps:
 - Prepare el tofu calentándolo en el microondas en ráfagas de 30 segundos hasta que
   esté seco, pero no cocido (aproximadamente 4 minutos) o hirviéndolo durante 5 a
   10 minutos para expulsar el agua y que la marinada pueda penetrar. Consulte nuestros
-  [Ultimate Quick Tofu Prep Hacks](/collections/easy-quick-tofu-prep-hacks) para conocer
+  [Trucos definitivos para preparar tofu rápido](/es/colecciones/los-mejores-trucos-rapidos-para-preparar-tofu-microondas-versus-hervir) para conocer
   los métodos exactos.
 - Batir el ketchup, el azúcar, el gochujang, la salsa de soja, el vinagre, el ajo,
   el jengibre, el aceite de sésamo y una pizca de sal.

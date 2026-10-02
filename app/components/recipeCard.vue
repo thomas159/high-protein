@@ -37,7 +37,7 @@ const { t } = useI18n()
 
 <template>
   <NuxtLink 
-    :to="localePath(`/recipes/${props.recipe.slug}`)" 
+    :to="localePath({ name: 'recipes-slug', params: { slug: props.recipe.slug } })" 
     class="group bg-card rounded-2xl shadow-sm border border-border overflow-hidden hover:shadow-xl transition-all duration-500 flex flex-col hover:-translate-y-2"
   >
     <div class="h-52 w-full overflow-hidden relative">

@@ -4,30 +4,31 @@ const appConfig = useAppConfig()
 const { t } = useI18n()
 const currentYear = new Date().getFullYear()
 
+const localePath = useLocalePath()
+
 const footerLinks = computed(() => ({
   content: [
     ...RECIPE_CATEGORIES.map(cat => {
       const translatedSlug = t(`categorySlugs.${cat.key}`)
       return {
         name: t(`categories.${cat.key}`),
-        path: `/categories/${translatedSlug}`
+        to: localePath({ name: 'categories-slug', params: { slug: translatedSlug } })
       }
     }),
     {
       name: t('recipes.collections'),
-      path: '/collections'
+      to: localePath({ name: 'collections' })
     }
   ],
   company: [
-    { name: t('footer.links.aboutMe'), path: '/about' },
-    { name: t('footer.links.contact'), path: '/contact' }
+    { name: t('footer.links.aboutMe'), to: localePath('/about') },
+    { name: t('footer.links.contact'), to: localePath('/contact') }
   ],
   legal: [
-    { name: t('footer.links.privacy'), path: '/privacy-policy' },
-    { name: t('footer.links.terms'), path: '/terms-of-service' }
+    { name: t('footer.links.privacy'), to: localePath('/privacy-policy') },
+    { name: t('footer.links.terms'), to: localePath('/terms-of-service') }
   ]
 }))
-const localePath = useLocalePath()
 </script>
 
 <template>
@@ -47,8 +48,8 @@ const localePath = useLocalePath()
         <div>
           <h3 class="font-semibold text-foreground mb-4">{{ $t('footer.sections.recipes') }}</h3>
           <ul class="space-y-2 text-sm">
-            <li v-for="link in footerLinks.content" :key="link.path">
-              <NuxtLink :to="localePath(link.path)" class="text-muted-foreground hover:text-emerald-500 transition-colors">
+            <li v-for="link in footerLinks.content" :key="link.name">
+              <NuxtLink :to="link.to" class="text-muted-foreground hover:text-emerald-500 transition-colors">
                 {{ link.name }}
               </NuxtLink>
             </li>
@@ -58,8 +59,8 @@ const localePath = useLocalePath()
         <div>
           <h3 class="font-semibold text-foreground mb-4">{{ $t('footer.sections.company') }}</h3>
           <ul class="space-y-2 text-sm">
-            <li v-for="link in footerLinks.company" :key="link.path">
-              <NuxtLink :to="localePath(link.path)" class="text-muted-foreground hover:text-emerald-500 transition-colors">
+            <li v-for="link in footerLinks.company" :key="link.name">
+              <NuxtLink :to="link.to" class="text-muted-foreground hover:text-emerald-500 transition-colors">
                 {{ link.name }}
               </NuxtLink>
             </li>
@@ -69,8 +70,8 @@ const localePath = useLocalePath()
         <div>
           <h3 class="font-semibold text-foreground mb-4">{{ $t('footer.sections.legal') }}</h3>
           <ul class="space-y-2 text-sm">
-            <li v-for="link in footerLinks.legal" :key="link.path">
-              <NuxtLink :to="localePath(link.path)" class="text-muted-foreground hover:text-emerald-500 transition-colors">
+            <li v-for="link in footerLinks.legal" :key="link.name">
+              <NuxtLink :to="link.to" class="text-muted-foreground hover:text-emerald-500 transition-colors">
                 {{ link.name }}
               </NuxtLink>
             </li>

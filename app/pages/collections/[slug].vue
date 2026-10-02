@@ -25,17 +25,24 @@ if (!page.value) {
   const slugParam = route.params.slug as string
   // Check if this collection exists under another language
   const otherLocaleCol = await queryCollection('collections').where('slug', '=', slugParam).first()
-  if (otherLocaleCol?.image) {
-    const allMatching = await queryCollection('collections').where('image', '=', otherLocaleCol.image).all()
-    const targetSibling = allMatching.find((s: any) => {
-      if (locale.value === 'en') return !s.path.endsWith('.es') && !s.path.endsWith('.de')
-      return s.path.endsWith(`.${locale.value}`)
-    })
-    if (targetSibling?.slug) {
-      await navigateTo(localePath(`/collections/${targetSibling.slug}`), { redirectCode: 301 })
-    } else {
-      throw createError({ statusCode: 404, statusMessage: t('error.pageNotFound'), fatal: true })
+  if (otherLocaleCol) {
+    if (otherLocaleCol.image) {
+      const allMatching = await queryCollection('collections').where('image', '=', otherLocaleCol.image).all()
+      const targetSibling = allMatching.find((s: any) => {
+        if (locale.value === 'en') return !s.path.endsWith('.es') && !s.path.endsWith('.de')
+        return s.path.endsWith(`.${locale.value}`)
+      })
+      if (targetSibling?.slug) {
+        const isTargetEs = targetSibling.path.endsWith('.es')
+        const isTargetDe = targetSibling.path.endsWith('.de')
+        const targetPrefix = isTargetEs ? '/es/colecciones' : isTargetDe ? '/de/sammlungen' : '/collections'
+        await navigateTo(`${targetPrefix}/${targetSibling.slug}`, { redirectCode: 301 })
+      }
     }
+    const isEs = otherLocaleCol.path.endsWith('.es')
+    const isDe = otherLocaleCol.path.endsWith('.de')
+    const targetPrefix = isEs ? '/es/colecciones' : isDe ? '/de/sammlungen' : '/collections'
+    await navigateTo(`${targetPrefix}/${otherLocaleCol.slug}`, { redirectCode: 301 })
   } else {
     throw createError({ statusCode: 404, statusMessage: t('error.pageNotFound'), fatal: true })
   }
@@ -112,7 +119,7 @@ if (import.meta.server) {
     defineBreadcrumb({
       itemListElement: computed(() => [
         { name: t('nav.home'), item: toAbsoluteUrl(localePath('/')) },
-        { name: t('recipes.collections'), item: toAbsoluteUrl(localePath('/collections')) },
+        { name: t('recipes.collections'), item: toAbsoluteUrl(localePath({ name: 'collections' })) },
         { name: page.value?.title || 'Collection', item: toAbsoluteUrl(route.path) }
       ])
     }),
@@ -122,7 +129,7 @@ if (import.meta.server) {
       itemListElement: computed(() => collectionItems.value.map((item: any, idx: number) => ({
         '@type': 'ListItem',
         position: idx + 1,
-        url: `https://www.hotrecipes.co.uk${localePath(`/recipes/${item.recipe.slug}`)}`,
+        url: `https://www.hotrecipes.co.uk${localePath({ name: 'recipes-slug', params: { slug: item.recipe.slug } })}`,
         name: item.recipe.title,
         image: item.recipe.image ? `https://res.cloudinary.com/mealse-co-uk/image/upload/f_auto,q_auto/${item.recipe.image}` : undefined,
       })))
@@ -142,7 +149,7 @@ const { formatText } = useFormatText()
         {{ t('nav.home') }}
       </NuxtLink>
       <UIcon name="i-lucide-chevron-right" class="w-3.5 h-3.5 text-muted-foreground/50" />
-      <NuxtLink :to="localePath('/collections')" class="hover:text-foreground transition-colors">
+      <NuxtLink :to="localePath({ name: 'collections' })" class="hover:text-foreground transition-colors">
         {{ t('recipes.collections') }}
       </NuxtLink>
       <UIcon name="i-lucide-chevron-right" class="w-3.5 h-3.5 text-muted-foreground/50" />
@@ -170,14 +177,14 @@ const { formatText } = useFormatText()
         </div>
 
         <!-- Image -->
-        <NuxtLink :to="localePath(`/recipes/${item.recipe.slug}`)" :aria-label="item.recipe.title" class="w-full md:w-2/5 shrink-0 h-64 md:h-auto rounded-2xl overflow-hidden relative block">
+        <NuxtLink :to="localePath({ name: 'recipes-slug', params: { slug: item.recipe.slug } })" :aria-label="item.recipe.title" class="w-full md:w-2/5 shrink-0 h-64 md:h-auto rounded-2xl overflow-hidden relative block">
           <Img :src="item.recipe.image" :alt="item.recipe.alt || item.recipe.title" class="w-full h-full object-cover transition-transform duration-700 hover:scale-105" />
         </NuxtLink>
 
         <!-- Content -->
         <div class="flex flex-col justify-center flex-1 py-2 pr-2">
           <h2 class="text-2xl md:text-3xl font-black uppercase tracking-tighter italic mb-3 leading-tight group text-foreground">
-            <NuxtLink :to="localePath(`/recipes/${item.recipe.slug}`)" class="hover:text-emerald-500 transition-colors">
+            <NuxtLink :to="localePath({ name: 'recipes-slug', params: { slug: item.recipe.slug } })" class="hover:text-emerald-500 transition-colors">
               {{ item.recipe.title }}
             </NuxtLink>
           </h2>
@@ -190,7 +197,7 @@ const { formatText } = useFormatText()
             <div v-if="item.recipe.macros?.protein" class="flex items-center gap-1.5"><span class="opacity-70">💪</span> {{ item.recipe.macros?.protein }}G {{ t('recipes.protein') }}</div>
           </div>
 
-          <NuxtLink :to="localePath(`/recipes/${item.recipe.slug}`)" class="mt-auto inline-flex items-center justify-center bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 font-bold px-6 py-3 rounded-xl hover:bg-emerald-500 hover:text-white transition-colors w-full md:w-fit">
+          <NuxtLink :to="localePath({ name: 'recipes-slug', params: { slug: item.recipe.slug } })" class="mt-auto inline-flex items-center justify-center bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 font-bold px-6 py-3 rounded-xl hover:bg-emerald-500 hover:text-white transition-colors w-full md:w-fit">
             {{ t('recipes.getRecipe') }} &rarr;
           </NuxtLink>
         </div>

@@ -12,17 +12,24 @@ const { data: recipe } = await useAsyncData(`${route.path}-${locale.value}`, () 
 if (!recipe.value) {
   const slugParam = route.params.slug as string
   const otherLocaleRecipe = await queryCollection('recipes').where('slug', '=', slugParam).first()
-  if (otherLocaleRecipe?.image) {
-    const allMatching = await queryCollection('recipes').where('image', '=', otherLocaleRecipe.image).all()
-    const targetSibling = allMatching.find((s: any) => {
-      if (locale.value === 'en') return !s.path.endsWith('.es') && !s.path.endsWith('.de')
-      return s.path.endsWith(`.${locale.value}`)
-    })
-    if (targetSibling?.slug) {
-      await navigateTo(localePath(`/recipes/${targetSibling.slug}`), { redirectCode: 301 })
-    } else {
-      throw createError({ statusCode: 404, statusMessage: t('error.pageNotFound'), fatal: true })
+  if (otherLocaleRecipe) {
+    if (otherLocaleRecipe.image) {
+      const allMatching = await queryCollection('recipes').where('image', '=', otherLocaleRecipe.image).all()
+      const targetSibling = allMatching.find((s: any) => {
+        if (locale.value === 'en') return !s.path.endsWith('.es') && !s.path.endsWith('.de')
+        return s.path.endsWith(`.${locale.value}`)
+      })
+      if (targetSibling?.slug) {
+        const isTargetEs = targetSibling.path.endsWith('.es')
+        const isTargetDe = targetSibling.path.endsWith('.de')
+        const targetPrefix = isTargetEs ? '/es/recetas' : isTargetDe ? '/de/rezepte' : '/recipes'
+        await navigateTo(`${targetPrefix}/${targetSibling.slug}`, { redirectCode: 301 })
+      }
     }
+    const isEs = otherLocaleRecipe.path.endsWith('.es')
+    const isDe = otherLocaleRecipe.path.endsWith('.de')
+    const targetPrefix = isEs ? '/es/recetas' : isDe ? '/de/rezepte' : '/recipes'
+    await navigateTo(`${targetPrefix}/${otherLocaleRecipe.slug}`, { redirectCode: 301 })
   } else {
     throw createError({ statusCode: 404, statusMessage: t('error.pageNotFound'), fatal: true })
   }

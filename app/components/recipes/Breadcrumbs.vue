@@ -52,12 +52,12 @@ const backLink = computed(() => {
 
     return {
       label: matched ? t(`categories.${matched.key}`) : t('recipes.all'),
-      to: localePath(`/categories/${translatedSlug}`)
+      to: localePath({ name: 'categories-slug', params: { slug: translatedSlug } })
     }
   }
 
   // Final Fallback
-  return { label: t('recipes.all'), to: localePath(`/categories/${t('categorySlugs.allrecipes')}`) }
+  return { label: t('recipes.all'), to: localePath({ name: 'categories-slug', params: { slug: t('categorySlugs.allrecipes') } }) }
 })
 
 const recipeName = computed(() => props.recipe?.title || 'Recipe')

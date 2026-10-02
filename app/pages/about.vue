@@ -102,7 +102,7 @@ const stats = [
         {{ t('about.cta.description', { siteName: appConfig.siteName }) }}
       </p>
       <NuxtLink 
-        :to="localePath(`/categories/${t('categorySlugs.allrecipes')}`)" 
+        :to="localePath({ name: 'categories-slug', params: { slug: t('categorySlugs.allrecipes') } })" 
         class="inline-block bg-emerald-500 hover:bg-emerald-600 text-white font-semibold px-8 py-3 rounded-lg transition-colors"
       >
         {{ t('about.cta.button') }}

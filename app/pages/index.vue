@@ -69,14 +69,14 @@ const collections = computed(() => {
 });
 
 
+const localePath = useLocalePath()
+
 const categories = computed(() => RECIPE_CATEGORIES.map(cat => ({
   ...cat,
   name: t(`categories.${cat.key}`),
-  link: `/categories/${t(`categorySlugs.${cat.key}`)}`
+  to: localePath({ name: 'categories-slug', params: { slug: t(`categorySlugs.${cat.key}`) } })
 })))
 
-
-const localePath = useLocalePath()
 const siteUrl = 'https://www.hotrecipes.co.uk'
 const pageUrl = computed(() => {
   const path = localePath('/')
@@ -117,7 +117,7 @@ useSeoMeta({
     <section class="mb-16">
       <div class="flex items-center justify-between mb-8">
         <h2 class="text-3xl md:text-5xl font-black uppercase tracking-tighter italic text-foreground mb-0">{{ t('nav.categories') }}</h2>
-        <NuxtLink :to="localePath(`/categories/${t('categorySlugs.allrecipes')}`)" class="text-[10px] font-black uppercase tracking-widest text-emerald-500 hover:text-emerald-400 transition-colors">
+        <NuxtLink :to="localePath({ name: 'categories-slug', params: { slug: t('categorySlugs.allrecipes') } })" class="text-[10px] font-black uppercase tracking-widest text-emerald-500 hover:text-emerald-400 transition-colors">
           {{ t('recipes.all') }} &rarr;
         </NuxtLink>
       </div>
@@ -126,7 +126,7 @@ useSeoMeta({
         <NuxtLink 
           v-for="cat in categories" 
           :key="cat.key"
-          :to="localePath(cat.link)"
+          :to="cat.to"
           class="flex flex-col items-center gap-3 shrink-0 group"
         >
           <div class="relative w-28 h-28 md:w-32 md:h-32 rounded-full overflow-hidden border-2 border-slate-800 group-hover:border-emerald-500 transition-all duration-300 shadow-2xl">
@@ -150,7 +150,7 @@ useSeoMeta({
         <h2 class="text-3xl md:text-5xl font-black uppercase tracking-tighter italic text-foreground mb-0">
           {{ t('recipes.latest') }}
         </h2>
-        <NuxtLink :to="localePath(`/categories/${t('categorySlugs.allrecipes')}`)" class="text-[10px] font-black uppercase tracking-widest text-emerald-500 hover:text-emerald-400 transition-colors">
+        <NuxtLink :to="localePath({ name: 'categories-slug', params: { slug: t('categorySlugs.allrecipes') } })" class="text-[10px] font-black uppercase tracking-widest text-emerald-500 hover:text-emerald-400 transition-colors">
           {{ t('recipes.all') }} &rarr;
         </NuxtLink>
       </div>
@@ -168,7 +168,7 @@ useSeoMeta({
       <MobileScroll 
         :recipes="recipes" 
         :title="t('recipes.latest')"
-        :view-all-link="localePath(`/categories/${t('categorySlugs.allrecipes')}`)"
+        :view-all-link="localePath({ name: 'categories-slug', params: { slug: t('categorySlugs.allrecipes') } })"
         :view-all-text="t('recipes.all')"
       />
     </section>
@@ -204,7 +204,7 @@ useSeoMeta({
         v-if="fifteenMinRecipes.length > 0"
         :recipes="fifteenMinRecipes" 
         :title="t('recipes.15minutemeals')"
-        :view-all-link="localePath(`/categories/${t('categorySlugs.15minutemeals')}`)"
+        :view-all-link="localePath({ name: 'categories-slug', params: { slug: t('categorySlugs.15minutemeals') } })"
         :view-all-text="t('recipes.all')"
       />
 
@@ -212,7 +212,7 @@ useSeoMeta({
         v-if="airFryerRecipes.length > 0"
         :recipes="airFryerRecipes" 
         :title="t('recipes.airFryer')"
-        :view-all-link="localePath(`/categories/${t('categorySlugs.airfryer')}`)"
+        :view-all-link="localePath({ name: 'categories-slug', params: { slug: t('categorySlugs.airfryer') } })"
         :view-all-text="t('recipes.all')"
       />
 
@@ -220,7 +220,7 @@ useSeoMeta({
         v-if="ninjaCreamiRecipes.length > 0"
         :recipes="ninjaCreamiRecipes" 
         :title="t('recipes.ninjaCreami')"
-        :view-all-link="localePath(`/categories/${t('categorySlugs.ninjacreami')}`)"
+        :view-all-link="localePath({ name: 'categories-slug', params: { slug: t('categorySlugs.ninjacreami') } })"
         :view-all-text="t('recipes.all')"
       />
     </div>
@@ -230,7 +230,7 @@ useSeoMeta({
       v-if="collections.length > 0"
       :collections="collections" 
       :title="t('recipes.collections')"
-      :view-all-link="localePath('/collections')"
+      :view-all-link="localePath({ name: 'collections' })"
       :view-all-text="t('recipes.allCollections')"
       class="mt-16"
     />

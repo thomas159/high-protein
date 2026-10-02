@@ -24,7 +24,7 @@ keywords:
 - tofu marinade
 tipsTitle: Dominio del adobo
 tips:
-- 'Preparar el tofu: echa un vistazo a nuestros [Ultimate Quick Tofu Prep Hacks](/collections/easy-quick-tofu-prep-hacks) para lograr la textura perfecta antes de cocinarlo.'
+- 'Preparar el tofu: echa un vistazo a nuestros [Trucos definitivos para preparar tofu rápido](/es/colecciones/los-mejores-trucos-rapidos-para-preparar-tofu-microondas-versus-hervir) para lograr la textura perfecta antes de cocinarlo.'
 - 'Aromas frescos: si no tienes pasta de ajo y jengibre ya lista, pica muy fino un diente de ajo grande con un trozo igual de jengibre fresco.'
 - 'La regla del yogur: busca un yogur griego espeso (o una alternativa vegana bien cremosa). Si usas uno muy desnatado o líquido, se resbalará del tofu antes de poder dorarse y acabará quemándose.'
 - 'No te quedes corto con la sal: el tofu es bastante soso por naturaleza. Es fundamental que la marinada tenga una buena pizca de sal para levantar el sabor.'
@@ -94,7 +94,7 @@ faq:
 - question: ¿Puedo usar una proteína diferente en lugar de tofu?
   answer: Absolutamente. Es de élite con paneer, tempeh o coliflor asada.
 steps:
-- Prepara el tofu aplicando unos minutos en el microondas o hirviéndolo unos 10 minutos para escurrir bien su agua. Esto facilita que absorba de forma maravillosa la marinada de yogur. Puedes ver los detalles en nuestros trucos de [Ultimate Quick Tofu Prep Hacks](/collections/easy-quick-tofu-prep-hacks).
+- Prepara el tofu aplicando unos minutos en el microondas o hirviéndolo unos 10 minutos para escurrir bien su agua. Esto facilita que absorba de forma maravillosa la marinada de yogur. Puedes ver los detalles en nuestros trucos de [Trucos definitivos para preparar tofu rápido](/es/colecciones/los-mejores-trucos-rapidos-para-preparar-tofu-microondas-versus-hervir).
 - Mezcla bien el yogur griego con la pasta de ajo y jengibre, el zumo de limón, el aceite, el cilantro, el garam masala y la cúrcuma con una generosa pizca de sal.
 - Corta el tofu en cubos y mézclalo con cuidado pero asegurándote de que la marinada los cubra todos. Deja reposar durante 30 minutos para que coja todo el sabor.
 - Cocina en la freidora de aire a 180°C durante 6-10 minutos, agitando la cesta a la mitad del tiempo, hasta obtener ese apetitoso color tostado.

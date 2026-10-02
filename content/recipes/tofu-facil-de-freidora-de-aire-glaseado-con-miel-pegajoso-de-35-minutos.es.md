@@ -29,7 +29,7 @@ tags:
 - high-protein
 tipsTitle: Dominio del adobo
 tips:
-- 'Preparación de tofu: consulte nuestros [Ultimate Quick Tofu Prep Hacks](/collections/easy-quick-tofu-prep-hacks)
+- 'Preparación de tofu: consulte nuestros [Trucos definitivos para preparar tofu rápido](/es/colecciones/los-mejores-trucos-rapidos-para-preparar-tofu-microondas-versus-hervir)
   para lograr la textura perfecta antes de cocinar.'
 - 'Marcar el bloque: Marque ligeramente el tofu en un patrón entrecruzado para que
   el glaseado penetre en el centro.'
@@ -118,7 +118,7 @@ steps:
 - Prepare el tofu calentándolo en el microondas en ráfagas de 30 segundos hasta que
   esté seco, pero no cocido (aproximadamente 4 minutos) o hirviéndolo durante 5 a
   10 minutos. Quitar el agua significa que la marinada puede penetrar el bloque. Consulte
-  nuestros [Ultimate Quick Tofu Prep Hacks](/collections/easy-quick-tofu-prep-hacks)
+  nuestros [Trucos definitivos para preparar tofu rápido](/es/colecciones/los-mejores-trucos-rapidos-para-preparar-tofu-microondas-versus-hervir)
   para conocer los métodos exactos.
 - Batir en un bol la miel, el zumo de limón, las especias, el agua, una pizca de sal
   y un chorrito de aceite.

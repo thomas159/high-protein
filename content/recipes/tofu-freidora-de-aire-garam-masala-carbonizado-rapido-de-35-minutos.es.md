@@ -35,7 +35,7 @@ keywords:
 - vegan
 tipsTitle: Especias y carbón
 tips:
-- 'Preparación de tofu: consulte nuestros [Ultimate Quick Tofu Prep Hacks](/collections/easy-quick-tofu-prep-hacks)
+- 'Preparación de tofu: consulte nuestros [Trucos definitivos para preparar tofu rápido](/es/colecciones/los-mejores-trucos-rapidos-para-preparar-tofu-microondas-versus-hervir)
   para lograr la textura perfecta antes de cocinar.'
 - 'Base de yogur: Para obtener una cobertura ''tandoori'' adecuada, mezcle las especias
   con 2 cucharadas de yogur sin lácteos.'
@@ -110,7 +110,7 @@ steps:
 - Prepare el tofu calentándolo en el microondas en ráfagas de 30 segundos hasta que
   esté seco, pero no cocido (aproximadamente 4 minutos) o hirviéndolo durante 5 a
   10 minutos para expulsar el agua y que el bloque pueda absorber la marinada. Consulte
-  nuestros [Ultimate Quick Tofu Prep Hacks](/collections/easy-quick-tofu-prep-hacks)
+  nuestros [Trucos definitivos para preparar tofu rápido](/es/colecciones/los-mejores-trucos-rapidos-para-preparar-tofu-microondas-versus-hervir)
   para conocer los métodos exactos.
 - Batir la pasta de ajo y jengibre, la guindilla en polvo, el jugo de lima, el garam
   masala y un chorrito de aceite.

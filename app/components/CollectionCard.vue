@@ -20,7 +20,7 @@ const localePath = useLocalePath()
 
 <template>
   <NuxtLink 
-    :to="localePath(`/collections/${props.collection.slug}`)" 
+    :to="localePath({ name: 'collections-slug', params: { slug: props.collection.slug } })" 
     class="group bg-card rounded-2xl shadow-sm border border-border overflow-hidden hover:shadow-xl transition-all duration-500 flex flex-col md:flex-row hover:-translate-y-2"
   >
     <!-- Text on the left -->
