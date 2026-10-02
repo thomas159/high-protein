@@ -17,7 +17,7 @@ export interface Collection {
 }
 
 // Accept an array of these recipes as a prop
-const props = defineProps<{
+defineProps<{
   recipes?: Recipe[];
   collections?: Collection[];
   title?: string; // Optional custom title
@@ -25,8 +25,6 @@ const props = defineProps<{
   viewAllLink?: string;
   viewAllText?: string;
 }>();
-
-const { formatText } = useFormatText()
 </script>
 
 <template>
@@ -44,11 +42,11 @@ const { formatText } = useFormatText()
       class="grid gap-6 md:gap-8 items-stretch overflow-x-auto no-scrollbar snap-x snap-mandatory
              grid-flow-col auto-cols-[80%] pb-6 -mx-4 px-4
              md:mx-0 md:px-0 md:pb-0 md:grid-flow-row md:grid-cols-2"
-      :class="collections ? 'lg:grid-cols-2' : 'lg:grid-cols-4'"
+      :class="collections ? 'lg:grid-cols-2' : (recipes?.length === 3 ? 'lg:grid-cols-3' : 'lg:grid-cols-4')"
     >
       <template v-if="recipes">
         <div 
-          v-for="(recipe, index) in recipes" 
+          v-for="recipe in recipes" 
           :key="recipe.slug" 
           class="flex flex-col snap-center h-full">
           <RecipeCard :recipe="recipe" class="h-full" />

@@ -270,8 +270,8 @@ const { data: randomizedRecipes } = await useAsyncData(`${route.path}-random`, a
   const relatedSlugs = relatedRecipes.value?.map(r => r.slug) || []
   const uniqueRecipes = matchingRecipes.filter(r => !relatedSlugs.includes(r.slug))
 
-  // Shuffle the remaining unique recipes and grab 4 random ones
-  return uniqueRecipes.sort(() => 0.5 - Math.random()).slice(0, 4)
+  // Shuffle the remaining unique recipes and grab 3 random ones
+  return uniqueRecipes.sort(() => 0.5 - Math.random()).slice(0, 3)
 }, {
   watch: [recipe],
   default: () => []
@@ -471,11 +471,10 @@ useHead({
           />
         </section>
 
-        <div v-if="randomizedRecipes?.length" id="youMightAlsoLike" class="mt-12 border-t border-border pt-12">
+        <div v-if="randomizedRecipes?.length" id="youMightAlsoLike" class="mt-8 md:mt-10 border-t border-border pt-5 md:pt-10">
           <MobileScroll 
-            :recipes="randomizedRecipes" 
+            :recipes="randomizedRecipes.slice(0, 3)" 
             :title="t('recipes.youMightLike')"
-            class="pt-6"
           />
         </div>
 
