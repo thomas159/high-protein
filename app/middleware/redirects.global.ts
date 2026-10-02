@@ -1,10 +1,8 @@
-import enLocales from '~~/i18n/locales/en.json'
-import esLocales from '~~/i18n/locales/es.json'
-import deLocales from '~~/i18n/locales/de.json'
+import { CATEGORY_SLUGS } from '~/utils/constants'
 
-const enCategorySlugs = (enLocales.categorySlugs || {}) as Record<string, string>
-const esCategorySlugs = (esLocales.categorySlugs || {}) as Record<string, string>
-const deCategorySlugs = (deLocales.categorySlugs || {}) as Record<string, string>
+const enCategorySlugs = CATEGORY_SLUGS.en
+const esCategorySlugs = CATEGORY_SLUGS.es
+const deCategorySlugs = CATEGORY_SLUGS.de
 
 function resolveCategoryKey(slug: string): string {
   const s = slug.toLowerCase().trim()

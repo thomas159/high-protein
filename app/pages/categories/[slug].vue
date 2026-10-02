@@ -3,10 +3,7 @@ import { ref, computed, watch } from "vue";
 import { useRoute, useRouter } from "vue-router";
 import { useSetI18nParams } from "#imports";
 import Button from "@/components/common/Button.vue";
-import { RECIPE_CATEGORIES } from "@/utils/constants";
-import enLocales from "../../../i18n/locales/en.json";
-import esLocales from "../../../i18n/locales/es.json";
-import deLocales from "../../../i18n/locales/de.json";
+import { RECIPE_CATEGORIES, CATEGORY_SLUGS } from "@/utils/constants";
 
 const route = useRoute();
 const { t, te, locale } = useI18n();
@@ -41,9 +38,9 @@ const formatTag = (tag: any) => {
 const categorySlug = computed(() => route.params.slug as string);
 
 // Explicitly resolve the static slugs so we can pair English <-> Spanish <-> German
-const enSlugs = enLocales.categorySlugs as Record<string, string>;
-const esSlugs = esLocales.categorySlugs as Record<string, string>;
-const deSlugs = deLocales.categorySlugs as Record<string, string>;
+const enSlugs = CATEGORY_SLUGS.en;
+const esSlugs = CATEGORY_SLUGS.es;
+const deSlugs = CATEGORY_SLUGS.de;
 
 const resolveKey = computed(() => {
   const currentSlug = categorySlug.value;

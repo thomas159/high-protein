@@ -7,4 +7,35 @@ export const RECIPE_CATEGORIES = [
   { key: 'ninjacreami', icon: 'ph:ice-cream-duotone', image: 'ninja-creami-banana-vanilla-ice-cream_qmcu31' }
 ]
 
+export const CATEGORY_SLUGS = {
+  en: {
+    allrecipes: 'all-recipes',
+    dinner: 'dinner',
+    snacks: 'snacks',
+    dessert: 'dessert',
+    airfryer: 'air-fryer',
+    '15minutemeals': '15-minute-meals',
+    ninjacreami: 'ninja-creami'
+  },
+  es: {
+    allrecipes: 'todas-las-recetas',
+    dinner: 'cena',
+    snacks: 'aperitivos',
+    dessert: 'postre',
+    airfryer: 'air-fryer',
+    '15minutemeals': 'comidas-de-15-minutos',
+    ninjacreami: 'ninja-creami'
+  },
+  de: {
+    allrecipes: 'all-recipes',
+    dinner: 'dinner',
+    snacks: 'snacks',
+    dessert: 'dessert',
+    airfryer: 'air-fryer',
+    '15minutemeals': '15-minute-meals',
+    ninjacreami: 'ninja-creami'
+  }
+} as const
+
+
 

@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { RECIPE_CATEGORIES } from '~/utils/constants'
+import { RECIPE_CATEGORIES, CATEGORY_SLUGS } from '~/utils/constants'
 
 // Define the interface locally or import it
 export interface Recipe {
@@ -28,12 +28,18 @@ const localePath = useLocalePath()
 // 2. Determine the "Back" Label and Link
 const backLink = computed(() => {
   const path = previousPath.value
-  const categorySlugs = t('categorySlugs', { returnObjects: true })
 
   // If coming from a specific category page (English, Spanish, or German)
   if (path && (path.includes('/categories/') || path.includes('/categorias/') || path.includes('/kategorien/'))) {
     const slug = path.split('/').pop()
-    const key = Object.keys(categorySlugs).find(k => categorySlugs[k] === slug)
+    let key: string | undefined
+    for (const localeSlugs of Object.values(CATEGORY_SLUGS)) {
+      const found = Object.keys(localeSlugs).find(k => (localeSlugs as Record<string, string>)[k] === slug)
+      if (found) {
+        key = found
+        break
+      }
+    }
     const matched = key ? RECIPE_CATEGORIES.find(c => c.key === key) : null
 
     return {
