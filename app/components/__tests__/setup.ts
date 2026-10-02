@@ -2,8 +2,8 @@
 import { config } from '@vue/test-utils'
 import { beforeAll } from 'vitest'
 import { createI18n } from 'vue-i18n'
-import en from '../../../i18n/locales/en.json'
-import vi from '../../../i18n/locales/vi.json'
+import en from '../../../i18n/locales/en'
+import vi from '../../../i18n/locales/vi'
 
 beforeAll(() => {
     const nuxt = tryUseNuxtApp();

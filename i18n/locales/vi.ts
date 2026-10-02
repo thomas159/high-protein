@@ -1,4 +1,4 @@
-{
+export default {
  "nav": {
    "home": "Trang chủ",
    "docs": "Tài liệu",

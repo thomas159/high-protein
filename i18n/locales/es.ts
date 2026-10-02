@@ -1,4 +1,4 @@
-{
+export default {
   "nav": {
     "home": "Inicio",
     "docs": "Docs",
