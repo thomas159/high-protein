@@ -2,12 +2,11 @@
 categories:
 - 15minutemeals
 - snacks
-title: Salsa chimichurri vegana rápida y picante de 5 minutos
+title: 'Salsa chimichurri vegana, rápida y picante en 5 minutos'
 slug: salsa-chimichurri-vegana-rapida-y-picante-de-5-minutos
-meta:
-  seoMetaDescription: ¡Mejora tus proteínas rápidamente! Esta rápida y picante salsa
-    chimichurri vegana de 5 minutos equilibra perfectamente el aceite de oliva y las
-    hierbas frescas.
+date: '2026-07-15'
+updated: '2026-11-06'
+seoDescription: 'Salsa chimichurri vegana y picante con perejil fresco, ajo y vinagre, lista en 5 minutos. Mínima preparación, máximo sabor para tofu, seitán o verduras.'
 description: 'El último truco de sabor rápido. Macerar el ajo crudo en vinagre de
   vino tinto elimina el mordisco áspero, equilibrando perfectamente el aceite de oliva
   pesado y las hierbas frescas.
@@ -54,7 +53,7 @@ works:
 use:
 - 'Como adobo: cubra el tofu o el seitán antes de llevarlo a la parrilla.'
 - 'Como aderezo: vierta agresivamente sobre papas o verduras asadas.'
-- 'Como aderezo: mezcle en un tazón de cereales para obtener un gran sabor.'
+- 'Como aderezo: mezcle en un tazón de cereales para obtener un gran sabor. Si buscas más ideas para marinar tofu, mira [las mejores marinadas rápidas de tofu](/es/colecciones/los-mejores-adobos-rapidos-de-tofu-ricos-en-proteinas).'
 rating: null
 variations:
 - 'Mezcla de cilantro (cilantro): Cambie la mitad del perejil por cilantro fresco.'
@@ -105,8 +104,10 @@ faq:
   answer: Sí. Prepararlo un día antes permite que los sabores se combinen perfectamente
     en el refrigerador.
 steps:
-- Batir el vinagre, la sal y el ajo en un bol. Déjalo reposar durante 2 minutos para
-  macerar el ajo y matar el bocado crudo.
-- Incorpora las hierbas, la guindilla y finalmente el aceite de oliva.
+- 'Pica el ajo muy fino y ponlo en un bol con el vinagre y la sal. Remueve y déjalo reposar 2 minutos: el vinagre le quita ese mordisco crudo y picante al ajo.'
+- 'Mientras tanto, pica a mano el perejil y la guindilla lo más fino que puedas. Nada de batidora: las cuchillas machacan las hierbas, el aceite amarga y acabas con un puré verde oscuro.'
+- 'Añade al bol el perejil, la guindilla, el orégano y la pimienta negra. Mezcla con una cuchara hasta que las hierbas queden bien empapadas de vinagre.'
+- 'Vierte el aceite de oliva poco a poco mientras remueves. Debe quedar una salsa suelta, de un verde brillante y con trocitos visibles, nunca una pasta.'
+- 'Prueba y ajusta de sal. Si tienes tiempo, déjala reposar a temperatura ambiente un rato antes de servir para que las hierbas suelten todo su aroma.'
 ---
 

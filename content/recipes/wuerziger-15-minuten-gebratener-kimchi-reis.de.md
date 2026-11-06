@@ -4,10 +4,9 @@ categories:
   - dinner
 title: Würziger 15-Minuten gebratener Kimchi-Reis
 slug: wuerziger-15-minuten-gebratener-kimchi-reis
-meta:
-  seoMetaDescription: Knusprige Reiskruste und feuriges Kimchi! Dieser 15-Minuten
-    gebratene Kimchi-Reis (Kimchi Bokkeumbap) ist super würzig, schnell und
-    proteinreich.
+date: '2026-08-28'
+updated: '2026-11-06'
+seoDescription: "Würziger gebratener Kimchi-Reis in 15 Minuten: knusprige Reiskruste, feuriges Kimchi und 14 g Protein. Minimaler Aufwand, maximaler Geschmack."
 description: "Das ultimative koreanische Reste-Essen: Kalt gekochter Reis wird
   mit saftig-saurem Kimchi, Gochujang, Sesamöl und Ei bei hoher Hitze im Wok
   scharf angebraten. Herrlich knusprig am Pfannenboden und voller pikantem
@@ -47,6 +46,7 @@ works:
 use:
   - "Blitz-Dinner: Perfekt, wenn Reis vom Vortag übrig ist."
   - "Late-Night Comfort Food: Herzhaft, dampfend heiß und befriedigend."
+  - "Protein-Upgrade: Leg den [Gochujang-Tofu aus dem Airfryer](/de/rezepte/wuerzig-klebriger-35-minuten-koreanischer-gochujang-tofu) obendrauf. Mehr Lieferdienst-Klassiker findest du bei unseren [makrofreundlichen Fakeaways](/de/sammlungen/einfache-makrofreundliche-fakeaways)."
 variations:
   - "Tofu-Kimchi-Reis: Angebratene Tofuwürfel direkt mit unterheben."
   - "Mit Käse überbacken: Eine Schicht Mozzarella über den heißen Reis streuen

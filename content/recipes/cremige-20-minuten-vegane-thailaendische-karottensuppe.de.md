@@ -6,10 +6,9 @@ categories:
   - vegan
 title: Cremige 20-Minuten vegane thailändische Karottensuppe
 slug: cremige-20-minuten-vegane-thailaendische-karottensuppe
-meta:
-  seoMetaDescription: Wärmend, samtig und voller Geschmack! Diese 20-Minuten
-    vegane Karottensuppe mit Kokosmilch, Ingwer und roter Currypaste wärmt von
-    innen.
+date: '2026-08-28'
+updated: '2026-11-06'
+seoDescription: "Samtige vegane Thai-Karottensuppe in 20 Minuten: Kokosmilch, Ingwer und rote Currypaste aus einem Topf. Minimaler Aufwand, maximaler Geschmack."
 description: "Eine samtig-cremige Wohlfühlsuppe mit thailändischem Einschlag:
   Süße Karotten kochen mit wärmendem frischem Ingwer, Knoblauch und roter
   Currypaste weich und werden mit cremiger Kokosmilch zu einer samtweichen,
@@ -50,6 +49,7 @@ works:
 use:
   - "Wärmendes Abendessen: Perfekt an nasskalten Tagen."
   - "Leichte Vorspeise: Als eleganter Auftakt für asiatische Menüs."
+  - "Thai-Abend: Als Hauptgang passt die [knackige thailändische Süß-Sauer-Gemüsepfanne](/de/rezepte/knackige-30-minuten-thailaendische-suess-sauer-gemuesepfanne). Weitere Ideen findest du bei unseren [makrofreundlichen Fakeaways](/de/sammlungen/einfache-makrofreundliche-fakeaways)."
 variations:
   - "Mit Süßkartoffel: Eine halbe Süßkartoffel mitkochen für noch mehr
     Sämigkeit."

@@ -1,6 +1,9 @@
 ---
 title: "The Ultimate High-Protein Ninja Creami Recipes"
 slug: "high-protein-ninja-creami-recipes"
+seoDescription: High-protein Ninja Creami recipes, from chocolate and matcha to salted peanut butter. Ultra-creamy ice cream, minimal prep, maximum flavour, huge protein.
+date: '2026-05-07'
+updated: '2026-05-30'
 description: |
   Stop wasting your macros on generic supermarket tubs and suffering through powdery protein puddings. The Ninja Creami is the ultimate cheat code for hitting your daily targets without feeling miserable. 
   

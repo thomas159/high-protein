@@ -2,10 +2,11 @@
 categories:
 - airfryer
 - snacks
-title: Ultimate 30-Minute Extra Crispy Air Fryer Jalapeño Cheese Fries
+title: Ultimate 30-Minute Crispy Air Fryer Jalapeño Cheese Fries
 slug: air-fryer-jalapeno-cheese-loaded-fries
-meta:
-  seoMetaDescription: Craving a proper cheese hit? These ultimate extra crispy air fryer jalapeño cheese fries demand minimal prep for maximum flavour, ready in just 30 minutes.
+date: '2026-03-11'
+updated: '2026-11-06'
+seoDescription: Crispy air fryer fries loaded with melted cheddar and jalapeños in 30 minutes. Minimal prep, maximum flavour and 19g of protein, with no deep-fat fryer.
 description: 'Melted cheddar, fiery jalapeños, and ultra-crispy fries (chips) in a fraction of the time. We air-fry the potatoes first to build a rigid crust that easily holds up a heavy sheet of cheese without turning everything into a sad, soggy heap. It is the perfect speedy, high-carb recovery treat after a heavy leg session.
 
   '
@@ -23,7 +24,7 @@ works:
 use:
 - 'Refeed Comfort: A stellar choice when you need a fast hit of comforting carbs.'
 - 'Burger Partner: Pair it with a high-protein veggie burger.'
-- 'Midnight Fix: Knocks out any craving for salt, fat, and heat.'
+- 'Midnight Fix: Knocks out any craving for salt, fat, and heat. Hungry for more? Browse my [extra crispy air fryer fries](/collections/extra-crispy-air-fryer-fries).'
 tags: []
 cuisine: American
 keywords:

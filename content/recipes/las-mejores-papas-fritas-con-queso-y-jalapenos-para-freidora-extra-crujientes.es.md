@@ -1,10 +1,11 @@
 ---
 categories:
 - airfryer
-title: Las mejores papas fritas con queso y jalapeños para freidora extra crujientes
+title: 'Patatas con queso y jalapeños en freidora en 30 minutos'
 slug: las-mejores-papas-fritas-con-queso-y-jalapenos-para-freidora-extra-crujientes
-meta:
-  seoMetaDescription: ¿Te apetece un capricho súper sabroso y rápido? Prepara estas patatas cargadas con queso fundido y jalapeños en tu freidora de aire, listas en 30 minutos.
+date: '2026-07-15'
+updated: '2026-11-06'
+seoDescription: 'Patatas fritas extra crujientes en freidora de aire con queso fundido y jalapeños, en 30 minutos y con 19 g de proteína. Mínima preparación, máximo sabor.'
 description: |
   Queso cheddar fundido, jalapeños picantes y patatas ultra crujientes. La freidora de aire te da toda la textura de una fritura tradicional con solo un hilo de aceite, convirtiéndose en el capricho perfecto para el fin de semana listo en solo 30 minutos.
 
@@ -23,7 +24,7 @@ works:
 use:
 - 'Cena reconfortante excelente: un plato sabroso y completo para disfrutar el fin de semana.'
 - 'Acompañamiento ideal: la combinación que estabas buscando para acompañar tu hamburguesa vegetal favorita.'
-- 'Capricho de fin de semana: el plato de picoteo ideal para ver una película o compartir.'
+- 'Capricho de fin de semana: el plato de picoteo ideal para ver una película o compartir. Encontrarás más versiones en [las mejores patatas fritas extra crujientes en freidora](/es/colecciones/las-mejores-papas-fritas-extra-crujientes-para-freidora).'
 tags: []
 cuisine: Americana
 keywords:

@@ -2,12 +2,11 @@
 categories:
 - airfryer
 - dinner
-title: Tofu freidora sin aire con lima y chipotle ahumado fácil de 35 minutos
+title: 'Tofu ahumado con chipotle y lima en freidora en 35 minutos'
 slug: tofu-freidora-sin-aire-con-lima-y-chipotle-ahumado-facil-de-35-minutos
-meta:
-  seoMetaDescription: ¿Preparación para la noche mexicana? Este sencillo tofu ahumado
-    con chipotle y lima de 35 minutos aporta un toque picante y rico en proteínas
-    a tus tacos.
+date: '2026-07-15'
+updated: '2026-11-06'
+seoDescription: 'Tofu ahumado con chipotle y lima en freidora de aire, vegano y con 24 g de proteína en 35 minutos. Mínima preparación, máximo sabor para rellenar tus tacos.'
 description: 'Dale a tu preparación de comida un toque serio de inspiración mexicana.
   El jugo de lima rompe la densa capa exterior del tofu, permitiendo que los profundos
   aceites ahumados del chipotle penetren hasta el centro.

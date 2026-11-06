@@ -2,11 +2,11 @@
 categories:
 - 15minutemeals
 - airfryer
-title: Queso frito checo extra crujiente con freidora de aire de 15 minutos
+title: 'Queso frito checo extra crujiente en freidora en 15 minutos'
 slug: queso-frito-checo-extra-crujiente-con-freidora-de-aire-de-15-minutos
-meta:
-  seoMetaDescription: ¿Te apetece comida reconfortante? Este queso frito checo extra
-    crujiente de 15 minutos para freidora te da un bloque enorme y pegajoso sin aceite.
+date: '2026-07-15'
+updated: '2026-11-06'
+seoDescription: 'Queso frito al estilo checo, extra crujiente en freidora de aire, con 33 g de proteína y listo en 15 minutos. Mínima preparación, máximo sabor sin aceite.'
 description: 'Auténtico Smažený Sýr checo, completamente reconstruido para la freidora.
   Un bloque de queso espeso y pegajoso con una cáscara extra crujiente de 15 minutos.
   El doble empanado actúa como armadura estructural para que el queso no gotee.
@@ -55,8 +55,7 @@ use:
 - 'Refeed Main: Servir con patatas fritas y salsa tártara.'
 - 'Hamburguesa: emparede el bloque en un pan brioche para obtener una macro comida
   trampa de élite.'
-- 'Refrigerio rico en proteínas: córtelo en pepitas del tamaño de un bocado antes
-  de empanizarlo.'
+- 'Refrigerio rico en proteínas: córtelo en pepitas del tamaño de un bocado antes de empanizarlo. Encontrarás más ideas crujientes en [los snacks más rápidos para freidora de aire](/es/colecciones/los-bocadillos-y-golosinas-para-freidora-de-aire-mas-rapidos-y-crujientes).'
 variations:
 - 'Queso diferente: Gouda o provolone funcionan de manera brillante.'
 - 'Cobertura de hierbas: Mezcle el tomillo seco directamente con el pan rallado.'

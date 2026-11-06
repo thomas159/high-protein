@@ -3,12 +3,11 @@ categories:
   - 15minutemeals
   - airfryer
   - dinner
-title: Extra knuspriger 15-Minuten Airfryer Smažený Sýr (Gebackener Käse)
+title: "Knuspriger 14-Minuten Airfryer Gebackener Käse (Smažený Sýr)"
 slug: extra-knuspriger-15-minuten-airfryer-gebackener-kaese-nach-tschechischer-art
-meta:
-  seoMetaDescription: Knusprig panierter Käse ohne Frittierfett! Dieser
-    tschechische Smažený Sýr aus dem Airfryer gelingt in 15 Minuten außen kross
-    und innen zart schmelzend.
+date: '2026-08-28'
+updated: '2026-11-06'
+seoDescription: "Tschechischer Smažený Sýr aus dem Airfryer in 14 Minuten: kross paniert, innen schmelzend, 26 g Protein, kein Fettbad. Minimaler Aufwand, maximaler Geschmack."
 description: Der tschechische Street-Food-Klassiker Smažený Sýr – revolutioniert
   für den Airfryer! Durch eine doppelte Panade bleibt der Käse sicher im Inneren
   verschlossen, während die Kruste goldgelb und extrem kross wird, ganz ohne
@@ -22,7 +21,7 @@ tags:
   - snack
 cuisine: Tschechisch
 keywords:
-  - 15-Minuten
+  - 14-Minuten
   - Airfryer
   - Gebackener Käse
   - Smažený Sýr
@@ -47,6 +46,7 @@ works:
 use:
   - "Vegetarisches Comfort Food: Klassisch serviert im Brötchen oder mit Pommes."
   - "Herzhafter Snack: Mit Tatarensauce als unwiderstehliche Mahlzeit."
+  - "Mehr Käse aus dem Korb: Probier die [extra knusprigen Airfryer Mozzarella-Sticks](/de/rezepte/die-besten-45-minuten-extra-knusprigen-airfryer-mozzarella-sticks) oder stöber in unseren [schnellsten Airfryer-Snacks](/de/sammlungen/schnellste-knusprigste-airfryer-snacks)."
 variations:
   - "Kräuter-Kruste: Mische getrocknete Kräuter oder Paprikapulver unter die
     Semmelbrösel."

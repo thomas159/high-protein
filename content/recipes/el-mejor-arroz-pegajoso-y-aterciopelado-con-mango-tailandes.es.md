@@ -1,12 +1,11 @@
 --- 
 categories:
 - snacks
-title: El mejor arroz pegajoso y aterciopelado con mango tailandés
+title: 'Arroz glutinoso con mango tailandés cremoso en 15 minutos'
 slug: el-mejor-arroz-pegajoso-y-aterciopelado-con-mango-tailandes
-meta:
-  seoMetaDescription: ¿Realimentación limpia de carbohidratos? El arroz pegajoso y
-    aterciopelado con mango tailandés es un postre vegano de 15 minutos auténtico
-    y macroamigable.
+date: '2026-07-15'
+updated: '2026-11-06'
+seoDescription: 'Arroz glutinoso con mango al estilo tailandés, cremoso, vegano y listo en 15 minutos. Mínima preparación, máximo sabor para recargar carbohidratos.'
 description: 'La mejor alimentación con carbohidratos limpios. **Este auténtico arroz
   pegajoso con mango, que ofrece una gran dosis de carbohidratos de rápida digestión**,
   se basa en una proporción precisa de 4:1 de infusión de coco y glaseado final.
@@ -54,8 +53,7 @@ use:
 - 'Tropical Finisher: un final impresionante para una preparación de inspiración asiática.'
 - 'Heavy Refeed: una delicia enorme y limpia en carbohidratos para los días de entrenamiento
   intenso.'
-- 'Combustible matutino: disfrute del arroz glutinoso sobrante con fruta fresca para
-  el desayuno.'
+- 'Combustible matutino: disfrute del arroz glutinoso sobrante con fruta fresca para el desayuno. Para una noche tailandesa completa, empieza con [el salteado agridulce tailandés crujiente](/es/recetas/salteado-agridulce-tailandes-crujiente-facil-de-30-minutos).'
 rating: null
 variations:
 - 'Infusión de Pandan: Hervir la leche de coco con una hoja de pandan para obtener

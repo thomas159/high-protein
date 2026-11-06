@@ -5,10 +5,9 @@ categories:
   - ninjacreami
 title: Das beste ultra-cremige Kokos Ninja Creami
 slug: das-beste-ultra-cremige-kokos-ninja-creami
-meta:
-  seoMetaDescription: Tropischer Kokostraum! Dieses ultra-cremige Kokos Ninja
-    Creami Protein-Eis liefert authentischen Kokosgeschmack und reichlich
-    Protein.
+date: '2026-08-28'
+updated: '2026-11-06'
+seoDescription: "Tropischer Kokostraum: Dieses Kokos Ninja Creami Protein-Eis ist in 10 Minuten vorbereitet und liefert 36 g Protein. Minimaler Aufwand, maximaler Geschmack."
 description: "Urlaubsfeeling aus dem Becher: Feine Kokosmilch, Kokosraspeln und
   edles Vanille- oder Kokosprotein verschmelzen in der Ninja Creami zu einem
   samtigen, exotischen Eisgenuss mit nussig-süßer Kokosnote."
@@ -44,6 +43,7 @@ works:
 use:
   - "Sommerliche Erfrischung: Die perfekte Abkühlung an heißen Tagen."
   - "Exotischer Nachtisch: Passt genial nach Currys oder asiatischen Gerichten."
+  - "Mehr Kokos: Dazu passt der [thailändische Mango-Klebreis](/de/rezepte/cremiger-thailaendischer-mango-klebreis). Weitere Sorten findest du bei unseren [proteinreichen Ninja Creami Rezepten](/de/sammlungen/die-besten-proteinreichen-ninja-creami-rezepte)."
 variations:
   - "Raffaelo-Style: Mit gehackten Mandeln und weißer Schokolade verfeinern."
   - "Piña Colada: Mit ein paar Stücken frischer Ananas mixen."

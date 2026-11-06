@@ -4,8 +4,9 @@ categories:
 - dinner
 title: Easy 15-Minute Crispy Mango Paneer Naan Pizza
 slug: naan-bread-pizza
-meta:
-  seoMetaDescription: Skip the takeaway with this easy 15-minute crispy mango paneer naan pizza. The ultimate quick Indian-fusion dinner.
+date: '2026-03-09'
+updated: '2026-11-06'
+seoDescription: Crispy mango paneer naan pizza in 15 minutes, with 17g of protein and no dough to knead. Minimal prep, maximum flavour, and it beats a takeaway on a weeknight.
 description: 'A fluffy naan bread makes the perfect low-effort pizza base, letting you sidestep the absolute nightmare of making raw dough from scratch. With sweet mango chutney, creamy paneer, and a spicy kick, this is a legendary Indian-fusion dinner. It took me a few attempts to get the timing down, but baking it just until the edges get nice and crispy is the absolute sweet spot.'
 blurb: []
 image: naan-bread-pizza_m9ikl5
@@ -36,7 +37,7 @@ keywords:
 - quick dinner
 variations:
 - 'Vegan Swap: Use dairy-free naan and a vegan cheese alternative.'
-- 'Protein Spike: Toss some leftover tikka tofu on top.'
+- 'Protein Spike: Toss some leftover tikka tofu on top. My [air fryer tikka tofu](/recipes/tikka-tofu-marinade) is perfect here.'
 rating: null
 reviews: null
 servingSuggestions: Serve this alongside a crisp rocket (arugula) salad with a light vinaigrette. If you need more volume, add a dollop of cooling cucumber raita.

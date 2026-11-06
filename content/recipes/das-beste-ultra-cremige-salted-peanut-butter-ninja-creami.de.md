@@ -5,10 +5,9 @@ categories:
   - ninjacreami
 title: Das beste ultra-cremige Salted Peanut Butter Ninja Creami
 slug: das-beste-ultra-cremige-salted-peanut-butter-ninja-creami
-meta:
-  seoMetaDescription: Erdnussbutter-Traum mit Meersalz! Dieses samtige Salted
-    Peanut Butter Ninja Creami Protein-Eis ist unfassbar cremig und
-    proteinreich.
+date: '2026-08-28'
+updated: '2026-11-06'
+seoDescription: "Süß, salzig, nussig: Dieses Salted Peanut Butter Ninja Creami ist in 10 Minuten vorbereitet und liefert 44 g Protein. Minimaler Aufwand, maximaler Geschmack."
 description: "Für alle Erdnussbutter-Süchtigen: Die perfekte Balance aus
   nussiger Reichhaltigkeit, feiner Süße und salzigem Kick. Echte Erdnussbutter
   und aromatisches Proteinpulver verbinden sich in der Ninja Creami zu einem
@@ -45,6 +44,7 @@ use:
   - "Post-Workout Kraftpaket: Protein und gesunde Fette für effektive
     Regeneration."
   - "Abendlicher Genuss: Stillt jeden Heißhunger zuverlässig."
+  - "Mehr Eis-Sorten: Für Schoko-Fans gibt es das [ultra-cremige Schoko Ninja Creami](/de/rezepte/das-beste-ultra-cremige-schoko-ninja-creami). Alle Sorten findest du bei unseren [proteinreichen Ninja Creami Rezepten](/de/sammlungen/die-besten-proteinreichen-ninja-creami-rezepte)."
 variations:
   - "Schoko-Erdnuss (Reese's Style): Schoko-Proteinpulver oder Kakaopulver
     verwenden."

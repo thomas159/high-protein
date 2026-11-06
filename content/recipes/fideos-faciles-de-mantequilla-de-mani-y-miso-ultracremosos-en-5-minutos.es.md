@@ -1,12 +1,11 @@
 --- 
 categories:
 - 15minutemeals
-title: Fideos fáciles de mantequilla de maní y miso ultracremosos en 5 minutos
+title: 'Fideos ultracremosos de miso y cacahuete en 5 minutos'
 slug: fideos-faciles-de-mantequilla-de-mani-y-miso-ultracremosos-en-5-minutos
-meta:
-  seoMetaDescription: ¿Necesitas una cena de emergencia? Estos sencillos fideos miso
-    de mantequilla de maní ultra cremosos de 5 minutos están llenos de proteína vegana.
-    ¡Preparación mínima, máximo sabor umami!
+date: '2026-07-15'
+updated: '2026-11-06'
+seoDescription: 'Fideos ultracremosos de miso y crema de cacahuete listos en 5 minutos, con 18 g de proteína vegana. Mínima preparación, máximo sabor umami para cenar ya.'
 description: 'La comida de emergencia definitiva en 5 minutos. Con una gran cantidad
   de proteína de origen vegetal, batir mantequilla de maní con miso tibio crea una
   emulsión fácil y ultracremosa que cubre cada fideo perfectamente.
@@ -51,8 +50,7 @@ use:
 - 'Speedy Dinner: el código de trucos definitivo de 5 minutos cuando tienes poco tiempo.'
 - 'Limpieza de la despensa: utiliza grapas estándar que probablemente ya tengas por
   ahí.'
-- 'Aumento de proteínas: agregue un poco de tofu ahumado para aumentar considerablemente
-  las macros.'
+- 'Aumento de proteínas: agregue un poco de tofu ahumado para aumentar considerablemente las macros. Tienes más recetas rápidas en [los mejores trucos de fideos en 5 minutos](/es/colecciones/los-mejores-trucos-de-fideos-de-5-minutos-para-una-recarga-rapida-de-carbohidratos).'
 servingSuggestions: Estos fideos son muy potentes por sí solos, pero combínalos con
   algunas verduras crujientes para acompañar la rica salsa de maní. El edamame blanqueado
   o los guisantes dulces funcionan perfectamente. Exprime una rodaja de lima por encima

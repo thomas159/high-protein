@@ -3,10 +3,9 @@ categories:
   - 15minutemeals
 title: Knusprige 15-Minuten Mikrowellen-Kartoffelchips
 slug: knusprige-15-minuten-mikrowellen-kartoffelchips
-meta:
-  seoMetaDescription: Krosser Knabberspaß ohne Fettbad! Diese 15-Minuten
-    Mikrowellen-Kartoffelchips gelingen super einfach, fettarm und extrem
-    knusprig.
+date: '2026-08-28'
+updated: '2026-11-06'
+seoDescription: "Knusprige Kartoffelchips aus der Mikrowelle in 15 Minuten: vegan, glutenfrei und ganz ohne Fritteuse oder Ölbad. Minimaler Aufwand, maximaler Geschmack."
 description: Kartoffelchips selber machen in der Mikrowelle? Das funktioniert
   genial! Durch die Mikrowellen-Hitze verdampft das Wasser in hauchdünnen
   Kartoffelscheiben rasend schnell, sodass sie ohne Frittierfett perfekt
@@ -45,6 +44,7 @@ works:
 use:
   - "Snack-Attacke: Kalorienarmer Knabberspaß für den Fernsehabend."
   - "Dip-Begleiter: Stabil genug für Guacamole, Salsa oder Kräuterquark."
+  - "Dip-Pflicht: Dazu passt das [cremige Mikrowellen-Baba-Ganoush](/de/rezepte/schnelles-15-minuten-cremiges-mikrowellen-baba-ganoush). Mehr Knabbereien findest du bei unseren [schnellsten Airfryer-Snacks](/de/sammlungen/schnellste-knusprigste-airfryer-snacks)."
 variations:
   - "Paprika-Chips: Mit geräuchertem Paprikapulver und Zwiebelpulver würzen."
   - "Salt & Vinegar: Die Kartoffelscheiben vorher 10 Minuten in weißem Essig

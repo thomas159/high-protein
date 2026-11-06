@@ -20,11 +20,11 @@ const dvFat = computed(() => Math.round((props.macros.fat / 78) * 100)); // 78g 
 
 <template>
   <div class="bg-white dark:bg-slate-900 border-2 border-slate-950 dark:border-slate-700 p-4 font-sans text-slate-950 dark:text-slate-100 shadow-sm rounded-sm max-w-[280px]">
-    <h3 class="text-2xl font-black uppercase tracking-tighter leading-none border-b-8 border-slate-950 dark:border-slate-700 pb-1 mb-1">
-      {{ t('recipes.protein') }} Facts
-    </h3>
+    <p class="text-2xl font-black uppercase tracking-tighter leading-none border-b-8 border-slate-950 dark:border-slate-700 pb-1 mb-1">
+      {{ t('recipes.nutritionFacts') }}
+    </p>
     <div class="text-sm font-bold border-b border-slate-950 dark:border-slate-700 pb-1">
-      {{ servings }} Servings Per Recipe
+      {{ t('recipes.servingsPerRecipe', { count: servings }) }}
     </div>
     
     <div class="flex justify-between items-end border-b-4 border-slate-950 dark:border-slate-700 py-1 mb-1">

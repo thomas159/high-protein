@@ -77,7 +77,8 @@ const { data: recipes } = await useAsyncData(`${route.path}-recipes-${locale.val
   } else {
      builder = builder.where('path', 'LIKE', `%.${locale.value}`)
   }
-  return builder.all()
+  // Only the fields the collection list renders
+  return builder.select('path', 'slug', 'title', 'description', 'image', 'alt', 'macros', 'prepTimeMins', 'cookTimeMins').all()
 })
 
 // Merge the custom text from the collection with the actual recipe data
@@ -94,20 +95,37 @@ const ogImg = computed(() => {
   if (page.value?.image) {
     return page.value.image.startsWith('http')
       ? page.value.image
-      : `https://res.cloudinary.com/mealse-co-uk/image/upload/f_auto,q_auto/${page.value.image}`
+      : `https://res.cloudinary.com/mealse-co-uk/image/upload/f_auto,q_auto,c_fill,w_1200,h_630/${page.value.image}.jpg`
   }
   return 'https://www.hotrecipes.co.uk/cover.png'
 })
 
+// Short SEO description (falls back to a trimmed version of the long description)
+const truncate = (text: string, max = 160) => {
+  const clean = text.replace(/\s+/g, ' ').trim()
+  if (clean.length <= max) return clean
+  const cut = clean.slice(0, max - 1)
+  return `${cut.slice(0, cut.lastIndexOf(' '))}…`
+}
+const seoDescription = computed(() => page.value?.seoDescription || (page.value?.description ? truncate(page.value.description) : undefined))
+
+// Collection titles are already long and keyword-rich, so skip the site-name suffix
+useHead({
+  titleTemplate: (title) => title || appConfig.siteName,
+})
+
 useSeoMeta({
   title: () => page.value?.title || appConfig.siteName,
-  description: () => page.value?.description,
+  description: () => seoDescription.value,
   ogTitle: () => page.value?.title || appConfig.siteName,
-  ogDescription: () => page.value?.description,
+  ogDescription: () => seoDescription.value,
   ogUrl: `https://www.hotrecipes.co.uk${route.path}`,
   ogImage: ogImg,
+  ogImageWidth: 1200,
+  ogImageHeight: 630,
+  articleModifiedTime: () => page.value?.updated || page.value?.date,
   twitterTitle: () => page.value?.title || appConfig.siteName,
-  twitterDescription: () => page.value?.description,
+  twitterDescription: () => seoDescription.value,
   twitterImage: ogImg,
   twitterCard: 'summary_large_image'
 })
@@ -125,7 +143,7 @@ if (import.meta.server) {
     }),
     defineItemList({
       name: () => page.value?.title,
-      description: () => page.value?.description,
+      description: () => seoDescription.value,
       itemListElement: computed(() => collectionItems.value.map((item: any, idx: number) => ({
         '@type': 'ListItem',
         position: idx + 1,

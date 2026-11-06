@@ -4,8 +4,9 @@ categories:
 - ninjacreami
 title: The Ultimate Ultra-Creamy Matcha Ninja Creami
 slug: ninja-creami-matcha-ice-cream
-meta:
-  seoMetaDescription: An ultra-creamy matcha Ninja Creami that delivers a heavy protein hit with minimal prep. Perfect for satisfying sweet cravings in minutes.
+date: '2026-05-30'
+updated: '2026-11-06'
+seoDescription: Ultra-creamy matcha Ninja Creami with 72g of protein and just 10 minutes of hands-on prep. Minimal prep, maximum flavour and zero powdery lumps.
 description: 'A heavy hit of protein disguised as a premium, earthy matcha ice cream. Using a smart matcha paste trick ensures zero powdery lumps, while a touch of honey perfectly balances the earthy notes for a smooth, chilled treat. The Ninja Creami turns this macro-friendly mix into an absolute dessert cheat code for green tea lovers.
 
   '
@@ -36,7 +37,7 @@ works:
 use:
 - 'Post-Workout: A massive protein hit disguised as an elite dessert.'
 - 'Morning Fuel: The natural caffeine from the matcha makes this a great early-day treat.'
-- 'Late-Night Fix: Highly satiating and totally macro-friendly to kill evening cravings.'
+- 'Late-Night Fix: Highly satiating and totally macro-friendly to kill evening cravings. More flavours are waiting in my [high-protein Ninja Creami recipes](/collections/high-protein-ninja-creami-recipes).'
 rating: null
 variations:
 - 'White Chocolate Matcha: Drop in some sugar-free white chocolate chips during the mix-in phase.'
@@ -93,5 +94,5 @@ steps:
 - Lock the frozen pint into the Creami outer bowl.
 - Hit the 'Lite Ice Cream' button and let it run.
 - If it looks powdery (standard for macro ice creams), add a splash of milk and hit 'Re-spin' to force the creamy texture.
-- "Enjoy immediately. Optional: run the 'mix-in' program with white chocolate chips."
+- "Enjoy immediately. Optional: run the 'mix-in' programme with white chocolate chips."
 ---

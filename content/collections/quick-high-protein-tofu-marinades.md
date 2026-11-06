@@ -1,6 +1,9 @@
 ---
 title: "The Ultimate Quick High-Protein Tofu Marinades"
 slug: "quick-high-protein-tofu-marinades"
+seoDescription: Quick high-protein tofu marinades, from smoky chipotle lime to sticky honey glaze and spicy gochujang. Minimal prep, maximum flavour for meal-prep tofu.
+date: '2026-04-11'
+updated: '2026-05-16'
 description: |
   Stop eating bland, rubbery tofu. If you're serious about hitting your protein targets on a plant-based diet, you need to treat your prep with some respect. 
   

@@ -4,8 +4,9 @@ categories:
 - ninjacreami
 title: The Ultimate Ultra-Creamy Coconut Ninja Creami
 slug: ninja-creami-coconut-ice-cream
-meta:
-  seoMetaDescription: An ultra-creamy coconut Ninja Creami. Minimal prep, tropical flavour, and a heavy protein hit.
+date: '2026-05-07'
+updated: '2026-11-06'
+seoDescription: Ultra-creamy coconut Ninja Creami with 47g of protein and just 10 minutes of hands-on prep. Minimal prep, maximum flavour and a proper tropical escape.
 description: 'A velvety, tropical coconut escape in freezing cold ice cream form. Using the Ninja Creami turns this macro-friendly mix of light coconut milk and whey into an ultra-creamy dream. It took some serious trial and error in our kitchen to get the coconut profile spot on without relying on high-calorie canned coconut cream, but we have nailed this light gelato swap.
 
   '
@@ -34,7 +35,7 @@ works:
 use:
 - 'Pre-Workout Primer: The perfect fuel to smash your next PB.'
 - 'Sweet Fuel: Spot-on macros disguised as a premium dessert.'
-- 'Tropical Fix: Highly satiating to kill evening cravings and hit your macros.'
+- 'Tropical Fix: Highly satiating to kill evening cravings and hit your macros. It is brilliant alongside my [Thai mango sticky rice](/recipes/mango-sticky-rice).'
 rating: null
 variations:
 - 'Bounty Bar: Fold in dark chocolate chips and toasted desiccated coconut during the mix-in phase.'
@@ -76,13 +77,13 @@ faq:
 - question: Do I have to use Xanthan gum?
   answer: You can achieve great results without it, as the whey protein provides solid structure. However, adding a pinch of can also yield excellent results by further enhancing the velvety texture.
 - question: Can I use canned coconut milk?
-  answer: You can, but it will massively increase the fat and calorie content. This recipe is optimized for the lighter carton coconut milk to keep it macro-friendly.
+  answer: You can, but it will massively increase the fat and calorie content. This recipe is optimised for the lighter carton coconut milk to keep it macro-friendly.
 steps:
 - Pour the coconut milk, whey protein, honey, vanilla, and salt into a blender cup. Whisk or shake thoroughly until the mixture is completely smooth and does not have any powdery lumps.
 - Pour the base into your pint, making sure you stay below the max fill line.
 - Slide it onto a flat shelf in your freezer and leave it for a full day. If it freezes at an angle, it can wreck your machine.
 - Lock your frozen pint into the outer bowl and attach the lid.
-- Run the lite ice cream program.
+- Run the lite ice cream programme.
 - If the top looks a bit powdery or crumbly, do not panic. Splash a tablespoon of coconut milk in, pop it back in, and run a re-spin to get that ultra-smooth finish.
 - If you want a bit of crunch, poke a hole down the middle, toss in some toasted coconut or chocolate chips, and run the mix-in cycle. Grab a spoon and eat it straight away.
 ---

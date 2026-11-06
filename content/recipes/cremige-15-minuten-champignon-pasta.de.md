@@ -5,10 +5,9 @@ categories:
   - pasta
 title: Cremige 15-Minuten Champignon-Pasta
 slug: cremige-15-minuten-champignon-pasta
-meta:
-  seoMetaDescription: Herzhaftes Pilz-Umami in Rekordzeit! Diese cremige
-    15-Minuten Champignon-Pasta überzeugt mit gebratenen Pilzen, Knoblauch und
-    feiner Kräuter-Sauce.
+date: '2026-08-28'
+updated: '2026-11-06'
+seoDescription: "Cremige Champignon-Pasta in 15 Minuten: goldbraune Pilze, Knoblauch und eine leichte Kräutersauce mit 16 g Protein. Minimaler Aufwand, maximaler Geschmack."
 description: "Ein echter Seelenwärmer für Pilz-Liebhaber: Goldbraun angebratene
   braune Champignons in einer samtigen, leichten Knoblauch-Kräuter-Sauce,
   vereint mit deiner Lieblingspasta. Schnell, unkompliziert und voller
@@ -46,6 +45,7 @@ works:
 use:
   - "Schnelles Feierabendessen: In 15 Minuten frisch zubereitet."
   - "Herbstliches Wohlfühlessen: Wunderbar wärmend an kühlen Abenden."
+  - "Pasta-Rotation: Als Nächstes probierst du die [cremige Feta-Kirschtomaten-Pasta](/de/rezepte/cremige-15-minuten-feta-kirschtomaten-pasta). Für Tage mit null Energie gibt es unsere [5-Minuten-Nudel-Hacks](/de/sammlungen/die-besten-5-minuten-nudel-hacks)."
 variations:
   - "Pilz-Mischung: Mit Kräuterseitlingen oder Pfifferlingen ergänzen."
   - "Trüffel-Upgrade: Ein paar Tropfen Trüffelöl kurz vor dem Servieren

@@ -1,12 +1,11 @@
 --- 
 categories:
 - snacks
-title: Sopa de zanahoria tailandesa vegana y sedosa fácil de 20 minutos
+title: 'Sopa tailandesa de zanahoria vegana y sedosa en 20 minutos'
 slug: sopa-de-zanahoria-tailandesa-vegana-y-sedosa-facil-de-20-minutos
-meta:
-  seoMetaDescription: ¿Quieres un entrante vibrante? Esta sencilla y sedosa sopa de
-    zanahoria tailandesa vegana de 20 minutos está impregnada de leche de coco y curry
-    rojo.
+date: '2026-07-15'
+updated: '2026-11-06'
+seoDescription: 'Sopa tailandesa de zanahoria con leche de coco y curry rojo, vegana, sedosa y lista en 20 minutos. Mínima preparación, máximo sabor en una sola olla.'
 description: Sumérgete en los ricos y aromáticos sabores de Tailandia con esta sencilla
   y sedosa sopa de zanahoria tailandesa de 20 minutos. Con una infusión de pasta de
   curry rojo fragante y leche de coco cremosa, esta sopa apta para veganos combina
@@ -50,8 +49,7 @@ use:
 - 'Entrante: Un entrante vibrante y cálido para una cena.'
 - 'Almuerzo de la fase de corte: acompáñelo con pan crujiente para obtener una comida
   muy satisfactoria pero baja en calorías.'
-- 'Freezer Stash: Cocine por lotes y congele en porciones para obtener comida reconfortante
-  de emergencia.'
+- 'Freezer Stash: Cocine por lotes y congele en porciones para obtener comida reconfortante de emergencia. Si te sobra leche de coco, úsala en [el curry cremoso de garbanzos, espinacas y coco](/es/recetas/curry-aterciopelado-facil-de-espinacas-y-garbanzos-y-coco-de-25-minutos).'
 variations:
 - 'Patada de jengibre: agregue una cucharada de jengibre fresco rallado.'
 - 'Intercambio de batata: Cambie la mitad de las zanahorias por batata para aumentar

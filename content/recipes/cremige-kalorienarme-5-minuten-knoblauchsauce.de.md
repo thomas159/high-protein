@@ -4,10 +4,9 @@ categories:
   - sauce
 title: Cremige kalorienarme 5-Minuten Knoblauchsauce
 slug: cremige-kalorienarme-5-minuten-knoblauchsauce
-meta:
-  seoMetaDescription: Voller Knoblauchgeschmack, minimale Kalorien! Diese samtige
-    5-Minuten Knoblauchsauce auf Joghurtbasis ist der ultimative Dip für Pommes,
-    Bowls und Wraps.
+date: '2026-08-28'
+updated: '2026-11-06'
+seoDescription: "Cremige Knoblauchsauce in 5 Minuten: Joghurtbasis, nur 45 kcal und 5 g Protein pro Portion. Minimaler Aufwand, maximaler Geschmack. Ideal zu Pommes."
 description: Eine samtig-cremige Knoblauchsauce nach Döner- oder Aioli-Art, aber
   ohne fettige Mayonnaise. Auf Basis von proteinreichem griechischem Joghurt
   oder Magerquark und frischem Zitronensaft in nur 5 Minuten angerührt. Perfekt
@@ -46,6 +45,7 @@ use:
   - "Dip für Airfryer-Pommes: Die ultimative kalorienarme Begleitung zu krossen
     Pommes."
   - "Wrap- & Döner-Sauce: Großzügig in Wraps, Pita oder Bowls löffeln."
+  - "Der perfekte Dip-Partner: Tunk unsere [extra knusprigen Airfryer-Pommes](/de/sammlungen/extra-knusprige-airfryer-pommes) rein oder probier sie zu den [knusprigen Parmesan-Zucchini-Pommes](/de/rezepte/knusprige-airfryer-parmesan-zucchini-pommes)."
 variations:
   - "Kräuter-Knoblauch: Mit frischem Dill, Schnittlauch oder Petersilie
     verfeinern."

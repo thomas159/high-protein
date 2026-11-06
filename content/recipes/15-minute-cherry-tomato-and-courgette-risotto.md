@@ -2,11 +2,11 @@
 categories:
 - 15minutemeals
 - dinner
-title: Easy 15-Minute Ultra-Creamy Microwave Courgette (zucchini) Risotto
+title: 15-Minute Creamy Microwave Courgette (Zucchini) Risotto
 slug: 15-minute-cherry-tomato-and-courgette-risotto
-meta:
-  seoMetaDescription: Want risotto fast? This easy 15-minute ultra-creamy microwave
-    courgette (zucchini) risotto is the ultimate high-carb recovery meal.
+date: '2026-03-09'
+updated: '2026-11-06'
+seoDescription: Ultra-creamy courgette (zucchini) risotto in 15 minutes, straight from the microwave. Minimal prep, maximum flavour and 16g of protein with zero stirring.
 description: 'Standing over a stove stirring rice for 40 minutes is an absolute bin-fire when you are hungry. We intentionally chose this microwave hack because saving time and hitting your macros is the ultimate priority. This took me a few attempts to dial in, but the liquid absorption is down to a science now, balancing the acidic tomatoes against rich parmesan to keep it creamy rather than a watery soup.'
 blurb: []
 image: 15-minute-cherry-tomato-and-courgette-risotto_1_lsbbrh
@@ -34,7 +34,7 @@ works:
 use:
 - 'Rapid Carb Refeed: A heavy comfort meal with zero active cooking.'
 - 'Macro Lunch: Batch cook and nuke it the next day.'
-- 'Vegetarian Main: A heavyweight dish that needs zero meat.'
+- 'Vegetarian Main: A heavyweight dish that needs zero meat. Top it with [crispy air fryer halloumi bites](/recipes/crispy-air-fryer-halloumi-bites) for a salty protein boost.'
 variations:
 - 'Green Goodness: Fold in fresh spinach or peas.'
 - 'Cheesy Upgrade: Mix in a dollop of mascarpone if you have the calories to spare.'

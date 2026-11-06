@@ -9,9 +9,13 @@ export interface Collection {
   recipes?: any[];
 }
 
-const props = defineProps<{
+const props = withDefaults(defineProps<{
   collection: Collection;
-}>();
+  // Lets the parent pick the right heading level (h3 when nested under another section heading)
+  headingTag?: 'h2' | 'h3' | 'h4' | 'p';
+}>(), {
+  headingTag: 'h2',
+});
 
 const { t } = useI18n()
 const { formatText } = useFormatText()
@@ -29,9 +33,9 @@ const localePath = useLocalePath()
         <span>📖</span>
         <span>{{ t('collectionsPage.recipesCount', { count: props.collection.recipes.length }) }}</span>
       </div>
-      <h2 class="font-display text-2xl font-extrabold text-foreground mb-3 group-hover:text-green-600 dark:group-hover:text-green-400 leading-tight">
+      <component :is="props.headingTag" class="font-display text-2xl font-extrabold text-foreground mb-3 group-hover:text-green-600 dark:group-hover:text-green-400 leading-tight">
         {{ props.collection.title }}
-      </h2>
+      </component>
       <p class="font-body text-sm text-muted-foreground line-clamp-3 md:line-clamp-4 leading-relaxed" v-html="formatText(props.collection.description)"/>
     </div>
 
@@ -40,6 +44,7 @@ const localePath = useLocalePath()
       <Img 
         :src="props.collection.image"   
         :alt="props.collection.title"
+        sizes="sm:100vw md:100vw lg:50vw"
         class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110" 
       />
     </div>

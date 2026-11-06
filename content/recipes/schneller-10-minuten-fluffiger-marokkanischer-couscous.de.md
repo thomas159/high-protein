@@ -4,10 +4,9 @@ categories:
   - side-dish
 title: Schneller 10-Minuten fluffiger marokkanischer Couscous
 slug: schneller-10-minuten-fluffiger-marokkanischer-couscous
-meta:
-  seoMetaDescription: Duftend, locker und in 10 Minuten auf dem Tisch! Dieser
-    marokkanische Couscous mit Kichererbsen, Zimt und Kräutern ist die perfekte
-    Beilage.
+date: '2026-08-28'
+updated: '2026-11-06'
+seoDescription: "Fluffiger marokkanischer Couscous in 10 Minuten: vegan, ballaststoffreich und mit 8 g Protein die perfekte Beilage. Minimaler Aufwand, maximaler Geschmack."
 description: "Ein Hauch von Marrakesch in Rekordzeit: Feiner Hartweizengrieß
   quillt in heißer aromatisierter Gemüsebrühe mit Kreuzkümmel, Zimt und
   Koriander. Veredelt mit Kichererbsen, frischer Minze und Zitronenabrieb für
@@ -49,6 +48,7 @@ use:
   - "Vielseitige Beilage: Passt hervorragend zu Tajines, Tofu-Spießen oder
     gegrilltem Gemüse."
   - "Salat-Basis: Kalt mit Gurken, Tomaten und Feta als Couscous-Salat genießen."
+  - "Perfekte Partner: Serviere ihn zum [Spinat-Kichererbsen-Kokos-Curry](/de/rezepte/einfaches-25-minuten-spinat-kichererbsen-kokos-curry) oder mit einem Klecks [Mikrowellen-Baba-Ganoush](/de/rezepte/schnelles-15-minuten-cremiges-mikrowellen-baba-ganoush)."
 variations:
   - "Süße Noten: Getrocknete Aprikosen oder Rosinen mit hineingeben."
   - "Mandel-Crunch: Geröstete Mandelblättchen vor dem Servieren darüberstreuen."

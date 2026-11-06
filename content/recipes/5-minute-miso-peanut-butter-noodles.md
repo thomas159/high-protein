@@ -4,10 +4,11 @@ categories:
 - dinner
 title: Easy 5-Minute Ultra-Creamy Miso Peanut Butter Noodles
 slug: 5-minute-miso-peanut-butter-noodles
-meta:
-  seoMetaDescription: Need an emergency dinner? These easy 5-minute ultra-creamy miso
-    peanut butter noodles are packed with vegan protein. Minimal prep, maximum umami
-    flavour!
+date: '2026-03-13'
+updated: '2026-11-06'
+seoDescription: Need an emergency dinner? These easy 5-minute ultra-creamy miso
+  peanut butter noodles are packed with vegan protein. Minimal prep, maximum umami
+  flavour!
 description: 'The ultimate 5-minute emergency meal. Packing a massive hit of plant-based protein, whisking peanut butter into warm miso creates an easy, ultra-creamy sauce that coats every single noodle perfectly. This took me a few attempts to dial in the exact ratio, but we''ve got the balance of rich peanut butter and savoury miso down to a science.'
 image: 5-minute-miso-peanut-butter-noodles_eo9aef
 alt: 5-Minute Miso Peanut Butter Noodles garnished with spring onions
@@ -42,7 +43,7 @@ works:
 use:
 - 'Speedy Dinner: The ultimate 5-minute cheat code when you''re short on time.'
 - 'Pantry Clear-out: Uses standard staples you likely already have lying around.'
-- 'Protein Boost: Toss in some smoked tofu to heavily bump up the macros.'
+- 'Protein Boost: Toss in some smoked tofu to heavily bump up the macros. Get it ready in record time with these [quick tofu prep hacks](/collections/easy-quick-tofu-prep-hacks).'
 servingSuggestions: These noodles are heavy hitters on their own, but pair them with
   some crunchy greens to cut through the rich peanut sauce. Blanched edamame or sugar
   snap peas work perfectly. Squeeze a wedge of lime over the top right before eating.

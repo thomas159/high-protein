@@ -4,8 +4,9 @@ categories:
 - dessert
 title: Easy 30-Minute Extra Crunchy Air Fryer Apple Crumble
 slug: high-protein-air-fryer-apple-crumble
-meta:
-  seoMetaDescription: Muscle-building dessert! This easy 30-minute extra crunchy air fryer apple crumble delivers macro-friendly satisfaction.
+date: '2026-03-01'
+updated: '2026-11-06'
+seoDescription: Extra crunchy air fryer apple crumble in 30 minutes, with 16g of protein in a single ramekin. Minimal prep, maximum flavour and a dessert that fits your macros.
 description: 'A post-training treat that actually supports your goals. Warm, steaming apples sit under a crispy oat topping baked right in the ramekin. No messy cleanup, solid macros, and zero fuss.'
 image: high-protein-air-fryer-apple-crumble_plgb9p
 alt: High protein air fryer apple crumble in a ramekin
@@ -31,7 +32,7 @@ use:
 - 'Pre-Workout Primer: The perfect fuel to smash your next session.'
 - 'Macro-Friendly Finisher: An elite dessert to cap off the evening without blowing your deficit.'
 - 'Sweet Breakfast Bowl: Pair with Greek yoghurt for a high-protein, fibre-rich morning start.'
-- 'Post-Workout Recovery: A solid hit of clean carbs and protein.'
+- 'Post-Workout Recovery: A solid hit of clean carbs and protein. Add a scoop of [apple cinnamon Ninja Creami](/recipes/ninja-creami-apple-cinnamon-ice-cream) for the full dessert experience.'
 rating: null
 variations:
 - 'Berry Mix: Swap half the apples for mixed berries.'

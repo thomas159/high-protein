@@ -4,10 +4,11 @@ categories:
 - airfryer
 - snacks
 - dessert
-title: The Ultimate Easy 10-Minute Chewy Air Fryer Banana Oat Cookies
+title: Easy 10-Minute Chewy Air Fryer Banana Oat Cookies
 slug: air-fryer-banana-oat-cookies
-meta:
-  seoMetaDescription: Craving a sweet bakery fix under 100 kcal? These easy 10-minute air fryer banana oat cookies deliver minimal prep, maximum flavour, and a warm, chewy bite without sugar or flour.
+date: '2026-09-08'
+updated: '2026-11-06'
+seoDescription: Chewy banana oat cookies in 10 minutes in the air fryer, under 100 kcal each. Minimal prep, maximum flavour, with no added sugar or flour in the mix.
 description: 'Two humble whole-food ingredients at the base create the ultimate blood-sugar-stabilising sweet treat. The air fryer works its magic in eight minutes flat, turning mashed spotty banana and rolled oats into warm, jammy-centred cookies with crisp golden edges. Dotted with rich 85% dark chocolate chips and scented with cinnamon, nobody will believe this entire batch clocks in at under 100 calories.'
 blurb: []
 image: air-fryer-banana-oat-cookies_1_y6nwl5
@@ -43,7 +44,7 @@ works:
 use:
 - 'Pre-Workout Primer: A rapid, easily digestible source of clean complex carbohydrates to top up glycogen stores before lifting or running.'
 - 'Midday Energy Reviver: Keep cravings at bay with a warm, chocolate-studded treat that fits any calorie-restricted plan.'
-- 'Late-Night Sweet Tooth: Satisfy bakery dessert cravings in ten minutes flat from pantry to plate without derailing daily macros.'
+- 'Late-Night Sweet Tooth: Satisfy bakery dessert cravings in ten minutes flat from pantry to plate without derailing daily macros. More quick treats live in my [crispiest air fryer snacks](/collections/quickest-crispiest-air-fryer-snacks) collection.'
 whyTitle: Why You Will Love It
 why:
 - 'Zero Refined Junk: No refined white flour, added sugars, butter, or synthetic binders—just honest, unadulterated whole foods.'

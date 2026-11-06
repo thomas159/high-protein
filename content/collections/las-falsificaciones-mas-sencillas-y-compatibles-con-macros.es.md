@@ -1,6 +1,9 @@
 ---
-title: Las falsificaciones más sencillas y compatibles con macros
+title: 'Comida para llevar casera, fácil y apta para tus macros'
 slug: las-falsificaciones-mas-sencillas-y-compatibles-con-macros
+seoDescription: 'Versiones caseras de pizza, curry, nachos y patatas cargadas, listas antes que el repartidor. Mínima preparación, máximo sabor y macros bajo control.'
+date: '2026-07-15'
+updated: '2026-11-06'
 description: "Seamos honestos, todos anhelamos una comida sucia para llevar después\
   \ de un bloque de entrenamiento brutal. Pero gastar treinta libras sólo para borrar\
   \ por completo el déficit de calorías del fin de semana es un error de novato. Aquí\

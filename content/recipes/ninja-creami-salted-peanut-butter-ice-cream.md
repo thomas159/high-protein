@@ -4,8 +4,9 @@ categories:
 - ninjacreami
 title: The Ultimate Ultra-Creamy Salted Peanut Butter Ninja Creami
 slug: ninja-creami-salted-peanut-butter-ice-cream
-meta:
-  seoMetaDescription: An ultra-creamy salted peanut butter Ninja Creami. Minimal prep, salty-sweet perfection, and a heavy protein hit.
+date: '2026-03-31'
+updated: '2026-11-06'
+seoDescription: Ultra-creamy salted peanut butter Ninja Creami with 74g of protein and just 10 minutes of hands-on prep. Minimal prep, maximum flavour, salty-sweet heaven.
 description: 'A heavy hit of protein disguised as a salty-sweet, premium peanut butter-packed ice cream. By pairing peanut butter powder with vanilla whey, you get that rich peanut butter profile without the high fat content of the real thing. It took several attempts in our test kitchen to nail this smooth, scoopable swap, but we got there without adding heavy fats or weird store-bought stabilizers.
 
   '
@@ -35,7 +36,7 @@ works:
 use:
 - 'Post-Workout: A massive protein hit disguised as an elite dessert.'
 - 'Late-Night Fix: Highly satiating and totally macro-friendly to kill evening cravings.'
-- 'Summer Fuel: The ultimate way to hit your macros in a heatwave.'
+- 'Summer Fuel: The ultimate way to hit your macros in a heatwave. More flavours are waiting in my [high-protein Ninja Creami recipes](/collections/high-protein-ninja-creami-recipes).'
 rating: null
 variations:
 - 'Chocolate PB: Whisk some cocoa powder into the base before freezing.'
@@ -88,7 +89,7 @@ steps:
 - Pour the base into your pint, making sure you stay below the max fill line.
 - Slide it onto a flat shelf in your freezer and leave it for a full day. If it freezes at an angle, it can wreck your machine.
 - Lock your frozen pint into the outer bowl and attach the lid.
-- Run the lite ice cream program.
-- If the top looks a bit powdery or crumbly, do not panic. Splash a tablespoon of milk in, pop it back in, and run a re-spin to get that ultra-smooth finish.
+- Run the lite ice cream programme.
+- If the top looks a bit powdery or crumbly, do not panic. Splash a little milk in, pop it back in, and run a re-spin to get that ultra-smooth finish.
 - If you want a bit of crunch, poke a hole down the middle, toss in some crushed peanuts, and run the mix-in cycle. Grab a spoon and eat it straight away.
 ---

@@ -2,12 +2,11 @@
 categories:
 - airfryer
 - dessert
-title: Tarta de queso proteica fácil y aterciopelada con freidora de aire de 25 minutos
+title: 'Tarta de queso proteica en freidora de aire en 25 minutos'
 slug: tarta-de-queso-proteica-facil-y-aterciopelada-con-freidora-de-aire-de-25-minutos
-meta:
-  seoMetaDescription: ¿Antojos de tarta de queso? Esta sencilla tarta de queso proteica
-    aterciopelada para freidora de 25 minutos utiliza yogur griego para una delicia
-    macroamigable.
+date: '2026-07-15'
+updated: '2026-11-06'
+seoDescription: 'Tarta de queso proteica con yogur griego, cremosa y hecha en la freidora de aire en 25 minutos. Mínima preparación, máximo sabor y 10 g de proteína por ración.'
 description: 'Satisface tu antojo de tarta de queso sin destruir tus macros. Al cambiar
   la crema espesa por yogur griego y usar un edulcorante sin calorías, obtienes una
   delicia aterciopelada fácil de 25 minutos. La freidora establece perfectamente el
@@ -49,8 +48,7 @@ use:
 - 'Código de trucos de dieta: combate el antojo de una fracción de las calorías.'
 - 'Tratamiento rico en proteínas: el yogur griego lo convierte en una macro opción
   de élite.'
-- 'Control de porciones: un plato monodosis para que no termines comiendo un pastel
-  enorme.'
+- 'Control de porciones: un plato monodosis para que no termines comiendo un pastel enorme. Si lo quieres en versión de un bocado, prueba [los bocaditos de tarta de queso proteica](/es/recetas/bocaditos-de-tarta-de-queso-con-proteina-air-fryer).'
 variations:
 - 'Berry Swirl: Agregue mermelada de fresa sin azúcar a la masa.'
 - 'Citrus Zing: agregue ralladura de naranja o lima junto con el jugo de limón.'

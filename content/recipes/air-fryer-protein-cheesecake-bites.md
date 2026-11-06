@@ -5,8 +5,9 @@ categories:
 - snacks
 title: Ultimate 30-Minute Air Fryer Protein Cheesecake Bites
 slug: air-fryer-protein-cheesecake-bites
-meta:
-  seoMetaDescription: Got a sweet tooth but keeping it lean? These ultimate 30-minute air fryer protein cheesecake bites demand minimal prep for maximum flavour, with a crispy biscuit base.
+date: '2026-05-30'
+updated: '2026-11-06'
+seoDescription: Protein cheesecake bites in 30 minutes in the air fryer, with a crisp biscuit base and 12g of protein each. Minimal prep, maximum flavour and sane portions.
 description: 'Satisfy your sweet tooth with these luscious vanilla cheesecake cups, featuring a crisp, buttery biscuit base and a solid protein hit. They bake to creamy perfection in your air fryer in just twenty minutes, bypassing the long baking times of a traditional oven. They are a brilliant, portion-controlled snack to fuel your muscle recovery during a busy week.
 
   '
@@ -33,7 +34,7 @@ works:
 - 'Base Toasting: Air frying the crushed buttery biscuit base first toast-bakes the crust. This forms a solid biscuit foundation that refuses to go soft or soggy when the wet cheesecake batter is poured on top.'
 use:
 - 'Post-Workout Fuel: Satisfies a sweet tooth while scoring a serious hit of protein.'
-- 'Sane Portions: Pre-portioned bites in silicone liners so you cannot accidentally inhale a massive cake.'
+- 'Sane Portions: Pre-portioned bites in silicone liners so you cannot accidentally inhale a massive cake. Fancy a single bigger serving? Make my [velvety air fryer protein cheesecake](/recipes/air-fryer-low-calorie-cheesecake).'
 servingSuggestions: Serve chilled, optionally topped with fresh berries or a sugar-free fruit compote.
 storageInstructions: Store in an airtight container in the fridge for up to 4 days.
 prepTimeMins: 10
@@ -73,15 +74,22 @@ ingredients:
 - item: Lemon juice
   amount: 2
   unit: tsp
-- item: Cornstarch
+- item: Cornflour (cornstarch)
   amount: 1
   unit: tsp
+faq:
+- question: Can I make these without protein powder?
+  answer: You can, but you'll lose a big chunk of the protein. Swap it for extra Greek yoghurt and a touch more cornflour (cornstarch) so the filling still sets firm.
+- question: Why did my cheesecake bites crack?
+  answer: Usually too much whisking or too long in the air fryer. Whisk only until smooth, and pull them out while the centres still wobble slightly. They firm up in the fridge.
+- question: Can I use paper cases instead of silicone liners?
+  answer: Yes, but grease them lightly or the filling will cling to the paper like glue. Silicone liners peel away cleanly, so they are the safer bet.
 steps:
 - Crush the digestive biscuits into fine crumbs. Melt the butter and mix thoroughly with the crumbs until the mixture resembles wet sand.
 - Divide the crumb mixture evenly into silicone muffin liners or small air-fryer-safe ramekins and press down firmly. Air fry the bases at 180°C for 5-6 minutes. Remove and let them cool.
 - In a mixing bowl, beat the cream cheese and Greek yoghurt together until completely smooth. Stir in the xylitol until dissolved.
-- Add the egg, vanilla extract, lemon juice, cream cheese, and cornstarch. Whisk gently until uniform and velvety, being careful not to overmix.
-- Pour the cheesecake batter over the cooled, pre-baked biscuit bases, filling each mold about 3/4 full.
-- Carefully place the filled molds into the air fryer basket. Cook at 180°C for 15-17 minutes until set. The edges should be firm, but the centers should still have a slight jiggle.
+- Add the egg, vanilla extract, lemon juice, cream cheese, and cornflour. Whisk gently until uniform and velvety, being careful not to overmix.
+- Pour the cheesecake batter over the cooled, pre-baked biscuit bases, filling each mould about 3/4 full.
+- Carefully place the filled moulds into the air fryer basket. Cook at 180°C for 15-17 minutes until set. The edges should be firm, but the centres should still have a slight jiggle.
 - Remove from the air fryer and let cool to room temperature. Transfer to the refrigerator and chill for at least 2 hours to set completely before serving.
 ---

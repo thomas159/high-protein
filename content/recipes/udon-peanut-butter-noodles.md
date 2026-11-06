@@ -4,9 +4,9 @@ categories:
 - dinner
 title: Quick 15-Minute Ultra-Creamy Peanut Butter Udon Noodles
 slug: udon-peanut-butter-noodles
-meta:
-  seoMetaDescription: Want creamy noodles fast? These quick 15-minute ultra-creamy
-    peanut butter udon noodles are a high-protein vegan powerhouse.
+date: '2026-03-11'
+updated: '2026-11-06'
+seoDescription: Ultra-creamy peanut butter udon noodles in 15 minutes, packing 29g of vegan protein. Minimal prep, maximum flavour and a thick, chewy noodle fix.
 description: 'Thick, chewy udon noodles tossed in a quick 15-minute ultra-creamy Thai
   peanut sauce. Crafted with rich peanut butter, aromatic red curry paste, and silky coconut
   milk.
@@ -49,7 +49,7 @@ works:
 use:
 - 'Post-Workout Reload: Massive carbs and quality plant-based protein to restock your glycogen reserves.'
 - 'Rapid Lunch: Exactly 15 minutes from raw ingredients to a fully loaded plate.'
-- 'Elite Meal Prep: Eating these noodles cold straight from the fridge the next day is an absolute dream.'
+- 'Elite Meal Prep: Eating these noodles cold straight from the fridge the next day is an absolute dream. Want something even faster? Try my [5-minute noodle hacks](/collections/5-minute-noodle-hacks).'
 rating: null
 variations:
 - 'Volume Fix: Bulk it out with steamed broccoli florets.'
@@ -115,7 +115,7 @@ faq:
 steps:
 - Boil your udon noodles according to the packet instructions. Drain them, but make
   sure to reserve a splash of the starchy cooking water.
-- Heat coconut oil in a large wok or deep pan. Sauté the sliced carrots, bell peppers,
+- Heat coconut oil in a large wok or deep pan. Sauté the sliced carrots, peppers (bell peppers),
   and cubed tofu for 5 minutes until the vegetables soften and the tofu gets a light crust.
 - Add the curry paste, coconut milk, peanut butter, soy sauce, and sugar, cooking for
   2 minutes to melt everything together. If the sauce becomes claggy, quickly whisk in

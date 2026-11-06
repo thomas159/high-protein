@@ -2,10 +2,11 @@
 categories:
 - airfryer
 - dinner
-title: Freidora de aire rápida carbonizada y rica en proteínas Tikka Tofu de 35 minutos
+title: 'Tofu tikka tostado en freidora de aire en 35 minutos'
 slug: freidora-de-aire-rapida-carbonizada-y-rica-en-proteinas-tikka-tofu-de-35-minutos
-meta:
-  seoMetaDescription: ¡Olvídate de pedir comida india a domicilio! Prepara este tofu tikka marinado súper sabroso y crujiente en solo 35 minutos con tu freidora de aire.
+date: '2026-07-15'
+updated: '2026-11-06'
+seoDescription: 'Tofu tikka marinado y tostado en la freidora de aire en 35 minutos, con 19 g de proteína. Mínima preparación, máximo sabor sin pedir comida a domicilio.'
 description: |
   Consigue un tofu espectacular con todo el sabor y aroma de las especias de la India gracias a este marinado rápido estilo tikka de 35 minutos. Mezclamos yogur griego con curry, garam masala, cúrcuma y cilantro fresco para crear una capa cremosa que, al dorarse, conseguirá una costra increíble que te recordará a los mejores platos de restaurante.
 image: tikka-tofu-marinade_if4ab4

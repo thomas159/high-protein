@@ -1,6 +1,9 @@
 ---
 title: "The Ultimate Quick Tofu Prep Hacks: Microwave vs. Boiling"
 slug: "easy-quick-tofu-prep-hacks"
+seoDescription: Quick tofu prep hacks that skip the tedious pressing. Microwave or boil your tofu for a firmer, flavour-soaking bite in minutes. Minimal prep, maximum flavour.
+date: '2026-05-08'
+updated: '2026-05-16'
 description: |
   The ultimate cheat code for transforming bland, fragile tofu into a structural, flavour-absorbing powerhouse. Forget tedious, traditional pressing methods that take hours. 
   

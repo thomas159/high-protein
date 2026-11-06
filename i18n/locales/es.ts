@@ -20,6 +20,7 @@ export default {
       "badge": "Más de 100 recetas probadas",
       "title": "Crea músculo,",
       "highlight": "no platos.",
+      "h1Keyword": "Recetas vegetarianas y veganas ricas en proteínas",
       "subtitle": "Comidas vegetarianas y veganas rápidas y ricas en proteínas para personas que aman comer pero odian esperar.",
       "stats": "Explora más de {count} recetas ricas en proteínas",
       "spotlightBadge": "Receta destacada",
@@ -99,7 +100,7 @@ export default {
     "fat": "Grasas",
     "kcal": "Kcal",
     "more": "Ver más",
-    "whyWorks": "Por qué funciona esta receta de {title}",
+    "whyWorks": "Por qué funciona esta receta",
     "featuredIn": "Destacado En",
     "flavourProfile": "Perfil de sabor",
     "variations": "Variaciones y combinaciones de ingredientes",
@@ -118,7 +119,10 @@ export default {
     "mins": "{count} MINS",
     "kcalCount": "{count} KCAL",
     "ingredientsFor": "Ingredientes para {title}",
-    "servings": "Porciones"
+    "servings": "Porciones",
+    "stepImageAlt": "Paso {index} para preparar {title}",
+    "nutritionFacts": "Información nutricional",
+    "servingsPerRecipe": "{count} raciones por receta"
   },
   "categories": {
     "allrecipes": "Todas las recetas",
@@ -127,7 +131,9 @@ export default {
     "dessert": "Postre",
     "airfryer": "Air Fryer",
     "15minutemeals": "Comidas de 15 minutos",
-    "ninjacreami": "Ninja Creami"
+    "ninjacreami": "Ninja Creami",
+    "vegan": "Veganas",
+    "highprotein": "Altas en proteínas"
   },
   "tags": {
     "air-fryer": "Freidora de Aire",
@@ -189,9 +195,11 @@ export default {
     "dinner": "cena",
     "snacks": "aperitivos",
     "dessert": "postre",
-    "airfryer": "air-fryer",
+    "airfryer": "freidora-de-aire",
     "15minutemeals": "comidas-de-15-minutos",
-    "ninjacreami": "ninja-creami"
+    "ninjacreami": "ninja-creami",
+    "vegan": "veganas",
+    "highprotein": "altas-en-proteinas"
   },
   "footer": {
     "description": "Comidas vegetarianas y veganas rápidas y ricas en proteínas para personas que aman comer pero odian esperar.",
@@ -210,13 +218,13 @@ export default {
   },
   "seo": {
     "home": {
-      "title": "Recetas vegetarianas y veganas ricas en proteínas",
+      "title": "Recetas veganas y vegetarianas proteicas",
       "description": "Comidas vegetarianas y veganas rápidas y ricas en proteínas para personas que aman comer pero odian esperar.",
       "ogTitle": "Crea músculo, no platos | Recetas fitness a base de plantas",
       "ogDescription": "Deja de lavar platos y comienza a alcanzar tus macros con nuestras recetas veganas de 5 minutos."
     },
     "collections": {
-      "title": "Colecciones de recetas y guías ricas en proteínas",
+      "title": "Colecciones de recetas ricas en proteínas",
       "description": "Explora nuestras colecciones seleccionadas de recetas ricas en proteínas, guías de cocina y trucos para alcanzar tus macros con mínima preparación.",
       "ogTitle": "Colecciones de recetas seleccionadas | Hot Recipes",
       "ogDescription": "Explora nuestras colecciones seleccionadas de recetas ricas en proteínas, guías de cocina y trucos para alcanzar tus macros con mínima preparación."
@@ -330,6 +338,72 @@ export default {
     "allRecipesDesc": "Explora nuestra colección completa de recetas deliciosas, adaptadas a tus macros y ricas en proteínas, diseñadas para ayudarte a alcanzar tus objetivos de fitness sin sacrificar el sabor.",
     "categoryTitle": "Recetas de {category}",
     "categoryDesc": "Explora nuestra deliciosa colección de recetas de {category}. Perfectas para alcanzar tus objetivos de proteínas mientras disfrutas de comidas satisfactorias y sin culpa.",
+    "recipeCount": "{count} receta disponible | {count} recetas disponibles",
+    "cats": {
+      "allrecipes": {
+        "title": "Recetas vegetarianas y veganas proteicas",
+        "h1": "Todas las recetas vegetarianas y veganas ricas en proteínas",
+        "description": "Todas las recetas vegetarianas y veganas ricas en proteínas de Hot Recipes en un solo sitio. Comidas, snacks y postres rápidos con macros completos.",
+        "intro1": "Todas las recetas de la web en un solo sitio. Ninguna lleva carne, la mayoría está lista en menos de 20 minutos y todas incluyen los macros completos por ración.",
+        "intro2": "Usa los filtros de etiquetas para acotar por cocina, electrodoméstico o dieta. ¿No sabes por dónde empezar? Las recetas de freidora de aire y Ninja Creami son las favoritas."
+      },
+      "dinner": {
+        "title": "Cenas vegetarianas ricas en proteínas",
+        "h1": "Cenas vegetarianas y veganas ricas en proteínas",
+        "description": "Cenas vegetarianas y veganas ricas en proteínas para entre semana. Tofu, fideos, currys y pasta con macros completos, casi todas listas en 30 minutos.",
+        "intro1": "Cenas de diario que de verdad te ayudan a llegar a tu objetivo de proteína. Tofu meloso, fideos con cacahuete, pasta cremosa y currys en una sola sartén, con ingredientes de cualquier supermercado.",
+        "intro2": "La mayoría llega a la mesa en 30 minutos o menos, y cada receta indica proteína, carbohidratos, grasa y calorías por ración. Cocina una vez, reparte en tápers y la comida de mañana también queda resuelta."
+      },
+      "snacks": {
+        "title": "Snacks vegetarianos ricos en proteínas",
+        "h1": "Snacks vegetarianos y veganos ricos en proteínas",
+        "description": "Snacks vegetarianos y veganos ricos en proteínas, desde bocados crujientes en freidora de aire hasta bolitas proteicas sin horno. Rápidos y con macros.",
+        "intro1": "Snacks que te mantienen saciado entre comidas en lugar de mandarte de vuelta a la despensa una hora después. Halloumi crujiente, garbanzos especiados, cuencos de queso cottage y muchos favoritos de freidora de aire.",
+        "intro2": "Casi todos se preparan en 15 minutos o menos. Perfectos como recarga antes del gimnasio o después de entrenar, cuando la cena todavía queda lejos."
+      },
+      "dessert": {
+        "title": "Postres ricos en proteínas (vegetarianos)",
+        "h1": "Postres vegetarianos ricos en proteínas",
+        "description": "Postres ricos en proteínas que saben a los de verdad. Tarta de queso proteica, helados Ninja Creami y dulces en freidora de aire, con macros completos.",
+        "intro1": "Postre sin cargarte tus objetivos del día. Estas recetas tiran de yogur griego, queso cottage, proteína en polvo y skyr para sumar proteína sin disparar el azúcar.",
+        "intro2": "Encontrarás bocaditos de tarta de queso, galletas en freidora de aire y tarrinas de Ninja Creami que saben a helado de verdad. Cada receta muestra los macros completos por ración."
+      },
+      "airfryer": {
+        "title": "Recetas proteicas en freidora de aire",
+        "h1": "Recetas en freidora de aire ricas en proteínas (vegetarianas y veganas)",
+        "description": "Recetas vegetarianas y veganas ricas en proteínas para freidora de aire. Tofu, halloumi, patatas y snacks extra crujientes, casi todos en 15 minutos.",
+        "intro1": "La freidora de aire es la forma más rápida de conseguir un crujiente de verdad sin una sartén llena de aceite. Tofu, halloumi, garbanzos y patatas salen crujientes en mucho menos tiempo que en el horno.",
+        "intro2": "Cada receta indica la temperatura exacta en grados Celsius, el tiempo y las señales que debes buscar, además de los macros completos por ración. Agita la cesta a mitad de cocción y tienes medio trabajo hecho."
+      },
+      "15minutemeals": {
+        "title": "Comidas proteicas en 15 minutos",
+        "h1": "Comidas ricas en proteínas en 15 minutos",
+        "description": "Comidas vegetarianas y veganas ricas en proteínas listas en 15 minutos o menos. Fideos, tofu, wraps y snacks con macros completos y mínima preparación.",
+        "intro1": "Para esas noches en las que cocinar parece una serie extra que nadie te pidió. Todas estas recetas están en la mesa en 15 minutos o menos, preparación incluida.",
+        "intro2": "Fideos rápidos, tofu crujiente, wraps bien cargados y atajos de microondas. Rápido no significa pobre en proteína, y cada receta indica los macros por ración."
+      },
+      "ninjacreami": {
+        "title": "Recetas Ninja Creami ricas en proteínas",
+        "h1": "Recetas Ninja Creami ricas en proteínas",
+        "description": "Helados Ninja Creami ultracremosos y ricos en proteínas. Chocolate, crema de cacahuete salada, matcha y más, con macros completos y mínima preparación.",
+        "intro1": "Helado cremoso de verdad con un buen extra de proteína. Estas tarrinas usan leche, proteína en polvo y un par de trucos para espesar, así la textura queda suave y sin cristales de hielo.",
+        "intro2": "Cada receta explica el tiempo de congelación, qué programa usar y cuándo volver a procesar. Todas incluyen los macros completos."
+      },
+      "vegan": {
+        "title": "Recetas veganas ricas en proteínas",
+        "h1": "Recetas veganas ricas en proteínas",
+        "description": "Recetas veganas rápidas y ricas en proteínas, sin carne, lácteos ni huevo. Tofu crujiente, fideos con cacahuete, currys y salsas con macros completos.",
+        "intro1": "Recetas 100 % vegetales que aun así cumplen con la proteína. El tofu, los garbanzos, la crema de cacahuete y los fideos hacen casi todo el trabajo pesado.",
+        "intro2": "Ninguna lleva carne, lácteos ni huevo, y todas muestran los macros completos por ración. Muchas recetas vegetarianas de la web también se hacen veganas con un cambio sencillo, así que revisa los consejos de cada una."
+      },
+      "highprotein": {
+        "title": "Recetas vegetarianas con 20 g+ de proteína",
+        "h1": "Recetas vegetarianas altas en proteínas (20 g+ por ración)",
+        "description": "Recetas vegetarianas y veganas con al menos 20 g de proteína por ración. Tofu, Ninja Creami, fideos y más, con macros completos y mínima preparación.",
+        "intro1": "Los pesos pesados. Cada receta de esta página aporta al menos 20 g de proteína por ración, más o menos lo mismo que un cacito de proteína en polvo, y sin nada de carne.",
+        "intro2": "Llegar a tu objetivo diario de proteína siendo vegetariano es mucho más fácil cuando una sola comida cubre buena parte. Guarda esta página para los días en que vas por detrás con tus números."
+      }
+    },
     "empty": "No se encontraron recetas."
   },
   "collectionsPage": {

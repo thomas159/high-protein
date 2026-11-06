@@ -4,9 +4,9 @@ categories:
   - dinner
 title: Schnelle 15-Minuten ultra-cremige Erdnussbutter-Udon-Nudeln
 slug: schnelle-15-minuten-ultra-cremige-erdnussbutter-udon-nudeln
-meta:
-  seoMetaDescription: Dicke, soßige Udon-Nudeln in thailändischer Erdnuss-Sauce!
-    In 15 Minuten fertig, cremig, vegan und eine echte Protein-Power-Mahlzeit.
+date: '2026-08-28'
+updated: '2026-11-06'
+seoDescription: "Ultra-cremige Erdnussbutter-Udon-Nudeln in 15 Minuten: vegan und mit satten 29 g Protein pro Schüssel. Minimaler Aufwand, maximaler Geschmack."
 description: Dicke, herrlich kaufeste Udon-Nudeln, geschwenkt in einer
   samtig-cremigen thailändischen Erdnusssauce mit Kokosmilch, roter Currypaste,
   knusprigem Tofu und knackigem Gemüse. Das ultimative High-Protein
@@ -48,6 +48,7 @@ use:
   - "Post-Workout Kraftpaket: Perfekte Kombination aus Kohlenhydraten und
     pflanzlichem Eiweiß."
   - "Blitz-Abendessen: In 15 Minuten frisch auf dem Teller."
+  - "Extra Sauce: Die [cremige thailändische Erdnuss-Satay-Sauce](/de/rezepte/schnelle-10-minuten-ultra-cremige-thailaendische-erdnuss-satay-sauce) passt perfekt dazu. Noch schneller geht es mit unseren [5-Minuten-Nudel-Hacks](/de/sammlungen/die-besten-5-minuten-nudel-hacks)."
 variations:
   - "Extra Gemüse: Brokkoliröschen oder Zuckerschoten mitschwenken."
   - "Tahini-Variante: Erdnussbutter durch Sesammus (Tahini) ersetzen für eine

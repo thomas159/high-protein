@@ -1,10 +1,11 @@
 ---
 categories:
 - 15minutemeals
-title: Fideos udon rápidos y ultracremosos con mantequilla de maní en 15 minutos
+title: 'Fideos udon ultracremosos con cacahuete en 15 minutos'
 slug: fideos-udon-rapidos-y-ultracremosos-con-mantequilla-de-mani-en-15-minutos
-meta:
-  seoMetaDescription: ¿Te apetecen unos fideos súper cremosos listos en tiempo récord? Estos fideos udon con salsa de maní se preparan en 15 minutos y son una opción vegana proteica brutal.
+date: '2026-07-15'
+updated: '2026-11-06'
+seoDescription: 'Fideos udon con salsa ultracremosa de cacahuete y coco, veganos y con 29 g de proteína en 15 minutos. Mínima preparación, máximo sabor en un solo bol.'
 description: |
   Fideos udon gruesos y tiernos envueltos en una espectacular y rápida salsa de maní al estilo tailandés lista en 15 minutos. Hecha con maní tostado, pasta de curry rojo aromático y cremosa leche de coco.
 
@@ -36,7 +37,7 @@ works:
 use:
 - 'Recarga a lo grande: carbohidratos y proteínas especiales para recuperar fuerzas tras un buen entrenamiento.'
 - 'Almuerzo exprés: pasa de los ingredientes al plato terminado en solo 15 minutos.'
-- 'Perfecto para tus tuppers: comerlo frío directo de la nevera al día siguiente es otro nivel.'
+- 'Perfecto para tus tuppers: comerlo frío directo de la nevera al día siguiente es otro nivel. Si te sobra salsa de cacahuete, guarda la receta de [la salsa satay tailandesa](/es/recetas/salsa-de-mani-satay-tailandesa-ultracremosa-rapida-de-10-minutos) o mira [más trucos de fideos rápidos](/es/colecciones/los-mejores-trucos-de-fideos-de-5-minutos-para-una-recarga-rapida-de-carbohidratos).'
 rating: null
 variations:
 - 'Aumento de volumen: añade unos ramilletes de brócoli al vapor si quieres un plato más abundante y vistoso.'

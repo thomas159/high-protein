@@ -3,9 +3,9 @@ categories:
 - 15minutemeals
 title: Quick & Easy 10-Minute Fluffy Moroccan Couscous
 slug: quick-moroccan-couscous
-meta:
-  seoMetaDescription: Need a side dish fast? This quick & easy 10-minute fluffy Moroccan
-    couscous is the perfect vibrant Mediterranean base.
+date: '2026-03-10'
+updated: '2026-11-06'
+seoDescription: Fluffy Moroccan couscous in 10 minutes with zero hob time, packing 21g of protein. Minimal prep, maximum flavour and a vibrant base for any Mediterranean meal.
 description: 'The ultimate lazy-day carb base that requires absolutely zero actual cooking.
   By simply pouring boiling vegetable stock over the grains, you instantly rehydrate them
   for a heavy hit of solid carbs to fuel your next training session.
@@ -44,7 +44,7 @@ works:
 use:
 - 'Carb Base: The ultimate bed for grilled tofu or roasted veg.'
 - 'Meal Prep: Tastes brilliant cold in your lunchbox.'
-- 'Rapid Side: A 10-minute cheat code for Mediterranean dinners.'
+- 'Rapid Side: A 10-minute cheat code for Mediterranean dinners. Top it with [crispy air fryer halloumi bites](/recipes/crispy-air-fryer-halloumi-bites) for a protein boost.'
 rating: null
 variations:
 - 'Protein Spike: Toss in a drained tin of chickpeas.'

@@ -4,9 +4,9 @@ categories:
 - airfryer
 title: Extra Crispy 15-Minute Air Fryer Czech Fried Cheese
 slug: air-fryer-fried-cheese-czech-style
-meta:
-  seoMetaDescription: Craving comfort food? This extra crispy 15-minute air fryer
-    Czech fried cheese gives you a massive gooey block without the oil.
+date: '2026-03-09'
+updated: '2026-11-06'
+seoDescription: Extra crispy Czech fried cheese in 15 minutes in the air fryer, with 33g of protein and no deep-fat fryer. Minimal prep, maximum flavour and a gooey centre.
 description: 'Authentic Czech Smažený Sýr, completely rebuilt for the air fryer. A thick, gooey block of cheese with an extra crispy 15-minute crust. The double breading acts as a solid shield so the cheese doesn''t leak. This took me several attempts to perfect, but the double coating is the ultimate trick to lock the molten cheese inside without a single blowout, giving you a massive hit of protein with zero deep-frying oil or mess.'
 blurb: []
 image: fried-cheese-czech-style_im1uqu
@@ -36,7 +36,7 @@ tips:
 works:
 - 'Double Crust Secret: The double layer of flour, egg, and breadcrumbs acts as a
   protective barrier. This ensures the outside dries out and turns golden-crisp before
-  the center gets hot enough to melt, keeping the cheese locked inside. The crust should
+  the centre gets hot enough to melt, keeping the cheese locked inside. The crust should
   be a sturdy, dry shell—if you see cheese starting to escape, it is done.'
 - 'Rapid Heat Convection: The intense circulating hot air mimics deep-frying by quickly
   pulling moisture off the surface, giving you that authentic crunchy snap without
@@ -44,7 +44,7 @@ works:
 use:
 - 'Refeed Main: Serve with chips and tartar sauce.'
 - 'Burger Patty: Sandwich the block in a brioche bun for an elite macro cheat meal.'
-- 'High-Protein Snack: Cut into bite-sized nuggets before breading.'
+- 'High-Protein Snack: Cut into bite-sized nuggets before breading. Serve it the Czech way with a pile of [thick-cut sweet potato fries](/recipes/thick-cut-sweet-potato-fries).'
 variations:
 - 'Different Cheese: Gouda or provolone work brilliantly.'
 - 'Herb Coating: Mix dried thyme straight into the breadcrumbs.'

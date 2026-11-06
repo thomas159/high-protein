@@ -4,8 +4,9 @@ categories:
 - ninjacreami
 title: The Quickest, Creamiest Banana Vanilla Ninja Creami
 slug: ninja-creami-banana-vanilla-ice-cream
-meta:
-  seoMetaDescription: An ultra-creamy banana vanilla Ninja Creami. The perfect pre-workout carb load.
+date: '2026-05-07'
+updated: '2026-11-06'
+seoDescription: Ultra-creamy banana vanilla Ninja Creami with 53g of protein and 10 minutes of hands-on prep. Minimal prep, maximum flavour and a solid pre-workout carb hit.
 description: 'A velvety, sweet banana and vanilla dessert in freezing cold ice cream form. Using the Ninja Creami turns this mix of ripe bananas, honey, and milk into an ultra-creamy dream. It is the absolute cheat code for hitting your fitness targets before a heavy session. It took me a few attempts to get the level of vanilla flavour spot on, but now it resembles a proper, rich pudding.'
 image: ninja-creami-banana-vanilla-ice-cream_qmcu31
 alt: Banana vanilla ice cream in a Ninja Creami pint
@@ -31,7 +32,7 @@ works:
 use:
 - 'Pre-Workout Primer: The perfect fuel to smash your next PB.'
 - 'Sweet Fuel: A solid hit of fast-digesting carbs.'
-- 'Pre-Workout: Highly effective to stock up glycogen stores before a heavy session.'
+- 'Pre-Workout: Highly effective to stock up glycogen stores before a heavy session. See the full line-up in my [high-protein Ninja Creami recipes](/collections/high-protein-ninja-creami-recipes).'
 rating: null
 variations:
 - 'Double Banana Hit: Swap the vanilla whey protein powder for banana-flavoured whey to massively amplify the banana profile.'
@@ -87,5 +88,5 @@ steps:
 - Lock the frozen pint into the Creami outer bowl.
 - Hit the 'Lite Ice Cream' button and let it run.
 - If it looks powdery, add a splash of milk and hit 'Re-spin' to force the creamy texture.
-- Hollow out the centre, drop in your favourite mix-ins, and run the 'Mix-In' program. Demolish immediately.
+- Hollow out the centre, drop in your favourite mix-ins, and run the 'Mix-In' programme. Demolish immediately.
 ---

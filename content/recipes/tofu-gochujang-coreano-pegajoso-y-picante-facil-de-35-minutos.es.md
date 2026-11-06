@@ -1,11 +1,11 @@
 --- 
 categories:
 - dinner
-title: Tofu Gochujang coreano, pegajoso y picante, fácil de 35 minutos
+title: 'Tofu coreano picante y pegajoso con gochujang en 35 minutos'
 slug: tofu-gochujang-coreano-pegajoso-y-picante-facil-de-35-minutos
-meta:
-  seoMetaDescription: ¡Calor audaz rápido! Esta sencilla marinada de tofu gochujang
-    coreano, picante y pegajosa de 35 minutos, es una proteína vegana ardiente.
+date: '2026-07-15'
+updated: '2026-11-06'
+seoDescription: 'Tofu coreano con gochujang, picante y pegajoso, vegano y con 24 g de proteína en 35 minutos. Mínima preparación, máximo sabor para una cena con carácter.'
 description: 'Una marinada coreana fermentada y ardiente que contiene gochujang, salsa
   de soja y sésamo. Perfecto para tofu pegajoso y carbonizado para freidora. Esta
   sencilla marinada de 35 minutos golpea tu paladar como un máximo de una repetición.

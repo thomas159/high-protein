@@ -2,11 +2,11 @@
 categories:
 - 15minutemeals
 - dinner
-title: Pasta fácil de tomate cherry y queso feta ultracremosa de 15 minutos
+title: 'Pasta cremosa de tomate cherry y feta fácil en 15 minutos'
 slug: pasta-facil-de-tomate-cherry-y-queso-feta-ultracremosa-de-15-minutos
-meta:
-  seoMetaDescription: ¡Salvador entre semana! Esta sencilla pasta ultracremosa de
-    queso feta y tomate cherry de 15 minutos es una cena vegetariana italiana satisfactoria.
+date: '2026-07-15'
+updated: '2026-11-06'
+seoDescription: 'Pasta ultracremosa de tomate cherry y queso feta, vegetariana y con 23 g de proteína en 15 minutos. Mínima preparación, máximo sabor para salvar la cena.'
 description: 'Esta pasta fácil es un plato delicioso y de bajo esfuerzo, perfecto
   para las noches ocupadas entre semana o cuando anhelas una reconfortante recarga
   de carbohidratos. La combinación de tomates cherry dulces, pasta y una salsa feta
@@ -45,8 +45,7 @@ use:
 - 'Weeknight Savior: una lujosa y pesada recarga de carbohidratos en exactamente 15
   minutos.'
 - 'Macro Almuerzo: Sabe increíble recalentado al día siguiente.'
-- 'Cheat Meal Illusion: apariencia y sabor lo suficientemente premium como para servir
-  a los invitados.'
+- 'Cheat Meal Illusion: apariencia y sabor lo suficientemente premium como para servir a los invitados. Si te va lo cremoso, prueba también [la pasta de champiñones y ajo ultracremosa](/es/recetas/pasta-facil-de-champinones-y-ajo-ultracremosa-de-25-minutos).'
 cuisine: Italiana
 tags:
 - pasta

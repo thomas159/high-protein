@@ -1,6 +1,9 @@
 ---
 title: "The Ultimate 5-Minute Noodle Hacks for Fast Carb Refeeds"
 slug: "5-minute-noodle-hacks"
+seoDescription: Fast, high-protein noodle recipes ready in 5 minutes, from miso peanut butter to chilli noodles. Minimal prep, maximum flavour for post-workout carb refeeds.
+date: '2026-05-07'
+updated: '2026-05-17'
 description: |
   You've just walked through the door after a brutal session, you're starving, and your patience for cooking is at absolute zero. Forget staring blankly at the fridge or ordering a greasy takeaway. These lightning-fast noodle hacks are engineered for immediate post-workout carb refeeds. 
   

@@ -6,8 +6,9 @@ categories:
 - snacks
 title: Quick 35-Minute Charred Garam Masala Air Fryer Tofu
 slug: garam-masala-tofu-marinade
-meta:
-  seoMetaDescription: Upgrade your meal prep! This quick 35-minute charred Garam Masala air fryer tofu is a high-protein vegan powerhouse.
+date: '2026-03-12'
+updated: '2026-11-06'
+seoDescription: Charred garam masala air fryer tofu in 35 minutes, with 24g of vegan protein. Minimal prep, maximum flavour, and it keeps firm in the fridge all week.
 description: 'This quick Garam Masala marinade is an absolute flavour powerhouse. Squeezing fresh lime juice tenderises the tofu surface, helping the warm, earthy ginger and aromatics sink right to the core.
 
 

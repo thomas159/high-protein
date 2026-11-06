@@ -3,9 +3,9 @@ categories:
 - snacks
 title: Easy 20-Minute Silky Vegan Thai Carrot Soup
 slug: thai-carrot-soup
-meta:
-  seoMetaDescription: Want a vibrant starter? This easy 20-minute silky vegan Thai
-    carrot soup is infused with coconut milk and red curry.
+date: '2026-03-11'
+updated: '2026-11-06'
+seoDescription: Silky vegan Thai carrot soup in 20 minutes with coconut milk and red curry paste. Minimal prep, maximum flavour, and it freezes brilliantly for later.
 description: 'Warm up and fuel your recovery with this easy 20-minute silky Thai carrot soup.
   An absolute gold-medal winner of a winter warmer, marrying sweet carrots with a gentle curry kick
   and rich, velvety coconut milk.
@@ -56,8 +56,7 @@ use:
   to go at a moment''s notice.'
 variations:
 - 'Ginger Kick: Grate in some fresh ginger before blending for a fiery zing.'
-- 'Sweet Potato Swap: Swap out half the carrots for sweet potato to add some extra
-  solid carbs.'
+- 'Sweet Potato Swap: Swap out half the carrots for sweet potato to add some extra solid carbs. Or finish each bowl with a swirl of my [Thai satay peanut sauce](/recipes/satay-peanut-sauce) for extra protein.'
 servingSuggestions: Serve this alongside warm sourdough or garlic naan for dipping.
   Top heavily with roasted peanuts for a crucial textural crunch.
 shelf_life: 4 Days (Refrigerated)

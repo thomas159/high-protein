@@ -4,10 +4,11 @@ categories:
 - airfryer
 - snacks
 - dessert
-title: Las definitivas galletas tiernas y fáciles de plátano y avena en freidora de aire en 10 minutos
+title: 'Galletas de plátano y avena en freidora en 10 minutos'
 slug: galletas-platano-avena-freidora-aire
-meta:
-  seoMetaDescription: ¿Buscas un dulce de panadería con menos de 100 kcal? Estas fáciles galletas de plátano y avena en freidora de aire ofrecen mínima preparación, máximo sabor y textura tierna en 10 minutos sin harina ni azúcar.
+date: '2026-09-08'
+updated: '2026-11-06'
+seoDescription: 'Galletas tiernas de plátano y avena en freidora de aire, sin harina ni azúcar y listas en 10 minutos. Mínima preparación, máximo sabor y menos de 100 kcal.'
 description: 'Solo dos ingredientes integrales de base crean el dulce perfecto para estabilizar tus niveles de glucosa. La freidora de aire obra su magia en solo ocho minutos, transformando el plátano maduro machacado y los copos de avena en galletas tibias, jugosas por dentro y con los bordes dorados y crujientes. Coronadas con pepitas de chocolate negro al 85% y un toque de canela, nadie creerá que esta tanda tiene menos de 100 calorías.'
 blurb: []
 image: air-fryer-banana-oat-cookies_1_y6nwl5
@@ -43,7 +44,7 @@ works:
 use:
 - 'Snack previo al entrenamiento: Una dosis de hidratos de carbono limpios y de fácil asimilación para reponer glucógeno antes de entrenar.'
 - 'Recarga de energía a media tarde: Calma el apetito entre comidas con un dulce caliente con chocolate apto para cualquier déficit calórico.'
-- 'Capricho dulce nocturno: Calma el antojo de postre de panadería en solo diez minutos sin romper el recuento diario de macros.'
+- 'Capricho dulce nocturno: Calma el antojo de postre de panadería en solo diez minutos sin romper el recuento diario de macros. Encontrarás más caprichos rápidos en [los snacks y dulces para freidora de aire](/es/colecciones/los-bocadillos-y-golosinas-para-freidora-de-aire-mas-rapidos-y-crujientes).'
 whyTitle: Por qué te encantará
 why:
 - 'Ingredientes 100% naturales: Sin harinas blancas refinadas, azúcares añadidos, mantequilla ni emulsionantes artificiales — comida real pura y simple.'

@@ -5,10 +5,9 @@ categories:
   - dinner
 title: Würzig-klebriger 35-Minuten koreanischer Gochujang-Tofu
 slug: wuerzig-klebriger-35-minuten-koreanischer-gochujang-tofu
-meta:
-  seoMetaDescription: Pikant, klebrig-süß und super kross! Dieser 35-Minuten
-    koreanische Gochujang-Tofu aus dem Airfryer ist ein unwiderstehliches
-    High-Protein Highlight.
+date: '2026-08-28'
+updated: '2026-11-06'
+seoDescription: "Würzig-klebriger Gochujang-Tofu aus dem Airfryer in 35 Minuten: vegan, kross und mit 24 g Protein. Minimaler Aufwand, maximaler Geschmack."
 description: Knusprig gebratene Tofuwürfel umhüllt von einer feurigen,
   süß-würzigen koreanischen Gochujang-Glasur mit Knoblauch, Ingwer und
   geröstetem Sesamöl. Ein absolutes Geschmacksfeuerwerk aus der
@@ -50,6 +49,7 @@ use:
   - "Korean BBQ Bowl: Auf warmem Sushireis mit Kimchi, Gurke und Spinat
     anrichten."
   - "Protein-Snack: Direkt aus der Schale mit Zahnstochern snacken."
+  - "Koreanischer Abend: Dazu passt der [würzige gebratene Kimchi-Reis](/de/rezepte/wuerziger-15-minuten-gebratener-kimchi-reis). Weitere Marinaden findest du bei unseren [proteinreichen Airfryer Tofu-Marinaden](/de/sammlungen/schnelle-proteinreiche-airfryer-tofu-marinaden)."
 variations:
   - "Korean Fried Cauliflower: Dieselbe Marinade für knusprige Blumenkohl-Wings
     verwenden."

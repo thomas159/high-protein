@@ -2,12 +2,11 @@
 categories:
 - 15minutemeals
 - snacks
-title: Salsa de maní satay tailandesa ultracremosa rápida de 10 minutos
+title: 'Salsa satay de cacahuete ultracremosa en 10 minutos'
 slug: salsa-de-mani-satay-tailandesa-ultracremosa-rapida-de-10-minutos
-meta:
-  seoMetaDescription: ¿Necesitas un chapuzón premium? Esta rápida salsa tailandesa
-    de maní satay ultracremosa de 10 minutos proporciona grasas saludables, atrevidas
-    y picantes.
+date: '2026-07-15'
+updated: '2026-11-06'
+seoDescription: 'Salsa satay tailandesa de cacahuete, ultracremosa, vegana y picante, lista en 10 minutos. Mínima preparación, máximo sabor para tofu, fideos o verduras.'
 description: 'Un multitarea de primer nivel para tu cocina. **Con grasas saludables
   y una gran cantidad de proteínas para macros sólidas**, "hacer florecer" la pasta
   de curry rojo en leche de coco desbloquea una bomba de sabor rápida de 10 minutos.
@@ -37,8 +36,7 @@ use:
 - 'Como salsa: inmejorable para brochetas de halloumi o preparación de verduras crudas.'
 - 'Como aderezo: Dilúyalo con agua y lima para obtener un aderezo para ensaladas alto
   en grasa.'
-- 'Como salsa para saltear: mezcle directamente con los fideos de arroz para una recarga
-  rápida de carbohidratos.'
+- 'Como salsa para saltear: mezcle directamente con los fideos de arroz para una recarga rápida de carbohidratos. Para verla en acción, prueba [los fideos udon ultracremosos con cacahuete](/es/recetas/fideos-udon-rapidos-y-ultracremosos-con-mantequilla-de-mani-en-15-minutos).'
 image: peanut-satay-sauce_rngtry
 alt: Rica y cremosa salsa de maní satay en un bol
 pintrest: ''

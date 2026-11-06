@@ -2,11 +2,11 @@
 categories:
 - snacks
 - trending
-title: Papas fritas extra crujientes con romero y ajo
+title: 'Patatas fritas crujientes con romero y ajo en 30 minutos'
 slug: papas-fritas-extra-crujientes-con-romero-y-ajo
-meta:
-  seoMetaDescription: ¡Merienda gourmet rápida! Estas papas fritas con romero y ajo
-    extra crujientes de 30 minutos son una guarnición vegana saludable.
+date: '2026-07-15'
+updated: '2026-11-06'
+seoDescription: 'Patatas fritas extra crujientes con romero y ajo, veganas y sin gluten, listas en 30 minutos. Mínima preparación, máximo sabor para una gran guarnición.'
 description: 'Mejora tu guarnición con estas fragantes papas fritas con infusión de
   hierbas. Al combinar romero fresco y ajo salado con el crujiente de alta velocidad
   de la freidora, se obtienen patatas fritas extra crujientes con mucha menos grasa
@@ -44,7 +44,7 @@ works:
 use:
 - 'Lado Gourmet: Un paso sofisticado respecto a las papas fritas estándar.'
 - 'Maridaje de bistec: El mejor compañero para un filete espeso de coliflor o seitán.'
-- 'Snack Bowl: Perfecto para mojar en mayonesa de trufa o alioli de ajo.'
+- 'Snack Bowl: Perfecto para mojar en mayonesa de trufa o alioli de ajo. Sírvelas con [nuestra salsa de ajo ultracremosa](/es/recetas/salsa-rapida-de-ajo-ultracremosa-y-baja-en-calorias-en-5-minutos) o mira [más patatas fritas extra crujientes en freidora](/es/colecciones/las-mejores-papas-fritas-extra-crujientes-para-freidora).'
 tags:
 - gluten-free
 - vegan

@@ -5,10 +5,9 @@ categories:
   - ninjacreami
 title: Das beste ultra-cremige Apfel-Zimt Ninja Creami
 slug: das-beste-ultra-cremige-apfel-zimt-ninja-creami
-meta:
-  seoMetaDescription: Schmeckt wie flüssiger Apfelkuchen! Dieses ultra-cremige
-    Apfel-Zimt Ninja Creami Protein-Eis ist fettarm, proteinreich und herrlich
-    wärmend gewürzt.
+date: '2026-08-28'
+updated: '2026-11-06'
+seoDescription: "Schmeckt wie Apfelkuchen: Dieses Apfel-Zimt Ninja Creami ist in 10 Minuten vorbereitet und bringt 36 g Protein. Minimaler Aufwand, maximaler Geschmack."
 description: "Die gemütlichsten Herbstaromen vereint in einem löffelzarten
   Fitness-Eis: Fein gewürztes Apfelmus, wärmender Zimt und samtiges
   Vanilleprotein verwandeln sich in der Ninja Creami in ein himmlisches Eis mit
@@ -46,6 +45,7 @@ use:
   - "Herbstlicher Post-Workout Snack: Wärmende Gewürze und hochwertige Proteine."
   - "Diätfreundlicher Nachtisch: Volles Apfelkuchen-Feeling bei minimalen
     Kalorien."
+  - "Apfel-Fan: Warm statt kalt gibt es den [High-Protein Airfryer Apfel-Crumble](/de/rezepte/high-protein-15-minuten-airfryer-apfel-crumble). Weitere Sorten findest du bei unseren [proteinreichen Ninja Creami Rezepten](/de/sammlungen/die-besten-proteinreichen-ninja-creami-rezepte)."
 variations:
   - "Apple Pie Deluxe: Mit zerkrümelten Spekulatius- oder Graham-Cracker-Keksen."
   - "Karamell-Apfel: Einen Esslöffel zuckerfreie Karamellsauce einrühren."

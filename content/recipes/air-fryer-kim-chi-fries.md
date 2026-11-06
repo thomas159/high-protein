@@ -4,8 +4,9 @@ categories:
 - snacks
 title: Easy 30-Minute Extra Crispy Air Fryer Kimchi Fries
 slug: air-fryer-kim-chi-fries
-meta:
-  seoMetaDescription: Looking for a proper umami hit? These extra crispy air fryer kimchi fries demand minimal prep for maximum flavour, fully loaded and ready in 30 minutes.
+date: '2026-03-12'
+updated: '2026-11-06'
+seoDescription: Looking for a proper umami hit? These extra crispy air fryer kimchi fries demand minimal prep for maximum flavour, fully loaded and ready in 30 minutes.
 description: 'A brilliant fusion of spicy, fermented kimchi and melted cheddar over extra crispy chips (fries). The air fryer blasts away moisture to give you a deep-fried crunch without needing a vat of boiling oil. It is a fantastic option when you want a fast, fiery recovery meal after hitting a heavy workout.
 
   '
@@ -23,7 +24,7 @@ works:
 use:
 - 'Sharing Platter: A stellar sharing plate when you have mates round.'
 - 'Burger Partner: Pairs beautifully next to a thick, high-protein veggie burger.'
-- 'Late Night Fix: Knocks out any craving for salty, spicy, and cheesy food.'
+- 'Late Night Fix: Knocks out any craving for salty, spicy, and cheesy food. For more loaded ideas, see my [extra crispy air fryer fries](/collections/extra-crispy-air-fryer-fries).'
 tags:
 - fusion
 - gluten-free
@@ -44,7 +45,7 @@ variations:
 - 'Stretchy Upgrade: Mix in a pinch of vegetarian mozzarella with the cheddar for a superior cheese pull.'
 rating: null
 reviews: null
-servingSuggestions: These bold, fusion-style fries are incredibly satisfying on their own, but pairing them with a cooling element can elevate the dish. A drizzle of sriracha mayo or a side of creamy avocado slices helps to tarnish the spicy heat of the kimchi. Serve them as a hearty appetizer or alongside a plant-based Korean-style BBQ burger for an unforgettable weekend feast.
+servingSuggestions: These bold, fusion-style fries are incredibly satisfying on their own, but pairing them with a cooling element can elevate the dish. A drizzle of sriracha mayo or a side of creamy avocado slices helps to tarnish the spicy heat of the kimchi. Serve them as a hearty starter or alongside a plant-based Korean-style BBQ burger for an unforgettable weekend feast.
 storageInstructions: Best served fresh. Leftovers will lose their crispness but can be stored in the fridge for up to 2 days and reheated in the air fryer. Do not freeze.
 prepTimeMins: 5
 cookTimeMins: 25
@@ -90,7 +91,7 @@ faq:
 - question: What can I use if I don't have Gochujang?
   answer: You can mix a little sriracha with a pinch of sugar and miso paste as a quick substitute, though it won't have the exact same fermented depth.
 - question: Are kimchi fries overly spicy?
-  answer: They have a moderate, savory heat. The cheese helps cool down the spice from the kimchi and gochujang significantly!
+  answer: They have a moderate, savoury heat. The cheese helps cool down the spice from the kimchi and gochujang significantly!
 steps:
 - Scrub the potatoes and slice them into uniform sticks. Toss thoroughly in a large bowl with olive oil and salt until every piece is lightly coated. Using a bowl gets everything seasoned evenly without making the spuds soggy.
 - Arrange the potatoes in the basket, keeping them spaced out to let the air circulate. Air fry for 18-24 minutes at 190c, giving the basket a good shake halfway through.

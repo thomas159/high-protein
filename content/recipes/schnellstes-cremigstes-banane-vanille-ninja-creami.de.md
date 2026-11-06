@@ -5,10 +5,9 @@ categories:
   - ninjacreami
 title: Schnellstes, cremigstes Banane-Vanille Ninja Creami
 slug: schnellstes-cremigstes-banane-vanille-ninja-creami
-meta:
-  seoMetaDescription: "Natürlich süß und samtweich: Dieses Banane-Vanille Ninja
-    Creami Protein-Eis schmeckt wie klassisches Bananeneis mit reichlich
-    Eiweiß."
+date: '2026-08-28'
+updated: '2026-11-06'
+seoDescription: "Banane trifft Vanille: Dieses Ninja Creami Protein-Eis ist in 10 Minuten vorbereitet und liefert 34 g Protein. Minimaler Aufwand, maximaler Geschmack."
 description: Reife Banane und echte Bourbon-Vanille vereint zu einem unfassbar
   cremigen Softeis. Die natürliche Bananenstärke sorgt zusammen mit hochwertigem
   Eiweißpulver für eine Textur, die herkömmlichem Sahneeis in nichts nachsteht.
@@ -46,6 +45,7 @@ use:
     Proteinbedarf."
   - "Pre-/Post-Workout: Schnelle Kohlenhydrate und Proteine für die
     Muskelversorgung."
+  - "Mehr Eis-Sorten: Nussig wird es mit dem [Salted Peanut Butter Ninja Creami](/de/rezepte/das-beste-ultra-cremige-salted-peanut-butter-ninja-creami). Alle Sorten findest du bei unseren [proteinreichen Ninja Creami Rezepten](/de/sammlungen/die-besten-proteinreichen-ninja-creami-rezepte)."
 variations:
   - "Schoko-Split: Dunkle Schokoraspeln über das 'Mix-In'-Programm untermengen."
   - "Chunky Monkey: Mit gehackten Walnüssen und Schokotropfen verfeinern."

@@ -5,8 +5,9 @@ categories:
 - dinner
 title: Quickest Crispiest 15-Minute Air Fryer Tortilla Pizza
 slug: air-fryer-pizza-tortilla-wrap
-meta:
-  seoMetaDescription: Got a sudden pizza craving? This quickest, crispiest 15-minute air fryer tortilla pizza demands minimal prep for maximum flavour, giving you a low-calorie crunch.
+date: '2026-03-10'
+updated: '2026-11-06'
+seoDescription: Crispy air fryer tortilla pizza in 15 minutes with 23g of protein. Minimal prep, maximum flavour, and a wafer-thin base that beats waiting for a delivery.
 description: 'A simple flour tortilla wrap acts as a brilliant, lightweight deck for your favourite toppings. It bakes to a gorgeous, wafer-thin crackle under the intense heat of the air fryer, delivering a speedy pizza fix without the heavy calories of traditional dough. It is a legendary, low-carb cutting-phase hack that is ready before the delivery driver would even start their engine.
 
   '
@@ -23,7 +24,7 @@ works:
 use:
 - 'Cutting Phase Fix: All the hot cheese satisfaction with barely any of the carbs.'
 - 'Emergency Refeed: Ready in exactly 15 minutes whenever your pizza cravings spike.'
-- 'Light Lunch: Pair with a peppery rocket (arugula) salad.'
+- 'Light Lunch: Pair with a peppery rocket (arugula) salad. Want a thicker base? Try my [naan bread pizza](/recipes/naan-bread-pizza).'
 image: air-fryer-pizza-tortilla-wrap_ko6ckn
 alt: Air fryer tortilla pizza with pesto and cherry tomatoes
 pintrest: ''
@@ -43,7 +44,7 @@ variations:
 - 'Sweet Heat: Top with spicy jalapeño slices and a tiny drizzle of hot chilli honey.'
 rating: null
 reviews: null
-servingSuggestions: Serve this alongside a massive rocket (arugula) and parmesan salad. Drizzle with chili oil if you need an extra kick. Serve it immediately.
+servingSuggestions: Serve this alongside a massive rocket (arugula) and parmesan salad. Drizzle with chilli oil if you need an extra kick. Serve it immediately.
 storageInstructions: Eat it fresh. Do not try and fridge this or it'll turn into a soggy frisbee.
 prepTimeMins: 5
 cookTimeMins: 10

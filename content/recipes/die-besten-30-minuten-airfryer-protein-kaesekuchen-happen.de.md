@@ -3,12 +3,11 @@ categories:
   - 15minutemeals
   - airfryer
   - dessert
-title: Die besten 30-Minuten Airfryer Protein-Käsekuchen-Happen
+title: "Die besten 20-Minuten Airfryer Protein-Käsekuchen-Happen"
 slug: die-besten-30-minuten-airfryer-protein-kaesekuchen-happen
-meta:
-  seoMetaDescription: Himmlisch cremig und handlich! Diese 30-Minuten Airfryer
-    Protein-Käsekuchen-Bites sind der perfekte gesunde Fitness-Snack mit
-    maximalem Proteingehalt.
+date: '2026-08-28'
+updated: '2026-11-06'
+seoDescription: "Cremige Protein-Käsekuchen-Happen aus dem Airfryer in 20 Minuten: 14 g Protein bei nur 95 kcal pro Portion. Minimaler Aufwand, maximaler Geschmack."
 description: Kleine, mundgerechte Käsekuchen-Happen aus dem Airfryer, die auf
   der Zunge zergehen. Perfekt portioniert für den gesunden Snack zwischendurch,
   mit jeder Menge Eiweiß und wunderbar wenig Kalorien.
@@ -47,6 +46,7 @@ use:
     genießen."
   - "To-Go Snack: Handlich eingepackt der ideale Begleiter für Büro oder
     Sporttasche."
+  - "Lieber ein ganzes Stück: Dann backst du den [cremigen Airfryer Protein-Käsekuchen](/de/rezepte/einfacher-25-minuten-cremiger-airfryer-protein-kaesekuchen). Mehr Ideen findest du bei unseren [schnellsten Airfryer-Snacks](/de/sammlungen/schnellste-knusprigste-airfryer-snacks)."
 variations:
   - "Zitronen-Frische: Etwas frischen Zitronenabrieb in den Teig reiben."
   - "Schoko-Kern: Vor dem Backen einen kleinen Tropfen Erdnussbutter oder

@@ -3,11 +3,11 @@ categories:
   - 15minutemeals
   - dessert
   - airfryer
-title: High-Protein 15-Minuten Airfryer Apfel-Crumble
+title: "High-Protein 30-Minuten Airfryer Apfel-Crumble"
 slug: high-protein-15-minuten-airfryer-apfel-crumble
-meta:
-  seoMetaDescription: Warmer, zimtiger Apfel-Crumble mit extra Protein! In nur 15
-    Minuten im Airfryer gebacken – krosse Hafer-Kruste und saftige Äpfel.
+date: '2026-08-28'
+updated: '2026-11-06'
+seoDescription: "Warmer Protein-Apfel-Crumble aus dem Airfryer in 30 Minuten: krosse Haferstreusel, saftige Äpfel und 16 g Protein. Minimaler Aufwand, maximaler Geschmack."
 description: "Das ultimative Wohlfühl-Dessert für Fitness-Begeisterte: Saftige
   Apfelstückchen mit Zimt, bedeckt von einer super knusprigen Streuseldecke aus
   Haferflocken und Proteinpulver. In Rekordzeit in der Heißluftfritteuse
@@ -47,6 +47,7 @@ works:
 use:
   - "Post-Workout Genuss: Warmes Protein-Dessert mit echten Früchten."
   - "Wochenend-Frühstück: Zusammen mit cremigem Magerquark oder Skyr."
+  - "Apfel-Fan: Kalt und cremig gibt es das [Apfel-Zimt Ninja Creami](/de/rezepte/das-beste-ultra-cremige-apfel-zimt-ninja-creami). Ein weiteres Airfryer-Dessert ist der [cremige Protein-Käsekuchen](/de/rezepte/einfacher-25-minuten-cremiger-airfryer-protein-kaesekuchen)."
 variations:
   - "Beeren-Crumble: Die Hälfte der Äpfel durch gefrorene Himbeeren ersetzen."
   - "Nuss-Streusel: Gehackte Pekannüsse oder Mandeln unter die Streusel mischen."

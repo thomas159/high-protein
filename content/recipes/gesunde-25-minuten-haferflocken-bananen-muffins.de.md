@@ -5,10 +5,9 @@ categories:
   - baking
 title: Gesunde 25-Minuten Haferflocken-Bananen-Muffins
 slug: gesunde-25-minuten-haferflocken-bananen-muffins
-meta:
-  seoMetaDescription: "Saftig, zuckerfrei und voller Ballaststoffe: Diese gesunden
-    25-Minuten Bananen-Haferflocken-Muffins sind der perfekte Snack fürs
-    Frühstück oder unterwegs."
+date: '2026-08-28'
+updated: '2026-11-06'
+seoDescription: "Saftige Haferflocken-Bananen-Muffins in 25 Minuten: glutenfrei, fluffig und perfekt zum Vorbereiten für die ganze Woche. Minimaler Aufwand, maximaler Geschmack."
 description: Herrlich saftige Muffins aus reifen Bananen, feinen Haferflocken,
   Zimt und Eiern – komplett ohne raffinierten Zucker und ohne Weizenmehl.
   Schnell gemixt und gebacken, ideal als nahrhaftes Fitness-Frühstück oder
@@ -48,6 +47,7 @@ use:
   - "Meal-Prep Frühstück: Sonntags backen und die ganze Woche über ein schnelles
     Frühstück parat haben."
   - "Schul- & Bürosnack: Perfekt transportierbar und kleckerfrei."
+  - "Mehr Meal-Prep-Snacks: Probier die [Airfryer Bananen-Haferflocken-Kekse](/de/rezepte/airfryer-bananen-haferflocken-kekse) oder die [No-Bake Protein Energie-Bällchen](/de/rezepte/einfache-5-minuten-no-bake-protein-energie-baellchen)."
 variations:
   - "Schoko-Drops: Eine Handvoll zuckerfreie Schokotropfen unter den Teig heben."
   - "Nuss-Crunch: Mit gehackten Walnüssen oder Mandeln bestreuen."

@@ -1,10 +1,11 @@
 ---
 categories:
 - snacks
-title: La mejor crema ninja ultracremosa de mantequilla de maní salada
+title: 'Ninja Creami de crema de cacahuete salada en 10 minutos'
 slug: la-mejor-crema-ninja-ultracremosa-de-mantequilla-de-mani-salada
-meta:
-  seoMetaDescription: Delicioso helado de mantequilla de maní salada súper cremoso hecho con tu Ninja Creami. Un postre dulce y salado riquísimo, ideal para tus macros.
+date: '2026-07-15'
+updated: '2026-11-06'
+seoDescription: 'Helado Ninja Creami de crema de cacahuete salada, dulce, salado y con 74 g de proteína en 10 minutos de trabajo. Mínima preparación, máximo sabor.'
 description: |
   Una deliciosa dosis de proteína en forma de un helado premium de mantequilla de maní, dulce y ligeramente salado. Al combinar mantequilla de maní desgrasada en polvo y proteína de suero, logramos ese cuerpo ultra cremoso tan característico sin necesidad de añadir grasas pesadas.
 
@@ -35,7 +36,7 @@ works:
 use:
 - 'Post-entrenamiento ideal: una deliciosa recarga de proteínas disfrazada de dulce cremoso.'
 - 'Capricho nocturno: muy saciante para calmar las ganas de dulce por la noche, ayudándote a mantener el equilibrio.'
-- 'Refresco veraniego: la forma idónea de refrescarte y nutrirte cuando el calor aprieta.'
+- 'Refresco veraniego: la forma idónea de refrescarte y nutrirte cuando el calor aprieta. Encontrarás más sabores en [las mejores recetas Ninja Creami ricas en proteínas](/es/colecciones/las-mejores-recetas-de-creami-ninja-ricas-en-proteinas).'
 rating: null
 variations:
 - 'Chocolate PB: Batir un poco de cacao en polvo en la base antes de congelar.'

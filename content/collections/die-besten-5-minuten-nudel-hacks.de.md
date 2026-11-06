@@ -1,6 +1,9 @@
 ---
 title: "Die besten 5-Minuten-Nudel-Hacks für schnelle Kohlenhydrate"
 slug: "die-besten-5-minuten-nudel-hacks"
+seoDescription: "Die besten 5-Minuten-Nudel-Hacks für schnelle Kohlenhydrate nach dem Training: cremig, würzig und oft vegan. Minimaler Aufwand, maximaler Geschmack."
+date: '2026-08-28'
+updated: '2026-11-06'
 description: |
   Du kommst gerade nach einem harten Training zur Tür herein, hast riesigen Hunger und absolut keine Geduld zum Kochen. Vergiss den Blick in den leeren Kühlschrank oder fettiges Fast Food. Diese blitzschnellen Nudel-Hacks sind genau darauf ausgelegt, deine Glykogenspeicher sofort nach dem Workout wieder aufzufüllen.
 

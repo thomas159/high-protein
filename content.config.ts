@@ -8,9 +8,11 @@ export default defineContentConfig({
       schema: z.object({
         title: z.string().optional(),
         slug: z.string().optional(),
-        meta: z.object({
-          seoMetaDescription: z.string().optional(),
-        }).optional(),
+        // NOTE: `meta` is reserved by Nuxt Content v3 page collections, so the SEO
+        // description lives in a top-level field.
+        seoDescription: z.string().optional(),
+        date: z.string().optional(),
+        updated: z.string().optional(),
         description: z.string().optional(),
         blurb: z.array(z.string()).default([]),
         works: z.array(z.string()).default([]),
@@ -82,6 +84,9 @@ export default defineContentConfig({
       schema: z.object({
         title: z.string().optional(),
         slug: z.string().optional(),
+        seoDescription: z.string().optional(),
+        date: z.string().optional(),
+        updated: z.string().optional(),
         description: z.string().optional(),
         image: z.string().optional(),
         recipes: z.array(

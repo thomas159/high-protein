@@ -20,6 +20,7 @@ export default {
       "badge": "100+ getestete Rezepte",
       "title": "Muskeln aufbauen,",
       "highlight": "nicht abwaschen.",
+      "h1Keyword": "Proteinreiche vegetarische & vegane Rezepte",
       "subtitle": "Schnelle, proteinreiche vegetarische und vegane Mahlzeiten für alle, die gerne essen, aber nicht gerne warten.",
       "stats": "Entdecke über {count} proteinreiche Rezepte",
       "spotlightBadge": "Rezept-Highlight",
@@ -99,7 +100,7 @@ export default {
     "fat": "Fett",
     "kcal": "Kcal",
     "more": "Lust auf mehr? Entdecke weitere",
-    "whyWorks": "Warum dieses {title}-Rezept funktioniert",
+    "whyWorks": "Warum dieses Rezept funktioniert",
     "featuredIn": "Enthalten in",
     "flavourProfile": "Geschmacksprofil",
     "variations": "Variationen & Kombinationen",
@@ -118,7 +119,10 @@ export default {
     "mins": "{count} MIN.",
     "kcalCount": "{count} KCAL",
     "ingredientsFor": "Zutaten für {title}",
-    "servings": "Portionen"
+    "servings": "Portionen",
+    "stepImageAlt": "Schritt {index} für {title}",
+    "nutritionFacts": "Nährwerte",
+    "servingsPerRecipe": "{count} Portionen pro Rezept"
   },
   "categories": {
     "allrecipes": "Alle Rezepte",
@@ -127,7 +131,9 @@ export default {
     "dessert": "Dessert",
     "airfryer": "Airfryer",
     "15minutemeals": "15-Minuten-Gerichte",
-    "ninjacreami": "Ninja Creami"
+    "ninjacreami": "Ninja Creami",
+    "vegan": "Vegan",
+    "highprotein": "Proteinreich"
   },
   "tags": {
     "air-fryer": "Heißluftfritteuse",
@@ -185,13 +191,15 @@ export default {
     "vegetarian": "Vegetarisch"
   },
   "categorySlugs": {
-    "allrecipes": "all-recipes",
-    "dinner": "dinner",
+    "allrecipes": "alle-rezepte",
+    "dinner": "abendessen",
     "snacks": "snacks",
-    "dessert": "dessert",
-    "airfryer": "air-fryer",
-    "15minutemeals": "15-minute-meals",
-    "ninjacreami": "ninja-creami"
+    "dessert": "nachtisch",
+    "airfryer": "heissluftfritteuse",
+    "15minutemeals": "15-minuten-gerichte",
+    "ninjacreami": "ninja-creami",
+    "vegan": "vegan",
+    "highprotein": "proteinreich"
   },
   "footer": {
     "description": "Schnelle, proteinreiche vegetarische und vegane Mahlzeiten für alle, die gerne essen, aber nicht gerne warten.",
@@ -216,7 +224,7 @@ export default {
       "ogDescription": "Schluss mit endlosem Abwasch – erreiche deine Makros mit schnellen pflanzlichen Rezepten."
     },
     "collections": {
-      "title": "Kuratierte Rezept-Sammlungen & proteinreiche Guides",
+      "title": "Proteinreiche Rezept-Sammlungen & Guides",
       "description": "Entdecke handverlesene Rezept-Sammlungen, makrofreundliche Guides und Küchen-Hacks, mit denen du deine Proteinziele mühelos erreichst.",
       "ogTitle": "Kuratierte Rezept-Sammlungen | Hot Recipes",
       "ogDescription": "Entdecke handverlesene Rezept-Sammlungen, makrofreundliche Guides und Küchen-Hacks, mit denen du deine Proteinziele mühelos erreichst."
@@ -330,6 +338,72 @@ export default {
     "allRecipesDesc": "Entdecke unsere vollständige Kollektion köstlicher, makrofreundlicher und proteinreicher Rezepte, mit denen du deine Fitnessziele erreichst, ohne auf Geschmack zu verzichten.",
     "categoryTitle": "{category} Rezepte",
     "categoryDesc": "Entdecke unsere leckeren Rezepte in der Kategorie {category}. Perfekt, um deinen Proteinbedarf genussvoll zu decken.",
+    "recipeCount": "{count} Rezept verfügbar | {count} Rezepte verfügbar",
+    "cats": {
+      "allrecipes": {
+        "title": "Proteinreiche vegetarische & vegane Rezepte",
+        "h1": "Alle proteinreichen vegetarischen & veganen Rezepte",
+        "description": "Alle proteinreichen vegetarischen und veganen Rezepte von Hot Recipes an einem Ort. Schnelle Gerichte, Snacks und Desserts mit vollständigen Makros.",
+        "intro1": "Alle Rezepte der Seite an einem Ort. Keins davon enthält Fleisch, die meisten sind in unter 20 Minuten fertig und jedes kommt mit vollständigen Makros pro Portion.",
+        "intro2": "Mit den Tag-Filtern unten grenzt du nach Küche, Gerät oder Ernährungsform ein. Du weißt nicht, wo du anfangen sollst? Die Airfryer- und Ninja-Creami-Rezepte sind die Favoriten."
+      },
+      "dinner": {
+        "title": "Proteinreiches vegetarisches Abendessen",
+        "h1": "Proteinreiche vegetarische & vegane Abendessen",
+        "description": "Schnelle proteinreiche vegetarische und vegane Rezepte fürs Abendessen. Tofu, Nudeln, Currys und Pasta mit Makros, die meisten in 30 Minuten fertig.",
+        "intro1": "Abendessen für unter der Woche, die dein Proteinziel wirklich treffen. Klebriger Tofu, Erdnussnudeln, cremige Pasta und Currys aus einer Pfanne, alles mit Zutaten aus jedem Supermarkt.",
+        "intro2": "Die meisten stehen in 30 Minuten oder weniger auf dem Tisch, und jedes Rezept nennt Protein, Kohlenhydrate, Fett und Kalorien pro Portion. Einmal kochen, portionieren und das Mittagessen für morgen ist auch erledigt."
+      },
+      "snacks": {
+        "title": "Proteinreiche vegetarische Snacks",
+        "h1": "Proteinreiche vegetarische & vegane Snacks",
+        "description": "Einfache proteinreiche vegetarische und vegane Snacks, von knusprigen Airfryer-Happen bis zu Proteinbällchen ohne Backen. Schnell und mit Makros.",
+        "intro1": "Snacks, die dich zwischen den Mahlzeiten satt halten, statt dich eine Stunde später zurück zur Keksdose zu schicken. Knuspriger Halloumi, gewürzte Kichererbsen, Hüttenkäse-Bowls und viele Airfryer-Favoriten.",
+        "intro2": "Die meisten sind in 15 Minuten oder weniger fertig. Ideal als Stärkung vor dem Training oder danach, wenn das Abendessen noch eine Weile hin ist."
+      },
+      "dessert": {
+        "title": "Proteinreiche Desserts (vegetarisch)",
+        "h1": "Proteinreiche vegetarische Desserts",
+        "description": "Proteinreiche Desserts, die wie das Original schmecken. Protein-Käsekuchen, Ninja-Creami-Eis und Airfryer-Gebäck mit vollständigen Makros pro Portion.",
+        "intro1": "Nachtisch, ohne deine Tagesziele zu ruinieren. Diese Rezepte setzen auf griechischen Joghurt, Hüttenkäse, Proteinpulver und Skyr, damit viel Protein drin ist und der Zucker im Rahmen bleibt.",
+        "intro2": "Freu dich auf Käsekuchen-Happen, Airfryer-Kekse und Ninja-Creami-Becher, die wirklich nach Eis schmecken. Jedes Rezept zeigt die vollständigen Makros pro Portion."
+      },
+      "airfryer": {
+        "title": "Proteinreiche Airfryer-Rezepte (vegetarisch)",
+        "h1": "Proteinreiche Heißluftfritteuse-Rezepte (vegetarisch & vegan)",
+        "description": "Knusprige proteinreiche vegetarische und vegane Rezepte für die Heißluftfritteuse. Tofu, Halloumi, Pommes und Snacks, die meisten in 15 Minuten fertig.",
+        "intro1": "Der Airfryer ist der schnellste Weg zu echtem Crunch ohne eine Pfanne voller Öl. Tofu, Halloumi, Kichererbsen und Pommes werden knusprig, und das in einem Bruchteil der Backofenzeit.",
+        "intro2": "Jedes Rezept nennt die genaue Temperatur in Grad Celsius, die Garzeit und woran du erkennst, dass es fertig ist, plus vollständige Makros pro Portion. Korb zur Hälfte schütteln und die halbe Miete ist drin."
+      },
+      "15minutemeals": {
+        "title": "Proteinreiche 15-Minuten-Gerichte",
+        "h1": "Proteinreiche 15-Minuten-Gerichte",
+        "description": "Schnelle proteinreiche vegetarische und vegane Gerichte in 15 Minuten oder weniger. Nudeln, Tofu, Wraps und Snacks mit Makros und minimalem Aufwand.",
+        "intro1": "Für Abende, an denen sich Kochen wie ein Extrasatz anfühlt, den keiner bestellt hat. Jedes Rezept hier steht in 15 Minuten oder weniger auf dem Tisch, Vorbereitung inklusive.",
+        "intro2": "Schnelle Nudeln, knuspriger Tofu, gut gefüllte Wraps und Mikrowellen-Abkürzungen. Schnell heißt nicht wenig Protein, und die Makros pro Portion stehen bei jedem Rezept."
+      },
+      "ninjacreami": {
+        "title": "Proteinreiche Ninja Creami Rezepte",
+        "h1": "Proteinreiche Ninja Creami Rezepte",
+        "description": "Ultra cremige proteinreiche Ninja Creami Eis-Rezepte. Schoko, Salted Peanut Butter, Matcha und mehr mit vollständigen Makros und minimalem Aufwand.",
+        "intro1": "Richtig cremiges Eis mit ordentlich Protein. Diese Becher basieren auf Milch, Proteinpulver und ein paar cleveren Andickern, damit die Textur glatt bleibt statt eisig.",
+        "intro2": "Jedes Rezept erklärt die Gefrierzeit, welches Programm du nimmst und wann ein Re-Spin nötig ist. Vollständige Makros stehen bei jedem Rezept."
+      },
+      "vegan": {
+        "title": "Proteinreiche vegane Rezepte",
+        "h1": "Proteinreiche vegane Rezepte",
+        "description": "Schnelle proteinreiche vegane Rezepte ohne Fleisch, Milchprodukte oder Eier. Knuspriger Tofu, Erdnussnudeln, Currys und Saucen mit vollständigen Makros.",
+        "intro1": "Rein pflanzliche Rezepte, die beim Protein trotzdem liefern. Tofu, Kichererbsen, Erdnussbutter und Nudeln übernehmen hier die schwere Arbeit.",
+        "intro2": "Kein Rezept enthält Fleisch, Milchprodukte oder Eier, und alle zeigen die vollständigen Makros pro Portion. Viele vegetarische Rezepte der Seite werden mit einem einfachen Tausch vegan, schau dafür in die Tipps."
+      },
+      "highprotein": {
+        "title": "Vegetarische Rezepte mit 20 g+ Protein",
+        "h1": "Proteinreiche vegetarische Rezepte (20 g+ pro Portion)",
+        "description": "Vegetarische und vegane Rezepte mit mindestens 20 g Protein pro Portion. Tofu, Ninja Creami, Nudeln und mehr mit vollständigen Makros und wenig Aufwand.",
+        "intro1": "Die Schwergewichte. Jedes Rezept auf dieser Seite liefert mindestens 20 g Protein pro Portion, ungefähr so viel wie ein Messlöffel Proteinpulver, ganz ohne Fleisch.",
+        "intro2": "Dein tägliches Proteinziel als Vegetarier zu erreichen, ist viel leichter, wenn eine Mahlzeit schon einen großen Teil abdeckt. Speichere dir diese Seite für die Tage, an denen du hinterherhinkst."
+      }
+    },
     "empty": "Keine Rezepte gefunden."
   },
   "collectionsPage": {

@@ -3,10 +3,11 @@ categories:
 - 15minutemeals
 - snacks
 - dessert
-title: El definitivo bol ultracremoso y fácil de queso cottage con frutos rojos en 5 minutos
+title: 'Bol de queso cottage con frutos rojos cremoso en 5 minutos'
 slug: bol-de-queso-cottage-con-frutos-rojos
-meta:
-  seoMetaDescription: ¿Buscas un desayuno o merienda proteica en tiempo récord? Este fácil bol ultracremoso de queso cottage con frutos rojos ofrece mínima preparación, máximo sabor y 19 g de proteína en 5 minutos con menos de 250 calorías.
+date: '2026-09-14'
+updated: '2026-11-06'
+seoDescription: 'Bol de queso cottage con frutos rojos, ultracremoso y listo en 5 minutos. Mínima preparación, máximo sabor y 19 g de proteína por menos de 250 kcal.'
 description: 'La forma más rápida y directa de alcanzar tus objetivos de proteína cuando buscas algo dulce y refrescante sin encender los fogones. Extender el queso cottage sobre un plato hondo crea una base densa y cremosa que atrapa el jugo natural de cada fruta. Coronada con frutos rojos frescos, almendras laminadas crujientes y un hilo fino de miel, esta combinación calma cualquier antojo en solo cinco minutos aportando 19 g de caseína de digestión lenta.'
 blurb: []
 image: cottage-cheese-bowl-with-berries_rii23g
@@ -43,7 +44,7 @@ why:
 use:
 - 'Recuperación nocturna: La caseína de asimilación lenta nutre tus fibras musculares mientras descansas.'
 - 'Desayuno exprés de 5 minutos: Una opción rápida y limpia para mañanas con prisa sin manchar sartenes.'
-- 'Snack en déficit calórico: Máximo volumen con baja densidad calórica para saciarte por completo con solo 232 calorías.'
+- 'Snack en déficit calórico: Máximo volumen con baja densidad calórica para saciarte por completo con solo 232 calorías. Para una merienda que puedas llevar en la mochila del gimnasio, prepara también [unas bolas energéticas de proteína sin hornear](/es/recetas/bolas-energeticas-de-proteina-sin-hornear-faciles-de-5-minutos).'
 flavour:
 - 'Toque cítrico: Ralla un poco de piel de limón fresca sobre el queso para realzar el frescor lácteo.'
 - 'Especiado cálido: Espolvorea una pizca de canela molida sobre las bayas para intensificar el dulzor natural sin añadir azúcar.'

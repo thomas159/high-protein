@@ -5,10 +5,9 @@ categories:
   - vegan
 title: Schnelles 15-Minuten cremiges Mikrowellen-Baba-Ganoush
 slug: schnelles-15-minuten-cremiges-mikrowellen-baba-ganoush
-meta:
-  seoMetaDescription: Rauchig, samtig und in 15 Minuten fertig! Dieses schnelle
-    Mikrowellen-Baba-Ganoush aus gegarter Aubergine und Tahini ist der perfekte
-    orientalische Dip.
+date: '2026-08-28'
+updated: '2026-11-06'
+seoDescription: "Cremiges Baba Ganoush aus der Mikrowelle in 15 Minuten: Aubergine, Tahini und Zitrone, vegan und glutenfrei. Minimaler Aufwand, maximaler Geschmack."
 description: "Der nahöstliche Auberginen-Klassiker in Rekordzeit: Statt
   stundenlang im Ofen zu rösten, gart die Aubergine in der Mikrowelle in nur 8
   Minuten butterweich. Zusammen mit nussigem Tahini, Knoblauch, Zitrone und
@@ -48,6 +47,7 @@ works:
 use:
   - "Mezze-Platte: Zusammen mit Fladenbrot, Falafel und Hummus servieren."
   - "Low-Carb Brotaufstrich: Aromatischer Ersatz für Butter oder Frischkäse."
+  - "Perfekte Partner: Serviere es zum [fluffigen marokkanischen Couscous](/de/rezepte/schneller-10-minuten-fluffiger-marokkanischer-couscous) oder mit den [knusprigen Mikrowellen-Kartoffelchips](/de/rezepte/knusprige-15-minuten-mikrowellen-kartoffelchips)."
 variations:
   - "Rauch-Aroma: Einen Tropfen Liquid Smoke oder geräuchertes Paprikapulver für
     echten Holzkohlegeschmack zugeben."

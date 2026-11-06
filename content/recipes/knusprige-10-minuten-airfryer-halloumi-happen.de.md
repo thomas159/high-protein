@@ -3,10 +3,11 @@ categories:
 - 15minutemeals
 - airfryer
 - snacks
-title: Die ultimativen knusprigen 10-Minuten Airfryer Halloumi Happen
+title: "Knusprige 10-Minuten Airfryer Halloumi-Happen"
 slug: knusprige-10-minuten-airfryer-halloumi-happen
-meta:
-  seoMetaDescription: Lust auf einen herrlich salzigen Knusper-Snack? Diese ultimativen knusprigen 10-Minuten Airfryer Halloumi Happen bieten minimalen Aufwand, maximalen Geschmack und 7 g Protein bei nur 95 kcal.
+date: '2026-09-08'
+updated: '2026-11-06'
+seoDescription: "Knusprige Halloumi-Happen aus dem Airfryer in 10 Minuten: goldbraun, salzig und nur 95 kcal pro Portion. Minimaler Aufwand, maximaler Geschmack."
 description: 'Außen kross gebräunt, innen herrlich zart und in zehn Minuten zubereitet. Die Heißluftfritteuse sorgt mithilfe des natürlichen Milchfetts des Käses für eine sensationelle Kruste – ganz ohne zusätzliches Bratöl. Beträufelt mit feinem Honig, Chiliflocken und frischem Thymian entsteht ein süß-salziges Geschmackserlebnis, das perfekt in deinen Ernährungsplan passt.'
 blurb: []
 image: crispy-air-fryer-halloumi-bites_wfu9mt
@@ -39,6 +40,7 @@ works:
 - 'Schnelle Heißluft-Kruste: Der 200-°C-Luftstrom bräunt die Außenkanten in wenigen Minuten, während das Innere warm, saftig und angenehm quietschig bleibt.'
 - 'Süß-würzige Balance: Flüssiger Honig auf dem heißen Käse schmilzt sofort in die Rillen und harmoniert perfekt mit dem salzigen Käse und der leichten Chili-Schärfe.'
 use:
+- "Dip-Tipp: Die [würzige vegane Chimichurri-Sauce](/de/rezepte/schnelle-5-minuten-wuerzige-vegane-chimichurri-sauce) passt perfekt dazu. Mehr Ideen findest du bei unseren [schnellsten Airfryer-Snacks](/de/sammlungen/schnellste-knusprigste-airfryer-snacks)."
 - 'Schneller Protein-Snack: Ein 95-Kalorien-Bissen mit 7 g Protein, der Heißhunger zwischendurch stillt, ohne deine Makros zu sprengen.'
 - 'Tapas-Vorspeise: Auf einer Platte mit Holzspießen, Oliven, warmem Fladenbrot und Hummus wie im Restaurant servieren.'
 - 'Knuspriges Salat-Topping: Die heißen Halloumi-Würfel direkt über Rucola und Kirschtomaten geben für extra Crunch und Protein.'

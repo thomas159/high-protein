@@ -2,11 +2,11 @@
 categories:
 - airfryer
 - dinner
-title: Tofu freidora de aire Garam Masala carbonizado rápido de 35 minutos
+title: 'Tofu garam masala tostado en freidora de aire en 35 minutos'
 slug: tofu-freidora-de-aire-garam-masala-carbonizado-rapido-de-35-minutos
-meta:
-  seoMetaDescription: ¡Mejora tu preparación de comidas! Este rápido tofu freidora
-    Garam Masala carbonizado de 35 minutos es una potencia vegana rica en proteínas.
+date: '2026-07-15'
+updated: '2026-11-06'
+seoDescription: 'Tofu garam masala tostado en la freidora de aire, vegano y con 24 g de proteína en 35 minutos. Mínima preparación, máximo sabor para las comidas de la semana.'
 description: 'Esta marinada rápida de Garam Masala es una potencia de sabor. El jugo
   de lima ablanda el tofu, dejando que el jengibre terroso y las especias indias penetren
   hasta el centro.

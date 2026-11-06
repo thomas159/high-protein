@@ -4,10 +4,9 @@ categories:
   - dinner
 title: Schnelle ultra-cremige 5-Minuten Chili-Erdnussbutter-Nudeln
 slug: schnelle-5-minuten-chili-erdnussbutter-nudeln
-meta:
-  seoMetaDescription: Feurig, cremig und proteinreich! Diese pikanten 5-Minuten
-    Chili-Erdnussbutter-Nudeln kombinieren cremiges Erdnussmus mit Schärfe für
-    den perfekten schnellen Genuss.
+date: '2026-08-28'
+updated: '2026-11-06'
+seoDescription: "Cremige Chili-Erdnussbutter-Nudeln in 5 Minuten: vegan, scharf und mit 19 g Protein pro Schüssel. Minimaler Aufwand, maximaler Geschmack."
 description: Wenn du cremig-herzhafte Saucen mit einem ordentlichen Schärfekick
   liebst, sind diese Chili-Erdnussbutter-Nudeln dein neues Lieblingsgericht. In
   nur 5 Minuten fertig, vollgepackt mit Geschmack und ideal, um deine
@@ -47,6 +46,7 @@ use:
   - "Schneller Post-Workout Lunch: Liefert gesunde Fette, komplexe Kohlenhydrate
     und pflanzliches Eiweiß."
   - "Feierabend-Blitzrezept: Wenn der Hunger groß und die Zeit knapp ist."
+  - "Mehr Nudel-Hacks: Mild und umami-lastig werden die [Miso-Erdnussbutter-Nudeln](/de/rezepte/einfache-5-minuten-miso-erdnussbutter-nudeln). Alle Varianten findest du bei unseren [5-Minuten-Nudel-Hacks](/de/sammlungen/die-besten-5-minuten-nudel-hacks)."
 variations:
   - "Mit Tofu: Angebratene Tofuwürfel für noch mehr Protein unterheben."
   - "Mit Gemüse: Geraffelte Karotten oder Gurkenstreifen für frischen Crunch

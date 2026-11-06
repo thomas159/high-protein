@@ -3,12 +3,11 @@ categories:
   - 15minutemeals
   - airfryer
   - side-dish
-title: Einfache 30-Minuten extra knusprige Airfryer Rosmarin-Knoblauch-Pommes
+title: "Knusprige 30-Minuten Airfryer Rosmarin-Knoblauch-Pommes"
 slug: einfache-30-minuten-extra-knusprige-airfryer-rosmarin-knoblauch-pommes
-meta:
-  seoMetaDescription: "Knusprig, aromatisch und unwiderstehlich: Diese 30-Minuten
-    Airfryer Pommes mit frischem Rosmarin und feinem Knoblauch sind die perfekte
-    Beilage."
+date: '2026-08-28'
+updated: '2026-11-06'
+seoDescription: "Vegane Airfryer-Pommes in 30 Minuten: außen kross, innen fluffig, mit Rosmarin, Knoblauch und kaum Öl. Minimaler Aufwand, maximaler Geschmack."
 description: Vergiss langweilige Pommes. Mit aromatischem frischem Rosmarin,
   knusprigem Knoblauch und feinem Meersalz verwandelt der Airfryer einfache
   Kartoffelstifte in ein Restaurant-Highlight mit herrlich goldgelber Kruste und
@@ -50,6 +49,7 @@ use:
     Salaten."
   - "Snack-Platte: Zusammen mit Aioli oder Trüffel-Mayo für den perfekten
     Feinschmecker-Snack."
+  - "Dip-Pflicht: Die [kalorienarme 5-Minuten Knoblauchsauce](/de/rezepte/cremige-kalorienarme-5-minuten-knoblauchsauce) passt perfekt dazu. Weitere Sorten findest du bei unseren [extra knusprigen Airfryer-Pommes](/de/sammlungen/extra-knusprige-airfryer-pommes)."
 variations:
   - "Parmesan-Rosmarin: Vor dem Servieren reichlich frisch geriebenen Parmesan
     über die heißen Pommes geben."

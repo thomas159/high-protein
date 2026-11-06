@@ -1,12 +1,11 @@
 --- 
 categories:
 - airfryer
-title: Papas fritas con kimchi en freidora extra crujientes fáciles de 30 minutos
+title: 'Patatas fritas con kimchi y queso en freidora en 30 minutos'
 slug: papas-fritas-con-kimchi-en-freidora-extra-crujientes-faciles-de-30-minutos
-meta:
-  seoMetaDescription: ¿La mejor retroalimentación del fin de semana? Estas sencillas
-    patatas fritas con kimchi para freidora extra crujientes de 30 minutos están repletas
-    de umami y queso derretido.
+date: '2026-07-15'
+updated: '2026-11-06'
+seoDescription: 'Patatas fritas extra crujientes en freidora de aire con kimchi picante y queso fundido, en 30 minutos. Mínima preparación, máximo sabor y 11 g de proteína.'
 description: 'Una brillante fusión de kimchi fermentado y picante y queso cheddar
   derretido sobre papas fritas extra crujientes en 30 minutos. La freidora elimina
   la humedad, dándole un toque frito crujiente sin que el aceite lo abrume.
@@ -42,7 +41,7 @@ works:
 use:
 - 'Party Snack: El mejor plato para compartir que agradará al público.'
 - 'Guarnición: Combina perfectamente con una hamburguesa vegetariana espesa y jugosa.'
-- 'Delicia nocturna: satisface todos los antojos de sabor salado, picante y con queso.'
+- 'Delicia nocturna: satisface todos los antojos de sabor salado, picante y con queso. ¿Te sobra kimchi? Úsalo en [el arroz frito con kimchi picante](/es/recetas/el-arroz-frito-con-kimchi-picante-de-15-minutos-mas-rapido-y-crujiente) o mira [más patatas fritas extra crujientes en freidora](/es/colecciones/las-mejores-papas-fritas-extra-crujientes-para-freidora).'
 tags:
 - fusion
 - gluten-free

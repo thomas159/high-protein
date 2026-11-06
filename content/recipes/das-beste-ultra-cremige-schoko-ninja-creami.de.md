@@ -5,10 +5,9 @@ categories:
   - ninjacreami
 title: Das beste ultra-cremige Schoko Ninja Creami
 slug: das-beste-ultra-cremige-schoko-ninja-creami
-meta:
-  seoMetaDescription: Schokoladiger Hochgenuss mit vollem Protein-Kick! Dieses
-    cremige Schoko Ninja Creami Eis befriedigt jede Schoko-Lust ohne unnötige
-    Kalorien.
+date: '2026-08-28'
+updated: '2026-11-06'
+seoDescription: "Dunkle Schokolade als Protein-Eis: Dieses Schoko Ninja Creami ist in 10 Minuten vorbereitet und liefert 42 g Protein. Minimaler Aufwand, maximaler Geschmack."
 description: "Tiefes, sattes Schokoladenaroma und eine zart schmelzende Textur:
   Mit edlem Backkakao, Schoko-Proteinpulver und fettarmer Milch zaubert die
   Ninja Creami ein schokoladiges Meisterwerk, das wie italienisches
@@ -46,6 +45,7 @@ works:
 use:
   - "Schoko-Heißhunger-Stopper: Befriedigt jede Lust auf Süßes diätkonform."
   - "Post-Workout Belohnung: Liefert 40g erstklassiges Protein."
+  - "Mehr Eis-Sorten: Fruchtig wird es mit dem [Schoko-Orangen Ninja Creami](/de/rezepte/das-beste-ultra-cremige-10-minuten-schoko-orangen-ninja-creami). Alle Sorten findest du bei unseren [proteinreichen Ninja Creami Rezepten](/de/sammlungen/die-besten-proteinreichen-ninja-creami-rezepte)."
 variations:
   - "Brownie-Stücke: Zerkrümelten Protein-Brownie mit der 'Mix-In'-Funktion
     einrühren."

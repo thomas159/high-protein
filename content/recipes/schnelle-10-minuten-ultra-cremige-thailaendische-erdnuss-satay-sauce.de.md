@@ -3,11 +3,11 @@ categories:
   - 15minutemeals
   - sauce
   - vegan
-title: Schnelle 10-Minuten ultra-cremige thailändische Erdnuss-Satay-Sauce
+title: "Cremige 10-Minuten thailändische Erdnuss-Satay-Sauce"
 slug: schnelle-10-minuten-ultra-cremige-thailaendische-erdnuss-satay-sauce
-meta:
-  seoMetaDescription: Nussig, cremig und unwiderstehlich würzig! Diese 10-Minuten
-    thailändische Erdnuss-Satay-Sauce veredelt Tofuspieße, Nudeln und Bowls.
+date: '2026-08-28'
+updated: '2026-11-06'
+seoDescription: "Cremige thailändische Erdnuss-Satay-Sauce in 10 Minuten: vegan, nussig, leicht scharf, perfekt zu Tofu und Nudeln. Minimaler Aufwand, maximaler Geschmack."
 description: "Die legendäre thailändische Satay-Sauce für zu Hause: Cremige
   Erdnussbutter, samtige Kokosmilch, rote thailändische Currypaste, Sojasauce
   und spritzige Limette verschmelzen in wenigen Minuten zu einer dickflüssigen,
@@ -48,6 +48,7 @@ use:
   - "Dip für Tofu-Spieße: Der klassische Satay-Begleiter."
   - "Nudelsaucen-Basis: Direkt unter warme Udon- oder Reisnudeln mischen."
   - "Gado-Gado Dressing: Über gedämpftes Gemüse und Kartoffeln träufeln."
+  - "Perfekte Partner: Gieß die Sauce über die [Erdnussbutter-Udon-Nudeln](/de/rezepte/schnelle-15-minuten-ultra-cremige-erdnussbutter-udon-nudeln) oder tunk Tofu aus unseren [Airfryer Tofu-Marinaden](/de/sammlungen/schnelle-proteinreiche-airfryer-tofu-marinaden) hinein."
 variations:
   - "Extra Crunchy: Mit gehackten gerösteten Erdnüssen verfeinern."
   - "Mild & Süß: Currypaste reduzieren und 1 TL Ahornsirup extra zugeben."

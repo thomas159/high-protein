@@ -6,9 +6,9 @@ categories:
 - trending
 title: Quick & Easy 10-Minute Air Fryer Breakfast Egg Muffins
 slug: air-fryer-breakfast-egg-muffins
-meta:
-  seoMetaDescription: Quick & easy 10-minute air fryer breakfast egg muffins. Perfectly
-    puffed every time!
+date: '2026-03-17'
+updated: '2026-11-06'
+seoDescription: Fluffy air fryer egg muffins with feta and sun-dried tomato in 10 minutes. Minimal prep, maximum flavour and a solid protein hit to start your day.
 description: 'Start your day with a solid hit of protein. These quick & easy 10-minute
   egg muffins pack sharp feta and sweet sun-dried tomatoes into an efficient, grab-and-go
   format.
@@ -46,7 +46,7 @@ tips:
 works:
 - 'Steam Loft Trick: The intense circulating heat rapidly turns the moisture inside the beaten
   eggs into steam, puffing them up while the eggs set into a light, fluffy bite. The eggs
-  should be fully set with a slight golden browning on top—if they wiggle in the center,
+  should be fully set with a slight golden browning on top—if they wiggle in the centre,
   they need extra time.'
 - 'Flavour Efficiency: Sun-dried tomatoes and feta deliver a massive umami hit with
   zero extra prep.'
@@ -60,7 +60,7 @@ variations:
 - 'Cheese Swap: Swap the feta for sharp cheddar or goat cheese.'
 use:
 - 'Macro Prep: Batch cook on Sunday for grab-and-go morning fuel.'
-- 'Post-Workout: A zero-carb, high-protein hit.'
+- 'Post-Workout: A zero-carb, high-protein hit. Superset it with a [cottage cheese bowl with berries](/recipes/cottage-cheese-bowl-with-berries) for a sweet and savoury breakfast.'
 servingSuggestions: Serve these alongside some sliced avocado and whole-grain toast.
   Elite morning fuel.
 storageInstructions: Fridge in an airtight container for 4 days. Blast in the microwave

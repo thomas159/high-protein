@@ -5,10 +5,9 @@ categories:
   - pasta
 title: Cremige 15-Minuten Feta-Kirschtomaten-Pasta
 slug: cremige-15-minuten-feta-kirschtomaten-pasta
-meta:
-  seoMetaDescription: Viraler Genuss in 15 Minuten! Diese cremige
-    Feta-Kirschtomaten-Pasta kombiniert süße geschmorte Tomaten, würzigen
-    Schafskäse und frisches Basilikum.
+date: '2026-08-28'
+updated: '2026-11-06'
+seoDescription: "Die virale Feta-Pasta in 15 Minuten: süße Kirschtomaten, cremiger Feta, Basilikum und 18 g Protein pro Teller. Minimaler Aufwand, maximaler Geschmack."
 description: Die virale Ofen-Feta-Pasta als super-schnelle
   15-Minuten-Pfannenversion! Süße Kirschtomaten platzen in heißem Olivenöl auf
   und verschmelzen mit cremigem Feta, Knoblauch und einem Schuss Nudelwasser zu
@@ -50,6 +49,7 @@ use:
     auf dem Tisch."
   - "Meal-Prep: Schmeckt auch am nächsten Tag aufgewärmt oder als kalter
     Nudelsalat hervorragend."
+  - "Pasta-Rotation: Mehr Umami bringt die [cremige Champignon-Pasta](/de/rezepte/cremige-15-minuten-champignon-pasta). Noch schneller geht es mit unseren [5-Minuten-Nudel-Hacks](/de/sammlungen/die-besten-5-minuten-nudel-hacks)."
 variations:
   - "Protein-Plus: Mit Kichererbsen oder gebratenem Tofu für extra Eiweiß
     ergänzen."

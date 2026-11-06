@@ -1,12 +1,11 @@
 --- 
 categories:
 - 15minutemeals
-title: El arroz frito con kimchi picante de 15 minutos más rápido y crujiente
+title: 'Arroz frito con kimchi picante y crujiente en 15 minutos'
 slug: el-arroz-frito-con-kimchi-picante-de-15-minutos-mas-rapido-y-crujiente
-meta:
-  seoMetaDescription: ¿Necesita una comida picante de recuperación rápidamente? El
-    arroz frito con kimchi picante más rápido y crujiente de 15 minutos ofrece un
-    ponche de umami ahumado.
+date: '2026-07-15'
+updated: '2026-11-06'
+seoDescription: 'Arroz frito con kimchi picante, con bordes crujientes y 13 g de proteína, listo en 15 minutos. Mínima preparación, máximo sabor para una cena rápida.'
 description: 'La comida de recuperación definitiva cuando necesitas mucho sabor rápidamente.
   **Aportando proteínas sólidas con un mínimo de calorías**, el kimchi añejo aporta
   umami y sabor fermentado instantáneo a la sartén.
@@ -39,7 +38,7 @@ use:
   PB.'
 - 'Rescate sobrante: la forma más eficaz de eliminar el kimchi añejo.'
 - 'Refeed Bowl: un tazón picante y reconfortante cuando necesitas carbohidratos pesados.'
-- 'Lightning Main: Pan al plato en menos de 15 minutos.'
+- 'Lightning Main: Pan al plato en menos de 15 minutos. Para subir la proteína, acompáñalo con [tofu coreano crujiente y pegajoso](/es/recetas/el-tofu-coreano-pegajoso-de-15-minutos-mas-rapido-y-crujiente).'
 cuisine: Coreana
 tags:
 - korean

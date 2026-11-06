@@ -4,9 +4,9 @@ categories:
 - snacks
 title: Quick 10-Minute Ultra-Creamy Thai Satay Peanut Sauce
 slug: satay-peanut-sauce
-meta:
-  seoMetaDescription: Need a premium dip? This quick 10-minute ultra-creamy Thai satay
-    peanut sauce delivers bold, spicy healthy fats.
+date: '2026-03-10'
+updated: '2026-11-06'
+seoDescription: Ultra-creamy Thai satay peanut sauce in 10 minutes, rich with red curry paste and coconut. Minimal prep, maximum flavour for noodles, tofu and dipping.
 description: 'A top-tier player for your meal prep. **Packing serious healthy fats and a respectable punch of protein with solid macros**, frying off the red curry paste in coconut milk gives you an instant 10-minute flavour injection.
 
   It is packed with proper crushed peanuts and tangy tamarind. I designed this to rival the deep flavour of authentic Thai street food without having to stand over a simmering pot for hours.
@@ -25,7 +25,7 @@ works:
 use:
 - 'As a Dip: Unbeatable for grilled halloumi skewers or raw veg prep.'
 - 'As a Dressing: Thin it out with water and lime juice for a high-fat salad dressing.'
-- 'As a Stir-fry Sauce: Toss straight into rice noodles for a quick carb reload.'
+- 'As a Stir-fry Sauce: Toss straight into rice noodles for a quick carb reload. Find more speedy bowls in my [5-minute noodle hacks](/collections/5-minute-noodle-hacks).'
 image: peanut-satay-sauce_rngtry
 alt: Rich and creamy satay peanut sauce in a bowl
 pintrest: ''

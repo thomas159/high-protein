@@ -3,10 +3,11 @@ categories:
 - 15minutemeals
 - airfryer
 - dinner
-title: La pizza de tortilla con freidora de aire más rápida y crujiente en 15 minutos
+title: 'Pizza de tortilla extra crujiente en freidora en 15 minutos'
 slug: la-pizza-de-tortilla-con-freidora-de-aire-mas-rapida-y-crujiente-en-15-minutos
-meta:
-  seoMetaDescription: Sacia tu antojo de pizza en un momento. Esta pizza de tortilla en freidora de aire es la opción más rápida, súper crujiente y baja en calorías que vas a encontrar.
+date: '2026-07-15'
+updated: '2026-11-06'
+seoDescription: 'Pizza de tortilla de trigo en freidora de aire, extra crujiente y con 23 g de proteína en 15 minutos. Mínima preparación, máximo sabor sin pedir a domicilio.'
 description: |
   Una tortilla de trigo es una base ligera y estupenda para montar una pizza rápida. Se tuesta a las mil maravillas con el calor de la freidora de aire, dándote ese toque ultra crujiente que tanto apetece.
 
@@ -24,7 +25,7 @@ works:
 use:
 - 'Cena ligera excelente: todo el disfrute de una buena pizza pero de forma muy ligera.'
 - 'Solución rápida: perfecta para cuando el hambre aprieta y tienes poco tiempo.'
-- 'Plato completo: combínala con una ensalada fresca para tener una comida estupenda.'
+- 'Plato completo: combínala con una ensalada fresca para tener una comida estupenda. Encontrarás más platos así en [nuestras versiones caseras y ligeras de la comida para llevar](/es/colecciones/las-falsificaciones-mas-sencillas-y-compatibles-con-macros).'
 image: air-fryer-pizza-tortilla-wrap_ko6ckn
 alt: Pizza de tortilla freidora con pesto y tomates cherry
 pintrest: ''

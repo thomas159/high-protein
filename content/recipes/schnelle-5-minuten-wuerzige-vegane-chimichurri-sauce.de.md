@@ -5,10 +5,9 @@ categories:
   - vegan
 title: Schnelle 5-Minuten würzige vegane Chimichurri-Sauce
 slug: schnelle-5-minuten-wuerzige-vegane-chimichurri-sauce
-meta:
-  seoMetaDescription: Frisch, krautig und feurig! Diese authentische 5-Minuten
-    vegane Chimichurri-Sauce veredelt Tofu, Grillgemüse und Bowls im
-    Handumdrehen.
+date: '2026-08-28'
+updated: '2026-11-06'
+seoDescription: "Würzige vegane Chimichurri-Sauce in 5 Minuten: frische Kräuter, Knoblauch und Chili, roh gemixt. Minimaler Aufwand, maximaler Geschmack. Ideal zu Tofu."
 description: Eine argentinische Kräutersauce voller Frische und Würzkraft. Mit
   frischer Petersilie, Knoblauch, Rotweinessig, Oregano und feinen Chiliflocken
   in nur 5 Minuten angerührt. Verleiht gegrilltem Tofu, geröstetem Gemüse und
@@ -48,6 +47,7 @@ use:
   - "Tofu- & Steak-Topping: Genial auf heiß angebratenem Tofu oder Seitan."
   - "Salat- & Bowl-Dressing: Ein Löffel Chimichurri über Quinoa- oder
     Bohnen-Bowls geben."
+  - "Perfekte Partner: Löffel sie über die [Airfryer Süßkartoffel-Pommes](/de/rezepte/extra-knusprige-airfryer-suesskartoffel-pommes) oder über Tofu, vorbereitet mit unseren [Tofu-Zubereitungs-Hacks](/de/sammlungen/die-besten-schnellen-tofu-zubereitung-tipps)."
 variations:
   - "Koriander-Chimichurri: Die Hälfte der Petersilie durch frischen Koriander
     ersetzen."

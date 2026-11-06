@@ -5,9 +5,9 @@ categories:
   - ninjacreami
 title: Das beste ultra-cremige Matcha Ninja Creami
 slug: das-beste-ultra-cremige-matcha-ninja-creami
-meta:
-  seoMetaDescription: Japanischer Grüntee-Genuss! Dieses samtige Matcha Ninja
-    Creami Protein-Eis ist herb-süß, reich an Antioxidantien und extra cremig.
+date: '2026-08-28'
+updated: '2026-11-06'
+seoDescription: "Japanisch inspiriert: Dieses Matcha Ninja Creami Protein-Eis ist in 10 Minuten vorbereitet und liefert 38 g Protein. Minimaler Aufwand, maximaler Geschmack."
 description: Der edle Geschmack von feinstem japanischem Matcha-Grüntee als
   samtiges Fitness-Eis. Mit herbem Matcha-Pulver, süßer Vanille und cremigem
   Protein angerührt – ein erfrischendes Geschmackserlebnis voller
@@ -45,6 +45,7 @@ works:
 use:
   - "Nachmittags-Fokus-Snack: Frischer Energieschub mit wertvollen Nährstoffen."
   - "Erfrischender Nachtisch: Wunderbar ausgleichend nach herzhaften Mahlzeiten."
+  - "Mehr Eis-Sorten: Tropisch wird es mit dem [ultra-cremigen Kokos Ninja Creami](/de/rezepte/das-beste-ultra-cremige-kokos-ninja-creami). Alle Sorten findest du bei unseren [proteinreichen Ninja Creami Rezepten](/de/sammlungen/die-besten-proteinreichen-ninja-creami-rezepte)."
 variations:
   - "Matcha-White-Choc: Weiße Schokosplitter mit dem 'Mix-In'-Programm
     einarbeiten."

@@ -1,6 +1,9 @@
 ---
-title: Las mejores papas fritas extra crujientes para freidora
+title: 'Las mejores patatas fritas extra crujientes en freidora'
 slug: las-mejores-papas-fritas-extra-crujientes-para-freidora
+seoDescription: 'Patatas fritas extra crujientes en freidora de aire, de batata a cargadas con jalapeños. Mínima preparación, máximo sabor y mucho menos aceite que las de bar.'
+date: '2026-07-15'
+updated: '2026-11-06'
 description: "Cuando los antojos de carbohidratos aumentan con fuerza después del\
   \ entrenamiento, las papas fritas grasosas para llevar estándar simplemente no serán\
   \ suficientes. Necesitas un gran volumen sin desperdiciar por completo tu presupuesto\

@@ -6,8 +6,9 @@ categories:
 - snacks
 title: Easy 35-Minute Sticky Honey Glazed Air Fryer Tofu
 slug: honey-glaze-tofu-marinade
-meta:
-  seoMetaDescription: Sweet tooth kicking in? This easy 35-minute sticky honey glazed air fryer tofu builds a caramelised crust fast. High protein.
+date: '2026-03-12'
+updated: '2026-11-06'
+seoDescription: Sticky honey glazed air fryer tofu in 35 minutes, with 24g of protein and a caramelised crust. Minimal prep, maximum flavour for sweet and salty meal prep.
 description: 'This is hands-down the fastest way to turn plain tofu into a sticky, golden masterpiece. Sweet honey mixes with salty soy sauce to coat the tofu and build a gorgeous caramelised crust in the air fryer. An elite high-protein staple that hits your daily targets and actually tastes incredible.'
 image: honey-glaze-tofu-marinade_1_rykscd
 alt: Honey glaze marinated tofu cubes

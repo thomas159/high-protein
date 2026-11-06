@@ -2,12 +2,11 @@
 categories:
 - 15minutemeals
 - snacks
-title: Salsa rápida de ajo ultracremosa y baja en calorías en 5 minutos
+title: 'Salsa de ajo cremosa y baja en calorías en 5 minutos'
 slug: salsa-rapida-de-ajo-ultracremosa-y-baja-en-calorias-en-5-minutos
-meta:
-  seoMetaDescription: ¿Necesitas un chapuzón macro-amigable? Esta rápida salsa de
-    ajo, ultracremosa y baja en calorías, de 5 minutos, utiliza yogur griego para
-    obtener un rico ponche.
+date: '2026-07-15'
+updated: '2026-11-06'
+seoDescription: 'Salsa de ajo ultracremosa con yogur griego, baja en calorías y con 6 g de proteína, lista en 5 minutos. Mínima preparación, máximo sabor para tus patatas.'
 description: 'Un brillante sustituto bajo en calorías que no sabe a comida dietética.
   El uso de una gran proporción de yogur griego y mayonesa reduce drásticamente la
   grasa y, al mismo tiempo, proporciona un aumento masivo de proteínas.
@@ -40,7 +39,7 @@ works:
 use:
 - 'Como salsa: Elite para batatas fritas o verduras crudas.'
 - 'Para untar: úntelo dentro de una envoltura rica en proteínas.'
-- 'Como aderezo: Dilúyelo con un chorrito de agua para aliñar una ensalada.'
+- 'Como aderezo: Dilúyelo con un chorrito de agua para aliñar una ensalada. Y para mojar, su pareja perfecta son [las mejores patatas fritas extra crujientes en freidora](/es/colecciones/las-mejores-papas-fritas-extra-crujientes-para-freidora).'
 variations:
 - 'Intercambio vegano: mayonesa de origen vegetal y yogur de soja.'
 - 'Ajo asado: Cambie el ajo crudo por asado para obtener un perfil más dulce y profundo.'

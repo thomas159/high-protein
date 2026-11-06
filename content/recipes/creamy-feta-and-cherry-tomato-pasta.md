@@ -4,8 +4,9 @@ categories:
 - dinner
 title: Easy 15-Minute Ultra-Creamy Feta & Cherry Tomato Pasta
 slug: creamy-feta-and-cherry-tomato-pasta
-meta:
-  seoMetaDescription: Weeknight saviour! This easy 15-minute ultra-creamy feta & cherry tomato pasta is a satisfying Italian vegetarian dinner.
+date: '2026-03-09'
+updated: '2026-11-06'
+seoDescription: Ultra-creamy feta and cherry tomato pasta in 15 minutes, all in one pan with 23g of protein. Minimal prep, maximum flavour for a weeknight carb refuel.
 description: 'The absolute weeknight saviour when you need a proper carb refeed. Juicy cherry tomatoes and salty feta melt together in a single pan, delivering a rich, velvety sauce with zero fuss.
 
 
@@ -45,7 +46,7 @@ rating: null
 reviews: null
 variations:
 - 'Volume Boost: Fold in massive handfuls of baby spinach until wilted.'
-- 'Protein Spike: Toss in cooked white grains or bean mix, or crispy tofu cubes.'
+- 'Protein Spike: Toss in cooked white grains or bean mix, or crispy tofu cubes. Get the tofu ready in minutes with my [quick tofu prep hacks](/collections/easy-quick-tofu-prep-hacks).'
 servingSuggestions: Serve this immediately while the feta is warm and creamy. Superset
   with roasted asparagus and a crisp white wine.
 storageInstructions: Fridge for 3 days. Reheat gently with a splash of boiling water.

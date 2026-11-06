@@ -5,8 +5,9 @@ categories:
 - dessert
 title: Die ultimative cremige 5-Minuten Hüttenkäse-Bowl mit Beeren
 slug: huettenkaese-bowl-mit-beeren
-meta:
-  seoMetaDescription: Schnelles proteinreiches Frühstück oder süßer Fitness-Snack gesucht? Diese einfache 5-Minuten Hüttenkäse-Bowl mit Beeren bietet minimalen Aufwand, maximalen Geschmack und 19 g Protein bei unter 250 Kalorien.
+date: '2026-09-14'
+updated: '2026-11-06'
+seoDescription: "Cremige Hüttenkäse-Bowl mit Beeren in 5 Minuten: 19 g Protein bei nur 232 kcal, perfekt zum Frühstück. Minimaler Aufwand, maximaler Geschmack."
 description: 'Der schnellste Weg zu deinen täglichen Protein-Zielen, wenn du ohne Kochen Lust auf etwas herrlich Cremiges und Fruchtiges hast. Körniger Frischkäse bildet auf einem flachen Teller oder in einer weiten Schale das perfekte, kühle Fundament für frische Beeren. Zusammen mit knackigen Mandelblättchen, quellenden Chiasamen und feinem Honig stillt diese Hüttenkäse-Bowl mit Beeren süße Gelüste in fünf Minuten bei starken 19 g langsam verdaulichem Casein-Protein.'
 blurb: []
 image: cottage-cheese-bowl-with-berries_rii23g
@@ -42,6 +43,7 @@ why:
 - 'Knackiges Texturenspiel: Kühle, samtige Käsekörner treffen auf saftige Waldbeeren und geröstete Mandelblättchen – Fitness-Ernährung, die sich wie ein Dessert anfühlt.'
 - 'Null Kochaufwand: In fünf Minuten vom Kühlschrank auf den Löffel – ideal, wenn die Zeit knapp ist und du trotzdem keine Kompromisse bei den Makros machen willst.'
 use:
+- "Mehr Protein-Frühstück: Probier die [Airfryer Frühstücks-Ei-Muffins](/de/rezepte/schnelle-und-einfache-10-minuten-airfryer-fruehstuecks-ei-muffins). Für unterwegs gibt es die [No-Bake Protein Energie-Bällchen](/de/rezepte/einfache-5-minuten-no-bake-protein-energie-baellchen)."
 - 'Pre-Bed Mahlzeit: Das langsam verdauliche Casein versorgt deine Muskeln über Nacht während der Regeneration.'
 - '5-Minuten Turbo-Frühstück: Wenn morgens jede Minute zählt, steht die proteinreiche Mahlzeit ohne Spülarbeiten bereit.'
 - 'Snack im Kaloriendefizit: Maximales Volumen und geringe Kaloriendichte machen die Bowl zum idealen Begleiter in der Diät.'

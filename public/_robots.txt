@@ -1,26 +1,9 @@
 # Allow all crawlers
 User-agent: *
 
-# Explicitly allow the assets Google needs to render your JavaScript app
-Allow: /_nuxt/*.js
-Allow: /_nuxt/*.css
-Allow: /_nuxt/*.webp
-Allow: /_nuxt/*.jpg
-Allow: /_nuxt/*.png
-
 # Block only truly private or redundant internal paths
 Disallow: /admin/
 Disallow: /api/
 
-# Allow indexing of all core content
-Allow: /recipes/
-Allow: /categories/
-Allow: /
-Allow: /sitemap.xml
-Allow: /privacy-policy/
-Allow: /terms-of-service/
-Allow: /contact/
-
-
-# Link to your Sitemap
-Sitemap: https://www.hotrecipes.co.uk/sitemap.xml
+# Link to your Sitemap (index of the per-locale en/es/de sitemaps)
+Sitemap: https://www.hotrecipes.co.uk/sitemap_index.xml

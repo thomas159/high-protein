@@ -2,12 +2,11 @@
 categories:
 - airfryer
 - snacks
-title: Muffins de huevo para desayuno con freidora de aire rápidos y fáciles de 10
-  minutos
+title: 'Muffins de huevo en freidora de aire, fáciles en 10 minutos'
 slug: muffins-de-huevo-para-desayuno-con-freidora-de-aire-rapidos-y-faciles-de-10
-meta:
-  seoMetaDescription: Muffins de huevo para desayuno con freidora, rápidos y fáciles
-    de 10 minutos. ¡Perfectamente inflado cada vez!
+date: '2026-07-15'
+updated: '2026-11-06'
+seoDescription: 'Muffins de huevo en freidora de aire, esponjosos y listos en 10 minutos con 7 g de proteína por ración. Mínima preparación, máximo sabor para el desayuno.'
 description: 'Comience su día con una dosis sólida de proteínas. Estos muffins de
   huevo rápidos y fáciles de 10 minutos contienen queso feta picante y tomates dulces
   secados al sol en un formato eficiente para llevar.
@@ -62,7 +61,7 @@ variations:
 use:
 - 'Preparación macro: cocine por lotes el domingo como combustible para llevar por
   la mañana.'
-- 'Después del entrenamiento: un golpe rico en proteínas y sin carbohidratos.'
+- 'Después del entrenamiento: un golpe rico en proteínas y sin carbohidratos. Para un desayuno dulce y igual de rápido, prueba [el bol de queso cottage con frutos rojos](/es/recetas/bol-de-queso-cottage-con-frutos-rojos).'
 servingSuggestions: Sírvelos junto con un poco de aguacate en rodajas y tostadas integrales.
   Combustible de élite para la mañana.
 storageInstructions: Refrigerar en un recipiente hermético durante 4 días. Mételo

@@ -4,8 +4,9 @@ categories:
 - dinner
 title: The Quickest, Crispiest 15-Minute Spicy Kimchi Fried Rice
 slug: kim-chi-fried-rice
-meta:
-  seoMetaDescription: Need a spicy recovery meal fast? The quickest, crispiest 15-minute spicy kimchi fried rice delivers smoky umami punch.
+date: '2026-03-10'
+updated: '2026-11-06'
+seoDescription: Crispy, spicy kimchi fried rice in 15 minutes with 13g of protein and deep umami flavour. Minimal prep, maximum flavour, and it beats any takeaway.
 description: 'This is the ultimate recovery meal when you need heavy flavour in a hurry. Loaded with fermented tang and deep umami from aged kimchi, this speedy fry-up delivers a serious hit of energy. It took me a few attempts to get the level of heat right, but finishing it with a runny egg yolk is the perfect way to round out the spicy kick.'
 blurb: []
 image: kim-chi-fried-rice_a4xo6n
@@ -22,7 +23,7 @@ use:
 - 'Pre-Workout Primer: The perfect fuel to smash your next PB.'
 - 'Leftover Rescue: The most efficient way to clear out aging kimchi.'
 - 'Refeed Bowl: A spicy, warming bowl when you need heavy carbs.'
-- 'Lightning Main: Pan to plate in under 15 minutes.'
+- 'Lightning Main: Pan to plate in under 15 minutes. Browse more takeaway swaps in my [macro-friendly fakeaways](/collections/easy-macro-friendly-fakeaways).'
 cuisine: Korean
 tags:
 - korean

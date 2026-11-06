@@ -3,9 +3,9 @@ categories:
   - dessert
 title: Cremiger thailändischer Mango-Klebreis (Khao Niew Mamuang)
 slug: cremiger-thailaendischer-mango-klebreis
-meta:
-  seoMetaDescription: Süße Mango trifft samtigen Kokosreis! Dieser cremige
-    thailändische Mango-Klebreis ist ein authentisches, himmlisches Dessert.
+date: '2026-08-28'
+updated: '2026-11-06'
+seoDescription: "Thailändischer Mango-Klebreis in 15 Minuten: samtiger Kokosreis und reife Mango, vegan und glutenfrei. Minimaler Aufwand, maximaler Geschmack."
 description: "Der weltberühmte thailändische Dessert-Klassiker: Zart gedämpfter
   Klebreis, durchtränkt von einer süß-salzigen warmen Kokossauce, serviert mit
   sonnengereifter, butterweicher Mango. Ein exotisches Geschmackserlebnis voller
@@ -45,6 +45,7 @@ works:
 use:
   - "Tropischer Dessert-Traum: Der krönende Abschluss eines asiatischen Menüs."
   - "Clean-Carb Energie: Ideal als süßer Refeed vor intensiven Sporteinheiten."
+  - "Thai-Menü: Als Vorspeise passt die [cremige vegane thailändische Karottensuppe](/de/rezepte/cremige-20-minuten-vegane-thailaendische-karottensuppe). Mehr Lieferdienst-Klassiker zum Selbermachen gibt es bei unseren [makrofreundlichen Fakeaways](/de/sammlungen/einfache-makrofreundliche-fakeaways)."
 variations:
   - "Pandan-Aroma: Die Kokosmilch mit einem Pandanblatt aufkochen für intensives
     Vanille-Nuss-Aroma."

@@ -2,10 +2,11 @@
 categories:
 - 15minutemeals
 - dessert
-title: La mejor crema ninja ultracremosa de chocolate y naranja de 10 minutos
+title: 'Ninja Creami de chocolate y naranja proteico en 10 minutos'
 slug: la-mejor-crema-ninja-ultracremosa-de-chocolate-y-naranja-de-10-minutos
-meta:
-  seoMetaDescription: "Disfruta de una combinación perfecta: helado de chocolate y naranja súper cremoso hecho con tu Ninja Creami en 10 minutos de preparación. Riquísimo y con un aporte proteico espectacular."
+date: '2026-07-15'
+updated: '2026-11-06'
+seoDescription: 'Helado Ninja Creami de chocolate y naranja, ultracremoso y con 62 g de proteína en 10 minutos de trabajo. Mínima preparación, máximo sabor a bombón.'
 description: |
   Todo el sabor intenso de un postre de chocolate y naranja con una excelente dosis de proteínas para tu día a día. La Ninja Creami procesa esta combinación de ingredientes ligeros hasta transformarla en un helado de ensueño ultra cremoso.
 
@@ -38,7 +39,7 @@ works:
 use:
 - 'Post-entrenamiento fantástico: una recarga proteica maravillosa con el sabor de un postre tradicional.'
 - 'Capricho nocturno: muy saciante para esos momentos de antojo por la noche, manteniendo tus hábitos en equilibrio.'
-- 'Refresco veraniego: la mejor opción para refrescarte y nutrirte en los días más calurosos.'
+- 'Refresco veraniego: la mejor opción para refrescarte y nutrirte en los días más calurosos. Si prefieres el chocolate a solas, prueba [el Ninja Creami de chocolate ultracremoso](/es/recetas/el-mejor-creami-ninja-de-chocolate-ultracremoso) o mira [más recetas Ninja Creami proteicas](/es/colecciones/las-mejores-recetas-de-creami-ninja-ricas-en-proteinas).'
 rating: null
 variations:
 - 'Chocolate doble: Incorpora las chispas de chocolate amargo usando el botón de mezclar.'

@@ -5,9 +5,9 @@ categories:
 - snacks
 title: Easy 35-Minute Sticky & Spicy Korean Gochujang Tofu
 slug: spicy-korean-tofu-marinade
-meta:
-  seoMetaDescription: Bold heat fast! This easy 35-minute sticky & spicy Korean gochujang
-    tofu marinade is fiery vegan protein.
+date: '2026-03-12'
+updated: '2026-11-06'
+seoDescription: Sticky, spicy Korean gochujang tofu in 35 minutes with 24g of vegan protein. Minimal prep, maximum flavour, and charred, crispy edges from the air fryer.
 description: 'A fiery, fermented Korean marinade featuring aromatic Gochujang, soy sauce, and
   rich sesame oil. It is perfect for baking or air-frying into sticky, charred crispy tofu.
   This easy 35-minute marinade recharges your system like a massive one-rep max.

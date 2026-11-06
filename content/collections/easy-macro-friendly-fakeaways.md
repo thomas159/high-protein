@@ -1,6 +1,9 @@
 ---
 title: "The Ultimate Easy Macro-Friendly Fakeaways"
 slug: "easy-macro-friendly-fakeaways"
+seoDescription: Macro-friendly fakeaways that beat the delivery driver, from tortilla pizza to kimchi fries and chickpea curry. Minimal prep, maximum flavour, big protein.
+date: '2026-04-11'
+updated: '2026-05-16'
 description: |
   Let’s be honest, we all crave a dirty takeaway after a brutal training block. But dropping thirty quid just to absolutely obliterate your weekend calorie deficit is a rookie error. Here are my top ultimate easy fakeaways. 
   

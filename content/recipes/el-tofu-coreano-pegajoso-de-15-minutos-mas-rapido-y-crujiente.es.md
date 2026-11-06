@@ -2,10 +2,11 @@
 categories:
 - 15minutemeals
 - dinner
-title: El tofu coreano pegajoso de 15 minutos más rápido y crujiente
+title: 'Tofu coreano crujiente y pegajoso en 15 minutos'
 slug: el-tofu-coreano-pegajoso-de-15-minutos-mas-rapido-y-crujiente
-meta:
-  seoMetaDescription: ¿Necesitas una comida rápida y alta en proteínas? Este tofu coreano súper crujiente y pegajoso en 15 minutos con gochujang te salvará el día.
+date: '2026-07-15'
+updated: '2026-11-06'
+seoDescription: 'Tofu coreano crujiente con glaseado pegajoso de gochujang, listo en 15 minutos y con 22 g de proteína. Mínima preparación, máximo sabor para entre semana.'
 description: 'Sin duda, esta es la forma más rápida de conseguir un tofu ultra crujiente sin necesidad de freírlo en abundante aceite. Pasamos los cubos de tofu extra firme por almidón de maíz (maicena), los doramos en la sartén hasta que queden súper crujientes, y luego los bañamos en una salsa gochujang dulce, picante y pegajosa. Se prepara en exactamente 15 minutos de principio a fin, aporta 22g de proteína vegetal y queda increíblemente brillante. ¡Ideal para esas noches ocupadas en las que buscas el sabor de la comida para llevar pero con excelentes macros!'
 image: 15-minute-crispy-sticky-korean-tofu_vu0qlh
 alt: Tofu coreano crujiente y pegajoso de 15 minutos adornado con semillas de sésamo

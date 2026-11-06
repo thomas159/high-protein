@@ -4,9 +4,9 @@ categories:
 - airfryer
 title: The Ultimate Crispy 5-Minute Air Fryer Nachos
 slug: 5-minute-air-fryer-nachos
-meta:
-  seoMetaDescription: Need a snack fast? These 5-minute air fryer nachos deliver instant,
-    cheesy gratification with zero prep time.
+date: '2026-03-11'
+updated: '2026-11-06'
+seoDescription: Crispy, cheesy air fryer nachos in 5 minutes flat. Minimal prep, maximum flavour and 14g of protein, without waiting around for the oven to heat up.
 description: 'Waiting 20 minutes for an oven to preheat after a brutal leg session is ridiculous. You shouldn''t spend more time cooking a snack than eating it. These air-fryer nachos take exactly five minutes and deliver instant, cheesy gratification. **Proper layering matters.** This took me a few attempts to dial in, balancing the sharp cheddar flavour with raw lime juice. Building distinct layers ensures the top melts completely without burning the base chips. Packing a serious hit of protein per serving, this quick fix hits your daily targets with minimal cleanup.'
 image: 5-minute-air-fryer-nachos_gf3zzd
 alt: 5 minute air fryer nachos with melted cheese and tomatoes
@@ -27,11 +27,9 @@ works:
 - 'Hot Air Magic: The circulating hot air rapidly melts the cheese, ensuring an even,
   golden melt.'
 use:
-- 'Emergency refeed: a hot, cheesy hit that''s ready faster than your oven can even
-  turn on.'
-- 'Match-day snack: easy to scale up for guests when friends come over to watch the
-  game.'
-- 'Macro lunch: load it up with black beans and extra veg for a massive volume meal.'
+- 'Emergency refeed: a hot, cheesy hit that''s ready faster than your oven can even turn on.'
+- 'Match-day snack: easy to scale up for guests when friends come over to watch the game.'
+- 'Macro lunch: load it up with black beans and extra veg for a massive volume meal. Finish with a dollop of [low-calorie garlic sauce](/recipes/creamy-low-calorie-garlic-sauce) for extra protein.'
 tags:
 - mexican
 - snack

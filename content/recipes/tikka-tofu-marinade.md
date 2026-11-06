@@ -6,9 +6,9 @@ categories:
 - snacks
 title: Quick 35-Minute Charred High-Protein Air Fryer Tikka Tofu
 slug: tikka-tofu-marinade
-meta:
-  seoMetaDescription: Skip the curry house! This quick 35-minute charred high-protein
-    air fryer tikka tofu delivers authentic Indian spices fast.
+date: '2026-03-12'
+updated: '2026-11-06'
+seoDescription: Charred high-protein air fryer tikka tofu in 35 minutes, with 19g of vegan protein. Minimal prep, maximum flavour and proper curry house spice at home.
 description: 'Enjoy a rich, restaurant-style Indian feast right in your own kitchen with
   this quick 35-minute tikka tofu. A bold marinade of warm garam masala, bright turmeric,
   and tangy Greek yoghurt coats every bite, forming a beautiful chargrilled crust in the air fryer.

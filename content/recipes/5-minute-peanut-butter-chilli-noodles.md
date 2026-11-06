@@ -4,9 +4,9 @@ categories:
 - dinner
 title: Quick 5-Minute Ultra-Creamy Peanut Butter Chilli Noodles
 slug: 5-minute-peanut-butter-chilli-noodles
-meta:
-  seoMetaDescription: Need dinner in a flash? These quick 5-minute ultra-creamy peanut
-    butter chilli noodles deliver spicy vegan protein.
+date: '2026-03-13'
+updated: '2026-11-06'
+seoDescription: Creamy peanut butter chilli noodles in 5 minutes, packing 14g of vegan protein. Minimal prep, maximum flavour, and the sauce comes together in one bowl.
 description: 'A brilliant balance of heavy peanut butter fats and sharp chilli heat. Using starchy noodle water makes the sauce bind instantly, giving you quick 5-minute ultra-creamy noodles. Raw ginger provides a punchy kick. This took me a few tries to get the balance of rice vinegar and peanut butter just right, but the result is a bright, punchy sauce that clings perfectly.'
 image: 5-minute-peanut-butter-chilli-noodle_getziq
 alt: 5-Minute Peanut Butter Chilli Noodles in a bowl
@@ -40,7 +40,7 @@ works:
 use:
 - 'Emergency Refeed: A savoury, spicy fix ready faster than you can order a takeaway.'
 - 'Cold Noodle Salad: Elite macro-friendly prep for a chilled work lunch.'
-- 'Perfect Side: Serve alongside crispy spring rolls.'
+- 'Perfect Side: Serve alongside crispy spring rolls. Want more? Try the rest of my [5-minute noodle hacks](/collections/5-minute-noodle-hacks).'
 servingSuggestions: These are heavy-hitters on their own. Pair with some pickled daikon
   or cucumber to cleanse the palate. Brilliant alongside steamed vegetable dumplings.
 shelf_life: Eat fresh. The sauce seizes up as it cools.

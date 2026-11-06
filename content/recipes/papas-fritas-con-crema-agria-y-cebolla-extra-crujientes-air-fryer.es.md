@@ -1,12 +1,11 @@
 --- 
 categories:
 - airfryer
-title: Papas fritas con crema agria y cebolla extra crujientes Air Fryer
+title: 'Patatas crujientes de crema agria y cebolla en 30 minutos'
 slug: papas-fritas-con-crema-agria-y-cebolla-extra-crujientes-air-fryer
-meta:
-  seoMetaDescription: ¿Se te antoja un refrigerio salado? Estas papas fritas con crema
-    agria y cebolla extra crujientes de 30 minutos dan en el clavo con una salsa aterciopelada
-    de ajo.
+date: '2026-07-15'
+updated: '2026-11-06'
+seoDescription: 'Patatas fritas extra crujientes en freidora de aire con sabor a crema agria y cebolla y salsa cremosa de ajo, en 30 minutos. Mínima preparación, máximo sabor.'
 description: 'Estas irresistibles patatas fritas con crema agria son extra crujientes
   por fuera y esponjosas por dentro. Cada fritura dorada se rocía con una salsa de
   crema agria aterciopelada con infusión de ajo.
@@ -42,7 +41,7 @@ works:
 use:
 - 'Lado gourmet: eleva una cena estándar entre semana a un festín estilo pub.'
 - 'Fuente del día del partido: perfecta para apilar en el centro de la mesa.'
-- 'Solución de sabor: la salsa picante actúa como una increíble salsa incorporada.'
+- 'Solución de sabor: la salsa picante actúa como una increíble salsa incorporada. Encontrarás más versiones en [las mejores patatas fritas extra crujientes en freidora](/es/colecciones/las-mejores-papas-fritas-extra-crujientes-para-freidora).'
 tags: []
 keywords:
 - ajo

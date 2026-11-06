@@ -4,9 +4,9 @@ categories:
 - dinner
 title: Quick & Easy 5-Minute Upgraded Instant Noodles
 slug: 5-minute-instant-noodles
-meta:
-  seoMetaDescription: Bin the watery ramen. These quick & easy 5-minute upgraded instant
-    noodles deliver a savory soy-sesame post-workout carb load.
+date: '2026-03-10'
+updated: '2026-11-06'
+seoDescription: Upgraded instant noodles in 5 minutes with a sticky soy and sesame glaze. Minimal prep, maximum flavour and a fast post-workout carb hit. Bin the sad ramen.
 description: 'Skip the watery ramen. Upgrading them with a savoury soy and sesame
   glaze gives you a quick & easy 5-minute meal. Boil off the water to force the flavour
   into the noodles.
@@ -49,7 +49,7 @@ works:
 use:
 - 'Macro Hack: A massive upgrade to a basic instant noodle craving.'
 - 'Midnight Fuel: Quick, savoury, and zero cleanup.'
-- 'Base Builder: Toss in a soft-boiled egg or leftover veg for a complete meal.'
+- 'Base Builder: Toss in a soft-boiled egg or leftover veg for a complete meal. For more speedy bowls, raid my [5-minute noodle hacks](/collections/5-minute-noodle-hacks).'
 variations:
 - 'Peanut Twist: Give it a solid stir with some peanut butter.'
 - 'Volume Prep: Toss in shredded carrots and edamame.'

@@ -3,10 +3,11 @@ categories:
 - 15minutemeals
 - airfryer
 - snacks
-title: Los definitivos bastoncitos extra crujientes de calabacín con parmesano en freidora de aire en 15 minutos
+title: 'Bastoncitos de calabacín y parmesano en freidora, 15 minutos'
 slug: bastoncitos-de-calabacin-con-parmesano-en-freidora-de-aire
-meta:
-  seoMetaDescription: ¿Buscas patatas fritas saludables casi sin calorías? Estos bastoncitos de calabacín con parmesano en freidora de aire ofrecen mínima preparación, máximo sabor y solo 77 kcal en 15 minutos.
+date: '2026-09-08'
+updated: '2026-11-06'
+seoDescription: 'Bastoncitos de calabacín con parmesano en freidora de aire, crujientes y listos en 15 minutos. Mínima preparación, máximo sabor y solo 77 kcal por ración.'
 description: 'El mejor truco para comer en gran volumen sin sumar calorías. Al cortar el calabacín en bastoncitos firmes y cubrirlos con una mezcla de queso parmesano, hierbas italianas y ajo en polvo, la freidora de aire crea una corteza dorada y crujiente en quince minutos sin una sola gota de aceite. Con solo 77 calorías y 6 g de proteína por ración, calman el antojo de algo crujiente mientras clavas tus macros diarios.
   '
 blurb: []
@@ -42,7 +43,7 @@ works:
 use:
 - 'Snack de gran volumen: Come una montaña de bastoncitos crujientes por menos de 80 calorías para saciar el hambre en época de definición o volumen.'
 - 'Guarnición limpia: Acompañamiento perfecto para hamburguesas vegetales proteicas o tofu a la plancha para clavar tus macros de la cena.'
-- 'Aperitivo para picar: Ideal para disfrutar frente a la tele mojando en salsa fresca de yogur y ajo.'
+- 'Aperitivo para picar: Ideal para disfrutar frente a la tele mojando en salsa fresca de yogur y ajo. La nuestra está aquí: [salsa de ajo ultracremosa](/es/recetas/salsa-rapida-de-ajo-ultracremosa-y-baja-en-calorias-en-5-minutos) o mira más ideas en [los snacks crujientes para freidora de aire](/es/colecciones/los-bocadillos-y-golosinas-para-freidora-de-aire-mas-rapidos-y-crujientes).'
 whyTitle: Por qué te encantará esta receta
 why:
 - 'El snack definitivo de volumen: Consigues una gran ración de bastoncitos crujientes por menos de 80 calorías, por lo que es imposible pasar hambre mientras te cuidas.'

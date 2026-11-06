@@ -11,7 +11,7 @@ const { data: collections } = await useAsyncData(`collections-index-${locale.val
   } else {
     b = b.where('path', 'LIKE', `%.${locale.value}`)
   }
-  const all = await b.all()
+  const all = await b.select('path', 'slug', 'title', 'description', 'seoDescription', 'image', 'recipes').all()
   return all.map((col: any) => ({
     ...col,
     slug: col.slug || col.path?.split('/').pop()?.replace(/\.(es|de)$/, '')

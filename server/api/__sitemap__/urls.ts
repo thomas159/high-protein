@@ -8,6 +8,9 @@ interface ContentItem {
   title?: string
   image?: string
   updatedAt?: string | Date
+  // Git-derived frontmatter dates (YYYY-MM-DD)
+  date?: string
+  updated?: string
 }
 
 interface SitemapAlternative {
@@ -75,7 +78,7 @@ export default defineEventHandler(async (event) => {
 
       return {
         loc: meta.loc,
-        lastmod: recipe.updatedAt,
+        lastmod: recipe.updated || recipe.date,
         priority: 0.8,
         alternatives: alternatives.length > 1 ? alternatives : undefined,
         images: imageLoc ? [{
@@ -158,7 +161,7 @@ export default defineEventHandler(async (event) => {
 
       return {
         loc: meta.loc,
-        lastmod: coll.updatedAt,
+        lastmod: coll.updated || coll.date,
         priority: 0.6,
         alternatives: alternatives.length > 1 ? alternatives : undefined,
         images: imageLoc ? [{

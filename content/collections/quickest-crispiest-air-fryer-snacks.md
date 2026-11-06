@@ -1,6 +1,9 @@
 ---
 title: "The Quickest, Crispiest Air Fryer Snacks & Treats"
 slug: "quickest-crispiest-air-fryer-snacks"
+seoDescription: The quickest, crispiest air fryer snacks and treats, from halloumi bites to mozzarella sticks. Minimal prep, maximum flavour and macro-friendly portions.
+date: '2026-04-09'
+updated: '2026-09-08'
 description: |
   When the post-training hunger hits, you need rapid solutions, not a long cooking project. The air fryer is the undisputed king of quick macro-friendly food. 
   

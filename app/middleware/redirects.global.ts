@@ -6,9 +6,6 @@ const deCategorySlugs = CATEGORY_SLUGS.de
 
 function resolveCategoryKey(slug: string): string {
   const s = slug.toLowerCase().trim()
-  if (s === 'high-protein' || s === 'vegan' || s === 'all-recipes' || s === 'todas-las-recetas') {
-    return 'allrecipes'
-  }
   for (const [key, val] of Object.entries(esCategorySlugs)) {
     if (val === s) return key
   }
@@ -27,7 +24,7 @@ function getCanonicalCategoryUrl(targetLang: 'en' | 'es' | 'de', categoryKey: st
     return `/es/categorias/${slug}`
   }
   if (targetLang === 'de') {
-    const slug = deCategorySlugs[categoryKey] || 'all-recipes'
+    const slug = deCategorySlugs[categoryKey] || deCategorySlugs.allrecipes
     return `/de/kategorien/${slug}`
   }
   const slug = enCategorySlugs[categoryKey] || 'all-recipes'
@@ -48,7 +45,7 @@ export default defineNuxtRouteMiddleware(async (to) => {
   }
 
   if (path === '/de/categories') {
-    return navigateTo({ path: '/de/kategorien/all-recipes', query: to.query }, { redirectCode: 301 })
+    return navigateTo({ path: `/de/kategorien/${deCategorySlugs.allrecipes}`, query: to.query }, { redirectCode: 301 })
   }
   if (path.startsWith('/de/categories/')) {
     const slug = path.slice('/de/categories/'.length)
@@ -56,15 +53,10 @@ export default defineNuxtRouteMiddleware(async (to) => {
     return navigateTo({ path: getCanonicalCategoryUrl('de', catKey), query: to.query }, { redirectCode: 301 })
   }
 
-  // Deprecated categories
-  if (path === '/categories/high-protein' || path === '/categories/vegan' || path === '/high-protein' || path === '/vegan') {
-    return navigateTo({ path: '/categories/all-recipes', query: to.query }, { redirectCode: 301 })
-  }
-  if (path === '/es/categorias/high-protein' || path === '/es/categorias/vegan' || path === '/es/high-protein' || path === '/es/vegan') {
-    return navigateTo({ path: '/es/categorias/todas-las-recetas', query: to.query }, { redirectCode: 301 })
-  }
-  if (path === '/de/kategorien/high-protein' || path === '/de/kategorien/vegan' || path === '/de/high-protein' || path === '/de/vegan') {
-    return navigateTo({ path: '/de/kategorien/all-recipes', query: to.query }, { redirectCode: 301 })
+  // Top-level aliases: /high-protein & /vegan point at their real category pages
+  if (/^\/(es\/|de\/)?(high-protein|vegan)$/.test(path)) {
+    const lang: 'en' | 'es' | 'de' = path.startsWith('/es/') ? 'es' : path.startsWith('/de/') ? 'de' : 'en'
+    return navigateTo({ path: getCanonicalCategoryUrl(lang, path.endsWith('vegan') ? 'vegan' : 'highprotein'), query: to.query }, { redirectCode: 301 })
   }
 
   // Legacy recipe index routes
@@ -72,7 +64,7 @@ export default defineNuxtRouteMiddleware(async (to) => {
     return navigateTo({ path: '/es/categorias/todas-las-recetas', query: to.query }, { redirectCode: 301 })
   }
   if (path === '/de/recipes') {
-    return navigateTo({ path: '/de/kategorien/all-recipes', query: to.query }, { redirectCode: 301 })
+    return navigateTo({ path: `/de/kategorien/${deCategorySlugs.allrecipes}`, query: to.query }, { redirectCode: 301 })
   }
 
   // Legacy collections index routes
@@ -88,13 +80,13 @@ export default defineNuxtRouteMiddleware(async (to) => {
     return navigateTo({ path: '/es/categorias/todas-las-recetas', query: to.query }, { redirectCode: 301 })
   }
   if (path === '/rezepte') {
-    return navigateTo({ path: '/de/kategorien/all-recipes', query: to.query }, { redirectCode: 301 })
+    return navigateTo({ path: `/de/kategorien/${deCategorySlugs.allrecipes}`, query: to.query }, { redirectCode: 301 })
   }
   if (path === '/categorias') {
     return navigateTo({ path: '/es/categorias/todas-las-recetas', query: to.query }, { redirectCode: 301 })
   }
   if (path === '/kategorien') {
-    return navigateTo({ path: '/de/kategorien/all-recipes', query: to.query }, { redirectCode: 301 })
+    return navigateTo({ path: `/de/kategorien/${deCategorySlugs.allrecipes}`, query: to.query }, { redirectCode: 301 })
   }
   if (path === '/colecciones') {
     return navigateTo({ path: '/es/colecciones', query: to.query }, { redirectCode: 301 })

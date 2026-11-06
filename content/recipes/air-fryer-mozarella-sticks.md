@@ -3,8 +3,9 @@ categories:
 - airfryer
 title: Ultimate 45-Minute Extra Crispy Air Fryer Mozzarella Sticks
 slug: air-fryer-mozarella-sticks
-meta:
-  seoMetaDescription: Skip the shop-bought rubbish. These ultimate extra crispy air fryer mozzarella sticks demand minimal prep for maximum flavour, delivering a massive cheese pull in 45 minutes.
+date: '2026-03-11'
+updated: '2026-11-06'
+seoDescription: Extra crispy air fryer mozzarella sticks in 45 minutes with a proper cheese pull. Minimal prep, maximum flavour and no deep-fat fryer grease in sight.
 description: 'Skip the frozen options from the supermarket. The double-breading technique on these homemade mozzarella sticks locks the cheese safely inside, preventing any messy, burnt-on leaks in your air fryer basket. You get an extra crispy crunch and a legendary cheese pull without any deep-frying, giving you a proper protein-packed treat.
 
   '
@@ -20,9 +21,9 @@ works:
 - 'The Frosty Shield: Freezing the cheese sticks solid before baking gives the breadcrumb coating a crucial head start. The hot air crisps the outer crunch layer well before the inside gets hot enough to melt and break out.'
 - 'Double-Breaded Shell: The dual layers of flour and egg bond with the breadcrumbs to seal every single corner, ensuring the melting cheese has absolutely no escape routes.'
 use:
-- 'Refeed Kickoff: The ultimate savory start to a weekend cheat meal.'
+- 'Refeed Kickoff: The ultimate savoury start to a weekend cheat meal.'
 - 'Match Day Platter: A stellar sharing plate to serve up when you are watching the football.'
-- 'Smart Comfort: High-protein, gooey satisfaction without any of the deep-fryer grease.'
+- 'Smart Comfort: High-protein, gooey satisfaction without any of the deep-fryer grease. More quick bites live in my [crispiest air fryer snacks](/collections/quickest-crispiest-air-fryer-snacks).'
 cuisine: American
 tags:
 - snack
@@ -85,9 +86,9 @@ faq:
 - question: Can I use string cheese instead of a block of mozzarella?
   answer: Absolutely! Pre-packaged string cheese works perfectly and saves you the step of slicing the cheese yourself.
 steps:
-- text: Arrange three small bowls in a row. In the first, add the flour. In the second, the beaten egg. In the third, combine the breadcrumbs with the chili flakes, oregano, and garlic granules. Mixing the spices directly into the crumbs ensures every bite is flavorful.
+- text: Arrange three small bowls in a row. In the first, add the flour. In the second, the beaten egg. In the third, combine the breadcrumbs with the chilli flakes, oregano, and garlic granules. Mixing the spices directly into the crumbs ensures every bite is flavourful.
   image: air-fryer-mozarella-sticks-step-1_lmayev
-- text: Slice the mozzarella into uniform sticks. Pat them slightly with a paper towel if they have surface moisture, and dredge them in the flour until fully coated, shaking off any excess.
+- text: Slice the mozzarella into uniform sticks. Pat them slightly with kitchen paper if they have surface moisture, and dredge them in the flour until fully coated, shaking off any excess.
   image: air-fryer-mozarella-sticks-step-2-1_wik6yk
 - text: Dunk each floured stick into the egg, then roll it in the breadcrumbs. Repeat this step. This double-wall coating is mandatory to prevent any messy blowouts.
   image: air-fryer-mozarella-sticks-3-1_y7ulkv

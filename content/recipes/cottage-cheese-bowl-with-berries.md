@@ -3,10 +3,11 @@ categories:
 - 15minutemeals
 - snacks
 - dessert
-title: The Ultimate Easy 5-Minute Ultra-Creamy Cottage Cheese Bowl with Berries
+title: Easy 5-Minute Ultra-Creamy Cottage Cheese & Berry Bowl
 slug: cottage-cheese-bowl-with-berries
-meta:
-  seoMetaDescription: Craving a quick high-protein breakfast or sweet snack? This easy 5-minute ultra-creamy cottage cheese bowl with berries delivers minimal prep, maximum flavour, and 19g of protein under 250 calories.
+date: '2026-09-14'
+updated: '2026-11-06'
+seoDescription: An ultra-creamy cottage cheese bowl with berries in 5 minutes, packing 19g of protein for under 250 kcal. Minimal prep, maximum flavour and zero cooking.
 description: 'This is hands-down the fastest way to hit your protein targets when you want something sweet without cooking. Spreading curdy cottage cheese across a shallow bowl creates a rich, creamy base that catches every drop of natural fruit juice. Topped with plump berries, crunchy flaked almonds (slivered almonds), and a drizzle of honey, this cottage cheese bowl with berries crushes sweet cravings in under five minutes flat while delivering 19g of slow-digesting casein protein.'
 blurb: []
 image: cottage-cheese-bowl-with-berries_rii23g
@@ -44,7 +45,7 @@ why:
 use:
 - 'Pre-Bed Recovery Fuel: The slow-digesting casein feeds muscle recovery overnight while you sleep.'
 - 'Speedy Morning Kickstart: An effortless five-minute breakfast when you need macros fast without dirtying pans.'
-- 'Cutting Phase Snack: High volume and low energy density keep you fully satisfied on a calorie deficit.'
+- 'Cutting Phase Snack: High volume and low energy density keep you fully satisfied on a calorie deficit. Pair it with [air fryer breakfast egg muffins](/recipes/air-fryer-breakfast-egg-muffins) for a bigger protein breakfast.'
 flavour:
 - 'Citrus Lift: Grate a dusting of fresh lemon zest over the curds to cut cleanly through the rich dairy.'
 - 'Warm Spice: Dust a pinch of ground cinnamon over the berries to enhance their natural sweetness without extra sugar.'

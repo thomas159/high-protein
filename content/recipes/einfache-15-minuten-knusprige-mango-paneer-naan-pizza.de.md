@@ -5,10 +5,9 @@ categories:
   - pizza
 title: Einfache 15-Minuten knusprige Mango-Paneer Naan-Pizza
 slug: einfache-15-minuten-knusprige-mango-paneer-naan-pizza
-meta:
-  seoMetaDescription: Indische Aromen auf krossem Naan-Brot! Diese 15-Minuten
-    Mango-Paneer Pizza kombiniert fruchtiges Mango-Chutney, würzigen Paneer und
-    frische Kräuter.
+date: '2026-08-28'
+updated: '2026-11-06'
+seoDescription: "Knusprige Mango-Paneer Naan-Pizza in 15 Minuten: indische Aromen, fruchtige Mango und 19 g Protein. Minimaler Aufwand, maximaler Geschmack."
 description: "Eine aufregende Fusion aus indischer und italienischer Küche:
   Warmes, fluffiges Naan-Brot wird mit süß-würzigem Mango-Chutney bestrichen,
   mit indischem Paneer-Käse und Paprika belegt und in wenigen Minuten knusprig
@@ -45,6 +44,7 @@ works:
 use:
   - "Schnelles Feierabend-Highlight: Wenn gewöhnliche Pizza zu langweilig ist."
   - "Snack zum Teilen: In handliche Rauten geschnitten perfekt für Gäste."
+  - "Mehr Pizza-Hacks: Noch dünner und krosser wird die [Airfryer Tortilla-Pizza](/de/rezepte/schnellste-und-knusprigste-15-minuten-airfryer-tortilla-pizza). Weitere Lieferdienst-Klassiker gibt es bei unseren [makrofreundlichen Fakeaways](/de/sammlungen/einfache-makrofreundliche-fakeaways)."
 variations:
   - "Tofu statt Paneer: Für eine vegane Variante festen Tofu in Curry
     marinieren."

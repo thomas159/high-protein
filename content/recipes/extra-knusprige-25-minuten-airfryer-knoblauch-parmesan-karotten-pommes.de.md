@@ -3,12 +3,11 @@ categories:
   - 15minutemeals
   - airfryer
   - snacks
-title: Extra knusprige 25-Minuten Airfryer Knoblauch-Parmesan-Karotten-Pommes
+title: "Knusprige 25-Minuten Airfryer Parmesan-Karotten-Pommes"
 slug: extra-knusprige-25-minuten-airfryer-knoblauch-parmesan-karotten-pommes
-meta:
-  seoMetaDescription: Lust auf herzhaften Crunch bei wenigen Kalorien? Diese
-    knusprigen Airfryer Knoblauch-Parmesan-Karotten-Pommes sind in 25 Minuten
-    fertig und absolut makrofreundlich.
+date: '2026-08-28'
+updated: '2026-11-06'
+seoDescription: "Knusprige Karotten-Pommes mit Knoblauch und Parmesan in 25 Minuten aus dem Airfryer, nur rund 250 kcal. Minimaler Aufwand, maximaler Geschmack."
 description: Die geniale kalorienarme Alternative zu normalen Pommes! Die
   zirkulierende Hitze der Heißluftfritteuse röstet die Karottenstreifen und
   lässt den Parmesan zu einer aromatischen, knusprigen Kruste verschmelzen. Eine
@@ -51,6 +50,7 @@ use:
   - "Volume Eating: Die perfekte kalorienarme Antwort auf Heißhunger nach
     Pommes."
   - "Beilage: Ideal zu pflanzlichen Burgern oder proteinreichen Hauptgerichten."
+  - "Mehr Gemüse-Pommes: Probier die [knusprigen Parmesan-Zucchini-Pommes](/de/rezepte/knusprige-airfryer-parmesan-zucchini-pommes). Alle Sorten findest du bei unseren [extra knusprigen Airfryer-Pommes](/de/sammlungen/extra-knusprige-airfryer-pommes)."
 variations:
   - "Würziger Kick: Mit einer Prise Cayennepfeffer oder geräuchertem
     Paprikapulver würzen."

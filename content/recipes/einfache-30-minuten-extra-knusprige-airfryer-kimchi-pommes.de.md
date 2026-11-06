@@ -5,10 +5,9 @@ categories:
   - dinner
 title: Einfache 30-Minuten extra knusprige Airfryer Kimchi-Pommes
 slug: einfache-30-minuten-extra-knusprige-airfryer-kimchi-pommes
-meta:
-  seoMetaDescription: Verwandle normale Pommes in ein würziges Geschmackserlebnis!
-    Diese 30-Minuten Airfryer Kimchi-Pommes sind ultra-knusprig, pikant und
-    voller Umami.
+date: '2026-08-28'
+updated: '2026-11-06'
+seoDescription: "Extra knusprige Airfryer Kimchi-Pommes in 30 Minuten: würziges Kimchi auf kross gebackenen Kartoffeln, kaum Öl. Minimaler Aufwand, maximaler Geschmack."
 description: Eine geniale Fusion aus knusprigen Pommes Frites, scharf-würzigem
   Kimchi und cremiger Sriracha-Mayo. Die Heißluftfritteuse sorgt für maximale
   Knusprigkeit ganz ohne Frittierfett. Zusammen mit fermentiertem Kimchi,
@@ -49,6 +48,7 @@ use:
   - "Loaded Fries Upgrade: Perfekt als deftiges Feierabendgericht oder Snack für
     den Spieleabend."
   - "Beilage zu Burgern: Eine aufregende Alternative zu gewöhnlichen Pommes."
+  - "Mehr Kimchi: Dazu passt der [würzige gebratene Kimchi-Reis](/de/rezepte/wuerziger-15-minuten-gebratener-kimchi-reis). Weitere Sorten findest du bei unseren [extra knusprigen Airfryer-Pommes](/de/sammlungen/extra-knusprige-airfryer-pommes)."
 variations:
   - "Käse-Überbacken: Vor dem Servieren mit etwas geriebenem Mozzarella oder
     Cheddar im Airfryer für 2 Minuten überbacken."

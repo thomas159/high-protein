@@ -4,8 +4,9 @@ categories:
 - snacks
 title: Quick 5-Minute Ultra-Creamy Low-Calorie Garlic Sauce
 slug: creamy-low-calorie-garlic-sauce
-meta:
-  seoMetaDescription: Need a macro-friendly dip? This quick 5-minute ultra-creamy low-calorie garlic sauce uses Greek yoghurt for a rich punch.
+date: '2026-03-09'
+updated: '2026-11-06'
+seoDescription: Ultra-creamy low-calorie garlic sauce in 5 minutes, made with thick Greek yoghurt instead of oil. Minimal prep, maximum flavour, and a cheeky protein boost.
 description: 'The ultimate macro swap that actually tastes like a proper restaurant tableside treat. By swapping out heavy oil for thick Greek yoghurt, you get a massive protein boost with a fraction of the fat.
 
 
@@ -29,7 +30,7 @@ works:
 - 'The Greek Yoghurt Trick: Thick Greek yoghurt cuts down the calories while keeping that rich, satisfying thickness. It is the ultimate shortcut to heavy-hitting volume without the fat.'
 - 'Garlic Bath: Mincing the garlic and letting it rest in the cool yoghurt-mayo mix softens its raw heat. The fat coats the garlic, taking away that harsh, chemical sting on your tongue and leaving you with pure, savoury flavour. Try to give it ten minutes before serving if you can control yourself.'
 use:
-- 'As a Dip: Elite for sweet potato fries or raw veg.'
+- 'As a Dip: Elite for sweet potato fries or raw veg. It is also the perfect dip for [air fryer rosemary and garlic fries](/recipes/air-fryer-rosemary-and-garlic-fries).'
 - 'As a Spread: Slather it inside a high-protein wrap.'
 - 'As a Dressing: Thin it with a splash of water to dress a salad.'
 variations:

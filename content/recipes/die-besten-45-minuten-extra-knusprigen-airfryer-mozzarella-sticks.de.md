@@ -3,12 +3,11 @@ categories:
   - 15minutemeals
   - airfryer
   - snacks
-title: Die besten 45-Minuten extra knusprigen Airfryer Mozzarella-Sticks
+title: "Extra knusprige 42-Minuten Airfryer Mozzarella-Sticks"
 slug: die-besten-45-minuten-extra-knusprigen-airfryer-mozzarella-sticks
-meta:
-  seoMetaDescription: "Schmelzender Käse und super-krosse Panade: Diese einfachen
-    Airfryer Mozzarella-Sticks sind die ultimative knusprige Snack-Verführung
-    ganz ohne Fettbad."
+date: '2026-08-28'
+updated: '2026-11-06'
+seoDescription: "Mozzarella-Sticks in 42 Minuten, davon 30 im Gefrierfach: doppelte Panade, 16 g Protein und kein Fettbad. Minimaler Aufwand, maximaler Geschmack."
 description: Außen goldbraun und extrem knusprig, innen herrlich zähflüssig
   geschmolzener Käse. Mit einer doppelten Panade aus Semmelbröseln und
   italienischen Kräutern gelingen diese Mozzarella-Sticks in der
@@ -47,6 +46,7 @@ works:
 use:
   - "Party-Fingerfood: Der absolute Liebling auf jedem Buffet."
   - "Snack-Attacke: Wenn der Heißhunger auf herzhaften, geschmolzenen Käse ruft."
+  - "Mehr Käse aus dem Korb: Probier den [knusprigen gebackenen Käse nach tschechischer Art](/de/rezepte/extra-knuspriger-15-minuten-airfryer-gebackener-kaese-nach-tschechischer-art) oder stöber in unseren [schnellsten Airfryer-Snacks](/de/sammlungen/schnellste-knusprigste-airfryer-snacks)."
 variations:
   - "Würzige Panade: Knoblauchpulver, Chiliflocken und geriebenen Parmesan unter
     die Brösel mischen."

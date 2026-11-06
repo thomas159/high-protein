@@ -4,8 +4,9 @@ categories:
 - dinner
 title: Easy 25-Minute Velvety Spinach & Chickpea Coconut Curry
 slug: one-pan-spinach-and-chickpea-coconut-curry
-meta:
-  seoMetaDescription: Want a comforting curry fast? This easy 25-minute velvety spinach & chickpea coconut curry is high-protein vegan fuel.
+date: '2026-03-14'
+updated: '2026-11-06'
+seoDescription: Velvety one-pan spinach and chickpea coconut curry in 25 minutes, with 17g of vegan protein. Minimal prep, maximum flavour, made from basic tinned goods.
 description: 'Looking for a fast, comforting meal after a heavy training block? This brilliantly straightforward one-pan curry is packed with iron from fresh spinach and solid plant-based protein from chickpeas. Toasting your spices in a touch of coconut oil releases a warm, rich aroma that builds into a velvety, satisfying broth.
 
   '
@@ -44,7 +45,7 @@ works:
 use:
 - 'Macro Prep: Batch cook a large pan on Sunday to fuel your week.'
 - 'Warming Dinner: Elite comfort food over basmati rice.'
-- 'Pantry Clear-out: Uses standard tinned goods for a high-protein emergency meal.'
+- 'Pantry Clear-out: Uses standard tinned goods for a high-protein emergency meal. Browse more takeaway swaps in my [macro-friendly fakeaways](/collections/easy-macro-friendly-fakeaways).'
 variations:
 - 'Lentil Swap: Use canned lentils instead of chickpeas.'
 - 'Sweet Potato: Add diced sweet potato for extra heartiness.'

@@ -1,10 +1,11 @@
 ---
 categories:
 - airfryer
-title: Las batatas fritas extra crujientes definitivas para freidora de aire
+title: 'Batatas fritas extra crujientes en freidora de aire'
 slug: las-batatas-fritas-extra-crujientes-definitivas-para-freidora-de-aire
-meta:
-  seoMetaDescription: Prepara unas batatas fritas en la freidora de aire súper crujientes. Un plato vegano y ligero, ideal para acompañar tus platos o comer como picoteo saludable.
+date: '2026-07-15'
+updated: '2026-11-06'
+seoDescription: 'Batatas fritas en freidora de aire, extra crujientes por fuera y tiernas por dentro, en 60 minutos con remojo incluido. Mínima preparación, máximo sabor vegano.'
 description: |
   Disfruta de ese equilibrio perfecto entre lo dulce y lo salado con estas batatas fritas ultra crujientes. Una guarnición abundante, ligera y deliciosa que te da todo el gusto de unas patatas de bolsa pero con apenas grasa, hechas de forma saludable en la freidora de aire.
 
@@ -31,7 +32,7 @@ works:
 use:
 - 'Acompañamiento clásico: la guarnición perfecta para acompañar una buena hamburguesa casera.'
 - 'Snack saciante: una opción súper nutritiva y abundante para calmar el picoteo de las tardes de forma saludable.'
-- 'Batatas cargadas: añádeles unos frijoles negros y un poco de aguacate troceado por encima para montarte un platazo completo.'
+- 'Batatas cargadas: añádeles unos frijoles negros y un poco de aguacate troceado por encima para montarte un platazo completo. Mójalas en [nuestra salsa de ajo ultracremosa](/es/recetas/salsa-rapida-de-ajo-ultracremosa-y-baja-en-calorias-en-5-minutos) o compara con [las mejores patatas fritas extra crujientes en freidora](/es/colecciones/las-mejores-papas-fritas-extra-crujientes-para-freidora).'
 tags:
 - snack
 - vegan

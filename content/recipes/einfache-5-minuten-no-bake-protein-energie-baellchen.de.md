@@ -5,10 +5,9 @@ categories:
   - snacks
 title: Einfache 5-Minuten No-Bake Protein Energie-Bällchen
 slug: einfache-5-minuten-no-bake-protein-energie-baellchen
-meta:
-  seoMetaDescription: Fudgy, saftig und in 5 Minuten fertig! Diese No-Bake Protein
-    Energie-Bällchen mit Haferflocken, Erdnussbutter und Banane sind der ideale
-    Fitness-Snack.
+date: '2026-08-28'
+updated: '2026-11-06'
+seoDescription: "No-Bake Protein Energie-Bällchen in 5 Minuten: kein Ofen, kaum Abwasch und 39 g Protein pro Portion. Minimaler Aufwand, maximaler Geschmack."
 description: "Der schnellste gesunde Snack der Welt: In nur 5 Minuten ohne
   Backen zusammengerührt und geformt! Mit Haferflocken, Banane, Erdnussbutter
   und hochwertigem Proteinpulver. Wunderbar saftig, schokoladig-nussig und
@@ -45,6 +44,7 @@ works:
 use:
   - "Pre-Workout Energiekick: 1-2 Bällchen 30 Minuten vor dem Training."
   - "Büro- & Uni-Snack: Praktisch in der Dose mitzunehmen."
+  - "Mehr Meal-Prep-Snacks: Probier die [saftigen Airfryer Bananen-Haferflocken-Kekse](/de/rezepte/airfryer-bananen-haferflocken-kekse) oder die [Haferflocken-Bananen-Muffins](/de/rezepte/gesunde-25-minuten-haferflocken-bananen-muffins)."
 variations:
   - "Schoko-Drops: Zartbitter-Schokodrops unter den Teig heben."
   - "Mandel-Zimt: Mandelbutter und 1 TL Zimt verwenden."

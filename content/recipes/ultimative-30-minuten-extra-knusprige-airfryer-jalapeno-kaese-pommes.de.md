@@ -2,12 +2,11 @@
 categories:
   - airfryer
   - snacks
-title: Ultimative 30-Minuten extra knusprige Airfryer Jalapeño-Käse-Pommes
+title: "Knusprige 30-Minuten Airfryer Jalapeño-Käse-Pommes"
 slug: ultimative-30-minuten-extra-knusprige-airfryer-jalapeno-kaese-pommes
-meta:
-  seoMetaDescription: Lust auf echten Käse-Genuss? Diese ultimativen knusprigen
-    Airfryer Jalapeño-Käse-Pommes sind in 30 Minuten fertig und bieten maximalen
-    Geschmack.
+date: '2026-08-28'
+updated: '2026-11-06'
+seoDescription: "Extra knusprige Jalapeño-Käse-Pommes aus dem Airfryer in 30 Minuten: scharf, käsig und mit 19 g Protein. Minimaler Aufwand, maximaler Geschmack."
 description: Geschmolzener Cheddar, feurige Jalapeños und ultra-knusprige Pommes
   in Rekordzeit! Wir frittieren die Kartoffelstreifen zuerst im Airfryer, um
   eine stabile, krosse Kruste aufzubauen, die die schmelzende Käseschicht
@@ -37,6 +36,7 @@ use:
     Kohlenhydrate brauchst."
   - "Burger-Begleiter: Perfekt zu einem saftigen High-Protein Veggie-Burger."
   - "Snack-Hunger: Stillt jedes Verlangen nach Salz, Würze und Käse."
+  - "Mehr Käse-Snacks: Probier die [knusprigen 5-Minuten Airfryer-Nachos](/de/rezepte/die-besten-knusprigen-5-minuten-airfryer-nachos). Alle Sorten findest du bei unseren [extra knusprigen Airfryer-Pommes](/de/sammlungen/extra-knusprige-airfryer-pommes)."
 tags:
   - air-fryer
   - snack

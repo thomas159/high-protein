@@ -6,8 +6,9 @@ categories:
 - snacks
 title: Easy 35-Minute Smoky Chipotle Lime Air Fryer Tofu
 slug: chipotle-lime-tofu-marinade
-meta:
-  seoMetaDescription: Mexican night prep? This easy 35-minute smoky chipotle lime air fryer tofu brings zesty high-protein fire to your tacos.
+date: '2026-03-12'
+updated: '2026-11-06'
+seoDescription: Smoky chipotle lime air fryer tofu in 35 minutes, with 24g of vegan protein for your tacos. Minimal prep, maximum flavour and a zesty, charred crust.
 description: 'Give your meal-prep a proper kick of smoke and citrus. The lime juice tenderises the dense outer layers of the tofu block, letting those rich, smoky chipotle spices sink deep inside.
 
 

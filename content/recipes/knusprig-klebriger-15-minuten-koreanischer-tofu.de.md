@@ -4,10 +4,9 @@ categories:
   - dinner
 title: Knusprig-klebriger 15-Minuten Tofu auf koreanische Art
 slug: knusprig-klebriger-15-minuten-koreanischer-tofu
-meta:
-  seoMetaDescription: Lust auf intensive Aromen? Dieser knusprig-klebrige
-    15-Minuten Tofu auf koreanische Art liefert knusprigen Protein-Genuss in
-    Rekordzeit.
+date: '2026-08-28'
+updated: '2026-11-06'
+seoDescription: "Knusprig-klebriger Tofu auf koreanische Art in 15 Minuten: vegan, süß-scharf glasiert und mit 28 g Protein. Minimaler Aufwand, maximaler Geschmack."
 description: Vergiss labbrigen Tofu. Wir schneiden festen Tofu in Würfel,
   umhüllen ihn mit Speisestärke und braten ihn an, bis er goldbraun und extrem
   knusprig ist. Anschließend wird er in einer süß-würzigen Gochujang-Glasur
@@ -51,6 +50,7 @@ use:
     zusammenfügen."
   - "Proteinreiches Fingerfood: Mit Sesam und Frühlingszwiebeln garniert direkt
     snacken."
+  - "Tofu-Vorbereitung: Wie du Tofu blitzschnell fest bekommst, zeigen unsere [Tofu-Zubereitungs-Hacks](/de/sammlungen/die-besten-schnellen-tofu-zubereitung-tipps). Mehr Lieferdienst-Klassiker gibt es bei unseren [makrofreundlichen Fakeaways](/de/sammlungen/einfache-makrofreundliche-fakeaways)."
 variations:
   - "Extra Schärfe: Zusätzliche Chiliflocken (Gochugaru) oder Sriracha
     einrühren."

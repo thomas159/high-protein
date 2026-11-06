@@ -5,10 +5,9 @@ categories:
   - dinner
 title: Würziger 35-Minuten Garam-Masala Airfryer Tofu
 slug: wuerziger-35-minuten-garam-masala-airfryer-tofu
-meta:
-  seoMetaDescription: Indische Gewürzwelt trifft Knusper-Tofu! Dieser 35-Minuten
-    Garam-Masala Airfryer Tofu ist herrlich aromatisch, kross und voller
-    Protein.
+date: '2026-08-28'
+updated: '2026-11-06'
+seoDescription: "Aromatischer Garam-Masala Tofu aus dem Airfryer in 35 Minuten: vegan, kross und mit 24 g Protein. Minimaler Aufwand, maximaler Geschmack."
 description: Eine aromatische indische Marinade mit wärmendem Garam Masala,
   Kurkuma, Ingwer, Knoblauch und Limette. In der Heißluftfritteuse backen die
   Tofuwürfel zu einer wunderbar krossen Außenschicht auf, während das Innere
@@ -46,6 +45,7 @@ works:
 use:
   - "Curry-Einlage: Direkt in cremige Kokos- oder Kichererbsen-Currys geben."
   - "Naan-Wrap: Mit Salat und Minz-Joghurt-Dip in warmes Naan-Brot rollen."
+  - "Indischer Abend: Serviere ihn zum [Spinat-Kichererbsen-Kokos-Curry](/de/rezepte/einfaches-25-minuten-spinat-kichererbsen-kokos-curry). Weitere Marinaden findest du bei unseren [proteinreichen Airfryer Tofu-Marinaden](/de/sammlungen/schnelle-proteinreiche-airfryer-tofu-marinaden)."
 variations:
   - "Extra Mild: Chilipulver weglassen und mildes Paprikapulver verdoppeln."
   - "Tandoori-Style: 1 Prise Koriander und etwas Rote-Bete-Pulver für leuchtende

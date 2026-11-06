@@ -5,8 +5,9 @@ categories:
 - snacks
 title: Easy 15-Minute Fudgy High-Protein Oat Banana Muffins
 slug: healthy-oat-banana-muffins
-meta:
-  seoMetaDescription: Craving a sweet treat fast? These easy 15-minute fudgy high-protein oat banana muffins deliver. Totally macro-balanced!
+date: '2026-03-08'
+updated: '2026-11-06'
+seoDescription: Fudgy high-protein oat banana muffins in 15 minutes, made with oats and Greek yoghurt instead of white flour. Minimal prep, maximum flavour, 25g of protein.
 description: 'A proper sweet treat that actually fits your macros. We have completely binned the heavy refined flour, using finely ground oats and thick Greek yoghurt to deliver clean carbs and a solid protein hit.
 
 
@@ -40,7 +41,7 @@ use:
 - 'Pre-Workout Primer: The perfect fuel to smash your next PB.'
 - 'Grab & Go Breakfast: Enjoy it with your morning coffee for lasting energy.'
 - 'Macro Fuel: A highly efficient balance of carbs and protein post-workout.'
-- 'Evening Treat: Warm it up and serve with a massive dollop of yoghurt.'
+- 'Evening Treat: Warm it up and serve with a massive dollop of yoghurt. Need something smaller? Try my [air fryer banana oat cookies](/recipes/air-fryer-banana-oat-cookies).'
 variations:
 - 'Nutty Crunch: Fold chopped walnuts or pecans into the batter.'
 - 'Berry Burst: Swap cocoa powder for fresh blueberries.'

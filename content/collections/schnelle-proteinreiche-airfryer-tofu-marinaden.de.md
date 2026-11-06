@@ -1,6 +1,9 @@
 ---
 title: "Schnelle proteinreiche Tofu-Marinaden für den Airfryer"
 slug: "schnelle-proteinreiche-airfryer-tofu-marinaden"
+seoDescription: "Schnelle proteinreiche Tofu-Marinaden für den Airfryer: Gochujang, Tikka, Honig-Senf und mehr, kross in 35 Minuten. Minimaler Aufwand, maximaler Geschmack."
+date: '2026-08-28'
+updated: '2026-11-06'
 description: |
   Schluss mit fadem, zähem Tofu. Wenn du auf pflanzlicher Basis Muskeln aufbauen willst, verdient deine Zubereitung die richtige Würze.
 

@@ -2,10 +2,11 @@
 categories:
 - dessert
 - ninjacreami
-title: The Ultimate Ultra-Creamy Rum and Raisin Ninja Creami (Malaga)
+title: The Ultimate Ultra-Creamy Rum & Raisin Ninja Creami
 slug: ninja-creami-rum-and-raisin-ice-cream
-meta:
-  seoMetaDescription: An ultra-creamy, boozy rum and raisin Ninja Creami in freezing cold ice cream form. Minimal prep, classic flavour, and a heavy protein hit.
+date: '2026-05-07'
+updated: '2026-11-06'
+seoDescription: Ultra-creamy rum and raisin Ninja Creami with 66g of protein and just 10 minutes of hands-on prep. Minimal prep, maximum flavour and a classic boozy treat.
 description: 'An ultra-creamy, boozy rum and raisin dessert (also known across Europe as Malaga) in freezing cold ice cream form. Using the Ninja Creami turns this high-protein mix of milk, vanilla whey, dark rum, and plump raisins into a rich, velvety treat. It took a few attempts in our test kitchen to balance the spirit and base, but we got it down to a science so it tastes like a premium pub classic rather than a chalky shaker cup supplement.
 
   '
@@ -35,7 +36,7 @@ works:
 - 'Plump Fruit Secret: Soaking the raisins in dark rum plumps them up and locks the intense boozy flavour deep inside the fruit, releasing a burst of classic sweetness as you eat'
 use:
 - 'Sweet Fuel: Spot-on macros disguised as a premium dessert.'
-- 'Late-Night Fix: Highly satiating to kill evening cravings while enjoying a classic pub-style flavour.'
+- 'Late-Night Fix: Highly satiating to kill evening cravings while enjoying a classic pub-style flavour. More flavours are waiting in my [high-protein Ninja Creami recipes](/collections/high-protein-ninja-creami-recipes).'
 rating: null
 variations:
 - 'Spiced Rum: Swap the dark rum for a heavily spiced rum to add notes of cinnamon, clove, and nutmeg.'
@@ -81,18 +82,20 @@ ingredients:
 - item: Raisins
   amount: 60
   unit: g
-- faq:
+faq:
 - question: Do I have to use Xanthan gum?
   answer: You can achieve great results without it, as the whey protein provides solid structure. However, adding a pinch can also yield excellent results by further enhancing the velvety texture.
 - question: Can I skip soaking the raisins?
   answer: You can, but soaking them in the dark rum is essential for achieving that authentic plump texture and locking in the intense flavour.
+- question: Can I make it alcohol-free?
+  answer: Yes. Soak the raisins in warm black tea or apple juice and add a drop of rum extract to the base. You keep the classic flavour without the booze.
 steps:
 - Place the raisins in a small bowl and pour over a splash of dark rum. Let them soak for about half an hour to plump up.
 - Pour the milk, vanilla whey, sweetener, vanilla extract, and a small splash of dark rum for the base into a blender. Whisk or shake thoroughly until completely smooth with no lumps.
 - Pour the blended mix into your pint, making sure you stay below the max fill line.
 - Slide it onto a flat shelf in your freezer and leave it for a full day. If it freezes at an angle, it can wreck your machine.
 - Lock your frozen pint into the outer bowl and attach the lid.
-- Run the lite ice cream program.
-- If the top looks a bit powdery or crumbly, do not panic. Splash a tablespoon of milk in, pop it back in, and run a re-spin to get that ultra-smooth finish.
+- Run the lite ice cream programme.
+- If the top looks a bit powdery or crumbly, do not panic. Splash a little milk in, pop it back in, and run a re-spin to get that ultra-smooth finish.
 - If you want a bit of texture, poke a hole down the middle, toss in your rum-soaked raisins (draining any excess liquid first), and run the mix-in cycle. Grab a spoon and eat it straight away.
 ---

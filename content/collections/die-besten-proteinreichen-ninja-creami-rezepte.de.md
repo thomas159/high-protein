@@ -1,6 +1,9 @@
 ---
 title: "Die besten proteinreichen Ninja Creami Rezepte"
 slug: "die-besten-proteinreichen-ninja-creami-rezepte"
+seoDescription: "Proteinreiche Ninja Creami Rezepte mit bis zu 62 g Protein pro Becher: cremiges Eis, in 10 Minuten vorbereitet. Minimaler Aufwand, maximaler Geschmack."
+date: '2026-08-28'
+updated: '2026-11-06'
 description: |
   Schluss mit künstlich schmeckenden Protein-Puddings aus dem Supermarkt. Die Ninja Creami ist der ultimative Begleiter, um deine täglichen Proteinziele mit echtem Eisgenuss zu erreichen.
 

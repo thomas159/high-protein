@@ -2,12 +2,11 @@
 categories:
 - 15minutemeals
 - snacks
-title: Bolas energéticas de proteína sin hornear fáciles de 5 minutos
+title: 'Bolas energéticas de proteína sin horno en 5 minutos'
 slug: bolas-energeticas-de-proteina-sin-hornear-faciles-de-5-minutos
-meta:
-  seoMetaDescription: ¿Combustible antes del entrenamiento? Estas sencillas bolitas
-    energéticas proteicas sin hornear de 5 minutos son el mejor refrigerio saludable
-    para preparar comidas.
+date: '2026-07-15'
+updated: '2026-11-06'
+seoDescription: 'Bolas energéticas de proteína sin hornear, listas en 5 minutos y con 39 g de proteína por ración. Mínima preparación, máximo sabor para antes de entrenar.'
 description: 'Alimente su bloque de entrenamiento con estas sencillas bolitas de proteína
   de 5 minutos. Repletas de grasas saludables de la mantequilla de maní y carbohidratos
   de digestión lenta de la avena, atrapan perfectamente la proteína en polvo sin necesidad
@@ -48,8 +47,7 @@ use:
 - 'Pre-entrenamiento: una dosis rápida y limpia de carbohidratos y grasas antes de
   una sesión intensa.'
 - 'Combustible para viajeros diarios: fácil de empacar en tu bolsa de gimnasia.'
-- 'Solución nocturna: una delicia densa y esponjosa para matar los antojos de azúcar
-  nocturnos.'
+- 'Solución nocturna: una delicia densa y esponjosa para matar los antojos de azúcar nocturnos. Si te apetece algo con cuchara, prueba [el bol de queso cottage con frutos rojos](/es/recetas/bol-de-queso-cottage-con-frutos-rojos) o [los muffins proteicos de avena y plátano](/es/recetas/muffins-faciles-de-avena-y-platano-con-alto-contenido-de-proteinas-y-rellenos).'
 rating: null
 variations:
 - 'Chispas de chocolate: Incorpora las chispas de chocolate amargo vegano.'

@@ -1,11 +1,11 @@
 --- 
 categories:
 - snacks
-title: El cremoso Matcha Ninja ultracremoso definitivo
+title: 'Ninja Creami de matcha proteico y ultracremoso en 10 minutos'
 slug: el-cremoso-matcha-ninja-ultracremoso-definitivo
-meta:
-  seoMetaDescription: ¡Más de 70 g de proteína! El matcha Ninja Creami ultracremoso
-    definitivo es un postre terroso y endulzado con miel, apto para macros.
+date: '2026-07-15'
+updated: '2026-11-06'
+seoDescription: 'Helado Ninja Creami de matcha endulzado con miel, ultracremoso y con más de 70 g de proteína en 10 minutos de trabajo. Mínima preparación, máximo sabor.'
 description: Una gran dosis de proteína disfrazada de helado de matcha terroso de
   primera calidad. El uso de una técnica de pasta de matcha garantiza que no haya
   grumos en polvo, mientras que un toque de miel equilibra perfectamente las notas
@@ -48,8 +48,7 @@ use:
 - 'Post-entrenamiento: una gran dosis de proteínas disfrazada de postre de élite.'
 - 'Combustible matutino: la cafeína natural del matcha lo convierte en un excelente
   placer para empezar el día.'
-- 'Solución nocturna: Altamente saciante y totalmente macroamigable para matar los
-  antojos nocturnos.'
+- 'Solución nocturna: Altamente saciante y totalmente macroamigable para matar los antojos nocturnos. Encontrarás más sabores en [las mejores recetas Ninja Creami ricas en proteínas](/es/colecciones/las-mejores-recetas-de-creami-ninja-ricas-en-proteinas).'
 rating: null
 variations:
 - 'Matcha de chocolate blanco: agregue algunas chispas de chocolate blanco sin azúcar

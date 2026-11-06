@@ -1,6 +1,9 @@
 ---
 title: "Die schnellsten & knusprigsten Airfryer-Snacks"
 slug: "schnellste-knusprigste-airfryer-snacks"
+seoDescription: "Die schnellsten und knusprigsten Airfryer-Snacks: Nachos, Mozzarella-Sticks, Kichererbsen und mehr, mit kaum Öl. Minimaler Aufwand, maximaler Geschmack."
+date: '2026-08-28'
+updated: '2026-11-06'
 description: |
   Wenn nach dem Training der Hunger kommt, brauchst du schnelle Lösungen statt stundenlanger Kochprojekte. Der Airfryer ist unschlagbar für unkomplizierte, makrofreundliche Snacks.
 

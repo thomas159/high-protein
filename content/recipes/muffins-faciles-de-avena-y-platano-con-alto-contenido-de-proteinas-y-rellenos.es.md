@@ -2,13 +2,11 @@
 categories:
 - dessert
 - snacks
-title: Muffins fáciles de avena y plátano con alto contenido de proteínas y rellenos
-  de 15 minutos
+title: 'Muffins proteicos de avena y plátano rellenos en 15 minutos'
 slug: muffins-faciles-de-avena-y-platano-con-alto-contenido-de-proteinas-y-rellenos
-meta:
-  seoMetaDescription: ¿Se te antoja un dulce rápido? Estos sencillos muffins de avena
-    y plátano, dulces y ricos en proteínas, de 15 minutos, funcionan. ¡Totalmente
-    macroequilibrado!
+date: '2026-07-15'
+updated: '2026-11-06'
+seoDescription: 'Muffins de avena y plátano rellenos, tiernos y con 25 g de proteína por ración, listos en 15 minutos. Mínima preparación, máximo sabor para un dulce rápido.'
 description: 'Una potencia macroequilibrada que realmente sabe a postre. Con proteínas
   importantes y carbohidratos limpios, hemos desechado la harina refinada por avena
   y yogur griego.
@@ -56,7 +54,7 @@ use:
 - 'Desayuno Grab & Go: disfrútelo con su café de la mañana para obtener energía duradera.'
 - 'Macro Fuel: un equilibrio altamente eficiente de carbohidratos y proteínas después
   del entrenamiento.'
-- 'Delicia nocturna: caliéntalo y sírvelo con una gran cantidad de yogur.'
+- 'Delicia nocturna: caliéntalo y sírvelo con una gran cantidad de yogur. Si no te apetece encender nada, prepara [unas bolas energéticas de proteína sin hornear](/es/recetas/bolas-energeticas-de-proteina-sin-hornear-faciles-de-5-minutos).'
 variations:
 - 'Nutty Crunch: Incorpora nueces o nueces picadas a la masa.'
 - 'Berry Burst: Cambie el cacao en polvo por arándanos frescos.'

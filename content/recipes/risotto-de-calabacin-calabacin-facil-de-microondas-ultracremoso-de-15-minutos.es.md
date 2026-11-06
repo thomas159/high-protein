@@ -2,12 +2,11 @@
 categories:
 - 15minutemeals
 - dinner
-title: Risotto de calabacín (calabacín) fácil de microondas ultracremoso de 15 minutos
+title: 'Risotto cremoso de calabacín al microondas en 15 minutos'
 slug: risotto-de-calabacin-calabacin-facil-de-microondas-ultracremoso-de-15-minutos
-meta:
-  seoMetaDescription: ¿Quieres risotto rápido? Este sencillo risotto de calabacín
-    (calabacín) ultracremoso para microondas que dura 15 minutos es la mejor comida
-    de recuperación rica en carbohidratos.
+date: '2026-07-15'
+updated: '2026-11-06'
+seoDescription: 'Risotto de calabacín ultracremoso hecho en el microondas en 15 minutos, sin remover sin parar. Mínima preparación, máximo sabor y 16 g de proteína por ración.'
 description: 'Un risotto italiano adecuado generalmente requiere revolver durante
   40 minutos sobre una estufa caliente. Elegimos intencionalmente este truco para
   el microondas porque ahorrar tiempo y realizar macros es nuestra máxima prioridad
@@ -53,7 +52,7 @@ works:
 use:
 - 'Rapid Carb Refeed: una comida pesada y reconfortante sin cocción activa.'
 - 'Almuerzo macro: Cocínelo por lotes y póngalo nuclear al día siguiente.'
-- 'Plato principal vegetariano: un plato pesado que no necesita carne.'
+- 'Plato principal vegetariano: un plato pesado que no necesita carne. Para otra cena italiana igual de rápida, prueba [la pasta cremosa de tomate cherry y feta](/es/recetas/pasta-facil-de-tomate-cherry-y-queso-feta-ultracremosa-de-15-minutos).'
 variations:
 - 'Bondad verde: agregue espinacas o guisantes frescos.'
 - 'Mejora con queso: mezcle una cucharada de mascarpone si tiene calorías de sobra.'

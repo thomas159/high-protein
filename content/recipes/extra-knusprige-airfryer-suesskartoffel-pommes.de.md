@@ -5,10 +5,9 @@ categories:
   - side-dish
 title: Extra knusprige Airfryer Süßkartoffel-Pommes
 slug: extra-knusprige-airfryer-suesskartoffel-pommes
-meta:
-  seoMetaDescription: Schluss mit labbrigen Süßkartoffel-Pommes! Diese dick
-    geschnittenen Airfryer Süßkartoffel-Pommes werden außen super kross und
-    innen zart.
+date: '2026-08-28'
+updated: '2026-11-06'
+seoDescription: "Extra knusprige Süßkartoffel-Pommes aus dem Airfryer in 28 Minuten: vegan, glutenfrei und mit kaum Öl. Minimaler Aufwand, maximaler Geschmack."
 description: Jeder liebt Süßkartoffel-Pommes, aber im Ofen werden sie oft weich.
   In der Heißluftfritteuse mit unserem bewährten Speisestärke-Trick gelingen die
   Pommes außen spektakulär knusprig und innen herrlich saftig-süß.
@@ -47,6 +46,7 @@ works:
 use:
   - "Burger-Beilage: Der ultimative Partner für Burger aller Art."
   - "Snack mit Dips: Perfekt zu Aioli, Guacamole oder scharfer Mayo."
+  - "Mehr Pommes: Klassisch werden die [Rosmarin-Knoblauch-Pommes](/de/rezepte/einfache-30-minuten-extra-knusprige-airfryer-rosmarin-knoblauch-pommes). Alle Sorten findest du bei unseren [extra knusprigen Airfryer-Pommes](/de/sammlungen/extra-knusprige-airfryer-pommes)."
 variations:
   - "Smoky Paprika: Mit geräuchertem Paprikapulver und Knoblauch würzen."
   - "Süß-Zimtig: Mit einer Prise Zimt und Meersalz bestreuen."

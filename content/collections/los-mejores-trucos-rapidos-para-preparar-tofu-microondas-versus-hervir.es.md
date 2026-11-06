@@ -1,6 +1,9 @@
 ---
-title: 'Los mejores trucos rápidos para preparar tofu: microondas versus hervir'
+title: 'Trucos rápidos para preparar tofu: microondas o hervido'
 slug: los-mejores-trucos-rapidos-para-preparar-tofu-microondas-versus-hervir
+seoDescription: 'Trucos rápidos para preparar tofu firme sin prensarlo durante horas: microondas, hervido o crudo. Mínima preparación, máximo sabor y más proteína en tu plato.'
+date: '2026-07-15'
+updated: '2026-11-06'
 description: "El código de trucos definitivo para transformar el tofu suave y frágil\
   \ en una potencia estructural que absorbe sabores. Olvídese de los tediosos y tradicionales\
   \ métodos de prensado que llevan horas. \n\nDesglosamos tres métodos rápidos (cocinar\

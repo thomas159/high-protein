@@ -3,11 +3,11 @@ categories:
 - 15minutemeals
 - airfryer
 - snacks
-title: Extra Crispy 25-Minute Air Fryer Garlic Parmesan Carrot Fries
+title: Extra Crispy 25-Minute Air Fryer Parmesan Carrot Fries
 slug: air-fryer-garlic-and-parmesan-carrot-fries
-meta:
-  seoMetaDescription: Craving savory crunch? These extra crispy 25-minute air fryer
-    garlic parmesan carrot fries hit the spot. Totally macro-friendly.
+date: '2026-03-17'
+updated: '2026-11-06'
+seoDescription: Extra crispy garlic parmesan carrot fries in 25 minutes in the air fryer. Minimal prep, maximum flavour and a savoury, low-calorie swap for regular chips.
 description: 'A brilliant low-calorie swap for standard chips. The circulating heat
   of the air fryer roasts the carrots and crisps up the parmesan to deliver extra
   crispy 25-minute fries. A fantastic side dish to bulk up the volume of your meal
@@ -42,7 +42,7 @@ works:
   fraction of the oil.'
 use:
 - 'Volume Eating: An elite, low-calorie alternative to smash your chip cravings.'
-- 'Superset Side: Perfect alongside a heavy protein main.'
+- 'Superset Side: Perfect alongside a heavy protein main. More crunchy sides are waiting in my [extra crispy air fryer fries](/collections/extra-crispy-air-fryer-fries) collection.'
 variations:
 - 'Spicy Kick: Dust it with cayenne pepper.'
 - 'Vegan Option: Swap the parmesan for nutritional yeast.'

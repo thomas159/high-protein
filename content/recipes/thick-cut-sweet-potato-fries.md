@@ -4,9 +4,9 @@ categories:
 - snacks
 title: The Ultimate Extra Crispy Air Fryer Sweet Potato Fries
 slug: thick-cut-sweet-potato-fries
-meta:
-  seoMetaDescription: Want the perfect side dish? These ultimate extra crispy air
-    fryer sweet potato fries are a macro-friendly 60-minute vegan snack.
+date: '2026-03-11'
+updated: '2026-11-06'
+seoDescription: Extra crispy thick-cut air fryer sweet potato fries in 60 minutes, soak time included. Minimal prep, maximum flavour and a macro-friendly vegan side.
 description: 'Hit your craving for that perfect combination of sweet and savoury with
   the ultimate extra crispy sweet potato fries. **A high-volume side dish delivering a massive
   hit of solid carbs and clean energy**, they offer a deeply satisfying crunch with
@@ -46,7 +46,7 @@ works:
 use:
 - 'Burger Sidekick: The elite pairing for a heavy, high-protein plant-based burger.'
 - 'Volume Snack: A massive, nutrient-dense serving when the mid-afternoon crispy cravings hit.'
-- 'Loaded Fries Base: Pile them high with black beans, avocado, and a dollop of vegan sour cream.'
+- 'Loaded Fries Base: Pile them high with black beans, avocado, and a dollop of vegan sour cream. More crunchy sides live in my [extra crispy air fryer fries](/collections/extra-crispy-air-fryer-fries) collection.'
 tags:
 - snack
 - vegan

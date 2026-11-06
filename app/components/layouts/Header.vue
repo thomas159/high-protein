@@ -1,5 +1,8 @@
 <script setup>
 import { RECIPE_CATEGORIES } from '~/utils/constants'
+
+// Vegan and High Protein are linked from the mobile menu, footer and homepage grid; keeping them out of the desktop row stops it overflowing
+const desktopNavCategories = RECIPE_CATEGORIES.filter((c) => c.key !== 'vegan' && c.key !== 'highprotein')
 const colorMode = useColorMode()
 const isMenuOpen = ref(false)
 
@@ -72,7 +75,7 @@ const toggleTheme = () => {
       <div class="flex items-center gap-4">
         <div class="hidden md:flex items-center gap-6 text-sm font-medium text-muted-foreground">
           <NuxtLink 
-            v-for="cat in RECIPE_CATEGORIES" 
+            v-for="cat in desktopNavCategories" 
             :key="cat.key"
             :to="localePath({ name: 'categories-slug', params: { slug: $t(`categorySlugs.${cat.key}`) } })" 
             class="flex items-center gap-1.5 hover:text-foreground transition-all pb-1 border-b-2 border-transparent hover:border-border"

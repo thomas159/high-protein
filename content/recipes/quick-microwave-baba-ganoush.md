@@ -3,8 +3,9 @@ categories:
 - 15minutemeals
 title: Quick 15-Minute Ultra-Creamy Microwave Baba Ganoush
 slug: quick-microwave-baba-ganoush
-meta:
-  seoMetaDescription: Craving rich Middle Eastern dip fast? This quick 15-minute ultra-creamy microwave baba ganoush is the ultimate shortcut snack.
+date: '2026-03-12'
+updated: '2026-11-06'
+seoDescription: Ultra-creamy microwave baba ganoush in 15 minutes, no oven required. Minimal prep, maximum flavour, and a smoky Middle Eastern dip for high-volume snacking.
 description: 'If you want a rich Middle Eastern mezze but do not want to wait three-quarters of an hour for the oven to heat up, this is your solution. Microwaving the aubergine (eggplant) steams the flesh from the inside out in just a few minutes. It took a few tries in our kitchen to balance the lemon juice and tahini, but we have nailed a velvety, smoke-infused dip that rivals the classic open-flame roast with none of the faff.
 
   '
@@ -35,7 +36,7 @@ works:
 use:
 - 'Mezze Star: The perfect, direct-to-table centrepiece for an easy weekend spread.'
 - 'Creamy Spread: An excellent low-calorie alternative to mayonnaise in your weekday wraps.'
-- 'High-Volume Dipping: Perfect for pairing with crisp carrot and cucumber sticks when you want a substantial snack.'
+- 'High-Volume Dipping: Perfect for pairing with crisp carrot and cucumber sticks when you want a substantial snack. For extra crunch, scoop it up with my [microwave potato crisps](/recipes/microwave-crisps).'
 servingSuggestions: This is a real champion of a mezze table. Swirl it into a shallow bowl, drizzle with high-quality olive oil, and serve with warm flatbread and crisp, fresh veg.
 variations:
 - 'Fresh Hit: Fold in chopped parsley or mint.'

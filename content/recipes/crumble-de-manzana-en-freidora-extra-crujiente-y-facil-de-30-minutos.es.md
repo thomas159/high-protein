@@ -2,11 +2,11 @@
 categories:
 - airfryer
 - dessert
-title: Crumble de manzana en freidora extra crujiente y fácil de 30 minutos
+title: 'Crumble de manzana extra crujiente en freidora en 30 minutos'
 slug: crumble-de-manzana-en-freidora-extra-crujiente-y-facil-de-30-minutos
-meta:
-  seoMetaDescription: ¡Postre para desarrollar músculos! Este sencillo crumble de
-    manzana para freidora extra crujiente de 30 minutos brinda una satisfacción macro-amigable.
+date: '2026-07-15'
+updated: '2026-11-06'
+seoDescription: 'Crumble de manzana en freidora de aire con cobertura extra crujiente y 16 g de proteína, listo en 30 minutos. Mínima preparación, máximo sabor de postre.'
 description: Un postre post-entrenamiento que no arruina tu dieta. Las manzanas al
   vapor se colocan debajo de una sencilla cobertura de avena extra crujiente de 30
   minutos horneada directamente en un molde en la freidora, sin limpieza complicada,
@@ -46,7 +46,7 @@ use:
   el déficit.'
 - 'Sweet Fuel: combínelo con yogur griego para un comienzo matutino masivo y rico
   en fibra.'
-- 'Post-entrenamiento: una dosis sólida de carbohidratos y proteínas.'
+- 'Post-entrenamiento: una dosis sólida de carbohidratos y proteínas. ¿Más postres en la freidora? Prueba [la tarta de queso proteica en freidora de aire](/es/recetas/tarta-de-queso-proteica-facil-y-aterciopelada-con-freidora-de-aire-de-25-minutos).'
 rating: null
 variations:
 - 'Mezcla de bayas: Cambie la mitad de las manzanas por bayas mixtas.'

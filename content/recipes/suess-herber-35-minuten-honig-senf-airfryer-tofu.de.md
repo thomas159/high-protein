@@ -6,10 +6,9 @@ categories:
   - snacks
 title: Süß-würziger 35-Minuten Honig-Airfryer Tofu
 slug: suess-herber-35-minuten-honig-senf-airfryer-tofu
-meta:
-  seoMetaDescription: "Karamellisiert, kross und voller Geschmack: Dieser
-    35-Minuten marinierte Honig-Tofu aus dem Airfryer ist die perfekte
-    süß-würzige Proteinquelle."
+date: '2026-08-28'
+updated: '2026-11-06'
+seoDescription: "Süß-würziger Honig-Senf-Tofu aus dem Airfryer in 35 Minuten: karamellisiert, kross und mit 24 g Protein. Minimaler Aufwand, maximaler Geschmack."
 description: Verwandle schlichten Naturtofu in ein goldbraun glasiertes
   Highlight! Süßer Honig, würzige Sojasauce, Knoblauch und Zitrone bilden eine
   klebrige, herrlich karamellisierte Glasur, die sich in der Heißluftfritteuse
@@ -47,6 +46,7 @@ works:
 use:
   - "Bowl-Topping: Über Jasminreis, Edamame und eingelegtem Ingwer anrichten."
   - "Salat-Crunch: Warm auf knackigen Blattsalaten servieren."
+  - "Mehr Tofu: Weitere Marinaden findest du bei unseren [proteinreichen Airfryer Tofu-Marinaden](/de/sammlungen/schnelle-proteinreiche-airfryer-tofu-marinaden). Wie du Tofu schnell vorbereitest, zeigen unsere [Tofu-Zubereitungs-Hacks](/de/sammlungen/die-besten-schnellen-tofu-zubereitung-tipps)."
 variations:
   - "Chili-Honig: Mit Sriracha oder getrockneten Chiliflocken für süß-scharfe
     Schärfe anreichern."

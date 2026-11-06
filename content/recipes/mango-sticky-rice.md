@@ -3,8 +3,9 @@ categories:
 - dessert
 title: The Ultimate Velvety Thai Mango Sticky Rice
 slug: mango-sticky-rice
-meta:
-  seoMetaDescription: Clean carb refeed? The ultimate velvety Thai mango sticky rice is an authentic, macro-friendly 15-minute vegan dessert.
+date: '2026-03-09'
+updated: '2026-11-06'
+seoDescription: Velvety Thai mango sticky rice in 15 minutes, with sweet mango and coconut rice. Minimal prep, maximum flavour, and a clean-carb vegan dessert for refeeds.
 description: 'This is the ultimate clean-carb refeed when you want to load up on energy. Beautifully sweet mango sits alongside velvety coconut-infused rice. It took me a few attempts to dial in the perfect balance, but adding a sharp pinch of salt to the coconut sauce is the key to keeping it from becoming cloying.'
 blurb: []
 image: mango-sticky-rice_vzh6ec
@@ -36,14 +37,14 @@ use:
 - 'Pre-Workout Primer: The perfect fuel to smash your next PB.'
 - 'Tropical Finisher: A stunning finale to an Asian-inspired prep.'
 - 'Heavy Refeed: A massive, clean-carb treat for heavy training days.'
-- 'Morning Fuel: Enjoy the leftover sticky rice with fresh fruit for breakfast.'
+- 'Morning Fuel: Enjoy the leftover sticky rice with fresh fruit for breakfast. Serve it with a scoop of [coconut Ninja Creami](/recipes/ninja-creami-coconut-ice-cream) for a protein top-up.'
 rating: null
 variations:
 - 'Pandan Infusion: Boil the coconut milk with a pandan leaf for authentic aromatics.'
 - 'Visuals: Use butterfly pea extract to dye the rice.'
 reviews: null
 servingSuggestions: Serve slightly warm so the coconut glaze pools around the fresh mango. Top with toasted sesame seeds for a crucial crunch.
-storageInstructions: Eat it fresh. Fridge leftovers survive 2 days but turn rock hard, microwave with a damp paper towel to resurrect them. Do not freeze.
+storageInstructions: Eat it fresh. Fridge leftovers survive 2 days but turn rock hard, microwave with a sheet of damp kitchen paper to resurrect them. Do not freeze.
 prepTimeMins: 5
 cookTimeMins: 10
 servings: 1

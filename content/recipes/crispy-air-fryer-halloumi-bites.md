@@ -5,8 +5,9 @@ categories:
 - snacks
 title: The Ultimate Crispy 10-Minute Air Fryer Halloumi Bites
 slug: crispy-air-fryer-halloumi-bites
-meta:
-  seoMetaDescription: Craving a salty, savoury crunch fast? These ultimate crispy 10-minute air fryer halloumi bites deliver maximum flavour with minimal prep for just 95 kcal.
+date: '2026-09-08'
+updated: '2026-11-06'
+seoDescription: Craving a salty, savoury crunch fast? These ultimate crispy 10-minute air fryer halloumi bites deliver maximum flavour with minimal prep for just 95 kcal.
 description: 'Crispy on the outside, warm and squeaky on the inside, and blistered to perfection in ten minutes flat. Ditching the frying pan for the air fryer gives you an incredible golden crust using the cheese''s natural fats—zero extra oil required. Drizzled with warm runny honey, crushed chilli flakes, and fresh thyme, this quick bite delivers a high-contrast salty-sweet hit while keeping your macros well in check.'
 blurb: []
 image: crispy-air-fryer-halloumi-bites_wfu9mt
@@ -42,7 +43,7 @@ works:
 use:
 - 'Instant Refeed Snack: A rapid 95-calorie bite packing 7g protein that crushes midday cravings without wrecking your daily targets.'
 - 'Tapas Starter: Serve on a sharing platter with cocktail sticks, warm pitta, and hummus for an effortless starter that looks straight out of a restaurant.'
-- 'High-Protein Salad Topper: Toss hot, golden cubes straight over rocket (arugula) and cherry tomatoes for an immediate crunch upgrade.'
+- 'High-Protein Salad Topper: Toss hot, golden cubes straight over rocket (arugula) and cherry tomatoes for an immediate crunch upgrade. They also work brilliantly piled onto my [fluffy Moroccan couscous](/recipes/quick-moroccan-couscous).'
 whyTitle: Why You Will Love It
 why:
 - 'Instant Craving Crusher: The balance of salt, dairy fat, warmth, and sweetness hits every pleasure centre in your brain so even a modest snack feels indulgent.'

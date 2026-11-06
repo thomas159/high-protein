@@ -1,6 +1,9 @@
 ---
-title: Las mejores recetas de creami ninja ricas en proteínas
+title: 'Las mejores recetas Ninja Creami ricas en proteínas'
 slug: las-mejores-recetas-de-creami-ninja-ricas-en-proteinas
+seoDescription: 'Helados Ninja Creami ultracremosos con más de 45 g de proteína por tarrina: chocolate, coco, matcha y más. Mínima preparación, máximo sabor para tus macros.'
+date: '2026-07-15'
+updated: '2026-11-06'
 description: "Deja de desperdiciar tus macros en tarrinas genéricas de supermercado\
   \ y de sufrir con pudines de proteínas en polvo. Ninja Creami es el código de trucos\
   \ definitivo para alcanzar tus objetivos diarios sin sentirte miserable. \n\nAquí\

@@ -3,10 +3,11 @@ categories:
 - 15minutemeals
 - airfryer
 - snacks
-title: The Ultimate Easy 20-Minute Extra Crispy Air Fryer Spiced Chickpeas
+title: Easy 20-Minute Extra Crispy Air Fryer Spiced Chickpeas
 slug: air-fryer-crispy-spiced-chickpeas
-meta:
-  seoMetaDescription: Craving a salty crunch without the calories? These ultimate 20-minute extra crispy air fryer spiced chickpeas deliver minimal prep, maximum flavour, and a smoky shatter-crunch for under 80 kcal.
+date: '2026-09-08'
+updated: '2026-11-06'
+seoDescription: Extra crispy spiced chickpeas in 20 minutes in the air fryer, under 80 kcal a portion. Minimal prep, maximum flavour, and a smoky crunch packed with fibre.
 description: 'The ultimate cure for mindless grazing. Draining and bone-drying canned chickpeas before roasting them at 200°C creates an ultra-crispy, shatter-crunch texture that outclasses any packet snack. Tossed in smoked paprika, cumin, and garlic salt, this high-fibre, plant-protein powerhouse is ready in twenty minutes flat and clocks in at just 77 calories per serving.'
 blurb: []
 image: air-fryer-crispy-spiced-chickpeas_fwkzlo
@@ -43,7 +44,7 @@ works:
 use:
 - 'Mindless Grazing Cure: The ultimate hand-to-mouth savoury finger food for movie nights and watching matches.'
 - 'Crunchy Salad & Soup Topper: Swap out high-calorie fried croutons for these crispy spiced chickpeas to add crunch and plant protein to any bowl.'
-- 'Desk-Side Fuel: Pack in a small tub for work to beat the afternoon slump with sustained complex carbs and fibre.'
+- 'Desk-Side Fuel: Pack in a small tub for work to beat the afternoon slump with sustained complex carbs and fibre. Find more crunchy ideas in my [crispiest air fryer snacks](/collections/quickest-crispiest-air-fryer-snacks).'
 whyTitle: Why You Will Love It
 why:
 - 'Tackles Mindless Grazing: The perfect hand-to-mouth savoury bite that satisfies salty crisp (chip) cravings without packing on empty calories.'

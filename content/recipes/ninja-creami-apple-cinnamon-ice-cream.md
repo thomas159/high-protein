@@ -4,8 +4,9 @@ categories:
 - ninjacreami
 title: The Ultimate Ultra-Creamy Apple Cinnamon Ninja Creami
 slug: ninja-creami-apple-cinnamon-ice-cream
-meta:
-  seoMetaDescription: Mega protein hit! The ultimate ultra-creamy apple cinnamon Ninja Creami is a delicious macro-friendly dessert.
+date: '2026-04-14'
+updated: '2026-11-06'
+seoDescription: Ultra-creamy apple cinnamon Ninja Creami with 56g of protein and 15 minutes of hands-on prep. Minimal prep, maximum flavour, like apple pie in ice cream form.
 description: 'A massive protein hit disguised as a spiced apple pie dessert in freezing cold ice cream form. Using the Ninja Creami turns this mix of vanilla whey, sweet apple, and cinnamon into the ultimate velvety dream. It is the absolute cheat code for hitting your fitness targets. It took me a few attempts to balance the warming cinnamon so it resembles a proper British dessert rather than a scented candle.'
 image: ninja-creami-apple-cinnamon-ice-cream_prnjdx
 alt: Apple cinnamon protein ice cream in a Ninja Creami pint
@@ -34,7 +35,7 @@ use:
 - 'Pre-Workout Primer: The perfect fuel to smash your next PB.'
 - 'Sweet Fuel: Solid macros disguised as a premium dessert.'
 - 'Late-Night Fix: Highly satiating to kill evening cravings.'
-- 'Autumn Fuel: The ultimate way to get those warming, spiced flavours while hitting your macros.'
+- 'Autumn Fuel: The ultimate way to get those warming, spiced flavours while hitting your macros. More flavours are waiting in my [high-protein Ninja Creami recipes](/collections/high-protein-ninja-creami-recipes).'
 rating: null
 variations:
 - 'Caramel Swirl: Core the centre after spinning and drop in a dollop of sugar-free caramel syrup.'
@@ -94,5 +95,5 @@ steps:
 - Lock the frozen pint into the Creami outer bowl.
 - Hit the 'Lite Ice Cream' button and let it run.
 - If it looks powdery (standard for macro ice creams), add a splash of milk and hit 'Re-spin' to force the creamy texture.
-- Hollow out the centre, drop in some crushed biscuits or extra diced apple, and run the 'Mix-In' program. Demolish immediately.
+- Hollow out the centre, drop in some crushed biscuits or extra diced apple, and run the 'Mix-In' programme. Demolish immediately.
 ---

@@ -83,9 +83,6 @@ const deCategorySlugs = CATEGORY_SLUGS.de
 
 function resolveCategoryKey(slug: string): string {
   const s = slug.toLowerCase().trim()
-  if (s === 'high-protein' || s === 'vegan' || s === 'all-recipes' || s === 'todas-las-recetas') {
-    return 'allrecipes'
-  }
   for (const [key, val] of Object.entries(esCategorySlugs)) {
     if (val === s) return key
   }
@@ -104,7 +101,7 @@ function getCanonicalCategoryUrl(targetLang: 'en' | 'es' | 'de', categoryKey: st
     return `/es/categorias/${slug}`
   }
   if (targetLang === 'de') {
-    const slug = deCategorySlugs[categoryKey] || 'all-recipes'
+    const slug = deCategorySlugs[categoryKey] || deCategorySlugs.allrecipes
     return `/de/kategorien/${slug}`
   }
   const slug = enCategorySlugs[categoryKey] || 'all-recipes'
@@ -179,9 +176,6 @@ export default defineEventHandler(async (event) => {
   const needsCheck =
     /^\/(es|de)\/(recipes|categories|collections)(\/.*)?$/.test(cleanPath) ||
     /^\/(recetas|rezepte|categorias|kategorien|colecciones|sammlungen)(\/.*)?$/.test(cleanPath) ||
-    /^\/categories\/(high-protein|vegan)(\/.*)?$/.test(cleanPath) ||
-    /^\/(es|de)\/categorias\/(high-protein|vegan)(\/.*)?$/.test(cleanPath) ||
-    /^\/(es|de)\/kategorien\/(high-protein|vegan)(\/.*)?$/.test(cleanPath) ||
     /^\/(high-protein|vegan)$/.test(cleanPath) ||
     /^\/(es|de)\/(high-protein|vegan)$/.test(cleanPath) ||
     /^\/(es|de)\/(recetas|rezepte|categorias|kategorien|colecciones|sammlungen)\/.+$/.test(cleanPath) ||
@@ -216,12 +210,12 @@ export default defineEventHandler(async (event) => {
 
   // 2. German legacy prefixes: /de/recipes, /de/categories, /de/collections
   else if (cleanPath === '/de/recipes') {
-    targetUrl = '/de/kategorien/all-recipes'
+    targetUrl = `/de/kategorien/${deCategorySlugs.allrecipes}`
   } else if (cleanPath.startsWith('/de/recipes/')) {
     const slug = cleanPath.slice('/de/recipes/'.length)
     targetUrl = resolveRecipeTarget('de', slug)
   } else if (cleanPath === '/de/categories') {
-    targetUrl = '/de/kategorien/all-recipes'
+    targetUrl = `/de/kategorien/${deCategorySlugs.allrecipes}`
   } else if (cleanPath.startsWith('/de/categories/')) {
     const slug = cleanPath.slice('/de/categories/'.length)
     targetUrl = getCanonicalCategoryUrl('de', resolveCategoryKey(slug))
@@ -252,12 +246,12 @@ export default defineEventHandler(async (event) => {
 
   // 4. Unprefixed German routes (/rezepte, /kategorien, /sammlungen)
   else if (cleanPath === '/rezepte') {
-    targetUrl = '/de/kategorien/all-recipes'
+    targetUrl = `/de/kategorien/${deCategorySlugs.allrecipes}`
   } else if (cleanPath.startsWith('/rezepte/')) {
     const slug = cleanPath.slice('/rezepte/'.length)
     targetUrl = resolveRecipeTarget('de', slug)
   } else if (cleanPath === '/kategorien') {
-    targetUrl = '/de/kategorien/all-recipes'
+    targetUrl = `/de/kategorien/${deCategorySlugs.allrecipes}`
   } else if (cleanPath.startsWith('/kategorien/')) {
     const slug = cleanPath.slice('/kategorien/'.length)
     targetUrl = getCanonicalCategoryUrl('de', resolveCategoryKey(slug))
@@ -268,13 +262,10 @@ export default defineEventHandler(async (event) => {
     targetUrl = resolveCollectionTarget('de', slug)
   }
 
-  // 5. Deprecated / top-level aliases: high-protein & vegan
-  else if (cleanPath === '/high-protein' || cleanPath === '/vegan' || cleanPath === '/categories/high-protein' || cleanPath === '/categories/vegan') {
-    targetUrl = '/categories/all-recipes'
-  } else if (cleanPath === '/es/high-protein' || cleanPath === '/es/vegan' || cleanPath === '/es/categorias/high-protein' || cleanPath === '/es/categorias/vegan') {
-    targetUrl = '/es/categorias/todas-las-recetas'
-  } else if (cleanPath === '/de/high-protein' || cleanPath === '/de/vegan' || cleanPath === '/de/kategorien/high-protein' || cleanPath === '/de/kategorien/vegan') {
-    targetUrl = '/de/kategorien/all-recipes'
+  // 5. Top-level aliases: /high-protein & /vegan now point at their real category pages
+  else if (/^\/(es\/|de\/)?(high-protein|vegan)$/.test(cleanPath)) {
+    const lang: 'en' | 'es' | 'de' = cleanPath.startsWith('/es/') ? 'es' : cleanPath.startsWith('/de/') ? 'de' : 'en'
+    targetUrl = getCanonicalCategoryUrl(lang, cleanPath.endsWith('vegan') ? 'vegan' : 'highprotein')
   }
 
   // 6. Cross-language slugs under valid prefixes:

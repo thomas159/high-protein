@@ -4,10 +4,9 @@ categories:
   - dinner
 title: Schnelle & einfache verfeinerte 5-Minuten Instant-Nudeln
 slug: schnelle-und-einfache-5-minuten-instant-nudeln
-meta:
-  seoMetaDescription: Pimpe deine Nudeln in 5 Minuten! Diese einfachen
-    verfeinerten Instant-Nudeln mit Sojasauce, Sesamöl und Knoblauch machen aus
-    Standard-Ramen ein Gourmet-Erlebnis.
+date: '2026-08-28'
+updated: '2026-11-06'
+seoDescription: "Verfeinerte Instant-Nudeln in 5 Minuten: mehr Protein, mehr Gemüse, mehr Geschmack als aus der Packung. Minimaler Aufwand, maximaler Geschmack."
 description: Einfache Instant-Nudeln müssen nicht langweilig schmecken. Mit
   diesem genialen 5-Minuten-Upgrade verwandeln wir einfache Nudeln mit
   Sojasauce, Sesamöl, Knoblauch, etwas Chili und Frühlingszwiebeln in ein
@@ -46,6 +45,7 @@ use:
   - "Schneller Carb-Boost: Die perfekte Mahlzeit, wenn es schnell gehen muss."
   - "Late-Night Snack: In 5 Minuten fertig mit Zutaten, die man immer zu Hause
     hat."
+  - "Mehr Nudel-Hacks: Alle Varianten findest du bei unseren [5-Minuten-Nudel-Hacks](/de/sammlungen/die-besten-5-minuten-nudel-hacks). Für Reis-Fans gibt es den [würzigen gebratenen Kimchi-Reis](/de/rezepte/wuerziger-15-minuten-gebratener-kimchi-reis)."
 variations:
   - "Protein-Upgrade: Ein pochiertes Ei, gebratenen Tofu oder Edamame dazugeben."
   - "Grünes Extra: Baby-Spinat oder Pak Choi direkt im heißen Nudelwasser für 30

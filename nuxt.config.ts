@@ -71,10 +71,16 @@ export default defineNuxtConfig({
     ]
   },
   schemaOrg: {
+    // Hot Recipes is a personal site, so the publisher/author identity is a Person (consistent with recipe author schema)
     identity: {
-      type: 'Organization',
-      name: 'Hot Recipes',
-      logo: '/logo.svg'
+      type: 'Person',
+      name: 'Tom Harrison',
+      url: 'https://www.hotrecipes.co.uk/about',
+      description: 'Software developer, avid gym goer and vegetarian home cook.',
+      image: 'https://www.hotrecipes.co.uk/images/tom-gym.avif',
+      sameAs: [
+        'https://www.pinterest.com/hotRecipesUk'
+      ]
     }
   },
   robots: {
@@ -119,11 +125,16 @@ export default defineNuxtConfig({
     domains: ['high-protein.vercel.app'],
     provider: 'cloudinary',
     cloudinary: {
-      baseURL: 'https://res.cloudinary.com/mealse-co-uk/image/upload/f_auto,q_auto/',
+      baseURL: 'https://res.cloudinary.com/mealse-co-uk/image/upload/',
+      // f_auto/q_auto are applied by the provider (see image.cloudinary.modifiers) so they combine with resize ops
       // modifiers: {
       //   effect: 'sharpen:100',
       //   quality: 'auto:best'
       // }
+      modifiers: {
+        format: 'auto',
+        quality: 'auto',
+      },
     },
     // dir: 'public/images',
     // quality: 80,

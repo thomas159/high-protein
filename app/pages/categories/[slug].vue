@@ -3,7 +3,7 @@ import { ref, computed, watch } from "vue";
 import { useRoute, useRouter } from "vue-router";
 import { useSetI18nParams } from "#imports";
 import Button from "@/components/common/Button.vue";
-import { RECIPE_CATEGORIES, CATEGORY_SLUGS } from "@/utils/constants";
+import { RECIPE_CATEGORIES, CATEGORY_SLUGS, matchesCategory } from "@/utils/constants";
 
 const route = useRoute();
 const { t, te, locale } = useI18n();
@@ -44,9 +44,6 @@ const deSlugs = CATEGORY_SLUGS.de;
 
 const resolveKey = computed(() => {
   const currentSlug = categorySlug.value;
-  if (currentSlug === 'high-protein' || currentSlug === 'vegan') {
-    return 'allrecipes';
-  }
   const findKey = (slugs: Record<string, any>) =>
     Object.keys(slugs).find((k) => getStaticValue(slugs[k]) === currentSlug);
 
@@ -60,7 +57,7 @@ const resolveKey = computed(() => {
 });
 
 // Canonical redirect: If a user accesses an English or alternative slug under another locale (e.g. /es/categorias/all-recipes or /es/categorias/dinner),
-// or a legacy/unrecognized slug like high-protein or vegan,
+// or a legacy slug (e.g. the old English German slugs like /de/kategorien/dinner),
 // 301 redirect to the current locale's canonical translated slug (e.g. /es/categorias/todas-las-recetas or /es/categorias/cena).
 const canonicalSlug = computed(() => {
   const key = resolveKey.value;
@@ -119,16 +116,32 @@ const getCategoryName = (key: string): string => {
 
 const categoryName = computed(() => getCategoryName(categoryKey.value));
 
+// Each category gets its own SEO title, H1, meta description and intro copy (falls back to generic strings)
+const catI18n = (field: string) => `categoryPage.cats.${resolveKey.value}.${field}`;
+
 const titleText = computed(() => {
+  if (te(catI18n("title"))) return t(catI18n("title"));
   return resolveKey.value === "allrecipes"
     ? t("categoryPage.allRecipesTitle")
     : t("categoryPage.categoryTitle", { category: categoryName.value });
 });
 
+const headingText = computed(() => (te(catI18n("h1")) ? t(catI18n("h1")) : categoryName.value));
+
 const descText = computed(() => {
+  if (te(catI18n("description"))) return t(catI18n("description"));
   return resolveKey.value === "allrecipes"
     ? t("categoryPage.allRecipesDesc")
     : t("categoryPage.categoryDesc", { category: categoryName.value });
+});
+
+const introParagraphs = computed<string[]>(() => {
+  const paras: string[] = [];
+  for (let i = 1; i <= 3; i++) {
+    const key = catI18n(`intro${i}`);
+    if (te(key)) paras.push(t(key));
+  }
+  return paras.length ? paras : [descText.value];
 });
 
 const ogImg = computed(() => {
@@ -136,7 +149,7 @@ const ogImg = computed(() => {
   if (cat?.image) {
     return cat.image.startsWith("http")
       ? cat.image
-      : `https://res.cloudinary.com/mealse-co-uk/image/upload/f_auto,q_auto/${cat.image}`;
+      : `https://res.cloudinary.com/mealse-co-uk/image/upload/f_auto,q_auto,c_fill,w_1200,h_630/${cat.image}.jpg`;
   }
   return "https://www.hotrecipes.co.uk/cover.png";
 });
@@ -148,6 +161,8 @@ useSeoMeta({
   ogDescription: () => descText.value,
   ogUrl: `https://www.hotrecipes.co.uk${route.path}`,
   ogImage: ogImg,
+  ogImageWidth: 1200,
+  ogImageHeight: 630,
   twitterTitle: () => titleText.value,
   twitterDescription: () => descText.value,
   twitterImage: ogImg,
@@ -169,7 +184,7 @@ useSchemaOrg([
   })
 ]);
 
-// 1. Fetch recipes for this specific category
+// 1. Fetch recipes for this specific category (ItemList schema is registered after the fetch below)
 const {
   data: recipes,
   status,
@@ -184,19 +199,33 @@ const {
       query = query.where("path", "LIKE", `%.${locale.value}`);
     }
 
-    if (resolveKey.value !== "allrecipes") {
-      // Use a more relaxed LIKE query to avoid JSON quote issues
-      // instead of %"postre"% we use %postre% which is safer for various SQLite JSON formats
-      query = query.where("categories", "LIKE", `%${resolveKey.value}%`);
-    }
-
-    const result = await query.all();
-    return result;
+    // Only pull the fields the recipe cards and tag filters need (keeps the page payload small)
+    const result = await query
+      .select("path", "slug", "title", "seoDescription", "image", "alt", "categories", "tags", "macros", "prepTimeMins", "cookTimeMins", "rating", "reviews")
+      .all();
+    // Filter in JS so virtual categories (vegan via tags, high protein via macros) work alongside stored ones
+    return result.filter((r) => matchesCategory(r as any, resolveKey.value));
   },
   {
     watch: [() => route.params.slug, locale],
   },
 );
+
+// ItemList schema so Google understands this is a list of recipes
+const recipeUrlPrefix = locale.value === "es" ? "/es/recetas" : locale.value === "de" ? "/de/rezepte" : "/recipes";
+useSchemaOrg([
+  defineItemList({
+    name: () => titleText.value,
+    itemListElement: computed(() =>
+      (recipes.value || []).map((r: any, i: number) => ({
+        "@type": "ListItem",
+        position: i + 1,
+        url: toAbsoluteUrl(`${recipeUrlPrefix}/${r.slug}`),
+        name: r.title,
+      })),
+    ),
+  }),
+]);
 
 // 2. Extract unique tags from the fetched recipes
 const availableTags = computed(() => {
@@ -302,24 +331,26 @@ const filteredRecipes = computed(() => {
           <h1
             class="text-3xl md:text-5xl font-black text-foreground tracking-tight capitalize"
           >
-            {{ categoryName }}
+            {{ headingText }}
           </h1>
           <p
             v-if="recipes"
             class="text-xs font-semibold text-muted-foreground mt-1"
           >
-            {{ recipes.length }}
-            {{ recipes.length === 1 ? "recipe" : "recipes" }} available
+            {{ t("categoryPage.recipeCount", { count: recipes.length }, recipes.length) }}
           </p>
         </div>
       </div>
 
-      <p
-        v-if="descText"
-        class="text-sm md:text-base text-muted-foreground/90 max-w-2xl mt-4 leading-relaxed font-medium"
-      >
-        {{ descText }}
-      </p>
+      <div class="max-w-2xl mt-4 space-y-3">
+        <p
+          v-for="(para, i) in introParagraphs"
+          :key="i"
+          class="text-sm md:text-base text-muted-foreground/90 leading-relaxed font-medium"
+        >
+          {{ para }}
+        </p>
+      </div>
 
       <!-- Horizontal Tag Filters -->
       <div
@@ -369,11 +400,11 @@ const filteredRecipes = computed(() => {
       class="text-center py-20 bg-muted/40 rounded-3xl border border-border shadow-inner"
     >
       <div class="text-5xl mb-6">🥣</div>
-      <h3
+      <p
         class="text-3xl md:text-5xl font-black uppercase tracking-tighter italic text-foreground mb-2"
       >
         {{ t("categoryPage.empty") }}
-      </h3>
+      </p>
       <p
         class="text-muted-foreground max-w-sm mx-auto text-sm leading-relaxed mb-8"
       >

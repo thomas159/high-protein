@@ -3,12 +3,11 @@ categories:
   - 15minutemeals
   - airfryer
   - side-dish
-title: Einfache 30-Minuten extra knusprige Airfryer Sour-Cream-&-Onion-Pommes
+title: "Knusprige 30-Minuten Airfryer Sour-Cream-&-Onion-Pommes"
 slug: einfache-30-minuten-extra-knusprige-airfryer-sour-cream-zwiebel-pommes
-meta:
-  seoMetaDescription: Knusprige Pommes treffen auf den beliebten
-    Sour-Cream-&-Onion-Geschmack! Diese 30-Minuten Airfryer Pommes sind herrlich
-    würzig und ultra-knusprig.
+date: '2026-08-28'
+updated: '2026-11-06'
+seoDescription: "Chips-Geschmack auf Pommes: Diese Airfryer Sour-Cream-&-Onion-Pommes sind in 30 Minuten extra knusprig, mit wenig Öl. Minimaler Aufwand, maximaler Geschmack."
 description: Der legendäre Chip-Geschmack als selbstgemachte, super knusprige
   Pommes aus der Heißluftfritteuse. Mit einer aromatischen Gewürzmischung aus
   Zwiebelpulver, Knoblauch und Petersilie sowie einem cremigen, frischen
@@ -48,6 +47,7 @@ use:
   - "Snack-Night: Der absolute Favorit für gemütliche Film- oder Sportabende."
   - "Burger-Beilage: Passt genial zu saftigen vegetarischen oder veganen
     Burgern."
+  - "Mehr Pommes: Scharf und käsig werden die [Airfryer Jalapeño-Käse-Pommes](/de/rezepte/ultimative-30-minuten-extra-knusprige-airfryer-jalapeno-kaese-pommes). Alle Sorten findest du bei unseren [extra knusprigen Airfryer-Pommes](/de/sammlungen/extra-knusprige-airfryer-pommes)."
 variations:
   - "High-Protein Dip: Den Dip mit Magerquark und einem Schuss Mineralwasser
     anrühren."

@@ -6,7 +6,6 @@ import { SpeedInsights } from '@vercel/speed-insights/vue';
 const { siteName, siteDescription } = useAppConfig()
 // grantConsent is now pulled in to be used in the template
 const { checkConsent, grantConsent, status } = useAnalytics()
-const { t } = useI18n()
 // 1. Check if they already accepted in a previous session
 onMounted(() => {
   checkConsent()
@@ -50,13 +49,10 @@ useHead(() => ({
 /**
  * SEO & SOCIAL MEDIA
  */
+// Site-wide defaults only. Every page sets its own title, description and og:url
+// (og:url / canonical are generated per-route by @nuxtjs/seo), so nothing page-specific lives here.
 useSeoMeta({
-  title: () => t('seo.home.title'),
-  description: () => t('seo.home.description'),
-  ogTitle: () => t('seo.home.ogTitle'),
-  ogDescription: () => t('seo.home.ogDescription'),
   ogImage: 'https://www.hotrecipes.co.uk/cover.png',
-  ogUrl: 'https://www.hotrecipes.co.uk',
   ogType: 'website',
   twitterCard: 'summary_large_image',
   twitterImage: 'https://www.hotrecipes.co.uk/cover.png',
@@ -70,15 +66,7 @@ useSchemaOrg([
   }),
   // 2. Defines the WebPage as the default for all routes
   defineWebPage(),
-  // 3. Establishes Author Trust (E-E-A-T)
-  definePerson({
-    name: 'Tom',
-    description: 'Software developer, avid gym goer and vegetarian home cook.',
-    image: 'https://www.hotrecipes.co.uk/images/tom-gym.avif',
-    sameAs: [
-      'https://www.pinterest.com/hotRecipesUk'
-    ]
-  })
+  // 3. Author identity (E-E-A-T) is configured once as the site identity in nuxt.config (schemaOrg.identity)
 ])
 </script>
 

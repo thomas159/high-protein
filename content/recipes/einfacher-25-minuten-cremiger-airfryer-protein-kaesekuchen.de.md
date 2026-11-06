@@ -5,10 +5,9 @@ categories:
   - dessert
 title: Einfacher 25-Minuten samtiger Airfryer Protein-Käsekuchen
 slug: einfacher-25-minuten-cremiger-airfryer-protein-kaesekuchen
-meta:
-  seoMetaDescription: Lust auf samtigen Käsekuchen ohne schlechtes Gewissen?
-    Dieser 25-Minuten Airfryer Protein-Käsekuchen ist kalorienarm, proteinreich
-    und herrlich cremig.
+date: '2026-08-28'
+updated: '2026-11-06'
+seoDescription: "Samtiger Protein-Käsekuchen aus dem Airfryer in 25 Minuten: 26 g Protein bei nur 185 kcal pro Portion. Minimaler Aufwand, maximaler Geschmack."
 description: Ein saftiger, cremiger Käsekuchen im Mini-Format, der in Rekordzeit
   in der Heißluftfritteuse gebacken wird. Vollgepackt mit Proteinen aus
   Magerquark und Proteinpulver, fast ohne Zucker und Fett – der perfekte
@@ -48,6 +47,7 @@ use:
   - "Post-Workout Snack: Hochwertiges Eiweiß mit feiner Süße nach dem Training."
   - "Nachmittagskaffee: Ohne schlechtes Gewissen ein großes Stück Kuchen
     genießen."
+  - "Kleine Portionen: Die [Airfryer Protein-Käsekuchen-Happen](/de/rezepte/die-besten-30-minuten-airfryer-protein-kaesekuchen-happen) sind perfekt zum Mitnehmen. Warm und zimtig wird es mit dem [Protein-Apfel-Crumble](/de/rezepte/high-protein-15-minuten-airfryer-apfel-crumble)."
 variations:
   - "Beeren-Strudel: Vor dem Backen ein paar frische Himbeeren oder Blaubeeren
     in den Teig drücken."

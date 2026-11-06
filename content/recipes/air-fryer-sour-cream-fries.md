@@ -2,10 +2,11 @@
 categories:
 - airfryer
 - snacks
-title: Easy 30-Minute Extra Crispy Air Fryer Sour Cream & Onion Fries
+title: Easy 30-Minute Crispy Air Fryer Sour Cream & Onion Fries
 slug: air-fryer-sour-cream-fries
-meta:
-  seoMetaDescription: Got a craving for proper creamy chips? These easy 30-minute extra crispy air fryer sour cream & onion fries demand minimal prep for maximum flavour.
+date: '2026-03-11'
+updated: '2026-11-06'
+seoDescription: Got a craving for proper creamy chips? These easy 30-minute extra crispy air fryer sour cream & onion fries demand minimal prep for maximum flavour.
 description: 'Creamy meets crispy in this incredibly simple side dish. Every golden fry (chip) is fried to a gorgeous crunch before being tossed in a chilled, garlic-infused soured cream sauce that clings to every corner. It is a fantastic, high-carb recovery hit to refuel your body after crushing a heavy workout.
 
   '
@@ -24,7 +25,7 @@ works:
 use:
 - 'Next-Level Side: Elevates a basic weeknight carb side into a proper pub-style treat.'
 - 'Match Night Sharing: Perfect for piling onto a massive platter in the centre of the table.'
-- 'Built-In Dip: The tangy, herb-speckled sauce coats the chips so you do not even need a dipping bowl.'
+- 'Built-In Dip: The tangy, herb-speckled sauce coats the chips so you do not even need a dipping bowl. For more crunchy sides, see my [extra crispy air fryer fries](/collections/extra-crispy-air-fryer-fries).'
 tags: []
 keywords:
 - air fryer

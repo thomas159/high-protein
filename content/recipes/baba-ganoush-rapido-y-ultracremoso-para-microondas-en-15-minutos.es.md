@@ -1,11 +1,11 @@
 --- 
 categories:
 - 15minutemeals
-title: Baba Ganoush rápido y ultracremoso para microondas en 15 minutos
+title: 'Baba ganoush ultracremoso al microondas en 15 minutos'
 slug: baba-ganoush-rapido-y-ultracremoso-para-microondas-en-15-minutos
-meta:
-  seoMetaDescription: ¿Mezze rápido del Medio Oriente? Este rápido baba ganoush ultracremoso
-    para microondas de 15 minutos es una salsa vegana macroamigable.
+date: '2026-07-15'
+updated: '2026-11-06'
+seoDescription: 'Baba ganoush vegano y ultracremoso hecho en el microondas en solo 15 minutos. Mínima preparación, máximo sabor y 7 g de proteína sin encender el horno.'
 description: '¿Te apetece un mezze del Medio Oriente pero no quieres esperar 45 minutos
   para que llegue el horno? **Al registrar macros sólidas con una gran cantidad de
   proteínas**, el microondas cuece agresivamente la berenjena al vapor en minutos.
@@ -49,7 +49,7 @@ works:
 use:
 - 'Mezze Platter: la estrella de peso pesado del espectáculo.'
 - 'Macro Spread: una alternativa de élite baja en calorías a la mayonesa en wraps.'
-- 'Inmersión de volumen: Perfecta para recoger agresivamente con palitos de zanahoria.'
+- 'Inmersión de volumen: Perfecta para recoger agresivamente con palitos de zanahoria. Y si el microondas ya es tu mejor amigo en la cocina, prueba también [el risotto de calabacín al microondas](/es/recetas/risotto-de-calabacin-calabacin-facil-de-microondas-ultracremoso-de-15-minutos).'
 servingSuggestions: El peso pesado absoluto de un plato de mezze. Agítelo en un tazón,
   sumérjalo en aceite de oliva y cúbralo agresivamente con pita tibia y verduras crujientes.
 variations:

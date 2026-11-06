@@ -1,6 +1,9 @@
 ---
-title: "Die besten schnellen Tofu-Zubereitungs-Hacks: Mikrowelle vs. Kochen"
+title: "Schnelle Tofu-Zubereitungs-Hacks: Mikrowelle vs. Kochen"
 slug: "die-besten-schnellen-tofu-zubereitung-tipps"
+seoDescription: "Tofu in Minuten vorbereiten: Mikrowelle oder Kochen? Unsere Hacks für festen, knusprigen Tofu mit viel Protein. Minimaler Aufwand, maximaler Geschmack."
+date: '2026-08-28'
+updated: '2026-11-06'
 description: |
   Der ultimative Hack, um faden, wässrigen Tofu in ein festes, geschmackvolles Kraftpaket zu verwandeln. Vergiss zeitraubende Methoden mit Tofupressen, die stundenlang dauern.
 

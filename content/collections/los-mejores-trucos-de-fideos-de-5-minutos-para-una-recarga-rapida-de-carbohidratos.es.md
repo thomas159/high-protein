@@ -1,6 +1,9 @@
 ---
-title: Los mejores trucos de fideos de 5 minutos para una recarga rápida de carbohidratos
+title: 'Los mejores trucos con fideos en 5 minutos para recargar'
 slug: los-mejores-trucos-de-fideos-de-5-minutos-para-una-recarga-rapida-de-carbohidratos
+seoDescription: 'Fideos en 5 minutos para recargar carbohidratos tras entrenar: miso, cacahuete, chile y soja. Mínima preparación, máximo sabor en lo que hierve el agua.'
+date: '2026-07-15'
+updated: '2026-11-06'
 description: "Acabas de cruzar la puerta después de una sesión brutal, te mueres de\
   \ hambre y tu paciencia para cocinar está en cero absoluto. Olvídese de mirar fijamente\
   \ el frigorífico o de pedir comida para llevar grasosa. Estos trucos con fideos\

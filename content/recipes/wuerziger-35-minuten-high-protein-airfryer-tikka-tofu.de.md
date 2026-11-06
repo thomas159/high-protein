@@ -5,10 +5,9 @@ categories:
   - dinner
 title: Würziger 35-Minuten High-Protein Airfryer Tikka Tofu
 slug: wuerziger-35-minuten-high-protein-airfryer-tikka-tofu
-meta:
-  seoMetaDescription: Tandoori-Aromen aus dem Airfryer! Dieser 35-Minuten
-    marinierte Tikka Tofu begeistert mit würziger Joghurtkruste und saftigem
-    Kern.
+date: '2026-08-28'
+updated: '2026-11-06'
+seoDescription: "Würziger Tikka Tofu aus dem Airfryer in 35 Minuten: Joghurt-Marinade, krosse Kruste und 19 g Protein. Minimaler Aufwand, maximaler Geschmack."
 description: "Authentische indische Tandoori-Aromen ganz unkompliziert: Fester
   Tofu wird in einer aromatischen Marinade aus dickem Joghurt,
   Ingwer-Knoblauch-Paste, Garam Masala, Kurkuma und Zitronensaft eingelegt. In
@@ -47,6 +46,7 @@ use:
   - "Tikka Masala Basis: Die fertigen Würfel in eine cremige
     Tomaten-Masala-Sauce geben."
   - "Pita- & Wrap-Füllung: Mit Gurke, Salat und Minz-Raita einrollen."
+  - "Mehr indische Aromen: Probier den [Garam-Masala Airfryer Tofu](/de/rezepte/wuerziger-35-minuten-garam-masala-airfryer-tofu). Weitere Marinaden findest du bei unseren [proteinreichen Airfryer Tofu-Marinaden](/de/sammlungen/schnelle-proteinreiche-airfryer-tofu-marinaden)."
 variations:
   - "Paneer Tikka: Mit festem Paneer-Käse anstelle von Tofu zubereiten."
   - "Spieß-Variante: Zusammen mit Paprika- und Zwiebelstücken auf Holzspieße

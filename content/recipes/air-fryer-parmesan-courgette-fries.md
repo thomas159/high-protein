@@ -3,10 +3,11 @@ categories:
 - 15minutemeals
 - airfryer
 - snacks
-title: The Ultimate Easy 15-Minute Extra Crispy Air Fryer Parmesan Courgette (Zucchini) Fries
+title: 15-Minute Air Fryer Parmesan Courgette (Zucchini) Fries
 slug: air-fryer-parmesan-courgette-fries
-meta:
-  seoMetaDescription: Craving crispy fries with virtually zero calories? These easy 15-minute air fryer parmesan courgette (zucchini) fries deliver minimal prep, maximum flavour, and a salty, mozzarella-stick crunch under 80 kcal.
+date: '2026-09-08'
+updated: '2026-11-06'
+seoDescription: Crispy parmesan courgette (zucchini) fries in 15 minutes in the air fryer, under 80 kcal. Minimal prep, maximum flavour and a proper salty crunch.
 description: 'The ultimate high-volume snack cheat code. Slicing fresh courgette (zucchini) into sturdy batons and tossing them in a savoury parmesan, herb, and garlic crust creates a blistered, golden shell in the air fryer without a single drop of cooking oil. Clocking in at just 77 calories with 6g of protein, these satisfy serious crunch cravings while hitting your daily targets and keeping your macros locked in.'
 blurb: []
 image: air-fryer-parmesan-courgette-fries_k618ij
@@ -43,7 +44,7 @@ works:
 use:
 - 'Hard Cut Volume Snack: Eat a massive plate of crispy fries for under 80 calories without blowing your daily macro budget.'
 - 'Clean Side Dish: Pair with high-protein plant-based burgers, grilled tofu, or seitan steaks to superset your dinner macros.'
-- 'Guilt-Free Movie Snack: Perfect finger food alongside cool garlic Greek yoghurt dip when late-night salty cravings strike.'
+- 'Guilt-Free Movie Snack: Perfect finger food alongside cool garlic Greek yoghurt dip when late-night salty cravings strike. My [low-calorie garlic sauce](/recipes/creamy-low-calorie-garlic-sauce) is the perfect dip.'
 whyTitle: Why You Will Love It
 why:
 - 'The Ultimate Volume Snack: You get a massive pile of fries for under 80 calories, making it virtually impossible to feel deprived while dieting.'

@@ -1,10 +1,11 @@
 ---
 categories:
 - snacks
-title: La crema ninja de coco ultracremosa definitiva
+title: 'Ninja Creami de coco proteico y ultracremoso en 10 minutos'
 slug: la-crema-ninja-de-coco-ultracremosa-definitiva
-meta:
-  seoMetaDescription: Prepara un helado de coco ultra cremoso con tu Ninja Creami. Muy fácil de hacer, con sabor tropical y un excelente aporte de proteínas para tus músculos.
+date: '2026-07-15'
+updated: '2026-11-06'
+seoDescription: 'Helado Ninja Creami de coco, ultracremoso y tropical, con 47 g de proteína en 10 minutos de trabajo. Mínima preparación, máximo sabor para tus macros.'
 description: |
   Un postre de coco súper tierno y suave en forma de helado espectacular. La Ninja Creami convierte esta combinación idónea de leche de coco ligera, proteína de suero y miel en una tentación súper cremosa.
 
@@ -34,7 +35,7 @@ works:
 use:
 - 'Antes de entrenar: la recarga perfecta para darlo todo en el gimnasio.'
 - 'Capricho nutritivo: excelentes valores nutricionales con el increíble sabor de un helado de calidad.'
-- 'Antojo tropical: súper saciante para calmar esas ganas de dulce por la noche mientras cumples con tus objetivos del día.'
+- 'Antojo tropical: súper saciante para calmar esas ganas de dulce por la noche mientras cumples con tus objetivos del día. Encontrarás más sabores en [las mejores recetas Ninja Creami ricas en proteínas](/es/colecciones/las-mejores-recetas-de-creami-ninja-ricas-en-proteinas).'
 rating: null
 variations:
 - 'Barra Bounty: agregue las chispas de chocolate amargo y el coco rallado tostado durante la fase de mezcla.'

@@ -3,14 +3,13 @@ categories:
   - 15minutemeals
   - airfryer
   - dinner
-title: Schnellste und knusprigste 15-Minuten Airfryer Tortilla-Pizza
+title: "Die knusprigste 11-Minuten Airfryer Tortilla-Pizza"
 slug: schnellste-und-knusprigste-15-minuten-airfryer-tortilla-pizza
-meta:
-  seoMetaDescription: Pizza-Lust in Rekordzeit! Diese knusprige 15-Minuten
-    Airfryer Tortilla-Pizza hat einen hauchdünnen, krossen Boden und reichlich
-    geschmolzenen Käse.
+date: '2026-08-28'
+updated: '2026-11-06'
+seoDescription: "Knusprige Tortilla-Pizza aus dem Airfryer in 11 Minuten: hauchdünner Boden, geschmolzener Käse und 18 g Protein. Minimaler Aufwand, maximaler Geschmack."
 description: Keine Lust auf Teig kneten und langes Warten? Mit einem
-  Tortilla-Wrap zauberst du in der Heißluftfritteuse in unter 15 Minuten eine
+  Tortilla-Wrap zauberst du in der Heißluftfritteuse in nur 11 Minuten eine
   ultra-knusprige Thin-Crust Pizza. Vollgepackt mit deinen Lieblings-Toppings
   und herrlich aromatischem Käse.
 blurb: []
@@ -31,7 +30,7 @@ keywords:
   - schnelle Pizza
   - Wrap
   - knusprig
-  - 15-Minuten
+  - 11-Minuten
 tipsTitle: Knusperboden-Tricks für Tortilla-Pizza
 tips:
   - "Wrap kurz vorbacken: Den Tortilla-Wrap für 1-2 Minuten ohne Belag in den
@@ -46,9 +45,10 @@ works:
   - "Schnelles Überbacken: Hohe Oberhitze bräunt den Käse perfekt in 4-5
     Minuten."
 use:
-  - "Blitz-Abendessen: Nach einem langen Tag in 10 Minuten fertig auf dem Tisch."
+  - "Blitz-Abendessen: Nach einem langen Tag in 11 Minuten fertig auf dem Tisch."
   - "Fitness-Snack: Kalorienarm und ideal für proteinreiche Beläge wie
     Hähnchenstreifen oder Thunfisch."
+  - "Mehr Pizza-Hacks: Indisch inspiriert wird die [Mango-Paneer Naan-Pizza](/de/rezepte/einfache-15-minuten-knusprige-mango-paneer-naan-pizza). Weitere Lieferdienst-Klassiker findest du bei unseren [makrofreundlichen Fakeaways](/de/sammlungen/einfache-makrofreundliche-fakeaways)."
 variations:
   - "Doppelboden-Trick: Zwei Wraps mit etwas geriebenem Käse dazwischen
     aufeinanderlegen für mehr Stabilität."

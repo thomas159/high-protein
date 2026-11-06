@@ -1,11 +1,11 @@
 --- 
 categories:
 - dinner
-title: Pasta fácil de champiñones y ajo ultracremosa de 25 minutos
+title: 'Pasta cremosa de champiñones y ajo fácil en 25 minutos'
 slug: pasta-facil-de-champinones-y-ajo-ultracremosa-de-25-minutos
-meta:
-  seoMetaDescription: ¿Recarga de carbohidratos? Esta sencilla pasta ultracremosa
-    de 25 minutos con champiñones y ajo es una bomba umami vegetariana de Dig innt.
+date: '2026-07-15'
+updated: '2026-11-06'
+seoDescription: 'Pasta ultracremosa de champiñones y ajo con 24 g de proteína por ración, lista en 25 minutos. Mínima preparación, máximo sabor umami para recargar.'
 description: 'Un plato de pura comodidad para cuando necesitas una recarga seria de
   carbohidratos. Dorar los champiñones con fuerza crea una corteza umami profunda
   y carnosa que realza todo el plato.
@@ -50,7 +50,7 @@ works:
 use:
 - 'Heavy Refeed: una recarga masiva y cálida de carbohidratos para veladas acogedoras.'
 - 'Cita nocturna: parece y sabe como un plato de restaurante premium sin estrés.'
-- 'Almuerzo Macro: Se recalienta brillantemente para el día siguiente.'
+- 'Almuerzo Macro: Se recalienta brillantemente para el día siguiente. ¿Con menos tiempo todavía? Prueba [la pasta cremosa de tomate cherry y feta](/es/recetas/pasta-facil-de-tomate-cherry-y-queso-feta-ultracremosa-de-15-minutos).'
 variations:
 - 'Twist de trufa: Rocíelo con aceite de trufa antes de servir.'
 - 'Pico de proteína: Agregue cubitos de tofu fritos o frijoles blancos para equilibrar

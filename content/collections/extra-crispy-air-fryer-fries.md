@@ -1,6 +1,9 @@
 ---
 title: "The Ultimate Extra Crispy Air Fryer Fries"
 slug: "extra-crispy-air-fryer-fries"
+seoDescription: Extra crispy air fryer fries, from loaded jalapeño cheese to sweet potato and courgette (zucchini). Minimal prep, maximum flavour, no deep-fat fryer.
+date: '2026-04-11'
+updated: '2026-09-08'
 description: |
   When the carb cravings hit hard post-workout, standard greasy takeaway chips just aren't going to cut it. You need serious volume without completely blowing your daily calorie budget. 
   

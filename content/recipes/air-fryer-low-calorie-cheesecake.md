@@ -5,8 +5,9 @@ categories:
 - dessert
 title: Easy 25-Minute Velvety Air Fryer Protein Cheesecake
 slug: air-fryer-low-calorie-cheesecake
-meta:
-  seoMetaDescription: Got a sudden cheesecake craving? This easy 25-minute velvety air fryer protein cheesecake demands minimal prep for maximum flavour, using Greek yoghurt to stay light.
+date: '2026-03-09'
+updated: '2026-11-06'
+seoDescription: Velvety air fryer protein cheesecake in 25 minutes, made lighter with Greek yoghurt. Minimal prep, maximum flavour and 10g of protein in a single ramekin.
 description: 'Wipe out your cheesecake cravings without trash-talking your macro targets. By swapping heavy cream for Greek yoghurt (yogurt) and using a zero-calorie sweetener, you get a velvety baked treat that behaves like a full-fat masterpiece. It sets beautifully in the air fryer, giving you a smooth, rich middle with zero-fuss baking.
 
   '
@@ -29,7 +30,7 @@ reviews: null
 tipsTitle: Cheesecake Hacks
 tips:
 - 'Warm Cheese is Mandatory: If your cream cheese is chilled straight from the fridge, it will seize up and turn your batter into a lumpy, frustrating mess.'
-- 'Spot the Wobble: Take the ramekin out when the center still has a slight jiggle. It keeps cooking in its own residual heat as it cools.'
+- 'Spot the Wobble: Take the ramekin out when the centre still has a slight jiggle. It keeps cooking in its own residual heat as it cools.'
 - 'Patience Pays Off: Resist the urge to tear into it immediately. It needs a proper chill in the fridge to double down on that dense, velvety texture and let the flavours wake up.'
 works:
 - 'Greek Yoghurt Magic: Replacing double cream (heavy cream) with thick Greek yoghurt gives you the signature tang and body of a bakery slice while slashing the fat right down.'
@@ -37,7 +38,7 @@ works:
 use:
 - 'Diet Cheat Code: Hits the sweet spot for a fraction of the usual calorie hit.'
 - 'High-Protein Fix: Greek yoghurt ensures you get a solid hit of protein with your dessert.'
-- 'Solo Portion: A single ramekin bake so you are not tempted by an entire multi-slice cake.'
+- 'Solo Portion: A single ramekin bake so you are not tempted by an entire multi-slice cake. Prefer bite-sized? Try my [air fryer protein cheesecake bites](/recipes/air-fryer-protein-cheesecake-bites).'
 variations:
 - 'Berry Swirl: Swirl sugar-free strawberry jam into the batter before baking.'
 - 'Citrus Zing: Add orange or lime zest alongside the lemon juice.'

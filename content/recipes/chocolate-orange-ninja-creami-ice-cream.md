@@ -3,10 +3,11 @@ categories:
 - 15minutemeals
 - dessert
 - ninjacreami
-title: The Ultimate Ultra-Creamy 10-Minute Chocolate Orange Ninja Creami
+title: Ultra-Creamy 10-Minute Chocolate Orange Ninja Creami
 slug: chocolate-orange-ninja-creami-ice-cream
-meta:
-  seoMetaDescription: A massive protein hit! The ultimate ultra-creamy 10-minute chocolate orange Ninja Creami is a macro-friendly masterpiece.
+date: '2026-03-31'
+updated: '2026-11-06'
+seoDescription: Ultra-creamy chocolate orange Ninja Creami with 62g of protein and just 10 minutes of hands-on prep. Minimal prep, maximum flavour, macro-friendly dessert.
 description: 'A massive hit of protein disguised as a decadent chocolate orange dessert. The Ninja Creami turns this macro-friendly base into a rich, spoonable treat that feels like a cheat code for your diet.
 
 
@@ -43,7 +44,7 @@ works:
 use:
 - '**Post-workout:** A massive protein hit disguised as an elite dessert.'
 - '**Late-night fix:** Highly satisfying and totally macro-friendly to kill evening cravings.'
-- '**Summer fuel:** The ultimate way to hit your macros in a heatwave.'
+- '**Summer fuel:** The ultimate way to hit your macros in a heatwave. More flavours are waiting in my [high-protein Ninja Creami recipes](/collections/high-protein-ninja-creami-recipes).'
 rating: null
 variations:
 - '**Double chocolate:** Fold in dark chocolate chips using the mix-in button.'
@@ -110,7 +111,7 @@ steps:
 - Hit the 'Lite Ice Cream' button and let it run.
 - If it looks powdery, add a splash of milk and hit 'Re-spin' to force the creamy
   texture.
-- Hollow out the centre, drop in your chocolate chips, and run the 'Mix-In' program.
+- Hollow out the centre, drop in your chocolate chips, and run the 'Mix-In' programme.
   Enjoy immediately.
 ---
 

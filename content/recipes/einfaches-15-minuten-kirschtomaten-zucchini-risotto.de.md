@@ -2,12 +2,11 @@
 categories:
   - 15minutemeals
   - dinner
-title: Einfaches 15-Minuten Ultra-Cremiges Mikrowellen-Zucchini-Risotto
+title: "Ultra-cremiges 15-Minuten Mikrowellen-Zucchini-Risotto"
 slug: einfaches-15-minuten-kirschtomaten-zucchini-risotto
-meta:
-  seoMetaDescription: Lust auf schnelles Risotto? Dieses einfache, ultra-cremige
-    15-Minuten-Mikrowellen-Zucchini-Risotto ist die ultimative Mahlzeit mit
-    vielen Kohlenhydraten zur Regeneration.
+date: '2026-08-28'
+updated: '2026-11-06'
+seoDescription: "Cremiges Zucchini-Risotto aus der Mikrowelle in 15 Minuten: kein Dauerrühren, dafür Kirschtomaten und 16 g Protein. Minimaler Aufwand, maximaler Geschmack."
 description: "40 Minuten am Herd zu stehen und Reis umzurühren, ist eine
   absolute Katastrophe, wenn man hungrig ist. Wir haben uns ganz bewusst für
   diesen Mikrowellen-Hack entschieden, weil Zeitersparnis und das Erreichen der
@@ -55,6 +54,7 @@ use:
     schieben."
   - "Vegetarisches Hauptgericht: Eine vollwertige Mahlzeit, die ganz ohne
     Fleisch auskommt."
+  - "Mehr italienische Abkürzungen: Probier die [cremige Champignon-Pasta](/de/rezepte/cremige-15-minuten-champignon-pasta) oder die [cremige Feta-Kirschtomaten-Pasta](/de/rezepte/cremige-15-minuten-feta-kirschtomaten-pasta)."
 variations:
   - "Grünes Extra: Frischen Spinat oder Erbsen unterheben."
   - "Käse-Upgrade: Einen Löffel Mascarpone unterrühren, wenn es die Kalorien

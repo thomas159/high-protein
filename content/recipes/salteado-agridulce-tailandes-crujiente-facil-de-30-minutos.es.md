@@ -1,12 +1,11 @@
 --- 
 categories:
 - snacks
-title: Salteado agridulce tailandés crujiente fácil de 30 minutos
+title: 'Salteado agridulce tailandés crujiente y fácil en 30 minutos'
 slug: salteado-agridulce-tailandes-crujiente-facil-de-30-minutos
-meta:
-  seoMetaDescription: ¡Alcanza tus objetivos de micronutrientes rápidamente! Este
-    sencillo salteado agridulce tailandés crujiente de 30 minutos es una cena vegana
-    vibrante.
+date: '2026-07-15'
+updated: '2026-11-06'
+seoDescription: 'Salteado agridulce al estilo tailandés con verduras crujientes, vegano y listo en 30 minutos. Mínima preparación, máximo sabor para una cena llena de color.'
 description: Alcance sus objetivos diarios de micronutrientes con este sencillo y
   crujiente salteado tailandés de 30 minutos. Dorar las verduras a fuego abrasador
   retiene el crujido, mientras que la mezcla de harina de maíz une el vinagre y el
@@ -48,8 +47,7 @@ works:
 use:
 - 'Weeknight Fuel: una comida brutalmente eficiente de 15 minutos con arroz jazmín.'
 - 'Liquidación del frigorífico: una forma selecta de utilizar las verduras sobrantes.'
-- 'Preparación de comidas: Conserva su textura perfectamente crujiente para el día
-  siguiente.'
+- 'Preparación de comidas: Conserva su textura perfectamente crujiente para el día siguiente. Para darle un punto cremoso, añade un chorro de [salsa satay tailandesa de cacahuete](/es/recetas/salsa-de-mani-satay-tailandesa-ultracremosa-rapida-de-10-minutos).'
 variations:
 - 'Adición de proteínas: Agregue algunos cubitos de tofu crujientes fritos al aire.'
 - 'Anacardo crujiente: Cúbralo con anacardos tostados antes de servir.'

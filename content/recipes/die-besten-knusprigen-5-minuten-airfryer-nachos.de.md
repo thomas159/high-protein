@@ -5,10 +5,9 @@ categories:
   - snacks
 title: Die besten knusprigen 5-Minuten Airfryer-Nachos
 slug: die-besten-knusprigen-5-minuten-airfryer-nachos
-meta:
-  seoMetaDescription: Lust auf knusprige Nachos in Rekordzeit? Diese einfachen
-    5-Minuten Airfryer-Nachos mit geschmolzenem Käse und Jalapeños sind der
-    perfekte proteinreiche Snack.
+date: '2026-08-28'
+updated: '2026-11-06'
+seoDescription: "Knusprige Airfryer-Nachos in 5 Minuten: geschmolzener Käse, deine Lieblings-Toppings und 15 g Protein. Minimaler Aufwand, maximaler Geschmack."
 description: Vergiss lasche Mikrowellen-Nachos oder das lange Vorheizen des
   Backofens. Im Airfryer schmilzt der Käse in wenigen Minuten gleichmäßig über
   den Tortilla-Chips, während sie maximal knusprig bleiben. Mit Jalapeños,
@@ -49,6 +48,7 @@ use:
   - "Schneller Protein-Snack: Zusammen mit schwarzen Bohnen und Quark/Salsa ein
     echtes Makro-Power-Paket."
   - "Game-Day & Filmabend: In 5 Minuten frisch zubereitet, wenn Gäste da sind."
+  - "Snack-Nachschub: Weitere Ideen findest du bei unseren [schnellsten Airfryer-Snacks](/de/sammlungen/schnellste-knusprigste-airfryer-snacks). Für den großen Hunger gibt es [makrofreundliche Fakeaways](/de/sammlungen/einfache-makrofreundliche-fakeaways)."
 variations:
   - "Extra Protein: Mit mariniertem Tofu-Hack oder zerkleinertem
     Veggie-Hackfleisch toppen."

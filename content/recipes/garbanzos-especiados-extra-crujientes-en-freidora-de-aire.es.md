@@ -3,10 +3,11 @@ categories:
 - 15minutemeals
 - airfryer
 - snacks
-title: Los definitivos garbanzos especiados extra crujientes en freidora de aire en 20 minutos
+title: 'Garbanzos crujientes y especiados en freidora en 20 minutos'
 slug: garbanzos-especiados-extra-crujientes-en-freidora-de-aire
-meta:
-  seoMetaDescription: ¿Buscas un crujido salado sin calorías de más? Estos garbanzos especiados en freidora de aire ofrecen mínima preparación, máximo sabor y solo 77 kcal en 20 minutos.
+date: '2026-09-08'
+updated: '2026-11-06'
+seoDescription: 'Garbanzos especiados y extra crujientes en freidora de aire, listos en 20 minutos y con solo 77 kcal por ración. Mínima preparación, máximo sabor para picar.'
 description: 'La solución definitiva al picoteo descontrolado. Escurrir y secar a fondo los garbanzos cocidos antes de cocinarlos a 200 °C crea una textura crujiente insuperable que supera a cualquier snack de bolsa. Aderezados con pimentón ahumado, comino y sal de ajo, este snack rico en fibra y proteína vegetal está listo en veinte minutos y aporta solo 77 calorías por ración.
   '
 blurb: []
@@ -43,7 +44,7 @@ works:
 use:
 - 'Freno al picoteo impulsivo: El aperitivo salado perfecto para comer con los dedos viendo el fútbol o una película sin sumar calorías vacías.'
 - 'Sustituto de picatostes: Agrégalos a ensaladas o cremas de verduras en lugar de picatostes fritos para sumar textura crujiente y proteína vegetal.'
-- 'Snack para llevar al trabajo: Prepara raciones con antelación para combatir los bajones de energía de la tarde con carbohidratos complejos y fibra.'
+- 'Snack para llevar al trabajo: Prepara raciones con antelación para combatir los bajones de energía de la tarde con carbohidratos complejos y fibra. Encontrarás más ideas para picar en [los snacks más rápidos y crujientes para freidora de aire](/es/colecciones/los-bocadillos-y-golosinas-para-freidora-de-aire-mas-rapidos-y-crujientes).'
 whyTitle: Por qué te encantará esta receta
 why:
 - 'Frena el picoteo sin sentido: Satisface el antojo de patatas fritas y aperitivos salados con ingredientes limpios y saciantes.'

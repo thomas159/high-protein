@@ -5,10 +5,9 @@ categories:
   - vegan
 title: Knackige 30-Minuten thailändische Süß-Sauer-Gemüsepfanne
 slug: knackige-30-minuten-thailaendische-suess-sauer-gemuesepfanne
-meta:
-  seoMetaDescription: Frisch, bunt und voller Vitamine! Diese 30-Minuten
-    thailändische Süß-Sauer Gemüsepfanne begeistert mit knackigem Gemüse und
-    fruchtiger Ananas-Sauce.
+date: '2026-08-28'
+updated: '2026-11-06'
+seoDescription: "Knackige thailändische Süß-Sauer-Gemüsepfanne in 30 Minuten: vegan, bunt und besser als vom Lieferdienst. Minimaler Aufwand, maximaler Geschmack."
 description: "Ein farbenfroher Wok-Klassiker wie im Thailand-Urlaub: Knackige
   Paprika, Zucchini, Brokkoli und saftige Ananasstücke, geschwenkt in einer
   hausgemachten süß-sauren Sauce aus Tomaten, Sojasauce, Limette und Ananassaft.
@@ -47,6 +46,7 @@ works:
 use:
   - "Gesundes Familienessen: Bunt, vitaminreich und bei Groß und Klein beliebt."
   - "Meal-Prep Star: Hält sich prima für die Mittagspause im Büro."
+  - "Protein-Upgrade: Gib den [knusprig-klebrigen koreanischen Tofu](/de/rezepte/knusprig-klebriger-15-minuten-koreanischer-tofu) dazu. Mehr Lieferdienst-Klassiker findest du bei unseren [makrofreundlichen Fakeaways](/de/sammlungen/einfache-makrofreundliche-fakeaways)."
 variations:
   - "Mit Tofu oder Edamame: Angebratenen Tofu für extra pflanzliches Protein
     hinzufügen."

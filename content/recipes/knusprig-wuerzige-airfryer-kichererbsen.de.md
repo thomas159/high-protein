@@ -3,10 +3,11 @@ categories:
 - 15minutemeals
 - airfryer
 - snacks
-title: Die ultimativen extra knusprigen 20-Minuten Airfryer Kichererbsen
+title: "Extra knusprige 20-Minuten Airfryer Kichererbsen"
 slug: knusprig-wuerzige-airfryer-kichererbsen
-meta:
-  seoMetaDescription: Knuspriger Snack ohne Reue? Diese ultimativen 20-Minuten Airfryer Kichererbsen bieten minimalen Aufwand, maximalen Geschmack und rauchigen Knabber-Genuss bei unter 80 kcal.
+date: '2026-09-08'
+updated: '2026-11-06'
+seoDescription: "Extra knusprige Kichererbsen aus dem Airfryer in 20 Minuten: vegan, ballaststoffreich und nur 77 kcal pro Portion. Minimaler Aufwand, maximaler Geschmack."
 description: 'Die ultimative Antwort auf unbedachtes Knabbern. Gründlich abgetropfte und trocken getupfte Kichererbsen werden bei 200 °C im Airfryer herrlich kross und schlagen jede gekaufte Knabberpackung. Gewürzt mit geräuchertem Paprikapulver, Kreuzkümmel und Knoblauchsalz ist dieses pflanzliche Kraftpaket in zwanzig Minuten fertig und liefert 4 g Protein und 4 g Ballaststoffe bei nur 77 Kalorien pro Portion.
   '
 blurb: []
@@ -42,6 +43,7 @@ works:
 - 'Trockene Heißluft-Röstung: Bei 200 °C entweicht die restliche innere Feuchtigkeit rasch, sodass die Kichererbsen bis zum Kern wie kleine Kieselsteinchen knusprig durchbacken.'
 - 'Gezielte Gewürzhaftung: Ein feiner Sprühstoß Olivenöl reicht völlig aus, damit Paprikapulver, Kreuzkümmel und Knoblauchsalz perfekt haften, ohne unnötiges Fett hinzuzufügen.'
 use:
+- "Mehr Kichererbsen: Als Hauptgericht gibt es das [Spinat-Kichererbsen-Kokos-Curry](/de/rezepte/einfaches-25-minuten-spinat-kichererbsen-kokos-curry). Weitere Knabbereien findest du bei unseren [schnellsten Airfryer-Snacks](/de/sammlungen/schnellste-knusprigste-airfryer-snacks)."
 - 'Gesunde Knabber-Alternative: Perfektes Fingerfood für Filmabende oder Fußball-Wochenenden ohne leere Kalorien.'
 - 'Knuspriges Topping: Ersetze fettige Croûtons auf Salaten oder cremigen Suppen durch geröstete Kichererbsen für extra Biss und Pflanzenprotein.'
 - 'Snack fürs Büro: Lässt sich hervorragend mitnehmen, um das Nachmittagstief mit komplexen Kohlenhydraten und Ballaststoffen abzufangen.'

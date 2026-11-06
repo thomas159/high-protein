@@ -3,10 +3,11 @@ categories:
 - 15minutemeals
 - airfryer
 - snacks
-title: Die ultimativen extra knusprigen 15-Minuten Airfryer Parmesan Zucchini Pommes
+title: "Knusprige 15-Minuten Airfryer Parmesan-Zucchini-Pommes"
 slug: knusprige-airfryer-parmesan-zucchini-pommes
-meta:
-  seoMetaDescription: Lust auf knusprige Pommes mit kaum Kalorien? Diese 15-Minuten Airfryer Parmesan Zucchini Pommes bieten minimalen Aufwand, maximalen Geschmack und Mozzarella-Stick-Crunch bei unter 80 kcal.
+date: '2026-09-08'
+updated: '2026-11-06'
+seoDescription: "Knusprige Parmesan-Zucchini-Pommes aus dem Airfryer in 15 Minuten: nur 77 kcal pro Portion und kaum Öl. Minimaler Aufwand, maximaler Geschmack."
 description: 'Der ultimative High-Volume-Snack für jede Diät. Frische Zucchini in gleichmäßige Stifte geschnitten und in einer würzigen Mischung aus geriebenem Parmesan, italienischen Kräutern und Knoblauchpulver gewendet: Im Airfryer entsteht in fünfzehn Minuten eine goldbraune, blasige Kruste ganz ohne zusätzliches Öl. Bei nur 77 Kalorien und 6 g Protein stillen diese Pommes jedes Verlangen nach knusprigem Crunch und halten deine Makros perfekt auf Kurs.
   '
 blurb: []
@@ -40,6 +41,7 @@ works:
 - 'Knusprige Käsekruste: Der fein geriebene Parmesan schmilzt in der 200°C heißen Heißluftzirkulation und backt direkt an die Zucchinihaut an. So entsteht ohne Mehl oder Öl eine feste, aromatische Kruste.'
 - 'Volume Eating Effekt: Durch den hohen Wassergehalt der Zucchini bleibt das Innere zart, während die Außenseite herrlich knusprig wird – ähnlich wie bei panierten Mozzarella-Sticks.'
 use:
+- "Dip-Tipp: Die [kalorienarme Knoblauchsauce](/de/rezepte/cremige-kalorienarme-5-minuten-knoblauchsauce) passt perfekt dazu. Mehr Sorten findest du bei unseren [extra knusprigen Airfryer-Pommes](/de/sammlungen/extra-knusprige-airfryer-pommes)."
 - 'Diät-Volume-Snack: Eine riesige Schale knusprige Pommes für unter 80 Kalorien genießen, ohne das Kalorienbudget zu belasten.'
 - 'Saubere Beilage: Perfekt neben pflanzlichen Protein-Burgern, gebratenem Tofu oder Seitan-Steaks.'
 - 'Couch-Snack: Ideales Fingerfood zum Dippen in kühlen Knoblauch-Joghurt, wenn abends der Heißhunger kommt.'

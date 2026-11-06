@@ -1,6 +1,9 @@
 ---
 title: "Die besten extra knusprigen Airfryer-Pommes"
 slug: "extra-knusprige-airfryer-pommes"
+seoDescription: "Die besten extra knusprigen Airfryer-Pommes: von Süßkartoffel bis Jalapeño-Käse, mit kaum Öl und viel Crunch. Minimaler Aufwand, maximaler Geschmack."
+date: '2026-08-28'
+updated: '2026-11-06'
 description: |
   Wenn nach dem Workout der Heißhunger auf Kohlenhydrate kommt, sind fettige Pommes aus der Imbissbude keine Option. Du brauchst ordentlich Volumen, ohne dein tägliches Kalorienbudget zu sprengen.
 

@@ -4,10 +4,9 @@ categories:
   - dinner
 title: Einfache ultra-cremige 5-Minuten Miso-Erdnussbutter-Nudeln
 slug: einfache-5-minuten-miso-erdnussbutter-nudeln
-meta:
-  seoMetaDescription: Cremig, nussig und voller Umami! Diese einfachen 5-Minuten
-    Miso-Erdnussbutter-Nudeln sind in wenigen Minuten zubereitet und liefern
-    reichlich Power.
+date: '2026-08-28'
+updated: '2026-11-06'
+seoDescription: "Cremige vegane Miso-Erdnussbutter-Nudeln in 5 Minuten mit 18 g Protein pro Schüssel. Minimaler Aufwand, maximaler Geschmack. Für Hunger ohne Geduld."
 description: Die Kombination aus herzhafter Miso-Paste und cremiger
   Erdnussbutter ist ein echtes Geschmacks-Wunder. In nur 5 Minuten rührst du
   eine samtige, reichhaltige Sauce an, die jede Nudel perfekt umhüllt. Reich an
@@ -47,6 +46,7 @@ use:
   - "Schnelles Abendessen: Wenn nach einem langen Tag keine Zeit zum Kochen
     bleibt."
   - "High-Protein Fuel: Perfekt vor oder nach einer intensiven Trainingseinheit."
+  - "Mehr Nudel-Hacks: Mit Schärfe gibt es die [Chili-Erdnussbutter-Nudeln](/de/rezepte/schnelle-5-minuten-chili-erdnussbutter-nudeln). Alle Varianten findest du bei unseren [5-Minuten-Nudel-Hacks](/de/sammlungen/die-besten-5-minuten-nudel-hacks)."
 variations:
   - "Extra Protein: Knusprige Tofuwürfel oder Edamame unterrühren."
   - "Fruchtige Frische: Einen Spritzer frischen Limettensaft am Ende dazugeben."

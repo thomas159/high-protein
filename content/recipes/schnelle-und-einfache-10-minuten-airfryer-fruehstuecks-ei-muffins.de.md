@@ -3,12 +3,11 @@ categories:
   - 15minutemeals
   - airfryer
   - snacks
-title: Schnelle & einfache 10-Minuten Airfryer Frühstücks-Ei-Muffins
+title: "Schnelle 10-Minuten Airfryer Frühstücks-Ei-Muffins"
 slug: schnelle-und-einfache-10-minuten-airfryer-fruehstuecks-ei-muffins
-meta:
-  seoMetaDescription: Proteinreiches Frühstück in 10 Minuten! Diese fluffigen
-    Airfryer Ei-Muffins mit Spinat, Feta und Paprika sind ideal für den
-    schnellen Start in den Tag.
+date: '2026-08-28'
+updated: '2026-11-06'
+seoDescription: "Proteinreiche Frühstücks-Ei-Muffins aus dem Airfryer in 10 Minuten: 18 g Protein, keto-freundlich, ideal für Meal-Prep. Minimaler Aufwand, maximaler Geschmack."
 description: Fluffig, herzhaft und vollgepackt mit hochwertigem Protein. Diese
   Ei-Muffins gelingen im Airfryer in nur 10 Minuten perfekt gleichmäßig. Mit
   buntem Gemüse und würzigem Feta sind sie das ideale Meal-Prep-Frühstück oder
@@ -49,6 +48,7 @@ use:
   - "Meal-Prep Frühstück: Am Sonntag backen und die ganze Woche über morgens
     schnell mitnehmen."
   - "High-Protein Snack: Kalt oder warm ein handlicher Snack nach dem Workout."
+  - "Mehr Protein-Frühstück: Süß statt herzhaft wird die [cremige Hüttenkäse-Bowl mit Beeren](/de/rezepte/huettenkaese-bowl-mit-beeren). Weitere Ideen findest du bei unseren [schnellsten Airfryer-Snacks](/de/sammlungen/schnellste-knusprigste-airfryer-snacks)."
 variations:
   - "Käse-Variante: Cheddar oder Parmesan statt Feta verwenden."
   - "Fleischlos herzhaft: Mit getrockneten Tomaten, Oliven und Oregano für

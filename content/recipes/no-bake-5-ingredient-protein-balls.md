@@ -4,8 +4,9 @@ categories:
 - dessert
 title: Easy 5-Minute Fudgy No-Bake Protein Energy Balls
 slug: no-bake-5-ingredient-protein-balls
-meta:
-  seoMetaDescription: Pre-workout fuel? These easy 5-minute fudgy no-bake protein energy balls are the ultimate snack for hitting your targets.
+date: '2026-03-12'
+updated: '2026-11-06'
+seoDescription: Fudgy no-bake protein energy balls in 5 minutes with oats, banana and peanut butter. Minimal prep, maximum flavour and a big protein hit for your gym bag.
 description: 'Fuel your training block with these easy 5-minute fudgy protein balls. Packed with reliable fats from peanut butter and slow-digesting carbs from oats, they perfectly bind your protein powder without needing an oven. After some quick kitchen trials to get the wet-to-dry balance spot on, we found a mix that stays dense and chewy rather than turning into a dry, chalky mess.
 
   '
@@ -32,7 +33,7 @@ works:
 - 'Nut Butter Glue: Warm, smooth peanut butter acts as a natural binder, locking the dry oats and protein powder together. Chilling them afterwards firms everything up so they hold their shape perfectly without any baking.'
 - 'Slow Energy Release: Combining slow-release oat carbs with nutrient-dense nut fats slows down digestion, giving you a steady flow of fuel instead of a sudden peak and fall.'
 use:
-- 'Pre-Workout: A rapid, clean hit of carbs and fats before a heavy session.'
+- 'Pre-Workout: A rapid, clean hit of carbs and fats before a heavy session. Baking day? Try my [high-protein oat banana muffins](/recipes/healthy-oat-banana-muffins).'
 - 'Commuter Fuel: Effortless to pack in your gym bag.'
 - 'Late-Night Fix: A dense, fudgy treat to kill late-night sugar cravings.'
 rating: null
@@ -72,11 +73,13 @@ ingredients:
 - item: Peanut butter
   amount: 1
   unit: tbsp
-- faq:
+faq:
 - question: Can I use a different nut butter instead of peanut butter?
   answer: Absolutely. Almond, cashew, or sunflower seed butter work perfectly. Just ensure it's drippy enough to bind the oats.
 - question: Are these protein balls gluten-free?
   answer: Yes, just ensure you buy certified gluten-free oats to avoid cross-contamination.
+- question: Can I use a plant-based protein powder?
+  answer: Yes. Whey gives the softest, fudgiest bite, but plant powders soak up more liquid. Add an extra splash of milk until the dough holds together when you squeeze it.
 steps:
 - Add the oats, nut butter, mashed banana, milk, and protein powder to a large bowl. Stir thoroughly for a couple of minutes until a thick, cohesive dough forms that holds its shape when squeezed. If it feels too crumbly, add a tiny drop of extra milk.
 - Take a spoonful of the mixture and roll it firmly between your palms to shape it into a neat ball. Keep going until you have shaped all your snacks.

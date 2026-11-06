@@ -5,8 +5,9 @@ categories:
 - snacks
 title: Easy 25-Minute Ultra-Creamy Garlic Mushroom Pasta
 slug: creamy-mushroom-pasta
-meta:
-  seoMetaDescription: Carb reloading? This easy 25-minute ultra-creamy garlic mushroom pasta is the ultimate rich, comforting weeknight dinner.
+date: '2026-03-12'
+updated: '2026-11-06'
+seoDescription: Ultra-creamy garlic mushroom pasta in 25 minutes, with 24g of protein and deeply seared mushrooms. Minimal prep, maximum flavour for a comforting carb reload.
 description: 'The absolute gold standard of quick comfort food when you need a serious carb reload. Searing the mushrooms hard in a hot pan gives them a deep, meaty crust that makes them taste incredibly rich.
 
 
@@ -40,7 +41,7 @@ use:
 - 'Macro Lunch: Reheats brilliantly for the next day.'
 variations:
 - 'Truffle Twist: Drizzle it with a tiny drop of truffle oil before serving.'
-- 'Protein Spike: Toss in block bean mix or pan-fried tofu cubes to balance the macros.'
+- 'Protein Spike: Toss in block bean mix or pan-fried tofu cubes to balance the macros. Speed up the tofu with my [quick tofu prep hacks](/collections/easy-quick-tofu-prep-hacks).'
 servingSuggestions: Pair this rich pasta with a sharp, acidic rocket (arugula) salad
   to cut through the heavy cream. Serve with garlic ciabatta to mop the bowl clean.
 shelf_life: Best enjoyed fresh.

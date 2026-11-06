@@ -1,6 +1,9 @@
 ---
-title: Los bocadillos y golosinas para freidora de aire más rápidos y crujientes
+title: 'Snacks y dulces en freidora de aire, rápidos y crujientes'
 slug: los-bocadillos-y-golosinas-para-freidora-de-aire-mas-rapidos-y-crujientes
+seoDescription: 'Snacks y caprichos en freidora de aire, rápidos y extra crujientes: halloumi, garbanzos, galletas y más. Mínima preparación, máximo sabor en pocos minutos.'
+date: '2026-07-15'
+updated: '2026-11-06'
 description: "Cuando llega el hambre post-entrenamiento, necesitas soluciones rápidas,\
   \ no un largo proyecto de cocina. La freidora es el rey indiscutible de la comida\
   \ rápida macro-amigable. \n\nOfrece el máximo crujido sin freír. Desde postres llenos\

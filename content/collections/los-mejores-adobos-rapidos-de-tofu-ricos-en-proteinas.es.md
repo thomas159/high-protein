@@ -1,6 +1,9 @@
 ---
-title: Los mejores adobos rápidos de tofu ricos en proteínas
+title: 'Las mejores marinadas rápidas de tofu ricas en proteínas'
 slug: los-mejores-adobos-rapidos-de-tofu-ricos-en-proteinas
+seoDescription: 'Marinadas rápidas para tofu: gochujang, chipotle, tikka y miel, con unos 24 g de proteína por ración. Mínima preparación, máximo sabor para toda la semana.'
+date: '2026-07-15'
+updated: '2026-11-06'
 description: "Deja de comer tofu blando y gomoso. Si realmente quieres alcanzar tus\
   \ objetivos de proteínas con una dieta basada en plantas, debes tratar tu preparación\
   \ con cierto respeto. \n\nUna marinada sólida rompe el exterior denso e inyecta\

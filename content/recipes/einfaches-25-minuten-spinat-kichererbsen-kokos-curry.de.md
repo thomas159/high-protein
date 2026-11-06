@@ -4,10 +4,9 @@ categories:
   - dinner
 title: Einfaches 25-Minuten Spinat-Kichererbsen-Kokos-Curry
 slug: einfaches-25-minuten-spinat-kichererbsen-kokos-curry
-meta:
-  seoMetaDescription: Cremig, wärmend und voller Pflanzenpower! Dieses einfache
-    25-Minuten Spinat-Kichererbsen-Curry mit Kokosmilch ist reich an Protein und
-    Eisen.
+date: '2026-08-28'
+updated: '2026-11-06'
+seoDescription: "Veganes Spinat-Kichererbsen-Kokos-Curry in 25 Minuten aus einer Pfanne, mit 17 g Protein. Minimaler Aufwand, maximaler Geschmack. Perfekt für Meal-Prep."
 description: "Ein unkompliziertes One-Pot Wohlfühlgericht: Zarte Kichererbsen
   und frischer Spinat köcheln in einer sämigen, aromatisch gewürzten Kokossauce
   mit Ingwer, Knoblauch und Kurkuma. In nur 25 Minuten fertig – gesund, vegan
@@ -46,6 +45,7 @@ use:
   - "One-Pot Feierabendessen: Kaum Abwasch und in unter 30 Minuten
     servierbereit."
   - "Meal-Prep Champion: Schmeckt am zweiten Tag durchgezogen noch intensiver."
+  - "Protein-Booster: Leg ein paar Würfel [Garam-Masala Airfryer Tofu](/de/rezepte/wuerziger-35-minuten-garam-masala-airfryer-tofu) obendrauf. Mehr Curry-Abende findest du bei unseren [makrofreundlichen Fakeaways](/de/sammlungen/einfache-makrofreundliche-fakeaways)."
 variations:
   - "Mit Tofu oder Süßkartoffel: Gewürfelte Süßkartoffel oder Tofu mitköcheln."
   - "Schärfe nach Wunsch: Frische gehackte Chilis oder Chilipulver hinzugeben."

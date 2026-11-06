@@ -93,33 +93,67 @@ if (recipe.value) {
   // Generate the schema into the document <head>
   useSchemaOrg(schema)
 }
+// Short SEO description (falls back to a trimmed version of the long description)
+const truncate = (text: string, max = 160) => {
+  const clean = text.replace(/\s+/g, ' ').trim()
+  if (clean.length <= max) return clean
+  const cut = clean.slice(0, max - 1)
+  return `${cut.slice(0, cut.lastIndexOf(' '))}…`
+}
+const seoDescription = recipe.value?.seoDescription || (recipe.value?.description ? truncate(recipe.value.description) : undefined)
+const publishedDate = recipe.value?.date || undefined
+const modifiedDate = recipe.value?.updated || publishedDate
+const ogImageUrl = recipe.value?.image ? `https://res.cloudinary.com/mealse-co-uk/image/upload/f_auto,q_auto,c_fill,w_1200,h_630/${recipe.value.image}.jpg` : undefined
+
 // 1. SEO Meta Tags (Dynamic for both SSR & Client Navigation)
 useSeoMeta({
   title: recipe.value?.title,
   ogTitle: recipe.value?.title,
-  description: recipe.value?.meta?.seoMetaDescription || recipe.value?.description,
-  ogDescription: recipe.value?.meta?.seoMetaDescription || recipe.value?.description,
-  ogImage: recipe.value?.image ? `https://res.cloudinary.com/mealse-co-uk/image/upload/f_auto,q_auto/${recipe.value?.image}` : undefined,
+  description: seoDescription,
+  ogDescription: seoDescription,
+  ogImage: ogImageUrl,
+  ogImageWidth: ogImageUrl ? 1200 : undefined,
+  ogImageHeight: ogImageUrl ? 630 : undefined,
+  ogImageAlt: recipe.value?.alt || recipe.value?.title,
   ogType: 'article',
-  articleAuthor: 'Hot Recipes',
-  articlePublishedTime: recipe.value?.date || undefined,
+  articleAuthor: ['Tom Harrison'],
+  articlePublishedTime: publishedDate,
+  articleModifiedTime: modifiedDate,
   ogUrl: `https://www.hotrecipes.co.uk${route.path}`,
   twitterCard: 'summary_large_image',
   twitterTitle: recipe.value?.title,
-  twitterDescription: recipe.value?.meta?.seoMetaDescription || recipe.value?.description,
-  twitterImage: recipe.value?.image ? `https://res.cloudinary.com/mealse-co-uk/image/upload/f_auto,q_auto/${recipe.value?.image}` : undefined,
+  twitterDescription: seoDescription,
+  twitterImage: ogImageUrl,
 })
 
 // 2. Schema
 type RecipeDiet = "LowCalorieDiet" | "VeganDiet" | "VegetarianDiet";
 
-const dietArray: RecipeDiet[] = ["LowCalorieDiet"];
-
-if (recipe.value?.categories?.includes('vegan')) {
-  dietArray.push("VeganDiet", "VegetarianDiet"); // Vegan covers both
-} else if (recipe.value?.categories?.includes('vegetarian')) {
-  dietArray.push("VegetarianDiet");
+// Every recipe on the site is vegetarian. Vegan is flagged via tags or categories.
+const dietArray: RecipeDiet[] = ["VegetarianDiet"];
+const dietLabels = [...(recipe.value?.categories || []), ...(recipe.value?.tags || [])].map(l => String(l).toLowerCase())
+if (dietLabels.includes('vegan')) {
+  dietArray.push("VeganDiet");
 }
+// Only claim low calorie when it is actually true (per serving)
+if (recipe.value?.macros?.calories && recipe.value.macros.calories <= 400) {
+  dietArray.push("LowCalorieDiet");
+}
+
+// Map internal category keys to human-readable schema categories
+const SCHEMA_CATEGORY: Record<string, string> = {
+  dinner: 'Main Course',
+  snacks: 'Snack',
+  dessert: 'Dessert',
+  ninjacreami: 'Dessert',
+  sauce: 'Sauce',
+  'side-dish': 'Side Dish',
+  soup: 'Soup',
+  pasta: 'Main Course',
+  pizza: 'Main Course',
+  baking: 'Dessert',
+}
+const schemaCategory = recipe.value?.categories?.map(c => SCHEMA_CATEGORY[c]).find(Boolean) || 'Main Course'
 
 const baseImg = 'https://res.cloudinary.com/mealse-co-uk/image/upload/f_auto,q_auto'
 const schemaImages = recipe.value?.image ? [
@@ -156,10 +190,10 @@ const getStepImage = (step: unknown): string | undefined => {
 useSchemaOrg([
   defineRecipe({
     name: recipe.value?.title,
-    description: recipe.value?.meta?.seoMetaDescription || recipe.value?.description,
+    description: seoDescription,
     image: schemaImages,
-    datePublished: (recipe.value as any)?.date || (recipe.value as any)?.updatedAt || '2025-01-01',
-    dateModified: (recipe.value as any)?.updatedAt || (recipe.value as any)?.date || '2025-01-01',
+    datePublished: publishedDate,
+    dateModified: modifiedDate,
     aggregateRating: (recipe.value?.rating && recipe.value?.reviews && recipe.value.reviews > 0) ? {
       '@type': 'AggregateRating',
       ratingValue: recipe.value.rating,
@@ -167,8 +201,9 @@ useSchemaOrg([
     } : undefined,
     author: {
       '@type': 'Person',
-      name: 'Tom',
-      url: 'https://www.hotrecipes.co.uk/about'
+      name: 'Tom Harrison',
+      url: `https://www.hotrecipes.co.uk${localePath('about')}`,
+      sameAs: ['https://www.pinterest.com/hotRecipesUk']
     },
     // Time mapping (only passed when > 0 to prevent PT0M warnings in Google Search Console)
     prepTime: recipe.value?.prepTimeMins ? formatIso(recipe.value.prepTimeMins) : undefined,
@@ -178,23 +213,24 @@ useSchemaOrg([
       : undefined,
 
     // Yield and Category
-    recipeYield: `${recipe.value?.servings} serving(s)`,
-    recipeCategory: recipe.value?.categories?.[0] || 'Main Course',
-    recipeCuisine: recipe.value?.cuisine || '',
+    recipeYield: recipe.value?.servings ? String(recipe.value.servings) : undefined,
+    recipeCategory: schemaCategory,
+    recipeCuisine: recipe.value?.cuisine || undefined,
 
     // Keywords and Diet
     keywords: recipe.value?.keywords?.length ? recipe.value.keywords : (recipe.value?.flavor_profile ? recipe.value.flavor_profile.split(', ') : []),
     suitableForDiet: dietArray,
 
     // Nutrition mapping (Using your nested macros)
-    nutrition: {
+    // Only emit nutrition values that actually exist (never claim 0 kcal by default)
+    nutrition: recipe.value?.macros?.calories ? {
       '@type': 'NutritionInformation',
       servingSize: '1 serving',
-      calories: `${recipe.value?.macros?.calories || 0} calories`,
-      proteinContent: `${recipe.value?.macros?.protein || 0}g`,
-      fatContent: `${recipe.value?.macros?.fat || 0}g`,
-      carbohydrateContent: `${recipe.value?.macros?.carbs || 0}g`,
-    },
+      calories: `${recipe.value.macros.calories} calories`,
+      proteinContent: recipe.value.macros.protein != null ? `${recipe.value.macros.protein} g` : undefined,
+      fatContent: recipe.value.macros.fat != null ? `${recipe.value.macros.fat} g` : undefined,
+      carbohydrateContent: recipe.value.macros.carbs != null ? `${recipe.value.macros.carbs} g` : undefined,
+    } : undefined,
 
     // Ingredients mapping
     recipeIngredient: recipe.value?.ingredients?.map(i => {
@@ -224,6 +260,9 @@ useSchemaOrg([
   })
 ])
 
+// Only the fields recipe cards render (keeps the SSR payload lean)
+const CARD_FIELDS = ['path', 'slug', 'title', 'seoDescription', 'image', 'alt', 'categories', 'tags', 'macros', 'prepTimeMins', 'cookTimeMins', 'rating', 'reviews'] as const
+
 const { data: relatedRecipes } = await useAsyncData(`${route.path}-related`, async () => {
   // Guard: if no recipe found, return empty array
   if (!recipe.value?.categories || recipe.value.categories.length === 0) return []
@@ -242,7 +281,7 @@ const { data: relatedRecipes } = await useAsyncData(`${route.path}-related`, asy
     builder = builder.where('path', 'LIKE', `%.${locale.value}`)
   }
 
-  return builder.limit(4).all()
+  return builder.select(...CARD_FIELDS).limit(4).all()
 
 }, {
   watch: [recipe], // Re-run if the main recipe changes
@@ -264,14 +303,25 @@ const { data: randomizedRecipes } = await useAsyncData(`${route.path}-random`, a
   } else {
     builder = builder.where('path', 'LIKE', `%.${locale.value}`)
   }
-  const matchingRecipes = await builder.all()
+  const matchingRecipes = await builder.select(...CARD_FIELDS).all()
 
   // Exclude the recipes already shown in the standard "Related Recipes" section
   const relatedSlugs = relatedRecipes.value?.map(r => r.slug) || []
   const uniqueRecipes = matchingRecipes.filter(r => !relatedSlugs.includes(r.slug))
 
-  // Shuffle the remaining unique recipes and grab 3 random ones
-  return uniqueRecipes.sort(() => 0.5 - Math.random()).slice(0, 3)
+  // Shuffle the remaining unique recipes and grab 3. The shuffle is seeded from the slug so the
+  // server and client render the same list (no hydration mismatch, stable internal links for crawlers).
+  let seed = [...(recipe.value.slug || '')].reduce((acc, ch) => (acc * 31 + ch.charCodeAt(0)) >>> 0, 7)
+  const rand = () => {
+    seed = (seed * 1664525 + 1013904223) >>> 0
+    return seed / 4294967296
+  }
+  const shuffled = [...uniqueRecipes]
+  for (let i = shuffled.length - 1; i > 0; i--) {
+    const j = Math.floor(rand() * (i + 1))
+    ;[shuffled[i], shuffled[j]] = [shuffled[j]!, shuffled[i]!]
+  }
+  return shuffled.slice(0, 3)
 }, {
   watch: [recipe],
   default: () => []
@@ -287,7 +337,7 @@ const { data: relatedCollections } = await useAsyncData(`${route.path}-collectio
   } else {
     builder = builder.where('path', 'LIKE', `%.${locale.value}`)
   }
-  const allCollections = await builder.all()
+  const allCollections = await builder.select('path', 'slug', 'title', 'description', 'image', 'recipes').all()
   return allCollections.filter(c => 
     c.recipes?.some((r: any) => r.slug === recipe.value?.slug)
   )
@@ -307,7 +357,8 @@ const getCollectionHook = (title?: string) => {
 const { formatText } = useFormatText()
 
 useHead({
-  titleTemplate: (title) => title ? `${title} | ${siteName}` : siteName,
+  // Recipe titles are already long and keyword-rich, so skip the site-name suffix to avoid truncation in SERPs
+  titleTemplate: (title) => title || siteName,
   meta: [
     ...(recipe.value?.keywords?.length ? [{ name: 'keywords', content: recipe.value.keywords.join(', ') }] : [])
   ]
@@ -319,24 +370,22 @@ useHead({
 
     <RecipesHero :recipe="recipe" />
 
-    <div class="grid grid-cols-1 lg:grid-cols-12 gap-10">
+    <!--
+      Ingredients render ONCE (no duplicate hidden copy for SEO). CSS grid order places
+      them after the intro on mobile and as a sticky left sidebar on desktop.
+    -->
+    <div class="grid grid-cols-1 lg:grid-cols-12 gap-x-10 gap-y-12 lg:gap-y-0 lg:grid-rows-[auto_1fr]">
 
-      <RecipesIngredients class="hidden lg:block" :recipe="recipe" />
+      <RecipesIngredients class="order-2 lg:order-none lg:col-start-1 lg:row-start-1 lg:row-span-2" :recipe="recipe" />
 
-      <div id="recipe" class="lg:col-span-8 lg:pl-6 relative">
-        <!-- <div class="absolute top-0 right-0 flex gap-2">
-            <button class="p-2 text-muted-foreground hover:text-green-600 dark:hover:text-green-400 hover:bg-green-500/10 rounded-lg transition-colors" title="Share Recipe">
-              <svg class="w-5 h-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><line x1="8.59" x2="15.42" y1="13.51" y2="17.49"/><line x1="15.41" x2="8.59" y1="6.51" y2="10.49"/></svg>
-            </button>
-          </div> -->
-          
+      <div id="recipe" class="order-1 lg:order-none lg:col-start-5 lg:col-span-8 lg:row-start-1 lg:pl-6 relative">
         <div v-if="relatedCollections?.length" class="mt-4 mb-8 space-y-6">
           <div v-for="collection in relatedCollections" :key="collection.path">
-            <h3 class="text-sm font-bold uppercase tracking-widest text-slate-500 mb-4 flex items-center gap-2">
+            <p class="text-sm font-bold uppercase tracking-widest text-slate-500 mb-4 flex items-center gap-2">
               <Icon name="ph:sparkle-duotone" class="w-4 h-4 text-emerald-500" />
               {{ t('recipes.featuredIn') }}
-            </h3>
-            <CollectionCard :collection="collection" />
+            </p>
+            <CollectionCard :collection="collection" heading-tag="h3" />
           </div>
         </div>
 
@@ -348,11 +397,9 @@ useHead({
         <div v-if="recipe.works?.length" class="mt-4 space-y-4 border-b border-border pb-8">
           <p v-for="(work, index) in recipe.works" :key="index" class="text-muted-foreground" v-html="formatText(work)" />
         </div>
+      </div>
 
-        <div class="lg:hidden mt-12">
-          <RecipesIngredients :recipe="recipe" />
-        </div>
-
+      <div class="order-3 lg:order-none lg:col-start-5 lg:col-span-8 lg:row-start-2 lg:pl-6 relative">
         <!-- How To Make / Steps Section -->
         <section class="mt-12 mb-12">
           <!-- Section Kicker / Badge -->
@@ -401,7 +448,7 @@ useHead({
                     <div v-if="getStepImage(step)" class="pt-3">
                       <Img
                         :src="getStepImage(step)!"
-                        :alt="`Step ${index + 1} for ${recipe.title}`"
+                        :alt="t('recipes.stepImageAlt', { index: index + 1, title: recipe.title })"
                         class="w-full max-w-[440px] !h-auto aspect-video rounded-xl object-cover shadow-sm border border-border/70"
                       />
                     </div>
@@ -450,11 +497,11 @@ useHead({
 
 
         <h2 v-if="recipe.servingSuggestions" id="servingSuggestions" class="text-3xl md:text-5xl font-black uppercase tracking-tighter italic text-foreground mt-8 mb-6">{{ t('recipes.servingSuggestions') }}</h2>
-        <p class=" text-muted-foreground" v-html="formatText(recipe.servingSuggestions)" />
+        <p v-if="recipe.servingSuggestions" class="text-muted-foreground" v-html="formatText(recipe.servingSuggestions)" />
 
 
-<h2 v-if="recipe.storageInstructions" id="storage" class="text-3xl md:text-5xl font-black uppercase tracking-tighter italic text-foreground mt-8 mb-6">{{ t('recipes.storage', { title: recipe.title }) }}</h2>
-        <p class=" text-muted-foreground" v-html="formatText(recipe.storageInstructions)" />
+        <h2 v-if="recipe.storageInstructions" id="storage" class="text-3xl md:text-5xl font-black uppercase tracking-tighter italic text-foreground mt-8 mb-6">{{ t('recipes.storage', { title: recipe.title }) }}</h2>
+        <p v-if="recipe.storageInstructions" class="text-muted-foreground" v-html="formatText(recipe.storageInstructions)" />
 
            <!-- New FAQ Section -->
         <section v-if="recipe?.faq?.length" class="mt-8">

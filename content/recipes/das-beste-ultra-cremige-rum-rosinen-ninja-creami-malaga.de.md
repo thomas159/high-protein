@@ -5,10 +5,9 @@ categories:
   - ninjacreami
 title: Das beste ultra-cremige Rum-Rosinen Ninja Creami (Malaga)
 slug: das-beste-ultra-cremige-rum-rosinen-ninja-creami-malaga
-meta:
-  seoMetaDescription: Klassisches Malaga-Eis mit Protein! Dieses cremige
-    Rum-Rosinen Ninja Creami Eis verbindet saftige Rosinen und Rum-Aroma mit
-    besten Nährwerten.
+date: '2026-08-28'
+updated: '2026-11-06'
+seoDescription: "Der Eisdielen-Klassiker als Protein-Eis: Rum-Rosinen Ninja Creami, in 10 Minuten vorbereitet, mit 35 g Protein. Minimaler Aufwand, maximaler Geschmack."
 description: "Der traditionsreiche Eisdielen-Klassiker Malaga (Rum-Rosine) als
   fettarmes, proteinreiches Dessert: Zart schmelzendes Vanilleeis mit feinem
   Rumaroma und saftigen Rosinen, die nach dem Fräsen für den perfekten Biss
@@ -46,6 +45,7 @@ works:
 use:
   - "Nostalgischer Eisgenuss: Der geliebte Klassiker ohne Zuckerfalle."
   - "Süßer Abschluss: Nach einem deftigen Essen."
+  - "Mehr Eis-Sorten: Klassisch und mild ist das [cremige Banane-Vanille Ninja Creami](/de/rezepte/schnellstes-cremigstes-banane-vanille-ninja-creami). Alle Sorten findest du bei unseren [proteinreichen Ninja Creami Rezepten](/de/sammlungen/die-besten-proteinreichen-ninja-creami-rezepte)."
 variations:
   - "Echter Rum: Für Erwachsene 1 TL echten braunen Rum in die Rosinen geben."
   - "Walnuss-Malaga: Gehackte Walnüsse zusammen mit den Rosinen untermischen."

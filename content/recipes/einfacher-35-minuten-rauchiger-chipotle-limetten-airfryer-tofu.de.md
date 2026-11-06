@@ -3,12 +3,11 @@ categories:
   - 15minutemeals
   - airfryer
   - dinner
-title: Einfacher 35-Minuten rauchiger Chipotle-Limetten Airfryer Tofu
+title: "Rauchiger 35-Minuten Chipotle-Limetten Airfryer Tofu"
 slug: einfacher-35-minuten-rauchiger-chipotle-limetten-airfryer-tofu
-meta:
-  seoMetaDescription: Rauchig, pikant und proteinreich! Dieser 35-Minuten
-    Chipotle-Limetten Tofu aus dem Airfryer begeistert mit knuspriger Kruste und
-    saftigem Kern.
+date: '2026-08-28'
+updated: '2026-11-06'
+seoDescription: "Rauchig, scharf, kross: Der vegane Chipotle-Limetten Tofu aus dem Airfryer ist in 35 Minuten fertig, mit 24 g Protein. Minimaler Aufwand, maximaler Geschmack."
 description: Eine mexikanisch inspirierte Tofu-Marinade mit rauchigen
   Chipotle-Chilis, spritzigem Limettensaft, Kreuzkümmel und Knoblauch. In der
   Heißluftfritteuse karamellisiert die Marinade außen zu einer würzigen Kruste,
@@ -49,6 +48,7 @@ use:
   - "Taco- & Burrito-Füllung: Das perfekte rauchige Protein für den
     mexikanischen Abend."
   - "Bowl-Topping: Über Reis, schwarze Bohnen und Maissalat geben."
+  - "Mehr Tofu: Weitere Marinaden findest du bei unseren [proteinreichen Airfryer Tofu-Marinaden](/de/sammlungen/schnelle-proteinreiche-airfryer-tofu-marinaden). Wie du Tofu schnell vorbereitest, zeigen unsere [Tofu-Zubereitungs-Hacks](/de/sammlungen/die-besten-schnellen-tofu-zubereitung-tipps)."
 variations:
   - "Süß-rauchig: 1 TL Ahornsirup oder Agavendicksaft in die Marinade geben."
   - "Mildere Variante: Nur Adobo-Sauce ohne ganze Chipotle-Chilis verwenden."

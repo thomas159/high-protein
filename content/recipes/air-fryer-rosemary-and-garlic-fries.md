@@ -2,10 +2,11 @@
 categories:
 - airfryer
 - snacks
-title: Easy 30-Minute Extra Crispy Air Fryer Rosemary & Garlic Fries
+title: Easy 30-Minute Crispy Air Fryer Rosemary & Garlic Fries
 slug: air-fryer-rosemary-and-garlic-fries
-meta:
-  seoMetaDescription: Got a craving for proper herby chips? These easy 30-minute extra crispy air fryer rosemary & garlic fries demand minimal prep for maximum flavour.
+date: '2026-03-11'
+updated: '2026-11-06'
+seoDescription: Got a craving for proper herby chips? These easy 30-minute extra crispy air fryer rosemary & garlic fries demand minimal prep for maximum flavour.
 description: 'Upgrade your side dish with these fragrant, herb-infused fries (chips). By combining woody rosemary and savoury garlic with the high-speed crisping of the air fryer, you get extra crispy chips with a fraction of the fat of shallow frying. Perfect for fueling your recovery after a brutal leg session.
 
   '
@@ -23,7 +24,7 @@ works:
 use:
 - 'Gourmet Side: A sophisticated step up from standard supermarket chips.'
 - 'Main Companion: The absolute best companion next to a thick, high-protein seitan steak.'
-- 'Dip Vehicle: Perfect for dunking into a sharp garlic vegan mayonnaise.'
+- 'Dip Vehicle: Perfect for dunking into a sharp garlic vegan mayonnaise. My [low-calorie garlic sauce](/recipes/creamy-low-calorie-garlic-sauce) is a lighter dip that still hits hard.'
 tags:
 - gluten-free
 - vegan

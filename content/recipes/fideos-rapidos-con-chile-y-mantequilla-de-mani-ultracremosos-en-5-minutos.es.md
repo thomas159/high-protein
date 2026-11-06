@@ -1,11 +1,11 @@
 --- 
 categories:
 - 15minutemeals
-title: Fideos rápidos con chile y mantequilla de maní ultracremosos en 5 minutos
+title: 'Fideos picantes y cremosos de cacahuete en 5 minutos'
 slug: fideos-rapidos-con-chile-y-mantequilla-de-mani-ultracremosos-en-5-minutos
-meta:
-  seoMetaDescription: ¿Necesitas cenar en un instante? Estos rápidos fideos con chile
-    y mantequilla de maní ultracremosos de 5 minutos brindan proteína vegana picante.
+date: '2026-07-15'
+updated: '2026-11-06'
+seoDescription: 'Fideos picantes con salsa cremosa de cacahuete y chile, veganos y con 14 g de proteína en 5 minutos. Mínima preparación, máximo sabor para cenar al instante.'
 description: 'Un equilibrio brillante entre las grasas pesadas de la mantequilla de
   maní y el picante picante del chile. El uso del agua de fideos con almidón emulsiona
   la salsa al instante, lo que le brinda fideos ultracremosos rápidos en 5 minutos.
@@ -50,7 +50,7 @@ use:
   de lo que puedes pedir comida para llevar.'
 - 'Ensalada fría de fideos: preparación macro de élite para un almuerzo de trabajo
   frío.'
-- 'Lado perfecto: sirva junto con rollitos de primavera crujientes.'
+- 'Lado perfecto: sirva junto con rollitos de primavera crujientes. Tienes más recetas rápidas en [los mejores trucos de fideos en 5 minutos](/es/colecciones/los-mejores-trucos-de-fideos-de-5-minutos-para-una-recarga-rapida-de-carbohidratos).'
 servingSuggestions: Estos son pesos pesados ​​por sí solos. Acompáñelo con un poco
   de daikon o pepino encurtido para limpiar el paladar. Genial junto con albóndigas
   de verduras al vapor.

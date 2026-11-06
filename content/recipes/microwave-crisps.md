@@ -3,13 +3,14 @@ categories:
 - 15minutemeals
 title: The Quickest, Crispiest 15-Minute Microwave Potato Crisps
 slug: microwave-crisps
-meta:
-  seoMetaDescription: Craving salty snacks? These quickest, crispiest 15-minute microwave potato crisps hit the spot without ruining your macros.
+date: '2026-03-11'
+updated: '2026-11-06'
+seoDescription: The crispiest microwave potato crisps in 15 minutes, no deep-fat fryer and no oil bath. Minimal prep, maximum flavour, and a salty snack that fits your macros.
 description: 'Crisps do not have to ruin your training goals. Heating them in the microwave is a brilliant hack that draws the moisture right out of the potato slices, leaving them incredibly crunchy. It took me a few goes to dial in the perfect timing so they do not catch, but now we have got a quick snack that delivers pure texture with zero unnecessary oil.'
 image: microwave-crisps_loaj1f
 alt: Crunchy microwave potato crisps in a bowl
 pintrest: ''
-tipsTitle: Flavor Variation
+tipsTitle: Flavour Variation
 tips:
 - 'Salt & Vinegar Hack: Soak the slices in white vinegar for 10 minutes instead of water, then hit them with lime juice at the end.'
 - 'Precision Slicing: A mandoline is mandatory. Uneven slices mean half burn while the rest stay soggy.'
@@ -21,7 +22,7 @@ use:
 - 'Pre-Workout Primer: The perfect fuel to smash your next PB.'
 - 'Volume Snacking: A completely macro-friendly, low-oil fix for your crisp cravings.'
 - 'Dipping Companion: Sturdy enough to handle heavy hummus.'
-- 'Lunchbox Addition: Effortless crunch for your midday prep.'
+- 'Lunchbox Addition: Effortless crunch for your midday prep. Dunk them into my [quick microwave baba ganoush](/recipes/quick-microwave-baba-ganoush).'
 cuisine: American
 tags:
 - snack

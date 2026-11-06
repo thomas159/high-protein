@@ -9,7 +9,7 @@ if (slug === 'recipes' || slug === 'recetas' || slug === 'rezepte') {
   if (slug === 'recetas' && locale.value === 'en') {
     await navigateTo('/es/categorias/todas-las-recetas', { redirectCode: 301 })
   } else if (slug === 'rezepte' && locale.value === 'en') {
-    await navigateTo('/de/kategorien/all-recipes', { redirectCode: 301 })
+    await navigateTo('/de/kategorien/alle-rezepte', { redirectCode: 301 })
   } else {
     await navigateTo(localePath({ name: 'categories-slug', params: { slug: t('categorySlugs.allrecipes') } }), { redirectCode: 301 })
   }
@@ -21,15 +21,18 @@ if (slug === 'recipes' || slug === 'recetas' || slug === 'rezepte') {
   } else {
     await navigateTo(localePath({ name: 'collections' }), { redirectCode: 301 })
   }
-} else if (slug === 'categories' || slug === 'categorias' || slug === 'kategorien' || slug === 'high-protein' || slug === 'vegan') {
-  if ((slug === 'categorias' || slug === 'high-protein' || slug === 'vegan') && locale.value === 'es') {
+} else if (slug === 'high-protein' || slug === 'vegan') {
+  // Top-level aliases point at the real vegan / high-protein category pages
+  await navigateTo(localePath({ name: 'categories-slug', params: { slug: t(`categorySlugs.${slug === 'vegan' ? 'vegan' : 'highprotein'}`) } }), { redirectCode: 301 })
+} else if (slug === 'categories' || slug === 'categorias' || slug === 'kategorien') {
+  if (slug === 'categorias' && locale.value === 'es') {
     await navigateTo('/es/categorias/todas-las-recetas', { redirectCode: 301 })
-  } else if ((slug === 'kategorien' || slug === 'high-protein' || slug === 'vegan') && locale.value === 'de') {
-    await navigateTo('/de/kategorien/all-recipes', { redirectCode: 301 })
+  } else if (slug === 'kategorien' && locale.value === 'de') {
+    await navigateTo('/de/kategorien/alle-rezepte', { redirectCode: 301 })
   } else if (slug === 'categorias' && locale.value === 'en') {
     await navigateTo('/es/categorias/todas-las-recetas', { redirectCode: 301 })
   } else if (slug === 'kategorien' && locale.value === 'en') {
-    await navigateTo('/de/kategorien/all-recipes', { redirectCode: 301 })
+    await navigateTo('/de/kategorien/alle-rezepte', { redirectCode: 301 })
   } else {
     await navigateTo(localePath({ name: 'categories-slug', params: { slug: t('categorySlugs.allrecipes') } }), { redirectCode: 301 })
   }

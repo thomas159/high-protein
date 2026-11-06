@@ -3,12 +3,11 @@ categories:
   - 15minutemeals
   - dessert
   - ninjacreami
-title: Das beste ultra-cremige 10-Minuten Schoko-Orangen Ninja Creami
+title: "Ultra-cremiges 10-Minuten Schoko-Orangen Ninja Creami"
 slug: das-beste-ultra-cremige-10-minuten-schoko-orangen-ninja-creami
-meta:
-  seoMetaDescription: "Schokolade trifft fruchtige Orange: Dieses 10-Minuten
-    Schoko-Orangen Ninja Creami Protein-Eis ist unfassbar cremig und liefert
-    satte 62 g Protein!"
+date: '2026-08-28'
+updated: '2026-11-06'
+seoDescription: "Schoko trifft Orange: Dieses Ninja Creami Protein-Eis ist in 10 Minuten vorbereitet und liefert satte 62 g Protein. Minimaler Aufwand, maximaler Geschmack."
 description: Eine edle Geschmackskombination wie feine Schoko-Orangen-Pralinen –
   transformiert in ein ultra-cremiges, fettarmes Protein-Eis mit deiner Ninja
   Creami. Perfekt abgestimmt mit frischem Orangenabrieb und feinem Kakao für
@@ -47,6 +46,7 @@ use:
   - "Post-Workout Belohnung: 62g hochwertiges Eiweiß zur optimalen Regeneration."
   - "Süßer Heißhunger-Stopper: Befriedigt jede Schoko-Lust vollkommen
     diätkonform."
+  - "Mehr Eis-Sorten: Alle Rezepte findest du bei unseren [proteinreichen Ninja Creami Rezepten](/de/sammlungen/die-besten-proteinreichen-ninja-creami-rezepte). Pur schokoladig wird es mit dem [ultra-cremigen Schoko Ninja Creami](/de/rezepte/das-beste-ultra-cremige-schoko-ninja-creami)."
 variations:
   - "Mocha-Orange: 1/2 TL Espressopulver zur Eismasse hinzufügen."
   - "Vegane Variante: Pflanzliches Soja-/Erbsenprotein und Mandelmilch sowie

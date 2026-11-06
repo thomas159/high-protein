@@ -2,11 +2,11 @@
 categories:
 - 15minutemeals
 - airfryer
-title: Los mejores nachos crujientes con freidora de aire en 5 minutos
+title: 'Nachos crujientes con queso en freidora de aire en 5 minutos'
 slug: los-mejores-nachos-crujientes-con-freidora-de-aire-en-5-minutos
-meta:
-  seoMetaDescription: ¿Necesitas un refrigerio rápido? Estos nachos de freidora de
-    5 minutos brindan una gratificación instantánea con queso sin tiempo de preparación.
+date: '2026-07-15'
+updated: '2026-11-06'
+seoDescription: 'Nachos crujientes con queso fundido en freidora de aire, listos en 5 minutos y con 14 g de proteína. Mínima preparación, máximo sabor para picar sin esperar.'
 description: 'Esperar 20 minutos a que se precaliente un horno después de una brutal
   sesión de piernas es ridículo. No deberías dedicar más tiempo a cocinar un bocadillo
   que a comerlo. Estos nachos fritos toman exactamente cinco minutos y brindan una
@@ -44,8 +44,7 @@ use:
   rápido de lo que el horno puede encender.'
 - 'Merienda el día del partido: fácil de ampliar para los invitados cuando sus amigos
   vienen a ver el partido.'
-- 'Almuerzo macro: cárguelo con frijoles negros y más verduras para una comida de
-  gran volumen.'
+- 'Almuerzo macro: cárguelo con frijoles negros y más verduras para una comida de gran volumen. Encontrarás más ideas de este estilo en [nuestras versiones caseras y ligeras de la comida para llevar](/es/colecciones/las-falsificaciones-mas-sencillas-y-compatibles-con-macros).'
 tags:
 - mexican
 - snack

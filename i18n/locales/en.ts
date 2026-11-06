@@ -20,6 +20,7 @@ export default {
       "badge": "100+ Tested Recipes",
       "title": "Build Muscle,",
       "highlight": "Not Dishes.",
+      "h1Keyword": "High-protein vegetarian & vegan recipes",
       "subtitle": "Quick, high-protein vegetarian and vegan meals for people who love to eat but hate to wait.",
       "stats": "Explore {count}+ high-protein recipes",
       "spotlightBadge": "Spotlight Recipe",
@@ -99,7 +100,7 @@ export default {
     "fat": "Fat",
     "kcal": "Kcal",
     "more": "Craving more? Check out other",
-    "whyWorks": "Why this {title} recipe works",
+    "whyWorks": "Why this recipe works",
     "featuredIn": "Featured In",
     "flavourProfile": "Flavour profile",
     "variations": "Variations and combinations of ingredients",
@@ -118,7 +119,10 @@ export default {
     "mins": "{count} MINS",
     "kcalCount": "{count} KCAL",
     "ingredientsFor": "Ingredients for {title}",
-    "servings": "Servings"
+    "servings": "Servings",
+    "stepImageAlt": "Step {index} of making {title}",
+    "nutritionFacts": "Nutrition Facts",
+    "servingsPerRecipe": "{count} servings per recipe"
   },
   "categories": {
     "allrecipes": "All Recipes",
@@ -127,7 +131,9 @@ export default {
     "dessert": "Dessert",
     "airfryer": "Air Fryer",
     "15minutemeals": "15 Minute Meals",
-    "ninjacreami": "Ninja Creami"
+    "ninjacreami": "Ninja Creami",
+    "vegan": "Vegan",
+    "highprotein": "High Protein"
   },
   "tags": {
     "air-fryer": "Air Fryer",
@@ -191,7 +197,9 @@ export default {
     "dessert": "dessert",
     "airfryer": "air-fryer",
     "15minutemeals": "15-minute-meals",
-    "ninjacreami": "ninja-creami"
+    "ninjacreami": "ninja-creami",
+    "vegan": "vegan",
+    "highprotein": "high-protein"
   },
   "footer": {
     "description": "Quick, high-protein vegetarian and vegan meals for people who love to eat but hate to wait.",
@@ -216,7 +224,7 @@ export default {
       "ogDescription": "Stop washing dishes and start hitting your macros with our 5-minute vegan recipes."
     },
     "collections": {
-      "title": "Curated Recipe Collections & High-Protein Guides",
+      "title": "High-Protein Recipe Collections & Guides",
       "description": "Explore our hand-picked recipe collections, macro-friendly guides, and kitchen hacks to help you hit your protein goals with minimal prep.",
       "ogTitle": "Curated Recipe Collections | Hot Recipes",
       "ogDescription": "Explore our hand-picked recipe collections, macro-friendly guides, and kitchen hacks to help you hit your protein goals with minimal prep."
@@ -330,6 +338,72 @@ export default {
     "allRecipesDesc": "Browse our complete collection of delicious, macro-friendly, and high-protein recipes designed to help you hit your fitness goals without sacrificing flavor.",
     "categoryTitle": "{category} Recipes",
     "categoryDesc": "Explore our delicious collection of {category} recipes. Perfect for hitting your protein goals while enjoying satisfying, guilt-free meals.",
+    "recipeCount": "{count} recipe available | {count} recipes available",
+    "cats": {
+      "allrecipes": {
+        "title": "High-Protein Vegetarian & Vegan Recipes",
+        "h1": "All High-Protein Vegetarian & Vegan Recipes",
+        "description": "Every high-protein vegetarian and vegan recipe on Hot Recipes in one place. Quick meals, snacks and desserts with full macros and minimal prep.",
+        "intro1": "Every recipe on the site, in one place. None of them contain meat, most are ready in under 20 minutes, and every one comes with full macros per serving.",
+        "intro2": "Use the tag filters below to narrow things down by cuisine, appliance or diet. Not sure where to start? The air fryer and Ninja Creami recipes are where most people end up."
+      },
+      "dinner": {
+        "title": "High-Protein Vegetarian Dinner Recipes",
+        "h1": "High-Protein Vegetarian & Vegan Dinners",
+        "description": "Quick high-protein vegetarian and vegan dinner recipes for busy weeknights. Tofu, noodles, curries and pasta with full macros, most ready in 30 minutes.",
+        "intro1": "Weeknight dinners that actually hit your protein target. Think sticky tofu, peanut noodles, creamy pasta and one-pan curries, all built around ingredients from any supermarket.",
+        "intro2": "Most of these land on the table in 30 minutes or less, and every recipe lists protein, carbs, fat and calories per serving. Cook once, portion it up and tomorrow's lunch is sorted too."
+      },
+      "snacks": {
+        "title": "High-Protein Vegetarian Snack Recipes",
+        "h1": "High-Protein Vegetarian & Vegan Snacks",
+        "description": "Easy high-protein vegetarian and vegan snacks, from crispy air fryer bites to no-bake protein balls. Quick to make, full macros, minimal prep.",
+        "intro1": "Snacks that keep you full between meals instead of sending you back to the biscuit tin an hour later. Crispy halloumi, spiced chickpeas, cottage cheese bowls and plenty of air fryer favourites.",
+        "intro2": "Most take 15 minutes or less. They're handy as a pre-gym top-up or a post-workout refuel when dinner is still a while off."
+      },
+      "dessert": {
+        "title": "High-Protein Dessert Recipes (Vegetarian)",
+        "h1": "High-Protein Vegetarian Desserts",
+        "description": "High-protein desserts that taste like the real thing. Protein cheesecake, Ninja Creami ice cream and air fryer bakes with full macros and minimal prep.",
+        "intro1": "Dessert without wrecking your daily targets. These recipes lean on Greek yoghurt, cottage cheese, protein powder and skyr to pack in protein while keeping the sugar in check.",
+        "intro2": "Expect protein cheesecake bites, air fryer cookies and Ninja Creami pints that genuinely taste like ice cream. Every recipe shows the full macro breakdown per serving."
+      },
+      "airfryer": {
+        "title": "High-Protein Vegetarian Air Fryer Recipes",
+        "h1": "High-Protein Air Fryer Recipes (Vegetarian & Vegan)",
+        "description": "Crispy high-protein vegetarian and vegan air fryer recipes. Extra crispy tofu, halloumi, fries and snacks with full macros, most ready in 15 minutes.",
+        "intro1": "The air fryer is the fastest way to get proper crunch without a pan full of oil. Tofu, halloumi, chickpeas and fries all come out crispy in a fraction of the oven time.",
+        "intro2": "Every recipe lists the exact temperature in Celsius, the cooking time and what to look for, plus full macros per serving. Shake the basket halfway and you're most of the way there."
+      },
+      "15minutemeals": {
+        "title": "15-Minute High-Protein Vegetarian Meals",
+        "h1": "15-Minute High-Protein Meals",
+        "description": "Fast high-protein vegetarian and vegan meals ready in 15 minutes or less. Noodles, tofu, wraps and snacks with full macros and minimal prep.",
+        "intro1": "For the nights when cooking feels like an extra set you didn't sign up for. Every recipe here is on the table in 15 minutes or less, prep included.",
+        "intro2": "Expect quick noodles, crispy tofu, loaded wraps and microwave shortcuts. Fast doesn't mean light on protein, and each recipe lists the macros per serving."
+      },
+      "ninjacreami": {
+        "title": "High-Protein Ninja Creami Recipes",
+        "h1": "High-Protein Ninja Creami Recipes",
+        "description": "Ultra creamy high-protein Ninja Creami ice cream recipes. Chocolate, salted peanut butter, matcha and more with full macros and minimal prep.",
+        "intro1": "Proper scoopable ice cream with a serious protein hit. These pints use milk, protein powder and a few smart thickeners, so the texture stays smooth instead of icy.",
+        "intro2": "Each recipe covers the freeze time, which programme to use and when to re-spin. Full macros are listed on every recipe."
+      },
+      "vegan": {
+        "title": "High-Protein Vegan Recipes",
+        "h1": "High-Protein Vegan Recipes",
+        "description": "Quick high-protein vegan recipes with no meat, dairy or eggs. Crispy tofu, peanut noodles, curries and sauces with full macros and minimal prep.",
+        "intro1": "Fully plant-based recipes that still pull their weight on protein. Tofu, chickpeas, peanut butter and noodles do most of the heavy lifting here.",
+        "intro2": "None of these contain meat, dairy or eggs, and every one lists full macros per serving. Plenty of the vegetarian recipes on the site also go vegan with a simple swap, so check the tips on each one."
+      },
+      "highprotein": {
+        "title": "High-Protein Vegetarian Recipes (20g+)",
+        "h1": "High-Protein Vegetarian Recipes (20g+ Protein)",
+        "description": "Vegetarian and vegan recipes with at least 20g of protein per serving. Tofu, Ninja Creami, noodles and more with full macros and minimal prep.",
+        "intro1": "The heavy hitters. Every recipe on this page packs at least 20g of protein per serving, about the same as a scoop of protein powder, without any meat.",
+        "intro2": "Hitting your daily protein target as a vegetarian is far easier when one meal covers a good chunk of it. Bookmark this page for the days you're behind on your numbers."
+      }
+    },
     "empty": "No recipes found."
   },
   "collectionsPage": {

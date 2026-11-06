@@ -58,7 +58,7 @@ defineProps<{
           v-for="collection in collections" 
           :key="collection.slug" 
           class="flex flex-col snap-center h-full">
-          <CollectionCard :collection="collection" class="h-full" />
+          <CollectionCard :collection="collection" heading-tag="h3" class="h-full" />
         </div>
       </template>
     </div>

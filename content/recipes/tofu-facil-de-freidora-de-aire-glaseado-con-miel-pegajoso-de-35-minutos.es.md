@@ -2,12 +2,11 @@
 categories:
 - airfryer
 - dinner
-title: Tofu fácil de freidora de aire glaseado con miel pegajoso de 35 minutos
+title: 'Tofu glaseado con miel en freidora de aire en 35 minutos'
 slug: tofu-facil-de-freidora-de-aire-glaseado-con-miel-pegajoso-de-35-minutos
-meta:
-  seoMetaDescription: ¿Los golosos están haciendo efecto? Este sencillo tofu para
-    freidora glaseado con miel y pegajoso de 35 minutos forma una corteza caramelizada
-    rápidamente. Alto contenido de proteínas.
+date: '2026-07-15'
+updated: '2026-11-06'
+seoDescription: 'Tofu en freidora de aire con glaseado pegajoso de miel, tostado por fuera y con 24 g de proteína en 35 minutos. Mínima preparación, máximo sabor para cenar.'
 description: Transforme el tofu natural en una delicia dorada y caramelizada. Los
   azúcares naturales de la miel reaccionan con el intenso calor de la freidora para
   formar un glaseado pegajoso fácil de 35 minutos. Se equilibra maravillosamente con

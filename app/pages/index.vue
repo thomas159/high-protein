@@ -15,27 +15,32 @@ const { data: homeData } = await useAsyncData(`home-data-${locale.value}`, async
       }
       return b
     }
+    // Only the fields the homepage cards render, so the SSR payload doesn't ship full recipe bodies
+    const getRecipes = () => getQueryBuilder('recipes')
+      .select('path', 'slug', 'title', 'description', 'seoDescription', 'image', 'alt', 'categories', 'tags', 'macros', 'prepTimeMins', 'cookTimeMins', 'rating', 'reviews')
 
-    const all = await getQueryBuilder('recipes').all()
-    const latest = await getQueryBuilder('recipes').limit(4).all()
+    const all = await getRecipes().all()
+    const latest = await getRecipes().limit(4).all()
     
-    const ninjaCreami = await getQueryBuilder('recipes')
+    const ninjaCreami = await getRecipes()
       .where('categories', 'LIKE', '%ninjacreami%')
       .limit(4).all()
 
-    const trending = await getQueryBuilder('recipes')
+    const trending = await getRecipes()
       .where('categories', 'LIKE', '%trending%')
       .limit(4).all()
 
-    const airFryer = await getQueryBuilder('recipes')
+    const airFryer = await getRecipes()
       .where('categories', 'LIKE', '%airfryer%')
       .limit(4).all()
 
-    const fifteenMin = await getQueryBuilder('recipes')
+    const fifteenMin = await getRecipes()
       .where('categories', 'LIKE', '%15minutemeals%')
       .limit(4).all()
 
-    const topCollections = await getQueryBuilder('collections').all()
+    const topCollections = await getQueryBuilder('collections')
+      .select('path', 'slug', 'title', 'description', 'image', 'recipes')
+      .all()
 
     const spotlight = trending.find(r => r.image) || latest[0] || null
     const editorial = all.find(r => r.image && r.slug !== spotlight?.slug && ((r.macros?.protein && r.macros.protein >= 25) || r.rating >= 4.7)) || latest[1] || null
@@ -125,6 +130,7 @@ useSeoMeta({
         </div>
 
         <h1 class="text-4xl sm:text-6xl lg:text-7xl font-black tracking-tighter leading-[1.05]">
+          <span class="block text-sm sm:text-base font-black uppercase tracking-widest text-muted-foreground mb-3">{{ t('home.hero.h1Keyword') }}</span>
           {{ t('home.hero.title') }} <span class="text-emerald-500">{{ t('home.hero.highlight') }}</span>
         </h1>
 

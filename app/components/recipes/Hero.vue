@@ -116,6 +116,9 @@ const scrollToRecipe = () => {
       <Img 
         :src="props.recipe.image"
         :alt="props.recipe.alt || props.recipe.title" class="w-full h-full object-cover rounded-b-3xl md:rounded-3xl shadow-none md:shadow-xl border-0 md:border border-border" 
+        sizes="sm:100vw md:100vw lg:50vw"
+        width="1200"
+        height="900"
         high
         />
     </div>

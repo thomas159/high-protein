@@ -2,11 +2,11 @@
 categories:
 - 15minutemeals
 - dinner
-title: Pizza Naan Paneer de mango crujiente fácil de 15 minutos
+title: 'Pizza naan crujiente de paneer y mango en 15 minutos'
 slug: pizza-naan-paneer-de-mango-crujiente-facil-de-15-minutos
-meta:
-  seoMetaDescription: Evite la comida para llevar con esta sencilla pizza crujiente
-    de mango paneer naan de 15 minutos. La mejor cena rápida de fusión india.
+date: '2026-07-15'
+updated: '2026-11-06'
+seoDescription: 'Pizza naan crujiente con paneer y mango, lista en 15 minutos y con 17 g de proteína por ración. Mínima preparación, máximo sabor de fusión india en casa.'
 description: 'Un pan naan esponjoso es la base perfecta para pizza que requiere poco
   esfuerzo, evitando la pesadilla absoluta de hacer masa desde cero.
 
@@ -38,7 +38,7 @@ use:
 - 'Cena de retroalimentación: una solución brutalmente rápida para la tradicional
   noche de pizza.'
 - 'Almuerzo Rápido: Montado y listo en menos de 15 minutos.'
-- 'Personalizable: Muy fácil de modificar para diferentes macros.'
+- 'Personalizable: Muy fácil de modificar para diferentes macros. Si te gusta el toque indio, prueba [el tofu tikka en freidora de aire](/es/recetas/freidora-de-aire-rapida-carbonizada-y-rica-en-proteinas-tikka-tofu-de-35-minutos) o mira [más versiones caseras de la comida para llevar](/es/colecciones/las-falsificaciones-mas-sencillas-y-compatibles-con-macros).'
 cuisine: India
 tags:
 - indian

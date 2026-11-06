@@ -1,11 +1,11 @@
 --- 
 categories:
 - 15minutemeals
-title: Cuscús marroquí esponjoso, rápido y fácil de 10 minutos
+title: 'Cuscús marroquí esponjoso, rápido y fácil en 10 minutos'
 slug: cuscus-marroqui-esponjoso-rapido-y-facil-de-10-minutos
-meta:
-  seoMetaDescription: ¿Necesitas una guarnición rápida? Este cuscús marroquí esponjoso
-    y rápido de 10 minutos es la base mediterránea vibrante perfecta.
+date: '2026-07-15'
+updated: '2026-11-06'
+seoDescription: 'Cuscús marroquí esponjoso listo en 10 minutos, con 21 g de proteína por ración. Mínima preparación, máximo sabor para una guarnición o un almuerzo rápido.'
 description: 'La base de carbohidratos más versátil que no requiere cocción a fuego
   lento. **Al incluir proteínas pesadas y carbohidratos para obtener macros sólidas**,
   verter caldo de verduras hirviendo sobre el cuscús lo rehidrata instantáneamente.
@@ -44,7 +44,7 @@ works:
 use:
 - 'Base de carbohidratos: la mejor base para tofu asado o verduras asadas.'
 - 'Preparación de comidas: Sabe muy bien frío en tu lonchera.'
-- 'Rapid Side: un código de trucos de 10 minutos para cenas mediterráneas.'
+- 'Rapid Side: un código de trucos de 10 minutos para cenas mediterráneas. Para un plato de mezze completo, sírvelo con [baba ganoush ultracremoso al microondas](/es/recetas/baba-ganoush-rapido-y-ultracremoso-para-microondas-en-15-minutos).'
 rating: null
 variations:
 - 'Pico de proteína: Agregue una lata de garbanzos escurrida.'

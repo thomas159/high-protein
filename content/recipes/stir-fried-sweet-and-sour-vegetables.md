@@ -3,12 +3,12 @@ categories:
 - dinner
 title: Easy 30-Minute Crunchy Thai Sweet & Sour Stir-Fry
 slug: stir-fried-sweet-and-sour-vegetables
-meta:
-  seoMetaDescription: Hit your micronutrient targets fast! This easy 30-minute crunchy
-    Thai sweet & sour stir-fry is a vibrant vegan dinner.
+date: '2026-03-08'
+updated: '2026-11-06'
+seoDescription: Crunchy Thai sweet and sour vegetable stir-fry in 30 minutes with fresh pineapple. Minimal prep, maximum flavour, and a vibrant vegan swap for takeaway.
 description: 'Get some serious, fresh micronutrients into your system with this easy
   30-minute crunchy Thai stir-fry. Searing the vegetables over high heat locks in
-  their satisfying crunch, while a simple cornstarch trick turns the tangy vinegar
+  their satisfying crunch, while a simple cornflour (cornstarch) trick turns the tangy vinegar
   and stock into a beautifully glossy glaze. Clean, efficient fuel on the table in
   no time.
 
@@ -47,10 +47,8 @@ works:
   into a glossy coating that clings perfectly to every vegetable.'
 use:
 - 'Weeknight Fuel: A brilliantly efficient 30-minute meal served over a heap of fluffy jasmine rice.'
-- 'Fridge Clearance: Use up whatever leftover vegetables you have lying around—peppers,
-  broccoli, or baby corn work beautifully.'
-- 'Meal Prep: Holds its bite exceptionally well, making it a great option for the
-  next day.'
+- 'Fridge Clearance: Use up whatever leftover vegetables you have lying around—peppers, broccoli, or baby corn work beautifully.'
+- 'Meal Prep: Holds its bite exceptionally well, making it a great option for the next day. Browse more takeaway swaps in my [macro-friendly fakeaways](/collections/easy-macro-friendly-fakeaways).'
 variations:
 - 'Protein Addition: Toss in some crispy air-fried tofu cubes.'
 - 'Cashew Crunch: Top it with roasted cashews before serving.'

@@ -4,7 +4,8 @@ import Img from '@/components/Img.vue'
 export interface Recipe {
   title: string;
   slug: string;
-  description: string;
+  description?: string;
+  seoDescription?: string;
   image?: string; 
   alt?: string;
   categories: string[];
@@ -13,14 +14,14 @@ export interface Recipe {
   reviews: number;
   prepTimeMins: number;
   cookTimeMins: number;
-  servings: number;
+  servings?: number;
   macros: {
     calories: number;
     carbs: number;
     protein: number;
     fat: number;
   };
-  ingredients: {
+  ingredients?: {
     item: string;
     amount: number;
     unit: string;
@@ -85,12 +86,12 @@ const { t } = useI18n()
         </span>
       </div>
       
-      <h2 class="font-display text-base sm:text-lg font-black text-foreground mb-2 group-hover:text-emerald-500 transition-colors leading-snug tracking-tight">
+      <h3 class="font-display text-base sm:text-lg font-black text-foreground mb-2 group-hover:text-emerald-500 transition-colors leading-snug tracking-tight">
         {{ props.recipe.title }}
-      </h2>
+      </h3>
       
       <!-- eslint-disable-next-line vue/no-v-html -->
-      <p class="font-body text-xs text-muted-foreground line-clamp-2 mb-4 leading-relaxed" v-html="formatText(props.recipe.description)"/>
+      <p class="font-body text-xs text-muted-foreground line-clamp-2 mb-4 leading-relaxed" v-html="formatText(props.recipe.seoDescription || props.recipe.description || '')"/>
       
       <div class="mt-auto pt-3 flex items-center justify-between text-[11px] font-black uppercase tracking-wider text-emerald-500 group-hover:text-emerald-400 border-t border-border/60 transition-colors">
         <span>{{ t('home.hero.viewRecipe') }}</span>

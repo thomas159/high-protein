@@ -4,10 +4,11 @@ categories:
 - airfryer
 - snacks
 - dessert
-title: Die ultimativen saftig-knusprigen 10-Minuten Airfryer Bananen-Haferflocken-Kekse
+title: "Saftige 10-Minuten Airfryer Bananen-Haferflocken-Kekse"
 slug: airfryer-bananen-haferflocken-kekse
-meta:
-  seoMetaDescription: Lust auf Gebäck unter 100 kcal? Diese schnellen 10-Minuten Airfryer Bananen-Haferflocken-Kekse bieten minimalen Aufwand, maximalen Geschmack und saftigen Keksgenuss ganz ohne Mehl oder Zucker.
+date: '2026-09-08'
+updated: '2026-11-06'
+seoDescription: "Kekse unter 100 kcal in 10 Minuten: Diese Airfryer Bananen-Haferflocken-Kekse kommen ganz ohne Mehl und Zucker aus. Minimaler Aufwand, maximaler Geschmack."
 description: 'Zwei einfache, vollwertige Grundzutaten genügen für den perfekten Snack mit stabilem Blutzuckerspiegel. Der Airfryer vollbringt in nur acht Minuten echte Wunder: Aus zerdrückter reifer Banane und zarten Haferflocken werden ofenwarme, saftige Kekse mit knusprigen Rändern. Verfeinert mit edlen 85% Schokodrops und etwas Zimt – kaum zu glauben, dass diese Portion unter 100 Kalorien hat.'
 blurb: []
 image: air-fryer-banana-oat-cookies_1_y6nwl5
@@ -41,6 +42,7 @@ works:
 - 'Schnelle Konvektions-Bräunung: Der 180°C Heißluftstrom röstet die äußeren Flockenränder in 8 Minuten herrlich knusprig, während der Kern weich und saftig bleibt.'
 - 'Ausgeglichene Energie: Lösliche Ballaststoffe (Beta-Glucane) aus Hafer verzögern die Aufnahme des Fruchtzuckers und sorgen für anhaltende Energie ohne Blutzucker-Achterbahn.'
 use:
+- "Mehr Snacks aus dem Korb: Weitere Ideen findest du bei unseren [schnellsten und knusprigsten Airfryer-Snacks](/de/sammlungen/schnellste-knusprigste-airfryer-snacks). Wer mehr Protein will, greift zu den [No-Bake Protein Energie-Bällchen](/de/rezepte/einfache-5-minuten-no-bake-protein-energie-baellchen)."
 - 'Pre-Workout-Energie: Leicht verdauliche, komplexe Kohlenhydrate, um die Glykogenspeicher vor dem Training rasch aufzuladen.'
 - 'Nachmittags-Tief überwinden: Ein warmer, schokoladiger Bissen, der perfekt in jeden kalorienbewussten Ernährungsplan passt.'
 - 'Heißhunger am Abend: Stillt das Verlangen nach frischem Gebäck in zehn Minuten von der Vorbereitung bis zum ersten Bissen.'

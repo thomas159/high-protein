@@ -1,6 +1,9 @@
 ---
 title: "Einfache makrofreundliche Fakeaways"
 slug: "einfache-makrofreundliche-fakeaways"
+seoDescription: "Makrofreundliche Fakeaways statt Lieferdienst: proteinreiche Klassiker, schneller fertig als jede Bestellung. Minimaler Aufwand, maximaler Geschmack."
+date: '2026-08-28'
+updated: '2026-11-06'
 description: |
   Seien wir ehrlich: Nach einer harten Trainingswoche hat jeder von uns Heißhunger auf Fast Food. Aber dreißig Euro für triefendes Essen auszugeben und damit das mühsam erarbeitete Kaloriendefizit zu ruinieren, muss nicht sein. Hier sind meine besten, einfachen Fakeaways für zu Hause.
 
