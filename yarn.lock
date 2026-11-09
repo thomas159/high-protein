@@ -17785,7 +17785,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"unstorage@npm:^1.13.1, unstorage@npm:^1.16.0, unstorage@npm:^1.16.1, unstorage@npm:^1.17.3, unstorage@npm:^1.17.4":
+"unstorage@npm:1.17.4":
   version: 1.17.4
   resolution: "unstorage@npm:1.17.4"
   dependencies:
