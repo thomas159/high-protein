@@ -4,10 +4,10 @@ categories:
 title: 'Tofu coreano picante y pegajoso con gochujang en 35 minutos'
 slug: tofu-gochujang-coreano-pegajoso-y-picante-facil-de-35-minutos
 date: '2026-07-15'
-updated: '2026-11-06'
+updated: '2026-11-19'
 seoDescription: 'Tofu coreano con gochujang, picante y pegajoso, vegano y con 24 g de proteína en 35 minutos. Mínima preparación, máximo sabor para una cena con carácter.'
 description: 'Una marinada coreana fermentada y ardiente que contiene gochujang, salsa
-  de soja y sésamo. Perfecto para tofu pegajoso y carbonizado para freidora. Esta
+  de soja y sésamo. Perfecto para tofu pegajoso y tostado para freidora. Esta
   sencilla marinada de 35 minutos golpea tu paladar como un máximo de una repetición.
 
   Hace que alcanzar tus objetivos diarios basados ​​en plantas como un nuevo PB sea
@@ -31,7 +31,7 @@ keywords:
 tipsTitle: Mecánica de Gochujang
 tips:
 - 'Preparación de tofu: omita la tediosa prensa de 15 minutos. Echa un vistazo a nuestros
-  [Trucos definitivos para preparar tofu rápido](/es/colecciones/los-mejores-trucos-rapidos-para-preparar-tofu-microondas-versus-hervir) para conseguir
+  [Trucos definitivos para preparar tofu rápido](/es/colecciones/trucos-para-preparar-tofu-microondas-o-hervido) para conseguir
   la textura perfecta antes de cocinar.'
 - 'Azúcar para el glaseado: El azúcar no es solo para endulzar: se carameliza violentamente
   con el calor para formar una laca pegajosa.'
@@ -118,14 +118,14 @@ steps:
 - Prepare el tofu calentándolo en el microondas en ráfagas de 30 segundos hasta que
   esté seco, pero no cocido (aproximadamente 4 minutos) o hirviéndolo durante 5 a
   10 minutos para expulsar el agua y que la marinada pueda penetrar. Consulte nuestros
-  [Trucos definitivos para preparar tofu rápido](/es/colecciones/los-mejores-trucos-rapidos-para-preparar-tofu-microondas-versus-hervir) para conocer
+  [Trucos definitivos para preparar tofu rápido](/es/colecciones/trucos-para-preparar-tofu-microondas-o-hervido) para conocer
   los métodos exactos.
 - Batir el ketchup, el azúcar, el gochujang, la salsa de soja, el vinagre, el ajo,
   el jengibre, el aceite de sésamo y una pizca de sal.
 - Corta el tofu en cubos de 2 cm y mézclalo agresivamente con la marinada. Déjalo
   reposar durante 30 minutos.
 - 'Freír al aire a 180°C durante 6-10 minutos, agitando hasta la mitad. O fríalos
-  hasta obtener una corteza carbonizada y pegajosa. Obsérvelo de cerca en los minutos
+  hasta obtener una corteza tostada y pegajosa. Obsérvelo de cerca en los minutos
   finales: el alto contenido de azúcar hará que pase de una laca brillante a cenizas
   quemadas muy rápidamente.'
 - Cúbralo con semillas de sésamo tostadas y cebolletas frescas para reducir el fuego.

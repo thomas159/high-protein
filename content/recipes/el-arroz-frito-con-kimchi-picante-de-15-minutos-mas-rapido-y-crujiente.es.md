@@ -4,7 +4,7 @@ categories:
 title: 'Arroz frito con kimchi picante y crujiente en 15 minutos'
 slug: el-arroz-frito-con-kimchi-picante-de-15-minutos-mas-rapido-y-crujiente
 date: '2026-07-15'
-updated: '2026-11-06'
+updated: '2026-11-19'
 seoDescription: 'Arroz frito con kimchi picante, con bordes crujientes y 13 g de proteína, listo en 15 minutos. Mínima preparación, máximo sabor para una cena rápida.'
 description: 'La comida de recuperación definitiva cuando necesitas mucho sabor rápidamente.
   **Aportando proteínas sólidas con un mínimo de calorías**, el kimchi añejo aporta
@@ -54,7 +54,7 @@ variations:
 - 'Macro Boost: agregue un puñado enorme de edamame sin cáscara.'
 reviews: null
 servingSuggestions: Un huevo frito de coronación no es negociable. La yema líquida
-  se mezcla perfectamente con los granos picantes. Sirva con bocadillos crujientes
+  se mezcla perfectamente con los granos picantes. Sirva con snacks crujientes
   de algas para recogerlo.
 storageInstructions: Refrigerar en un recipiente hermético durante 4 días. Se congela
   brillantemente durante 2 meses. Microondas directamente desde congelado.

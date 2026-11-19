@@ -3,9 +3,11 @@ categories:
 - 15minutemeals
 - dinner
 title: 'Risotto cremoso de calabacín al microondas en 15 minutos'
-slug: risotto-de-calabacin-calabacin-facil-de-microondas-ultracremoso-de-15-minutos
+slug: risotto-cremoso-de-calabacin-al-microondas
+previousSlugs:
+- risotto-de-calabacin-calabacin-facil-de-microondas-ultracremoso-de-15-minutos
 date: '2026-07-15'
-updated: '2026-11-06'
+updated: '2026-11-19'
 seoDescription: 'Risotto de calabacín ultracremoso hecho en el microondas en 15 minutos, sin remover sin parar. Mínima preparación, máximo sabor y 16 g de proteína por ración.'
 description: 'Un risotto italiano adecuado generalmente requiere revolver durante
   40 minutos sobre una estufa caliente. Elegimos intencionalmente este truco para

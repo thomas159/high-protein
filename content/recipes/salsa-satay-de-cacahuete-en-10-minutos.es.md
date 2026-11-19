@@ -3,15 +3,17 @@ categories:
 - 15minutemeals
 - snacks
 title: 'Salsa satay de cacahuete ultracremosa en 10 minutos'
-slug: salsa-de-mani-satay-tailandesa-ultracremosa-rapida-de-10-minutos
+slug: salsa-satay-de-cacahuete-en-10-minutos
+previousSlugs:
+- salsa-de-mani-satay-tailandesa-ultracremosa-rapida-de-10-minutos
 date: '2026-07-15'
-updated: '2026-11-06'
+updated: '2026-11-19'
 seoDescription: 'Salsa satay tailandesa de cacahuete, ultracremosa, vegana y picante, lista en 10 minutos. Mínima preparación, máximo sabor para tofu, fideos o verduras.'
 description: 'Un multitarea de primer nivel para tu cocina. **Con grasas saludables
   y una gran cantidad de proteínas para macros sólidas**, "hacer florecer" la pasta
   de curry rojo en leche de coco desbloquea una bomba de sabor rápida de 10 minutos.
 
-  Cargado con maní triturado y tamarindo picante. Desarrollado para rivalizar con
+  Cargado con cacahuete triturado y tamarindo picante. Desarrollado para rivalizar con
   la auténtica comida callejera tailandesa sin horas de cocción a fuego lento.'
 blurb: []
 tipsTitle: Dominio de la salsa
@@ -26,7 +28,7 @@ tips:
 works:
 - 'El factor tamarindo: El tamarindo añade una profundidad fermentada que el jugo
   de lima estándar simplemente no puede alcanzar.'
-- 'Contraste de textura: El maní triturado proporciona una textura rústica de primera
+- 'Contraste de textura: El cacahuete triturado proporciona una textura rústica de primera
   calidad que se adhiere perfectamente a las proteínas.'
 - 'Floración soluble en grasa: Los aceites intensos y aromáticos de la pasta de curry
   rojo son solubles en grasa. Freírlos suavemente en la espesa crema de coco extrae
@@ -36,9 +38,9 @@ use:
 - 'Como salsa: inmejorable para brochetas de halloumi o preparación de verduras crudas.'
 - 'Como aderezo: Dilúyalo con agua y lima para obtener un aderezo para ensaladas alto
   en grasa.'
-- 'Como salsa para saltear: mezcle directamente con los fideos de arroz para una recarga rápida de carbohidratos. Para verla en acción, prueba [los fideos udon ultracremosos con cacahuete](/es/recetas/fideos-udon-rapidos-y-ultracremosos-con-mantequilla-de-mani-en-15-minutos).'
+- 'Como salsa para saltear: mezcle directamente con los fideos de arroz para una recarga rápida de carbohidratos. Para verla en acción, prueba [los fideos udon ultracremosos con cacahuete](/es/recetas/fideos-udon-con-crema-de-cacahuete-en-15-minutos).'
 image: peanut-satay-sauce_rngtry
-alt: Rica y cremosa salsa de maní satay en un bol
+alt: Rica y cremosa salsa de cacahuete satay en un bol
 pintrest: ''
 cuisine: Tailandesa
 tags:
@@ -48,7 +50,7 @@ tags:
 keywords:
 - condimento
 - cremoso
-- salsa de maní
+- salsa de cacahuete
 - satay sauce
 - sauce
 - thai
@@ -78,7 +80,7 @@ ingredients:
 - item: Pasta de curry rojo tailandés
   amount: 0.5
   unit: tbsp
-- item: maní tostado
+- item: cacahuete tostado
   type: finamente picado
   amount: 20
   unit: g
@@ -92,13 +94,13 @@ faq:
 - question: ¿Qué puedo usar en lugar de pasta de tamarindo?
   answer: Partes iguales de jugo de lima y una pizca de azúcar moreno es una solución
     alternativa sólida.
-- question: ¿Puedo usar mantequilla de maní suave en lugar de maní picado?
+- question: ¿Puedo usar crema de cacahuete suave en lugar de cacahuete picado?
   answer: Sí, produce una inmersión más suave y uniforme.
 steps:
 - Pon la leche de coco y la pasta de curry rojo en una cacerola a fuego medio-bajo.
   Revuelva suavemente. Cocine hasta que esté fragante y pequeñas gotas de aceite rojo
   brillen en la parte superior. Esto significa que las especias han florecido oficialmente.
-- Agrega el maní picado. Cocine por 2 minutos. La salsa se endurecerá hasta formar
+- Agrega el cacahuete picado. Cocine por 2 minutos. La salsa se endurecerá hasta formar
   un glaseado espeso y brillante.
 - Mata el calor por completo. Agrega el azúcar y la pasta de tamarindo. Hervir el
   tamarindo destruye las notas brillantes y picantes y vuelve la salsa amarga, así

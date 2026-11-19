@@ -3,16 +3,18 @@ categories:
 - airfryer
 - dinner
 title: 'Tofu garam masala tostado en freidora de aire en 35 minutos'
-slug: tofu-freidora-de-aire-garam-masala-carbonizado-rapido-de-35-minutos
+slug: tofu-garam-masala-en-freidora-de-aire
+previousSlugs:
+- tofu-freidora-de-aire-garam-masala-carbonizado-rapido-de-35-minutos
 date: '2026-07-15'
-updated: '2026-11-06'
+updated: '2026-11-19'
 seoDescription: 'Tofu garam masala tostado en la freidora de aire, vegano y con 24 g de proteína en 35 minutos. Mínima preparación, máximo sabor para las comidas de la semana.'
 description: 'Esta marinada rápida de Garam Masala es una potencia de sabor. El jugo
   de lima ablanda el tofu, dejando que el jengibre terroso y las especias indias penetren
   hasta el centro.
 
 
-  Se forma una corteza carbonizada fenomenal en la freidora. Alto en proteínas, totalmente
+  Se forma una corteza tostada fenomenal en la freidora. Alto en proteínas, totalmente
   vegano y sin BS: el combustible perfecto para tus ganancias.
 
 
@@ -35,7 +37,7 @@ keywords:
 - vegan
 tipsTitle: Especias y carbón
 tips:
-- 'Preparación de tofu: consulte nuestros [Trucos definitivos para preparar tofu rápido](/es/colecciones/los-mejores-trucos-rapidos-para-preparar-tofu-microondas-versus-hervir)
+- 'Preparación de tofu: consulte nuestros [Trucos definitivos para preparar tofu rápido](/es/colecciones/trucos-para-preparar-tofu-microondas-o-hervido)
   para lograr la textura perfecta antes de cocinar.'
 - 'Base de yogur: Para obtener una cobertura ''tandoori'' adecuada, mezcle las especias
   con 2 cucharadas de yogur sin lácteos.'
@@ -47,7 +49,7 @@ works:
 - 'Absorción de sabor: El jugo de lima descompone la superficie del tofu lo suficiente
   como para permitir que esas pesadas especias indias se hunda hasta el centro. Si
   el tofu no se prensa correctamente, el agua bloqueará la marinada.'
-- 'Factor de carbonización: a fuego alto carameliza la pasta de jengibre y ajo hasta
+- 'Factor tostado: a fuego alto carameliza la pasta de jengibre y ajo hasta
   obtener una corteza de élite. Busque bordes oscuros y crujientes que indiquen la
   reacción perfecta de Maillard.'
 use:
@@ -110,7 +112,7 @@ steps:
 - Prepare el tofu calentándolo en el microondas en ráfagas de 30 segundos hasta que
   esté seco, pero no cocido (aproximadamente 4 minutos) o hirviéndolo durante 5 a
   10 minutos para expulsar el agua y que el bloque pueda absorber la marinada. Consulte
-  nuestros [Trucos definitivos para preparar tofu rápido](/es/colecciones/los-mejores-trucos-rapidos-para-preparar-tofu-microondas-versus-hervir)
+  nuestros [Trucos definitivos para preparar tofu rápido](/es/colecciones/trucos-para-preparar-tofu-microondas-o-hervido)
   para conocer los métodos exactos.
 - Batir la pasta de ajo y jengibre, la guindilla en polvo, el jugo de lima, el garam
   masala y un chorrito de aceite.

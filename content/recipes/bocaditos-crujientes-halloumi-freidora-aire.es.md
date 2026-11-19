@@ -6,7 +6,7 @@ categories:
 title: 'Bocaditos de halloumi crujientes en freidora en 10 minutos'
 slug: bocaditos-crujientes-halloumi-freidora-aire
 date: '2026-09-08'
-updated: '2026-11-06'
+updated: '2026-11-19'
 seoDescription: 'Bocaditos de halloumi dorados y crujientes en freidora de aire en solo 10 minutos. Mínima preparación, máximo sabor y 7 g de proteína para picar sin culpa.'
 description: 'Crujientes por fuera, tiernos por dentro y dorados a la perfección en diez minutos. Cambiar la sartén por la freidora de aire logra una corteza dorada insuperable aprovechando las grasas naturales del propio queso, sin necesidad de añadir aceite. Regados con un hilo de miel líquida, copos de guindilla y tomillo fresco, estos bocados ofrecen un contraste dulce y salado perfecto para cuidar tus macros.'
 blurb: []
@@ -42,7 +42,7 @@ works:
 use:
 - 'Snack proteico rápido: Un bocado funcional de 95 calorías con 7 g de proteína que sacia los antojos entre comidas y te ayuda a clavar tus objetivos del día.'
 - 'Entrante estilo tapas: Sírvelos con palillos junto a unas aceitunas, pan de pita caliente y hummus para un aperitivo digno de restaurante.'
-- 'Toque crujiente para ensaladas: Añade los dados calientes directamente sobre una ensalada de rúcula y tomates cherry para ganar textura y sabor al instante. Para completar la mesa de picoteo, echa un vistazo a [los snacks más rápidos y crujientes para freidora de aire](/es/colecciones/los-bocadillos-y-golosinas-para-freidora-de-aire-mas-rapidos-y-crujientes).'
+- 'Toque crujiente para ensaladas: Añade los dados calientes directamente sobre una ensalada de rúcula y tomates cherry para ganar textura y sabor al instante. Para completar la mesa de picoteo, echa un vistazo a [los snacks más rápidos y crujientes para freidora de aire](/es/colecciones/snacks-y-dulces-en-freidora-de-aire).'
 whyTitle: Por qué te encantará
 why:
 - 'Satisface cualquier antojo: La combinación de sal, grasa láctea, calor y dulzor activa todos los centros de saciedad para que una porción pequeña resulte plenamente placentera.'

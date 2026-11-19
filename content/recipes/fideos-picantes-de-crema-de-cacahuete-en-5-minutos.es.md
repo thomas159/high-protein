@@ -2,20 +2,22 @@
 categories:
 - 15minutemeals
 title: 'Fideos picantes y cremosos de cacahuete en 5 minutos'
-slug: fideos-rapidos-con-chile-y-mantequilla-de-mani-ultracremosos-en-5-minutos
+slug: fideos-picantes-de-crema-de-cacahuete-en-5-minutos
+previousSlugs:
+- fideos-rapidos-con-chile-y-mantequilla-de-mani-ultracremosos-en-5-minutos
 date: '2026-07-15'
-updated: '2026-11-06'
+updated: '2026-11-19'
 seoDescription: 'Fideos picantes con salsa cremosa de cacahuete y chile, veganos y con 14 g de proteína en 5 minutos. Mínima preparación, máximo sabor para cenar al instante.'
 description: 'Un equilibrio brillante entre las grasas pesadas de la mantequilla de
-  maní y el picante picante del chile. El uso del agua de fideos con almidón emulsiona
+  cacahuete y el picante picante del chile. El uso del agua de fideos con almidón emulsiona
   la salsa al instante, lo que le brinda fideos ultracremosos rápidos en 5 minutos.
 
 
   El jengibre crudo proporciona un potente efecto antiinflamatorio. Mi comida de preparación
   rápida preferida, probada infinitamente para equilibrar el fuerte vinagre de vino
-  de arroz con las pesadas grasas de maní, asegurando una viscosidad brillante y contundente.'
+  de arroz con las pesadas grasas de cacahuete, asegurando una viscosidad brillante y contundente.'
 image: 5-minute-peanut-butter-chilli-noodle_getziq
-alt: Fideos con chile y mantequilla de maní en 5 minutos en un tazón
+alt: Fideos con chile y crema de cacahuete en 5 minutos en un tazón
 tags:
 - high-protein
 - vegan
@@ -29,15 +31,15 @@ keywords:
 - vegan
 tipsTitle: Salsa y chisporroteo
 tips:
-- 'Control de consistencia: La mantequilla de maní se convierte en concreto cuando
+- 'Control de consistencia: La crema de cacahuete se convierte en concreto cuando
   se calienta. Tenga a mano agua de fideos con almidón para aflojarlos y formar un
   glaseado.'
 - 'El equilibrio ácido: no te saltes el vinagre de vino de arroz. La fuerte acidez
-  atraviesa directamente las pesadas grasas de maní.'
-- 'Factor crujiente: martille el plato terminado con maní triturado, chalotas fritas
+  atraviesa directamente las pesadas grasas de cacahuete.'
+- 'Factor crujiente: martille el plato terminado con cacahuete triturado, chalotas fritas
   crujientes o semillas de sésamo tostadas.'
 works:
-- 'Emulsión unida a almidón: Las grasas de la mantequilla de maní y la salsa de soja
+- 'Emulsión unida a almidón: Las grasas de la crema de cacahuete y la salsa de soja
   acuosa se repelen naturalmente entre sí. Los almidones de amilosa lixiviados en
   el agua de fideos reservada actúan como un emulsionante mecánico, uniendo físicamente
   las moléculas de grasa y agua en un glaseado espeso, brillante e irrompible. Busque
@@ -81,7 +83,7 @@ ingredients:
   type: Fideos ramen o arroz
   amount: 100
   unit: g
-- item: Manteca de cacahuete
+- item: Crema de cacahuete
   amount: 2
   unit: tsp
 - item: Salsa De Soja Ligera
@@ -116,18 +118,18 @@ faq:
 - question: ¿Puedo comer este plato frío?
   answer: Absolutamente. Funcionan de maravilla como macroensalada fría. Basta con
     añadir un chorrito de agua para soltar la salsa.
-- question: ¿Qué puedo usar en lugar de mantequilla de maní?
+- question: ¿Qué puedo usar en lugar de crema de cacahuete?
   answer: La mantequilla de almendras, anacardos o semillas de girasol son sustitutos
     de élite.
 steps:
 - Hervir los fideos. Escurrir, pero reservar estrictamente un chorrito de agua de
   cocción con almidón. Este es el pegamento para tu salsa.
-- En un bol, bata agresivamente la mantequilla de maní, la salsa de soja, el agave,
+- En un bol, bata agresivamente la crema de cacahuete, la salsa de soja, el agave,
   el ajo, el jengibre y el aceite de chile. Si parece cemento, agregue el agua caliente
   de los fideos poco a poco hasta que se convierta en un almíbar espeso y brillante
   que se vierte suavemente.
 - Pon el aceite de sésamo en un wok a fuego lento. Agregue los fideos para cubrirlos.
-- Vierte la salsa de maní sobre los fideos en el wok. Sofría durante 1-2 minutos hasta
+- Vierte la salsa de cacahuete sobre los fideos en el wok. Sofría durante 1-2 minutos hasta
   que el glaseado se adhiera a cada hebra.
 - Servir inmediatamente. Adorne abundantemente con cebolletas, semillas de sésamo
   y un chorrito de lima.

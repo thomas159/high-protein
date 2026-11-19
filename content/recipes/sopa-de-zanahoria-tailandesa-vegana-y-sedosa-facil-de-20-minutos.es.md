@@ -4,7 +4,7 @@ categories:
 title: 'Sopa tailandesa de zanahoria vegana y sedosa en 20 minutos'
 slug: sopa-de-zanahoria-tailandesa-vegana-y-sedosa-facil-de-20-minutos
 date: '2026-07-15'
-updated: '2026-11-06'
+updated: '2026-11-19'
 seoDescription: 'Sopa tailandesa de zanahoria con leche de coco y curry rojo, vegana, sedosa y lista en 20 minutos. Mínima preparación, máximo sabor en una sola olla.'
 description: Sumérgete en los ricos y aromáticos sabores de Tailandia con esta sencilla
   y sedosa sopa de zanahoria tailandesa de 20 minutos. Con una infusión de pasta de
@@ -55,7 +55,7 @@ variations:
 - 'Intercambio de batata: Cambie la mitad de las zanahorias por batata para aumentar
   los carbohidratos.'
 servingSuggestions: Sirva esto junto con masa madre tibia o naan con ajo para mojar.
-  Cubra abundantemente con maní tostado para obtener una textura crujiente crucial.
+  Cubra abundantemente con cacahuete tostado para obtener una textura crujiente crucial.
 shelf_life: 4 Days (Refrigerated)
 storageInstructions: Nevera para 4 días. Se congela brillantemente por hasta 3 meses.
   Descongele durante la noche y vuelva a calentar suavemente, revolviendo para resucitar

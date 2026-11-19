@@ -5,7 +5,7 @@ categories:
 title: 'Tofu glaseado con miel en freidora de aire en 35 minutos'
 slug: tofu-facil-de-freidora-de-aire-glaseado-con-miel-pegajoso-de-35-minutos
 date: '2026-07-15'
-updated: '2026-11-06'
+updated: '2026-11-19'
 seoDescription: 'Tofu en freidora de aire con glaseado pegajoso de miel, tostado por fuera y con 24 g de proteína en 35 minutos. Mínima preparación, máximo sabor para cenar.'
 description: Transforme el tofu natural en una delicia dorada y caramelizada. Los
   azúcares naturales de la miel reaccionan con el intenso calor de la freidora para
@@ -26,9 +26,9 @@ keywords:
 tags:
 - air-fryer
 - high-protein
-tipsTitle: Dominio del adobo
+tipsTitle: Domina la marinada
 tips:
-- 'Preparación de tofu: consulte nuestros [Trucos definitivos para preparar tofu rápido](/es/colecciones/los-mejores-trucos-rapidos-para-preparar-tofu-microondas-versus-hervir)
+- 'Preparación de tofu: consulte nuestros [Trucos definitivos para preparar tofu rápido](/es/colecciones/trucos-para-preparar-tofu-microondas-o-hervido)
   para lograr la textura perfecta antes de cocinar.'
 - 'Marcar el bloque: Marque ligeramente el tofu en un patrón entrecruzado para que
   el glaseado penetre en el centro.'
@@ -117,7 +117,7 @@ steps:
 - Prepare el tofu calentándolo en el microondas en ráfagas de 30 segundos hasta que
   esté seco, pero no cocido (aproximadamente 4 minutos) o hirviéndolo durante 5 a
   10 minutos. Quitar el agua significa que la marinada puede penetrar el bloque. Consulte
-  nuestros [Trucos definitivos para preparar tofu rápido](/es/colecciones/los-mejores-trucos-rapidos-para-preparar-tofu-microondas-versus-hervir)
+  nuestros [Trucos definitivos para preparar tofu rápido](/es/colecciones/trucos-para-preparar-tofu-microondas-o-hervido)
   para conocer los métodos exactos.
 - Batir en un bol la miel, el zumo de limón, las especias, el agua, una pizca de sal
   y un chorrito de aceite.

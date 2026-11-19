@@ -2,12 +2,14 @@
 categories:
 - airfryer
 title: 'Patatas fritas con kimchi y queso en freidora en 30 minutos'
-slug: papas-fritas-con-kimchi-en-freidora-extra-crujientes-faciles-de-30-minutos
+slug: patatas-fritas-con-kimchi-en-freidora-de-aire
+previousSlugs:
+- papas-fritas-con-kimchi-en-freidora-extra-crujientes-faciles-de-30-minutos
 date: '2026-07-15'
-updated: '2026-11-06'
+updated: '2026-11-19'
 seoDescription: 'Patatas fritas extra crujientes en freidora de aire con kimchi picante y queso fundido, en 30 minutos. Mínima preparación, máximo sabor y 11 g de proteína.'
 description: 'Una brillante fusión de kimchi fermentado y picante y queso cheddar
-  derretido sobre papas fritas extra crujientes en 30 minutos. La freidora elimina
+  derretido sobre patatas fritas extra crujientes en 30 minutos. La freidora elimina
   la humedad, dándole un toque frito crujiente sin que el aceite lo abrume.
 
 
@@ -15,7 +17,7 @@ description: 'Una brillante fusión de kimchi fermentado y picante y queso chedd
   el kimchi ácido y picante con el rico queso cheddar, asegurando que el perfil de
   sabor alcance perfectamente sin volverse demasiado salado.'
 image: air-fryer-kim-chi-fries_u7kuzj
-alt: Papas fritas con kimchi en freidora cubiertas con queso derretido y semillas
+alt: Patatas fritas con kimchi en freidora cubiertas con queso derretido y semillas
   de sésamo
 pintrest: ''
 tipsTitle: Trucos para freír
@@ -27,7 +29,7 @@ tips:
   espolvoree el resto encima para que se derrita en cada capa.'
 - 'Consistencia de la salsa: Si el glaseado de Gochujang se vuelve demasiado espeso
   al saltear, aflójelo con una cucharadita de agua o aceite de sésamo para asegurarse
-  de que cubra las papas fritas de manera uniforme.'
+  de que cubra las patatas fritas de manera uniforme.'
 works:
 - 'Deshidratación del almidón: Remojar las patatas elimina la amilosa superficial,
   evitando que las patatas fritas se peguen. Luego, la rápida convección de la freidora
@@ -41,7 +43,7 @@ works:
 use:
 - 'Party Snack: El mejor plato para compartir que agradará al público.'
 - 'Guarnición: Combina perfectamente con una hamburguesa vegetariana espesa y jugosa.'
-- 'Delicia nocturna: satisface todos los antojos de sabor salado, picante y con queso. ¿Te sobra kimchi? Úsalo en [el arroz frito con kimchi picante](/es/recetas/el-arroz-frito-con-kimchi-picante-de-15-minutos-mas-rapido-y-crujiente) o mira [más patatas fritas extra crujientes en freidora](/es/colecciones/las-mejores-papas-fritas-extra-crujientes-para-freidora).'
+- 'Delicia nocturna: satisface todos los antojos de sabor salado, picante y con queso. ¿Te sobra kimchi? Úsalo en [el arroz frito con kimchi picante](/es/recetas/el-arroz-frito-con-kimchi-picante-de-15-minutos-mas-rapido-y-crujiente) o mira [más patatas fritas extra crujientes en freidora](/es/colecciones/las-mejores-patatas-fritas-en-freidora-de-aire).'
 tags:
 - fusion
 - gluten-free
@@ -64,7 +66,7 @@ variations:
   sabor a queso.'
 rating: null
 reviews: null
-servingSuggestions: Estas atrevidas papas fritas estilo fusión son increíblemente
+servingSuggestions: Estas atrevidas patatas fritas estilo fusión son increíblemente
   satisfactorias por sí solas, pero combinarlas con un elemento refrescante puede
   realzar el plato. Un chorrito de mayonesa de sriracha o una guarnición de rodajas
   cremosas de aguacate ayudan a controlar el picante del kimchi. Sírvelos como un
@@ -85,7 +87,7 @@ ingredients:
 - item: Aceite de oliva
   amount: 1
   unit: tbsp
-- item: Papas
+- item: Patatas
   type: cortado en palitos de 0,5 cm
   amount: 200
   unit: g
@@ -130,7 +132,7 @@ steps:
   crudo. Agrega la salsa de soja, el azúcar y el Gochujang. Cocine hasta que la salsa
   se vuelva espesa, brillante y cubra mucho el kimchi. Si se seca formando una pasta,
   agregue un chorrito de agua.
-- Una vez que las papas fritas estén doradas y fragantes, retírelas y mezcle inmediatamente
+- Una vez que las patatas fritas estén doradas y fragantes, retírelas y mezcle inmediatamente
   con el kimchi picante y picante.
 - Coloque las patatas fritas en un plato mientras estén muy calientes. Cubra inmediatamente
   con queso cheddar rallado para que se derrita en el kimchi, luego decore con semillas

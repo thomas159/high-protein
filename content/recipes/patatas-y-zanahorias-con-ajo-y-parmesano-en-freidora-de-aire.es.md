@@ -2,13 +2,15 @@
 categories:
 - airfryer
 title: 'Patatas y zanahoria fritas con ajo y parmesano en 25 minutos'
-slug: papas-fritas-extra-crujientes-con-freidora-de-aire-de-25-minutos-ajo-parmesano
+slug: patatas-y-zanahorias-con-ajo-y-parmesano-en-freidora-de-aire
+previousSlugs:
+- papas-fritas-extra-crujientes-con-freidora-de-aire-de-25-minutos-ajo-parmesano
 date: '2026-07-15'
-updated: '2026-11-06'
+updated: '2026-11-19'
 seoDescription: 'Patatas y zanahorias fritas en freidora de aire con ajo y parmesano, extra crujientes y listas en 25 minutos. Mínima preparación, máximo sabor para picar.'
 description: Un brillante cambio bajo en calorías por patatas fritas estándar. El
   calor circulante de la freidora asa las zanahorias y deja crujiente el parmesano
-  para obtener papas fritas extra crujientes en 25 minutos. Una guarnición fantástica
+  para obtener patatas fritas extra crujientes en 25 minutos. Una guarnición fantástica
   para aumentar el volumen de tu comida sin desperdiciar tu presupuesto diario de
   calorías.
 blurb: []
@@ -20,7 +22,7 @@ keywords:
 - ajo y parmesano
 - carrot fries
 - freidora de aire
-- papas fritas saludables
+- patatas fritas saludables
 tags: []
 rating: null
 reviews: null
@@ -42,7 +44,7 @@ works:
 use:
 - 'Volumen de alimentación: una alternativa de élite baja en calorías para acabar
   con tus antojos de patatas fritas.'
-- 'Lado Superset: Perfecto junto con un plato principal rico en proteínas. Encontrarás más versiones en [las mejores patatas fritas extra crujientes en freidora](/es/colecciones/las-mejores-papas-fritas-extra-crujientes-para-freidora).'
+- 'Lado Superset: Perfecto junto con un plato principal rico en proteínas. Encontrarás más versiones en [las mejores patatas fritas extra crujientes en freidora](/es/colecciones/las-mejores-patatas-fritas-en-freidora-de-aire).'
 variations:
 - 'Patada picante: espolvoréala con pimienta de cayena.'
 - 'Opción vegana: Cambia el parmesano por levadura nutricional.'

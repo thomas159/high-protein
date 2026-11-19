@@ -3,11 +3,13 @@ categories:
 - snacks
 - trending
 title: 'Patatas fritas crujientes con romero y ajo en 30 minutos'
-slug: papas-fritas-extra-crujientes-con-romero-y-ajo
+slug: patatas-fritas-con-romero-y-ajo-en-freidora-de-aire
+previousSlugs:
+- papas-fritas-extra-crujientes-con-romero-y-ajo
 date: '2026-07-15'
-updated: '2026-11-06'
+updated: '2026-11-19'
 seoDescription: 'Patatas fritas extra crujientes con romero y ajo, veganas y sin gluten, listas en 30 minutos. Mínima preparación, máximo sabor para una gran guarnición.'
-description: 'Mejora tu guarnición con estas fragantes papas fritas con infusión de
+description: 'Mejora tu guarnición con estas fragantes patatas fritas con infusión de
   hierbas. Al combinar romero fresco y ajo salado con el crujiente de alta velocidad
   de la freidora, se obtienen patatas fritas extra crujientes con mucha menos grasa
   que la fritura tradicional.
@@ -25,11 +27,11 @@ pintrest: ''
 tipsTitle: Secretos de patatas fritas crujientes
 tips:
 - 'Sécalas bien: Después de cortar las patatas, sécalas intensamente con un paño de
-  cocina limpio. Cualquier humedad en la superficie hará que las papas fritas se cocinen
+  cocina limpio. Cualquier humedad en la superficie hará que las patatas fritas se cocinen
   al vapor en lugar de asarse.'
 - 'Ajo granulado en lugar de fresco: use ajo granulado o en polvo en lugar de ajo
   fresco picado, que tiende a quemarse y volverse amargo con el calor alto de la freidora.'
-- 'Mezcle, no rocíe: Primero mezcle las papas fritas crudas con el aceite de oliva
+- 'Mezcle, no rocíe: Primero mezcle las patatas fritas crudas con el aceite de oliva
   y las hierbas en un tazón grande. Esto asegura una capa uniforme que un aerosol
   simplemente no puede igualar.'
 works:
@@ -38,13 +40,13 @@ works:
   aceites esenciales solubles en grasa, distribuyendo un aroma profundo y terroso
   a través de la corteza de almidón deshidratante de cada papa. Busque que las agujas
   se vuelvan oscuras y quebradizas.'
-- 'Evaporación del almidón: El intenso calor circulante despoja a las papas de su
+- 'Evaporación del almidón: El intenso calor circulante despoja a las patatas de su
   humedad superficial, brindando un crujido satisfactorio sin necesidad de una freidora.
   Si se ven pálidos y suaves, los almidones no se han deshidratado lo suficiente.'
 use:
-- 'Lado Gourmet: Un paso sofisticado respecto a las papas fritas estándar.'
+- 'Lado Gourmet: Un paso sofisticado respecto a las patatas fritas estándar.'
 - 'Maridaje de bistec: El mejor compañero para un filete espeso de coliflor o seitán.'
-- 'Snack Bowl: Perfecto para mojar en mayonesa de trufa o alioli de ajo. Sírvelas con [nuestra salsa de ajo ultracremosa](/es/recetas/salsa-rapida-de-ajo-ultracremosa-y-baja-en-calorias-en-5-minutos) o mira [más patatas fritas extra crujientes en freidora](/es/colecciones/las-mejores-papas-fritas-extra-crujientes-para-freidora).'
+- 'Snack Bowl: Perfecto para mojar en mayonesa de trufa o alioli de ajo. Sírvelas con [nuestra salsa de ajo ultracremosa](/es/recetas/salsa-rapida-de-ajo-ultracremosa-y-baja-en-calorias-en-5-minutos) o mira [más patatas fritas extra crujientes en freidora](/es/colecciones/las-mejores-patatas-fritas-en-freidora-de-aire).'
 tags:
 - gluten-free
 - vegan
@@ -54,7 +56,7 @@ keywords:
 - americano
 - freidora de aire
 - gluten-free
-- papas fritas
+- patatas fritas
 - romero
 - snack
 - vegan
@@ -72,8 +74,8 @@ variations:
   al aire.'
 - 'Intercambio de tomillo: use tomillo fresco en lugar de romero.'
 reviews: null
-servingSuggestions: Estas elegantes papas fritas con infusión de hierbas están un
-  paso por encima de las papas fritas estándar y merecen una excelente salsa. Sírvelos
+servingSuggestions: Estas elegantes patatas fritas con infusión de hierbas están un
+  paso por encima de las patatas fritas estándar y merecen una excelente salsa. Sírvelos
   con una guarnición de mayonesa de trufa o un alioli de ajo picante. Son un acompañamiento
   sofisticado para filetes de coliflor a la plancha, halloumi a la parrilla o una
   hamburguesa gourmet de champiñones portobello, convirtiendo una comida sencilla
@@ -93,7 +95,7 @@ ingredients:
 - item: Aceite de oliva
   amount: 1
   unit: tbsp
-- item: Papas
+- item: Patatas
   type: cortado en palitos de 0,5 cm
   amount: 200
   unit: g
@@ -108,7 +110,7 @@ ingredients:
   unit: tsp
 faq:
 - question: ¿Necesito pelar las patatas?
-  answer: ¡No! Dejar la piel agrega fibra extra y ayuda a que las papas fritas queden
+  answer: ¡No! Dejar la piel agrega fibra extra y ayuda a que las patatas fritas queden
     bien crujientes en la freidora.
 - question: ¿Por qué se me quemó el ajo?
   answer: El ajo fresco picado puede quemarse rápidamente a altas temperaturas. Usar
@@ -116,9 +118,9 @@ faq:
     amargos y quemados.
 steps:
 - Frote las patatas y córtelas en palitos uniformes, de aproximadamente 0,5 cm de
-  grosor. En un tazón grande, mezcle las papas fritas con aceite de oliva, romero
+  grosor. En un tazón grande, mezcle las patatas fritas con aceite de oliva, romero
   seco, ajo granulado y sal hasta que toda la superficie esté ligeramente cubierta.
-  Usar un tazón asegura un condimento uniforme sin que las papas fritas se empapen.
+  Usar un tazón asegura un condimento uniforme sin que las patatas fritas se empapen.
 - Coloca las patatas en la cesta, intenta no abarrotarlas para asegurar el máximo
   flujo de aire. Freír al aire durante 18 a 24 minutos a 190 °C, agitando vigorosamente
   la canasta a la mitad, esto redistribuye las agujas de romero y garantiza que el

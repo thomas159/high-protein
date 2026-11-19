@@ -3,9 +3,11 @@ categories:
 - dessert
 - ninjacreami
 title: 'Ninja Creami de manzana y canela proteico en 15 minutos'
-slug: el-mejor-creami-ninja-ultracremoso-de-manzana-canela-y-canela
+slug: helado-ninja-creami-de-manzana-y-canela
+previousSlugs:
+- el-mejor-creami-ninja-ultracremoso-de-manzana-canela-y-canela
 date: '2026-07-15'
-updated: '2026-11-06'
+updated: '2026-11-19'
 seoDescription: 'Helado Ninja Creami de manzana y canela, ultracremoso y con 56 g de proteína en 15 minutos de trabajo. Mínima preparación, máximo sabor a tarta de manzana.'
 description: 'Un gran golpe proteico disfrazado de un postre de tarta de manzana caliente
   y especiado en forma de helado helado. Usar Ninja Creami convierte esta mezcla macro
@@ -53,7 +55,7 @@ use:
   PB.'
 - 'Sweet Fuel: Macros sólidas disfrazadas de postre premium.'
 - 'Solución nocturna: Altamente saciante para matar los antojos nocturnos.'
-- 'Autumn Fuel: la mejor manera de obtener esos sabores cálidos y especiados mientras alcanzas tus macros. Encontrarás más sabores en [las mejores recetas Ninja Creami ricas en proteínas](/es/colecciones/las-mejores-recetas-de-creami-ninja-ricas-en-proteinas).'
+- 'Autumn Fuel: la mejor manera de obtener esos sabores cálidos y especiados mientras alcanzas tus macros. Encontrarás más sabores en [las mejores recetas Ninja Creami ricas en proteínas](/es/colecciones/recetas-ninja-creami-ricas-en-proteinas).'
 rating: null
 variations:
 - 'Remolino de caramelo: Descorazone el centro después de girar y agregue una cucharada

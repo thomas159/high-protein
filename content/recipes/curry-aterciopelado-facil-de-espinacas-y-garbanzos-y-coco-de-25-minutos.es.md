@@ -4,7 +4,7 @@ categories:
 title: 'Curry cremoso de garbanzos, espinacas y coco en 25 minutos'
 slug: curry-aterciopelado-facil-de-espinacas-y-garbanzos-y-coco-de-25-minutos
 date: '2026-07-15'
-updated: '2026-11-06'
+updated: '2026-11-19'
 seoDescription: 'Curry vegano de garbanzos, espinacas y coco, cremoso y en una sola sartén en 25 minutos. Mínima preparación, máximo sabor y 17 g de proteína por ración.'
 description: Un curry en una sartén fácil y brillantemente eficiente de 25 minutos
   cargado con hierro de origen vegetal de las espinacas y proteína sólida de los garbanzos.
@@ -58,7 +58,7 @@ use:
 - 'Preparación macro: cocine por lotes una sartén grande el domingo para alimentar
   su semana.'
 - 'Cena de calentamiento: comida reconfortante de élite con arroz basmati.'
-- 'Limpieza de despensa: utiliza productos enlatados estándar para una comida de emergencia rica en proteínas. Encontrarás más platos tipo comida a domicilio en [nuestras versiones caseras y ligeras de la comida para llevar](/es/colecciones/las-falsificaciones-mas-sencillas-y-compatibles-con-macros).'
+- 'Limpieza de despensa: utiliza productos enlatados estándar para una comida de emergencia rica en proteínas. Encontrarás más platos tipo comida a domicilio en [nuestras versiones caseras y ligeras de la comida para llevar](/es/colecciones/comida-para-llevar-casera-apta-para-tus-macros).'
 variations:
 - 'Intercambio de lentejas: use lentejas enlatadas en lugar de garbanzos.'
 - 'Camote: Agregue camote cortado en cubitos para darle más sabor.'

@@ -10,7 +10,7 @@ import { fileURLToPath } from 'node:url'
 import { CATEGORY_SLUGS } from './app/utils/constants'
 
 type Lang = 'en' | 'es' | 'de'
-type Group = Partial<Record<Lang, string>>
+type Group = Partial<Record<Lang, string>> & { previous?: string[] }
 type RouteRules = Record<string, { redirect: { to: string, statusCode: 301 } }>
 
 const LANGS: Lang[] = ['en', 'es', 'de']
@@ -34,6 +34,13 @@ function frontmatterField(src: string, field: string): string | undefined {
   return m?.[1]?.trim() || undefined
 }
 
+// Reads a simple YAML list (`key:` followed by `- item` lines) from frontmatter.
+function frontmatterList(src: string, field: string): string[] {
+  const m = src.match(new RegExp(`^${field}:\\s*\\n((?:\\s*-\\s*.+\\n?)+)`, 'm'))
+  if (!m?.[1]) return []
+  return m[1].split('\n').map(l => l.replace(/^\s*-\s*/, '').replace(/^['"]|['"]$/g, '').trim()).filter(Boolean)
+}
+
 function loadGroups(dir: string): Group[] {
   const groups = new Map<string, Group>()
   for (const file of readdirSync(dir)) {
@@ -45,6 +52,9 @@ function loadGroups(dir: string): Group[] {
     const key = frontmatterField(src, 'image') || slug
     const group = groups.get(key) || {}
     group[lang] = slug
+    // Old slugs kept after a rename (frontmatter `previousSlugs`) so their URLs 301
+    const previous = frontmatterList(src, 'previousSlugs')
+    if (previous.length) group.previous = [...(group.previous || []), ...previous]
     groups.set(key, group)
   }
   return [...groups.values()]
@@ -64,7 +74,8 @@ function add(rules: RouteRules, from: string, to: string | undefined) {
 
 function contentRedirects(rules: RouteRules, kind: 'recipes' | 'collections', groups: Group[]) {
   for (const group of groups) {
-    const slugs = [...new Set(Object.values(group))] as string[]
+    const { previous = [], ...current } = group
+    const slugs = [...new Set([...Object.values(current), ...previous])] as string[]
     for (const lang of LANGS) {
       const target = canonical(kind, group, lang)
       const prefixes = [PREFIX[kind][lang], ...LEGACY_PREFIXES[kind][lang]]

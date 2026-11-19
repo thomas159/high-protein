@@ -1,13 +1,15 @@
 ---
 title: 'Comida para llevar casera, fácil y apta para tus macros'
-slug: las-falsificaciones-mas-sencillas-y-compatibles-con-macros
+slug: comida-para-llevar-casera-apta-para-tus-macros
+previousSlugs:
+- las-falsificaciones-mas-sencillas-y-compatibles-con-macros
 seoDescription: 'Versiones caseras de pizza, curry, nachos y patatas cargadas, listas antes que el repartidor. Mínima preparación, máximo sabor y macros bajo control.'
 date: '2026-07-15'
-updated: '2026-11-06'
+updated: '2026-11-19'
 description: "Seamos honestos, todos anhelamos una comida sucia para llevar después\
-  \ de un bloque de entrenamiento brutal. Pero gastar treinta libras sólo para borrar\
+  \ de un bloque de entrenamiento brutal. Pero gastar treinta euros sólo para borrar\
   \ por completo el déficit de calorías del fin de semana es un error de novato. Aquí\
-  \ están mis mejores falsificaciones fáciles. \n\nPreparación mínima, sabor máximo\
+  \ están mis versiones caseras favoritas, fáciles y rápidas. \n\nPreparación mínima, sabor máximo\
   \ y volumen importante. Estarás comiendo antes de que el repartidor haya salido\
   \ del restaurante. Es el código de trucos definitivo para tu feed de fin de semana."
 image: air-fryer-pizza-tortilla-wrap_ko6ckn
@@ -24,15 +26,15 @@ recipes:
     estilo restaurante. Cocine a fuego lento hasta que la leche de coco se reduzca
     y cubra el dorso de una cuchara; de lo contrario, terminará con sopa. Repleto
     de hierro de origen vegetal y especias antiinflamatorias para acelerar su recuperación.
-- slug: papas-fritas-con-kimchi-en-freidora-extra-crujientes-faciles-de-30-minutos
+- slug: patatas-fritas-con-kimchi-en-freidora-de-aire
   text: Comida callejera coreana de primer nivel sin salir de tu cocina. La freidora
     hace que las patatas queden crujientes y rígidas sin la grasa de la freidora.
     Desea que los bordes se ampollen y oscurezcan para lograr la máxima integridad
     estructural. Sostiene perfectamente una montaña de kimchi fermentado picante y
     queso cheddar derretido.
-- slug: las-mejores-papas-fritas-con-queso-y-jalapenos-para-freidora-extra-crujientes
+- slug: patatas-fritas-con-queso-y-jalapenos-en-freidora-de-aire
   text: Comida de pub estándar, completamente rediseñada para tus macros. Construimos
-    estas papas fritas cargadas en capas estratégicas para que cada bocado esté lleno
+    estas patatas fritas cargadas en capas estratégicas para que cada bocado esté lleno
     de queso fundido y el picante jalapeño. Asegúrese de que el queso burbujee y esté
     ligeramente caramelizado por encima para obtener el mejor sabor. El código de
     trucos definitivo para una retroalimentación de fin de semana.

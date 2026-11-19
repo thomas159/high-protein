@@ -51,7 +51,7 @@ flavour:
 variations:
 - 'Cacao Berry Crunch: Sustituye las almendras por nibs de cacao puro o pepitas de chocolate negro sin azúcar para un perfil más chocolatero.'
 - 'Plus de proteína en polvo: Mezcla medio cacito de proteína de vainilla o caseína directamente en el queso cottage con una cucharadita de bebida vegetal.'
-- 'Toque de mantequilla de cacahuete: Añade un chorrito fino de crema de cacahuete natural junto con la miel.'
+- 'Toque de crema de cacahuete: Añade un chorrito fino de crema de cacahuete natural junto con la miel.'
 muscleBuildingTip: ¿Quieres elevar este bol a más de 30 g de proteína? Bate medio cacito de proteína whey de vainilla o caseína directamente con el queso cottage y un chorrito de leche de almendras antes de colocar las frutas por encima.
 servingSuggestions: Sirve inmediatamente en un plato o bol amplio para que cada cucharada recoja una porción equilibrada de crema fresca, bayas silvestres y frutos secos crujientes.
 storageInstructions: Consumir preferiblemente recién montado. Si quieres dejarlo preparado con antelación, guarda el queso cottage en un envase hermético en la nevera y mantén los frutos secos y semillas por separado hasta el momento de comer para que no pierdan su textura crujiente.

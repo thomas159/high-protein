@@ -5,7 +5,7 @@ categories:
 title: 'Salsa chimichurri vegana, rápida y picante en 5 minutos'
 slug: salsa-chimichurri-vegana-rapida-y-picante-de-5-minutos
 date: '2026-07-15'
-updated: '2026-11-06'
+updated: '2026-11-19'
 seoDescription: 'Salsa chimichurri vegana y picante con perejil fresco, ajo y vinagre, lista en 5 minutos. Mínima preparación, máximo sabor para tofu, seitán o verduras.'
 description: 'El último truco de sabor rápido. Macerar el ajo crudo en vinagre de
   vino tinto elimina el mordisco áspero, equilibrando perfectamente el aceite de oliva
@@ -51,9 +51,9 @@ works:
 - 'Sinergia de grasas y ácidos: el vinagre fuerte corta perfectamente el aceite de
   oliva pesado. Busque una emulsión verde vibrante que se mantenga bien unida.'
 use:
-- 'Como adobo: cubra el tofu o el seitán antes de llevarlo a la parrilla.'
-- 'Como aderezo: vierta agresivamente sobre papas o verduras asadas.'
-- 'Como aderezo: mezcle en un tazón de cereales para obtener un gran sabor. Si buscas más ideas para marinar tofu, mira [las mejores marinadas rápidas de tofu](/es/colecciones/los-mejores-adobos-rapidos-de-tofu-ricos-en-proteinas).'
+- 'Como marinada: cubra el tofu o el seitán antes de llevarlo a la parrilla.'
+- 'Como aderezo: vierta agresivamente sobre patatas o verduras asadas.'
+- 'Como aderezo: mezcle en un tazón de cereales para obtener un gran sabor. Si buscas más ideas para marinar tofu, mira [las mejores marinadas rápidas de tofu](/es/colecciones/marinadas-rapidas-de-tofu-ricas-en-proteinas).'
 rating: null
 variations:
 - 'Mezcla de cilantro (cilantro): Cambie la mitad del perejil por cilantro fresco.'

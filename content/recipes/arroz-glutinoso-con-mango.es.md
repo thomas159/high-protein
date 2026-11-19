@@ -2,9 +2,11 @@
 categories:
 - snacks
 title: 'Arroz glutinoso con mango tailandés cremoso en 15 minutos'
-slug: el-mejor-arroz-pegajoso-y-aterciopelado-con-mango-tailandes
+slug: arroz-glutinoso-con-mango
+previousSlugs:
+- el-mejor-arroz-pegajoso-y-aterciopelado-con-mango-tailandes
 date: '2026-07-15'
-updated: '2026-11-06'
+updated: '2026-11-19'
 seoDescription: 'Arroz glutinoso con mango al estilo tailandés, cremoso, vegano y listo en 15 minutos. Mínima preparación, máximo sabor para recargar carbohidratos.'
 description: 'La mejor alimentación con carbohidratos limpios. **Este auténtico arroz
   pegajoso con mango, que ofrece una gran dosis de carbohidratos de rápida digestión**,

@@ -2,9 +2,11 @@
 categories:
 - 15minutemeals
 title: 'Patatas chips crujientes al microondas en 15 minutos'
-slug: las-patatas-fritas-para-microondas-en-15-minutos-mas-rapidas-y-crujientes
+slug: patatas-chips-crujientes-al-microondas
+previousSlugs:
+- las-patatas-fritas-para-microondas-en-15-minutos-mas-rapidas-y-crujientes
 date: '2026-07-15'
-updated: '2026-11-06'
+updated: '2026-11-19'
 seoDescription: 'Patatas chips caseras y crujientes hechas en el microondas en 15 minutos, sin freidora ni litros de aceite. Mínima preparación, máximo sabor para picar.'
 description: 'Las patatas fritas no tienen por qué arruinar tu dieta. **Al ofrecer
   un refrigerio abundante y abundante con un mínimo de calorías**, el microondas evapora
@@ -34,7 +36,7 @@ works:
 use:
 - 'Primer previo al entrenamiento: el combustible perfecto para aplastar tu próximo
   PB.'
-- 'Bocadillos voluminosos: una solución baja en aceite y completamente compatible
+- 'Snacks saciantes: una solución baja en aceite y completamente compatible
   con macros para tus antojos crujientes.'
 - 'Compañero de inmersión: Lo suficientemente resistente como para soportar hummus
   pesado.'

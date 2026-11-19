@@ -7,7 +7,7 @@ categories:
 title: 'Galletas de plátano y avena en freidora en 10 minutos'
 slug: galletas-platano-avena-freidora-aire
 date: '2026-09-08'
-updated: '2026-11-06'
+updated: '2026-11-19'
 seoDescription: 'Galletas tiernas de plátano y avena en freidora de aire, sin harina ni azúcar y listas en 10 minutos. Mínima preparación, máximo sabor y menos de 100 kcal.'
 description: 'Solo dos ingredientes integrales de base crean el dulce perfecto para estabilizar tus niveles de glucosa. La freidora de aire obra su magia en solo ocho minutos, transformando el plátano maduro machacado y los copos de avena en galletas tibias, jugosas por dentro y con los bordes dorados y crujientes. Coronadas con pepitas de chocolate negro al 85% y un toque de canela, nadie creerá que esta tanda tiene menos de 100 calorías.'
 blurb: []
@@ -44,7 +44,7 @@ works:
 use:
 - 'Snack previo al entrenamiento: Una dosis de hidratos de carbono limpios y de fácil asimilación para reponer glucógeno antes de entrenar.'
 - 'Recarga de energía a media tarde: Calma el apetito entre comidas con un dulce caliente con chocolate apto para cualquier déficit calórico.'
-- 'Capricho dulce nocturno: Calma el antojo de postre de panadería en solo diez minutos sin romper el recuento diario de macros. Encontrarás más caprichos rápidos en [los snacks y dulces para freidora de aire](/es/colecciones/los-bocadillos-y-golosinas-para-freidora-de-aire-mas-rapidos-y-crujientes).'
+- 'Capricho dulce nocturno: Calma el antojo de postre de panadería en solo diez minutos sin romper el recuento diario de macros. Encontrarás más caprichos rápidos en [los snacks y dulces para freidora de aire](/es/colecciones/snacks-y-dulces-en-freidora-de-aire).'
 whyTitle: Por qué te encantará
 why:
 - 'Ingredientes 100% naturales: Sin harinas blancas refinadas, azúcares añadidos, mantequilla ni emulsionantes artificiales — comida real pura y simple.'
@@ -53,7 +53,7 @@ why:
 muscleBuildingTip: Aunque esta receta individual aporta 3 g de proteína vegetal y carbohidratos limpios por solo 98 kcal, puedes acompañar las galletas recién hechas con yogur griego desnatado o un batido de proteína de vainilla para alcanzar más de 25 g de proteína reparadora.
 variations:
 - 'Versión con proteína en polvo: Añade un cacito de proteína de vainilla o neutra con un chorrito de bebida vegetal.'
-- 'Remolino de mantequilla de cacahuete: Mezcla una cucharada de mantequilla de cacahuete o almendra 100% natural en la masa.'
+- 'Remolino de crema de cacahuete: Mezcla una cucharada de crema de cacahuete o almendra 100% natural en la masa.'
 - 'Toque especiado de nuez: Incorpora una pizca de nuez moscada y nueces picadas por encima junto con el chocolate negro.'
 servingSuggestions: Sirve las galletas bien calientes recién salidas de la freidora de aire, cuando las pepitas de chocolate negro estén brillantes y derretidas. Abre una por la mitad para ver el vapor y la textura jugosa del interior. Acompaña con un café espresso o una infusión caliente.
 storageInstructions: Consumir preferiblemente recién hechas. Si te sobran, guárdalas en un recipiente hermético hasta 24 horas a temperatura ambiente o hasta 3 días en la nevera. Dales un golpe de freidora de aire a 160 °C durante 2 minutos antes de comerlas.

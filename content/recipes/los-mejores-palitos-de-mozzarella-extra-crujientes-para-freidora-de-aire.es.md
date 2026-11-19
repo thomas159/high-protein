@@ -4,7 +4,7 @@ categories:
 title: 'Palitos de mozzarella extra crujientes en freidora de aire'
 slug: los-mejores-palitos-de-mozzarella-extra-crujientes-para-freidora-de-aire
 date: '2026-07-15'
-updated: '2026-11-06'
+updated: '2026-11-19'
 seoDescription: 'Palitos de mozzarella extra crujientes en freidora de aire, con 10 g de proteína y listos en 45 minutos, congelado incluido. Mínima preparación, máximo sabor.'
 description: 'Sáltate las opciones congeladas. El doble pan de estos palitos de mozzarella
   bloquea el queso en el interior, evitando fugas en la canasta de la freidora.
@@ -44,7 +44,7 @@ use:
   italiana.'
 - 'Plato del día del partido: Un placer garantizado para disfrutar mientras miras
   el fútbol.'
-- 'Snack Attack: comida reconfortante, pegajosa y rica en proteínas, sin la culpa de la freidora. Encontrarás más ideas para picar en [los snacks más rápidos y crujientes para freidora de aire](/es/colecciones/los-bocadillos-y-golosinas-para-freidora-de-aire-mas-rapidos-y-crujientes).'
+- 'Snack Attack: comida reconfortante, pegajosa y rica en proteínas, sin la culpa de la freidora. Encontrarás más ideas para picar en [los snacks más rápidos y crujientes para freidora de aire](/es/colecciones/snacks-y-dulces-en-freidora-de-aire).'
 cuisine: Americana
 tags:
 - snack

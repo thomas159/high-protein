@@ -3,9 +3,11 @@ categories:
 - airfryer
 - dessert
 title: 'Bocaditos de tarta de queso proteica en freidora de aire'
-slug: bocaditos-de-tarta-de-queso-con-proteina-air-fryer
+slug: bocaditos-de-tarta-de-queso-proteica-en-freidora-de-aire
+previousSlugs:
+- bocaditos-de-tarta-de-queso-con-proteina-air-fryer
 date: '2026-07-15'
-updated: '2026-11-06'
+updated: '2026-11-19'
 seoDescription: 'Bocaditos de tarta de queso con 12 g de proteína, base crujiente y centro cremoso, hechos en freidora de aire en 31 minutos. Mínima preparación, máximo sabor.'
 description: Un postre rico en proteínas y macrocompatible con una corteza digestiva
   mantecosa precocida, horneado hasta obtener una perfección cremosa en la freidora.

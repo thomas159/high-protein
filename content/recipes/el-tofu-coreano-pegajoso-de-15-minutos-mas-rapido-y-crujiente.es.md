@@ -5,7 +5,7 @@ categories:
 title: 'Tofu coreano crujiente y pegajoso en 15 minutos'
 slug: el-tofu-coreano-pegajoso-de-15-minutos-mas-rapido-y-crujiente
 date: '2026-07-15'
-updated: '2026-11-06'
+updated: '2026-11-19'
 seoDescription: 'Tofu coreano crujiente con glaseado pegajoso de gochujang, listo en 15 minutos y con 22 g de proteína. Mínima preparación, máximo sabor para entre semana.'
 description: 'Sin duda, esta es la forma más rápida de conseguir un tofu ultra crujiente sin necesidad de freírlo en abundante aceite. Pasamos los cubos de tofu extra firme por almidón de maíz (maicena), los doramos en la sartén hasta que queden súper crujientes, y luego los bañamos en una salsa gochujang dulce, picante y pegajosa. Se prepara en exactamente 15 minutos de principio a fin, aporta 22g de proteína vegetal y queda increíblemente brillante. ¡Ideal para esas noches ocupadas en las que buscas el sabor de la comida para llevar pero con excelentes macros!'
 image: 15-minute-crispy-sticky-korean-tofu_vu0qlh
@@ -26,7 +26,7 @@ keywords:
 - vegan
 tipsTitle: Consejos y trucos para el tofu
 tips:
-- 'Preparación del tofu: Echa un vistazo a nuestros [Trucos definitivos para preparar tofu rápido](/es/colecciones/los-mejores-trucos-rapidos-para-preparar-tofu-microondas-versus-hervir) para lograr la textura perfecta antes de cocinar.'
+- 'Preparación del tofu: Echa un vistazo a nuestros [Trucos definitivos para preparar tofu rápido](/es/colecciones/trucos-para-preparar-tofu-microondas-o-hervido) para lograr la textura perfecta antes de cocinar.'
 - 'El truco de la maicena: Cubrir el tofu con maicena es fundamental. Es el arma secreta definitiva para conseguir ese toque frito y crujiente en la sartén usando solo una cucharada de aceite.'
 - 'Consistencia de la salsa: Si el glaseado se reduce demasiado rápido y queda muy espeso o seco en la sartén, simplemente añade un chorrito de agua para recuperar esa textura fluida.'
 - 'Control del picante: El picante del Gochujang varía mucho según la marca. Prueba la salsa antes de verterla en la sartén y añade una pizca extra de azúcar si te parece demasiado picante.'

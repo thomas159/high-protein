@@ -1,9 +1,11 @@
 ---
 title: 'Trucos rápidos para preparar tofu: microondas o hervido'
-slug: los-mejores-trucos-rapidos-para-preparar-tofu-microondas-versus-hervir
+slug: trucos-para-preparar-tofu-microondas-o-hervido
+previousSlugs:
+- los-mejores-trucos-rapidos-para-preparar-tofu-microondas-versus-hervir
 seoDescription: 'Trucos rápidos para preparar tofu firme sin prensarlo durante horas: microondas, hervido o crudo. Mínima preparación, máximo sabor y más proteína en tu plato.'
 date: '2026-07-15'
-updated: '2026-11-06'
+updated: '2026-11-19'
 description: "El código de trucos definitivo para transformar el tofu suave y frágil\
   \ en una potencia estructural que absorbe sabores. Olvídese de los tediosos y tradicionales\
   \ métodos de prensado que llevan horas. \n\nDesglosamos tres métodos rápidos (cocinar\
@@ -17,7 +19,7 @@ recipes:
     porosa absorbe la salsa pegajosa al instante sin convertirse en papilla. Sabrás
     que está listo cuando el glaseado se caramelice hasta formar una corteza espesa
     y oscura.
-- slug: tofu-freidora-sin-aire-con-lima-y-chipotle-ahumado-facil-de-35-minutos
+- slug: tofu-ahumado-con-chipotle-y-lima-en-freidora-de-aire
   text: Utilice el truco de ebullición aquí para asegurarse de que el tofu se mantenga
     perfectamente firme mientras absorbe esta marinada picante y ahumada de inspiración
     mexicana. El calor salino tensa físicamente las proteínas. Esto evita que el bloque

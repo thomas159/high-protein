@@ -2,23 +2,25 @@
 categories:
 - airfryer
 title: 'Patatas crujientes de crema agria y cebolla en 30 minutos'
-slug: papas-fritas-con-crema-agria-y-cebolla-extra-crujientes-air-fryer
+slug: patatas-fritas-de-crema-agria-y-cebolla-en-freidora-de-aire
+previousSlugs:
+- papas-fritas-con-crema-agria-y-cebolla-extra-crujientes-air-fryer
 date: '2026-07-15'
-updated: '2026-11-06'
+updated: '2026-11-19'
 seoDescription: 'Patatas fritas extra crujientes en freidora de aire con sabor a crema agria y cebolla y salsa cremosa de ajo, en 30 minutos. Mínima preparación, máximo sabor.'
 description: 'Estas irresistibles patatas fritas con crema agria son extra crujientes
   por fuera y esponjosas por dentro. Cada fritura dorada se rocía con una salsa de
   crema agria aterciopelada con infusión de ajo.
 
 
-  Un bocadillo fácil que ofrece el equilibrio perfecto de texturas saladas. Es la
+  Un snack fácil que ofrece el equilibrio perfecto de texturas saladas. Es la
   recompensa definitiva después del entrenamiento que no descarrilará tu progreso.
 
 
-  Probado para garantizar que la salsa cubra perfectamente las papas fritas sin convertirlas
+  Probado para garantizar que la salsa cubra perfectamente las patatas fritas sin convertirlas
   en un desastre empapado.'
 image: air-fryer-sour-cream-fries_k2lvbn
-alt: Papas fritas para freidora rociadas con salsa de crema agria con ajo
+alt: Patatas fritas para freidora rociadas con salsa de crema agria con ajo
 pintrest: ''
 cuisine: Americana
 tipsTitle: Mecánica de crujido
@@ -28,9 +30,9 @@ tips:
 - 'Separación de la salsa: si sirve a una multitud, deje la salsa a un lado como salsa
   para conservar el sabor crujiente.'
 - 'Contraste de temperatura: La crema agria debe estar fría en el refrigerador cuando
-  toque las papas fritas bien calientes. El contraste es elitista.'
+  toque las patatas fritas bien calientes. El contraste es elitista.'
 works:
-- 'Recubrimiento térmico: El intenso calor residual de las papas fritas derrite ligeramente
+- 'Recubrimiento térmico: El intenso calor residual de las patatas fritas derrite ligeramente
   las grasas pesadas de la crema agria fría al contacto. Esto transforma instantáneamente
   la cucharada espesa en una salsa emulsionada y sedosa que cubre uniformemente la
   corteza rígida de almidón sin empaparla inmediatamente. Si la salsa se parte, las
@@ -41,14 +43,14 @@ works:
 use:
 - 'Lado gourmet: eleva una cena estándar entre semana a un festín estilo pub.'
 - 'Fuente del día del partido: perfecta para apilar en el centro de la mesa.'
-- 'Solución de sabor: la salsa picante actúa como una increíble salsa incorporada. Encontrarás más versiones en [las mejores patatas fritas extra crujientes en freidora](/es/colecciones/las-mejores-papas-fritas-extra-crujientes-para-freidora).'
+- 'Solución de sabor: la salsa picante actúa como una increíble salsa incorporada. Encontrarás más versiones en [las mejores patatas fritas extra crujientes en freidora](/es/colecciones/las-mejores-patatas-fritas-en-freidora-de-aire).'
 tags: []
 keywords:
 - ajo
 - americano
 - crujiente
 - freidora de aire
-- papas fritas
+- patatas fritas
 - snack
 - sour cream
 whyTitle: Air Fryer Advantages
@@ -78,7 +80,7 @@ ingredients:
 - item: Aceite de oliva
   amount: 1
   unit: tbsp
-- item: Papas
+- item: Patatas
   type: cortado en palitos de 0,5 cm
   amount: 200
   unit: g
@@ -96,7 +98,7 @@ faq:
   answer: Absolutamente. El yogur griego es un sustituto de élite rico en proteínas
     y bajo en calorías.
 - question: ¿Se empaparán las patatas fritas?
-  answer: Mezcle las papas fritas calientes con la salsa fría justo antes de comerlas
+  answer: Mezcle las patatas fritas calientes con la salsa fría justo antes de comerlas
     o sírvalas como salsa para mantenerlas crujientes.
 steps:
 - Lavar las patatas y cortarlas en palitos de 0,5 cm. Mezcle agresivamente en un bol
@@ -104,9 +106,9 @@ steps:
 - Sepárelos en la canasta. Calienta a 190 °C durante 18 a 24 minutos, agitando violentamente
   cada 5 minutos para lograr un crujido uniforme.
 - Mientras se cocinan, bata la crema agria, el ajo granulado y las cebolletas picadas.
-- Transfiera las papas fritas doradas a un bol. Vierta sobre la mezcla de crema agria
+- Transfiera las patatas fritas doradas a un bol. Vierta sobre la mezcla de crema agria
   fría y revuelva rápidamente para cubrir.
-- Disfrútelo inmediatamente mientras las papas fritas estén calientes y la salsa fría.
+- Disfrútelo inmediatamente mientras las patatas fritas estén calientes y la salsa fría.
   Cubra con cebolletas adicionales (cebolletas).
 ---
 

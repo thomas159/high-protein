@@ -3,9 +3,11 @@ categories:
 - airfryer
 - dinner
 title: 'Tofu tikka tostado en freidora de aire en 35 minutos'
-slug: freidora-de-aire-rapida-carbonizada-y-rica-en-proteinas-tikka-tofu-de-35-minutos
+slug: tofu-tikka-en-freidora-de-aire
+previousSlugs:
+- freidora-de-aire-rapida-carbonizada-y-rica-en-proteinas-tikka-tofu-de-35-minutos
 date: '2026-07-15'
-updated: '2026-11-06'
+updated: '2026-11-19'
 seoDescription: 'Tofu tikka marinado y tostado en la freidora de aire en 35 minutos, con 19 g de proteína. Mínima preparación, máximo sabor sin pedir comida a domicilio.'
 description: |
   Consigue un tofu espectacular con todo el sabor y aroma de las especias de la India gracias a este marinado rápido estilo tikka de 35 minutos. Mezclamos yogur griego con curry, garam masala, cúrcuma y cilantro fresco para crear una capa cremosa que, al dorarse, conseguirá una costra increíble que te recordará a los mejores platos de restaurante.
@@ -23,9 +25,9 @@ keywords:
 - indio
 - tikka
 - tofu marinade
-tipsTitle: Dominio del adobo
+tipsTitle: Domina la marinada
 tips:
-- 'Preparar el tofu: echa un vistazo a nuestros [Trucos definitivos para preparar tofu rápido](/es/colecciones/los-mejores-trucos-rapidos-para-preparar-tofu-microondas-versus-hervir) para lograr la textura perfecta antes de cocinarlo.'
+- 'Preparar el tofu: echa un vistazo a nuestros [Trucos definitivos para preparar tofu rápido](/es/colecciones/trucos-para-preparar-tofu-microondas-o-hervido) para lograr la textura perfecta antes de cocinarlo.'
 - 'Aromas frescos: si no tienes pasta de ajo y jengibre ya lista, pica muy fino un diente de ajo grande con un trozo igual de jengibre fresco.'
 - 'La regla del yogur: busca un yogur griego espeso (o una alternativa vegana bien cremosa). Si usas uno muy desnatado o líquido, se resbalará del tofu antes de poder dorarse y acabará quemándose.'
 - 'No te quedes corto con la sal: el tofu es bastante soso por naturaleza. Es fundamental que la marinada tenga una buena pizca de sal para levantar el sabor.'
@@ -95,7 +97,7 @@ faq:
 - question: ¿Puedo usar una proteína diferente en lugar de tofu?
   answer: Absolutamente. Es de élite con paneer, tempeh o coliflor asada.
 steps:
-- Prepara el tofu aplicando unos minutos en el microondas o hirviéndolo unos 10 minutos para escurrir bien su agua. Esto facilita que absorba de forma maravillosa la marinada de yogur. Puedes ver los detalles en nuestros trucos de [Trucos definitivos para preparar tofu rápido](/es/colecciones/los-mejores-trucos-rapidos-para-preparar-tofu-microondas-versus-hervir).
+- Prepara el tofu aplicando unos minutos en el microondas o hirviéndolo unos 10 minutos para escurrir bien su agua. Esto facilita que absorba de forma maravillosa la marinada de yogur. Puedes ver los detalles en nuestros trucos de [Trucos definitivos para preparar tofu rápido](/es/colecciones/trucos-para-preparar-tofu-microondas-o-hervido).
 - Mezcla bien el yogur griego con la pasta de ajo y jengibre, el zumo de limón, el aceite, el cilantro, el garam masala y la cúrcuma con una generosa pizca de sal.
 - Corta el tofu en cubos y mézclalo con cuidado pero asegurándote de que la marinada los cubra todos. Deja reposar durante 30 minutos para que coja todo el sabor.
 - Cocina en la freidora de aire a 180°C durante 6-10 minutos, agitando la cesta a la mitad del tiempo, hasta obtener ese apetitoso color tostado.

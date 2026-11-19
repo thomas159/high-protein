@@ -1,13 +1,15 @@
 ---
 title: 'Las mejores patatas fritas extra crujientes en freidora'
-slug: las-mejores-papas-fritas-extra-crujientes-para-freidora
+slug: las-mejores-patatas-fritas-en-freidora-de-aire
+previousSlugs:
+- las-mejores-papas-fritas-extra-crujientes-para-freidora
 seoDescription: 'Patatas fritas extra crujientes en freidora de aire, de batata a cargadas con jalapeños. Mínima preparación, máximo sabor y mucho menos aceite que las de bar.'
 date: '2026-07-15'
-updated: '2026-11-06'
+updated: '2026-11-19'
 description: "Cuando los antojos de carbohidratos aumentan con fuerza después del\
-  \ entrenamiento, las papas fritas grasosas para llevar estándar simplemente no serán\
+  \ entrenamiento, las patatas fritas grasosas para llevar estándar simplemente no serán\
   \ suficientes. Necesitas un gran volumen sin desperdiciar por completo tu presupuesto\
-  \ diario de calorías. \n\nDesde papas fritas cargadas de jalapeños hasta gajos de\
+  \ diario de calorías. \n\nDesde patatas fritas cargadas de jalapeños hasta gajos de\
   \ camote ultra magros, estas son mis mejores recetas de freidoras extra crujientes.\
   \ Preparación mínima, sabor máximo y el código de trucos definitivo para mantener\
   \ tus macros bajo control."
@@ -19,27 +21,27 @@ recipes:
     luego fritas al aire para que queden muy crujientes. Si omite el remojo, el almidón
     residual se quemará antes de que queden crujientes. Proporcionan una gran dosis
     de carbohidratos complejos para reabastecer tus reservas de glucógeno.
-- slug: papas-fritas-extra-crujientes-con-freidora-de-aire-de-25-minutos-ajo-parmesano
+- slug: patatas-y-zanahorias-con-ajo-y-parmesano-en-freidora-de-aire
   text: Si tienes un corte agresivo pero necesitas satisfacer ese sabroso crujido,
     este es tu código de trucos definitivo. Mezclar zanahorias con ajo y parmesano
     antes de freírlas le da un volumen enorme. Busque bordes oscuros y caramelizados
     para garantizar el máximo sabor a umami.
-- slug: las-mejores-papas-fritas-con-queso-y-jalapenos-para-freidora-extra-crujientes
+- slug: patatas-fritas-con-queso-y-jalapenos-en-freidora-de-aire
   text: A veces solo necesitas comer un montón de queso cheddar y jalapeños derretidos.
     Primero freímos las patatas al aire para formar una base rígida y luego las cubrimos
-    con queso. Si agrega el queso demasiado pronto, las papas fritas se humearán y
+    con queso. Si agrega el queso demasiado pronto, las patatas fritas se humearán y
     quedarán empapadas. Un auténtico capricho de fin de semana.
-- slug: papas-fritas-extra-crujientes-con-romero-y-ajo
+- slug: patatas-fritas-con-romero-y-ajo-en-freidora-de-aire
   text: Un gran paso adelante con respecto a las patatas fritas de pub estándar. Agregarlos
     con romero fresco y ajo antes de ponerlos en la freidora libera los aceites esenciales
     directamente en la papa. El fuego alto activa el romero liberando un aroma potente.
     Perfecto para acompañar un plato principal rico en proteínas.
-- slug: papas-fritas-con-kimchi-en-freidora-extra-crujientes-faciles-de-30-minutos
+- slug: patatas-fritas-con-kimchi-en-freidora-de-aire
   text: Una brillante fusión de kimchi picante fermentado y queso cheddar derretido
-    sobre papas fritas extra crujientes. La freidora elimina la humedad, dándole un
+    sobre patatas fritas extra crujientes. La freidora elimina la humedad, dándole un
     toque frito crujiente sin que el aceite lo abrume. Asegúrese de que el queso esté
-    completamente derretido y burbujeante para unir el kimchi a las papas fritas.
-- slug: papas-fritas-con-crema-agria-y-cebolla-extra-crujientes-air-fryer
+    completamente derretido y burbujeante para unir el kimchi a las patatas fritas.
+- slug: patatas-fritas-de-crema-agria-y-cebolla-en-freidora-de-aire
   text: Cuando necesitas algo rico pero te niegas a gastar tu presupuesto de calorías.
     Estos golpean la freidora para obtener un crujido profundo antes de empaparlos
     por completo en una salsa de crema agria aterciopelada con infusión de ajo. El

@@ -1,29 +1,31 @@
 ---
 title: 'Las mejores marinadas rápidas de tofu ricas en proteínas'
-slug: los-mejores-adobos-rapidos-de-tofu-ricos-en-proteinas
+slug: marinadas-rapidas-de-tofu-ricas-en-proteinas
+previousSlugs:
+- los-mejores-adobos-rapidos-de-tofu-ricos-en-proteinas
 seoDescription: 'Marinadas rápidas para tofu: gochujang, chipotle, tikka y miel, con unos 24 g de proteína por ración. Mínima preparación, máximo sabor para toda la semana.'
 date: '2026-07-15'
-updated: '2026-11-06'
+updated: '2026-11-19'
 description: "Deja de comer tofu blando y gomoso. Si realmente quieres alcanzar tus\
   \ objetivos de proteínas con una dieta basada en plantas, debes tratar tu preparación\
   \ con cierto respeto. \n\nUna marinada sólida rompe el exterior denso e inyecta\
-  \ un sabor enorme hasta el centro. Aquí están mis mejores adobos rápidos y ricos\
+  \ un sabor enorme hasta el centro. Aquí están mis mejores marinadas rápidas y ricas\
   \ en proteínas. Preparación mínima, sabor máximo y garantía de superación de la\
   \ preparación de sus comidas."
 image: garam-masala-tofu-marinade_yfdnmb
 recipes:
-- slug: tofu-freidora-sin-aire-con-lima-y-chipotle-ahumado-facil-de-35-minutos
+- slug: tofu-ahumado-con-chipotle-y-lima-en-freidora-de-aire
   text: Dale a tu preparación de comida un toque serio de inspiración mexicana. El
     jugo de lima ácido ablanda el bloque mientras que los aceites de chipotle ahumado
-    penetran profundamente. Coloque esto en la freidora para obtener una corteza carbonizada
+    penetran profundamente. Coloque esto en la freidora para obtener una corteza tostada
     estilo barbacoa. Si los bordes no se queman, el fuego es demasiado bajo.
-- slug: tofu-freidora-de-aire-garam-masala-carbonizado-rapido-de-35-minutos
+- slug: tofu-garam-masala-en-freidora-de-aire
   text: Olvídese del curry para llevar, pesado y rico en calorías. Esta marinada con
     especias indias utiliza pasta de jengibre y ajo para crear un perfil de sabor
     enorme sin exceso de aceite. Se carameliza maravillosamente a fuego alto. Busque
     una corteza profunda de color marrón rojizo para saber que las especias se han
     tostado correctamente.
-- slug: freidora-de-aire-rapida-carbonizada-y-rica-en-proteinas-tikka-tofu-de-35-minutos
+- slug: tofu-tikka-en-freidora-de-aire
   text: Olvídese de la casa de curry local y construya sus propias ganancias. Una
     potente mezcla de yogur, pimentón ahumado y comino que ablanda el tofu. El ácido
     láctico del yogur descompone la estructura proteica para una máxima absorción

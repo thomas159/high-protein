@@ -2,16 +2,18 @@
 categories:
 - airfryer
 title: 'Patatas con queso y jalapeños en freidora en 30 minutos'
-slug: las-mejores-papas-fritas-con-queso-y-jalapenos-para-freidora-extra-crujientes
+slug: patatas-fritas-con-queso-y-jalapenos-en-freidora-de-aire
+previousSlugs:
+- las-mejores-papas-fritas-con-queso-y-jalapenos-para-freidora-extra-crujientes
 date: '2026-07-15'
-updated: '2026-11-06'
+updated: '2026-11-19'
 seoDescription: 'Patatas fritas extra crujientes en freidora de aire con queso fundido y jalapeños, en 30 minutos y con 19 g de proteína. Mínima preparación, máximo sabor.'
 description: |
   Queso cheddar fundido, jalapeños picantes y patatas ultra crujientes. La freidora de aire te da toda la textura de una fritura tradicional con solo un hilo de aceite, convirtiéndose en el capricho perfecto para el fin de semana listo en solo 30 minutos.
 
   Primero doramos bien las patatas para que queden firmes y resistan de maravilla el peso del queso derretido.
 image: air-fryer-jalapeno-cheese-loaded-fries_twwfu7
-alt: Freidora crujiente con queso jalapeño y papas fritas cargadas en un plato
+alt: Freidora crujiente con queso jalapeño y patatas fritas cargadas en un plato
 pintrest: ''
 tipsTitle: Trucos crujientes
 tips:
@@ -24,7 +26,7 @@ works:
 use:
 - 'Cena reconfortante excelente: un plato sabroso y completo para disfrutar el fin de semana.'
 - 'Acompañamiento ideal: la combinación que estabas buscando para acompañar tu hamburguesa vegetal favorita.'
-- 'Capricho de fin de semana: el plato de picoteo ideal para ver una película o compartir. Encontrarás más versiones en [las mejores patatas fritas extra crujientes en freidora](/es/colecciones/las-mejores-papas-fritas-extra-crujientes-para-freidora).'
+- 'Capricho de fin de semana: el plato de picoteo ideal para ver una película o compartir. Encontrarás más versiones en [las mejores patatas fritas extra crujientes en freidora](/es/colecciones/las-mejores-patatas-fritas-en-freidora-de-aire).'
 tags: []
 cuisine: Americana
 keywords:
@@ -32,7 +34,7 @@ keywords:
 - cheese
 - freidora de aire
 - jalapeno
-- papas fritas cargadas
+- patatas fritas cargadas
 - snack
 whyTitle: ¿Por qué en freidora de aire?
 why:
@@ -57,7 +59,7 @@ ingredients:
 - item: Aceite de oliva
   amount: 1
   unit: tbsp
-- item: Papas
+- item: Patatas
   type: cortado en palitos de 0,5 cm
   amount: 200
   unit: g
@@ -76,7 +78,7 @@ faq:
 - question: ¿Cómo evito que el queso se vuele en la freidora?
   answer: El queso se derrite muy rápido, pero si el ventilador de su freidora es extremadamente potente, puede colocar un salvamanteles o un pequeño trozo de papel de aluminio encima durante los primeros 30 segundos para fijarlo.
 - question: ¿Puedo hacer las patatas fritas desde cero en lugar de utilizarlas precortadas?
-  answer: Sí, pero primero asegúrese de remojar las papas cortadas a mano en agua fría durante 30 minutos y freírlas al aire hasta que estén completamente crujientes antes de agregar el queso y los jalapeños.
+  answer: Sí, pero primero asegúrese de remojar las patatas cortadas a mano en agua fría durante 30 minutos y freírlas al aire hasta que estén completamente crujientes antes de agregar el queso y los jalapeños.
 steps:
 - Limpia bien las patatas y córtelas en bastones uniformes de unos 0,5 cm de grosor. En un bol amplio, mezcla las patatas con el aceite de oliva y la sal hasta que queden ligeramente cubiertas de forma uniforme.
 - Pásalas a la cesta de la freidora, intentando repartirlas bien sin apelotonarlas para que corra el aire. Cocina durante unos 18-24 minutos a 190°C, agitando la cesta de forma enérgica cada 5 minutos para que se doren y tuesten por igual.

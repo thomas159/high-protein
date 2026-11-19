@@ -3,9 +3,11 @@ categories:
 - airfryer
 - dinner
 title: 'Tofu ahumado con chipotle y lima en freidora en 35 minutos'
-slug: tofu-freidora-sin-aire-con-lima-y-chipotle-ahumado-facil-de-35-minutos
+slug: tofu-ahumado-con-chipotle-y-lima-en-freidora-de-aire
+previousSlugs:
+- tofu-freidora-sin-aire-con-lima-y-chipotle-ahumado-facil-de-35-minutos
 date: '2026-07-15'
-updated: '2026-11-06'
+updated: '2026-11-19'
 seoDescription: 'Tofu ahumado con chipotle y lima en freidora de aire, vegano y con 24 g de proteína en 35 minutos. Mínima preparación, máximo sabor para rellenar tus tacos.'
 description: 'Dale a tu preparación de comida un toque serio de inspiración mexicana.
   El jugo de lima rompe la densa capa exterior del tofu, permitiendo que los profundos
@@ -37,9 +39,9 @@ keywords:
 tipsTitle: Sabor Máximo
 tips:
 - 'Preparación de tofu: omita la tediosa prensa de 15 minutos. Echa un vistazo a nuestros
-  [Trucos definitivos para preparar tofu rápido](/es/colecciones/los-mejores-trucos-rapidos-para-preparar-tofu-microondas-versus-hervir) para conseguir
+  [Trucos definitivos para preparar tofu rápido](/es/colecciones/trucos-para-preparar-tofu-microondas-o-hervido) para conseguir
   la textura perfecta antes de cocinar.'
-- 'Adobo Power: No uses solo el chile. Vierta la salsa de adobo ahumado de la lata
+- 'El poder del adobo: No uses solo el chile. Vierta la salsa de adobo ahumado de la lata
   para obtener un sabor intenso y concentrado.'
 - 'El final cítrico: el calor destruye las notas cítricas frescas. Golpéalo con un
   chorrito de lima fresca justo antes de comerlo.'
@@ -49,7 +51,7 @@ works:
   ahumados pesados ​​y solubles en grasa del adobo de chipotle se infiltren en el
   bloque en lugar de simplemente lavarse en la sartén. Si el tofu está demasiado húmedo,
   el ácido no podrá penetrar.'
-- 'Caramelización del azúcar: Los azúcares naturales de la salsa de adobo se carbonizan
+- 'Caramelización del azúcar: Los azúcares naturales de la salsa de adobo se tuestan
   rápidamente bajo el calor de la freidora, formando una corteza estilo barbacoa adecuada.
   Esté atento a una corteza oscura y pegajosa, si está pálida, necesita más calor.'
 use:
@@ -120,7 +122,7 @@ steps:
 - Prepare el tofu calentándolo en el microondas en ráfagas de 30 segundos hasta que
   esté seco, pero no cocido (aproximadamente 4 minutos) o hirviéndolo durante 5 a
   10 minutos para expulsar el agua y que pueda absorber la marinada. Consulte nuestros
-  [Trucos definitivos para preparar tofu rápido](/es/colecciones/los-mejores-trucos-rapidos-para-preparar-tofu-microondas-versus-hervir) para conocer
+  [Trucos definitivos para preparar tofu rápido](/es/colecciones/trucos-para-preparar-tofu-microondas-o-hervido) para conocer
   los métodos exactos.
 - Batir en un bol el jugo de lima, el chipotle picado, las especias, una pizca de
   sal y un chorrito de aceite.

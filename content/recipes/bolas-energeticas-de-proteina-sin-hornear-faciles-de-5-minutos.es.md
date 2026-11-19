@@ -5,10 +5,10 @@ categories:
 title: 'Bolas energéticas de proteína sin horno en 5 minutos'
 slug: bolas-energeticas-de-proteina-sin-hornear-faciles-de-5-minutos
 date: '2026-07-15'
-updated: '2026-11-06'
+updated: '2026-11-19'
 seoDescription: 'Bolas energéticas de proteína sin hornear, listas en 5 minutos y con 39 g de proteína por ración. Mínima preparación, máximo sabor para antes de entrenar.'
 description: 'Alimente su bloque de entrenamiento con estas sencillas bolitas de proteína
-  de 5 minutos. Repletas de grasas saludables de la mantequilla de maní y carbohidratos
+  de 5 minutos. Repletas de grasas saludables de la crema de cacahuete y carbohidratos
   de digestión lenta de la avena, atrapan perfectamente la proteína en polvo sin necesidad
   de un horno.
 
@@ -38,7 +38,7 @@ tips:
 - 'Chill Out: Coloque el recipiente en el frigorífico durante 10 minutos antes de
   enrollarlo. Reafirma la mantequilla de nueces y detiene el desorden.'
 works:
-- 'La unión perfecta: La pegajosa mantequilla de maní actúa como pegamento, manteniendo
+- 'La unión perfecta: La pegajosa crema de cacahuete actúa como pegamento, manteniendo
   unidos la avena seca y el suero en polvo. Enfriarlos reafirma todo para que mantengan
   su forma sin necesidad de horno.'
 - 'Equilibrio macro: los carbohidratos complejos de avena combinados con grasas saludables
@@ -87,11 +87,11 @@ ingredients:
 - item: Banana
   type: hecho puré
   amount: 1
-- item: Manteca de cacahuete
+- item: Crema de cacahuete
   amount: 1
   unit: tbsp
 faq:
-- question: ¿Puedo usar otra mantequilla de nueces en lugar de mantequilla de maní?
+- question: ¿Puedo usar otra mantequilla de nueces en lugar de crema de cacahuete?
   answer: Absolutamente. La mantequilla de almendras, anacardos o semillas de girasol
     funciona perfectamente. Solo asegúrate de que gotee lo suficiente como para unir
     la avena.

@@ -8,6 +8,8 @@ export default defineContentConfig({
       schema: z.object({
         title: z.string().optional(),
         slug: z.string().optional(),
+        // Old slugs after a rename; redirects.config.ts 301s them to the current slug
+        previousSlugs: z.array(z.string()).default([]),
         // NOTE: `meta` is reserved by Nuxt Content v3 page collections, so the SEO
         // description lives in a top-level field.
         seoDescription: z.string().optional(),
@@ -84,6 +86,8 @@ export default defineContentConfig({
       schema: z.object({
         title: z.string().optional(),
         slug: z.string().optional(),
+        // Old slugs after a rename; redirects.config.ts 301s them to the current slug
+        previousSlugs: z.array(z.string()).default([]),
         seoDescription: z.string().optional(),
         date: z.string().optional(),
         updated: z.string().optional(),
