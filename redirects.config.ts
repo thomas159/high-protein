@@ -110,6 +110,16 @@ export function buildStaticRedirects(rootDir = dirname(fileURLToPath(import.meta
     '/kategorien': r(`/de/kategorien/${CATEGORY_SLUGS.de.allrecipes}`),
     '/de/collections': r('/de/sammlungen'),
     '/sammlungen': r('/de/sammlungen'),
+    // Section index stubs: these pages only meta-refresh, so give crawlers a real 301
+    '/recipes': r(`/categories/${CATEGORY_SLUGS.en.allrecipes}`),
+    '/es/recetas': r(`/es/categorias/${CATEGORY_SLUGS.es.allrecipes}`),
+    '/de/rezepte': r(`/de/kategorien/${CATEGORY_SLUGS.de.allrecipes}`),
+    '/categories': r(`/categories/${CATEGORY_SLUGS.en.allrecipes}`),
+    '/es/categorias': r(`/es/categorias/${CATEGORY_SLUGS.es.allrecipes}`),
+    '/de/kategorien': r(`/de/kategorien/${CATEGORY_SLUGS.de.allrecipes}`),
+    // i18n localises the sitemap module's /sitemap.xml route into indexable HTML pages
+    '/es/sitemap.xml': r('/sitemap_index.xml'),
+    '/de/sitemap.xml': r('/sitemap_index.xml'),
     // Top-level aliases
     '/high-protein': r(`/categories/${CATEGORY_SLUGS.en.highprotein}`),
     '/vegan': r(`/categories/${CATEGORY_SLUGS.en.vegan}`),
@@ -127,9 +137,13 @@ export function buildStaticRedirects(rootDir = dirname(fileURLToPath(import.meta
 // the prerender crawler explodes into junk paths like /es/de/rezepte/...
 export function buildVercelRedirectRoutes() {
   const escape = (s: string) => s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
-  return Object.entries(buildStaticRedirects()).map(([from, rule]) => ({
+  const routes = Object.entries(buildStaticRedirects()).map(([from, rule]) => ({
     src: `^${escape(from)}/?$`,
     status: rule.redirect.statusCode,
     headers: { Location: rule.redirect.to },
   }))
+  // Strip trailing slashes so /recipes/x/ is not served as a duplicate of /recipes/x
+  // (site config uses trailingSlash: false). Runs after the specific redirects above.
+  routes.push({ src: '^/(.+)/$', status: 301, headers: { Location: '/$1' } })
+  return routes
 }

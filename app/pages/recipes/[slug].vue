@@ -190,6 +190,7 @@ const getStepImage = (step: unknown): string | undefined => {
 useSchemaOrg([
   defineRecipe({
     name: recipe.value?.title,
+    inLanguage: locale.value === 'es' ? 'es-ES' : locale.value === 'de' ? 'de-DE' : 'en-GB',
     description: seoDescription,
     image: schemaImages,
     datePublished: publishedDate,
@@ -243,7 +244,7 @@ useSchemaOrg([
       const text = getStepText(step)
       const stepObj: Record<string, unknown> = {
         '@type': 'HowToStep',
-        name: `Step ${index + 1}`,
+        name: t('recipes.step', { index: index + 1 }),
         position: index + 1,
         text,
         url: `https://www.hotrecipes.co.uk${route.path}#step-${index + 1}`
