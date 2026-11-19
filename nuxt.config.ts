@@ -1,13 +1,19 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
-import { buildStaticRedirects } from './redirects.config'
+import { buildVercelRedirectRoutes } from './redirects.config'
 // import tailwindcss from "@tailwindcss/vite";
 
 export default defineNuxtConfig({
   sourcemap: false,
   compatibilityDate: '2024-11-01',
-  // Legacy/cross-language URL redirects. Must be routeRules (not server middleware)
-  // because Vercel serves this site as a static build.
-  routeRules: buildStaticRedirects(),
+  // Legacy/cross-language URL redirects, written straight into Vercel's routing
+  // config. Not server middleware (static deploy) and not routeRules (see redirects.config.ts).
+  nitro: {
+    vercel: {
+      config: {
+        routes: buildVercelRedirectRoutes(),
+      },
+    },
+  },
   devtools: { enabled: true },
 
   modules: [

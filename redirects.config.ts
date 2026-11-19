@@ -120,3 +120,16 @@ export function buildStaticRedirects(rootDir = dirname(fileURLToPath(import.meta
   })
   return rules
 }
+
+// Vercel Build Output API routes. These go straight into `.vercel/output/config.json`
+// via `nitro.vercel.config.routes`. They must NOT go into Nuxt `routeRules`: Nuxt turns
+// each routeRule into a router route, i18n then prefixes those with every locale, and
+// the prerender crawler explodes into junk paths like /es/de/rezepte/...
+export function buildVercelRedirectRoutes() {
+  const escape = (s: string) => s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
+  return Object.entries(buildStaticRedirects()).map(([from, rule]) => ({
+    src: `^${escape(from)}/?$`,
+    status: rule.redirect.statusCode,
+    headers: { Location: rule.redirect.to },
+  }))
+}
