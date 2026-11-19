@@ -1,0 +1,122 @@
+// Build-time redirects for legacy / cross-language URLs.
+//
+// The site is deployed to Vercel as a static build (`vercel-static` preset), so
+// `server/middleware/redirects.ts` never runs in production. These rules are fed
+// into Nitro `routeRules`, which the Vercel preset writes into
+// `.vercel/output/config.json` as real 301 routes.
+import { readdirSync, readFileSync } from 'node:fs'
+import { dirname, join } from 'node:path'
+import { fileURLToPath } from 'node:url'
+import { CATEGORY_SLUGS } from './app/utils/constants'
+
+type Lang = 'en' | 'es' | 'de'
+type Group = Partial<Record<Lang, string>>
+type RouteRules = Record<string, { redirect: { to: string, statusCode: 301 } }>
+
+const LANGS: Lang[] = ['en', 'es', 'de']
+
+const PREFIX = {
+  recipes: { en: '/recipes', es: '/es/recetas', de: '/de/rezepte' },
+  collections: { en: '/collections', es: '/es/colecciones', de: '/de/sammlungen' },
+  categories: { en: '/categories', es: '/es/categorias', de: '/de/kategorien' },
+} as const
+
+// Wrong-but-seen prefixes for each language (legacy English paths under a locale,
+// and translated paths without the locale prefix).
+const LEGACY_PREFIXES = {
+  recipes: { en: [], es: ['/es/recipes', '/recetas'], de: ['/de/recipes', '/rezepte'] },
+  collections: { en: [], es: ['/es/collections', '/colecciones'], de: ['/de/collections', '/sammlungen'] },
+  categories: { en: [], es: ['/es/categories', '/categorias'], de: ['/de/categories', '/kategorien'] },
+} as const
+
+function frontmatterField(src: string, field: string): string | undefined {
+  const m = src.match(new RegExp(`^${field}:\\s*['"]?(.+?)['"]?\\s*$`, 'm'))
+  return m?.[1]?.trim() || undefined
+}
+
+function loadGroups(dir: string): Group[] {
+  const groups = new Map<string, Group>()
+  for (const file of readdirSync(dir)) {
+    if (!file.endsWith('.md')) continue
+    const base = file.replace(/\.md$/, '')
+    const lang: Lang = base.endsWith('.es') ? 'es' : base.endsWith('.de') ? 'de' : 'en'
+    const src = readFileSync(join(dir, file), 'utf8')
+    const slug = frontmatterField(src, 'slug') || base.replace(/\.(es|de)$/, '')
+    const key = frontmatterField(src, 'image') || slug
+    const group = groups.get(key) || {}
+    group[lang] = slug
+    groups.set(key, group)
+  }
+  return [...groups.values()]
+}
+
+function canonical(kind: 'recipes' | 'collections', group: Group, lang: Lang): string | undefined {
+  const slug = group[lang]
+  if (slug) return `${PREFIX[kind][lang]}/${slug}`
+  if (group.en) return `${PREFIX[kind].en}/${group.en}`
+  return undefined
+}
+
+function add(rules: RouteRules, from: string, to: string | undefined) {
+  if (!to || from === to || rules[from]) return
+  rules[from] = { redirect: { to, statusCode: 301 } }
+}
+
+function contentRedirects(rules: RouteRules, kind: 'recipes' | 'collections', groups: Group[]) {
+  for (const group of groups) {
+    const slugs = [...new Set(Object.values(group))] as string[]
+    for (const lang of LANGS) {
+      const target = canonical(kind, group, lang)
+      const prefixes = [PREFIX[kind][lang], ...LEGACY_PREFIXES[kind][lang]]
+      for (const prefix of prefixes) {
+        for (const slug of slugs) add(rules, `${prefix}/${slug}`, target)
+      }
+    }
+  }
+}
+
+function categoryRedirects(rules: RouteRules) {
+  const keys = Object.keys(CATEGORY_SLUGS.en) as (keyof typeof CATEGORY_SLUGS.en)[]
+  for (const lang of LANGS) {
+    const prefixes = [PREFIX.categories[lang], ...LEGACY_PREFIXES.categories[lang]]
+    for (const key of keys) {
+      const target = `${PREFIX.categories[lang]}/${CATEGORY_SLUGS[lang][key]}`
+      const slugs = new Set(LANGS.map(l => CATEGORY_SLUGS[l][key]))
+      for (const prefix of prefixes) {
+        for (const slug of slugs) add(rules, `${prefix}/${slug}`, target)
+      }
+    }
+  }
+}
+
+export function buildStaticRedirects(rootDir = dirname(fileURLToPath(import.meta.url))): RouteRules {
+  const rules: RouteRules = {}
+  contentRedirects(rules, 'recipes', loadGroups(join(rootDir, 'content/recipes')))
+  contentRedirects(rules, 'collections', loadGroups(join(rootDir, 'content/collections')))
+  categoryRedirects(rules)
+
+  const r = (to: string) => ({ redirect: { to, statusCode: 301 as const } })
+  Object.assign(rules, {
+    // Section indexes
+    '/es/recipes': r('/es/categorias/todas-las-recetas'),
+    '/recetas': r('/es/categorias/todas-las-recetas'),
+    '/es/categories': r('/es/categorias/todas-las-recetas'),
+    '/categorias': r('/es/categorias/todas-las-recetas'),
+    '/es/collections': r('/es/colecciones'),
+    '/colecciones': r('/es/colecciones'),
+    '/de/recipes': r(`/de/kategorien/${CATEGORY_SLUGS.de.allrecipes}`),
+    '/rezepte': r(`/de/kategorien/${CATEGORY_SLUGS.de.allrecipes}`),
+    '/de/categories': r(`/de/kategorien/${CATEGORY_SLUGS.de.allrecipes}`),
+    '/kategorien': r(`/de/kategorien/${CATEGORY_SLUGS.de.allrecipes}`),
+    '/de/collections': r('/de/sammlungen'),
+    '/sammlungen': r('/de/sammlungen'),
+    // Top-level aliases
+    '/high-protein': r(`/categories/${CATEGORY_SLUGS.en.highprotein}`),
+    '/vegan': r(`/categories/${CATEGORY_SLUGS.en.vegan}`),
+    '/es/high-protein': r(`/es/categorias/${CATEGORY_SLUGS.es.highprotein}`),
+    '/es/vegan': r(`/es/categorias/${CATEGORY_SLUGS.es.vegan}`),
+    '/de/high-protein': r(`/de/kategorien/${CATEGORY_SLUGS.de.highprotein}`),
+    '/de/vegan': r(`/de/kategorien/${CATEGORY_SLUGS.de.vegan}`),
+  })
+  return rules
+}
